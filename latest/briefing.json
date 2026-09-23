@@ -1,32 +1,46 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "stories": [
     {
-      "title": "Celebrities at the Pentagon: How unusual was the Paul brothers\u2019 visit?",
-      "url": "https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss",
+      "title": "Sri Lanka convicts 15 people over 2019 Easter Day bombings",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth.",
-      "alsoReportedBy": []
+      "summary": "Fifteen people have been convicted over Sri Lanka\u2019s 2019 Easter Sunday bombings, which killed 279 people.",
+      "alsoReportedBy": [
+        "NPR",
+        "The Guardian"
+      ]
     },
     {
-      "title": "Questions remain after grand jury declines indictment in Nolan Wells' death",
-      "url": "https://www.npr.org/2026/09/22/nx-s1-5977673/questions-remain-after-grand-jury-declines-indictment-in-nolan-wells-death",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Black Mississippi teen's family questions whether his race contributed to his July 4th death on an island off the Mississippi coast.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US Republican calls for probe into Donald Trump Jr\u2019s business dealings",
-      "url": "https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss",
+      "title": "Pakistan\u2019s new drone deal is with Trump-backed firm also selling to India",
+      "url": "https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "US Senator John Curtis&#039;s letter marks a rare effort by a member of the president&#039;s own party to hold him accountable.",
+      "summary": "The company&#039;s cofounder is also an ex-Israeli soldier. Pakistan does not recognise Israel.",
       "alsoReportedBy": []
+    },
+    {
+      "title": "UK to step up fight against Russian disinformation and push global AI standards, PM says",
+      "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "alsoReportedBy": [
+        "Guardian World"
+      ]
     },
     {
       "title": "The United Nations General Assembly is meeting. Is it accomplishing anything?",
@@ -38,22 +52,15 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies \u2013 live",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
+      "title": "Gus Lamont\u2019s parents make emotional plea as $1m reward offered for information about disappearance",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/23/missing-boy-gus-lamont-parents-video-message-1m-reward-announced-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Trump threatens to \u2018annihilate\u2019 Iran and \u2018drive them into Hell\u2019 if there isn\u2019t a deal, while also underscoring US policy on Cuba, Mexico, Greenland and AI Sign up for US Breaking News emails Trump is arriving at the UN HQ right now. After very brief doorstep comments \u2013 almost exclusively mocking CNN - he answers a reporter\u2019s very loud question by saying his message to Putin is: \u201csettle the war.\u201d Continue reading...",
-      "alsoReportedBy": []
+      "summary": "No trace of Gus has been found since he went missing from his family\u2019s South Australian farm on 27 September last year The parents of missing four-year-old Gus Lamont have made an emotional plea for any information about their \u201cunique little boy\u201d as authorities offered a $1 million reward over the disappearance. No trace of Gus has been found since he went missing from his family\u2019s enormous sheep farm in the South Australian outback almost a year ago. Continue reading...",
+      "alsoReportedBy": [
+        "Guardian World"
+      ]
     },
     {
       "title": "GPT-6 Sol and Luna",
@@ -83,6 +90,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents. Think of it as an agentic show-and-tell: \u200bCompare notes with other builders and experimenters on things you\u2019re trying, what you're learning, and what you haven\u2019t figured out yet. We\u2019re especially interested in work you haven\u2019t discussed publicly, odd experiments, or unfinished projects that don\u2019t have an obvious market. \u200bExpect one flowing conversation with an informal show-and-tell. Sharing something you\u2019re working on is encouraged but no presentation is required. This isn't about product pitches, it's about much earlier explorations than that. This agentic AI stuff is weird! Let's celebrate and lean into that weirdness. Tags: events , ai , generative-ai , llms , coding-agents , jesse-vincent , agentic-engineering",
+      "alsoReportedBy": []
+    },
+    {
       "title": "\ud83d\udd2c An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
       "url": "https://www.latent.space/p/john-platt",
       "source": "Latent Space",
@@ -92,24 +108,15 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Quoting @therealcornpop",
-      "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+      "title": "llm 0.36",
+      "url": "https://simonwillison.net/2026/Sep/22/llm/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuation marks. and it sounds really deep, but it's not. It's the lack of anything . It's the lack of a definitive sort of spear of your voice. It's the fact I can tell you don't have opinions about the thing that you're talking about. \u2014 @therealcornpop , on TikTok Tags: tiktok , ai , ai-misuse",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "llm-typesafe 0.1a0",
-      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no \"noul\" questions like this: llm -m jev 'Please refund my last payment.' \\ -s 'Does this message explicitly request a refund?' Output: {\"type\": \"noul\", \"noul\": 0.99} Or choice questions like this: cat message.txt | llm -m jev \\ -s ' Which team should handle this message? If billing and technical issues both occur, choose billing. ' \\ -o answer_type choice \\ -o criteria ' { \"billing\":\"Charges, invoices, payments, or refunds\", \"technical\":\"Problems installing or using the product\", \"other\":\"Neither category fits\" } ' Or scoring questions like this: cat report.txt | llm -m jev \\ -s ' How reproducible is the problem described in this report? ' \\ -o answer_type score \\ -o criteria ' [ \"No reproduction instructions\", \"Some instructions, but important steps are missing\", \"Complete steps with expected and actual results\" ] ' See the README for more details. Tags: projects , llm , jev",
+      "summary": "Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna . #1702 Model plugins can now declare supports_conversation = False for models that only accept single-turn prompts. LLM raises llm.ConversationNotSupported when these models receive assistant or tool history, and llm chat rejects them before starting a session. See Models that do not support conversations . The first plugin to use this is llm-typesafe . #1692 Reasoning traces in the Markdown output of llm logs are now wrapped in <details><summary> tags. #1701 Plus bug fixes from five new contributors . Tags: openai , llm",
       "alsoReportedBy": []
     }
   ],
-  "durationSeconds": 229.7,
+  "durationSeconds": 209.5,
   "voice": "af_heart"
 }

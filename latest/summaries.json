@@ -1,21 +1,32 @@
 {
-  "generated": "2026-09-22T22:34:25.900017Z",
+  "generated": "2026-09-23T07:42:32.295001Z",
   "summaries": [
     {
-      "url": "https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss",
-      "summary": "Influencers Logan and Jake Paul visited the Pentagon, meeting with Defense Secretary Pete Hegseth and addressing troops.",
-      "points": ["The Paul brothers also met with US Treasury Secretary Scott Bessent during their visit.", "The visit occurred amid efforts to promote martial arts and physical fitness among service members.", "Celebrities have visited the Pentagon in previous administrations, including Milo Ventimiglia and Gerard Butler."],
-      "significance": "The Paul brothers' visit to the Pentagon follows a trend of celebrity engagements with military officials, aiming to promote martial arts and fitness among service members."
-    },
-    {
-      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "summary": "Morocco's parliamentary elections are influenced by youth unemployment, football, and anti-Israel sentiment.",
-      "points": ["60,000 people attempted to cross to Ceuta, highlighting economic struggles.", "Fouzi Lekjaa, football federation president, campaigns using football slogans.", "Justice and Development Party promises to end ties with Israel, citing normalization as a mistake."]
+      "url": "https://www.theguardian.com/australia-news/2026/sep/23/missing-boy-gus-lamont-parents-video-message-1m-reward-announced-ntwnfb",
+      "summary": "Parents of missing four-year-old Gus Lamont plead for information as a $1 million reward is offered.",
+      "points": ["Gus Lamont disappeared from his family’s farm in South Australia on September 27 last year.", "A $1 million reward has been offered for information leading to the discovery of Gus.", "Gus's parents made an emotional plea for any information about their son."],
+      "significance": "The emotional plea from Gus Lamont's parents and the substantial reward highlight the ongoing and intense efforts to locate the missing four-year-old."
     },
     {
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "summary": "New GPT-6 Sol and Luna models offer cost-efficient, advanced AI capabilities for various professional tasks.",
-      "points": ["GPT-6 Sol outperforms Claude Opus 5 at 9% of its cost per task in business workflows.", "GPT-6 Luna improves on its predecessor by 5.4 percentage points at 58% lower cost.", "GPT-6 Sol matches Claude Fable 5.1 at about 1% of its cost on factuality evaluations."]
+      "summary": "GPT-6 Sol and Luna offer cost-efficient, advanced AI capabilities for various professional tasks, improving on previous models in performance and cost.",
+      "points": ["GPT-6 Sol outperforms Claude Opus 5 at 9% of its cost per task in business workflows.", "GPT-6 Luna improves on its predecessor by 5.4 percentage points at 58% lower cost.", "GPT-6 Sol matches Claude Fable 5.1 at about 1% of its cost on factuality evaluations."],
+      "significance": "GPT-6 Sol and Luna make advanced AI more accessible and cost-efficient for everyday tasks and applications at scale."
+    },
+    {
+      "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+      "summary": "Plain-text files, once ubiquitous for versatile data storage and editing, are at risk due to declining usage and potential abandonment by their last major users, software developers.",
+      "points": ["Software developers, the last major users, are increasingly using LLM repls for text input and documentation.", "Smartphones lack plain-text editors, leading to a shift towards complex/proprietary formats via specialized apps.", "Maintenance of plain-text editors may cease if developers abandon them, risking their functionality on updated software stacks."]
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "summary": "An informal agentic engineering event is hosted in San Francisco on October 14th for sharing early-stage AI projects.",
+      "points": ["Event hosted by Jesse Vincent in San Francisco on October 14th", "Focus on sharing unfinished or unconventional AI projects", "Encourages early-stage explorations rather than product pitches"]
+    },
+    {
+      "url": "https://simonwillison.net/2026/Sep/22/llm/",
+      "summary": "OpenAI releases new models and updates plugin capabilities for single-turn prompts.",
+      "points": ["OpenAI introduces gpt-6-sol and gpt-6-luna models.", "Plugins can now specify supports_conversation = False for single-turn models.", "llm-typesafe is the first plugin to declare supports_conversation = False."]
     }
   ]
 }
