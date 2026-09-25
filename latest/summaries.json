@@ -1,6 +1,25 @@
 {
-  "generated": "2026-09-25T15:41:47.746914Z",
+  "generated": "2026-09-25T15:43:22.990015Z",
   "summaries": [
+    {
+      "summary": "Florida Republican introduces bill requiring warrants for federal agencies to use Flock Safety cameras.",
+      "significance": "The bill aims to protect privacy by requiring warrants for access to license plate reader data, responding to public concerns over surveillance.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/florida-warrants-flock-camera-greg-steube",
+      "points": [
+        "Bill introduced by Greg Steube requires warrants for federal agencies to access license plate reader data.",
+        "Flafo Act makes DOJ grants to local police conditional on adopting similar warrant rules.",
+        "Legislation comes amid nationwide backlash against surveillance company Flock Safety."
+      ]
+    },
+    {
+      "summary": "The article discusses the importance of first principles thinking in engineering and problem-solving.",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "points": [
+        "Senior engineers often get stuck due to past experiences and need to approach problems differently.",
+        "Thinking from first principles helps engineers understand the basics of what they are building and its impact.",
+        "Embracing uncertainty and setting aside past knowledge can lead to better problem-solving and innovation."
+      ]
+    },
     {
       "summary": "Reporters discuss election-related questions, including the status of the Save America Act and Super PAC spending on California's billionaire tax.",
       "significance": "The article highlights the influence of Super PACs in California's ballot measure race, particularly focusing on the extensive funding against Prop 40, a billionaire tax.",

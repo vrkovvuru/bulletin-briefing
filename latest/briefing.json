@@ -2,15 +2,6 @@
   "date": "2026-09-25",
   "stories": [
     {
-      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
       "title": "Daniel Thomas pleads not guilty after dinghy slashed",
       "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -26,6 +17,15 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Lebanon’s Prime Minister Nawaf Salam told the UN that his country will not be an ‘arena for the conflicts of others’.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
       "alsoReportedBy": []
     },
     {
@@ -47,13 +47,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "title": "Russell takes pole in Baku as Antonelli hits wall",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-      "alsoReportedBy": []
+      "summary": "George Russell takes pole position for Mercedes at the Azerbaijan Grand Prix as his team-mate and championship leader Kimi Antonelli crashes out.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "China swimmer makes Asian Games history as Thai sprinter wins track 100m",
@@ -65,13 +65,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "What to expect from Burnham's first Labour conference as PM",
-      "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "alsoReportedBy": []
     },
     {
       "title": "Trump told Xi Jinping that China helping Iran is ‘unacceptable’, official says – live",
@@ -101,12 +101,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Republican Florida congressman introduces bill requiring warrants for Flock Safety cameras",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/florida-warrants-flock-camera-greg-steube",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Greg Steube’s Flafo Act would require federal agencies to obtain warrants before accessing or sharing data from networked license plate readers A Florida Republican has introduced a bill that would bar US federal agencies from using Flock Safety’s licence plate cameras and similar systems without a warrant, amid a nationwide backlash against the surveillance company. Greg Steube’s Facilitating Liberty and Accountability for Flock Observations (Flafo) Act, introduced on Friday , would require a judicial warrant before federal agencies could buy, operate, access or share data with networked licence plate readers. It would also make US Department of Justice grants to local police conditional on their adopting similar rules. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "‘What does money from a Super PAC actually buy?’: our reporters are answering your election questions now",
       "url": "https://www.theguardian.com/community/live/2026/sep/24/reader-qa-ask-our-reporting-team-about-whos-spending-what-on-the-midterms",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Who are the groups backing candidates in the midterms – and why? In our second live discussion ahead of the elections, Joseph Gedeon, Dara Kerr and Chris Stein are live now Sign in or sign up to join the conversation NeilNaik asks: What aspects from the Save America act should we be concerned about, and how much of it is realistically going to be implemented for this November. Chris : The legislation you are referring to, which is now known as the Save America Act, has passed the House of Representatives but not the Senate and thus has not been enacted, so none of its provisions will be implemented in time for the 3 November midterms. However, Donald Trump and his administration have attempted to put in place some of the act’s restrictions on voting via executive order. These efforts have not gone too well for him. Trump’s attempt to impose new restrictions on mail-in voting, for instance, was halted by the supreme court. Dara: The billionaire tax is looking to be the most expensive ballot measure race in California history, which is saying something since we saw Uber and Lyft spend more than $200m to defeat a ballot measure for workers in 2000. For Prop 40, tech-backed Super Pacs are spending hand-over-fist to defeat the measure. The biggest spending Super Pac is called Building a Better California and has seen donations from several Silicon Valley venture capitalists and tech royalty, including Google co-founder Sergey Brin and former Google CEO Eric Schmidt. (Also, weirdly, Kim DeGeorge, the wife of the wealthy owner of the Alo yoga clothing brand, has been a regular donor). Since the Super Pac launched in February, it’s raised $229m. Just for background, Prop 40 would put a one-time 5% tax on all billionaires living in the state. The proceeds would go to mostly fund healthcare programs, along with some education and food assistance programs. Continue reading...",
+      "summary": "Who are the groups backing candidates in the midterms – and why? In our second live discussion ahead of the elections, Joseph Gedeon, Dara Kerr and Chris Stein are live now Sign in or sign up to join the conversation Sam_Jenks asks: The Republicans are better placed to take advantage of the supreme sourt ruling on spending in terms of the final advertising blitz, apparently outspending the Democrats by over $200 million. Is that enough to overcome factors like Trump’s low approval rating? Can a party who are clearly less popular than the opposition just brute force their way to victory if the spending deficit is large enough? Chris: That’s the big question of these midterms, and one that can’t be answered definitively before we know the results. But here’s what I can say now: While some Democratic candidates are beating their opponents in fundraising at the candidate level, Republicans overall are expected to outspend Democrats in the cycle, when factoring in outside groups like Super Pacs. That doesn’t necessarily mean they’ll preserve their majorities in the Senate and House of Representatives — Kamala Harris outspent Donald Trump in 2024, and lost anyway. But the headwinds facing Republicans are really formidable, from Trump’s terrible approval ratings, to Democratic candidates’ strong performances in special election and primary turnout, to the price increases for gas and other staples caused by the Iran war. This piece I wrote this week goes deeper into those dynamics. Chris : The legislation you are referring to, which is now known as the Save America Act, has passed the House of Representatives but not the Senate and thus has not been enacted, so none of its provisions will be implemented in time for the 3 November midterms. However, Donald Trump and his administration have attempted to put in place some of the act’s restrictions on voting via executive order. These efforts have not gone too well for him. Trump’s attempt to impose new restrictions on mail-in voting, for instance, was halted by the supreme court. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -116,15 +125,6 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been notably active in recent months. On 22 September, a measurement of 892 millibars was registered for Hurricane Polo, making it the second-most intense hurricane on record in the east Pacific. It is fuelled by exceptionally warm waters across the Pacific Ocean, providing favourable conditions for the system to maintain its considerable strength. Polo is expected to turn towards the west-north-west, before taking a more north-westerly trajectory on Saturday. It has maximum sustained winds of around 150mph, with even stronger gusts occurring within the most intense parts of the hurricane. Hurricane-force winds extend outward for approximately 40 miles from the centre, while tropical storm-force winds reach as far as 125 miles. These powerful winds, combined with torrential rainfall and dangerous seas, could have significant impacts. Although some fluctuations in intensity are possible over the coming days, Polo is expected to remain powerful as it tracks north-westwards. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Couple jailed for life for abusing and murdering a vulnerable man in their care",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/couple-jailed-for-life-for-abusing-and-murdering-a-vulnerable-man-in-their-care",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Kenneth Newton and Melanie James had filmed themselves mocking Rubin Blount, who was left to lie in his own urine and weighed 40kg when he died A couple convicted of murder after inflicting “deliberate cruelty” on a vulnerable 28-year-old man in their care, who weighed just 40kg (6st 4lb) at the time of his death, have been jailed for life. Rubin Blount was made to stand for long periods of time, left to lie in his own urine and forced to eat out of bins by his stepbrother Kenneth Newton and Newton’s partner, Melanie James, at an address in Tamworth, Staffordshire, Stafford crown court heard. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -155,6 +155,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Couple jailed for life for abusing and murdering a vulnerable man in their care",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/25/couple-jailed-for-life-for-abusing-and-murdering-a-vulnerable-man-in-their-care",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Kenneth Newton and Melanie James had filmed themselves mocking Rubin Blount, who was left to lie in his own urine and weighed 40kg when he died A couple convicted of murder after inflicting “deliberate cruelty” on a vulnerable 28-year-old man in their care, who at the time of his death weighed just 40kg (6st 4lb), have been jailed for life. Rubin Blount was made to stand for long periods of time, left to lie in his own urine and forced to eat out of bins by his stepbrother Kenneth Newton and Newton’s partner, Melanie James, at a property in Tamworth, Staffordshire, Stafford crown court heard. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
       "url": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
       "source": "Guardian World",
@@ -173,17 +182,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Pope Leo warns against AI and says technology ‘must remain at service of humans’ during first visit to France – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The pope gives landmark speech on AI development and Europe’s future Later today, Pope Leo will go to the Élysée Palace for (another) formal welcome and a meeting with authorities, civil society and the diplomatic corps, before visiting Unesco and delivering a speech on AI in mid-afternoon. He is then expected to go on a stroll through the streets of Paris, before going to the restored Notre Dame Cathedral. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Allow Carriers on Planes",
-      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "title": "Platform-Independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,18 +200,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "LLM Policies: Progress At All Costs",
-      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
-      "source": "Lobsters",
+      "title": "Allow Carriers on Planes",
+      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Platform-Independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
-      "source": "Hacker News",
+      "title": "Goodbye Google",
+      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -227,18 +227,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "url": "https://github.com/git-bug/git-bug",
-      "source": "Hacker News",
+      "title": "LLM Policies: Progress At All Costs",
+      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Goodbye Google",
-      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-      "source": "Lobsters",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
