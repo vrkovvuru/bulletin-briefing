@@ -2,6 +2,24 @@
   "date": "2026-09-25",
   "stories": [
     {
+      "title": "Supreme Court blocks Trump-backed Missouri congressional map",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary elections.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
       "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
       "source": "NPR",
@@ -9,6 +27,33 @@
       "categoryLabel": "Top Stories",
       "summary": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
       "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+      "url": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Kylian Mbappe scores the only goal of France&#039;s win in Turkiye, but Real Madrid striker immediately forced off by injury.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Asked about the Iranian offer, a US official said discussions were taking place through mediators.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "What would a US diesel export ban mean for global fuel prices?",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.",
+      "alsoReportedBy": []
     },
     {
       "title": "Man City found guilty of majority of 115 financial rule breaches",
@@ -20,48 +65,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Which countries walked out of Netanyahu’s UNGA speech?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/which-countries-walked-out-of-netanyahus-unga-speech?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Which countries walked out of Netanyahu’s UNGA speech?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Dozens of countries’ delegations walked out of or were absent for Israeli PM Benjamin Netanyahu’s UNGA speech.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The visit comes at an important time for both men.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Pakistan PM, a signatory to the Mecca Joint Defence Agreement, condemned Houthi attacks on Saudi Arabia at UNGA 81.",
+      "summary": "The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn't recorded a single full-blown hurricane. Scientists point to an exceptionally strong El Niño.",
       "alsoReportedBy": []
     },
     {
@@ -74,93 +83,39 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "I'm not tempted to call an early election, Burnham says",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Birdwatching is close to rapture’: Margaret Atwood on why she has given C$1m to avian research",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/25/margaret-atwood-birds-conservation-optimistic-future",
+      "title": "Trump and Chinese president Xi end summit without major agreement on AI",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Award-winning novelist celebrates late partner’s love of birds with gift to establish the Graeme Gibson chair in avian biology If she could be any bird, Margaret Atwood would transform into a raven. “They’re very smart. They’re social, playful and just a very successful bird,” she says while seated in a corner of a bird observatory in the Lake Erie Islands archipelago. “They’re quite an intelligent problem solver.” The observatory, which she set up with her late partner, Graeme Gibson, is located on the west shore of Pelee Island – the southernmost community in Canada – and is so new that there are no lightbulbs in a handful of lamps. Continue reading...",
+      "summary": "Xi’s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to pause their respective countries’ AI arms race Donald Trump and Chinese president Xi Jinping wrapped up their Washington summit on Friday, facing criticism that they had squandered an opportunity to pause their countries’ artificial intelligence (AI) arms race. The three-day state visit emphasised pageantry and personal rapport rather than substantial agreements. The US president and Xi discussed the wars in Iran and Ukraine and the status of Taiwan. Their biggest policy announcement was a modest two-month extension of a trade truce. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "New Jersey lieutenant governor resigns after sexual harassment accusation",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell",
+      "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Investigation determined Dale Caldwell violated state ethics rules and engaged in harassing behavior Dale Caldwell, the lieutenant governor of New Jersey, resigned from his position on Friday, after the release of a report accusing him of sexually harassing a female staffer, among other ethics violations. New Jersey’s governor, Mikie Sherrill, announced on Friday afternoon that Caldwell had submitted his resignation to her earlier in the day. Continue reading...",
+      "summary": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada The CEO of a Michigan credit union is no longer employed there, according to the organization, after she posted on social media what appeared to be an AI-generated image of her and her family wearing sweaters emblazoned with the Donald Trump-associated words “ Lake America ”. In the statement recently announcing that Jane Smith would no longer be its CEO, Family First Credit Union also apologized “for the concern, disappointment and pain this situation has caused”. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Idaho cold case may be tied to unsolved 1982 Tylenol murders, authorities say",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/idaho-cold-case-1982-tylenol-murders",
+      "title": "Ex-American Idol contestant told lover he dreamed of killing wife, murder trial hears",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/american-idol-contestant-accused-of-told-lover",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Idaho officials say man found dead in a church decades ago may be tied to unsolved poisonings in Chicago area in 1982 A man found dead in an Idaho church decades ago may be connected to unsolved poisonings in 1982 in the Chicago area that were dubbed the “ Tylenol murders ” and ushered in child safety caps for medicines, authorities announced recently. Detective Tim Cooper of the Ada county sheriff’s Office reopened a cold case investigation in 2019 that led authorities to identify Dr Mathew Francis Betkouski posthumously. Betkouski fatally poisoned himself with cyanide more than 40 years ago and was buried anonymously. Continue reading...",
+      "summary": "Alleigha Botner tells court Caleb Flynn, charged with murder of wife Ashley Flynn, sent her AI love songs The Ohio former pastor and American Idol contestant accused of fatally shooting his wife fantasized to his then lover about killing his spouse and sent her AI-generated love songs, according to evidence presented at trial this week. Caleb Flynn, 40, is on trial for aggravated murder in connection with the 16 February shooting death of Ashley Flynn. He also is charged with two counts of felonious assault and three counts of tampering with evidence, according to a March indictment. Flynn has pleaded not guilty to the charges. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "In latest blow to Obamacare, Trump is threatening the entire US health system",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-aca-health-insurance",
+      "title": "Nearly 200 people wrongly identified on Nevada’s voter rolls as non-citizens",
+      "url": "https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The Trump administration is removing 760,000 people enrolled in the Affordable Care Act marketplace Reader Q&A: who’s spending big on the US midterms? Our reporters take your questions The Trump administration is removing 760,000 people enrolled in the Affordable Care Act (ACA) marketplace on allegations of fraud, officials said on Tuesday – adding to previous efforts to chip away at federally subsidized insurance programs and likely causing some of the lowest-income Americans to forego healthcare, experts said. The US government is also investigating about 420,000 people whom they suspect of fraud, and they are putting a six-month enrollment moratorium on new agents and brokers selling Obamacare policies, officials said at a press conference. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5979917/former-u-s-ambassador-to-china-on-xi-jinpings-visit-to-washington",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to China Nicholas Burns about Chinese President Xi Jinping's visit to Washington and what has been accomplished.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Overcrowding and racism at Manston asylum centre linked to government decisions, inquiry hears",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/failures-at-manston-asylum-centre-linked-to-decisions-at-number-10-inquiry-hears",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Kent facility became dangerously overburdened after ministers halted transfers to hotels A catalogue of failures including racism, use of force and chronic overcrowding at a Home Office processing site for people who arrive on small boat were linked to decisions made at the highest level of government, an independent inquiry has heard. The government commissioned the Manston independent inquiry to look at problems under the Conservative government between 1 June and 22 November 2022 at the facility in Kent. Continue reading...",
+      "summary": "State election officials said they reviewed 185 records homeland security sent them and confirmed they were US citizens The Department of Homeland Security (DHS) wrongly identified 185 people on Nevada’s voter rolls as non-citizens, state officials said this week, escalating concerns over the shoddy methodology the government is using to raise fear about non-citizen voting ahead of the midterm elections. In July, Donald Trump gave a speech saying DHS had found a combined 278,000 non-citizens on the rolls in Nevada, California, Pennsylvania and New Jersey. Follow-up letters to each of those states weakened the claim, saying there only could be as many as 278,000 non-citizens on the rolls, including up to 15,903 in Nevada. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -173,12 +128,57 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Partner of woman killed by US hunter who allegedly mistook her for deer says death ‘no accident’",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/delaware-woman-killed-hunter",
+      "title": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979917/former-u-s-ambassador-to-china-on-xi-jinpings-visit-to-washington",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to China Nicholas Burns about Chinese President Xi Jinping's visit to Washington and what has been accomplished.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "New Jersey lieutenant governor resigns after sexual harassment accusation",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Walter Moorhead, arrested on suspicion of manslaughter, murdered Santos Maria Chilel Soto, partner alleges The partner of a Delaware woman who was shot dead by a hunter allegedly mistaking her for a deer has said the killing was “senseless” and the hunter had “no excuse”. “I have never seen a deer with only two legs,” Minivaldo Velásquez told the Delaware public news outlet WHYY in an interview published on Thursday about the death six days earlier of Santos Maria Chilel Soto. “It doesn’t make sense – no.” Continue reading...",
+      "summary": "Investigation determined Dale Caldwell violated state ethics rules and engaged in harassing behavior Dale Caldwell, the lieutenant governor of New Jersey, resigned from his position on Friday, after the release of a report accusing him of sexually harassing a female staffer, among other ethics violations. New Jersey’s governor, Mikie Sherrill, announced on Friday afternoon that Caldwell had submitted his resignation to her earlier in the day. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
+      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Middle East crises draw major focus as the U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the struggling London Stock Exchange . Airtel Money, the mobile money arm of Airtel Africa, is planning one of the biggest UK listings in years, in a boost for the shrinking London market that has faced a string of recent departures . Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -188,21 +188,12 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": []
+      "alsoReportedBy": ["Lobsters", "Hacker News"]
     },
     {
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
       "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-      "url": "https://greasyfork.org/en/scripts?by=1646191",
-      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -227,18 +218,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "source": "Hacker News",
+      "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+      "url": "https://greasyfork.org/en/scripts?by=1646191",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "LLM Policies: Progress At All Costs",
-      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
-      "source": "Lobsters",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,8 +254,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Amiga screens: a primer",
-      "url": "https://www.datagubbe.se/amscr/",
+      "title": "Excel now supports multiple values in a single cell",
+      "url": "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Commodified Intelligence",
+      "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
