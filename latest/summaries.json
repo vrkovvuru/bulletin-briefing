@@ -1,6 +1,90 @@
 {
-  "generated": "2026-09-25T16:41:40.307266Z",
+  "generated": "2026-09-25T18:42:22.183288Z",
   "summaries": [
+    {
+      "summary": "Margaret Atwood donates C$1m to establish a chair in avian biology in memory of her late partner, Graeme Gibson.",
+      "significance": "Atwood's $1m donation establishes a chair in avian biology, honoring her late partner's passion for birds and advancing avian research.",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/25/margaret-atwood-birds-conservation-optimistic-future",
+      "points": [
+        "Atwood would choose to be a raven if she could transform into any bird.",
+        "The donation is to establish the Graeme Gibson chair in avian biology.",
+        "The bird observatory is located on Pelee Island, Canada's southernmost community."
+      ]
+    },
+    {
+      "summary": "Alberta's rat-free status, maintained for over seven decades, is threatened by the discovery of a dead rat in Bowden.",
+      "significance": "Discovery challenges Alberta's long-held status as rat-free, potentially impacting local ecosystems and agriculture.",
+      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "points": [
+        "Town of Bowden found a dead rat, breaking Alberta's rat-free streak.",
+        "Alberta has been rat-free for over 70 years, similar to Antarctica.",
+        "Province's \"rat patrol\" was called to investigate the discovery."
+      ]
+    },
+    {
+      "summary": "An inquiry links Manston asylum centre's failures to decisions made at Number 10.",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/25/failures-at-manston-asylum-centre-linked-to-decisions-at-number-10-inquiry-hears",
+      "points": [
+        "KC states Number 10 played a role in pausing transfers to hotels.",
+        "Issues at Manston included racism, use of force, and overcrowding.",
+        "Inquiry covers problems from 1 June to 22 November 2022."
+      ]
+    },
+    {
+      "summary": "Partner of woman killed by US hunter who allegedly mistook her for a deer says the death was \"senseless\".",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/delaware-woman-killed-hunter",
+      "points": [
+        "Minivaldo Velásquez stated the killing was \"senseless\" and \"no accident\".",
+        "Walter Moorhead arrested on suspicion of manslaughter for shooting Santos Maria Chilel Soto.",
+        "Velásquez questioned the claim, noting \"I have never seen a deer with only two legs\"."
+      ]
+    },
+    {
+      "summary": "Hurricane Nolo threatens catastrophic flooding in Hawaii, impacting communities still recovering from earlier storms.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/hurricane-nolo-hawaii",
+      "points": [
+        "Forecast predicts up to 25 inches of rainfall.",
+        "Hawaii activated over 230 National Guard members.",
+        "Schools were closed ahead of the storm's impact."
+      ]
+    },
+    {
+      "summary": "UK government pledges £210m to transform empty high street buildings into community spaces.",
+      "url": "https://www.theguardian.com/business/2026/sep/25/burnham-pledges-extra-210m-regenerate-high-streets",
+      "points": [
+        "£210m allocated for regeneration of high streets.",
+        "Empty shops, pubs, and clubs to become community hubs, workspaces, and cafes.",
+        "Andy Burnham aims to empower locals to improve their areas."
+      ]
+    },
+    {
+      "summary": "AI model Claude successfully computed N=4 super Yang-Mills to nine loops, surpassing expectations in theoretical physics.",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "points": [
+        "Matt von Hippel, a former theoretical physicist, challenged AI companies to solve a complex physics problem.",
+        "The problem involved calculating N=4 super Yang-Mills to nine loops, a task previously deemed computationally infeasible.",
+        "Anthropic's AI model Claude completed the calculation, demonstrating advanced computational capabilities in theoretical physics."
+      ]
+    },
+    {
+      "summary": "The article explains the concept of Amiga screens, detailing their resolutions, color depths, and unique features.",
+      "url": "https://www.datagubbe.se/amscr/",
+      "points": [
+        "Amiga screens can have different resolutions and color depths, with OCS hardware supporting up to 32 colors.",
+        "The Amiga uses bitplanes for graphics, with up to 5 bitplanes on original hardware, allowing for 32 colors.",
+        "Screens can be repositioned and scrolled instantly, and multiple screens with different resolutions can be displayed simultaneously."
+      ]
+    },
+    {
+      "summary": "John Gruber discusses the potential dangers of Muse, an advanced AI system by Meta, despite its user-friendly appearance.",
+      "significance": "John Gruber warns that while Muse is user-friendly and technologically advanced, consumers may not grasp its potential risks, despite its obvious capabilities.",
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "points": [
+        "Muse offers users a personal Linux VM in Meta\u2019s cloud, marking a technical breakthrough.",
+        "Gruber warns consumers may not fully grasp the power and risks associated with Muse.",
+        "Muse is described as the first consumer-accessible agentic AI system, presented with a cute mascot."
+      ]
+    },
     {
       "summary": "Trump conveyed to Xi Jinping that China's support for Iran is unacceptable, amid Xi's state visit featuring a tour of US founding documents.",
       "url": "https://www.theguardian.com/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live",

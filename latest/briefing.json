@@ -2,15 +2,6 @@
   "date": "2026-09-25",
   "stories": [
     {
-      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
       "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
       "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
       "source": "NPR",
@@ -18,6 +9,15 @@
       "categoryLabel": "Top Stories",
       "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
       "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "India’s Cockroach movement joins opposition push to oust election chief",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign.",
+      "alsoReportedBy": ["Al Jazeera"]
     },
     {
       "title": "Daniel Thomas pleads not guilty after dinghy slashed",
@@ -29,12 +29,21 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Ethiopia’s new rebel alliance faces an old problem",
-      "url": "https://www.aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem?traffic_source=rss",
+      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Former enemies have united against Abiy Ahmed, but disputes over territory, power and command could pull them apart.",
+      "summary": "Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
+      "url": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting.",
       "alsoReportedBy": []
     },
     {
@@ -47,13 +56,22 @@
       "alsoReportedBy": []
     },
     {
-      "title": "More than 55,000 Sudanese refugees flee to Chad as UN calls for funding",
-      "url": "https://www.aljazeera.com/news/2026/9/25/more-than-55000-sudanese-refugees-flee-to-chad-as-un-calls-for-funding?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "UN refugee agency says 400 people a day, about 20 times the previous daily rate, now cross from Sudan into eastern Chad.",
+      "summary": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
       "alsoReportedBy": []
+    },
+    {
+      "title": "Palmer misses too many opportunities to play for England - Tuchel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Thomas Tuchel has said that Cole Palmer \"misses too many opportunities\" to play for England after the Chelsea forward pulled out of the latest squad.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
@@ -65,30 +83,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
-      "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "What the Trump-Xi meeting revealed about global power",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/what-the-trump-xi-meeting-revealed-about-global-power?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Donald Trump and Xi Jinping met in Washington as world leaders gathered at the UN General Assembly in New York.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump told Xi Jinping that China helping Iran is ‘unacceptable’, official says – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live",
+      "title": "‘Birdwatching is close to rapture’: Margaret Atwood on why she has given C$1m to avian research",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/25/margaret-atwood-birds-conservation-optimistic-future",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Xi is expected to depart DC after touring the nation’s vault of records, where the Declaration of Independence, the Constitution and the Bill of Rights are held Sign up for US Breaking News emails Xi Jinping and his wife are back at the White House for the final day of the Chinese president’s pageantry-filled visit to Washington, where President Trump has given him an unexpectedly warm welcome. The itinerary for the final day of Xi’s visit – which included a red carpet welcome on the tarmac on Wednesday, then a full day of talks followed by a lavish state dinner on Thursday – included an appointment for tea at the White House, followed by a tour of the National Archives, where the nation’s founding documents are on display. Continue reading...",
+      "summary": "Award-winning novelist celebrates late partner’s love of birds with gift to establish the Graeme Gibson chair in avian biology If she could be any bird, Margaret Atwood would transform into a raven. “They’re very smart. They’re social, playful and just a very successful bird,” she says while seated in a corner of a bird observatory in the Lake Erie Islands archipelago. “They’re quite an intelligent problem solver.” The observatory, which she set up with her late partner, Graeme Gibson, is located on the west shore of Pelee Island – the southernmost community in Canada – and is so new that there are no lightbulbs in a handful of lamps. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
+      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Province’s rat patrol called in to investigate as town of Bowden announces discovery of dead vermin For more than seven decades, residents of Alberta have shared something in common with Antarctica and the high Arctic: all locations are officially free of rats. But on Thursday the Canadian province’s reputation as a firewall against rodent infestation took a hit when the town of Bowden announced the discovery of a dead rat and called on the province’s “rat patrol” to investigate. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Failures at Manston asylum centre linked to decisions at Number 10, inquiry hears",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/25/failures-at-manston-asylum-centre-linked-to-decisions-at-number-10-inquiry-hears",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "KC says Number 10 ‘clearly did play a decisionmaking role’ in pausing sending small boat arrivals on to hotels which led to terrible overcrowding A catalogue of failures including racism, use of force and chronic overcrowding at a Home Office processing site for small boat arrivals were linked to decisions made at the highest level of government, an independent inquiry heard on Friday. The Manston independent inquiry was commissioned by the current government to look at multiple problems under the previous government between 1 June and 22 November 2022 at the facility in Kent, where small boat arrivals are processed. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,21 +119,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ketanji Brown Jackson criticizes supreme court’s handling of emergency docket",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/ketanji-brown-jackson-supreme-court-emergency-docket",
-      "source": "Guardian World",
+      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The justice called out her colleagues in a speech she made at the UDC school of law, hours after Trump filed his latest request US supreme court justice Ketanji Brown Jackson acknowledged serious concerns about her colleagues’ handling of emergency requests, the method Donald Trump often uses to seek approval from the court. Jackson, one of the three liberal members of the supreme court, criticized the justices’ willingness to issue rulings via the “shadow docket”, saying it undermines the public’s faith in the judicial system. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘These efforts have not gone too well’: your questions on how money will influence midterm elections answered",
-      "url": "https://www.theguardian.com/community/live/2026/sep/24/reader-qa-ask-our-reporting-team-about-whos-spending-what-on-the-midterms",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Who are the groups backing candidates in the midterms – and why? Joseph Gedeon, Dara Kerr and Chris Stein answered your questions Sign up to The Stakes newsletter: your weekly guide to the US midterms Nola67 asks Alex Vindman had $16 million fundraised during his losing campaign against Angie Nixon [to be the Democrat’s Senate nominee in Florida]. Will he be giving that money to Nixon now, and is she getting more funding help from the national Democratic Party? Joseph: Our understanding is that he’s using his sizeable war chest to boost Democrats across the country, and to the Florida Democratic state party, though not Nixon herself. He announced back in August that he’d be sending $250k to the Democratic Senatorial Campaign committee and candidates like Abdul El Sayed in Michigan, Troy Jackson in Maine, Roy Cooper in North Carolina, Sherrod Brown in Ohio, Charles Booker in Kentucky, and more. In Florida, he says he invested $400k to the state democratic party, though not directly to Nixon herself. It seems like the Senate Majority PAC, led by Chuck Schumer and meant to boost Democrats to the Senate, are steering clear of Nixon’s campaign – it seems they don’t find that one winnable, and don’t want to put the investment into it. Dara: Theoretically AI could be used for recovering debt for investors for the government, but given the mistakes and bias the technology still has it would likely need human oversight for this work. It’s more feasible that AI will be used as a tool to help identify trends and organize material, but then people would have to direct this work and keep tabs on the technology to ensure all rules and regulations are being followed. Continue reading...",
+      "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
       "alsoReportedBy": []
     },
     {
@@ -128,62 +137,53 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
+      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
+      "summary": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
       "alsoReportedBy": []
     },
     {
-      "title": "White House television pool resumes after banned news outlets regain access",
-      "url": "https://www.theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool",
+      "title": "Partner of woman killed by US hunter who allegedly mistook her for deer says death ‘no accident’",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/delaware-woman-killed-hunter",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Trump’s media ban resulted in an effective TV blackout of coverage of the president during the UN general assembly The primary White House television pool has resumed filming administration events after a court ruling temporarily overturned a Trump administration ban on CNN a day earlier. In an unprecedented move, the pool – which also includes NBC, ABC, CBS and Fox News – ceased recording and transmitting White House footage on Monday, in solidarity with CNN, MS Now and Politico, which had been banned by Trump from the building over what he said was “their constant ‘reporting’ FAKE NEWS.” Continue reading...",
+      "summary": "Walter Moorhead, arrested on suspicion of manslaughter, murdered Santos Maria Chilel Soto, partner alleges The partner of a Delaware woman who was shot dead by a hunter allegedly mistaking her for a deer has said the killing was “senseless” and the hunter had “no excuse”. “I have never seen a deer with only two legs,” Minivaldo Velásquez told the Delaware public news outlet WHYY in an interview published on Thursday about the death six days earlier of Santos Maria Chilel Soto. “It doesn’t make sense – no.” Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "No snap election before 2029, Andy Burnham says",
+      "title": "Hurricane Nolo predicted to bring ‘life-threatening flooding’ to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/hurricane-nolo-hawaii",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Forecasters say storm will cause heavy rains and large waves along the coast, near communities still recovering from extreme weather Hurricane Nolo is expected to bring potentially life-threatening and catastrophic flooding to Hawaii on Friday, affecting communities that are still recovering from devastating storms earlier this summer. The state activated more than 230 Hawaii national guard members and closed schools ahead of the storm. Nolo is expected to move west on Saturday and not directly hit the islands, but forecasters say it will still cause heavy rainfall, as much as 25in, as well as large and damaging waves along the coast. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Burnham pledges extra £210m towards regenerating boarded-up high streets",
+      "url": "https://www.theguardian.com/business/2026/sep/25/burnham-pledges-extra-210m-regenerate-high-streets",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Funds to help local people turn empty shops, pubs and clubs into community hubs, shared workspaces and cafes The UK government has pledged £210m to regenerate high streets by taking boarded-up shops, pubs and clubs and turning them into shared workspaces, cafes and community hubs. Andy Burnham said the funds would “help put power back into the hands of locals who know their area best” as part of his effort to “restore pride and bring hope back”. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "No general election before 2029, Andy Burnham says",
       "url": "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Prime minister quashes speculation that Labour’s revival in the polls could prompt early contest • Politics live – latest updates Andy Burnham has said he will not call a snap general election before 2029, after days of speculation that Labour’s revival in the polls could tempt him to call an early contest. The prime minister was repeatedly questioned on the prospect during a round of broadcast interviews to regional media on Friday. Continue reading...",
+      "summary": "Prime minister quashes speculation that Labour’s revival in the polls could prompt early contest Andy Burnham has said he will not call a general election before 2029, after days of speculation that Labour’s revival in the polls could tempt him to call an early contest. The prime minister was repeatedly questioned on the prospect during a round of broadcast interviews to regional media on Friday. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "US supreme court lifts restrictions on controversial voter database",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-trump-citizen-voter-database",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Trump and officials claimed it combats voting by noncitizens but critics said it could disenfranchise eligible voters The US supreme court has lifted restrictions on a controversial federal database of voters as Donald Trump seeks to impose tougher restrictions on voting ahead of November’s midterm elections. While the president and his officials have claimed the expanded database aims to combat voting by noncitizens, critics contend it could disenfranchise eligible voters. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
-      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been notably active in recent months. On 22 September, a measurement of 892 millibars was registered for Hurricane Polo, making it the second-most intense hurricane on record in the east Pacific. It is fuelled by exceptionally warm waters across the Pacific Ocean, providing favourable conditions for the system to maintain its considerable strength. Polo is expected to turn towards the west-north-west, before taking a more north-westerly trajectory on Saturday. It has maximum sustained winds of around 150mph, with even stronger gusts occurring within the most intense parts of the hurricane. Hurricane-force winds extend outward for approximately 40 miles from the centre, while tropical storm-force winds reach as far as 125 miles. These powerful winds, combined with torrential rainfall and dangerous seas, could have significant impacts. Although some fluctuations in intensity are possible over the coming days, Polo is expected to remain powerful as it tracks north-westwards. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Republican Florida congressman introduces bill requiring warrants for Flock Safety cameras",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/florida-warrants-flock-camera-greg-steube",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Greg Steube’s Flafo Act would require federal agencies to obtain warrants before accessing or sharing data from networked license plate readers A Florida Republican has introduced a bill that would bar US federal agencies from using Flock Safety’s licence plate cameras and similar systems without a warrant, amid a nationwide backlash against the surveillance company. Greg Steube’s Facilitating Liberty and Accountability for Flock Observations (Flafo) Act, introduced on Friday , would require a judicial warrant before federal agencies could buy, operate, access or share data with networked licence plate readers. It would also make US Department of Justice grants to local police conditional on their adopting similar rules. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "title": "Platform-Independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,8 +200,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Platform-Independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Yes, Claude can do Nine Loops",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -236,15 +245,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "url": "https://github.com/git-bug/git-bug",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Design Engineering with Maggie Appleton",
       "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
       "source": "Pragmatic Engineer",
@@ -263,12 +263,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "First Principles Thinking",
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "source": "Hacker News",
+      "title": "Amiga screens: a primer",
+      "url": "https://www.datagubbe.se/amscr/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mascot . It’s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it’s a genuinely open question whether consumers have any understanding what this means. If you buy a power saw that can cut your fingers off, you are almost certainly aware that you are buying a power saw that can sever your fingers. [...] I don’t think people realize how powerful — and thus dangerous — Muse is, especially if it’s running on your Mac. — John Gruber , Muse Looks Cute, but Looks are Deceiving Tags: meta , ai , llms , general-agents , generative-ai , john-gruber , muse-agent , muse",
       "alsoReportedBy": []
     },
     {
@@ -308,15 +317,6 @@
       "alsoReportedBy": ["Simon Willison"]
     },
     {
-      "title": "commit-rewriter 0.2",
-      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Foundries vs Navigators: Lowering the Cost of Science",
       "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
       "source": "Latent Space",
@@ -353,12 +353,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "datasette 1.0a41",
-      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "title": "commit-rewriter 0.2",
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use . Tags: javascript , datasette , web-components , alex-garcia , opentelemetry",
+      "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
       "alsoReportedBy": []
     }
   ]
