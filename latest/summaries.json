@@ -1,6 +1,71 @@
 {
-  "generated": "2026-09-25T15:43:22.990015Z",
+  "generated": "2026-09-25T16:41:40.307266Z",
   "summaries": [
+    {
+      "summary": "Trump conveyed to Xi Jinping that China's support for Iran is unacceptable, amid Xi's state visit featuring a tour of US founding documents.",
+      "url": "https://www.theguardian.com/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live",
+      "points": [
+        "Trump stated China's assistance to Iran is 'unacceptable' to US.",
+        "Xi Jinping's visit includes a tour of the National Archives.",
+        "The visit features a red carpet welcome and a lavish state dinner."
+      ]
+    },
+    {
+      "summary": "Justice Ketanji Brown Jackson criticized the Supreme Court's handling of emergency requests, known as the \"shadow docket.\"",
+      "significance": "Justice Ketanji Brown Jackson's criticism highlights concerns over the Supreme Court\u2019s use of the \"shadow docket,\" potentially affecting public trust in the judicial system.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/ketanji-brown-jackson-supreme-court-emergency-docket",
+      "points": [
+        "Jackson spoke at the UDC school of law, hours after Trump filed a request.",
+        "She highlighted that the \"shadow docket\" undermines public faith in the judiciary.",
+        "As one of three liberal justices, Jackson expressed concerns about her colleagues' rulings."
+      ]
+    },
+    {
+      "summary": "Five senior Kazakh military officials detained after 14 service members died during a training mission on the Caspian Sea.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "14 service members died when swept into the Caspian Sea during disembarkation.",
+        "Incident occurred 43km from Aktau, due to deteriorating weather conditions.",
+        "Investigation focuses on safety measures and weather considerations during the exercise."
+      ]
+    },
+    {
+      "summary": "White House TV pool resumes filming after a court ruling temporarily lifts Trump's ban on CNN.",
+      "url": "https://www.theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool",
+      "points": [
+        "Court ruling overturned Trump's ban on CNN, allowing TV pool to resume.",
+        "CNN, MS Now, and Politico were banned for \"FAKE NEWS\" reporting.",
+        "NBC, ABC, CBS, and Fox News halted recordings in solidarity with CNN."
+      ]
+    },
+    {
+      "summary": "Prime Minister Andy Burnham rules out a snap election before 2029 amid Labour's poll revival.",
+      "url": "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
+      "points": [
+        "Burnham faced repeated questioning on snap elections during Friday's regional media interviews.",
+        "Speculation arose due to Labour's recent improvement in opinion polls.",
+        "Next scheduled general election is set for 2029, according to Burnham's statement."
+      ]
+    },
+    {
+      "summary": "US Supreme Court lifts restrictions on a federal voter database, a move seen as supporting Trump's push for tighter voting rules.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-trump-citizen-voter-database",
+      "points": [
+        "Trump claims the database combats noncitizen voting.",
+        "Critics argue it may disenfranchise eligible voters.",
+        "Decision comes ahead of November\u2019s midterm elections."
+      ]
+    },
+    {
+      "summary": "Jevmem is an automatic project memory tool for Claude Code, Cursor, and Codex, saving decisions, constraints, bugs, and todos.",
+      "significance": "Jevmem automates saving project decisions and constraints for Claude Code, enhancing project memory and efficiency.",
+      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "points": [
+        "Jevmem uses Postgres 16 for the primary store.",
+        "Node 20 is the minimum requirement, with CI running on Node 20 and 22.",
+        "Jevmem's median decision time is 0.30 seconds, significantly faster than other LLMs."
+      ]
+    },
     {
       "summary": "Florida Republican introduces bill requiring warrants for federal agencies to use Flock Safety cameras.",
       "significance": "The bill aims to protect privacy by requiring warrants for access to license plate reader data, responding to public concerns over surveillance.",

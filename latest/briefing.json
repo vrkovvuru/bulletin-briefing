@@ -2,6 +2,24 @@
   "date": "2026-09-25",
   "stories": [
     {
+      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
       "title": "Daniel Thomas pleads not guilty after dinghy slashed",
       "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,66 +29,57 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Lebanon PM calls for full Israeli withdrawal in UN address",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address?traffic_source=rss",
+      "title": "Ethiopia’s new rebel alliance faces an old problem",
+      "url": "https://www.aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Lebanon’s Prime Minister Nawaf Salam told the UN that his country will not be an ‘arena for the conflicts of others’.",
+      "summary": "Former enemies have united against Abiy Ahmed, but disputes over territory, power and command could pull them apart.",
       "alsoReportedBy": []
     },
     {
-      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Iraq calls for a ‘sovereign Palestinian state’ at UNGA",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iraq-calls-for-a-sovereign-palestinian-state-at-unga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Iraqi Prime Minister Ali Falih Al-Zaidi called for a sovereign state of Palestine at the 81st session of the UNGA.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rain",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Nolo will slow down as it nears Hawaii's Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Russell takes pole in Baku as Antonelli hits wall",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko?at_medium=RSS&at_campaign=rss",
+      "title": "I'm not tempted to call an early election, Burnham says",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "George Russell takes pole position for Mercedes at the Azerbaijan Grand Prix as his team-mate and championship leader Kimi Antonelli crashes out.",
+      "summary": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "More than 55,000 Sudanese refugees flee to Chad as UN calls for funding",
+      "url": "https://www.aljazeera.com/news/2026/9/25/more-than-55000-sudanese-refugees-flee-to-chad-as-un-calls-for-funding?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "UN refugee agency says 400 people a day, about 20 times the previous daily rate, now cross from Sudan into eastern Chad.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
+      "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "China swimmer makes Asian Games history as Thai sprinter wins track 100m",
-      "url": "https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss",
+      "title": "What the Trump-Xi meeting revealed about global power",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/what-the-trump-xi-meeting-revealed-about-global-power?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "China&#039;s Zhang Zhanshuo, 19, became the first swimmer to win seven golds at a single Asian Games.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "summary": "Donald Trump and Xi Jinping met in Washington as world leaders gathered at the UN General Assembly in New York.",
       "alsoReportedBy": []
     },
     {
@@ -79,17 +88,8 @@
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Xi is expected to depart DC after touring the nation’s vault of records, where the Declaration of Independence, the Constitution and the Bill of Rights are held Sign up for US Breaking News emails Questioned by a CNN reporter about his thoughts on Trump’s ban on several news organizations from the White House, Pope Leo XIV said that he believed strong press coverage is “very important.” “I am very happy that here, you are all welcome,” Leo told the reporters gathered on board his plane, as he was en route to France for a several-day visit. “And good coverage, I think is very important that we have it all the way around, for everyone.” Continue reading...",
+      "summary": "Xi is expected to depart DC after touring the nation’s vault of records, where the Declaration of Independence, the Constitution and the Bill of Rights are held Sign up for US Breaking News emails Xi Jinping and his wife are back at the White House for the final day of the Chinese president’s pageantry-filled visit to Washington, where President Trump has given him an unexpectedly warm welcome. The itinerary for the final day of Xi’s visit – which included a red carpet welcome on the tarmac on Wednesday, then a full day of talks followed by a lavish state dinner on Thursday – included an appointment for tea at the White House, followed by a tour of the National Archives, where the nation’s founding documents are on display. Continue reading...",
       "alsoReportedBy": []
-    },
-    {
-      "title": "Is Switzerland's neutrality at a crossroads?",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5978905/swiss-referendum-neutrality-russia",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Switzerland is voting on whether to tighten its famous neutrality — a move that could reshape its response to Russia and future conflicts.",
-      "alsoReportedBy": ["Al Jazeera"]
     },
     {
       "title": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
@@ -101,30 +101,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Republican Florida congressman introduces bill requiring warrants for Flock Safety cameras",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/florida-warrants-flock-camera-greg-steube",
+      "title": "Ketanji Brown Jackson criticizes supreme court’s handling of emergency docket",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/ketanji-brown-jackson-supreme-court-emergency-docket",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Greg Steube’s Flafo Act would require federal agencies to obtain warrants before accessing or sharing data from networked license plate readers A Florida Republican has introduced a bill that would bar US federal agencies from using Flock Safety’s licence plate cameras and similar systems without a warrant, amid a nationwide backlash against the surveillance company. Greg Steube’s Facilitating Liberty and Accountability for Flock Observations (Flafo) Act, introduced on Friday , would require a judicial warrant before federal agencies could buy, operate, access or share data with networked licence plate readers. It would also make US Department of Justice grants to local police conditional on their adopting similar rules. Continue reading...",
+      "summary": "The justice called out her colleagues in a speech she made at the UDC school of law, hours after Trump filed his latest request US supreme court justice Ketanji Brown Jackson acknowledged serious concerns about her colleagues’ handling of emergency requests, the method Donald Trump often uses to seek approval from the court. Jackson, one of the three liberal members of the supreme court, criticized the justices’ willingness to issue rulings via the “shadow docket”, saying it undermines the public’s faith in the judicial system. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "‘What does money from a Super PAC actually buy?’: our reporters are answering your election questions now",
+      "title": "‘These efforts have not gone too well’: your questions on how money will influence midterm elections answered",
       "url": "https://www.theguardian.com/community/live/2026/sep/24/reader-qa-ask-our-reporting-team-about-whos-spending-what-on-the-midterms",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Who are the groups backing candidates in the midterms – and why? In our second live discussion ahead of the elections, Joseph Gedeon, Dara Kerr and Chris Stein are live now Sign in or sign up to join the conversation Sam_Jenks asks: The Republicans are better placed to take advantage of the supreme sourt ruling on spending in terms of the final advertising blitz, apparently outspending the Democrats by over $200 million. Is that enough to overcome factors like Trump’s low approval rating? Can a party who are clearly less popular than the opposition just brute force their way to victory if the spending deficit is large enough? Chris: That’s the big question of these midterms, and one that can’t be answered definitively before we know the results. But here’s what I can say now: While some Democratic candidates are beating their opponents in fundraising at the candidate level, Republicans overall are expected to outspend Democrats in the cycle, when factoring in outside groups like Super Pacs. That doesn’t necessarily mean they’ll preserve their majorities in the Senate and House of Representatives — Kamala Harris outspent Donald Trump in 2024, and lost anyway. But the headwinds facing Republicans are really formidable, from Trump’s terrible approval ratings, to Democratic candidates’ strong performances in special election and primary turnout, to the price increases for gas and other staples caused by the Iran war. This piece I wrote this week goes deeper into those dynamics. Chris : The legislation you are referring to, which is now known as the Save America Act, has passed the House of Representatives but not the Senate and thus has not been enacted, so none of its provisions will be implemented in time for the 3 November midterms. However, Donald Trump and his administration have attempted to put in place some of the act’s restrictions on voting via executive order. These efforts have not gone too well for him. Trump’s attempt to impose new restrictions on mail-in voting, for instance, was halted by the supreme court. Continue reading...",
+      "summary": "Who are the groups backing candidates in the midterms – and why? Joseph Gedeon, Dara Kerr and Chris Stein answered your questions Sign up to The Stakes newsletter: your weekly guide to the US midterms Nola67 asks Alex Vindman had $16 million fundraised during his losing campaign against Angie Nixon [to be the Democrat’s Senate nominee in Florida]. Will he be giving that money to Nixon now, and is she getting more funding help from the national Democratic Party? Joseph: Our understanding is that he’s using his sizeable war chest to boost Democrats across the country, and to the Florida Democratic state party, though not Nixon herself. He announced back in August that he’d be sending $250k to the Democratic Senatorial Campaign committee and candidates like Abdul El Sayed in Michigan, Troy Jackson in Maine, Roy Cooper in North Carolina, Sherrod Brown in Ohio, Charles Booker in Kentucky, and more. In Florida, he says he invested $400k to the state democratic party, though not directly to Nixon herself. It seems like the Senate Majority PAC, led by Chuck Schumer and meant to boost Democrats to the Senate, are steering clear of Nixon’s campaign – it seems they don’t find that one winnable, and don’t want to put the investment into it. Dara: Theoretically AI could be used for recovering debt for investors for the government, but given the mistakes and bias the technology still has it would likely need human oversight for this work. It’s more feasible that AI will be used as a tool to help identify trends and organize material, but then people would have to direct this work and keep tabs on the technology to ensure all rules and regulations are being followed. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
-      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
-      "source": "Guardian World",
+      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
+      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been notably active in recent months. On 22 September, a measurement of 892 millibars was registered for Hurricane Polo, making it the second-most intense hurricane on record in the east Pacific. It is fuelled by exceptionally warm waters across the Pacific Ocean, providing favourable conditions for the system to maintain its considerable strength. Polo is expected to turn towards the west-north-west, before taking a more north-westerly trajectory on Saturday. It has maximum sustained winds of around 150mph, with even stronger gusts occurring within the most intense parts of the hurricane. Hurricane-force winds extend outward for approximately 40 miles from the centre, while tropical storm-force winds reach as far as 125 miles. These powerful winds, combined with torrential rainfall and dangerous seas, could have significant impacts. Although some fluctuations in intensity are possible over the coming days, Polo is expected to remain powerful as it tracks north-westwards. Continue reading...",
+      "summary": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
       "alsoReportedBy": []
     },
     {
@@ -137,53 +137,53 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "alsoReportedBy": ["BBC World"]
-    },
-    {
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Couple jailed for life for abusing and murdering a vulnerable man in their care",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/couple-jailed-for-life-for-abusing-and-murdering-a-vulnerable-man-in-their-care",
+      "title": "White House television pool resumes after banned news outlets regain access",
+      "url": "https://www.theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Kenneth Newton and Melanie James had filmed themselves mocking Rubin Blount, who was left to lie in his own urine and weighed 40kg when he died A couple convicted of murder after inflicting “deliberate cruelty” on a vulnerable 28-year-old man in their care, who at the time of his death weighed just 40kg (6st 4lb), have been jailed for life. Rubin Blount was made to stand for long periods of time, left to lie in his own urine and forced to eat out of bins by his stepbrother Kenneth Newton and Newton’s partner, Melanie James, at a property in Tamworth, Staffordshire, Stafford crown court heard. Continue reading...",
+      "summary": "Trump’s media ban resulted in an effective TV blackout of coverage of the president during the UN general assembly The primary White House television pool has resumed filming administration events after a court ruling temporarily overturned a Trump administration ban on CNN a day earlier. In an unprecedented move, the pool – which also includes NBC, ABC, CBS and Fox News – ceased recording and transmitting White House footage on Monday, in solidarity with CNN, MS Now and Politico, which had been banned by Trump from the building over what he said was “their constant ‘reporting’ FAKE NEWS.” Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
-      "url": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+      "title": "No snap election before 2029, Andy Burnham says",
+      "url": "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the weekend he had known for two days that his was the first government known to have been attacked by a rogue AI agent. He didn’t reveal the attack then, but he sounded a warning about the march of AI: “the risk is that AI develops in a way in which humans are no longer in control of what AI is producing.” Continue reading...",
+      "summary": "Prime minister quashes speculation that Labour’s revival in the polls could prompt early contest • Politics live – latest updates Andy Burnham has said he will not call a snap general election before 2029, after days of speculation that Labour’s revival in the polls could tempt him to call an early contest. The prime minister was repeatedly questioned on the prospect during a round of broadcast interviews to regional media on Friday. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Labour rejects Declassified journalists from party conference for third year – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates",
+      "title": "US supreme court lifts restrictions on controversial voter database",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-trump-citizen-voter-database",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The media organisation reports that three of its journalists were denied media passes A record £66m of emergency security funding was issued by the Home Office for mosques and related community sites in the UK when violent disorder spread in the aftermath of the Southport attacks in 2024. Exclusive figures obtained by the Guardian also reveal a record of about £41m of security funding was issued for mosques and related community sites for the year from April 2025-26 as part of the protective security scheme. We reserve the right to reject an application if we cannot find any evidence the applicant is a working journalist or photographer with a political portfolio or working on behalf of a relevant media outlet.” Continue reading...",
+      "summary": "Trump and officials claimed it combats voting by noncitizens but critics said it could disenfranchise eligible voters The US supreme court has lifted restrictions on a controversial federal database of voters as Donald Trump seeks to impose tougher restrictions on voting ahead of November’s midterm elections. While the president and his officials have claimed the expanded database aims to combat voting by noncitizens, critics contend it could disenfranchise eligible voters. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Platform-Independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been notably active in recent months. On 22 September, a measurement of 892 millibars was registered for Hurricane Polo, making it the second-most intense hurricane on record in the east Pacific. It is fuelled by exceptionally warm waters across the Pacific Ocean, providing favourable conditions for the system to maintain its considerable strength. Polo is expected to turn towards the west-north-west, before taking a more north-westerly trajectory on Saturday. It has maximum sustained winds of around 150mph, with even stronger gusts occurring within the most intense parts of the hurricane. Hurricane-force winds extend outward for approximately 40 miles from the centre, while tropical storm-force winds reach as far as 125 miles. These powerful winds, combined with torrential rainfall and dangerous seas, could have significant impacts. Although some fluctuations in intensity are possible over the coming days, Polo is expected to remain powerful as it tracks north-westwards. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Republican Florida congressman introduces bill requiring warrants for Flock Safety cameras",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/florida-warrants-flock-camera-greg-steube",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Greg Steube’s Flafo Act would require federal agencies to obtain warrants before accessing or sharing data from networked license plate readers A Florida Republican has introduced a bill that would bar US federal agencies from using Flock Safety’s licence plate cameras and similar systems without a warrant, amid a nationwide backlash against the surveillance company. Greg Steube’s Facilitating Liberty and Accountability for Flock Observations (Flafo) Act, introduced on Friday , would require a judicial warrant before federal agencies could buy, operate, access or share data with networked licence plate readers. It would also make US Department of Justice grants to local police conditional on their adopting similar rules. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+      "url": "https://github.com/Avinash-jetwani/jevmem",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,8 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Allow Carriers on Planes",
-      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "title": "Platform-Independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -281,13 +281,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Note on 24th September 2026",
-      "url": "https://simonwillison.net/2026/Sep/24/harder/",
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags: coding-agents , ai , llms",
-      "alsoReportedBy": ["Simon Willison"]
+      "summary": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CA New 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor! Tags: photography , wildlife",
+      "alsoReportedBy": []
     },
     {
       "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
@@ -299,21 +299,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Note on 24th September 2026",
+      "url": "https://simonwillison.net/2026/Sep/24/harder/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags: coding-agents , ai , llms",
+      "alsoReportedBy": ["Simon Willison"]
+    },
+    {
       "title": "commit-rewriter 0.2",
       "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "datasette 1.0a41",
-      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use . Tags: javascript , datasette , web-components , alex-garcia , opentelemetry",
       "alsoReportedBy": []
     },
     {
@@ -353,12 +353,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
-      "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
-      "source": "Latent Space",
+      "title": "datasette 1.0a41",
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "",
+      "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use . Tags: javascript , datasette , web-components , alex-garcia , opentelemetry",
       "alsoReportedBy": []
     }
   ]
