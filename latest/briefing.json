@@ -2,6 +2,33 @@
   "date": "2026-09-25",
   "stories": [
     {
+      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Man City found guilty of majority of 115 financial rule breaches",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Which countries walked out of Netanyahu’s UNGA speech?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/which-countries-walked-out-of-netanyahus-unga-speech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Which countries walked out of Netanyahu’s UNGA speech?",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
       "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
       "source": "NPR",
@@ -11,13 +38,31 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "India’s Cockroach movement joins opposition push to oust election chief",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
+      "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "India’s youth-led Cockroach Janta Party has joined opposition calls for election chief Gyanesh Kumar to resign.",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "Dozens of countries’ delegations walked out of or were absent for Israeli PM Benjamin Netanyahu’s UNGA speech.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The visit comes at an important time for both men.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Pakistan PM, a signatory to the Mecca Joint Defence Agreement, condemned Houthi attacks on Saudi Arabia at UNGA 81.",
+      "alsoReportedBy": []
     },
     {
       "title": "Daniel Thomas pleads not guilty after dinghy slashed",
@@ -29,57 +74,12 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-      "url": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "I'm not tempted to call an early election, Burnham says",
       "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Palmer misses too many opportunities to play for England - Tuchel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Thomas Tuchel has said that Cole Palmer \"misses too many opportunities\" to play for England after the Chelsea forward pulled out of the latest squad.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-      "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
       "alsoReportedBy": []
     },
     {
@@ -92,21 +92,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
-      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "title": "New Jersey lieutenant governor resigns after sexual harassment accusation",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Province’s rat patrol called in to investigate as town of Bowden announces discovery of dead vermin For more than seven decades, residents of Alberta have shared something in common with Antarctica and the high Arctic: all locations are officially free of rats. But on Thursday the Canadian province’s reputation as a firewall against rodent infestation took a hit when the town of Bowden announced the discovery of a dead rat and called on the province’s “rat patrol” to investigate. Continue reading...",
+      "summary": "Investigation determined Dale Caldwell violated state ethics rules and engaged in harassing behavior Dale Caldwell, the lieutenant governor of New Jersey, resigned from his position on Friday, after the release of a report accusing him of sexually harassing a female staffer, among other ethics violations. New Jersey’s governor, Mikie Sherrill, announced on Friday afternoon that Caldwell had submitted his resignation to her earlier in the day. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Failures at Manston asylum centre linked to decisions at Number 10, inquiry hears",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/failures-at-manston-asylum-centre-linked-to-decisions-at-number-10-inquiry-hears",
+      "title": "Idaho cold case may be tied to unsolved 1982 Tylenol murders, authorities say",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/idaho-cold-case-1982-tylenol-murders",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "KC says Number 10 ‘clearly did play a decisionmaking role’ in pausing sending small boat arrivals on to hotels which led to terrible overcrowding A catalogue of failures including racism, use of force and chronic overcrowding at a Home Office processing site for small boat arrivals were linked to decisions made at the highest level of government, an independent inquiry heard on Friday. The Manston independent inquiry was commissioned by the current government to look at multiple problems under the previous government between 1 June and 22 November 2022 at the facility in Kent, where small boat arrivals are processed. Continue reading...",
+      "summary": "Idaho officials say man found dead in a church decades ago may be tied to unsolved poisonings in Chicago area in 1982 A man found dead in an Idaho church decades ago may be connected to unsolved poisonings in 1982 in the Chicago area that were dubbed the “ Tylenol murders ” and ushered in child safety caps for medicines, authorities announced recently. Detective Tim Cooper of the Ada county sheriff’s Office reopened a cold case investigation in 2019 that led authorities to identify Dr Mathew Francis Betkouski posthumously. Betkouski fatally poisoned himself with cyanide more than 40 years ago and was buried anonymously. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "In latest blow to Obamacare, Trump is threatening the entire US health system",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-aca-health-insurance",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The Trump administration is removing 760,000 people enrolled in the Affordable Care Act marketplace Reader Q&A: who’s spending big on the US midterms? Our reporters take your questions The Trump administration is removing 760,000 people enrolled in the Affordable Care Act (ACA) marketplace on allegations of fraud, officials said on Tuesday – adding to previous efforts to chip away at federally subsidized insurance programs and likely causing some of the lowest-income Americans to forego healthcare, experts said. The US government is also investigating about 420,000 people whom they suspect of fraud, and they are putting a six-month enrollment moratorium on new agents and brokers selling Obamacare policies, officials said at a press conference. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,6 +155,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Overcrowding and racism at Manston asylum centre linked to government decisions, inquiry hears",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/25/failures-at-manston-asylum-centre-linked-to-decisions-at-number-10-inquiry-hears",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Kent facility became dangerously overburdened after ministers halted transfers to hotels A catalogue of failures including racism, use of force and chronic overcrowding at a Home Office processing site for people who arrive on small boat were linked to decisions made at the highest level of government, an independent inquiry has heard. The government commissioned the Manston independent inquiry to look at problems under the Conservative government between 1 June and 22 November 2022 at the facility in Kent. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed. About 600,000 people died between 2020 and 2022 during a devastating war between the Ethiopian army and the political party and paramilitary group the Tigray People’s Liberation Front (TPLF). Both sides are now accusing the other of triggering a return to open conflict. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Partner of woman killed by US hunter who allegedly mistook her for deer says death ‘no accident’",
       "url": "https://www.theguardian.com/us-news/2026/sep/25/delaware-woman-killed-hunter",
       "source": "Guardian World",
@@ -155,35 +182,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Hurricane Nolo predicted to bring ‘life-threatening flooding’ to Hawaii",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/hurricane-nolo-hawaii",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Forecasters say storm will cause heavy rains and large waves along the coast, near communities still recovering from extreme weather Hurricane Nolo is expected to bring potentially life-threatening and catastrophic flooding to Hawaii on Friday, affecting communities that are still recovering from devastating storms earlier this summer. The state activated more than 230 Hawaii national guard members and closed schools ahead of the storm. Nolo is expected to move west on Saturday and not directly hit the islands, but forecasters say it will still cause heavy rainfall, as much as 25in, as well as large and damaging waves along the coast. Continue reading...",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Burnham pledges extra £210m towards regenerating boarded-up high streets",
-      "url": "https://www.theguardian.com/business/2026/sep/25/burnham-pledges-extra-210m-regenerate-high-streets",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Funds to help local people turn empty shops, pubs and clubs into community hubs, shared workspaces and cafes The UK government has pledged £210m to regenerate high streets by taking boarded-up shops, pubs and clubs and turning them into shared workspaces, cafes and community hubs. Andy Burnham said the funds would “help put power back into the hands of locals who know their area best” as part of his effort to “restore pride and bring hope back”. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "No general election before 2029, Andy Burnham says",
-      "url": "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Prime minister quashes speculation that Labour’s revival in the polls could prompt early contest Andy Burnham has said he will not call a general election before 2029, after days of speculation that Labour’s revival in the polls could tempt him to call an early contest. The prime minister was repeatedly questioned on the prospect during a round of broadcast interviews to regional media on Friday. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Platform-Independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -194,24 +203,6 @@
       "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
       "url": "https://greasyfork.org/en/scripts?by=1646191",
       "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "url": "https://github.com/git-bug/git-bug",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Yes, Claude can do Nine Loops",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -233,6 +224,15 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "37signals &#8211; the creator of Ruby on Rails (RoR) &#8211; moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {

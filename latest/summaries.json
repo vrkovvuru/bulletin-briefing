@@ -1,6 +1,71 @@
 {
-  "generated": "2026-09-25T18:42:22.183288Z",
+  "generated": "2026-09-25T20:41:44.728691Z",
   "summaries": [
+    {
+      "summary": "Dozens of countries' delegations walked out or were absent from Netanyahu\u2019s UN speech in protest over Gaza conflict.",
+      "significance": "The mass walkout reflects international disapproval of Israel's actions in Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/which-countries-walked-out-of-netanyahus-unga-speech?traffic_source=rss",
+      "points": [
+        "Delegations from multiple countries were visibly absent or left during Netanyahu's speech.",
+        "Protest was due to Israel\u2019s ongoing war in Gaza.",
+        "Specific countries' actions not detailed in the provided text."
+      ]
+    },
+    {
+      "summary": "President Trump hosted Chinese President Xi Jinping for a state visit, focusing on pageantry and extending a trade truce.",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
+      "points": [
+        "The trade truce was extended by two months, allowing continued access to rare earth elements and semiconductor chips.",
+        "Xi Jinping emphasized historical cooperation, mentioning the \"Thucydides trap\" and praising a \"new chapter\" in relations."
+      ]
+    },
+    {
+      "summary": "New Jersey's lieutenant governor, Dale Caldwell, resigned after being accused of sexual harassment and ethics violations.",
+      "significance": "The resignation highlights ongoing consequences for sexual harassment in politics, affecting New Jersey's leadership and potentially influencing future misconduct responses.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell",
+      "points": [
+        "Dale Caldwell resigned following a report of sexual harassment and ethics violations.",
+        "Governor Mikie Sherrill announced Caldwell's resignation on Friday.",
+        "The investigation found Caldwell violated state ethics rules and harassed a female staffer."
+      ]
+    },
+    {
+      "summary": "Idaho officials suggest a man found dead in a church decades ago may be linked to the unsolved 1982 Tylenol murders in Chicago.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/idaho-cold-case-1982-tylenol-murders",
+      "points": [
+        "Detective Tim Cooper reopened the cold case investigation in 2019.",
+        "The identified man, Dr Mathew Francis Betkouski, died by cyanide poisoning over 40 years ago.",
+        "Betkouski was buried anonymously after his death."
+      ]
+    },
+    {
+      "summary": "Trump administration removes 760,000 from ACA marketplace, investigates 420,000 for fraud.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-aca-health-insurance",
+      "points": [
+        "760,000 people removed from Affordable Care Act marketplace.",
+        "420,000 people under investigation for suspected fraud.",
+        "Six-month moratorium on new agents and brokers selling Obamacare policies."
+      ]
+    },
+    {
+      "summary": "Tigrayan rebels advance into Afar and Amhara, forming a new alliance to overthrow Abiy Ahmed's government, raising fears of renewed civil war.",
+      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+      "points": [
+        "About 600,000 people died in the 2020-2022 conflict between Ethiopian army and TPLF.",
+        "Rebels target neighbouring states of Afar and Amhara.",
+        "New rebel alliance aims to overthrow Prime Minister Abiy Ahmed's government."
+      ]
+    },
+    {
+      "summary": "Ollaya offers open-source decision models for typed questions, providing quick, calibrated answers on local hardware.",
+      "significance": "Ollaya offers fast, open-source decision models for sensitive data processing on local hardware, reducing reliance on external APIs and enhancing privacy.",
+      "url": "https://ollaya.dev/",
+      "points": [
+        "Ollaya's Laya model processes a five-question request in about 10 ms on an NVIDIA RTX 4090.",
+        "Models support over 100 languages and provide typed, calibrated answers to various question types.",
+        "The system runs on local hardware using ONNX Runtime, supporting both CPU and NVIDIA GPU."
+      ]
+    },
     {
       "summary": "Margaret Atwood donates C$1m to establish a chair in avian biology in memory of her late partner, Graeme Gibson.",
       "significance": "Atwood's $1m donation establishes a chair in avian biology, honoring her late partner's passion for birds and advancing avian research.",
