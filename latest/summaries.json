@@ -1,6 +1,45 @@
 {
-  "generated": "2026-09-26T14:42:19.383377Z",
+  "generated": "2026-09-26T16:41:06.958330Z",
   "summaries": [
+    {
+      "summary": "Maine residents express frustration over Trump's trade policies affecting their livelihoods, particularly in logging and fishing industries.",
+      "significance": "Tariffs imposed by Trump's trade war are harming Maine's economy, potentially influencing midterm election outcomes.",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
+      "points": [
+        "Tariffs impact Maine's loggers, leaving cutting machines idle despite ideal summer conditions.",
+        "Maine has deep ties with Canada, exacerbating the trade war's negative effects.",
+        "The midterms may reflect voter dissatisfaction due to economic hardships imposed by tariffs."
+      ]
+    },
+    {
+      "summary": "Andy Burnham announces a new help-to-buy scheme called \"Your first home\" for first-time buyers in England.",
+      "significance": "The story matters as it introduces a new policy to assist first-time buyers without family financial support, aiming to broaden access to home ownership in England.",
+      "url": "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-announces-new-scheme-for-first-time-home-buyers-england",
+      "points": [
+        "Scheme targets young people unable to rely on family financial support.",
+        "Aims to assist buyers with regular income but lacking large deposits.",
+        "Named \"Your first home\", it's designed to support first-time buyers in England."
+      ]
+    },
+    {
+      "summary": "A GitHub project offers Claude Code skills to analyze chess games with Stockfish, providing detailed post-mortem analysis.",
+      "significance": "This story matters because it introduces a tool that uses AI to provide detailed, human-readable analyses of chess games, enhancing learning for players.",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "points": [
+        "The project includes a narrated video of the game with Stockfish analysis and player thoughts.",
+        "Analysis involves Stockfish interrogation with human-like questions to explain mistakes.",
+        "Requires a game recording and an audio file of the player's thoughts during the game."
+      ]
+    },
+    {
+      "summary": "PipePipe is a new hard fork of NewPipe, offering enhanced features and SponsorBlock integration.",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "points": [
+        "Forked in early 2022, PipePipe operates independently from NewPipe.",
+        "Supports SponsorBlock for skipping ads on YouTube and BiliBili.",
+        "Includes AV1 and VP9 codecs for high-quality playback."
+      ]
+    },
     {
       "summary": "Trump reportedly rejects Iran\u2019s proposal to reopen the Strait of Hormuz and resume nuclear talks within a week.",
       "significance": "Trump's rejection of Iran\u2019s peace deal could escalate tensions and affect global oil prices, given the strait of Hormuz's strategic importance.",

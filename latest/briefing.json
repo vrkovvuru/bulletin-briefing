@@ -2,57 +2,75 @@
   "date": "2026-09-26",
   "stories": [
     {
-      "title": "Russell edges out Verstappen to win in Baku, Antonelli settles for fifth",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/russell-edges-out-verstappen-to-win-in-baku-antonelli-settles-for-fifth?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "George Russell wins Azerbaijan Grand Prix for eighth career F1 victory and first since the Austrian GP in June.",
-      "alsoReportedBy": []
+      "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
     },
     {
-      "title": "Heathrow Airport's third runway may be delayed to 2039",
+      "title": "Man City chairman confident club will prove innocence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Heathrow Airport warns third runway could be delayed by four years",
       "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The UK's busiest airport says the original goal of 2035 will be difficult to meet without simplifying the planning process.",
+      "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
-      "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+      "title": "Women take up arms as sexual violence ravages eastern DRC",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "At least 10 people killed in Russian and Ukrainian attacks",
+      "url": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "New strikes come after the US proposes a fresh round of Russia-Ukraine ceasefire talks in the UAE.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports, as Donald Trump was reported to have rejected the deal. Although Iran is yet to receive his official response, the US president is said to be privately sceptical Iran would meet his demands to dismantle its nuclear programme, according to unnamed US officials cited by the Wall Street Journal. Continue reading...",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
-      "url": "https://www.aljazeera.com/news/2026/9/26/is-ethiopia-on-the-verge-of-another-civil-war-as-fighting-erupts-in-tigray?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Seven armed groups have joined forces against Abiy Ahmed’s government, bringing former enemies into the same alliance.",
+      "summary": "President’s tariffs have hurt fishers, loggers and others in a state with deep bonds to Canada – will voters show their displeasure in the midterms? It was an ideal summer to cut trees. The weather in Maine’s Penobscot county – one of the most heavily forested counties in a state dense with trees – was warm and dry. Yet even as the county’s wood had grown to an ideal size to harvest, the machines Molly London typically uses sat idle. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "No Premier League appetite to strip Man City of titles - but threat remains",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
+      "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Egypt to rest Salah in South Sudan AFCON qualifier over pitch concerns",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/mohamed-salah-egypt-south-sudan-afcon-qualifier-artificial-turf-pitch?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Egyptian FA has decided to rest Salah to protect him from playing on artificial turf, which is likelier to cause injury.",
+      "summary": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
       "alsoReportedBy": []
     },
     {
@@ -65,30 +83,39 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected",
-      "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "The AI safety debate is confusing. Here's our guide to the different factions",
       "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Andy Burnham announces new homes scheme for first-time buyers",
+      "url": "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-announces-new-scheme-for-first-time-home-buyers-england",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Exclusive: Policy initiative for England will help more young people on to property ladder, prime minister tells Guardian A new help-to-buy scheme aimed at giving first-time buyers who cannot rely on the “bank of mum and dad” is to be introduced in a big policy announcement by Andy Burnham. The programme, called “Your first home”, is intended to help buyers in England who have a regular income but have been unable to save for a large deposit or don’t have financial support from their family. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
       "alsoReportedBy": []
     },
     {
@@ -110,33 +137,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "New research finds 485 chemicals in US pesticide products linked to breast cancer",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwide New research has identified at least 485 chemicals used in US pesticide products that are linked to breast cancer, raising questions about the safety of food and other products at a time when early onset breast cancer rates are surging worldwide . The new peer-reviewed paper , published in Environmental Health Perspectives, a top journal from the American Chemical Society, highlights what public health advocates say are a range of deficiencies in how US pesticides are regulated. The review includes active pesticide ingredients, but also hundreds of so-called “inert”, or inactive, ingredients that typically do not undergo a thorough safety review. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Venezuelan shot by ICE in Austin needs surgery to avoid losing feeling in body, supporters say",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/venezuelan-man-ice-shooting-austin-texas",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Wilber Rafael Garcés Pérez has bullet lodged in back as accounts differ over events leading to traffic-stop shooting The Venezuelan man shot by federal immigration officers after a traffic stop in Texas needs surgery to avoid losing feeling on the left side of his body, according to his supporters. Wilber Rafael Garcés Pérez, 28, has spent the past five days in detention with a bullet lodged in his back, after Immigration and Customs Enforcement ( ICE ) rapidly removed him from a hospital in Austin where he had been taken on Sunday after the shooting. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
       "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
       "source": "Guardian World",
@@ -155,30 +155,39 @@
       "alsoReportedBy": []
     },
     {
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Work intensifying on UK laws to stamp out concert ticket touts, say sources",
-      "url": "https://www.theguardian.com/business/2026/sep/26/work-intensifying-uk-laws-stamp-out-concert-ticket-touts",
+      "title": "New research finds 485 chemicals in US pesticide products linked to breast cancer",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Artists including Tinie Tempah and the Smiths’ drummer Mike Joyce ramp up pressure on government to keep its pledge to outlaw for-profit resales The government has stepped up work on new laws to stop ticket touts fleecing fans , as the prime minister came under pressure from artists including the drummer from the Smiths, one of his favourite bands. Keir Starmer said last year that the government would “stop fans from being ripped off” by outlawing the for-profit resale of tickets on sites such as Viagogo and StubHub, a pledge Labour first made in its 2024 election manifesto. Continue reading...",
+      "summary": "Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwide New research has identified at least 485 chemicals used in US pesticide products that are linked to breast cancer, raising questions about the safety of food and other products at a time when early onset breast cancer rates are surging worldwide . The new peer-reviewed paper , published in Environmental Health Perspectives, a top journal from the American Chemical Society, highlights what public health advocates say are a range of deficiencies in how US pesticides are regulated. The review includes active pesticide ingredients, but also hundreds of so-called “inert”, or inactive, ingredients that typically do not undergo a thorough safety review. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "We followed five people in Gaza from dawn to dusk – this is what the headlines don’t tell us",
-      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/26/we-followed-five-people-in-gaza-from-dawn-to-dusk-this-is-what-the-headlines-dont-tell-us",
+      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Behind the stories of bombings and mass deaths, the everyday challenges facing Palestinians living under siege portray a quieter tragedy we rarely hear What does it take to make a morning cup of tea in Gaza? For Alaa Hessi , in her final month of pregnancy, this small ritual begins with a calculation of gas rations. Her family gets a ration of 6kg of gas every three months – enough to heat a pot for 18 precious minutes a day. That’s needed for cooking – so for tea, a fire must be built instead. Continue reading...",
+      "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the struggling London Stock Exchange . Airtel Money, the mobile money arm of Airtel Africa, is planning one of the biggest UK listings in years, in a boost for the shrinking London market that has faced a string of recent departures . Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-year-old girl, as the country’s police face allegations of corruption and failing to tackle violence against women and girls. Shadrack Sibiya, who was already suspended from his role as deputy national police commissioner over allegations he interfered with political killings investigations, was arrested on Monday. He is facing charges of rape, people trafficking, promoting the sexual grooming of a child and two counts of grooming a child. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -191,17 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Commodified Intelligence",
-      "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+      "title": "Infecting the Steam Link with NixOS",
+      "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,9 +218,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The state of SIMD in Rust in 2026",
-      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "title": "Commodified Intelligence",
+      "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -254,18 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "If we do not stop to help each other, what do we become?",
-      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Infecting the Steam Link with NixOS",
-      "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
-      "source": "Lobsters",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
