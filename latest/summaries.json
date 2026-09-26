@@ -1,6 +1,54 @@
 {
-  "generated": "2026-09-26T02:41:15.996917Z",
+  "generated": "2026-09-26T04:41:38.376735Z",
   "summaries": [
+    {
+      "summary": "TikTok settles with Alabama, agreeing to pay $100m and impose restrictions on teenage users.",
+      "significance": "The settlement sets a precedent for regulating social media's impact on teenagers and compensates Alabama for alleged misinformation about child protection tools.",
+      "url": "https://www.theguardian.com/technology/2026/sep/26/tiktok-alabama-pay-100m-teenage-limits-restrictions",
+      "points": [
+        "TikTok to pay Alabama a minimum of $100 million.",
+        "Settlement includes time limits and other restrictions for teenage users.",
+        "Agreement modeled after Meta\u2019s deal with US states, avoiding trial."
+      ]
+    },
+    {
+      "summary": "Russia targets Ukraine\u2019s digital infrastructure by attacking ISPs and datacenters in Kyiv, causing internet outages.",
+      "url": "https://www.theguardian.com/world/2026/sep/26/russia-strikes-ukraine-digital-economy-attacks-isps-datacentres",
+      "points": [
+        "About 100,000 households in Kyiv and surrounding areas experienced internet outages.",
+        "Strikes occurred on Wednesday and Thursday, targeting the digital backbone of Ukraine\u2019s economy.",
+        "Attacks aim to disrupt vital networks supporting banks, payment systems, and public services."
+      ]
+    },
+    {
+      "summary": "White House excludes CNN from Air Force One, escalating conflict with media.",
+      "significance": "The story highlights escalating tensions between the White House and news media, impacting press freedom and public information access.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
+      "points": [
+        "CNN blocked from flying with Trump to Tennessee for a football game.",
+        "Exclusion confirmed by White House not listing CNN in press guidance.",
+        "Incident marks latest in ongoing tensions between White House and news media."
+      ]
+    },
+    {
+      "summary": "The article discusses the need for more mathematicians to understand and contribute to AI-generated mathematical ideas and breakthroughs.",
+      "significance": "The story highlights the need for more mathematicians to keep pace with AI-generated mathematical ideas, preventing a放弃人类理解和贡献的深刻弃权行为。",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "points": [
+        "AI systems are producing new mathematical ideas that humans may struggle to keep up with.",
+        "The author argues for the importance of human understanding in validating and interpreting AI-generated designs, such as a one terawatt nuclear fusion power plant.",
+        "There is a call for expanding the number of mathematically sophisticated researchers globally to meet the challenges posed by AI advancements."
+      ]
+    },
+    {
+      "summary": "David Heinemeier Hansson, creator of Ruby on Rails, shifted focus to LLMs and Rust at Rails World 2026, signaling a significant change in his vision for Rails.",
+      "url": "https://jardo.dev/what-about-rails",
+      "points": [
+        "DHH claims he wrote 150k lines of code in August 2023, mostly in Rust, compared to 30k lines per month previously.",
+        "Ruby's share of his coding dropped from about 50% over two decades to just 3% in 2023.",
+        "He envisions a future where hand-written code is rare, advocating for LLM-generated code and CLI interactions."
+      ]
+    },
     {
       "summary": "Pope Leo XIV made his first official Papal visit to France in nearly 20 years, drawing large crowds.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss",
