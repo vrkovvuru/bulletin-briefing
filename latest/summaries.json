@@ -1,6 +1,45 @@
 {
-  "generated": "2026-09-26T20:41:54.285111Z",
+  "generated": "2026-09-26T22:41:01.160460Z",
   "summaries": [
+    {
+      "summary": "Student protesters interrupted an NVIDIA panel during NYC Climate Week, focusing on data center impacts and business ties.",
+      "significance": "Student protests highlight environmental concerns over data centers and corporate ethics, disrupting tech industry discussions on climate change solutions.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
+      "points": [
+        "Protesters shouted about the environmental effects of data centers.",
+        "The disruption occurred during NYC Climate Week.",
+        "Students also criticized NVIDIA's business connections with Israel."
+      ]
+    },
+    {
+      "summary": "Australian officials claim public opposition to AI datacentres is influenced by US debates, arguing local projects are smaller and more regulated.",
+      "significance": "Australian officials claim community backlash against AI datacentres is influenced by US debates, arguing local projects are smaller and more regulated.",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
+      "points": [
+        "Australian datacentre buildout is smaller and more regulated compared to the US.",
+        "Growing resentment towards AI datacentres in Australia mirrors the US trend.",
+        "Officials argue social media spreads US debates, inflaming local negative reactions."
+      ]
+    },
+    {
+      "summary": "A powerful nor'easter storm hit the US northeast, causing power outages and flooding.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
+      "points": [
+        "About 100,000 customers experienced power outages.",
+        "The storm affected New Jersey, Massachusetts, Delaware, and New York.",
+        "Dangerous conditions were created by heavy rains and high winds."
+      ]
+    },
+    {
+      "summary": "DeepSeek Elastic Compute (DSec) is a sandbox infrastructure designed for large-scale agentic training with large language models.",
+      "significance": "DSec enables efficient, large-scale agentic training with large language models by providing a flexible sandbox infrastructure, enhancing performance and resource management.",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "points": [
+        "DSec supports over 380,000 concurrent sandboxes and creates over 5,000 sandboxes per second.",
+        "The platform uses a unified SDK to expose multiple sandbox backends including FnCall, container, microVM, and full-VM.",
+        "DSec is co-designed with a reinforcement learning framework to manage stateful execution and preemptible GPU training."
+      ]
+    },
     {
       "summary": "Palestinian careers adviser sues NSW over directive to stop wearing keffiyeh at Sydney school.",
       "significance": "The case highlights potential racial discrimination in educational settings over cultural attire, impacting policies on cultural expression.",
