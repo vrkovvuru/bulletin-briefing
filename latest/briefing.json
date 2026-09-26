@@ -2,22 +2,58 @@
   "date": "2026-09-26",
   "stories": [
     {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+      "summary": "US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.",
+      "alsoReportedBy": ["BBC News", "The Guardian", "Al Jazeera"]
     },
     {
-      "title": "Man City chairman confident club will prove innocence",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "South African police discover body of 10th woman near Johannesburg",
+      "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Police are investigating the killings in a country with one of the highest femicide rates in the world.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
+      "alsoReportedBy": []
     },
     {
       "title": "Heathrow Airport warns third runway could be delayed by four years",
@@ -26,33 +62,6 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Women take up arms as sexual violence ravages eastern DRC",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "At least 10 people killed in Russian and Ukrainian attacks",
-      "url": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "New strikes come after the US proposes a fresh round of Russia-Ukraine ceasefire talks in the UAE.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians.",
       "alsoReportedBy": []
     },
     {
@@ -65,15 +74,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
-      "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "‘Refusing to meet Trump was an easy no’: Colin Kaepernick on being ‘blackballed’ for taking the knee, racism, and why he’s still ready to play",
       "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/26/colin-kaepernick-interview-nfl-taking-the-knee",
       "source": "The Guardian",
@@ -83,21 +83,48 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The AI safety debate is confusing. Here's our guide to the different factions",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
-      "source": "NPR",
+      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion",
+      "url": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate.",
+      "summary": "Emergency teams discovered victims after two-storey building in historic Plaka district collapsed ‘in seconds’ Greek authorities say they are trying to discover what caused a two-storey apartment block in the heart of ancient Athens to collapse “in a matter of seconds”, killing six people. Emergency teams found the victims, including four American tourists, on Saturday, more than 24 hours after the early morning explosion in the historic Plaka district. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Andy Burnham announces new homes scheme for first-time buyers",
-      "url": "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-announces-new-scheme-for-first-time-home-buyers-england",
+      "title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Third person arrested in death of Tasia Fortune, as police say hanging was staged",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/mississippi-tasia-fortune-arrest-hanging-staged",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Exclusive: Policy initiative for England will help more young people on to property ladder, prime minister tells Guardian A new help-to-buy scheme aimed at giving first-time buyers who cannot rely on the “bank of mum and dad” is to be introduced in a big policy announcement by Andy Burnham. The programme, called “Your first home”, is intended to help buyers in England who have a regular income but have been unable to save for a large deposit or don’t have financial support from their family. Continue reading...",
+      "summary": "Eric Clark, 45, charged with murder as autopsy concludes Fortune was dead days before body discovered in tree A third person has been arrested in the death of 29-year-old Tasia Fortune in Mississippi ’s capital city, while investigators said they had determined the scene where her body was found hanging had been staged. Eric Clark, 45, surrendered to authorities on Friday and was charged with murder, according to the Jackson police department (JPD). Clark was scheduled to make a court appearance on Monday. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The visit comes at an important time for both men.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Tenth woman's body found in South Africa suburb as police probe killings",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The deaths have sparked a national outcry about the scale of violence against women in the country.",
       "alsoReportedBy": []
     },
     {
@@ -119,21 +146,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/pennsylvania-measles-outbreak-spreads",
+      "title": "Wisconsin police investigating fraternity for hazing after men found in basement",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/university-of-wisconsin-fraternity-hazing",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "173 people hospitalized and four deaths in state so far, with less than 1% of those infected having been vaccinated The Pennsylvania department of health (DOH) announced on Friday that 55 new measles cases had been reported in the state since Wednesday, with officials continuing efforts to contain an outbreak of the disease that has spread across dozens of counties. In a news release , the DOH said that 890 measles cases had been confirmed across 39 counties in the state so far for the year. The outbreak had resulted in 173 hospitalizations in the state and four measles-associated deaths , the statement added. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
-      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt. The decision ends the operation, offering, intermediation and advertising of betting. Continue reading...",
+      "summary": "Pledges found covered in food in heated basement of fraternity house near University of Wisconsin-Madison Police are investigating suspected illegal hazing after about 30 partially clothed young men covered in food, condiments and other liquids were found recently in the basement of a fraternity house near the University of Wisconsin -Madison campus. Madison police said some of the men, whom they described as pledges of a fraternity, had signs of being physically assaulted. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,24 +164,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The visit comes at an important time for both men.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "New research finds 485 chemicals in US pesticide products linked to breast cancer",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Paper raises questions about safety of food and other products as early onset breast cancer rates surge worldwide New research has identified at least 485 chemicals used in US pesticide products that are linked to breast cancer, raising questions about the safety of food and other products at a time when early onset breast cancer rates are surging worldwide . The new peer-reviewed paper , published in Environmental Health Perspectives, a top journal from the American Chemical Society, highlights what public health advocates say are a range of deficiencies in how US pesticides are regulated. The review includes active pesticide ingredients, but also hundreds of so-called “inert”, or inactive, ingredients that typically do not undergo a thorough safety review. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
       "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
       "source": "Guardian World",
@@ -173,53 +173,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
-      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-year-old girl, as the country’s police face allegations of corruption and failing to tackle violence against women and girls. Shadrack Sibiya, who was already suspended from his role as deputy national police commissioner over allegations he interfered with political killings investigations, was arrested on Monday. He is facing charges of rape, people trafficking, promoting the sexual grooming of a child and two counts of grooming a child. Continue reading...",
+      "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt. The decision ends the operation, offering, intermediation and advertising of betting. Continue reading...",
       "alsoReportedBy": []
     },
     {
       "title": "If we do not stop to help each other, what do we become?",
       "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Infecting the Steam Link with NixOS",
-      "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Commodified Intelligence",
-      "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -236,12 +200,48 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Infecting the Steam Link with NixOS",
+      "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
       "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "37signals &#8211; the creator of Ruby on Rails (RoR) &#8211; moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The state of SIMD in Rust in 2026",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
