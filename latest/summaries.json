@@ -1,6 +1,54 @@
 {
-  "generated": "2026-09-26T00:40:40.942488Z",
+  "generated": "2026-09-26T02:41:15.996917Z",
   "summaries": [
+    {
+      "summary": "Pope Leo XIV made his first official Papal visit to France in nearly 20 years, drawing large crowds.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss",
+      "points": [
+        "Pope Leo XIV's visit to France marks the first official Papal visit in 18 years.",
+        "The Pope addressed thousands of young people at the Stade de France.",
+        "Large crowds gathered for the Pope's mass and message of encouragement."
+      ]
+    },
+    {
+      "summary": "Six-year-old Chinese girl sets women\u2019s Rubik\u2019s Cube world record with average solve time of over four seconds.",
+      "significance": "The story highlights the intense training and early specialization in competitive activities among young Chinese children, impacting views on childhood development and competition.",
+      "url": "https://www.theguardian.com/world/2026/sep/26/dream-come-true-six-year-old-rubiks-cube-world-record",
+      "points": [
+        "Lian Yunzhi trains up to three hours daily for competitions.",
+        "Mother describes daughter's achievement as a \"dream come true.\"",
+        "Lian receives autograph requests from fellow students post-achievement."
+      ]
+    },
+    {
+      "summary": "Trump cancels nearly $1bn in Congress-approved funding for immigrant services and diversity initiatives.",
+      "significance": "Trump's action affects immigrant services and alters funding allocations despite congressional approval.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
+      "points": [
+        "Trump uses rare power to revoke $1bn in approved expenditures.",
+        "Funding cut targets \"most harmful government spending\" on immigrant services.",
+        "Move affects diversity-focused initiatives with bipartisan Congressional backing."
+      ]
+    },
+    {
+      "summary": "South Africa's deputy national police commissioner charged with raping an 18-year-old and grooming a 16-year-old.",
+      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "points": [
+        "Shadrack Sibiya already suspended over political killings investigation interference.",
+        "Sibiya faces additional charges including people trafficking and promoting child sexual grooming.",
+        "Arrest occurs amid national concerns over police corruption and violence against women."
+      ]
+    },
+    {
+      "summary": "The article discusses how AI is transforming computing, blurring lines between users and programmers, and changing the concept of operating systems.",
+      "significance": "The story highlights how AI is fundamentally altering the relationship between users and computers, potentially making programming more accessible and changing software distribution.",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "points": [
+        "AI allows users to create personalized applications using natural language.",
+        "Traditional software distribution and application concepts are becoming obsolete.",
+        "The future involves more personalized, small-scale applications rather than mass-produced software."
+      ]
+    },
     {
       "summary": "Melburnians protest a council ban on drinking in Canning Street's median strip with a picnic.",
       "significance": "Melburnians protest a council ban on drinking in a beloved picnic spot, preserving a local tradition of outdoor socializing.",
