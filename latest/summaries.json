@@ -1,6 +1,25 @@
 {
-  "generated": "2026-09-25T22:42:18.129712Z",
+  "generated": "2026-09-26T00:40:40.942488Z",
   "summaries": [
+    {
+      "summary": "Melburnians protest a council ban on drinking in Canning Street's median strip with a picnic.",
+      "significance": "Melburnians protest a council ban on drinking in a beloved picnic spot, preserving a local tradition of outdoor socializing.",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
+      "points": [
+        "Protesters gathered with punch bowls, chips, and laughter.",
+        "The event took place on a spring evening in Carlton.",
+        "Picnickers set up tables with tablecloths and flowers, defying the ban."
+      ]
+    },
+    {
+      "summary": "FBI agents express fear and anger over a data breach that compromised personal and private information of the entire workforce.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "ShinyHunters, an English-speaking hacking group, breached FBI systems and threatens to publish stolen data within four days.",
+        "The stolen data includes personal information like home addresses, job titles, and sensitive medical records of thousands of agents.",
+        "Agents fear physical attacks and sophisticated phishing scams, with some believing the FBI's response is inadequate."
+      ]
+    },
     {
       "summary": "Netanyahu labels Al Jazeera a \"toxic media outlet\" and views media as an \"eighth front\" in Israel's conflict.",
       "significance": "Netanyahu's statement escalates tensions, following Israel's actions against Al Jazeera, including shutting down operations and restricting media access to Gaza.",

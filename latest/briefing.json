@@ -2,21 +2,39 @@
   "date": "2026-09-25",
   "stories": [
     {
+      "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Iran&#039;s FM says the \"choice rests with the US\" to approve the proposed seven-day proposal to reopen Hormuz.",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
+      "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Thousands gather in Paris as the pope warns against a &#039;paradise of machines&#039; at the Elysee Palace.",
+      "alsoReportedBy": ["NPR"]
+    },
+    {
+      "title": "US court rules against Kalshi, says states can regulate prediction markets",
+      "url": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "US appeals courts have varied on regulation of prediction markets, opening the door to US Supreme Court debate.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Supreme Court blocks Trump-backed Missouri congressional map",
       "url": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary elections.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
       "alsoReportedBy": []
     },
     {
@@ -29,30 +47,12 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
-      "url": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Kylian Mbappe scores the only goal of France&#039;s win in Turkiye, but Real Madrid striker immediately forced off by injury.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Asked about the Iranian offer, a US official said discussions were taking place through mediators.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "What would a US diesel export ban mean for global fuel prices?",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.",
+      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
       "alsoReportedBy": []
     },
     {
@@ -74,6 +74,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Trump and Chinese president Xi end summit without major agreement on AI",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Xi’s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to pause their respective countries’ AI arms race Donald Trump and Chinese president Xi Jinping wrapped up their Washington summit on Friday, facing criticism that they had squandered an opportunity to pause their countries’ artificial intelligence (AI) arms race. The three-day state visit emphasised pageantry and personal rapport rather than substantial agreements. The US president and Xi discussed the wars in Iran and Ukraine and the status of Taiwan. Their biggest policy announcement was a modest two-month extension of a trade truce. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Daniel Thomas pleads not guilty after dinghy slashed",
       "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -83,12 +92,21 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Trump and Chinese president Xi end summit without major agreement on AI",
-      "url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Xi’s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to pause their respective countries’ AI arms race Donald Trump and Chinese president Xi Jinping wrapped up their Washington summit on Friday, facing criticism that they had squandered an opportunity to pause their countries’ artificial intelligence (AI) arms race. The three-day state visit emphasised pageantry and personal rapport rather than substantial agreements. The US president and Xi discussed the wars in Iran and Ukraine and the status of Taiwan. Their biggest policy announcement was a modest two-month extension of a trade truce. Continue reading...",
+      "title": "Two arrested after people seen mysteriously emerging from various New York City sewers",
+      "url": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The city has seen a string of incidents in which people have climbed out of manholes late at night.",
+      "alsoReportedBy": ["Guardian World"]
+    },
+    {
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
       "alsoReportedBy": []
     },
     {
@@ -101,6 +119,42 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Free the Strip! Melburnians fight back against outlawing of much-loved picnic spot",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "A council ban on drinking on the median strip in Canning Street, Carlton, sparks a peaceful protest featuring punch bowls, chips and laughter Get our breaking news email , free app or daily news podcast It looked like a typical spring evening on Melbourne’s Canning Street when a few dozen picnickers gathered on the grassy median strip on Friday, with drinks in hand. People in one group who’d come with a full al fresco setting chattered as they ladled punch out of a glass bowl on a wooden table, set with a tablecloth and yellow flowers in a vase. Others sat on picnic blankets, passing around bags of chips. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Are Ethiopians marching back to war in Tigray?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Ex-American Idol contestant told lover he dreamed of killing wife, murder trial hears",
       "url": "https://www.theguardian.com/us-news/2026/sep/25/american-idol-contestant-accused-of-told-lover",
       "source": "Guardian World",
@@ -110,12 +164,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Nearly 200 people wrongly identified on Nevada’s voter rolls as non-citizens",
-      "url": "https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error",
-      "source": "Guardian World",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "State election officials said they reviewed 185 records homeland security sent them and confirmed they were US citizens The Department of Homeland Security (DHS) wrongly identified 185 people on Nevada’s voter rolls as non-citizens, state officials said this week, escalating concerns over the shoddy methodology the government is using to raise fear about non-citizen voting ahead of the midterm elections. In July, Donald Trump gave a speech saying DHS had found a combined 278,000 non-citizens on the rolls in Nevada, California, Pennsylvania and New Jersey. Follow-up letters to each of those states weakened the claim, saying there only could be as many as 278,000 non-citizens on the rolls, including up to 15,903 in Nevada. Continue reading...",
+      "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
       "alsoReportedBy": []
     },
     {
@@ -128,69 +182,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Former U.S. ambassador to China on Xi Jinping's visit to Washington",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5979917/former-u-s-ambassador-to-china-on-xi-jinpings-visit-to-washington",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to China Nicholas Burns about Chinese President Xi Jinping's visit to Washington and what has been accomplished.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "New Jersey lieutenant governor resigns after sexual harassment accusation",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Investigation determined Dale Caldwell violated state ethics rules and engaged in harassing behavior Dale Caldwell, the lieutenant governor of New Jersey, resigned from his position on Friday, after the release of a report accusing him of sexually harassing a female staffer, among other ethics violations. New Jersey’s governor, Mikie Sherrill, announced on Friday afternoon that Caldwell had submitted his resignation to her earlier in the day. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Middle East crises draw major focus as the U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
-      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the struggling London Stock Exchange . Airtel Money, the mobile money arm of Airtel Africa, is planning one of the biggest UK listings in years, in a boost for the shrinking London market that has faced a string of recent departures . Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": ["Lobsters", "Hacker News"]
-    },
-    {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "source": "Hacker News",
@@ -200,8 +191,26 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": ["Lobsters"]
+    },
+    {
       "title": "Goodbye Google",
       "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Commodified Intelligence",
+      "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -215,15 +224,6 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "37signals &#8211; the creator of Ruby on Rails (RoR) &#8211; moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-      "url": "https://greasyfork.org/en/scripts?by=1646191",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -254,8 +254,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Excel now supports multiple values in a single cell",
-      "url": "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756",
+      "title": "Platform-independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,12 +263,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Commodified Intelligence",
-      "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+      "title": "Amiga screens: a primer",
+      "url": "https://www.datagubbe.se/amscr/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+      "url": "https://www.latent.space/p/openrouter",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B.",
       "alsoReportedBy": []
     },
     {
@@ -315,15 +324,6 @@
       "categoryLabel": "AI & Agents",
       "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags: coding-agents , ai , llms",
       "alsoReportedBy": ["Simon Willison"]
-    },
-    {
-      "title": "Foundries vs Navigators: Lowering the Cost of Science",
-      "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
-      "alsoReportedBy": []
     },
     {
       "title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
