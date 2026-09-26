@@ -2,40 +2,40 @@
   "date": "2026-09-26",
   "stories": [
     {
-      "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.",
-      "alsoReportedBy": ["BBC News", "The Guardian", "Al Jazeera"]
-    },
-    {
-      "title": "Republic of Ireland to wear black armbands for Israel game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
     },
     {
-      "title": "South African police discover body of 10th woman near Johannesburg",
-      "url": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Police are investigating the killings in a country with one of the highest femicide rates in the world.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
+      "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
       "alsoReportedBy": []
+    },
+    {
+      "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ireland decide to play Israel in Nations League after squad vote",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Ireland&#039;s players have voted to proceed with their Nations League fixture against Israel on Sunday.",
+      "alsoReportedBy": ["Al Jazeera"]
     },
     {
       "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
@@ -47,21 +47,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+      "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Cuba’s FM, Bruno Rodriguez Parrilla, has accused the US at the UN of waging an economic war against the Cuban people.",
+      "summary": "Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved.",
       "alsoReportedBy": []
     },
     {
-      "title": "Heathrow Airport warns third runway could be delayed by four years",
-      "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+      "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
       "alsoReportedBy": []
     },
     {
@@ -83,12 +92,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion",
-      "url": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Emergency teams discovered victims after two-storey building in historic Plaka district collapsed ‘in seconds’ Greek authorities say they are trying to discover what caused a two-storey apartment block in the heart of ancient Athens to collapse “in a matter of seconds”, killing six people. Emergency teams found the victims, including four American tourists, on Saturday, more than 24 hours after the early morning explosion in the historic Plaka district. Continue reading...",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
       "alsoReportedBy": []
     },
     {
@@ -101,21 +110,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Third person arrested in death of Tasia Fortune, as police say hanging was staged",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/mississippi-tasia-fortune-arrest-hanging-staged",
+      "title": "Palestinian careers adviser who was allegedly told to stop wearing keffiyeh at Sydney school sues for racial discrimination",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/27/palestinian-careers-adviser-who-was-allegedly-told-to-stop-wearing-keffiyeh-at-sydney-school-sues-for-racial-discrimination-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Eric Clark, 45, charged with murder as autopsy concludes Fortune was dead days before body discovered in tree A third person has been arrested in the death of 29-year-old Tasia Fortune in Mississippi ’s capital city, while investigators said they had determined the scene where her body was found hanging had been staged. Eric Clark, 45, surrendered to authorities on Friday and was charged with murder, according to the Jackson police department (JPD). Clark was scheduled to make a court appearance on Monday. Continue reading...",
+      "summary": "Wasim El-Haj alleges NSW government school ordered him to stop wearing symbolic garment as it ‘may cause discord’ Get our breaking news email , free app or daily news podcast A Palestinian careers adviser who was allegedly directed to stop wearing a keffiyeh at a Sydney government school because it was a symbol that “may cause discord” has lodged a racial discrimination case in the federal court against the state of New South Wales. Wasim El-Haj, a former careers adviser at Sydney Girls High School – an inner-city selective government school – alleges the then acting principal told him in 2024 that the keffiyeh was seen as a symbol of conflict. He alleges the state’s conduct is unlawful for breaching the Racial Discrimination Act. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-      "source": "NPR World",
+      "title": "Private colleges around Australia offering last-minute discounts for diploma allegedly ‘misused by shonks’",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/27/australia-private-colleges-discount-deregistered-management-diploma-visa-crackdown-immigration-ntwnfb",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The visit comes at an important time for both men.",
+      "summary": "Federal government to deregister graduate diploma of management in October over fears it was being used by ‘non-genuine’ students to remain in country Get our breaking news email , free app or daily news podcast Private colleges are offering discounts to rush students into a diploma the federal government is cancelling over concerns it is being “misused by shonks”. The government announced in early September it would deregister the graduate diploma of management (learning) which it suspected was being used by “non-genuine” students to remain in Australia. The course is taught by close to 450 institutions, has over 15,000 students studying currently and more than 40,000 students registered for future enrolment following completion of a different vocational course. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -137,6 +146,33 @@
       "alsoReportedBy": []
     },
     {
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘Miracle on the Hudson’ pilot Chesly Sullenberger inducted into US Aviation Hall of Fame",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/chesley-sullenberger-national-aviation-hall-of-fame",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Sullenberger landed a disabled passenger plane safely in the Hudson River in 2009 without any loss of life Capt Chesley “Sully” Sullenberger III – the pilot known for safely landing a US Airways flight in New York City’s Hudson River during a 2009 emergency – has been inducted into the US’s National Aviation Hall of Fame, two months after he went public with an Alzheimer’s disease diagnosis. Sullenberger, 75, received the honor during a ceremony held in Washington DC on Thursday, 17 years after he engineered what has become widely known as the Miracle on the Hudson. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "alsoReportedBy": ["BBC World"]
+    },
+    {
       "title": "Brazil's Lula bans online gambling ahead of presidential election",
       "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -146,44 +182,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Wisconsin police investigating fraternity for hazing after men found in basement",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/university-of-wisconsin-fraternity-hazing",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Pledges found covered in food in heated basement of fraternity house near University of Wisconsin-Madison Police are investigating suspected illegal hazing after about 30 partially clothed young men covered in food, condiments and other liquids were found recently in the basement of a fraternity house near the University of Wisconsin -Madison campus. Madison police said some of the men, whom they described as pledges of a fraternity, had signs of being physically assaulted. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed. About 600,000 people died between 2020 and 2022 during a devastating war between the Ethiopian army and the political party and paramilitary group the Tigray People’s Liberation Front (TPLF). Both sides are now accusing the other of triggering a return to open conflict. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
-      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the struggling London Stock Exchange . Airtel Money, the mobile money arm of Airtel Africa, is planning one of the biggest UK listings in years, in a boost for the shrinking London market that has faced a string of recent departures . Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
-      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt. The decision ends the operation, offering, intermediation and advertising of betting. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "If we do not stop to help each other, what do we become?",
-      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "title": "Infecting the Steam Link with NixOS",
+      "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -191,8 +191,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,8 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Infecting the Steam Link with NixOS",
-      "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,21 +227,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Go concurrency distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
       "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "37signals &#8211; the creator of Ruby on Rails (RoR) &#8211; moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The state of SIMD in Rust in 2026",
-      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "source": "Hacker News",
+      "title": "Commodified Intelligence",
+      "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",

@@ -1,6 +1,53 @@
 {
-  "generated": "2026-09-26T18:41:09.734175Z",
+  "generated": "2026-09-26T20:41:54.285111Z",
   "summaries": [
+    {
+      "summary": "Palestinian careers adviser sues NSW over directive to stop wearing keffiyeh at Sydney school.",
+      "significance": "The case highlights potential racial discrimination in educational settings over cultural attire, impacting policies on cultural expression.",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/27/palestinian-careers-adviser-who-was-allegedly-told-to-stop-wearing-keffiyeh-at-sydney-school-sues-for-racial-discrimination-ntwnfb",
+      "points": [
+        "Wasim El-Haj alleges he was told to stop wearing keffiyeh in 2024.",
+        "Case filed against New South Wales in federal court for racial discrimination.",
+        "Alleges directive was given by acting principal at Sydney Girls High School."
+      ]
+    },
+    {
+      "summary": "Federal government to cancel graduate diploma of management in October due to misuse by non-genuine students.",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/27/australia-private-colleges-discount-deregistered-management-diploma-visa-crackdown-immigration-ntwnfb",
+      "points": [
+        "Government suspects diploma misuse by students to stay in Australia.",
+        "Nearly 450 institutions teach the graduate diploma of management.",
+        "Over 15,000 current students and more than 40,000 future enrolments affected."
+      ]
+    },
+    {
+      "summary": "Pilot Chesley Sullenberger, known for the \"Miracle on the Hudson,\" inducted into National Aviation Hall of Fame.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/chesley-sullenberger-national-aviation-hall-of-fame",
+      "points": [
+        "Inducted two months after revealing Alzheimer's disease diagnosis.",
+        "Landed US Airways flight safely in Hudson River in 2009.",
+        "Ceremony took place in Washington DC on Thursday."
+      ]
+    },
+    {
+      "summary": "Reladraw is a diagramming tool that allows users to specify object placements relative to each other, offering a middle ground between auto-layout and absolute-positioning tools.",
+      "url": "https://github.com/reladraw/reladraw",
+      "points": [
+        "Reladraw uses relative positioning, avoiding pixel coordinates or nested dependencies.",
+        "The tool is early in development, currently at version 0.4.0, with a parser, resolver, and SVG renderer.",
+        "It aims to balance between auto-layout languages like Mermaid and absolute-positioning tools like Excalidraw."
+      ]
+    },
+    {
+      "summary": "The article provides an overview of Go concurrency, focusing on goroutines, channels, and synchronization mechanisms.",
+      "significance": "This story matters as it provides an interactive and concise refresher on Go concurrency for programmers familiar with the basics, enhancing their understanding and practical skills.",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "points": [
+        "Goroutines are lightweight threads managed by the Go runtime, allowing for the creation of hundreds or thousands of them.",
+        "Channels enable goroutines to communicate by sending and receiving data, with options for buffered and unbuffered channels.",
+        "Wait groups help synchronize goroutines by blocking the main function until all goroutines have finished their tasks."
+      ]
+    },
     {
       "summary": "Six people, including four American tourists, died after an explosion caused a two-storey building to collapse in Athens' Plaka district.",
       "significance": "Greek authorities investigate cause of explosion that led to the collapse of an apartment building, affecting local residents and foreign tourists in Athens' historic district.",
