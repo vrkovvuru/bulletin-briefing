@@ -1,6 +1,72 @@
 {
-  "generated": "2026-09-26T12:43:07.785871Z",
+  "generated": "2026-09-26T14:42:19.383377Z",
   "summaries": [
+    {
+      "summary": "Trump reportedly rejects Iran\u2019s proposal to reopen the Strait of Hormuz and resume nuclear talks within a week.",
+      "significance": "Trump's rejection of Iran\u2019s peace deal could escalate tensions and affect global oil prices, given the strait of Hormuz's strategic importance.",
+      "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+      "points": [
+        "Iran proposes reopening Strait of Hormuz and resuming nuclear talks in seven days.",
+        "Trump privately sceptical Iran will dismantle its nuclear programme as demanded.",
+        "US has imposed a naval blockade on Iranian ports as part of the ongoing tensions."
+      ]
+    },
+    {
+      "summary": "Pennsylvania reports 55 new measles cases, totaling 890 cases with 173 hospitalizations and four deaths.",
+      "significance": "The story highlights the severity of the measles outbreak in Pennsylvania, marked by a significant spike in cases, hospitalizations, and deaths, underscoring the importance of vaccination.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/pennsylvania-measles-outbreak-spreads",
+      "points": [
+        "890 measles cases confirmed across 39 counties in Pennsylvania.",
+        "Less than 1% of infected individuals were vaccinated.",
+        "Outbreak resulted in 173 hospitalizations and four deaths."
+      ]
+    },
+    {
+      "summary": "Research identifies 485 chemicals in US pesticides linked to breast cancer, questioning food safety.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
+      "points": [
+        "485 chemicals in US pesticides linked to breast cancer identified.",
+        "Study published in Environmental Health Perspectives, a top journal.",
+        "Includes both active and \"inert\" pesticide ingredients lacking thorough safety review."
+      ]
+    },
+    {
+      "summary": "Anthropic announced watermarking in future Claude models, which impacts AI behavior and safety.",
+      "significance": "The story matters because it reveals how LLM watermarking can alter AI agent behavior, impacting both safety and security, and has regulatory implications.",
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "points": [
+        "Anthropic's future Claude models will embed invisible watermarks based on Google DeepMind\u2019s technology.",
+        "Watermarking affects AI model refusal behavior and agent tool calling, impacting both what the model says and does.",
+        "The impact of watermarking on model behavior is model- and key-dependent, observed across seven tested models."
+      ]
+    },
+    {
+      "summary": "The article discusses the advancements and complexities of SIMD (Single Instruction, Multiple Data) in Rust programming language as of 2026.",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "points": [
+        "Fearless SIMD library now has Sergey \"Shnatsel\" Davidoff as a maintainer.",
+        "Recent x86 chips support SIMD batches up to 512 bits, potentially offering an 8x speedup for math operations.",
+        "WebAssembly uses a straightforward naming convention for its SIMD extension, calling it the \"WebAssembly 128-bit packed SIMD extension."
+      ]
+    },
+    {
+      "summary": "A software engineer reflects on the importance of community support during challenging times and the potential loss of human connection in online forums.",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "points": [
+        "The writer faced extreme conditions during the Zamboanga Siege in 2013 while pursuing education.",
+        "Stack Overflow and other community members provided crucial support when others ignored the writer's requests.",
+        "The author expresses concern over the depersonalization of online communities by AI, emphasizing the value of human connection."
+      ]
+    },
+    {
+      "summary": "A user details the process of installing NixOS on a Steam Link device originally purchased in 2018.",
+      "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+      "points": [
+        "User compiled NixOS userspace and kernel/initrd for the Steam Link.",
+        "Overcame bootloader restrictions by using a kexec module for old kernels.",
+        "Reduced the NixOS disk image size from 2.3GB to 1.2GB through various optimizations."
+      ]
+    },
     {
       "summary": "Former NFL quarterback Colin Kaepernick discusses his decision to kneel during the national anthem and its impact on his career and activism.",
       "significance": "Kaepernick's persistence highlights the lasting impact of his protest on discussions about racism and civil rights.",
