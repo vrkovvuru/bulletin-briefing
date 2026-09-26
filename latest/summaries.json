@@ -1,6 +1,116 @@
 {
-  "generated": "2026-09-26T04:41:38.376735Z",
+  "generated": "2026-09-26T12:43:07.785871Z",
   "summaries": [
+    {
+      "summary": "Former NFL quarterback Colin Kaepernick discusses his decision to kneel during the national anthem and its impact on his career and activism.",
+      "significance": "Kaepernick's persistence highlights the lasting impact of his protest on discussions about racism and civil rights.",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/26/colin-kaepernick-interview-nfl-taking-the-knee",
+      "points": [
+        "Kaepernick still trains daily despite not playing in 10 years.",
+        "His activism led to exclusion from the NFL and accusations of disrespecting the flag.",
+        "At 38, Kaepernick remains prepared for a potential return to football."
+      ]
+    },
+    {
+      "summary": "Manchester City manager Enzo Maresca posted a cryptic message after the club was found guilty of breaching financial rules.",
+      "url": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
+      "points": [
+        "Noel Gallagher, an Oasis star and fan, expressed shock and sadness.",
+        "City faces over 100 charges and plans to appeal the guilty verdict."
+      ]
+    },
+    {
+      "summary": "Brazilian President Lula bans fixed-odds sports betting ahead of elections to tackle family debt.",
+      "significance": "Lula's ban on fixed-odds sports betting targets family debt issues ahead of Brazilian elections, potentially gaining public approval.",
+      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+      "points": [
+        "Ban includes operation, offering, intermediation, and advertising of betting.",
+        "Decision made a week before the first round of presidential elections.",
+        "President describes measure as 'hard, drastic and necessary'."
+      ]
+    },
+    {
+      "summary": "Venezuelan man shot by ICE officers during a traffic stop in Texas needs surgery to avoid losing feeling in his body.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/venezuelan-man-ice-shooting-austin-texas",
+      "points": [
+        "Wilber Rafael Garcés Pérez, 28, has a bullet lodged in his back.",
+        "Pérez has been in detention for five days since the shooting.",
+        "ICE quickly moved him from the hospital in Austin after the incident on Sunday."
+      ]
+    },
+    {
+      "summary": "UK government intensifies efforts to outlaw for-profit ticket resale amid pressure from artists.",
+      "url": "https://www.theguardian.com/business/2026/sep/26/work-intensifying-uk-laws-stamp-out-concert-ticket-touts",
+      "points": [
+        "Keir Starmer pledged to \"stop fans from being ripped off\" by ticket touts.",
+        "Artists like Tinie Tempah and Mike Joyce from the Smiths pressured the government.",
+        "New laws aim to ban for-profit resale on platforms like Viagogo and StubHub."
+      ]
+    },
+    {
+      "summary": "Thomas Jefferson's 1787 letter advising on national prosperity is for sale, with warnings relevant to Trump.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/thomas-jefferson-letter-trump-warning",
+      "points": [
+        "Letter advises on peace, debt repayment, and agricultural support.",
+        "Written in Paris to David Rittenhouse, a member of the American Philosophical Society.",
+        "Jefferson's notes caution against actions similar to those taken by Trump."
+      ]
+    },
+    {
+      "summary": "Daily life struggles in Gaza are highlighted through the experiences of five individuals, focusing on mundane yet challenging tasks.",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/26/we-followed-five-people-in-gaza-from-dawn-to-dusk-this-is-what-the-headlines-dont-tell-us",
+      "points": [
+        "Alaa Hessi calculates gas rations for cooking in her final month of pregnancy.",
+        "Hessi's family receives only 6kg of gas every three months for cooking.",
+        "Morning tea requires building a fire due to limited gas for essential cooking."
+      ]
+    },
+    {
+      "summary": "Developer Daniel Gultsch makes his Android app Conversations free after ending ties with Google Play due to frustrations with the platform.",
+      "significance": "The story highlights the challenges of maintaining an app business under Google Play's policies, leading to Conversations becoming free.",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "points": [
+        "Google Play took a 15% cut, costing Gultsch over 1000 Euro annually.",
+        "Conversations has been removed from the Play Store twice due to unverified accusations.",
+        "Gultsch now relies more on grants and F-Droid for distribution, reducing dependency on Google Play."
+      ]
+    },
+    {
+      "summary": "The origin story of Apple's Cards app, launched in 2011, reveals challenges and unique postal service collaborations.",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "points": [
+        "Steve Jobs initiated the Cards app in 2011, aiming to send thank you cards directly from iPhones.",
+        "Apple worked with the US Postal Service to create invisible barcodes for tracking without visible marks.",
+        "Apple designed a custom heart stamp for the US, unique to the Cards mailing process."
+      ]
+    },
+    {
+      "summary": "A developer recounts their month-long experiment of avoiding AI in personal projects but using it extensively at work, leading to self-reflection on productivity and skill degradation.",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "points": [
+        "Developer stopped using AI in personal FOSS project to avoid drama and set a position against AI.",
+        "At work, AI use became pervasive, leading to a sense of power but also dependency and reduced coding skills.",
+        "Experiment revealed that AI-generated code often required significant review, leading to exhaustion and loss of control over the codebase."
+      ]
+    },
+    {
+      "summary": "An exploration of NetBSD disklabels reveals details about their structure and checksum verification.",
+      "url": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
+      "points": [
+        "Disklabel metadata and partition table structure analyzed.",
+        "Checksum verification through XOR of 16-byte chunks confirmed correct.",
+        "Exploration conducted in a VM for easy manipulation and testing."
+      ]
+    },
+    {
+      "summary": "Floci offers a local, credential-free emulation of major cloud services for faster development and testing.",
+      "url": "https://floci.io",
+      "points": [
+        "Emulates AWS, Azure, GCP, and OCI services locally with no cloud account needed.",
+        "Supports 119 services on port 4566, with a 24 ms cold start and 13 MiB idle memory.",
+        "Provides real Docker containers for Lambda, RDS, Redis, ensuring 100% protocol fidelity."
+      ]
+    },
     {
       "summary": "TikTok settles with Alabama, agreeing to pay $100m and impose restrictions on teenage users.",
       "significance": "The settlement sets a precedent for regulating social media's impact on teenagers and compensates Alabama for alleged misinformation about child protection tools.",
