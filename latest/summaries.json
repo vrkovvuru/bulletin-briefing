@@ -1,6 +1,33 @@
 {
-  "generated": "2026-09-27T02:40:58.968518Z",
+  "generated": "2026-09-27T04:41:17.623449Z",
   "summaries": [
+    {
+      "summary": "US withdrawal from aid programs strains African healthcare, urging local control over health development.",
+      "significance": "US aid withdrawal strains African healthcare, urging regional control over health development.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "points": [
+        "Report highlights Trump administration's cuts to USAID as a major strain.",
+        "Covid-19 pandemic and rising global living costs add urgency to healthcare reform.",
+        "Accra Reset recommends greater regional control over health development."
+      ]
+    },
+    {
+      "summary": "The article discusses the \"Parse, don't validate\" pattern in Rust programming, emphasizing the use of type systems to enforce invariants.",
+      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "points": [
+        "The pattern uses types to ensure a vector is not empty, avoiding runtime checks.",
+        "Examples include using specialized types for non-empty vectors and absolute paths."
+      ]
+    },
+    {
+      "summary": "Researchers demonstrate how to convert an LLM like GLM-5.3-Flash into a decision model similar to Jev, providing typed decisions with probabilities in a single pass.",
+      "significance": "This story matters because it demonstrates how to transform an LLM into a high-speed, efficient decision-making model akin to Jev, potentially broadening LLM applications in high-volume scenarios.",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "points": [
+        "GLM-5.3-Flash enables typed decisions on images, a feature not available with Jev.",
+        "The method returns a probability for each option, indicating the model's confidence in its decision."
+      ]
+    },
     {
       "summary": "US President Trump rejects Iran's proposal to reopen the Strait of Hormuz amid mixed outcomes from UN General Assembly diplomacy.",
       "significance": "The diplomatic week at the UN General Assembly shows mixed outcomes, with the US rejecting Iran's proposal, indicating limited progress in easing tensions.",
