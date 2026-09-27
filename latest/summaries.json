@@ -1,6 +1,107 @@
 {
-  "generated": "2026-09-27T14:42:10.232113Z",
+  "generated": "2026-09-27T16:42:38.989232Z",
   "summaries": [
+    {
+      "summary": "Armani fashion house prepares for potential sale talks with major companies following the designer's death.",
+      "significance": "The story highlights the uncertain future of the Armani fashion house as it navigates potential sales to major conglomerates following the designer's death.",
+      "url": "https://www.theguardian.com/fashion/2026/sep/27/armani-plays-it-safe-ownership-milan-fashion-week",
+      "points": [
+        "Giorgio Armani's heirs instructed to sell 15% stake within 18 months of his death.",
+        "Possible acquirers include LVMH, L\u2019Oréal, and EssilorLuxottica.",
+        "Armani founded the fashion house in 1975, ruling over it for 50 years."
+      ]
+    },
+    {
+      "summary": "UN ambassador Waltz claims the US rejected Iran\u2019s peace proposal due to Iran's demands for extensive sanctions relief.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
+      "points": [
+        "Mike Waltz stated Iran requested relief from billions in sanctions.",
+        "The US economic blockade targets Iran\u2019s attacks on vessels in the Strait of Hormuz.",
+        "Waltz echoed Trump\u2019s stance that Iran was not negotiating \u2018in good faith\u2019."
+      ]
+    },
+    {
+      "summary": "Report highlights that most of the UK\u2019s essential food crops are grown in drought-risk areas.",
+      "significance": "The story highlights vulnerability in UK food production due to drought risks, affecting essential crop supplies.",
+      "url": "https://www.theguardian.com/business/2026/sep/27/most-of-uks-essential-food-supply-grown-in-drought-risk-areas-report-warns",
+      "points": [
+        "81% of England\u2019s fresh produce is in areas with water stress.",
+        "Crops like cereals, potatoes, sugar, and oils are at risk.",
+        "Analysis comes from nature-focused investment fund Rebalance Earth."
+      ]
+    },
+    {
+      "summary": "Heathrow's third runway faces a four-year delay, with the prime minister avoiding questions on his support for the project.",
+      "url": "https://www.theguardian.com/environment/2026/sep/27/burham-dodges-questions-heathrow-third-runway-delay",
+      "points": [
+        "Heathrow now targets 2029 for planning permission and 2039 for operation.",
+        "Original deadline was set for 2035.",
+        "Project's viability questioned further due to the delay."
+      ]
+    },
+    {
+      "summary": "Burnham dismisses calls for an early election, asserting focus on social care reforms.",
+      "url": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-laura-kuenssberg-show-social-care",
+      "points": [
+        "Burnham states no early election planned despite media speculation.",
+        "Labour currently holds a significant majority in parliament.",
+        "Last year, Burnham attempted a coup against Keir Starmer, which failed."
+      ]
+    },
+    {
+      "summary": "One Nation's general manager Kelvin Morton called David Farley an \"asshole\" in texts before Farley's Farrer byelection win.",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/one-nation-kelvin-morton-david-farley-asshole-farrer-byelection-text-messages-ntwnfb",
+      "points": [
+        "Farley won the historic Farrer byelection for One Nation in May.",
+        "Texts reveal Morton's clash with party HQ staff and Brisbane volunteers."
+      ]
+    },
+    {
+      "summary": "British celebrities successfully opposed AI companies' push for free use of their work and warn Australia against similar reforms.",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright",
+      "points": [
+        "High-profile creatives, like Kylie Minogue, played a crucial role in the UK's fightback.",
+        "The campaign highlighted public attachment to influential songs, books, and pictures.",
+        "Celebrities' involvement ensured media coverage on news fronts and social media."
+      ]
+    },
+    {
+      "summary": "Australia's Reserve Bank expected to raise interest rates to 4.6%, its highest since 2011.",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/rba-expected-to-hike-cash-rate-to-46-its-highest-level-since-2011",
+      "points": [
+        "Rate hike will push typical home loan interest rates to 6.5%.",
+        "Expected to add over $100 to typical monthly mortgage repayments.",
+        "The increase marks the fourth rate hike in 2026."
+      ]
+    },
+    {
+      "summary": "A UX designer details his negative experience with NeoVim due to data loss and questions the software's duty of care.",
+      "significance": "The story highlights a significant lack of user data protection by NeoVim developers, leading to potential data loss and user distrust.",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "points": [
+        "NeoVim deleted the user's undo files, causing loss of data over 20 years.",
+        "The user abandoned NeoVim after finding the software unreliable with user data.",
+        "Raskin\u2019s First Law, mentioned in the article, states a program must not harm a user\u2019s data."
+      ]
+    },
+    {
+      "summary": "The article discusses the normalization of inexplicable failures in technology, using examples like a fictional president struggling with doors and the unreliable performance of AI models like Jev.",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "points": [
+        "Jev, an AI model, provides typed values with probability estimates but lacks clear calibration of confidence scores.",
+        "Users often set arbitrary thresholds (0.5 for \"do nothing,\" 0.9 for \"do high-risk actions\") for Jev's responses without considering specific use cases.",
+        "The article expresses concern over the acceptance of failures as normal, suggesting a lack of interest in diagnosing underlying issues in software development."
+      ]
+    },
+    {
+      "summary": "A personal account of ten lines of code that had significant impacts, ranging from educational to humorous and mischievous.",
+      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "points": [
+        "\"Hello world\" code introduced a kid to computer communication.",
+        "Machine language example showed the ability to modify code while running.",
+        "Using IRC and logging in as root was a common Linux troubleshooting method."
+      ]
+    },
     {
       "summary": "President Trump's frequent use of profanity has brought presidential swearing into the open, changing norms about acceptable language in office.",
       "significance": "President Trump's use of profanity redefines norms for acceptable language in public office, influencing public perception and behavior.",
