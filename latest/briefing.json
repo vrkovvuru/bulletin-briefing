@@ -2,13 +2,31 @@
   "date": "2026-09-27",
   "stories": [
     {
-      "title": "Dozens killed in two mass shootings in South Africa",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+    },
+    {
+      "title": "No handshakes between Republic of Ireland and Israel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Republic of Ireland and Israel players do not shake hands with each other before Sunday's controversial Uefa Nations League game in Hungary.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Why has Trump rejected Iran’s peace proposal?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "At least 27 people have been killed in two mass shootings across South Africa.",
-      "alsoReportedBy": ["BBC News", "The Guardian"]
+      "summary": "The US president has reportedly threatened to resume strikes on Iran.",
+      "alsoReportedBy": []
     },
     {
       "title": "What we know about RAF base counter-terror investigation",
@@ -20,30 +38,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
+      "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+      "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
+      "summary": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.",
       "alsoReportedBy": []
     },
     {
-      "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
-      "url": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
+      "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
+      "url": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
+      "summary": "The billionaire cofounder of Microsoft says, without restrictions, AI could &#039;cause a billion deaths&#039;.",
       "alsoReportedBy": []
     },
     {
-      "title": "England win series as Banton delivers on potential",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
+      "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
       "alsoReportedBy": []
     },
     {
@@ -56,21 +74,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Swiss voters reject stricter neutrality rules that would have curbed Nato cooperation",
-      "url": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
+      "title": "Five arrested on terrorism charges after explosives found near RAF base used by US",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/arrests-suspected-terrorism-charges-explosives-found-near-raf-base-us",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "70% vote against tightening centuries-old neutrality, which far right said was being eroded by sanctions against Russia Swiss voters have decisively rejected a proposal for a strict definition of neutrality that would have required Switzerland to curb cooperation with Nato and abandon sanctions against Russia. All cantons and about 70% of voters rejected the proposal for a strictly defined version of neutrality to be ⁠written into the Swiss constitution, final results from the Federal Statistical Office showed. The motion had been promoted by the far-right Swiss People’s party (SVP). Continue reading...",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Burnham proposes NHS-style social care system for England",
-      "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+      "summary": "Counter-terrorism police investigate whether Iran is behind suspected bomb plot after member of public calls 999 over suspicious vehicles Counter-terrorism police are investigating whether Iran is behind a suspected bomb plot after armed officers found explosives on three vans parked minutes from an RAF base used by the US military. The Guardian understands that after five men were arrested on terrorism charges, investigators were examining materials found in the vans, with an initial view being they were consistent with improvised explosive devices. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -83,12 +92,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Bad language: profane Trump brings presidential swearing out into open",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "President has let rip with swearwords in recent months, redefining norms about acceptable language in public office With a lifetime of political memories stretching back to John F Kennedy’s assassination and the Black civil rights struggles of the 1960s, Cheryl Johnson had one complaint above all else about today’s politicians: the swearing. “All this cursing in politics, we never heard that before,” said Johnson, a retired social worker living in the Pittsburgh area. “Words are very powerful, and the past 45 presidents of this country, have not used such vile language. Continue reading...",
+      "title": "Embattled Serbian president resigns, paving way for early elections",
+      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
       "alsoReportedBy": []
     },
     {
@@ -101,12 +110,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Republican says Trump’s support of Ken Paxton in Texas primary was ‘colossal mistake’",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
+      "title": "Blanche defends Trump’s White House media ban: ‘It’s a privilege … not a right’",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Thom Tillis says Trump’s decision to back Paxton over John Cornyn has put the Senate seat at risk for Republicans US senator Thom Tillis on Sunday criticized Donald Trump , his fellow Republican, for the president’s support of Ken Paxton over incumbent John Cornyn in the Texas Senate Republican primary. “He made a colossal mistake,” Tillis, a frequent Trump critic from North Carolina, said during an interview on CNN’s State of the Union in reference to the president’s support of Paxton who defeated Cornyn in the May primary. Continue reading...",
+      "summary": "US attorney general argues that president is ‘sick and tired’ of inaccurate reporting by CNN, MS Now and Politico Donald Trump ’s attorney general Todd Blanche argued on Sunday that the administration banned three news outlets from the White House because it is “privilege … not a right” to be there. Appearing on the ABC News program This Week during the second week of the White House’s dispute over press credentialing and access, Blanche also said that the administration took the decision to ban CNN, MS Now and Politico beginning on 19 September because the president was “sick and tired” of what he considered to be those media outlets’ inaccurate reporting. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Venezuela releases dozens of political prisoners as election calls grow",
+      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Shannon felt a ‘sense of doom’ as she sought justice for sexual assault. A new NSW program hopes to alleviate that",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/sexual-assault-service-nsw-victim-survivor-opening-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Exclusive: Dedicated service to support sexual assault victim-survivors as they navigate legal system to open in NSW Get our breaking news email , free app or daily news podcast It took Shannon Stokes two years and 11 days to successfully prosecute her former boyfriend for sexual assault and domestic violence offences. The lengthy trial left her feeling as though “there wasn’t going to be an end in sight”. Prosecutors secured convictions on nine of the 11 charges, and he was later sentenced to five years in prison. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -116,6 +143,15 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Republican says Trump’s support of Ken Paxton in Texas primary was ‘colossal mistake’",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Thom Tillis says Trump’s decision to back Paxton over John Cornyn has put the Senate seat at risk for Republicans US senator Thom Tillis on Sunday criticized Donald Trump , his fellow Republican, for the president’s support of Ken Paxton over incumbent John Cornyn in the Texas Senate Republican primary. “He made a colossal mistake,” Tillis, a frequent Trump critic from North Carolina, said during an interview on CNN’s State of the Union in reference to the president’s support of Paxton who defeated Cornyn in the May primary. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -137,53 +173,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
-      "source": "Guardian World",
+      "title": "Four killed in helicopter crash near Montreal",
+      "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working ‘I can deliver’: Burnham pledges radical change on eve of Labour conference Kuenssberg puts it to Burnham that, according to the Health Foundation, a system offering adult social care free at the point of delivery (like healthcare delivered by the NHS) would cost £18bn. Burnham says the cost is “not that high” (ie, not as high as £18bn). Not that high. But can I directly deal with this issue of the costs? Louise Casey is still doing an official review for us, so I will set out the vision, if you like, on Tuesday [in his speech to the conference]. Louise will then help us with the how. How do we make this happen? When can we make it happen? Continue reading...",
+      "summary": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
       "alsoReportedBy": []
     },
     {
-      "title": "Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/27/drumcree-standoff-shows-northern-irelands-troubled-past-still-threatens-its-peace",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Governments will be hoping row over the contentious Orange Order march down Garvaghy Road can be defused Portadown march: latest updates Like a ghost from its troubled past, Drumcree has unexpectedly reappeared to remind people how far Northern Ireland has changed in 30 years but also how easily history can undermine the present, if imperfect, peace and stability. Three decades ago parts of Northern Ireland came to an almost annual standstill as Protestant Orange Order protesters blocked roads in support of members wanting to march down what they called its traditional route, the Garvaghy Road, on the Sunday before the annual 12 July parade. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "One Nation boss called David Farley an ‘asshole’ in lead-up to Farrer byelection, text messages reveal",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/28/one-nation-kelvin-morton-david-farley-asshole-farrer-byelection-text-messages-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Exclusive: Documents seen by Guardian Australia show that Kelvin Morton has also clashed with party HQ staff and Brisbane volunteers Get our new political email , free app or daily news podcast One Nation’s general manager, Kelvin Morton – brought in by the party to improve its vetting processes – referred to David Farley as an “asshole” just days before Farley’s historic Farrer byelection win for the party in May. In a series of text messages seen by Guardian Australia, Morton responds to a news article published in the Sydney Morning Herald about infighting among senior party figures over Farley’s previously undeclared support for the Labor party. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "British celebrities beat AI companies lobbying to get free use of their work. They have a warning for Australia",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "‘People care about the songs, books and pictures that influence the critical moments in their lives,’ says the architect of the fightback in the UK Get our breaking news email , free app or daily news podcast If you want to state the case against copyright reform in Australia, get Kylie Minogue’s phone number. If there is one lesson to be learned from a similar battle in the UK, high-profile members of the creative industries make a difference. They get your argument on the front of newspapers, in the news bulletins and on social media. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "RBA expected to hike cash rate to 4.6%, its highest level since 2011",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/28/rba-expected-to-hike-cash-rate-to-46-its-highest-level-since-2011",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Outcome of meetings of Reserve Bank on Monday and Tuesday will affect Australian mortgage rates, household budgets and house prices Get our breaking news email , free app or daily news podcast Australia’s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than $100 to typical monthly mortgage repayments. The Reserve Bank board is poised to hike the cash rate from 4.35% to 4.6% on Tuesday, which would be the fourth increase in 2026 and push typical home loan interest rates to 6.5%. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
+      "title": "When did Google get so f-ing weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,17 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Writing Efficient C++ Code",
-      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -221,6 +212,15 @@
       "title": "Ten Lines Of Code That Changed My World",
       "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -254,8 +254,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "LuaRocks Security Incident September 2026",
-      "url": "https://luarocks.org/security-incident-september-2026",
+      "title": "postmarketOS rebrands as Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",

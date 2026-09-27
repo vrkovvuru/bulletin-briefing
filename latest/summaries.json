@@ -1,6 +1,72 @@
 {
-  "generated": "2026-09-27T18:42:33.084077Z",
+  "generated": "2026-09-27T20:42:10.662397Z",
   "summaries": [
+    {
+      "summary": "Trump rejected Iran\u2019s peace proposal to reopen the Strait of Hormuz, suggesting Iran needs a deal due to losses.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
+      "points": [
+        "Trump claims Iran needs a deal because it\u2019s losing badly.",
+        "Iran awaits a 'definitive response' from Washington through mediators.",
+        "Experts including Abas Aslani and Ambassador Henry Ensher discuss the implications."
+      ]
+    },
+    {
+      "summary": "Five men arrested on terrorism charges after explosives疑似爆炸装置被发现在一个美军使用的皇家空军基地附近。",
+      "significance": "The arrests and discovery of explosives near a US-used RAF base suggest a potential international terrorism link, possibly involving Iran.",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/arrests-suspected-terrorism-charges-explosives-found-near-raf-base-us",
+      "points": [
+        "警方怀疑伊朗与此次疑似爆炸阴谋有关。",
+        "发现爆炸物的三辆货车停在距美军使用的一个皇家空军基地几分钟路程的地方。",
+        "调查人员初步认为发现的材料与简易爆炸装置一致。"
+      ]
+    },
+    {
+      "summary": "US Attorney General Todd Blanche defended the White House's ban on CNN, MS Now, and Politico, stating it's a privilege, not a right, to have access.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media",
+      "points": [
+        "Todd Blanche argued the ban is due to the president's frustration with inaccurate reporting.",
+        "The ban on three news outlets began on September 19.",
+        "Blanche made the comments on ABC News' This Week program."
+      ]
+    },
+    {
+      "summary": "Shannon Stokes faced a lengthy legal battle for sexual assault justice, highlighting the need for NSW's new support program.",
+      "significance": "A new NSW program aims to support sexual assault victims navigating the legal system, addressing the prolonged trauma experienced by victims like Shannon.",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/sexual-assault-service-nsw-victim-survivor-opening-ntwnfb",
+      "points": [
+        "Shannon's trial lasted two years and 11 days.",
+        "Prosecutors secured nine convictions out of 11 charges.",
+        "NSW is launching a dedicated service to support sexual assault victims navigating the legal system."
+      ]
+    },
+    {
+      "summary": "A Google search for a basketball meme led to an unexpected AI-generated empathetic response instead of relevant links.",
+      "significance": "The story highlights how Google's integration of AI in search results diverges from user expectations, altering the traditional function of search engines.",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "points": [
+        "Google provided an AI overview in 2026, assuming the user was seeking emotional support.",
+        "The search term \"hes never coming over dario\" related to a 2014 Philadelphia 76ers meme.",
+        "Actual search results were buried under the AI-generated content, found only by scrolling down."
+      ]
+    },
+    {
+      "summary": "postmarketOS rebrands as Nura to simplify outreach and branding.",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "points": [
+        "New name \"Nura\" inspired by ancient Sardinian structures, symbolizing stability.",
+        "Previous name \"postmarketOS\" was hard to pronounce and remember in many languages.",
+        "Trademark for \"Nura\" has been filed to protect against fraudulent use."
+      ]
+    },
+    {
+      "summary": "Lofi Cities is a free web app that generates pixel-art city scenes and live lofi music in your browser.",
+      "url": "https://loficities.com/",
+      "points": [
+        "Features 11 cities including Paris, Tokyo, New York, and Sydney.",
+        "Music and city sounds are generated live using the Web Audio API.",
+        "Offers customizable settings for vibe, weather, and city sound mixers."
+      ]
+    },
     {
       "summary": "At least 27 people were killed in two mass shootings in South Africa, targeting a tavern and a shop.",
       "significance": "The story highlights escalating gun violence in South Africa, affecting communities and prompting police investigation into potential motives.",
