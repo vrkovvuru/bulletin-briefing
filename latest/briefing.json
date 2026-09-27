@@ -2,13 +2,13 @@
   "date": "2026-09-27",
   "stories": [
     {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Dozens killed in two mass shootings in South Africa",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "At least 27 people have been killed in two mass shootings across South Africa.",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
       "title": "What we know about RAF base counter-terror investigation",
@@ -20,39 +20,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
-      "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
+      "title": "‘Iran ready for doomsday war’, FM Araghchi says",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Relations strain further as Afghanistan and Pakistan trade accusations over terrorism and cross-border violence.",
+      "summary": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
       "alsoReportedBy": []
     },
     {
-      "title": "Who is Gavin Bazunu, and why is he boycotting the Ireland vs Israel match?",
-      "url": "https://www.aljazeera.com/sports/2026/9/27/who-is-gavin-bazunu-and-why-is-he-boycotting-the-ireland-vs-israel-match?traffic_source=rss",
+      "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+      "url": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Bazunu says his decision to withdraw was based on a &#039;personal belief that the killing of innocent people is wrong&#039;.",
+      "summary": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
       "alsoReportedBy": []
     },
     {
-      "title": "Four men down - but Australia still beat South Africa",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx05r4gg209ro?at_medium=RSS&at_campaign=rss",
+      "title": "England win series as Banton delivers on potential",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Australia are reduced to 11 men but dig in for a remarkable win against a much-changed South Africa side as they beat the world champions 42-38 in Perth.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "The longevity boom is getting ahead of the science",
-      "url": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
+      "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
       "alsoReportedBy": []
     },
     {
@@ -65,21 +56,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-      "source": "NPR",
+      "title": "Swiss voters reject stricter neutrality rules that would have curbed Nato cooperation",
+      "url": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+      "summary": "70% vote against tightening centuries-old neutrality, which far right said was being eroded by sanctions against Russia Swiss voters have decisively rejected a proposal for a strict definition of neutrality that would have required Switzerland to curb cooperation with Nato and abandon sanctions against Russia. All cantons and about 70% of voters rejected the proposal for a strictly defined version of neutrality to be ⁠written into the Swiss constitution, final results from the Federal Statistical Office showed. The motion had been promoted by the far-right Swiss People’s party (SVP). Continue reading...",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Burnham proposes NHS-style social care system for England",
+      "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
       "alsoReportedBy": []
     },
     {
-      "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "title": "Trump wants to remove a question about race in the census. We look back at the history",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5966883/trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Ohio governor's race pits former presidential candidate Vivek Ramaswamy against Democrat Amy Acton, a former state health advisor. Democrats see a chance to win a state that usually votes Republican.",
+      "summary": "The Trump administration wants to stop asking about race and ethnicity on the next U.S. census. Since 1790, the topic has been used to exclude people of color, and, more recently, for inclusion.",
       "alsoReportedBy": []
     },
     {
@@ -101,39 +101,57 @@
       "alsoReportedBy": []
     },
     {
-      "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
+      "title": "Republican says Trump’s support of Ken Paxton in Texas primary was ‘colossal mistake’",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Waltz says Trump rejected Iran’s proposal to end war because they ‘were asking for everything up front’ The Trump administration ’s ambassador to the United Nations said the US rejected Iran ’s proposal to end the ongoing war there because Iranian negotiators “were asking for everything up front”. Echoing comments by Donald Trump on Saturday, the president’s UN ambassador Mike Waltz told CNN’s State of the Union on Sunday that Iran had asked for relief “from billions and billions of sanctions that are going into place” as part of an economic blockade on Iran. The blockade is aimed at putting pressure on Iran to stop its attacks ‌on vessels in the strait of Hormuz. Continue reading...",
+      "summary": "Thom Tillis says Trump’s decision to back Paxton over John Cornyn has put the Senate seat at risk for Republicans US senator Thom Tillis on Sunday criticized Donald Trump , his fellow Republican, for the president’s support of Ken Paxton over incumbent John Cornyn in the Texas Senate Republican primary. “He made a colossal mistake,” Tillis, a frequent Trump critic from North Carolina, said during an interview on CNN’s State of the Union in reference to the president’s support of Paxton who defeated Cornyn in the May primary. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Most of UK’s essential food supply grown in drought-risk areas, report warns",
-      "url": "https://www.theguardian.com/business/2026/sep/27/most-of-uks-essential-food-supply-grown-in-drought-risk-areas-report-warns",
-      "source": "Guardian World",
+      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
+      "url": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Keys crops such as cereals, potatoes, sugar and oils grown in areas with moderate to very high risk The vast majority of the UK’s essential foods, including cereals, potatoes, sugar and oil, are grown in areas of England rated as having a moderate to very high risk of drought. A very high proportion – 81% – of England’s fresh produce is concentrated in parts of the country that are already experiencing water stress, according to the analysis by nature-focused investment fund Rebalance Earth. Continue reading...",
+      "summary": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
       "alsoReportedBy": []
     },
     {
-      "title": "Burnham dodges questions on Heathrow third runway as project faces four-year delay",
-      "url": "https://www.theguardian.com/environment/2026/sep/27/burham-dodges-questions-heathrow-third-runway-delay",
+      "title": "‘Don’t squander it’: Can Labour hang on to the Burnham bounce?",
+      "url": "https://www.theguardian.com/politics/2026/sep/27/burnham-bounce-gives-labour-a-second-chance-but-budget-realities-are-looming",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Airport chiefs say 2035 operations deadline unachievable as critics say new delay makes case for project ‘even more dubious’ Plans for a third runway at Heathrow are once again up in the air after the prime minister refused to say whether he backs the “contested” project which is delayed by up to four years. Over the weekend it emerged that ​Heathrow no longer expects to meet the original 2035 deadline. Instead, the airport hopes to secure planning permission by 2029 and then open the runway “within a decade”, meaning it would not be operational until 2039. Continue reading...",
+      "summary": "Conference delegates grateful ousting Starmer has paid off, but relief tempered by fiscal headwinds ahead UK politics live – latest updates Even Andy Burnham’s closest allies accept that deposing Keir Starmer to install their man as leader was a huge political gamble. But if the mood at the Labour party conference in Liverpool is anything to go by, it is one that – so far – has paid off. The contrast with last year, when Starmer retained his grip on the party and Burnham slunk away from Liverpool early, could not be more stark. Their relief at their turn of fortune is tempered only by the fiscal headwinds ahead. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Burnham refreshes the parts others can’t reach on the Andy and Laura show | John Crace",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-laura-kuenssberg-show-social-care",
+      "title": "Late-night drive and a 999 call: chance encounter that led to terrorism arrests at RAF base",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The PM oozes confidence and easy-going charm as he tells Laura Kuenssberg the hill he’ll die on is fixing social care UK politics live – latest updates In recent weeks there has been much speculation in some parts of the media that Andy Burnham would call an early general election. Speculation that existed largely in the heads of those writing the stories, as even the most favourable polls suggest Labour would lose its huge majority and become the largest party in a coalition government. But to stop the chatter dominating his party conference, Burnham made it clear there would be no early election . His reward? Headlines in the rightwing press that he had bottled it. By not calling an election he had never planned to call. Sometimes you just can’t win. There again, you might call this a first-world problem for the prime minister. This time last year, Burnham had been hanging around the fringes of the conference as he and his allies attempted one of the most half-arsed coups in living memory. One that fizzled out almost before it had started and became the butt of many jokes among Keir Starmer’s inner circle. Andy looked to have blown himself up on the runway, leaving Keir safe for the duration of the parliament. Continue reading...",
+      "summary": "Local people say members of WhatsApp group noticed suspicious activity around vans in Whelford overnight In the early hours of Sunday morning, a resident of the village of Whelford was driving home when she saw three white vans parked on a country road. She was immediately suspicious, she said, and all the more so when she spotted a “large group of hooded and balaclavaed” men. She called 999 and police arrived on the scene 15 minutes later. The resident, who asked not to be named, told the Press Association: “It would appear that by doing so I just derailed whatever they [the men] were planning. A plucky amateur shouldn’t be spotting an unusual bit of activity at 1am when the airbase is on high alert. I think it’s absolutely astonishing.” Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working ‘I can deliver’: Burnham pledges radical change on eve of Labour conference Kuenssberg puts it to Burnham that, according to the Health Foundation, a system offering adult social care free at the point of delivery (like healthcare delivered by the NHS) would cost £18bn. Burnham says the cost is “not that high” (ie, not as high as £18bn). Not that high. But can I directly deal with this issue of the costs? Louise Casey is still doing an official review for us, so I will set out the vision, if you like, on Tuesday [in his speech to the conference]. Louise will then help us with the how. How do we make this happen? When can we make it happen? Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/drumcree-standoff-shows-northern-irelands-troubled-past-still-threatens-its-peace",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Governments will be hoping row over the contentious Orange Order march down Garvaghy Road can be defused Portadown march: latest updates Like a ghost from its troubled past, Drumcree has unexpectedly reappeared to remind people how far Northern Ireland has changed in 30 years but also how easily history can undermine the present, if imperfect, peace and stability. Three decades ago parts of Northern Ireland came to an almost annual standstill as Protestant Orange Order protesters blocked roads in support of members wanting to march down what they called its traditional route, the Garvaghy Road, on the Sunday before the annual 12 July parade. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -164,26 +182,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Pandas departed Chengdu for their new homes in Georgia as part of agreement between Chinese and US governments Two giant pandas departed Chengdu in south-western China early on Sunday for their new homes in Atlanta , Georgia, as part of an agreement between the Chinese and US governments. While in Washington DC for a three - day summit with Donald Trump , Chinese president Xi Jinping announced that the pandas would arrive in Atlanta in the coming days. The loan of the pandas to the Atlanta zoo was one of the few concrete outcomes to come out of Xi’s state visit with the US president, which saw expressions of goodwill between the leaders, but no fixes to any of the longstanding differences between the two countries. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Datacenter developers accused of skirting key US pollution rules",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/datacenter-developers-us-pollution-rules",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Firms manipulating process to avoid emission controls and scrutiny of their projects, environmental groups warn Datacenter developers are manipulating the EPA’s air pollution permitting process to avoid emission controls and scrutiny of their projects, environmental advocates allege. Companies need federal permits to emit a range of pollutants. In their permit applications, some in big tech are avoiding “major” reviews by dividing their emissions sources into separate, multiple “minor” sources that require less regulatory oversight, the advocates say. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "\"They had no concept of a duty of care to their users.\"",
-      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -191,8 +191,26 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Normalization of Inexplicable Failures",
-      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "title": "“They had no concept of a duty of care to their users.”",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Writing Efficient C++ Code",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -202,33 +220,6 @@
     {
       "title": "Ten Lines Of Code That Changed My World",
       "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "One month without AI",
-      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
-      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Rusty thoughts on \"Parse, don't validate\"",
-      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -260,6 +251,15 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "Deepdive into the Windows team&#8217;s efforts to make the OS &#8220;AI agent-friendly&#8221; and win back developers by going all-in on Linux on Windows, local models, GPUs, & more",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "LuaRocks Security Incident September 2026",
+      "url": "https://luarocks.org/security-incident-september-2026",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {

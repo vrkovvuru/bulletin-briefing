@@ -1,6 +1,89 @@
 {
-  "generated": "2026-09-27T16:42:38.989232Z",
+  "generated": "2026-09-27T18:42:33.084077Z",
   "summaries": [
+    {
+      "summary": "At least 27 people were killed in two mass shootings in South Africa, targeting a tavern and a shop.",
+      "significance": "The story highlights escalating gun violence in South Africa, affecting communities and prompting police investigation into potential motives.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
+      "points": [
+        "At least 27 people killed in shootings near Johannesburg and outside Cape Town.",
+        "Police investigating possible business rivalry motive.",
+        "11 people died in a separate shooting near Durban days prior."
+      ]
+    },
+    {
+      "summary": "Swiss voters reject stricter neutrality rules that would have limited NATO cooperation and ended sanctions against Russia.",
+      "url": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
+      "points": [
+        "70% of voters rejected the proposal for stricter neutrality rules.",
+        "The proposal aimed to write a strict neutrality definition into the Swiss constitution.",
+        "Far-right Swiss People\u2019s party (SVP) promoted the motion."
+      ]
+    },
+    {
+      "summary": "Thom Tillis criticizes Trump for backing Ken Paxton over John Cornyn in Texas Senate primary.",
+      "significance": "Tillis claims Trump's backing of Paxton over Cornyn endangers the Republican hold on the Texas Senate seat.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
+      "points": [
+        "Tillis calls Trump's support of Paxton a \"colossal mistake.\"",
+        "Paxton defeated Cornyn in the May primary.",
+        "Tillis, a North Carolina senator, frequently criticizes Trump."
+      ]
+    },
+    {
+      "summary": "Labour Party delegates express relief over Andy Burnham's leadership but worry about upcoming fiscal challenges.",
+      "url": "https://www.theguardian.com/politics/2026/sep/27/burnham-bounce-gives-labour-a-second-chance-but-budget-realities-are-looming",
+      "points": [
+        "Burnham's leadership seen as a successful gamble compared to Starmer's tenure.",
+        "Contrast with last year's conference, where Burnham left early after Starmer's retention.",
+        "Fiscal headwinds pose a significant challenge to the party's future prospects."
+      ]
+    },
+    {
+      "summary": "UK Work and Pensions Secretary Pat McFadden criticizes the current benefits system and calls for changes at the Labour conference.",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
+      "points": [
+        "Pat McFadden states the current benefits system 'writes off' claimants by keeping them dependent.",
+        "Keir Starmer pledges to deliver radical changes in the benefits system ahead of the Labour conference.",
+        "Providing free adult social care, similar to NHS healthcare, would cost £18bn according to the Health Foundation."
+      ]
+    },
+    {
+      "summary": "Drumcree standoff over an Orange Order march highlights Northern Ireland\u2019s fragile peace.",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/drumcree-standoff-shows-northern-irelands-troubled-past-still-threatens-its-peace",
+      "points": [
+        "Protesters previously blocked roads annually for a march on Garvaghy Road.",
+        "The issue resurfaces every year on the Sunday before the annual 12 July parade.",
+        "The standoff underscores the region's history of tension and its impact on current stability."
+      ]
+    },
+    {
+      "summary": "Fireworks Research launches Ember-1, a specialized model that matches Kimi K3's quality with 40% fewer tokens.",
+      "significance": "Ember-1 reduces costs by decreasing token usage without sacrificing quality, addressing user needs for more economical yet capable coding models.",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "points": [
+        "Ember-1 reduces token usage by 40% without sacrificing quality.",
+        "Tested on various benchmarks and live customer workloads, maintaining high quality.",
+        "Ember-1 outperforms Kimi K3 on cost/task on Bedside Bench, a physician-validated benchmark."
+      ]
+    },
+    {
+      "summary": "The article discusses the importance and methods of writing efficient C++ code, emphasizing its unique balance between high-level and low-level programming.",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "points": [
+        "C++ supports object-oriented programming and direct hardware access, making it suitable for performance-critical applications like game programming.",
+        "Data-Oriented Design (DOD) focuses on efficient data layout and structure to enhance code performance and parallelization.",
+        "Inefficient code can lead to issues such as cache misses and difficulties in parallel processing, impacting performance in real-time applications."
+      ]
+    },
+    {
+      "summary": "LuaRocks.org fixed a remote code execution vulnerability reported on September 25th, 2026, after it was exploited multiple times between July and August.",
+      "url": "https://luarocks.org/security-incident-september-2026",
+      "points": [
+        "Vulnerability exploited several times between July 9th and August, allowing shell commands and publishing of malicious packages.",
+        "All credentials revoked, attacker accounts suspended, and malicious packages removed; no evidence of existing packages being modified."
+      ]
+    },
     {
       "summary": "Armani fashion house prepares for potential sale talks with major companies following the designer's death.",
       "significance": "The story highlights the uncertain future of the Armani fashion house as it navigates potential sales to major conglomerates following the designer's death.",
