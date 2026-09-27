@@ -2,6 +2,15 @@
   "date": "2026-09-27",
   "stories": [
     {
+      "title": "No handshakes between Republic of Ireland and Israel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
       "title": "Two mass shootings in South Africa leave 27 dead",
       "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,57 +20,48 @@
       "alsoReportedBy": ["The Guardian", "Al Jazeera"]
     },
     {
-      "title": "No handshakes between Republic of Ireland and Israel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Republic of Ireland and Israel players do not shake hands with each other before Sunday's controversial Uefa Nations League game in Hungary.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Why has Trump rejected Iran’s peace proposal?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The US president has reportedly threatened to resume strikes on Iran.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "What we know about RAF base counter-terror investigation",
-      "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
-      "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
-      "url": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The billionaire cofounder of Microsoft says, without restrictions, AI could &#039;cause a billion deaths&#039;.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "title": "Scientists discover two new species of sea spiders along Canadian coastline",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+      "summary": "So far, scientists have identified more than 1,300 species of sea spiders.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Five arrested near UK RAF base over suspected explosives ‘terror’ plot",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/five-arrested-near-uk-raf-base-over-suspected-explosives-terror-plot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Five men have been arrested near RAF Fairford in the UK on suspicion of explosives and terrorism offences.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Ireland defeats Israel in controversial UEFA Nations League match",
+      "url": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Ireland&#039;s players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Alleged rape on campus sparks violent protest at Indian university",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
       "alsoReportedBy": []
     },
     {
@@ -74,21 +74,39 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Five arrested on terrorism charges after explosives found near RAF base used by US",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/27/arrests-suspected-terrorism-charges-explosives-found-near-raf-base-us",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Counter-terrorism police investigate whether Iran is behind suspected bomb plot after member of public calls 999 over suspicious vehicles Counter-terrorism police are investigating whether Iran is behind a suspected bomb plot after armed officers found explosives on three vans parked minutes from an RAF base used by the US military. The Guardian understands that after five men were arrested on terrorism charges, investigators were examining materials found in the vans, with an initial view being they were consistent with improvised explosive devices. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump wants to remove a question about race in the census. We look back at the history",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5966883/trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history",
+      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Trump administration wants to stop asking about race and ethnicity on the next U.S. census. Since 1790, the topic has been used to exclude people of color, and, more recently, for inclusion.",
+      "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Nor’easter storm batters US east coast with heavy winds and power outages",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/noreaster-storm-east-coast-death-power-outages",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "At least one person killed and about 110,500 households still without power from North Carolina to New England A strong, deadly storm known as a nor’easter battered the US’s east coast over the weekend, bringing power outages, flooding, damaging winds and hazardous ocean conditions. Trees and power lines were knocked down across the region, at least one person was killed and hundreds of thousands were left without electricity. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch attacks on Iran.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "After more than two decades, U.S. forces prepare to leave Iraq",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5981123/after-more-than-two-decades-u-s-forces-prepare-to-leave-iraq",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The U.S. military formally ends a more than two-decade-long presence in Iraq this week.",
       "alsoReportedBy": []
     },
     {
@@ -101,21 +119,39 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Australia news live: Gallagher says final budget outcome will shave $6bn off deficit; RBA interest rate hike looms",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A dog needing a fence: Medicare breach reveals AI issue Nobody should be surprised when an artificial intelligence agent goes off the rails, because it was never really on them in the first place, an AI expert says. What was missing in these systems is this engineering approach of building the fence. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Late-night drive and a 999 call: farmer’s chance encounter that led to terrorism arrests at RAF base",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Local people say members of WhatsApp group noticed suspicious activity around vans in Whelford overnight In the early hours of Sunday morning, a resident of the village of Whelford was driving home from a party when she saw three white vans parked on a country road. She was immediately suspicious, she said, and all the more so when she spotted a “large group of hooded and balaclavaed” men. She called 999 and police arrived on the scene 15 minutes later. The resident, who asked not to be named but reportedly is a local farmer, told the Press Association: “It would appear that by doing so I just derailed whatever they [the men] were planning. A plucky amateur shouldn’t be spotting an unusual bit of activity at 1am when the airbase is on high alert. I think it’s absolutely astonishing.” Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Blanche defends Trump’s White House media ban: ‘It is a privilege, not a right’",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "US attorney general argues that president was ‘sick and tired’ of inaccurate reporting by CNN, MS Now and Politico Donald Trump ’s attorney general Todd Blanche argued on Sunday that the administration was permitted to ban three news outlets from the White House because “it is a privilege and not a right to be there”. Appearing on the ABC News program This Week during the second week of the White House’s dispute over press credentialing and access, Blanche also said that the administration took the decision to ban CNN, MS Now and Politico beginning on 19 September because the president was “sick and tired” of what he considered to be those media outlets’ inaccurate reporting. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
       "url": "https://www.npr.org/2026/09/27/nx-s1-5949210/amid-changing-dynamics-in-the-middle-east-turkey-seeks-to-emerge-as-a-leader",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Blanche defends Trump’s White House media ban: ‘It’s a privilege … not a right’",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/todd-blanche-trump-white-house-media",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "US attorney general argues that president is ‘sick and tired’ of inaccurate reporting by CNN, MS Now and Politico Donald Trump ’s attorney general Todd Blanche argued on Sunday that the administration banned three news outlets from the White House because it is “privilege … not a right” to be there. Appearing on the ABC News program This Week during the second week of the White House’s dispute over press credentialing and access, Blanche also said that the administration took the decision to ban CNN, MS Now and Politico beginning on 19 September because the president was “sick and tired” of what he considered to be those media outlets’ inaccurate reporting. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -133,7 +169,7 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Exclusive: Dedicated service to support sexual assault victim-survivors as they navigate legal system to open in NSW Get our breaking news email , free app or daily news podcast It took Shannon Stokes two years and 11 days to successfully prosecute her former boyfriend for sexual assault and domestic violence offences. The lengthy trial left her feeling as though “there wasn’t going to be an end in sight”. Prosecutors secured convictions on nine of the 11 charges, and he was later sentenced to five years in prison. Continue reading...",
+      "summary": "Exclusive: Dedicated service to support sexual assault victim-survivors as they navigate legal system to open in NSW Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast It took Shannon Stokes two years and 11 days to successfully prosecute her former boyfriend for sexual assault and domestic violence offences. The lengthy trial left her feeling as though “there wasn’t going to be an end in sight”. Prosecutors secured convictions on nine of the 11 charges, and he was later sentenced to five years in prison. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,43 +182,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Republican says Trump’s support of Ken Paxton in Texas primary was ‘colossal mistake’",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Thom Tillis says Trump’s decision to back Paxton over John Cornyn has put the Senate seat at risk for Republicans US senator Thom Tillis on Sunday criticized Donald Trump , his fellow Republican, for the president’s support of Ken Paxton over incumbent John Cornyn in the Texas Senate Republican primary. “He made a colossal mistake,” Tillis, a frequent Trump critic from North Carolina, said during an interview on CNN’s State of the Union in reference to the president’s support of Paxton who defeated Cornyn in the May primary. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Don’t squander it’: Can Labour hang on to the Burnham bounce?",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/burnham-bounce-gives-labour-a-second-chance-but-budget-realities-are-looming",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Conference delegates grateful ousting Starmer has paid off, but relief tempered by fiscal headwinds ahead UK politics live – latest updates Even Andy Burnham’s closest allies accept that deposing Keir Starmer to install their man as leader was a huge political gamble. But if the mood at the Labour party conference in Liverpool is anything to go by, it is one that – so far – has paid off. The contrast with last year, when Starmer retained his grip on the party and Burnham slunk away from Liverpool early, could not be more stark. Their relief at their turn of fortune is tempered only by the fiscal headwinds ahead. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Late-night drive and a 999 call: chance encounter that led to terrorism arrests at RAF base",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Local people say members of WhatsApp group noticed suspicious activity around vans in Whelford overnight In the early hours of Sunday morning, a resident of the village of Whelford was driving home when she saw three white vans parked on a country road. She was immediately suspicious, she said, and all the more so when she spotted a “large group of hooded and balaclavaed” men. She called 999 and police arrived on the scene 15 minutes later. The resident, who asked not to be named, told the Press Association: “It would appear that by doing so I just derailed whatever they [the men] were planning. A plucky amateur shouldn’t be spotting an unusual bit of activity at 1am when the airbase is on high alert. I think it’s absolutely astonishing.” Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Four killed in helicopter crash near Montreal",
-      "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "When did Google get so f-ing weird?",
+      "title": "When did Google get so weird?",
       "url": "https://sancho.bearblog.dev/google-weird/",
       "source": "Hacker News",
       "category": "engineering",
@@ -218,9 +218,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
-      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "title": "Lunar Terminator Paradox",
+      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
       "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "postmarketOS rebrands as Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -254,17 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "postmarketOS rebrands as Nura",
-      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-      "url": "https://loficities.com/",
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",

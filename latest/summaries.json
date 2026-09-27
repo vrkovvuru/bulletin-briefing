@@ -1,6 +1,44 @@
 {
-  "generated": "2026-09-27T20:42:10.662397Z",
+  "generated": "2026-09-27T22:41:29.383794Z",
   "summaries": [
+    {
+      "summary": "Scientists identified two new sea spider species in the Salish Sea between Washington and British Columbia.",
+      "significance": "The discovery of two new sea spider species off the Canadian coastline expands marine biodiversity knowledge in the Salish Sea.",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species",
+      "points": [
+        "Researchers found the species, Tanystylum kiixin and Callipallene pilosuspedes, between September 2023 and August 2024.",
+        "The discovery marks the first sea spider species found in the area in over 100 years.",
+        "The sea spiders, about a centimeter across, were collected off the islands of Vancouver and Quadra."
+      ]
+    },
+    {
+      "summary": "A deadly nor\u2019easter storm hit the US east coast, causing power outages, flooding, and at least one death.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/noreaster-storm-east-coast-death-power-outages",
+      "points": [
+        "At least 110,500 households are without power from North Carolina to New England.",
+        "The storm caused hazardous ocean conditions and damaged trees and power lines.",
+        "One person was killed during the storm over the weekend."
+      ]
+    },
+    {
+      "summary": "U.S. military formally ends its presence in Iraq after over two decades.",
+      "significance": "The U.S. military formally ends a more than two-decade-long presence in Iraq this week.",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5981123/after-more-than-two-decades-u-s-forces-prepare-to-leave-iraq",
+      "points": [
+        "U.S. military presence in Iraq ends this week.",
+        "The presence lasted more than two decades."
+      ]
+    },
+    {
+      "summary": "The article explains the \"lunar terminator paradox,\" an optical illusion where the moon appears to point upwards after sunset.",
+      "significance": "The story matters as it elucidates the \"lunar terminator paradox,\" an optical illusion regarding moon illumination, and highlights current AI tools' limitations in comprehending such phenomena.",
+      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "points": [
+        "The paradox occurs when the moon is higher in the sky, making it seem partially dark at the bottom.",
+        "At sunset, a 3/4-full moon on the horizon appears as expected, but as it rises, more of its bottom becomes visible.",
+        "AI tools like Claude and Gemini failed to comprehend the paradox, highlighting limitations in their reasoning capabilities."
+      ]
+    },
     {
       "summary": "Trump rejected Iran\u2019s peace proposal to reopen the Strait of Hormuz, suggesting Iran needs a deal due to losses.",
       "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
