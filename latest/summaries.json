@@ -1,6 +1,108 @@
 {
-  "generated": "2026-09-27T04:41:17.623449Z",
+  "generated": "2026-09-27T12:43:01.382846Z",
   "summaries": [
+    {
+      "summary": "A controversial Orange Order march in Portadown, Northern Ireland, was delayed due to a large protest.",
+      "significance": "The delayed march highlights ongoing tensions in Northern Ireland's community relations and tests the effectiveness of the Parades Commission.",
+      "url": "https://www.theguardian.com/uk-news/live/2026/sep/27/northern-ireland-orange-order-portadown-drumcree-latest-news-updates",
+      "points": [
+        "Michelle O\u2019Neill called on Chris Bryant to intervene over the march.",
+        "The march was planned through a Catholic enclave in a largely Protestant town.",
+        "Carla Lockhart defended the marchers, describing them as a \"dignified grouping."
+      ]
+    },
+    {
+      "summary": "Last residents of Russian-occupied Oleshky are starving, eating weeds, as food supplies are cut off.",
+      "url": "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky",
+      "points": [
+        "2,000 civilians remain in Oleshky and surrounding villages.",
+        "Evacuation by occupying forces is awaited by starving residents.",
+        "Bodies left uncollected due to drone attacks, eaten by dogs."
+      ]
+    },
+    {
+      "summary": "Chartreuse, a herbal liqueur with a secret recipe made by French monks, has become a trendy drink in Parisian bars.",
+      "url": "https://www.theguardian.com/society/2026/sep/27/the-elixir-of-long-life-how-the-elusive-chartreuse-quietly-became-the-trendiest-drink-around",
+      "points": [
+        "Chartreuse is known for its unique 'grellow' color and mysterious origins.",
+        "The liqueur's popularity has grown in Paris, especially during digestif hour.",
+        "Its recipe, kept secret by Carthusian monks, adds to its allure and exclusivity."
+      ]
+    },
+    {
+      "summary": "New research reveals only 3% of US sickle cell patients receive red blood cell exchange treatment.",
+      "significance": "The story highlights underutilization of an effective treatment for sickle cell disease, despite hospital access, affecting patient care and outcomes.",
+      "url": "https://www.theguardian.com/society/2026/sep/27/sickle-cell-patients-red-blood-cell-exchange",
+      "points": [
+        "Only 3% of US sickle cell patients receive the red blood cell exchange treatment.",
+        "Treatment involves discarding damaged red blood cells and replacing them with donor cells.",
+        "Despite widespread hospital access to the technology, patient access remains limited."
+      ]
+    },
+    {
+      "summary": "High court ruling allows construction of 190 homes on floodplains in north Somerset despite failing safety tests.",
+      "url": "https://www.theguardian.com/politics/2026/sep/27/high-court-floodplains-development-safety-test-north-somerset-yatton",
+      "points": [
+        "High court decision permits building on floodplains in England and Wales.",
+        "Development involves 190 new homes on north Somerset\u2019s floodplains.",
+        "Site classified as \"flood zone 3a\", the second highest flood risk level."
+      ]
+    },
+    {
+      "summary": "Andy Burnham plans to include universal free social care in Labour\u2019s next manifesto.",
+      "url": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-sets-out-vision-for-universal-free-social-care",
+      "points": [
+        "Burnham aims to \"rip the plaster off\" to address the broken social care system.",
+        "The proposed service will be free at the point of use for everyone in England.",
+        "Funding for the NHS-style service will come from \"everybody,\" though specifics are not provided."
+      ]
+    },
+    {
+      "summary": "Bangkok declares a flood emergency after over 300mm of rain caused widespread flooding.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "All 50 of Bangkok's districts declared emergency zones.",
+        "Over 300mm of rain since Thursday submerged Bangkok roads.",
+        "Governor warns flooding not yet over, despite rains subsiding."
+      ]
+    },
+    {
+      "summary": "Research shows that chat templates significantly influence Large Language Models' self-referential voice, affecting their use of disclaimers and experiential language.",
+      "significance": "The story reveals that chat templates significantly influence AI self-referential disclaimers, impacting how researchers interpret AI self-reports and introspection.",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "points": [
+        "Chat templates activate a disclaimer voice in LLMs, reducing experiential language like \"I feel.\"",
+        "Removing a specific direction in the model's activation space decreases disclaimer voice.",
+        "Findings impact how researchers interpret self-reports from LLMs, suggesting a need to control for chat template effects."
+      ]
+    },
+    {
+      "summary": "Valve introduces Pyrowave, a new experimental video codec for low-latency streaming in the Steam client beta.",
+      "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
+      "points": [
+        "Pyrowave uses 5~10x more bandwidth than other codecs, suitable for LAN with Gigabit Ethernet.",
+        "Developed by Hans-Kristian Arntzen, it supports Vulkan API, HDR, and YUV 4:4:4.",
+        "Available in Steam beta on Windows, macOS, and Linux with experimental SteamRT3 client."
+      ]
+    },
+    {
+      "summary": "A fluid simulation was created for a flipdot display, emphasizing technical details and the process of acquiring the display.",
+      "url": "https://mitxela.com/projects/flipflip",
+      "points": [
+        "The project was built for EMF2026.",
+        "Flipdot displays are expensive, with studios requiring budgets over $50,000.",
+        "Sam, aka Look Mum No Computer, provided old flipdot displays for the project."
+      ]
+    },
+    {
+      "summary": "New court filings reveal OpenAI and Microsoft executives knew their AI training methods were illegal and feared negative publicity.",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "points": [
+        "Top executives at OpenAI and Microsoft were aware their use of copyrighted books was illegal.",
+        "OpenAI's Jack Clark admitted their work would lead to unemployment among genre fiction authors.",
+        "OpenAI deleted files from LibGen in 2022 to avoid negative optics, as noted in internal communications."
+      ]
+    },
     {
       "summary": "US withdrawal from aid programs strains African healthcare, urging local control over health development.",
       "significance": "US aid withdrawal strains African healthcare, urging regional control over health development.",
