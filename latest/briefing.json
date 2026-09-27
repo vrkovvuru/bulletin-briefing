@@ -8,9 +8,16 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "True Crime Reports: The Dosa King’s Deadly Obsession",
+      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/9/27/true-crime-reports-the-dosa-kings-deadly-obsession?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Dosa King built an empire. After a woman rejects him, her husband is found dead – and the pursuit of justice begins.",
+      "alsoReportedBy": []
     },
     {
       "title": "Burnham proposes NHS-style social care system for England",
@@ -22,77 +29,66 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
-      "url": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss",
+      "title": "Yemen’s health system could collapse in some areas, minister warns",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Authorities report increasing death toll over three days as rivers rise above danger levels in parts of both countries.",
+      "summary": "Yemen&#039;s healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.",
       "alsoReportedBy": []
     },
     {
-      "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
+      "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The dispute over the controversial parade is a reminder that the peace process is not over.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "A 300-year-old Mexican musical tradition is finding new life around the world \u2014 one sweaty, joyous, all-night fandango at a time.",
+      "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
       "alsoReportedBy": []
     },
     {
-      "title": "Northern Ireland live: controversial Orange Order march in Portadown delayed amid huge protest",
-      "url": "https://www.theguardian.com/uk-news/live/2026/sep/27/northern-ireland-orange-order-portadown-drumcree-latest-news-updates",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Large crowd blocking route march was due to take in Catholic enclave of largely Protestant town Northern Ireland First Minister Michelle O\u2019Neill, at the scene of the counter-protest this morning also spoke alongside Mary Lou McDonald. O\u2019Neill said she had called on Northern Ireland secretary Chris Bryant to intervene. She told reporters: \u201cDoes anybody think that this is a good idea? No right-minded person would make this decision. \u201cI still do not know the answer to this question - why, after 28 years of determination to block a march down this road, the Parades Commission thought that this was the right idea today to bring this mess back onto this community?\u201d Local MP Carla Lockhart, from the pro-British Democratic Unionist Party, posted this morning on X describing the marchers as a \u201cdignified grouping of men, walking silently down Garvaghy Road\u201d. She included a photo of the small group in suits, wearing orange silk sashes and black bowler hats and carrying a banner. \u201cThere is no threat, no triumphalism, not even music. There is nothing to fear. The rule of law must prevail,\u201d she wrote. Continue reading...",
-      "alsoReportedBy": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "title": "\u2018No role for UNRWA in Gaza\u2019: Does the Board of Peace toe Israeli lines?",
-      "url": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
+      "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
+      "url": "https://www.aljazeera.com/news/2026/9/27/israels-smotrich-urges-war-in-west-bank-poll-rhetoric-or-real-threat?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.",
+      "summary": "Smotrich’s words should not be dismissed as mere election rhetoric, human rights experts and analysts warn.",
       "alsoReportedBy": []
     },
     {
-      "title": "\u2018Hell on earth\u2019: last residents eat weeds to survive in Russian-occupied Oleshky",
+      "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Ohio governor's race pits former presidential candidate Vivek Ramaswamy against Democrat Amy Acton, a former state health advisor. Democrats see a chance to win a state that usually votes Republican.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘Hell on earth’: last residents eat weeds to survive in Russian-occupied Oleshky",
       "url": "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Supplies cut off from Ukrainian city where bodies are being left to be eaten by dogs because of deadly risk from drones The phone message sent out of Russian-occupied Oleshky was grimly matter of fact: food for the 2,000 or so civilians still remaining in the city and its surrounding villages had finally run out. \u201cWe\u2019re in Oleshky [and] we can\u2019t get out. We\u2019re going hungry \u2026 Right now, I\u2019ve got absolutely nothing to eat,\u201d read the message, from a woman in the besieged city, who was waiting to be evacuated by the occupying forces. Continue reading...",
+      "summary": "Ukrainian forces airdrop supplies to city where bodies are left to be eaten by dogs because of deadly risk from drones The phone message sent out of Russian-occupied Oleshky was grimly matter-of-fact: food had finally run out for the 2,000 or so civilians, including 50 children, remaining in the city and its surrounding villages. “We’re in Oleshky [and] we can’t get out. We’re going hungry … Right now, I’ve got absolutely nothing to eat,” read the message from a woman in the besieged city who was waiting to be evacuated by the occupying forces. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Ten NHS staff removed over Noah Woods data breach",
-      "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The \u2018elixir of long life\u2019: how the elusive Chartreuse quietly became the trendiest drink around",
-      "url": "https://www.theguardian.com/society/2026/sep/27/the-elixir-of-long-life-how-the-elusive-chartreuse-quietly-became-the-trendiest-drink-around",
+      "title": "Bad language: profane Trump brings presidential swearing out into open",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "With its garish \u2018grellow\u2019 colour, mythological origins, secret recipe and limited supplies, the herbal liqueur made by French monks is now the coolest thing to order at the bar It\u2019s just after 9pm in drizzly Belleville, Paris. Too late for cocktails, too early for bedtime, but up the steep hill that straddles the 19th and 20th arrondissements, digestif hour is in sight. In the past few years, more and more Parisians have been reaching for a glass of Chartreuse, an intensely green/yellow herbal liqueur with a folkloric backstory involving Carthusian monks, cholera and a recipe of omert\u00e0-like secrecy. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "From professor to patient: One man's journey on the frontier of lung cancer treatment",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5981264/lung-cancer-treatment-mrna-affordability",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Lung cancer is still the top cancer killer, but new developments are shifting what the future might hold for patients.",
+      "summary": "President has let rip with swearwords in recent months, redefining norms about acceptable language in public office With a lifetime of political memories stretching back to John F Kennedy’s assassination and the Black civil rights struggles of the 1960s, Cheryl Johnson had one complaint above all else about today’s politicians: the swearing. “All this cursing in politics, we never heard that before,” said Johnson, a retired social worker living in the Pittsburgh area. “Words are very powerful, and the past 45 presidents of this country, have not used such vile language. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -105,21 +101,57 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Lime bike profits double as rider numbers surge in England",
+      "url": "https://www.theguardian.com/world/2026/sep/27/lime-bike-profits-double-rider-numbers-surge-england",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "US-owned firm says average monthly users at its UK arm surged to 700,000 with sales up by a third Love them or hate them, Lime ebikes are an increasingly common sight on England’s roads with new figures showing annual profits more than doubling thanks to a surge in riders. Lime’s average number of monthly users jumped 31% to approaching 700,000 as it added more than 4,500 ebikes and scooters to its fleet, taking the total to almost 38,000, the company’s UK arm said in accounts filed at Companies House. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Pandas departed Chengdu for their new homes in Georgia as part of agreement between Chinese and US governments Two giant pandas departed Chengdu in south-western China early on Sunday for their new homes in Atlanta , Georgia, as part of an agreement between the Chinese and US governments. While in Washington DC for a three - day summit with Donald Trump , Chinese president Xi Jinping announced that the pandas would arrive in Atlanta in the coming days. The loan of the pandas to the Atlanta zoo was one of the few concrete outcomes to come out of Xi’s state visit with the US president, which saw expressions of goodwill between the leaders, but no fixes to any of the longstanding differences between the two countries. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘Police were banging on the door’: villagers near RAF Fairford describe evacuation",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Local people say members of WhatsApp group noticed suspicious activity around vans in Whelford overnight Those living near RAF Fairford have been used to disturbance from protesters and a heavy police presence after the decision to allow the US air force to use it as a base for attacks on Iran. But in recent weeks, people have noticed dramatically increased security measures, with the gates of the base newly barricaded. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Three in four UK GPs ‘too busy to talk to their patients in depth’",
+      "url": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Family doctors’ professional body finds the majority have no time to discuss preventative measures A friendly chat with your GP about your life, health and happiness was once a key part of the UK’s family doctor service. But most GPs no longer have time to have pastoral conversations, because they are too busy dealing with the country’s rising tide of illness, research reveals. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Datacenter developers accused of skirting key US pollution rules",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/datacenter-developers-us-pollution-rules",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Firms manipulating process to avoid emission controls and scrutiny of their projects, environmental groups warn Datacenter developers are manipulating the EPA’s air pollution permitting process to avoid emission controls and scrutiny of their projects, environmental advocates allege. Companies need federal permits to emit a range of pollutants. In their permit applications, some in big tech are avoiding “major” reviews by dividing their emissions sources into separate, multiple “minor” sources that require less regulatory oversight, the advocates say. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Only 3% of US sickle cell patients receive red blood cell exchange for disease, researchers find",
       "url": "https://www.theguardian.com/society/2026/sep/27/sickle-cell-patients-red-blood-cell-exchange",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Various factors block sufferers of disease from receiving treatment that is effective and has widespread availability Sickle cell patients are missing out on an effective treatment despite widespread US hospital access to the technology, new research has found. That treatment is called a red blood cell exchange, a procedure that discards a patient\u2019s damaged red blood cells while simultaneously mixing the patient\u2019s remaining plasma, platelets and white blood cells with red blood cells from a donor before returning them to the body. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Houses can be built on floodplains despite failing safety test, says high court",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/high-court-floodplains-development-safety-test-north-somerset-yatton",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Decision to allow development of 190 new homes in north Somerset sparks campaign for change in the law Houses can be built on floodplains even if they fail a crucial safety test, according to a high court judgment that will be of \u201cimmense interest\u201d to developers across England and Wales. The ruling clears the way for a highly controversial development of 190 new homes on north Somerset\u2019s floodplains, despite the site being in \u201cflood zone 3a\u201d, the highest level of flood risk before land is considered a functional floodplain. Continue reading...",
+      "summary": "Various factors block sufferers of disease from receiving treatment that is effective and has widespread availability Sickle cell patients are missing out on an effective treatment despite widespread US hospital access to the technology, new research has found. That treatment is called a red blood cell exchange, a procedure that discards a patient’s damaged red blood cells while simultaneously mixing the patient’s remaining plasma, platelets and white blood cells with red blood cells from a donor before returning them to the body. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -132,65 +164,27 @@
       "alsoReportedBy": []
     },
     {
-      "title": "\u2018Rip the plaster off\u2019: Andy Burnham sets out vision for universal free social care",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-sets-out-vision-for-universal-free-social-care",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "PM says he will put proposals for NHS-style service funded by everybody into Labour\u2019s next general election manifesto UK politics live \u2013 latest updates Andy Burnham has said that he is going to \u201crip the plaster off\u201d to fix the broken social care system, as he set out a vision for a universal service that would be free at the point of use for everybody in England. The prime minister said the new NHS-style social care service would be funded by \u201ceverybody\u201d but did not give further details of how his radical long-term plan would be paid for. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
       "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed. About 600,000 people died between 2020 and 2022 during a devastating war between the Ethiopian army and the political party and paramilitary group the Tigray People\u2019s Liberation Front (TPLF). Both sides are now accusing the other of triggering a return to open conflict. Continue reading...",
+      "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed. About 600,000 people died between 2020 and 2022 during a devastating war between the Ethiopian army and the political party and paramilitary group the Tigray People’s Liberation Front (TPLF). Both sides are now accusing the other of triggering a return to open conflict. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Is Congo's Ebola outbreak coming under control?",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5976867/is-congos-ebola-outbreak-coming-under-control",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Four months in, Congo's Ebola outbreak is one of the largest ever recorded. Officials and outside experts can't agree on whether it's finally slowing down.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Indian billionaire\u2019s payments firm plots biggest London flotation in years",
+      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
       "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Sunil Bharti Mittal\u2019s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London\u2019s listing drought? Not yet A payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the struggling London Stock Exchange . Airtel Money, the mobile money arm of Airtel Africa, is planning one of the biggest UK listings in years, in a boost for the shrinking London market that has faced a string of recent departures . Continue reading...",
+      "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market Nils Pratley: Does this mark the end of London’s listing drought? Not yet A payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the struggling London Stock Exchange . Airtel Money, the mobile money arm of Airtel Africa, is planning one of the biggest UK listings in years, in a boost for the shrinking London market that has faced a string of recent departures . Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
-      "alsoReportedBy": [
-        "BBC World"
-      ]
-    },
-    {
-      "title": "Trump rejects Iran\u2019s seven-day peace deal to reopen strait of Hormuz",
-      "url": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "US president is said to expect renewed strikes after the midterms Donald Trump has said he has rejected an Iranian proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports. \u201cThey made a proposal but I reject it,\u201d the US president told reporters at the White House. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "source": "Hacker News",
+      "title": "Rusty thoughts on \"Parse, don't validate\"",
+      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -206,18 +200,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
-      "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Rusty thoughts on \"Parse, don't validate\"",
-      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-      "source": "Lobsters",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -242,7 +227,16 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Pulse: RoR creator sparks new \u201cdeath of coding by hand\u201d debate",
+      "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
+      "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -269,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Infecting the Steam Link with NixOS",
-      "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+      "title": "This is a modern motherfucking website",
+      "url": "https://modernmotherfuckingwebsite.dreamstation.systems/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -278,7 +272,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "OpenRouter: from Seed to Stripe \u2014 with OpenRouter\u2019s Alex Atallah & AMP\u2019s Anjney Midha",
+      "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
       "url": "https://www.latent.space/p/openrouter",
       "source": "Latent Space",
       "category": "ai",
@@ -292,7 +286,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Muse is getting a lot of attention \u2014 including mine \u2014 because it\u2019s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta\u2019s cloud) and because it\u2019s packaged in an easy-to-install easy-to-use way. It\u2019s literally presented as a cute mascot . It\u2019s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it\u2019s a genuinely open question whether consumers have any understanding what this means. If you buy a power saw that can cut your fingers off, you are almost certainly aware that you are buying a power saw that can sever your fingers. [...] I don\u2019t think people realize how powerful \u2014 and thus dangerous \u2014 Muse is, especially if it\u2019s running on your Mac. \u2014 John Gruber , Muse Looks Cute, but Looks are Deceiving Tags: meta , ai , llms , general-agents , generative-ai , john-gruber , muse-agent , muse",
+      "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mascot . It’s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it’s a genuinely open question whether consumers have any understanding what this means. If you buy a power saw that can cut your fingers off, you are almost certainly aware that you are buying a power saw that can sever your fingers. [...] I don’t think people realize how powerful — and thus dangerous — Muse is, especially if it’s running on your Mac. — John Gruber , Muse Looks Cute, but Looks are Deceiving Tags: meta , ai , llms , general-agents , generative-ai , john-gruber , muse-agent , muse",
       "alsoReportedBy": []
     },
     {
@@ -314,7 +308,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Runway\u2019s WorldPrompt and the Engineering of Real-Time Worlds",
+      "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
       "url": "https://www.latent.space/p/runway",
       "source": "Latent Space",
       "category": "ai",
@@ -356,9 +350,7 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags: coding-agents , ai , llms",
-      "alsoReportedBy": [
-        "Simon Willison"
-      ]
+      "alsoReportedBy": ["Simon Willison"]
     },
     {
       "title": "Foundries vs Navigators: Lowering the Cost of Science",
@@ -369,7 +361,5 @@
       "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
       "alsoReportedBy": []
     }
-  ],
-  "durationSeconds": 179.6,
-  "voice": "af_heart"
+  ]
 }

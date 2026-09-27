@@ -1,6 +1,82 @@
 {
-  "generated": "2026-09-27T12:43:01.382846Z",
+  "generated": "2026-09-27T14:42:10.232113Z",
   "summaries": [
+    {
+      "summary": "President Trump's frequent use of profanity has brought presidential swearing into the open, changing norms about acceptable language in office.",
+      "significance": "President Trump's use of profanity redefines norms for acceptable language in public office, influencing public perception and behavior.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
+      "points": [
+        "Cheryl Johnson, a retired social worker, criticizes today\u2019s politicians for excessive swearing.",
+        "Previous 45 presidents did not use such \"vile language\" in public office.",
+        "Trump's recent months have seen an increase in the use of swearwords publicly."
+      ]
+    },
+    {
+      "summary": "Lime bike profits more than doubled in the UK due to a significant increase in riders.",
+      "significance": "Lime's increased profits and user numbers reflect growing acceptance and usage of e-bikes in England.",
+      "url": "https://www.theguardian.com/world/2026/sep/27/lime-bike-profits-double-rider-numbers-surge-england",
+      "points": [
+        "Lime's UK monthly users increased by 31%, reaching nearly 700,000.",
+        "Lime added over 4,500 ebikes and scooters, bringing the total fleet to almost 38,000.",
+        "Sales increased by a third, contributing to the doubling of annual profits."
+      ]
+    },
+    {
+      "summary": "Two pandas departed from China for Atlanta's zoo following the Xi-Trump summit.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
+      "points": [
+        "Pandas left Chengdu on Sunday for Atlanta, Georgia.",
+        "Announcement made during Xi Jinping's three-day summit with Trump.",
+        "Panda loan marked one of few concrete outcomes from the summit."
+      ]
+    },
+    {
+      "summary": "Villagers near RAF Fairford describe an evacuation amid heightened security and suspicious activities.",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
+      "points": [
+        "Local residents observed unusual activity involving vans overnight.",
+        "Increased security measures include newly barricaded gates at the base.",
+        "The area has experienced disturbances due to protesters and police presence since allowing US air force use for potential Iran attacks."
+      ]
+    },
+    {
+      "summary": "Most UK GPs lack time for in-depth patient discussions due to increasing illness loads.",
+      "url": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth",
+      "points": [
+        "Three in four UK GPs are too busy to talk to patients in depth.",
+        "Pastoral conversations about life, health, and happiness are no longer feasible for most GPs.",
+        "Rising tide of illness is the primary reason for the lack of time for in-depth discussions."
+      ]
+    },
+    {
+      "summary": "Environmental groups accuse datacenter developers of manipulating EPA rules to avoid emission controls and scrutiny.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/datacenter-developers-us-pollution-rules",
+      "points": [
+        "Advocates allege firms divide emissions sources into multiple \"minor\" sources to bypass major reviews.",
+        "Developers need federal permits for emitting various pollutants.",
+        "The EPA\u2019s air pollution permitting process is being exploited by some big tech companies."
+      ]
+    },
+    {
+      "summary": "A person successfully replaced the batteries in old rechargeable bike lights after disassembling them at a local makerspace.",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "points": [
+        "Cost about $20 CAD to buy the parts for two bike lights.",
+        "Used an LLM to identify the battery type as \"LIR2477\".",
+        "The repaired lights worked for nighttime biking, though battery lifetime is unknown."
+      ]
+    },
+    {
+      "summary": "The article criticizes modern web development practices for overcomplicating simple tasks and advocates for simpler, more efficient methods.",
+      "significance": "The story highlights the overcomplication in modern web development, affecting developers and users by emphasizing simpler, more accessible alternatives.",
+      "url": "https://modernmotherfuckingwebsite.dreamstation.systems/",
+      "points": [
+        "Modern sites require over 1,100 dependencies for basic functions.",
+        "Native HTML features like <details> provide accessibility without extra libraries.",
+        "Simple meta tags suffice for social sharing, not complex plugins.",
+        "Modern browsers support efficient image formats like AVIF and WebP, reducing file sizes."
+      ]
+    },
     {
       "summary": "A controversial Orange Order march in Portadown, Northern Ireland, was delayed due to a large protest.",
       "significance": "The delayed march highlights ongoing tensions in Northern Ireland's community relations and tests the effectiveness of the Parades Commission.",
