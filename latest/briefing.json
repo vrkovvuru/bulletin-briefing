@@ -2,57 +2,66 @@
   "date": "2026-09-26",
   "stories": [
     {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+      "summary": "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\".",
+      "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "US president rejects Iran&#039;s seven-day plan to reopen the Strait of Hormuz, saying the deal is not &#039;acceptable&#039;.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Protesters gather as judges overturn ban on Drumcree parade",
+      "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
       "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.",
+      "summary": "After a series of court rulings the High Court ruled in the early hours of Sunday morning that the Parades Commission decision allowing a restricted parade should be respected",
       "alsoReportedBy": []
     },
     {
-      "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
-      "url": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
+      "title": "Powerful storm batters US Northeast disrupting power and travel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/powerful-storm-batters-us-northeast-disrupting-power-and-travel?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Two women reportedly injured after building collapse in Athens&#039; historic Plaka district.",
+      "summary": "Powerful winds and towering waves are battering the US Northeast, causing flight chaos and blackouts.",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
+      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
+      "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The UN General Assembly wraps up with mixed diplomatic outcomes.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Venezuela frees 39 political prisoners after post-Maduro talks",
+      "url": "https://www.aljazeera.com/news/2026/9/27/venezuela-frees-39-political-prisoners-after-post-maduro-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The releases follow a second round of negotiations between Venezuela&#039;s interim government and the opposition.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Godzilla Minus Zero review – spectacular Japanese action continues franchise’s winning streak",
+      "url": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "New York film festival: The follow-up to 2023’s Oscar-winning Godzilla Minus One dazzles with smart social commentary and jaw-dropping effects Even by the standards of older movie stars catching a major second wind later in their careers, Godzilla pulled off an impressive reclamation of the spotlight three years ago. Godzilla Minus One , the most recent reboot featuring the 70-year-old kaiju – the version(s) from his native Japan, mind, not the Americanized one concurrently starring in a series of Warner Bros blockbusters opposite King Kong – wasn’t just another monster-movie success. It fully crossed over, becoming the highest-grossing Japanese-language movie ever released in North America, and won an Academy Award to boot for its terrific visual effects. Now. Japanese Godzilla characters are mainstream enough to pop up in Happy Meals, and the Toho -made sequel Godzilla Minus Zero is world-premiering at the New York film festival. Arguably the artsiest, brainiest of the major fall fests is playing unexpected host to a truly spectacular monster battle royale, packaged alongside some of the same thoughtful historical context that informed the previous film. Writer, director and VFX maestro Takashi Yamazaki returns for the sequel, bringing his lead characters back with him. In the previous film, former military pilot Kōichi Shikishima (Ryunosuke Kamiki) used his experience with Godzilla to overcome his guilt and shame over failing to complete a pointless kamikaze mission toward the end of the second world war – the devastation of which brought Japan back to “zero”, hence a newly emergent Godzilla bringing the country to “minus one”. Minus Zero catches up with Kōichi, his now-wife Noriko (Minami Hamabe), and their adopted daughter Akiko (Sae Nagatani) two years later, in 1949 (although Akiko somehow seems more or less the same age). Another monster threat looms over post-war Japan in the form of a dragon-like creature dubbed Ghidorah, whose menace will be familiar to kaiju fans. (Though he isn’t seen directly in trailers, this isn’t a spoiler; he’s featured from the very first scene of the film.) Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -65,30 +74,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The moment I knew: My late fiance’s favourite song was playing – and Billy said ‘Jamie’s here, isn’t that nice?’",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/27/the-moment-i-knew-finding-love-after-death",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "After the death of his partner, Anthony Nocera had almost given up on love. Then Billy walked through the door Find more stories from the moment I knew series In 2024, about 18 months after my fiance Jamie passed away, I decided I was lonely and horny and so put myself out there on the apps. I’d placed Jamie’s ashes on the TV cabinet in the living room, so he was smack bang in the middle of his two favourite places: his spot on the couch and his coffee machine. It also meant he was in the centre of the house, which made dating hard. I had a guy over for a hook-up one night and he kept fixating on the urn. “So … He’s dead?” Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-      "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
+      "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+      "summary": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
       "alsoReportedBy": []
     },
     {
-      "title": "I hoped my children would have epiphanies while visiting my homeland; my father suggested we go swimming instead",
-      "url": "https://www.theguardian.com/travel/2026/sep/27/visiting-my-homeland-chinese-heritage-australia-parenting",
+      "title": "‘Charming and disarming’ … how Meta’s technology-packed Muse harnesses the power of cuteness",
+      "url": "https://www.theguardian.com/fashion/2026/sep/26/charming-and-disarming-how-metas-technology-packed-muse-harnesses-the-power-of-cuteness",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "I brought my children to Penang to immerse them in the places of their grandparents’ stories. When I stopped lecturing them about gratitude and privilege, we enjoyed our final days doing as locals do As I stepped out of Penang international airport, the humidity hit me like I was peering into a just-opened rice cooker. The air carried whiffs of exhaust fumes, fried food and something earthy. It felt thrilling and familiar because I was born in Penang and lived there for six years before I moved to Australia. I looked back at my three children who were visiting for the first time. They were draped over their suitcases like wilted lettuce. “Welcome to Penang,” I said, wiping sweat off my brow. It was July 2026. It had been 13 years since I last visited Penang, when my father had hosted a lavish wedding dinner featuring a champagne fountain and swan-shaped ice sculpture for me and my new husband. For my white, Australian husband, it was a trip of firsts: his first Chinese tea ceremony; his first 10-course banquet; the first time he met my extended family. But for me, it had been the last time I’d spoken Mandarin and the last time I had seen my grandmother before she died. Continue reading...",
+      "summary": "The tech giant has launched a cute ‘little guy’ that can answer emails, book travel or do your weekly food shop After the recent backlash against Meta’s so-called “pervert” smart glasses, this week Mark Zuckerberg launched a much cuter alternative: the Muse “charm” device. With a screen that shows a cutesy little avatar, it has drawn comparisons with Tamagotchis. “We’ve packed a lot of technology into this little guy,” the Meta founder told the San Francisco audience . Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,30 +110,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australia news live: Marles said OpenAI CEO didn’t tell him about hack at meeting; flight cancellation heartbreak for AFL fans",
+      "title": "Australia news live: partner of police officer killed in Sydney crash says he lost ‘love of his life’; NSW drones spotting 20 sharks a day",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Follow live updates Get our breaking news email , free app or daily news podcast Partner of NSW police officer who died in crash says he’s lost the love of his life Daniel Vasquez , the partner of NSW police officer Mia Lay , who died in a car crash while on duty, issued a statement on behalf of her family yesterday, saying he had lost the “love of my life”. Mia loved what she did in the police. She was happy in the police, she was good at her job, and how loved she was by everyone in the community. She was the happiest girl I’ve met … I’d ask for everyone to remember how stunning and beautiful she was. She was a kind hearted person, gave so much love to everyone that she cared about … The prime minister accepted an award about the way in which we are managing our place in the world, and specifically our place in the region. In terms of the alliances that we’ve struck with countries around Australia, such as Papua New Guinea and Fiji, the way in which we are pursuing the AUKUS arrangements, which are building Australian capability in what is a very challenging world. I think the recognition of the prime minister is deserved in respect of him. But it’s also a recognition of what his government has been doing to make sure that we are keeping Australians safe in a very challenging global environment, and that’s what we are seeking to do here. Continue reading...",
+      "summary": "Follow live updates Get our breaking news email , free app or daily news podcast Deaths in Queensland child protection system reach five-year high Queensland has recorded a five-year high of 92 deaths of children in the child protection system, according to new data. The real alarm bell that was set off this week is the fact that the only reason we knew about this breach of the Medicare archive or data system is because OpenAI told us there was a breach. If they hadn’t told us that there was a breach, would we have known about it at all? That demonstrates that our cyber defences, particularly for Services Australia, were woefully inadequate. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+      "summary": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount. The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents from the summer in which OpenAI agents searching federal government websites acted in unexpected ways beyond what was asked of them while gathering and distributing information. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘Cash grab’: One Nation demands up to $630,000 from Victorian election candidates",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/27/one-nation-to-demand-thousands-from-victorian-election-candidates-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Exclusive: Many applicants left feeling ‘used, lied to, misled and gaslit’, complaint letter seen by Guardian Australia says Listen to the Guardian podcast The Populist here Get our new political email , free app or daily news podcast One Nation could collect as much as $633,000 from people who have put their hand up to run in the Victorian state election , with potential candidates questioning whether the party is staging a “cash grab”. Guardian Australia has spoken to multiple former councillors, mayors and deputy mayors who expressed an interest in running for the party. They claim they went through what one called a “pay-to-play” application process, after which they were rejected. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,12 +146,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
-      "source": "Guardian World",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Pro-datacentre officials argue scale of Australia’s buildout is smaller, more regulated and less damaging than in US Australian politicians and business leaders are arguing that their populace’s growing resentment of AI datacentres is an inauthentic import from the United States. Like the US, Australia is seeing community resentment grow in response to a surge in the construction of massive AI datacentres. However, pro-datacentre officials and executives argue the scale of Australia’s buildout is smaller, more regulated and therefore less damaging than that in the US. They say the burgeoning negative reaction is being tainted and inflamed by a heated US debate that has arrived down under via social media feeds. Continue reading...",
+      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
       "alsoReportedBy": []
     },
     {
@@ -173,17 +173,26 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
-      "alsoReportedBy": ["BBC World"]
+      "summary": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-year-old girl, as the country’s police face allegations of corruption and failing to tackle violence against women and girls. Shadrack Sibiya, who was already suspended from his role as deputy national police commissioner over allegations he interfered with political killings investigations, was arrested on Monday. He is facing charges of rape, people trafficking, promoting the sexual grooming of a child and two counts of grooming a child. Continue reading...",
+      "alsoReportedBy": []
     },
     {
       "title": "Infecting the Steam Link with NixOS",
       "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,15 +209,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "If we do not stop to help each other, what do we become?",
-      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Does Georgism work? Five years later",
       "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
       "source": "Hacker News",
@@ -218,9 +218,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Go concurrency distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
+      "title": "The JavaScript Pun: tagged template literal",
+      "url": "https://shukla.io/blog/2026-09/pun.html",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -233,15 +242,6 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "37signals &#8211; the creator of Ruby on Rails (RoR) &#8211; moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The JavaScript Pun: tagged template literal",
-      "url": "https://shukla.io/blog/2026-09/pun.html",
-      "source": "Lobsters",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
