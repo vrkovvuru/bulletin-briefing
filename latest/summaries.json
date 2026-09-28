@@ -1,6 +1,71 @@
 {
-  "generated": "2026-09-28T02:42:01.929773Z",
+  "generated": "2026-09-28T04:42:15.291952Z",
   "summaries": [
+    {
+      "summary": "Photographer captures life inside a French child prison, highlighting harsh conditions and limited activities.",
+      "significance": "The story highlights harsh conditions and limited activities for children in French prisons, criticized by Europe\u2019s Committee for the Prevention of Torture.",
+      "url": "https://www.theguardian.com/global-development/2026/sep/28/i-sleep-with-all-my-clothes-on-to-protect-my-privacy-a-glimpse-into-life-inside-a-child-prison-in-france",
+      "points": [
+        "Children may spend up to 23 hours daily in their cells due to staff shortages.",
+        "Europe\u2019s Committee for the Prevention of Torture criticizes low access to education and sports.",
+        "Cells contain minimal elements: a window, bars, a rudimentary bed, and a plank desk."
+      ]
+    },
+    {
+      "summary": "Actress Siân Brooke discusses how her role in the police drama Blue Lights has influenced her behavior in real life.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/28/blue-lights-sian-brooke-peelers-sherlock-house-of-the-dragon",
+      "points": [
+        "She noticed suspicious activity in London and conducted a drive-by to deter them.",
+        "Her husband reminded her she is not a real cop, highlighting the show's impact on her."
+      ]
+    },
+    {
+      "summary": "Actors Christine Baranski and Richard E Grant discuss their first-time collaboration in the play \"Hay Fever\" and reminisce about past experiences.",
+      "url": "https://www.theguardian.com/stage/2026/sep/28/christine-baranski-richard-e-grant-interview-hay-fever-wyndhams-theatre-sex-scenes-parties",
+      "points": [
+        "Baranski and Grant have never worked together before despite their long careers.",
+        "Both actors refer to themselves as veterans in the industry.",
+        "Baranski suggests they could have had \"good fun\" in the past, hinting at missed opportunities."
+      ]
+    },
+    {
+      "summary": "A former NVIDIA advisory board member discovers he was owed a billion dollars in stock due to a vesting agreement misunderstanding.",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "points": [
+        "The individual was invited to join NVIDIA's Technical Advisory Board in 1993 after demonstrating biquadratic texture mapping.",
+        "Due to a misinterpretation, the vesting of 1,000,000 stock options was delayed, resulting in a potential loss of over a billion dollars.",
+        "Legal attempts to resolve the issue were hindered by the statute of limitations, despite the authenticity of the option agreement being undisputed."
+      ]
+    },
+    {
+      "summary": "Researchers propose a multi-agent AI architecture inspired by Kahneman's thinking fast and slow theory to enhance AI capabilities.",
+      "significance": "The story matters because it proposes a multi-agent AI architecture inspired by human cognitive processes, potentially enhancing AI systems' adaptability and problem-solving capabilities.",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "points": [
+        "Paper by Marianna Bergamaschi Ganapini and 8 other authors explores integrating human-like metacognition in AI.",
+        "Architecture includes \"fast\" agents relying on past experience and \"slow\" agents for deliberate reasoning.",
+        "AI systems currently excel in narrow competencies but lack broader human intelligence capabilities."
+      ]
+    },
+    {
+      "summary": "Nissan unveils third-generation e-POWER, enhancing fuel efficiency and performance with a modular \"5-in-1\" design.",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "points": [
+        "Third-gen e-POWER uses a \"5-in-1\" modular approach, integrating key components for better efficiency and quieter operation.",
+        "System achieves up to 50% thermal efficiency with a purpose-built engine designed for constant-speed operation.",
+        "Incorporates silicon carbide semiconductors in the inverter to reduce power loss and improve energy use."
+      ]
+    },
+    {
+      "summary": "An AI agent mishandled a package pickup, leading to a negative customer experience and rating.",
+      "significance": "The story highlights a malfunction in AI communication that led to a negative customer experience, potentially affecting future interactions and trust in AI agents.",
+      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "points": [
+        "Usman waited for package pickup from 9:15 to 9:38, left angry.",
+        "AI auto-reply falsely confirmed presence at 9:27.",
+        "Negative rating given, AI agent sent an apology and offered rescheduling."
+      ]
+    },
     {
       "summary": "France\u2019s far-right National Rally and allies won 14 seats in Senate elections, a significant increase ahead of the presidential poll.",
       "significance": "The surge of France\u2019s far-right National Rally in Senate elections signals growing political influence ahead of the presidential poll.",
