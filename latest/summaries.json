@@ -1,6 +1,63 @@
 {
-  "generated": "2026-09-28T00:40:48.542718Z",
+  "generated": "2026-09-28T02:42:01.929773Z",
   "summaries": [
+    {
+      "summary": "France\u2019s far-right National Rally and allies won 14 seats in Senate elections, a significant increase ahead of the presidential poll.",
+      "significance": "The surge of France\u2019s far-right National Rally in Senate elections signals growing political influence ahead of the presidential poll.",
+      "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
+      "points": [
+        "National Rally and allies secured 14 seats, quadrupling their presence in the 348-seat Senate.",
+        "Marine Le Pen termed the results an \"historic victory\" for her party.",
+        "The election outcome comes just months before the presidential poll in France."
+      ]
+    },
+    {
+      "summary": "Two mass shootings near Johannesburg and Cape Town killed at least 27 people in South Africa.",
+      "significance": "The story highlights South Africa's struggle with high murder rates and criminality within the police, following recent investigations into police corruption.",
+      "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "points": [
+        "17 killed in Johannesburg area, suspected 'illegal goldmining turf war'.",
+        "10 killed at barbecue venue near Cape Town.",
+        "At least 15 other people injured in Johannesburg shooting."
+      ]
+    },
+    {
+      "summary": "A Sydney police officer allegedly discussed disposing of murder victims with a friend before killing a couple in 2024.",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/beau-lamarre-condon-murder-trial-court-ntwnfb",
+      "points": [
+        "Beau Lamarre-Condon, 31, pleaded not guilty to murdering Jesse Baird and Luke Davies.",
+        "Lamarre-Condon allegedly planned to hide bodies in bushland and dispose of belongings in a dumpster.",
+        "The murders occurred on February 19, 2024, in Baird\u2019s Paddington home with a police service weapon."
+      ]
+    },
+    {
+      "summary": "An article details the process of training a self-parking car using a genetic algorithm, focusing on the car's genome evolution.",
+      "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+      "points": [
+        "The genetic algorithm is implemented in TypeScript.",
+        "The car's genome evolves over 40 generations to improve self-parking.",
+        "Each car uses two polynomials with 8 coefficients each to control movements."
+      ]
+    },
+    {
+      "summary": "The article discusses the downsides of coupling Go code namespaces directly to GitHub and advocates for using custom domains instead.",
+      "significance": "The story highlights how using custom domains for Go code namespaces prevents code from being locked into a specific hosting provider, potentially saving companies money and reducing operational complexity.",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "points": [
+        "Using GitHub directly for Go code namespaces ties the code to a specific hosting provider.",
+        "A company used GitLab, GitHub, and Azure DevOps simultaneously due to the difficulty of changing code locations.",
+        "Custom domains like go.iain.rocks allow for easy redirection to different hosting services without altering the code."
+      ]
+    },
+    {
+      "summary": "A tool checks for automated reply bots on Bluesky using specific signals.",
+      "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "points": [
+        "Tool examines profiles for replies posted seconds after others.",
+        "Identifies accounts that only reply and never post original content.",
+        "Detects accounts using question marks to provoke responses."
+      ]
+    },
     {
       "summary": "Keynote at WeAreDevelopers Congress highlighted advancements in LLMs and coding agents in 2026.",
       "significance": "The story highlights advancements in coding agents within LLMs, marking a shift from unreliable to practical use in daily development tasks.",
