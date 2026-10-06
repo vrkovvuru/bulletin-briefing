@@ -2,13 +2,22 @@
   "date": "2026-10-06",
   "stories": [
     {
-      "title": "What we know about Russia’s suspected plague case",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/what-we-know-about-russias-suspected-plague-case?traffic_source=rss",
+      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+    },
+    {
+      "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Dozens of people have been quarantined over a suspected case of the plague in Russia’s Siberia.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "The three complaints filed by Norway&#039;s football body ask FIFA&#039;s Ethics Committee to examine Infantino&#039;s conduct.",
+      "alsoReportedBy": []
     },
     {
       "title": "Former German spy chief arrested for espionage and treason",
@@ -20,13 +29,13 @@
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "Trump suggests he would let Iran ‘take out’ Los Angeles or San Diego",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-suggests-let-iran-take-out-los-angeles-san-diego",
-      "source": "The Guardian",
+      "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Gavin Newsom calls comments ‘deranged and dangerous’ after president tells Nebraska rally: ‘They can take out a city’ The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Leaders in California have denounced Donald Trump as “reckless” and “deranged” after the US president suggested Iran could “take out” Los Angeles and San Diego – two liberal cities in the blue state that has been a frequent target of his administration. At a rally in ruby red Nebraska on Monday night, Trump told supporters that he hoped to see a “tremendous victory” in the fast-approaching November midterm elections. He then suggested high prices due to the war with Iran were a “small price to pay for keeping the world safe – keeping our country safe”. Continue reading...",
-      "alsoReportedBy": ["BBC News"]
+      "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
+      "alsoReportedBy": []
     },
     {
       "title": "Here are the finalists for the 2026 National Book Awards",
@@ -38,66 +47,48 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
-      "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Gulf oil flows surge despite escalating ship attacks in the critical Strait of Hormuz energy corridor.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
-      "url": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Acclaimed Indian author talks to Al Jazeera on the Gen Z-led protests and allegations of vote theft by Modi government.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "British national arrested in connection with RAF Fairford incident",
       "url": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Russia responds to US help offer after death of plague researcher",
-      "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The US and Russia have each offered to help each other tackling infectious diseases.",
       "alsoReportedBy": []
     },
     {
-      "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
-      "source": "NPR",
+      "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
+      "url": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.",
+      "summary": "Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.",
       "alsoReportedBy": []
     },
     {
-      "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
-      "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging that a new alliance of armed groups in Tigray has been forcibly recruiting men and boys to its ranks. Renewed conflict erupted on 23 September between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF), which rules the region, shattering the fragile Pretoria peace agreement signed between the two sides in November 2022. Continue reading...",
+      "title": "Who owns ‘brain rot’?: inside the international legal drama over a beloved meme",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of online video content has become the center of an international legal battle that could determine where human creativity ends and artificial intelligence begins. Tung Tung Tung Sahur, also known as Triple T, was created in 2025 by an Indonesian teen who goes by the username Noxa, using OpenAI’s image-generation tool. Based on a kentongan – a type of drum used to wake south-east Asian Muslims for their pre-dawn meal during Ramadan – the character is an anthropomorphized version of the instrument with a broad smile and a vacant stare. He sits under the umbrella of “Italian brain rot” internet videos. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The west has a blinkered view of African music – and it’s hurting the whole continent’s culture",
+      "url": "https://www.theguardian.com/music/2026/oct/06/african-music-afrobeats-tyla",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The term Afrobeats is applied to all sorts of genres, flattening them into one. Artists, media and the music industry must do better at showing off the richness of African pop In 2024, South African pop star Tyla won the best Afrobeats award at the MTV VMAs. Beaming in a yellow dress, she began her acceptance speech in a celebratory tone. “This is such a big moment for African music. The global impact of Water,” – her hit single – “proves that African music can be pop music.” But as the audience’s cheers swelled, she became more sombre, describing the moment as bittersweet. “There’s a tendency to group all African music as Afrobeats,” she continued. “Even though Afrobeats has opened so many doors for us, African music is so diverse. I come from South Africa, I represent amapiano”, referring to the country’s rolling, sensual dance subgenre. Her passionate entreaty notwithstanding, months later she’d reprise her win in the Afrobeats category of the American Music Awards. Tyla is hardly the only African artist to rail against the Afrobeats tag. Tems has spurned the term, describing her music as a cocktail of “Afro, R&B, soul and alternative elements”. Likewise, Burna Boy prefers to call his music Afrofusion, a fitting characterisation of the smorgasbord of sounds that converge in his music. Wizkid, Ckay, King Promise and Davido have also chafed at the term Afrobeats, yet it persists and holds back African music. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+      "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.",
       "alsoReportedBy": []
     },
     {
@@ -110,75 +101,93 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
+      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The arrests are part of the country's efforts to curb the misuse and abuse of the national currency.",
+      "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
       "alsoReportedBy": []
     },
     {
-      "title": "Republican candidate for San Diego House district criticizes Trump comments on Iran – US politics live",
+      "title": "Our reporters are answering your questions on how the Iran war will affect the midterm elections",
+      "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? We’re live with political and global correspondents to answer your questions Sign in or sign up to join the conversation Eddie from Minnesota, USA, asks in a callout question: Has the war in Iran finally created a gap between this administration’s false promises and the reality of how unaffordable living in the U.S. has become? Joseph Gedeon: Right, I don’t think the war created the gap so much as it made it impossible to ignore. Affordability has been the issue in American politics for about a decade…think about Bernie running in 2016 and 2020 with healthcare, student debt and wages. In the last election, Trump was running squarely on prices and inflation. Mamdani won in New York last year on rent freezes, affordability, free buses, etc, months before any of this. People knew that life was expensive pre-war. Trump spent the 2024 campaign saying he’d bring prices down, including a pledge to slash energy costs, and he’s spent a lot of his time back in office insisting things are going great and that worrying about pesky affordability is overblown (anyone else remember when he was coming at the Biden administration from the other side???). One obvious wrinkle is January of this year, when the EIA was forecasting gas prices to fall this year, then he kicks off his surprise war alongside Israel, and inflation has instead gone from 2.4% that month to 3.4% by July. Vance himself said keeping oil and gas cheap was “goal number one”. As you know, the war is the opposite of cheap: it has cost $45.1 billion so far, and that’s not the full bill. It doesn’t include repairs to damaged bases and buildings — and the CBO estimates it could keep costing another $2-3 billion a month. The CBO also says the war will keep inflation about half a point higher than it otherwise would have been into early 2027. Robert Tait: A Democrat-controlled Congress could actually hold substantial powers to impede, hinder and scrutinize the White House’s conduct of the war. There is little doubt that the Iran leadership is aware of this and, consequently, have been prepared to keep fighting at least until a new Congress is sworn in. Congress’s most immediate impact could be its power of the purse. It is Congress that holds constitutional authority to appropriate funds for military operations. In practical terms, it could attach language to defense appropriations forbidding the use of congressionally-mandated funds for kinetic action against Iran without prior congressional authorization. It could withhold funds or refuse to grant supplemental war appropriations. Such moves could starve the operation of funds over time. It would not necessarily halt hostilities immediately. Trump has shown willingness to override Congress and break democratic norms, and he is likely, in the short term, to raid other budgetary areas to get the funds. But Congress’s actions would be more than symbolic. Besides budgetary considerations, it also has the power to stage hearings holding Pentagon and intelligence officials accountable under oath for their decisions, a spectacle that has the potential to put the war’s unpopularity at the forefront of public consciousness. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "AfD candidate elected speaker of German regional parliament for first time",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This is getting confusing. On BBC Breakdfast, Badenoch told Jon Kay the speech was at 12pm.) It’s not going to be exactly like the Iron Dome. We haven’t called it an Iron Dome. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+      "url": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Unprecedented protests that began in low-income suburb are turning ugly, with investigations under way into police brutality Europe live: latest updates from protests in France Before dawn on Tuesday outside the Lycée Sophie-Germain in central Paris, hundreds of teenagers dragged wheelie bins, metal barriers and shopping trolleys to build a barricade outside the front door of their secondary school. Climbing to the top of the piles of bins, pupils held banners calling for more funding and greater equality in French schools. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Jim Desmond pushes back after president says losing Los Angeles and San Diego would be ‘small price to pay’ Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Two media giants, Paramount and Warner Bros Discovery, have completed their $110bn merger , creating a new entertainment powerhouse, Skydance. The deal, fiercely contested by several state attorneys general over potential antitrust concerns, formally closed on Tuesday. Continue reading...",
+      "summary": "‘These allegations are deeply alarming,’ said Senator Alex Padilla, a California Democrat who received a copy of the complaint Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Two media giants, Paramount and Warner Bros Discovery, have completed their $110bn merger , creating a new entertainment powerhouse, Skydance. The deal, fiercely contested by several state attorneys general over potential antitrust concerns, formally closed on Tuesday. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "US citizen alleges immigration agent in Chicago shot her from behind",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/chicago-citizen-shot-by-immigration-agent-lawsuit",
+      "title": "New York City med spa owner admits to giving client botulism with bootleg Botox",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/new-york-med-spa-botulism-botox",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "CBP says in response to lawsuit use-of-force cases are ‘thoroughly investigated, reviewed, and presented’ A US citizen who was shot one year ago by a Customs and Border Protection (CBP) agent during a sweeping immigration crackdown in Chicago filed a lawsuit against the federal government on Monday, alleging the agent lied about the shooting and fired into her vehicle from behind. Federal prosecutors initially accused Marimar Martinez, then 30, of using her vehicle to strike and box in agent Charles Exum’s sport utility vehicle on Chicago ’s south-west side on 4 October 2025 during what the Trump administration named Operation Midway Blitz. Exum then exited his car and opened fire, leaving Martinez with seven gunshot wounds. Continue reading...",
+      "summary": "Klara Shuster said in court she imported mislabeled Botox illegally and dispensed it to clients The owner of a New York City med spa has admitted to illegally administering bootleg Botox from Asia, leading one to client to develop botulism. Klara Shuster, also known as Klara Chrzuszcz, made those admissions in the course of pleading guilty in federal court recently to conspiracy to commit smuggling, among other charges. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
-      "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "US televangelist Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "PM called on to act on communal grave revelations as NSW commits to urgent review",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/07/nsw-health-people-buried-unmarked-grave-minister-failings-families",
+      "title": "Proportion of people in Great Britain vaping who never smoked doubles in four years",
+      "url": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "‘All deceased persons should be treated with dignity and respect, regardless of their financial circumstances,’ authorities say after Guardian Australia investigation Find more from the Unmarked graves investigation here Get our breaking news email , free app or daily news podcast Anthony Albanese has been urged to use national cabinet to stop the use of unmarked communal graves to bury impoverished Australians and address failings that are leaving family and friends blindsided. Guardian Australia’s revelations on Tuesday that unmarked, communal graves were being used, in some cases without notifying the families of the deceased, prompted widespread political condemnation on Tuesday, including from federal Liberal MPs, state Labor ministers, and the Greens. Continue reading...",
+      "summary": "More than 1 million people in Great Britain now vape despite having never regularly smoked, ONS data shows More than 1 million people in Great Britain now vape despite never having been regular smokers, with rates nearly doubling in just four years, according to figures that health experts describe as concerning. About 5.4 million people aged 16 and above in England, Scotland and Wales (9.9%) used e-cigarettes daily or occasionally in 2025, Office for National Statistics data showed . Vaping was highest among those aged 25-34 (16.4%). Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Coalition’s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Angus Taylor’s drastic cuts to graduate visas aim to end a citizenship pathway, but universities body says changes will make Australia less competitive Get our new political email , free app or daily news podcast The Coalition’s migration plan risks breaching Australia’s free trade agreement with India, signed by the former Morrison government, allowing Indian students to stay and work for up to four years after completing their studies. Angus Taylor on Tuesday announced plans to cut net overseas migration to 100,000 for the first two years of a Coalition government and up to 160,000 in year four, in a plan which would abolish temporary graduate visas, make major cuts to international student, bridging and temporary protection visas, and halve humanitarian places. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A plague research employee in Russia died from an unknown cause. Here's what we know",
-      "url": "https://www.npr.org/2026/10/06/nx-s1-5991803/a-plague-research-employee-in-russia-died-from-an-unknown-cause-heres-what-we-know",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "There are more questions than answers regarding the death of a plague research lab employee last week in Siberia. Here's what we do and don't know.",
+      "title": "The state of the tech industry in 2026",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
+      "source": "Pragmatic Engineer",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "A look into what has changed, what&#8217;s still the same &#8211; and what&#8217;s broken &#8211; in the tech industry. The full video and the summary of my keynote at LDX3 New York",
       "alsoReportedBy": []
     },
     {
@@ -200,15 +209,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Release of Polars 2.0",
       "url": "https://pola.rs/posts/release-polars-2/",
       "source": "Hacker News",
@@ -218,8 +218,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Async Rust: Where does the scheduler live?",
-      "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+      "title": "Montray - a tray icon for systemd service health",
+      "url": "https://github.com/dimonomid/montray/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -245,17 +254,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "What is happening with code reviews?",
-      "url": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
-      "source": "Pragmatic Engineer",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "AI generates more code than devs can track in 2026, so will the code review process have to adapt &#8211; or is it doomed? A look into this decades-old practice and the approaches that could replace it",
-      "alsoReportedBy": ["Lobsters"]
-    },
-    {
-      "title": "Montray - a tray icon for systemd service health",
-      "url": "https://github.com/dimonomid/montray/",
+      "title": "Async Rust: Where does the scheduler live?",
+      "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,11 +263,29 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "title": "The Early History of Smalltalk (1993)",
+      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Scrimshaw Jukebox",
+      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for music of the quality of the original secret of Monkey Island It leaned a lot harder into the Monkey Island theme than I had intended, but the results are surprisingly good. I wonder if the ability to compose competent music is similar to the 3D graphics thing - a new capability for text models that emerged in the past few months? Would need some careful experiments with other recent and not-so-recent models to confirm if this is new or if they've been able to do this for a while. Tags: ai , generative-ai , llms , claude , vibe-coding",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+      "source": "Import AI",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
       "summary": "",
       "alsoReportedBy": []
     },
@@ -278,15 +296,6 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude but didn't love the disk, battery, and performance cost of running the VM locally. Also, people didn't love that closing your laptop means the work stops. The \"new\" version of Cowork runs model inference and the VM in the cloud. Each session gets its own sandbox, not sharing state with other sessions. When the VM needs something on the users' device (like a file), the desktop app is responsible for that file access tool call. [...] We think this solves a lot of problems we've heard about (like using Cowork from a phone, keeping work running, or getting all the same power without losing battery to the VM) — Felix Rieseberg , Anthropic, see also this help page Tags: claude-cowork , anthropic , claude , generative-ai , ai , general-agents , llms",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
-      "source": "Import AI",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -305,15 +314,6 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard limits. Soft caps, \"after $X/month, send me a warning email\", will not cut it. Coding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinning up code that can do useful things. Sometimes those things cost money - calls to paid APIs, or hosted web applications, or systems that can bill for additional storage and compute. Nobody wants to wake up to an email sent at midnight warning about a budget limit and find that, while they slept, their rogue service had consumed several hundred (or several thousand) more dollars of usage. An argument against this is that businesses don't want their hosted applications to start throwing errors because some budget was exceeded. I expect that most businesses and individuals would prefer errors to a surprise $10,000+ bill. I think hard budget caps need to be the default. If someone wants to live dangerously they should be able to do that, but it needs to be on an opt-in basis. Have a nice, clear checkbox somewhere prominent: Remove the budget cap. My application will not be shut down if I exceed the configured budget limit, and I will be responsible for subsequent charges. The service I most want to see this from is AWS. I've heard plenty of stories from people who refuse to use AWS for personal projects out of (justified) fear that a runaway service might bankrupt them. I've also heard stories from people who didn't anticipate this and ended up seriously burned. ... and it turns out AWS finally launched spending limits a few weeks ago! From their announcement New AWS experience helps builders get started and ship faster on 16th September: When you're ready to upgrade to a paid plan, you can set a monthly spend limit for your project based on your usage patterns so that you stay within your budget. If a project's usage reaches its spend limit, your project is paused for that month. See also Create a spend limit in AWS Settings , though that page warns that \"We're currently releasing our new experience to a limited number of customers.\" Here's hoping that hits general availability for existing accounts soon. Google Cloud launched a similar feature in July, called Spend Caps, which lets you \"set a monthly financial cap on specific services within a project\". Looks like this is becoming a trend! In an ideal world, our agents could help with this. It would be great if agents started biasing towards recommending providers with hard budget caps, and warning new and inexperienced builders against deploying applications using uncapped services that might get them into trouble. Tags: amazon-web-services , ai , coding-agents",
       "alsoReportedBy": []
     },
     {
@@ -344,21 +344,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard limits. Soft caps, \"after $X/month, send me a warning email\", will not cut it. Coding agents, and personal agents (coding agents wrapped in a less threatening UI), greatly reduce the friction of spinning up code that can do useful things. Sometimes those things cost money - calls to paid APIs, or hosted web applications, or systems that can bill for additional storage and compute. Nobody wants to wake up to an email sent at midnight warning about a budget limit and find that, while they slept, their rogue service had consumed several hundred (or several thousand) more dollars of usage. An argument against this is that businesses don't want their hosted applications to start throwing errors because some budget was exceeded. I expect that most businesses and individuals would prefer errors to a surprise $10,000+ bill. I think hard budget caps need to be the default. If someone wants to live dangerously they should be able to do that, but it needs to be on an opt-in basis. Have a nice, clear checkbox somewhere prominent: Remove the budget cap. My application will not be shut down if I exceed the configured budget limit, and I will be responsible for subsequent charges. The service I most want to see this from is AWS. I've heard plenty of stories from people who refuse to use AWS for personal projects out of (justified) fear that a runaway service might bankrupt them. I've also heard stories from people who didn't anticipate this and ended up seriously burned. ... and it turns out AWS finally launched spending limits a few weeks ago! From their announcement New AWS experience helps builders get started and ship faster on 16th September: When you're ready to upgrade to a paid plan, you can set a monthly spend limit for your project based on your usage patterns so that you stay within your budget. If a project's usage reaches its spend limit, your project is paused for that month. See also Create a spend limit in AWS Settings , though that page warns that \"We're currently releasing our new experience to a limited number of customers.\" Here's hoping that hits general availability for existing accounts soon. Google Cloud launched a similar feature in July, called Spend Caps, which lets you \"set a monthly financial cap on specific services within a project\". Looks like this is becoming a trend! In an ideal world, our agents could help with this. It would be great if agents started biasing towards recommending providers with hard budget caps, and warning new and inexperienced builders against deploying applications using uncapped services that might get them into trouble. Tags: amazon-web-services , ai , coding-agents",
+      "alsoReportedBy": []
+    },
+    {
       "title": "September sponsors-only newsletter",
       "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The vulnapocalypse comes for Datasette What I'm using right now My software releases this month 2026 in LLMs (so far) Here's a copy of the August newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
-      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "the minimalist harness goes stable... and TypeScript!",
       "alsoReportedBy": []
     }
   ]

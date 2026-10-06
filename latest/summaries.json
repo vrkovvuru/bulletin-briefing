@@ -1,6 +1,99 @@
 {
-  "generated": "2026-10-06T14:42:27.417077Z",
+  "generated": "2026-10-06T16:42:55.139514Z",
   "summaries": [
+    {
+      "summary": "Kemi Badenoch, Conservative Party leader, refuses to form a coalition with Reform UK, preferring another election instead.",
+      "significance": "Badenoch's refusal to form a deal with Reform UK underscores the Conservatives' stance against scandal-tainted parties, potentially leading to another election in a hung parliament scenario.",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Badenoch states Reform UK is \"neck deep in scandal,\" citing cases like Dan Thomas' arrest and Nathan Gill's 10.5-year prison sentence for bribery.",
+        "Polls suggest a hung parliament at the next election, with Labour leading, followed by Reform UK and the Conservatives.",
+        "Badenoch proposes cutting employer National Insurance contributions by half for workers aged 21 to 24 to boost youth employment."
+      ]
+    },
+    {
+      "summary": "An international legal battle surrounds the copyright status of an AI-generated meme character named Tung Tung Tung Sahur.",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
+      "points": [
+        "Created in 2025 by Indonesian teen Noxa using OpenAI\u2019s tool.",
+        "Character is an anthropomorphized kentongan, a southeast Asian drum.",
+        "Part of the \"Italian brain rot\" internet video genre."
+      ]
+    },
+    {
+      "summary": "African artists criticize the oversimplification of their music under the Afrobeats label, highlighting the diversity of African pop.",
+      "url": "https://www.theguardian.com/music/2026/oct/06/african-music-afrobeats-tyla",
+      "points": [
+        "Tyla won the best Afrobeats award at the MTV VMAs in 2024, representing amapiano.",
+        "Tems describes her music as a mix of \"Afro, R&B, soul and alternative elements.\"",
+        "Artists like Burna Boy prefer terms like Afrofusion to describe their diverse sounds."
+      ]
+    },
+    {
+      "summary": "The ongoing war with Iran is affecting US voters and could influence the midterm elections by highlighting affordability issues and giving Congress power to scrutinize the war.",
+      "significance": "The war with Iran is highlighting affordability issues in the U.S., potentially influencing voter decisions in the midterm elections.",
+      "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
+      "points": [
+        "The war has cost $45.1 billion so far, with estimates of an additional $2-3 billion monthly cost.",
+        "Congress could impede the war by controlling the purse strings and holding hearings to scrutinize decisions.",
+        "Inflation has risen from 2.4% in January to 3.4% by July, partly due to the war's impact on energy costs."
+      ]
+    },
+    {
+      "summary": "Badenoch indicates Tories won't repeal Labour's pensions triple lock policy, avoids specifics on tax cuts in upcoming speech.",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+      "points": [
+        "Badenoch suggests Conservatives will not reverse Labour\u2019s pensions triple lock legislation.",
+        "Badenoch evades details on tax cuts, directs to speech tomorrow at 11.15am."
+      ]
+    },
+    {
+      "summary": "Paris students protest for school funding and equality, clashing with police.",
+      "url": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+      "points": [
+        "Students built barricades outside Lycée Sophie-Germain.",
+        "Protests started in low-income suburbs and turned violent.",
+        "Investigations into police brutality are underway."
+      ]
+    },
+    {
+      "summary": "New York City med spa owner admits to causing botulism in a client by using illegal Botox.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/new-york-med-spa-botulism-botox",
+      "points": [
+        "Klara Shuster, spa owner, admitted to importing mislabeled Botox from Asia.",
+        "Shuster pleaded guilty to conspiracy to commit smuggling and other charges.",
+        "One client developed botulism after receiving the illegal Botox treatment."
+      ]
+    },
+    {
+      "summary": "Vaping among never-smokers in Great Britain has nearly doubled in four years, reaching over 1 million people.",
+      "url": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years",
+      "points": [
+        "Over 1 million never-smokers vape in Great Britain as of 2025.",
+        "Vaping rates among adults aged 16+ reached 9.9% in 2025.",
+        "Highest vaping prevalence is among 25-34 year olds at 16.4%."
+      ]
+    },
+    {
+      "summary": "The article discusses the origins of Smalltalk, highlighting its development from ideas in the 1960s and its role in shaping modern personal computing.",
+      "significance": "The story details Smalltalk's foundational role in shaping modern personal computing paradigms, influenced by 1960s innovations.",
+      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "points": [
+        "Smalltalk emerged from ARPA community ideas in the 1960s about human-computer interaction.",
+        "Early Smalltalk was influenced by predecessors like SKETCHPAD, JOSS, LISP, and SIMULA.",
+        "The article mentions a 1992 notebook computer weighing five pounds, sold for under $700, embodying Smalltalk's vision."
+      ]
+    },
+    {
+      "summary": "An AI model, Claude Opus 5.5, was tested for music composition, producing quality game music reminiscent of \"Secret of Monkey Island.\"",
+      "significance": "The story illustrates emerging capabilities in AI music composition, potentially marking a new development in what text-based AI models can achieve.",
+      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+      "points": [
+        "The AI-generated music heavily featured the \"Monkey Island\" theme.",
+        "The experiment suggests a new capability in text models for composing competent music.",
+        "Further experiments are needed to determine if this ability is recent or longstanding."
+      ]
+    },
     {
       "summary": "Former German spy chief August Hanning and a former BND employee were arrested for espionage and treason.",
       "significance": "The arrest of former German spy chief August Hanning for espionage and treason affects Germany's national security and follows a pattern of high-ranking intelligence officials facing similar charges.",
