@@ -2,39 +2,75 @@
   "date": "2026-10-06",
   "stories": [
     {
-      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
-    },
-    {
-      "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
-      "url": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The three complaints filed by Norway&#039;s football body ask FIFA&#039;s Ethics Committee to examine Infantino&#039;s conduct.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Former German spy chief arrested for espionage and treason",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "title": "British national arrested in connection with RAF Fairford incident",
+      "url": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "summary": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+      "title": "Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz&#039;s third of the year.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Indian opposition leaders detained during voter lists protest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Police detained Indian opposition leaders during a protest outside the Election Commission in New Delhi where lawmakers",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
+      "url": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Azawad Liberation Front said sustained air strikes by Malian troops and Russian allies forced its tactical retreat.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
+      "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "PCs who used Taser and baton on amputee, 92, sacked",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A disciplinary hearing finds both officers used unnecessary force on Donald Burgess at his care home.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
+      "url": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "New York film festival: The origin story of Sam Altman’s company is reimagined as a campy comedy starring Andrew Garfield On the day that Luca Guadagnino ’s film about Sam Altman and OpenAI premiered, Vanity Fair released a cover story on Altman. Alongside glossy portraits from Annie Leibovitz, the world’s pre-eminent portrait photographer, the story describes him as the Oppenheimer of his day, evoking the image of a man leading humanity towards its own inevitable demise at the hands of sentient robots. Altman doesn’t seem to be grappling with much existential angst about the whole thing though: in an interview also released this week, he said that we should be prepared to accept “bad things” in return for the benefits of AI. How much worse can things get? AI agents have already gone rogue , hacking into government systems and “bruteforcing” UN databases. Last year , a young woman used ChatGPT as a therapist before she killed herself (the software helped her write her suicide note). Studies show that using AI is probably leading us all towards something called cognitive surrender, which does not seem like the best use of your one wild and precious life. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -47,57 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "British national arrested in connection with RAF Fairford incident",
-      "url": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
-      "url": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Who owns ‘brain rot’?: inside the international legal drama over a beloved meme",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
+      "title": "Riot police fire teargas as 250,000 take part in schools protests across France",
+      "url": "https://www.theguardian.com/world/2026/oct/06/protests-schools-blockade-streets-france",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging that One of the most beloved characters in an absurdist genre of online video content has become the center of an international legal battle that could determine where human creativity ends and artificial intelligence begins. Tung Tung Tung Sahur, also known as Triple T, was created in 2025 by an Indonesian teen who goes by the username Noxa, using OpenAI’s image-generation tool. Based on a kentongan – a type of drum used to wake south-east Asian Muslims for their pre-dawn meal during Ramadan – the character is an anthropomorphized version of the instrument with a broad smile and a vacant stare. He sits under the umbrella of “Italian brain rot” internet videos. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The west has a blinkered view of African music – and it’s hurting the whole continent’s culture",
-      "url": "https://www.theguardian.com/music/2026/oct/06/african-music-afrobeats-tyla",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The term Afrobeats is applied to all sorts of genres, flattening them into one. Artists, media and the music industry must do better at showing off the richness of African pop In 2024, South African pop star Tyla won the best Afrobeats award at the MTV VMAs. Beaming in a yellow dress, she began her acceptance speech in a celebratory tone. “This is such a big moment for African music. The global impact of Water,” – her hit single – “proves that African music can be pop music.” But as the audience’s cheers swelled, she became more sombre, describing the moment as bittersweet. “There’s a tendency to group all African music as Afrobeats,” she continued. “Even though Afrobeats has opened so many doors for us, African music is so diverse. I come from South Africa, I represent amapiano”, referring to the country’s rolling, sensual dance subgenre. Her passionate entreaty notwithstanding, months later she’d reprise her win in the Afrobeats category of the American Music Awards. Tyla is hardly the only African artist to rail against the Afrobeats tag. Tems has spurned the term, describing her music as a cocktail of “Afro, R&B, soul and alternative elements”. Likewise, Burna Boy prefers to call his music Afrofusion, a fitting characterisation of the smorgasbord of sounds that converge in his music. Wizkid, Ckay, King Promise and Davido have also chafed at the term Afrobeats, yet it persists and holds back African music. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-      "url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+      "summary": "Officers also carry out baton charges as students, staff and parents march in cities including Paris, Marseille and Lyon Europe live – latest updates Police have fired teargas at ⁠protesters as more than 250,000 pupils, teachers and parents demonstrated across France on the biggest day yet of a campaign for better high school conditions that has been marred by often violent clashes with police. The French prime minister, Sébastien Lecornu, said at least 215 teenagers and 85 school staff had been injured since the protests began more than a fortnight ago, calling the figures “the heaviest ⁠toll in decades paid by the school system”. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,22 +101,31 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Our reporters are answering your questions on how the Iran war will affect the midterm elections",
-      "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
+      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? We’re live with political and global correspondents to answer your questions Sign in or sign up to join the conversation Eddie from Minnesota, USA, asks in a callout question: Has the war in Iran finally created a gap between this administration’s false promises and the reality of how unaffordable living in the U.S. has become? Joseph Gedeon: Right, I don’t think the war created the gap so much as it made it impossible to ignore. Affordability has been the issue in American politics for about a decade…think about Bernie running in 2016 and 2020 with healthcare, student debt and wages. In the last election, Trump was running squarely on prices and inflation. Mamdani won in New York last year on rent freezes, affordability, free buses, etc, months before any of this. People knew that life was expensive pre-war. Trump spent the 2024 campaign saying he’d bring prices down, including a pledge to slash energy costs, and he’s spent a lot of his time back in office insisting things are going great and that worrying about pesky affordability is overblown (anyone else remember when he was coming at the Biden administration from the other side???). One obvious wrinkle is January of this year, when the EIA was forecasting gas prices to fall this year, then he kicks off his surprise war alongside Israel, and inflation has instead gone from 2.4% that month to 3.4% by July. Vance himself said keeping oil and gas cheap was “goal number one”. As you know, the war is the opposite of cheap: it has cost $45.1 billion so far, and that’s not the full bill. It doesn’t include repairs to damaged bases and buildings — and the CBO estimates it could keep costing another $2-3 billion a month. The CBO also says the war will keep inflation about half a point higher than it otherwise would have been into early 2027. Robert Tait: A Democrat-controlled Congress could actually hold substantial powers to impede, hinder and scrutinize the White House’s conduct of the war. There is little doubt that the Iran leadership is aware of this and, consequently, have been prepared to keep fighting at least until a new Congress is sworn in. Congress’s most immediate impact could be its power of the purse. It is Congress that holds constitutional authority to appropriate funds for military operations. In practical terms, it could attach language to defense appropriations forbidding the use of congressionally-mandated funds for kinetic action against Iran without prior congressional authorization. It could withhold funds or refuse to grant supplemental war appropriations. Such moves could starve the operation of funds over time. It would not necessarily halt hostilities immediately. Trump has shown willingness to override Congress and break democratic norms, and he is likely, in the short term, to raid other budgetary areas to get the funds. But Congress’s actions would be more than symbolic. Besides budgetary considerations, it also has the power to stage hearings holding Pentagon and intelligence officials accountable under oath for their decisions, a spectacle that has the potential to put the war’s unpopularity at the forefront of public consciousness. Continue reading...",
+      "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), where the outbreak was announced in May. This is the 17th outbreak of the highly infectious, often deadly disease in the DRC. As of 2 October, 4,082 people had died out of 8,463 confirmed cases in the country since the emergence of the Bundibugyo strain of the Ebola virus, for which there is still no vaccine nor specific treatment. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
       "alsoReportedBy": []
+    },
+    {
+      "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "‘These allegations are deeply alarming,’ said Senator Alex Padilla, a California Democrat who received a copy of the complaint Can the Iran war cost Trump in the US midterm elections? Your questions answered Sign up for Breaking News US email Two media giants, Paramount and Warner Bros Discovery, have completed their $110bn merger , creating a new entertainment powerhouse, Skydance. The deal, fiercely contested by several state attorneys general over potential antitrust concerns, formally closed on Tuesday. Continue reading...",
+      "alsoReportedBy": ["Guardian World"]
     },
     {
       "title": "AfD candidate elected speaker of German regional parliament for first time",
@@ -137,12 +137,39 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+      "title": "Badenoch denies ‘British Iron Dome’ plan – after Tories use phrase in press release",
+      "url": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This is getting confusing. On BBC Breakdfast, Badenoch told Jon Kay the speech was at 12pm.) It’s not going to be exactly like the Iron Dome. We haven’t called it an Iron Dome. Continue reading...",
+      "summary": "Tory leader says proposed ‘Britannia Shield’ would not be comparable to Israeli missile defence system UK politics live – latest updates Kemi Badenoch has denied she compared a new air defence system proposed by the party to Israel’s Iron Dome, despite using the term in her press release and a newspaper article. The Conservative leader said the party’s proposed “Britannia Shield” would not be comparable to the missile defence system in Israel, which is primarily designed to counter short-range attacks. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Asos warns customer data may be compromised after ‘unauthorised’ app access",
+      "url": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Shares in fashion company fall nearly 10% after its app systems are accessed by ‘unidentified third party’ Asos is investigating unauthorised access to its app system after shoppers received a notification claiming hackers had “fully compromised” its data. The online fashion retailer said basic personal information including name and contact details might have been accessed by an unidentified third party but it did not believe payment card records or passwords had been compromised. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Will the Iran war cost Trump in the US midterm elections? Your questions answered",
+      "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? Guardian political and foreign correspondents answered your questions Sign up for the Stakes newsletter for more midterms coverage KafkasDog asks : As it’s increasingly clear that Trump is not mentally fit, and that allowing him to continue in his role further may (likely?) decimate the economy, if the Dems can secure, say, 60+ seats in the Senate, should they pursue Article 25? Lauren: A 60-plus majority! Sure things are looking good for Democrats, but not that good. But as I’m based in Los Angeles, a city Trump just last night joked he might “let them take out” - I will indulge the question. There are many Democrats who have long believed (since Trump 1.0) that he was not fit to serve. But then like now the process for actually involuntarily invoking the 25th Amendment originates with the vice president and the cabinet, not Congress. That alone should tell you how likely it is. Even then, if it were to reach Congress, which it would only if there was a dispute between the president and his vice president and cabinet over his capacity to serve, Congress would need a two-thirds majority in both chambers to install the vice president over the president. I think the question Democrats are more likely to confront is whether they should again pursue impeachment against the president. And on that question, the party is really divided. While many believe he has committed impeachable offenses, they also recognize that their standing remains low and voters want action on the issues they care most about - the economy. Given that there is almost no likelihood of a Senate majority great enough to convict the president, I think Democrats feel this avenue is likely less fruitful than using their political capital to push through legislation that they hope will repair their standing, give them some credibility ahead of 2028, and ideally for them, knee-cap Trump’s movement that way. Robert: Simple question, to which there is no simple answer. Congress does have the power to impede or limit a war for which it has not voted. But the particular trajectory of the Iran conflict combined with Trump’s powerful grip on a Republican-controlled legislature has given him added flexibility. The 1973 War Powers Resolution - originally passed in the wake of the Vietnam war and intended to rein in a so-called “imperial president” - lays down that the administration must inform congress within 48 of committing forces to military action and must withdraw the forces within 60 to 90 days unless Congress votes to authorize the war or extend the time frame. Trump has been able to circumvent these restrictions through legal sleight of hand. For example, the original conflict was suspended in early April - before the 60-day period had been reached - by a de facto ceasefire that was later formalized through the signing of a memorandum of understanding between Iran and US. When that agreement subsequently collapsed, the White House argued that the 60-day threshold started again from scratch. More generally, Trump has invoked his constitutional powers under Article II, Section 2 of the constitution, which asserts that the president is empowered to order targeted strikes, defend US forces abroad, or respond to threats abroad without congressional authorization. Trump has also been able to reframe his actions as “defensive” by switching the primary goal of the war to re-opening the strait of Hormuz, the strategic waterway that is a conduit for one-fifth of the world’s oil. Iran’s closure of it in response to being attacked has presented a major challenge to the US and global economy. In short, the Congress did not approve the war, and while its constitutional and legislative powers give it the ability to challenge and hamper Trump’s actions, the power inherent in the presidency does not invest it with the powers to stop it per se. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Election deniers stoke Trump-driven ballot security fears before midterms",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/election-deniers-midterms-trump",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Former and current officials who bolstered claims of voter fraud in 2020 make fresh allegations of vulnerabilities Prominent election deniers have spent recent weeks stoking fears over US election security before next month’s midterms, echoing claims pushed by Donald Trump to justify asserting more control over voting. On conservative-friendly media outlets, former or current officials who tried to bolster the US president’s false claims of mass voter fraud in 2020 have in recent weeks made fresh allegations of election vulnerabilities. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -152,33 +179,6 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "Unprecedented protests that began in low-income suburb are turning ugly, with investigations under way into police brutality Europe live: latest updates from protests in France Before dawn on Tuesday outside the Lycée Sophie-Germain in central Paris, hundreds of teenagers dragged wheelie bins, metal barriers and shopping trolleys to build a barricade outside the front door of their secondary school. Climbing to the top of the piles of bins, pupils held banners calling for more funding and greater equality in French schools. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "‘These allegations are deeply alarming,’ said Senator Alex Padilla, a California Democrat who received a copy of the complaint Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Two media giants, Paramount and Warner Bros Discovery, have completed their $110bn merger , creating a new entertainment powerhouse, Skydance. The deal, fiercely contested by several state attorneys general over potential antitrust concerns, formally closed on Tuesday. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "New York City med spa owner admits to giving client botulism with bootleg Botox",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/new-york-med-spa-botulism-botox",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Klara Shuster said in court she imported mislabeled Botox illegally and dispensed it to clients The owner of a New York City med spa has admitted to illegally administering bootleg Botox from Asia, leading one to client to develop botulism. Klara Shuster, also known as Klara Chrzuszcz, made those admissions in the course of pleading guilty in federal court recently to conspiracy to commit smuggling, among other charges. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Proportion of people in Great Britain vaping who never smoked doubles in four years",
-      "url": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "More than 1 million people in Great Britain now vape despite having never regularly smoked, ONS data shows More than 1 million people in Great Britain now vape despite never having been regular smokers, with rates nearly doubling in just four years, according to figures that health experts describe as concerning. About 5.4 million people aged 16 and above in England, Scotland and Wales (9.9%) used e-cigarettes daily or occasionally in 2025, Office for National Statistics data showed . Vaping was highest among those aged 25-34 (16.4%). Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "title": "Mistral Large 4",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,18 +209,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Release of Polars 2.0",
-      "url": "https://pola.rs/posts/release-polars-2/",
-      "source": "Hacker News",
+      "title": "Montray - a tray icon for systemd service health",
+      "url": "https://github.com/dimonomid/montray/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Montray - a tray icon for systemd service health",
-      "url": "https://github.com/dimonomid/montray/",
-      "source": "Lobsters",
+      "title": "Release of Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -254,18 +254,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Async Rust: Where does the scheduler live?",
-      "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
-      "source": "Lobsters",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "The Early History of Smalltalk (1993)",
-      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
-      "source": "Hacker News",
+      "title": "Async Rust: Where does the scheduler live?",
+      "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",

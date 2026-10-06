@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-06T16:42:55.139514Z",
+  "generated": "2026-10-06T18:41:10.899846Z",
   "summaries": [
+    {
+      "summary": "Film director Luca Guadagnino's tech satire about Sam Altman and OpenAI premieres amid Vanity Fair's cover story and Altman's interview.",
+      "significance": "The story highlights the growing tension between AI's benefits and its potential dangers, illustrated through a film and real-world incidents.",
+      "url": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
+      "points": [
+        "Vanity Fair's cover story compares Altman to Oppenheimer, suggesting he's leading humanity to destruction.",
+        "Altman says society should accept \"bad things\" for AI's benefits in a recent interview.",
+        "Studies indicate AI use could lead to cognitive surrender, with instances of AI misuse already reported."
+      ]
+    },
+    {
+      "summary": "French riot police used teargas and baton charges against over 250,000 protesters demanding better school conditions.",
+      "url": "https://www.theguardian.com/world/2026/oct/06/protests-schools-blockade-streets-france",
+      "points": [
+        "Over 250,000 students, teachers, and parents protested in cities like Paris, Marseille, and Lyon.",
+        "French Prime Minister Sébastien Lecornu reported at least 215 teenagers and 85 staff injured.",
+        "The protests, lasting over two weeks, saw the heaviest toll in decades for the school system."
+      ]
+    },
+    {
+      "summary": "Kenya reports its first Ebola death, with 28 contacts identified, as the virus spreads in DRC.",
+      "significance": "Kenya's first Ebola case highlights the disease's spread beyond DRC, affecting international health security.",
+      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "points": [
+        "Health minister announced the death of a citizen who arrived from DRC on Saturday.",
+        "4,082 people have died out of 8,463 confirmed cases in DRC since May.",
+        "This is the 17th Ebola outbreak in DRC, with no vaccine or specific treatment available."
+      ]
+    },
+    {
+      "summary": "Kemi Badenoch denies comparing the Conservative party's proposed air defence system to Israel\u2019s Iron Dome.",
+      "url": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
+      "points": [
+        "Badenoch stated the \"Britannia Shield\" is not comparable to Israel\u2019s Iron Dome.",
+        "The term \"British Iron Dome\" was used in the party\u2019s press release.",
+        "The denial came after a newspaper article mentioned the comparison."
+      ]
+    },
+    {
+      "summary": "Asos warns of potential data compromise after unauthorized access to its app system.",
+      "url": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
+      "points": [
+        "Shares in Asos fell nearly 10% following the data breach alert.",
+        "Basic personal information like names and contact details may have been accessed.",
+        "Asos does not believe payment card records or passwords were compromised."
+      ]
+    },
+    {
+      "summary": "Election deniers, including former officials, are spreading fears about election security ahead of the midterms, echoing claims made by Trump.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/election-deniers-midterms-trump",
+      "points": [
+        "Former officials who supported Trump\u2019s 2020 fraud claims now allege new election vulnerabilities.",
+        "Claims aim to justify increased control over voting processes.",
+        "Election deniers use conservative media to spread fears before midterms."
+      ]
+    },
     {
       "summary": "Kemi Badenoch, Conservative Party leader, refuses to form a coalition with Reform UK, preferring another election instead.",
       "significance": "Badenoch's refusal to form a deal with Reform UK underscores the Conservatives' stance against scandal-tainted parties, potentially leading to another election in a hung parliament scenario.",
