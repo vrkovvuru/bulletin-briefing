@@ -1,6 +1,108 @@
 {
-  "generated": "2026-10-06T18:41:10.899846Z",
+  "generated": "2026-10-06T20:42:39.113460Z",
   "summaries": [
+    {
+      "summary": "Experts discuss the societal discomfort with death and the importance of normalizing conversations about it.",
+      "significance": "The story highlights societal discomfort with discussing death, affecting how people process grief and understand mortality.",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/06/how-to-get-comfortable-with-death",
+      "points": [
+        "A friend found discussing a deceased mother uncomfortable, highlighting societal grief-phobia.",
+        "Death is universally inevitable but rarely discussed openly due to fear and anxiety.",
+        "Normalizing death conversations could help in dealing with grief more effectively."
+      ]
+    },
+    {
+      "summary": "Survivors of the 7 October Hamas attacks in Israel grapple with trauma three years later.",
+      "url": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks",
+      "points": [
+        "Keith Siegel spent 484 days in captivity, meticulously remembering details.",
+        "Siegel aimed to store intelligence to help free other hostages upon release.",
+        "Communities are torn between rebuilding and remembering lost friends and relatives."
+      ]
+    },
+    {
+      "summary": "S&P 500 and Nasdaq reach record highs, driven by AI chipmakers' rally and lower US treasury yields.",
+      "significance": "Investors' optimism, driven by AI chipmakers' performance, pushes S&P 500 and Nasdaq to record highs despite economic instability signs.",
+      "url": "https://www.theguardian.com/business/2026/oct/06/sp-500-nasdaq-stocks-ai-chipmakers",
+      "points": [
+        "S&P 500 topped 7,800 for the first time in its history.",
+        "Nasdaq index rose by 0.45%.",
+        "Dow Jones Industrial Average climbed 0.49%, slightly below its August record."
+      ]
+    },
+    {
+      "summary": "Finnish authorities halt work on two Google data centres over environmental concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Finnish Supervisory Agency orders halt to work by 23 October due to lack of environmental impact assessment.",
+        "The data centres are part of Google's \u20ac13bn investment in Finland, its largest single investment in Europe.",
+        "Work included clearing over 300 hectares of forest in Muhos and Kajaani."
+      ]
+    },
+    {
+      "summary": "Ex-CIA official David J Rush pleaded guilty to misusing his position to acquire Florida real estate and gold bars worth tens of millions.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/cia-official-gold-bars-guilty-plea",
+      "points": [
+        "David J Rush fabricated a \"highly classified\" program to justify buying luxury Florida property.",
+        "Rush created a false \"sensitive government activity\" to obtain hundreds of gold bars.",
+        "The real estate and gold bars acquired by Rush are worth tens of millions of dollars."
+      ]
+    },
+    {
+      "summary": "Chancellor John Healey plans to spend over £1bn to reduce energy bills for poorer UK households in January's budget.",
+      "url": "https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills",
+      "points": [
+        "Plans include spending more than £1bn to help energy consumers.",
+        "Intervention aims to address forecasts of bills rising by hundreds of pounds.",
+        "Focus will be on increasing discounts for households receiving certain benefits."
+      ]
+    },
+    {
+      "summary": "Web developer David Bushell advises on sustaining a web career amid current financial struggles and irrational phases in the industry.",
+      "significance": "The story matters as it provides guidance for web developers on sustaining their careers during financial struggles by focusing on critical skills like accessibility and communication.",
+      "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
+      "points": [
+        "Accessibility is crucial and must be integrated from the start, not as an afterthought.",
+        "CSS skills are vital, and developers should avoid limiting abstractions like \"CSS-in-JS.\"",
+        "React development is declining, and high-paying jobs are becoming less common."
+      ]
+    },
+    {
+      "summary": "Brut is a shell script tool for Unix that routes commands based on filename and arguments, promoting portability and modularity in shell scripting.",
+      "url": "https://brut.sh",
+      "points": [
+        "Brut enables programs to run on any contemporary Unix system without runtime dependencies.",
+        "It breaks programs into small executables and shared library files, making them independently testable.",
+        "Brut is composed of about 120 lines of shell script and a set of environment variables."
+      ]
+    },
+    {
+      "summary": "Berthd allows users to run coding agents like Claude Code and Codex on their own development boxes from a Mac interface.",
+      "url": "https://berthd.app/",
+      "points": [
+        "Supports Apple silicon and Intel Macs, with signed and notarized software.",
+        "Users can create worktrees and start coding agents with a keyboard shortcut.",
+        "Agents continue running on development boxes even when the Mac is closed."
+      ]
+    },
+    {
+      "summary": "Lawmakers introduce legislation to restrict federal agencies' use of Flock cameras and automatic license plate readers following media reports.",
+      "url": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
+      "points": [
+        "Senator Bernie Sanders, Representative Ocasio-Cortez, and Senator Jeff Merkley introduced the Ban Flock Act.",
+        "The legislation would prohibit federal agencies from using automatic license plate readers and block funding to states that use them.",
+        "Lawmakers cited Flock sharing state information with federal immigration officials and use in investigating protests against ICE raids."
+      ]
+    },
+    {
+      "summary": "Parseable, a new observability platform, integrates with Datasette for OpenTelemetry traces.",
+      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
+      "points": [
+        "Parseable offers an open-source Rust version and an \"Enterprise\" version with additional features.",
+        "Datasette 1.0a41 includes OpenTelemetry support, enabling trace integration.",
+        "Integration demonstrated with a screenshot of Datasette trace in Parseable's localhost web app."
+      ]
+    },
     {
       "summary": "Film director Luca Guadagnino's tech satire about Sam Altman and OpenAI premieres amid Vanity Fair's cover story and Altman's interview.",
       "significance": "The story highlights the growing tension between AI's benefits and its potential dangers, illustrated through a film and real-world incidents.",
