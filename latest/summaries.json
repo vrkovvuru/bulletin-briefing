@@ -1,6 +1,90 @@
 {
-  "generated": "2026-10-06T12:42:37.932162Z",
+  "generated": "2026-10-06T14:42:27.417077Z",
   "summaries": [
+    {
+      "summary": "Former German spy chief August Hanning and a former BND employee were arrested for espionage and treason.",
+      "significance": "The arrest of former German spy chief August Hanning for espionage and treason affects Germany's national security and follows a pattern of high-ranking intelligence officials facing similar charges.",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "August Hanning, former BND chief, arrested at his home in Nordwalde.",
+        "Manfred D, former BND employee, arrested in Bavaria for passing 2,000 classified documents to Hanning.",
+        "Hanning accused of using classified intelligence for foreign powers and maintaining contact with foreign spies."
+      ]
+    },
+    {
+      "summary": "Russia urges ignoring rumors after a plague researcher died in Siberia, and responds to US help offer.",
+      "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Kremlin spokesman Dmitry Peskov called for relying only on Russia's public health watchdog.",
+        "Official cause of death was named as pneumonia of unknown origin.",
+        "US President Donald Trump offered support to Russia."
+      ]
+    },
+    {
+      "summary": "New Tigray alliance forcibly recruits boys as young as 15 amid renewed conflict in northern Ethiopia.",
+      "significance": "The story highlights a violation of international law through the forced recruitment of minors, potentially exacerbating the humanitarian crisis in Tigray.",
+      "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+      "points": [
+        "Conflict erupted on 23 September between Ethiopia\u2019s federal government and TPLF.",
+        "Reports indicate men and boys are being forcibly recruited by new Tigray alliance.",
+        "Renewed fighting threatens a new humanitarian crisis in the northern region."
+      ]
+    },
+    {
+      "summary": "US citizen Marimar Martinez sues CBP, alleging agent shot her from behind during an immigration raid.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/chicago-citizen-shot-by-immigration-agent-lawsuit",
+      "points": [
+        "Martinez, 30, filed a lawsuit against the federal government.",
+        "Incident occurred on October 4, 2025, during Operation Midway Blitz.",
+        "Martinez alleges agent Charles Exum lied about shooting her from behind."
+      ]
+    },
+    {
+      "summary": "PM urged to act on unmarked communal graves for impoverished Australians after Guardian investigation.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/07/nsw-health-people-buried-unmarked-grave-minister-failings-families",
+      "points": [
+        "Anthony Albanese called to use national cabinet to address issue.",
+        "Investigation revealed unmarked communal graves used without family notification.",
+        "Condemnation came from federal Liberal MPs, state Labor ministers, and Greens."
+      ]
+    },
+    {
+      "summary": "Coalition's migration plan could breach India's free trade agreement and harm economy, warns advocacy groups.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb",
+      "points": [
+        "Plan aims to cut net overseas migration to 100,000 for first two years.",
+        "Elimination of temporary graduate visas may breach Australia-India trade deal.",
+        "Changes could reduce Australia's competitiveness in attracting international students."
+      ]
+    },
+    {
+      "summary": "Mistral Large 4 is a new multimodal model with advanced architecture and large parameter counts.",
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "points": [
+        "Features 49B active parameters and 1.05T total parameters",
+        "Includes a 1.6B vision encoder",
+        "Utilizes a granular Mixture-of-Experts architecture"
+      ]
+    },
+    {
+      "summary": "Polars 2.0 release introduces major features including out-of-core support, enhanced SQL capabilities, and performance improvements.",
+      "significance": "Polars 2.0 introduces significant performance improvements and enhanced SQL support, marking a substantial advancement in data processing capabilities.",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "points": [
+        "Polars 2.0 defaults to streaming engine, improving memory and performance on most queries.",
+        "Out-of-core support starts spilling at ~80% of RAM, with a default disk budget of 64GB.",
+        "Polars outperforms DuckDB and DataFusion in most benchmarks, especially with 32 cores."
+      ]
+    },
+    {
+      "summary": "Tapo's Rust/Python library now supports TPAP protocol, enabling third-party access to TP-Link devices without enabling the Third-Party Compatibility switch.",
+      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "points": [
+        "Tapo devices require the Third-Party Compatibility switch to be on since firmware 1.4.0 for third-party access.",
+        "The library gained TPAP support in three releases: v0.10.0 on 28 September, v0.11.0 on 2 October, and v0.11.1 on 4 October.",
+        "TPAP uses a password-authenticated key exchange, enhancing security by preventing offline password guessing."
+      ]
+    },
     {
       "summary": "A 22-year-old British national was arrested in London for suspected terrorist preparation linked to an incident near RAF Fairford.",
       "significance": "The arrest of a British national highlights ongoing counter-terrorism efforts and investigations linked to an incident near RAF Fairford.",
