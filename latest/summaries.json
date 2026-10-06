@@ -1,6 +1,233 @@
 {
-  "generated": "2026-09-28T04:42:15.291952Z",
+  "generated": "2026-10-06T04:46:39.703087Z",
   "summaries": [
+    {
+      "summary": "A butter shop in Paris, Le Butter, has become unexpectedly popular despite initial concerns about high temperatures.",
+      "significance": "The story highlights the unexpected popularity and cultural revival of butter, challenging its previously maligned image as a luxury and versatile food item.",
+      "url": "https://www.theguardian.com/food/2026/oct/06/the-butter-boom-how-the-world-fell-back-in-love-with-the-glorious-golden-spread",
+      "points": [
+        "Le Butter opened in Paris' 8th arrondissement during extreme heat in summer 2023.",
+        "The shop offers 50 different types of butter and has become busy enough to require a waiting bench.",
+        "Owner Erwan Leo, 34, initially worried about refrigeration but now manages queues outside the shop."
+      ]
+    },
+    {
+      "summary": "In January 2026, a WWII-era bomb was discovered on a dredger in Exmouth Marina, posing a significant risk due to nearby diesel fuel.",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "points": [
+        "The bomb was found 81 years after WWII ended, on January 14, 2026.",
+        "The dredger contained 20,000 litres of diesel fuel, increasing explosion risk.",
+        "The discovery occurred in Exmouth Marina, previously a commercial port now housing private yachts."
+      ]
+    },
+    {
+      "summary": "Fashion photographer Tim Walker explores queer Britain through his lens, inspired by a plaque marking the first gay rights demonstration.",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/06/fashion-photographer-tim-walker-tapestry-queer-british-life",
+      "points": [
+        "Walker encountered a plaque in London about the first gay rights demonstration on his birthday, 27 November 1970.",
+        "The demonstration protested against the arrest of Louis Eakes for importuning at public toilets.",
+        "Walker plans to photograph activists, artists, writers, models, and everyday heroes of gay life in Britain."
+      ]
+    },
+    {
+      "summary": "NPR attends trials in Iraq of French ISIS suspects transferred from Syrian camps.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5991613/in-iraq-isis-members-once-jailed-in-syria-face-trial",
+      "points": [
+        "Trials involve French ISIS suspects transferred from Syrian detention camps.",
+        "on the proceedings taking place in Iraq."
+      ]
+    },
+    {
+      "summary": "RSPCA NSW vice-president Mark Steele resigned over dissatisfaction with RSPCA's chicken welfare standards.",
+      "significance": "The resignation highlights internal conflict over RSPCA welfare standards for chicken, potentially affecting consumer trust in RSPCA-certified products.",
+      "url": "https://www.theguardian.com/food/2026/oct/06/rspca-vice-president-quits-chicken-welfare-standards",
+      "points": [
+        "Steele is \"sincerely ashamed\" to be associated with RSPCA Certified scheme.",
+        "RSPCA Certified scheme labels 97% of chicken sold in Australia.",
+        "Steele left RSPCA NSW at the end of September."
+      ]
+    },
+    {
+      "summary": "Radio host Alan Jones corresponded with a 13-year-old seeking financial help, involving secret-keeping and personal visits.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/06/alan-jones-court-financial-help-13-year-old-ntwnfb",
+      "points": [
+        "Jones took the teenager to lunch and invited him to his apartment.",
+        "The teenager wrote to Jones after his father left and a family member died.",
+        "Jones asked the teenager to keep some conversations secret from his mother."
+      ]
+    },
+    {
+      "summary": "Guardian readers funded life-changing surgery for a Somali boy injured in a US airstrike.",
+      "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+      "points": [
+        "Seven-year-old Abdiqadir Salah underwent surgery in Mogadishu.",
+        "The US drone strike in Jamaame, Somalia, killed at least 12 civilians."
+      ]
+    },
+    {
+      "summary": "Angus Taylor promises to cut Australia's net overseas migration to 100,000 for two years, calling it the biggest reduction in history.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/06/coalition-immigration-policy-angus-taylor-one-nation-labor-ntwnfb",
+      "points": [
+        "Coalition plans to limit net overseas migration to 100,000 for two years.",
+        "Proposes 130,000 and 160,000 migration caps in third and fourth years.",
+        "Includes new agriculture visa starting in 2030."
+      ]
+    },
+    {
+      "summary": "Former NSW police officer's movements tracked by CCTV after alleged double murder in Sydney.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/06/beau-lamarre-condon-trial-cctv-accuseds-movements-sydney-after-alleged-double-murder-ntwnfb",
+      "points": [
+        "Jurors viewed CCTV footage tracking accused across Sydney post-murders.",
+        "Beau Lamarre-Condon, 31, former senior constable, pleaded not guilty.",
+        "Victims were Jesse Baird, 26, and Luke Davies, 29, killed in Feb 2024."
+      ]
+    },
+    {
+      "summary": "Research on ancient skulls from Umm el-Qa\u2019ab suggests servants of early Egyptian kings were sacrificed upon their ruler's death.",
+      "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
+      "points": [
+        "Study found fractures in several ancient skulls at the royal cemetery.",
+        "Umm el-Qa\u2019ab, near Abydos, holds tombs dating back to 3,000BC.",
+        "Evidence supports early Egyptologist theories on sacrificial practices."
+      ]
+    },
+    {
+      "summary": "Trump announces a Super Pac will cover costs of controversial taxpayer-funded ads that praised him.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads",
+      "points": [
+        "Ads cost at least $1.5m in federal funds.",
+        "Trump initially defended the ads as \"standard\" promotion for the U.S.",
+        "Both Democrats and Republicans criticized the use of tax dollars for pro-Trump ads."
+      ]
+    },
+    {
+      "summary": "Gleam programming language no longer compiles to Erlang source, instead using a new binary format for improved performance and accuracy.",
+      "significance": "The change improves compiler performance and accuracy of runtime metadata in Gleam, affecting developers using the language.",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "points": [
+        "Gleam's new Erlang code generator outputs a binary format, improving compiler performance and accuracy of location metadata.",
+        "Compilation time for 100 modules with 100 functions each has significantly reduced from v1.17.0 to v1.19.0.",
+        "Gleam's decision to compile to Erlang abstract forms rather than BEAM bytecode ensures sustainability and avoids the need to constantly update for virtual machine changes."
+      ]
+    },
+    {
+      "summary": "Reflection introduces Beam, an open-weight model designed for coding, reasoning, and agentic tasks, featuring 501 billion parameters.",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "points": [
+        "Beam has 23 billion active parameters and was pretrained on 23.8 trillion tokens.",
+        "The model underwent high-compute reinforcement learning using 10.5K NVIDIA GB300 GPUs over 4 weeks.",
+        "Beam achieves comparable reasoning scores to GLM-5.2 while using 3-4 times less inference compute."
+      ]
+    },
+    {
+      "summary": "The article discusses various issues and debates surrounding async Rust, including its complexity and runtime dependencies.",
+      "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+      "points": [
+        "Async closures took 6 years to implement due to borrowing complexities.",
+        "Tokio Defaultism refers to the misconception that Tokio is the only relevant runtime for async Rust.",
+        "Futures in Rust are lazy, unlike JavaScript Promises, leading to common beginner mistakes."
+      ]
+    },
+    {
+      "summary": "Tool uses OpenStreetMap to find the flattest route between two points in San Francisco.",
+      "url": "https://flattensf.com/",
+      "points": [
+        "Slider adjusts between shortest and flattest routes, considering 200 ft walking equals 1 ft climbing.",
+        "Routes account for cumulative climbing gain, not just net elevation change between points.",
+        "Search function is offline, containing preloaded San Francisco data for street intersections, places, and addresses."
+      ]
+    },
+    {
+      "summary": "Developer David Bushell switches back to Node.js after long-term use of Deno, praising Node's improvements and stability.",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "points": [
+        "Node.js now supports ECMAScript features and modernized APIs, making it more appealing.",
+        "Bushell criticizes Deno for failing to innovate and facing layoffs, turning into a \"boring start-up.\"",
+        "TypeScript handling in Node.js requires stripping types for package publication, a philosophical restriction against TypeScript pollution."
+      ]
+    },
+    {
+      "summary": "Example.com launched a major redesign introducing multi-language support and a gradual opacity transition effect.",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "points": [
+        "Example.com now supports six languages: English, Arabic, Chinese, French, Russian, and Spanish.",
+        "The redesign includes a JavaScript-driven opacity transition between languages every 5 seconds.",
+        "The site's purpose is for documentation examples, not for testing or monitoring."
+      ]
+    },
+    {
+      "summary": "Anthropic updates Cowork to run model inference and VM in the cloud, addressing previous issues with local VMs.",
+      "significance": "The update to Cowork moves model inference and VM to the cloud, addressing performance and accessibility issues reported by users.",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "points": [
+        "Old Cowork version ran VM locally, causing battery and performance issues.",
+        "New Cowork version keeps VM and model inference in the cloud, ensuring work continuity.",
+        "Each session in the new version has its own sandbox, enhancing security and isolation."
+      ]
+    },
+    {
+      "summary": "The newsletter covers AI swarms' efficiency, Google DeepMind's biological watermarking, and AI's role in scientific automation.",
+      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+      "points": [
+        "Toby Ord finds AI swarms can halve task time but face diminishing returns as more agents are added.",
+        "61% of Americans believe companies' self-policing of AI development is insufficient, with 54% supporting government regulation.",
+        "Google DeepMind's SynthID Bio uses watermarking to enhance biosecurity and scientific integrity in synthetic biology."
+      ]
+    },
+    {
+      "summary": "An experiment tested Qwen3.8's ability to compute sums and return answers in words.",
+      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "points": [
+        "Colin Frasier conducted the experiment using Qwen3.8-27B-Q4_K_M.gguf on local hardware.",
+        "Qwen3.8 got the right answer in 167 out of 169 attempts with reasoning enabled.",
+        "The experiment involved adding large numbers, with one example summing 4,299,366,105,622 and 6,088,794,067,970."
+      ]
+    },
+    {
+      "summary": "New AI models Sol and Sonnet 5.5 have entered the market, offering improved performance and cost efficiency compared to existing models.",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+      "points": [
+        "Sol is priced at $2/$10 per million tokens, 39% cheaper than GPT-6 Sol while scoring 1.52 points higher.",
+        "Sonnet 5.5 debuted at #3 in Agent Arena and ranked #1 in the Chat category, costing $2.74 per task.",
+        "Anthropic models now hold the top three spots in Agent Arena."
+      ]
+    },
+    {
+      "summary": "The article advocates for default hard budget caps on pay-by-usage services to prevent unexpected high costs.",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "points": [
+        "AWS launched spending limits in mid-September, pausing projects when spend limits are reached.",
+        "Google Cloud introduced Spend Caps in July, allowing monthly financial caps on specific services.",
+        "The author suggests coding agents should recommend providers with hard budget caps to avoid financial risks."
+      ]
+    },
+    {
+      "summary": "New AI models and updates, including Pi's TypeScript port and enhancements, and Google's Gemini 4 Argon and OpenAI's GPT-6.1 Sol, are detailed.",
+      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+      "points": [
+        "Pi now supports TypeScript, enabling external state management and automatic resumption from checkpoints.",
+        "Gemini 4 Argon undergoes extensive internal testing by thousands of engineers before release.",
+        "GPT-6.1 Sol improves serving performance and efficiency, reducing costs to $0.72 per task at maximum effort."
+      ]
+    },
+    {
+      "summary": "Scientist Michael Levin proposes that minds are patterns from a Platonic space, with bodies and machines as interfaces, suggesting a new model for understanding intelligence and embodiment.",
+      "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+      "points": [
+        "Michael Levin argues that minds are patterns that can exist independently of physical bodies.",
+        "Xenobots and anthrobots are cited as examples of patterns adjacent to known biological forms.",
+        "Levin suggests that both biological and algorithmic systems can exhibit behaviors beyond their initial programming, hinting at a deeper, non-physical influence."
+      ]
+    },
+    {
+      "summary": "September sponsors-only newsletter covers various tech and software topics.",
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "points": [
+        "Covers topics like Fable class models, pricing wars, and advancements in LLMs.",
+        "Includes sections on cyberattacks, Datasette vulnerabilities, and software releases.",
+        "Costs $10/month for access, with a free copy available a month later."
+      ]
+    },
     {
       "summary": "Photographer captures life inside a French child prison, highlighting harsh conditions and limited activities.",
       "significance": "The story highlights harsh conditions and limited activities for children in French prisons, criticized by Europe\u2019s Committee for the Prevention of Torture.",
