@@ -1,6 +1,45 @@
 {
-  "generated": "2026-10-07T02:41:10.208878Z",
+  "generated": "2026-10-07T04:41:27.982149Z",
   "summaries": [
+    {
+      "summary": "Former Happy Mondays member Bez recounts his wild past filled with drugs, accidents, and dangerous escapades.",
+      "url": "https://www.theguardian.com/music/2026/oct/07/bez-cocaine-happy-mondays-marriage-shaun-ryder",
+      "points": [
+        "Bez, real name Mark Berry, lost his teeth in a 16-year-old motorbike crash.",
+        "He was held hostage during a drug deal and faced a gun threat in New York.",
+        "Bez fell into a month-long coma after contracting MRSA following another motorbike crash."
+      ]
+    },
+    {
+      "summary": "The Harry Potter and the Cursed Child stage show, previously a two-part production, is being condensed into a single show.",
+      "significance": "The story matters as it explores the potential impact of condensing the Cursed Child stage show, questioning if its magic survives the reduction.",
+      "url": "https://www.theguardian.com/stage/2026/oct/07/harry-potter-and-the-cursed-child-hogwarts-palace-theatre-london",
+      "points": [
+        "Movement director Nuno Silva leads rehearsals with magical commands like \"Silencio\" and \"Accio.\"",
+        "Rehearsals take place in a Victorian church hall that adds to the Hogwarts atmosphere.",
+        "The show, after a decade-long run, aims to maintain its magic with streamlined performances."
+      ]
+    },
+    {
+      "summary": "NSW police officer Beau Lamarre-Condon pleads not guilty to murdering his ex-partner and the man\u2019s new boyfriend in Sydney.",
+      "significance": "The story highlights a lack of forewarning in the accused's behavior leading up to the alleged murders, challenging perceptions of his alleged obsession.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb",
+      "points": [
+        "Lamarre-Condon, 31, did not mention his ex-partner to a close friend in the three months before the alleged murders.",
+        "The murders took place in a Sydney terrace in February 2024.",
+        "Lamarre-Condon is charged with killing Jesse Baird and Luke Davies."
+      ]
+    },
+    {
+      "summary": "Using 32-bit pointers on 64-bit systems can save up to 25% RAM and improve speed by fitting more data into cache.",
+      "significance": "This story highlights the potential for significant memory savings and modest speed improvements using 32-bit pointers on 64-bit systems, though adoption remains limited.",
+      "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+      "points": [
+        "Mastodon deployment on x32 cut memory usage from 650mb to 350mb.",
+        "Linux x32 ABI is disabled by default on Debian and not compiled in on Arch Linux.",
+        "Janet libraries like Spork can be forced to build at 32-bit with specific flags."
+      ]
+    },
     {
       "summary": "Friends of Nolan Wells sue Terrell Owens for defamation over claims about evidence tampering.",
       "significance": "The lawsuit follows Owens' September Instagram post accusing Wells' friends of tampering with evidence, escalating the dispute surrounding the teen's death.",
