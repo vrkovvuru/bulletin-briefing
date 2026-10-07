@@ -1,6 +1,61 @@
 {
-  "generated": "2026-10-07T20:41:06.771594Z",
+  "generated": "2026-10-07T22:41:50.475064Z",
   "summaries": [
+    {
+      "summary": "Texas plans to execute Jamaal Howard despite risks highlighted by a recent botched execution in Tennessee.",
+      "significance": "The story highlights continued use of lethal injection despite recent failures, affecting future execution practices and condemned inmates' fates.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard",
+      "points": [
+        "Texas court denied a stay request for Jamaal Howard's execution.",
+        "Christa Pike's botched lethal injection in Tennessee occurred last week.",
+        "Howard's lawyers argued the risks of a failed execution are similar to Pike's case."
+      ]
+    },
+    {
+      "summary": "Labour's special education changes in England are at risk as parents rush to secure current support for their children.",
+      "url": "https://www.theguardian.com/education/2026/oct/07/labour-send-reforms-ehcp-system-change-england",
+      "points": [
+        "Thinktank Institute for Government warns the overhaul may take longer than the 2030 deadline.",
+        "Parents are securing existing education, health, and care plans (EHCPs) before changes.",
+        "Government plans to shift support to mainstream schools may be overly optimistic."
+      ]
+    },
+    {
+      "summary": "Software developers are experiencing significant job dissatisfaction, burnout, and mental health issues, leading many to leave the industry.",
+      "significance": "The story highlights systemic issues in the software industry affecting developers' mental health and job satisfaction, leading to mass departures and career changes.",
+      "url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+      "points": [
+        "30% drop in new Computer Science students in Iceland.",
+        "Mark Zuckerberg's plan to replace Meta staff with AI failed.",
+        "Developers feel less invested in their work due to AI tools, leading to decreased job satisfaction."
+      ]
+    },
+    {
+      "summary": "GPT-6 models, including Intelligent UI, are now available to more users, enhancing ChatGPT's interactivity and visual capabilities.",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "points": [
+        "GPT-6 now serves over 1.2 billion weekly ChatGPT users.",
+        "Intelligent UI enables ChatGPT to provide interactive and visual responses.",
+        "GPT-6 can start answering questions 44% sooner on average than GPT-5.6 for web search queries."
+      ]
+    },
+    {
+      "summary": "Margaret Hamilton, who led software development for NASA\u2019s Apollo program, died at 90.",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "points": [
+        "Received the Presidential Medal of Freedom from President Obama in 2016.",
+        "Worked at MIT from 1959 to the mid-1970s, authoring over 130 publications."
+      ]
+    },
+    {
+      "summary": "Docker introduces a new tool for building and running AI agents using YAML configuration.",
+      "url": "https://github.com/docker/docker-agent",
+      "points": [
+        "Allows creation of AI agents that solve complex problems without coding.",
+        "Supports team creation of specialized agents for automatic task delegation.",
+        "Offers pluggable retrieval options including BM25, embeddings, and hybrid search."
+      ]
+    },
     {
       "summary": "Trump distances himself from two top aides over reports of their work for a pro-Russia government in the Balkans.",
       "significance": "Trump's distancing from his aides over their work with a pro-Russia government in the Balkans highlights potential conflicts of interest within his campaign.",
