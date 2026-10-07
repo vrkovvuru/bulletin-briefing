@@ -1,6 +1,90 @@
 {
-  "generated": "2026-10-07T14:41:44.496366Z",
+  "generated": "2026-10-07T16:42:31.141315Z",
   "summaries": [
+    {
+      "summary": "Trump's speech in Nebraska included alarming threats about potential nuclear attacks on U.S. cities by Iran.",
+      "significance": "Trump's threats highlight a new era of political desperation linking domestic issues to escalated foreign threats, alarming California leaders.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/07/trump-speech-los-angeles-san-diego",
+      "points": [
+        "Trump suggested Iran could \"take out\" Los Angeles or San Diego with a nuclear attack.",
+        "California leaders dismissed Trump's statements as alarmist.",
+        "Ted Widmer, a former White House speechwriter, criticized Trump's rhetoric."
+      ]
+    },
+    {
+      "summary": "Labour may oversee the worst decline in living standards due to high energy and housing costs, a study warns.",
+      "significance": "The study indicates Labour may oversee a significant decline in living standards due to high energy and housing costs, unless urgent policy changes are made.",
+      "url": "https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis",
+      "points": [
+        "Joseph Rowntree Foundation warns of a \"dire\" outlook for living standards.",
+        "Bold policy action needed before John Healey\u2019s budget in three weeks.",
+        "Energy and housing costs are the primary threats to living standards."
+      ]
+    },
+    {
+      "summary": "Tory leader Kemi Badenoch's actions are universally praised within the party despite its poor poll standings.",
+      "url": "https://www.theguardian.com/politics/2026/oct/07/kemi-badenoch-conservative-party-conference-speech",
+      "points": [
+        "Kemi Badenoch is the captain, coach, and owner of the Conservative party.",
+        "Conservatives are currently in third place with only 20% in the polls.",
+        "The party aims to reposition itself as the main opposition to the current government."
+      ]
+    },
+    {
+      "summary": "Texas attorney general Ken Paxton blames Iran war and high gas prices for his campaign struggles, as Trump plans a visit to Texas.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+      "points": [
+        "Ken Paxton cites affordability as his campaign\u2019s biggest issue based on leaked audio.",
+        "Trump scheduled to speak in Texas on Wednesday.",
+        "Ashley Hinson, Iowa\u2019s Republican Senate nominee, criticizes Trump\u2019s policies, including the Iran war stance."
+      ]
+    },
+    {
+      "summary": "LA officials report the first rabid raccoon in over 50 years, potentially exposing four people and a dog.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/rabid-raccoon-case-los-angeles",
+      "points": [
+        "First rabid raccoon case in LA county in over 50 years.",
+        "Four people and one dog potentially exposed in Westlake Village.",
+        "Raccoon appeared ill but was not aggressive at a backyard work site."
+      ]
+    },
+    {
+      "summary": "French police suspend use of stun grenades following a high school protester losing a hand in Lens.",
+      "url": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
+      "points": [
+        "Interior Minister Laurent Nuñez ordered a temporary halt to stun grenade use.",
+        "A 15-year-old protester lost a hand during a protest in Lens, northern France.",
+        "Protests across France have injured hundreds over the past fortnight."
+      ]
+    },
+    {
+      "summary": "GitHub experienced a service disruption affecting multiple operations, which has since been resolved.",
+      "significance": "This incident affected critical GitHub services, impacting developers and teams reliant on Git Operations, Pull Requests, and Actions for their workflow.",
+      "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+      "points": [
+        "The disruption occurred between 15:06 UTC and 15:16 UTC.",
+        "Services affected included Git Operations, Pull Requests, Actions, Webhooks, and Issues.",
+        "A detailed root cause analysis will be shared once available."
+      ]
+    },
+    {
+      "summary": "Article discusses the limitations of AI autoformalisation in translating mathematical proofs from natural language to formal languages like Lean.",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "points": [
+        "Authors highlight that resolving ambiguities in mathematical natural language text is SCI $= \\infty$, making it harder than the Halting problem.",
+        "Examples show AI mistranslations of NL statements and proofs into Lean, including OpenAI's Navier-Stokes proof.",
+        "The formalised Lean proof of Navier-Stokes does not match the original natural language proof of blow-up solutions."
+      ]
+    },
+    {
+      "summary": "A new technique uses animated ASCII art to create dynamic web page visuals.",
+      "url": "https://ascii.rest/",
+      "points": [
+        "Technique employs ASCII characters for web page animations",
+        "Offers a retro aesthetic with modern interactivity",
+        "Can be used to enhance user engagement on websites"
+      ]
+    },
     {
       "summary": "Boots, a UK pharmacy and retail chain, was sold for £7bn to a Canadian billionaire family's holding company.",
       "significance": "The sale of Boots to the Weston family marks a significant ownership change, potentially impacting the retail chain's strategy and operations in the UK, Ireland, and Thailand.",
