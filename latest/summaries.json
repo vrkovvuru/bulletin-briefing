@@ -1,6 +1,43 @@
 {
-  "generated": "2026-10-07T18:42:48.576623Z",
+  "generated": "2026-10-07T20:41:06.771594Z",
   "summaries": [
+    {
+      "summary": "Trump distances himself from two top aides over reports of their work for a pro-Russia government in the Balkans.",
+      "significance": "Trump's distancing from his aides over their work with a pro-Russia government in the Balkans highlights potential conflicts of interest within his campaign.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska",
+      "points": [
+        "Trump claims he has no idea who else Chris LaCivita and James Blair work for.",
+        "LaCivita is co-manager of Trump's 2024 presidential campaign.",
+        "Blair is a campaign adviser and on leave from his role as White House deputy chief of staff."
+      ]
+    },
+    {
+      "summary": "Arizona congressional candidate Bernadette Greene-Placentia alleges she was raped while repairing a campaign sign.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/bernadette-greene-placentia-house-candidate-allegedly-raped",
+      "points": [
+        "Incident occurred in August.",
+        "Greene-Placentia aims to advocate for sexual assault victims.",
+        "Support resources provided for affected individuals."
+      ]
+    },
+    {
+      "summary": "Two men with indefinite jail sentences for public protection were freed after serving over two decades.",
+      "url": "https://www.theguardian.com/law/2026/oct/07/two-men-freed-indefinite-sentences-for-public-protection-ipp",
+      "points": [
+        "Luke Ings and Liam Bennett were released despite minimum terms of two years or less.",
+        "James Ward, a third man, had his indeterminate sentence replaced after a review."
+      ]
+    },
+    {
+      "summary": "Meta and Microsoft are reducing employee usage of Claude AI, shifting towards their own AI tools.",
+      "significance": "Meta and Microsoft reduce employee usage of Claude AI, prioritizing their own AI tools and reflecting competition in AI investment and control over developer resources.",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "points": [
+        "Microsoft cut AI spending limits per employee from $100,000 to $10,000 monthly.",
+        "Meta's Claude Code users dropped from 60,000 to 30,000, shifting to Meta's own AI solutions.",
+        "Despite user reductions, Meta spent over $105 million on Claude Code over 28 days."
+      ]
+    },
     {
       "summary": "Lionel Messi's Argentina career ended this week, leaving a complex legacy of adoration and criticism.",
       "significance": "The article highlights the complex adoration of Lionel Messi in Argentina, exploring the contradiction between his god-like status and his silence on racist incidents.",
