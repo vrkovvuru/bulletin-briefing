@@ -1,6 +1,90 @@
 {
-  "generated": "2026-10-07T16:42:31.141315Z",
+  "generated": "2026-10-07T18:42:48.576623Z",
   "summaries": [
+    {
+      "summary": "Lionel Messi's Argentina career ended this week, leaving a complex legacy of adoration and criticism.",
+      "significance": "The article highlights the complex adoration of Lionel Messi in Argentina, exploring the contradiction between his god-like status and his silence on racist incidents.",
+      "url": "https://www.theguardian.com/football/2026/oct/07/lionel-messi-argentina-retirement-final-match",
+      "points": [
+        "Brazilian writer Milly Lacombe described Argentina's World Cup performance as \"of a sacred order.\"",
+        "Lacombe questioned Messi's silence on racist incidents involving the Argentina team.",
+        "The article highlights the contradiction between Messi's god-like status and his political silence."
+      ]
+    },
+    {
+      "summary": "British Jewish groups held a vigil in London to honor victims of the 7 October attacks in Israel.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/07/british-jewish-groups-london-vigil-7-october-attacks",
+      "points": [
+        "The vigil took place at Richmond Terrace, opposite Downing Street.",
+        "The Board of Deputies of British Jews stated 1,200 were murdered by Hamas.",
+        "Andy Burnham said the government stands with British Jews."
+      ]
+    },
+    {
+      "summary": "Kemi Badenoch proposes slashing inheritance tax, a move criticized for funneling £6bn to the wealthy.",
+      "significance": "Badenoch\u2019s proposal to slash inheritance tax follows a Conservative tradition but, like Osborne\u2019s 2007 pledge, may not materialize due to economic constraints.",
+      "url": "https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense",
+      "points": [
+        "Proposal would give £6bn to already wealthy individuals.",
+        "Similar 2007 plan by George Osborne included £1m threshold for inheritance tax.",
+        "Osborne's plan never implemented due to 2010 financial crisis."
+      ]
+    },
+    {
+      "summary": "Trump's repetitive and divisive rhetoric at rallies has desensitized the public to shocking statements.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-comments-los-angeles-san-diego",
+      "points": [
+        "Trump repeatedly refers to himself as the \"greatest\" president and criticizes \"Dumocrats.\"",
+        "His speeches include controversial topics like \"transgender mutilization\" and illegal immigration as an \"invasion.\"",
+        "Public reaction to once-shocking statements has become indifferent, indicating desensitization."
+      ]
+    },
+    {
+      "summary": "Texas attorney general Ken Paxton admitted in leaked audio that gas prices due to Trump's Iran war are hurting Republicans before midterms.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/ken-paxton-trumps-iran-war-gas-prices-republicans",
+      "points": [
+        "Ken Paxton stated gas prices and the war are dragging his campaign.",
+        "Paxton is running as a Republican candidate in a competitive Senate race in Texas.",
+        "The admission came during a closed-door fundraising event and was shared with Axios."
+      ]
+    },
+    {
+      "summary": "Claude Haiku 5.5, a new AI model, offers improved speed and cost efficiency for high-volume tasks.",
+      "significance": "Claude Haiku 5.5 offers cheaper, faster, and more capable performance for high-volume tasks, benefiting cost-sensitive and speed-sensitive applications.",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "points": [
+        "Claude Haiku 5.5 costs around 75% less to run compared to Haiku 4.5.",
+        "The model's performance was praised for up to 2.5x faster inference per agent turn.",
+        "Sonnet 5.5 now runs 20% cheaper due to halved cache read prices."
+      ]
+    },
+    {
+      "summary": "Visa, Mastercard, and major banks are facing new litigation over alleged anticompetitive practices that inflate merchants' credit card transaction fees.",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "points": [
+        "A San Diego pizzeria is leading a proposed class action lawsuit against the financial giants.",
+        "Merchants pay over $100 billion annually in fees to accept Visa and Mastercard credit cards.",
+        "The lawsuit covers transactions from January 25, 2019, as previous settlements only compensated for earlier periods."
+      ]
+    },
+    {
+      "summary": "A blog post outlines key differences between C and Rust, focusing on C's quirks for those familiar with Rust.",
+      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+      "points": [
+        "C originally lacked a boolean type, using 0 and 1 instead; booleans became primitives later.",
+        "C strings are null-terminated, requiring extra memory for the null byte, unlike Rust's length-prefixed strings.",
+        "C's integer types vary in bit width by platform, with `long` being 64 bits on Unix and 32 bits on Windows."
+      ]
+    },
+    {
+      "summary": "The article discusses the development of tooling for the small-scale Chimera Linux project, emphasizing automation and community empowerment.",
+      "url": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
+      "points": [
+        "Chimera aims to minimize maintenance costs by automating tasks and making packaging accessible to all users.",
+        "Tooling supports heavy sandboxing and ensures packaging is correct and clean, with hard errors for most issues.",
+        "Users can replicate the entire project infrastructure on their machine within an hour, promoting ease of use and fun."
+      ]
+    },
     {
       "summary": "Trump's speech in Nebraska included alarming threats about potential nuclear attacks on U.S. cities by Iran.",
       "significance": "Trump's threats highlight a new era of political desperation linking domestic issues to escalated foreign threats, alarming California leaders.",
