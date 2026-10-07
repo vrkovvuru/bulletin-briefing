@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-07T00:42:57.135676Z",
+  "generated": "2026-10-07T02:41:10.208878Z",
   "summaries": [
+    {
+      "summary": "Friends of Nolan Wells sue Terrell Owens for defamation over claims about evidence tampering.",
+      "significance": "The lawsuit follows Owens' September Instagram post accusing Wells' friends of tampering with evidence, escalating the dispute surrounding the teen's death.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/nolan-wells-friends-terrell-owens-defamation",
+      "points": [
+        "Owens accused Warren Hudson, Jax Pitalo, and Morgan Seymour of deleting evidence from Wells\u2019s phone.",
+        "The defamation lawsuit follows Owens's 26 September Instagram post suggesting evidence tampering.",
+        "Nolan Wells died after a July boating trip in Mississippi."
+      ]
+    },
+    {
+      "summary": "Susan Collins distanced herself from Trump in a Maine debate, emphasizing her independence and differences from Republican policies.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/06/susan-collins-maine-debate-senate",
+      "points": [
+        "Collins stated she is not Trump's \"favorite senator\".",
+        "She claimed to have voted with Biden over 90% of the time when he was president.",
+        "Collins highlighted voting against her own party more than any other senator."
+      ]
+    },
+    {
+      "summary": "Comedian Dave Hughes will stop performing at Victorian Liberal events due to concerns over political donation laws.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/07/comedian-dave-hughes-liberal-party-donation-law-concerns-ntwnfb",
+      "points": [
+        "Hughes, known as Hughesy, was a former Labor voter but criticizes the party over recent budget reforms.",
+        "His decision follows complaints about 'in-kind' donations related to Victorian fundraisers.",
+        "The comedian's appearances were deemed potentially problematic under state political donation laws."
+      ]
+    },
+    {
+      "summary": "Strands Decider 2B is a new open-source decision model designed for fast experimentation and local development.",
+      "significance": "Strands Decider 2B introduces a faster, more efficient decision model for agentic AI, enabling quicker experimentation and innovation in local development.",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "points": [
+        "Strands Decider 2B is a 2 billion parameter model that can return answers in tens of milliseconds.",
+        "It ranks 3rd in accuracy and calibration among 2B class models and 1st when excluding just-over-2B models.",
+        "The model can make local decisions in a median of around 115ms on an Nvidia RTX3090 and 153ms on an M3 MacBook."
+      ]
+    },
     {
       "summary": "Director Paloma Schneideman's film \"Big Girls Don\u2019t Cry\" explores themes of consent and queerness, resonating at film festivals.",
       "significance": "The film explores and validates the complex issues of consent and queerness in early romantic experiences, affecting and resonating with many viewers who feel seen and exposed.",
