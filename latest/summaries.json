@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-07T22:41:50.475064Z",
+  "generated": "2026-10-08T00:41:45.207104Z",
   "summaries": [
+    {
+      "summary": "EU-China trade talks commence in Beijing as EU seeks to address trade deficits and Chinese export restrictions.",
+      "significance": "EU-China trade talks address escalating trade pressures, including EU\u2019s trade deficit and Chinese export restrictions, amid calls for a more assertive EU trade policy.",
+      "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
+      "points": [
+        "EU Trade Commissioner Maros Sefcovic meets Chinese Commerce Minister Wang Wentao to discuss EU\u2019s trade deficit of over \u20ac1bn daily.",
+        "China rejects EU request for voluntary curbs on hybrid car exports, EU now seeks unilateral measure to cap imports.",
+        "EU lawmakers call for assertive trade policy towards China, while China vows resolute response to protect its industries."
+      ]
+    },
+    {
+      "summary": "China faces a succession crisis as a generation of entrepreneurs retires, questioning if their children can manage their family businesses.",
+      "url": "https://www.theguardian.com/world/2026/oct/08/china-succession-crisis-factory-workers-manufacturing-family-businesses",
+      "points": [
+        "Ayu watched parents make leather shoes by hand in Wenzhou, transforming into a 700-person factory.",
+        "Family-run businesses powered China\u2019s economic growth.",
+        "Next generation struggles to continue parents' work in family businesses."
+      ]
+    },
+    {
+      "summary": "Leon Botstein resigned from all Bard College roles after a Democratic lawmaker called for an investigation into his communications with Jeffrey Epstein.",
+      "significance": "A Democratic congressman's call for investigation into Botstein's Epstein-linked email triggered Botstein's resignation from all Bard positions.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/leon-botstein-bard-college-jeffrey-epstein",
+      "points": [
+        "Jamie Raskin demanded a criminal investigation following the discovery of an email from Botstein to Epstein.",
+        "The email reportedly asked if a young woman was \"for me, or are you keeping her for yourself\".",
+        "Botstein's resignation comes after leading Bard College for 50 years."
+      ]
+    },
+    {
+      "summary": "Democrats sue to halt Trump's use of taxpayer funds for self-promoting ads.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/07/democrats-sue-trump-taxpayer-funds-ads",
+      "points": [
+        "Democrats argue ads are illegal government-sponsored propaganda.",
+        "Ads promoting Trump have cost taxpayers over $12m.",
+        "Lawsuit filed in Washington DC federal court."
+      ]
+    },
+    {
+      "summary": "Jonathan, a 194-year-old Aldabra giant tortoise, is the oldest land animal on Earth, and scientists have sequenced his genome to understand his extreme longevity.",
+      "significance": "Jonathan's genome reveals unique gene variants related to extreme longevity, potentially offering insights into human aging.",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "points": [
+        "Jonathan was born around 1832 in the Seychelles and moved to Saint Helena in the 1880s.",
+        "His genome reveals unique gene variants in aging pathways like DNA repair and mitochondrial function.",
+        "Researchers found Jonathan\u2019s mitochondrial methylome is unusually pristine compared to younger tortoises."
+      ]
+    },
+    {
+      "summary": "Ben Affleck discusses his interest in computers and digital filmmaking, touching on his basic knowledge of Python and machine learning.",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "points": [
+        "Affleck mentions he can write \"shitty Python scripts.\"",
+        "He talks about using convolutional neural networks for edge detection and feature extraction.",
+        "The discussion includes the transition from analog to digital film."
+      ]
+    },
     {
       "summary": "Texas plans to execute Jamaal Howard despite risks highlighted by a recent botched execution in Tennessee.",
       "significance": "The story highlights continued use of lethal injection despite recent failures, affecting future execution practices and condemned inmates' fates.",
