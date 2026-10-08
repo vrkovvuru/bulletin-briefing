@@ -2,6 +2,42 @@
   "date": "2026-10-07",
   "stories": [
     {
+      "title": "Burnham to hold security talks with German chancellor in Berlin",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "South Korea pledges legal action over alleged fuel exports to Russia",
+      "url": "https://www.aljazeera.com/news/2026/10/8/south-korea-pledges-legal-action-over-alleged-fuel-exports-to-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Ukrainian reports of South Korean fuel exports to Russia come amid strained tensions between Seoul and Kyiv.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘He punched a polar bear on the nose!’ Ninety glorious years of Brian Blessed – by Emma Thompson, Adrian Lester and more",
+      "url": "https://www.theguardian.com/stage/2026/oct/08/brian-blessed-90-emma-thompson-adrian-lester-derek-jacobi-brian-may",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Peeing in the sink he shared with Derek Jacobi, making a badger video with Brian May, climbing Everest with Alan Hinkes … as the great actor blasts into his 90s, stars celebrate his ‘loudness and madness’ Emma Thompson Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
       "url": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -20,120 +56,75 @@
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "Why is Guantanamo prison still open?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss",
+      "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open",
+      "summary": "Demonstrators have taken to streets across the world to demand an end to Israeli attacks on Gaza and the West Bank.",
       "alsoReportedBy": []
     },
     {
-      "title": "Democrats sue US President Trump over taxpayer-funded ad campaign",
-      "url": "https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Death of 87-year old sparks furious Spain housing protests",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Hundreds of protesters gather outside Spain’s Parliament, demanding action over soaring rents.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The WHO seeks more details on the death of a plague research lab employee in Russia",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5993873/russia-death-plague-research-institute",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The World Health Organization says it wants more information on what caused the death of an employee at a Russian plague research lab. Russia says the woman died of pneumonia of unknown origin.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "China’s succession crisis: a generation of entrepreneurs is retiring, but are their children ready to take over?",
-      "url": "https://www.theguardian.com/world/2026/oct/08/china-succession-crisis-factory-workers-manufacturing-family-businesses",
+      "title": "A death, a plagiarism scandal and a quest for revenge: the bizarre tale of Otto Z",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Family run private businesses helped power China’s economic miracle, but the next generation is finding it difficult to carry on the work of their parents Growing up, Ayu would watch his parents put together hand made leather shoes on the ground floor of their three storey home in the Chinese city of Wenzhou. Their relatives in Europe would send photographs of designer products from Italy for the workers to base their designs on, and in the decades that followed, the tiny family-run workshop transformed into a 700 person factory. “The factory and the home were the same place. I watched them make shoes by hand, piece by piece, using small machines,” Ayu recalls of watching his parents work in the 1980’s. Continue reading...",
+      "summary": "After his mother died, Otto became convinced he’d been wronged by the forensic investigators – and that one of them was a fraud. The truth was even stranger On a balmy, quiet evening in June 2020, Otto’s elderly mother, Doria, was fading in her Munich apartment. As she lay with her eyes closed, her pale face, framed by her white hair, was calm. Otto, masked, gloved and draped in a sterile apron, dozed in a chair beside her. Otto, who sometimes goes by the name Rainer, and whose last name is only known as “Z” because of Germany’s strict privacy laws, was a doctor who had cared for his mother for years, ever since she had suffered a stroke and moved in with him. He described the course of that night to me. He woke to the sound of her short breath and tried to sit her upright. Her eyes were shut, and her lips pursed. She stopped breathing. Otto reached for his phone to call for help, but then Doria opened her eyes and stared into his. She smiled, drew one last deep breath, shut her eyes again, and lay still. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Burnham to hold security talks with German chancellor in Berlin",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Japan beer giants raided over suspicions they colluded to set the price of beverages",
+      "url": "https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
-      "alsoReportedBy": []
+      "summary": "Investigators probe Asahi, Kirin, Suntory and Sapporo breweries – which together control more than 90% of Japan’s beer market Japanese authorities have raided the country’s four biggest breweries over suspicions they colluded to set the price of beer and other beverages – a practice media reports said could have forced drinkers to pay over the odds. Officials from the Fair Trade Commission this week searched the offices of Asahi Breweries, Kirin Brewery, Suntory Beer and Sapporo Breweries – which together control more than 90% of the domestic market. The quartet are suspected of violating the anti-monopoly law. Continue reading...",
+      "alsoReportedBy": ["BBC News"]
     },
     {
-      "title": "What is the pneumonic plague?",
-      "url": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
-      "source": "NPR",
+      "title": "US bars Fiji-based man over corruption tied to China",
+      "url": "https://www.aljazeera.com/news/2026/10/8/us-bars-fiji-based-man-over-corruption-tied-to-china?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The ancient disease of plague is back in the headlines after the death this month of a Russian lab worker.",
+      "summary": "The State Department has accused the man of paying bribes to Fijian citizens to advance Chinese interests.",
       "alsoReportedBy": []
     },
     {
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "summary": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+      "alsoReportedBy": ["Guardian World"]
+    },
+    {
+      "title": "France's school protests: what lies behind the anger",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
       "alsoReportedBy": []
     },
     {
-      "title": "Jurors in Beau Lamarre-Condon murder case shown photos of decomposed bodies",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/08/jurors-in-beau-lamarre-condon-case-shown-photos-of-decomposed-bodies-ntwnfb",
+      "title": "Teenager becomes first person to have testicular tissue transplant in UK",
+      "url": "https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Former NSW police officer has pleaded not guilty to the February 2024 murders of Jesse Baird and Luke Davies in Sydney Get our breaking news email , free app or daily news podcast Photographs of the decomposed bodies of Jesse Baird and Luke Davies have been shown to 15 jurors tasked with deciding whether the two men were murdered. Former police officer Beau Lamarre-Condon, 31, has pleaded not guilty to the February 2024 murders of Baird, 26, and Davies, 29. Continue reading...",
+      "summary": "Operation on 19-year-old who had no sperm after chemotherapy offers hope of preserving children’s fertility after cancer treatment Surgeons have performed the first testicular tissue transplant on a teenager in the UK, offering hope that boys left infertile by chemotherapy could one day have biological children. The 19-year-old had his tissue removed and frozen three years ago before undergoing treatment for a serious blood disorder. He said he was “incredibly grateful” to the medical team behind the pioneering procedure, which represents a potential breakthrough for male fertility preservation. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Texas kills man in first US execution since botched lethal injection of Christa Pike",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Jamaal Howard, 46, executed by fatal dose of pentobarbital after lawyers’ bid for stay had been denied A Texas man was put to death Wednesday in the first US execution since the botched lethal injection of Christa Pike in Tennessee last week. Jamaal Howard, 46, was pronounced dead at 8.03pm after receiving a fatal dose of pentobarbital, a sedative, at the state prison in Huntsville. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "title": "Veteran Indian actor Nana Patekar dies at 75",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority.",
+      "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
       "alsoReportedBy": []
     },
     {
@@ -146,30 +137,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing",
+      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Sources say Firmus is slashing its price and may even shelve initial public offering altogether Get our breaking news email , free app or daily news podcast The momentum behind Firmus Technologies’ high-flying valuation is showing severe cracks just weeks out from its anticipated ASX debut. Multiple sources briefed on the matter told Guardian Australia the AI datacentre company is slashing its valuation to entice sceptical investors – or may even shelve its initial public offering altogether. Continue reading...",
+      "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), where the outbreak was announced in May. This is the 17th outbreak of the highly infectious, often deadly disease in the DRC. As of 2 October, 4,082 people had died out of 8,463 confirmed cases in the country since the emergence of the Bundibugyo strain of the Ebola virus, for which there is still no vaccine nor specific treatment. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia",
-      "url": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+      "title": "Jurors in Beau Lamarre-Condon murder case shown photos of decomposed bodies",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/08/jurors-in-beau-lamarre-condon-case-shown-photos-of-decomposed-bodies-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Legislation is an effort by ruling Liberals to address growing clash over who has access to doctor-assisted death Canada ’s federal government said on Wednesday it would advance legislation to prevent people whose sole health condition is mental illness from accessing euthanasia, an effort by the ruling Liberal party to address a clash in the country over who has access to physician-assisted death. Under the current rules, people whose sole underlying medical condition is a mental illness have been barred from accessing medical assistance in dying (Maid) to end their lives. But that ban – due to be lifted in March – has divided lawmakers over whether to permit this expansion of the Maid program. In Canada, Crisis Services Canada can be contacted at any time on 1.833.456.4566, or via text on 45645 from 4pm-12am ET. In the US, you can call or text the 988 Suicide & Crisis Lifeline at 988 or chat at 988lifeline.org. In the UK and Ireland, Samaritans can be contacted on freephone 116 123. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
+      "summary": "Former NSW police officer has pleaded not guilty to the February 2024 murders of Jesse Baird and Luke Davies in Sydney Get our breaking news email , free app or daily news podcast Photographs of the decomposed bodies of Jesse Baird and Luke Davies have been shown to 15 jurors tasked with deciding whether the two men were murdered. Former police officer Beau Lamarre-Condon, 31, has pleaded not guilty to the February 2024 murders of Baird, 26, and Davies, 29. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -182,18 +164,27 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Anti-Patterns in Software Blogging",
-      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
       "alsoReportedBy": []
     },
     {
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "source": "Hacker News",
+      "title": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia",
+      "url": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Legislation is an effort by ruling Liberals to address growing clash over who has access to doctor-assisted death Canada ’s federal government said on Wednesday it would advance legislation to prevent people whose sole health condition is mental illness from accessing euthanasia, an effort by the ruling Liberal party to address a clash in the country over who has access to physician-assisted death. Under the current rules, people whose sole underlying medical condition is a mental illness have been barred from accessing medical assistance in dying (Maid) to end their lives. But that ban – due to be lifted in March – has divided lawmakers over whether to permit this expansion of the Maid program. In Canada, Crisis Services Canada can be contacted at any time on 1.833.456.4566, or via text on 45645 from 4pm-12am ET. In the US, you can call or text the 988 Suicide & Crisis Lifeline at 988 or chat at 988lifeline.org. In the UK and Ireland, Samaritans can be contacted on freephone 116 123. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Anti-Patterns in Software Blogging",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -218,6 +209,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Software developers are not okay",
       "url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
       "source": "Lobsters",
@@ -236,17 +236,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "C for Rust Programmers",
-      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "source": "Lobsters",
+      "title": "Living off-grid: Hundred Rabbits",
+      "url": "https://100r.ca/site/home.html",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Calling a function in C without naming it",
-      "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+      "title": "C for Rust Programmers",
+      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
