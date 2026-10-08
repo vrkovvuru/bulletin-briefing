@@ -1,6 +1,81 @@
 {
-  "generated": "2026-10-08T04:41:12.364747Z",
+  "generated": "2026-10-08T12:42:18.768366Z",
   "summaries": [
+    {
+      "summary": "Russian missile strike on a bus in Kramatorsk killed at least 30 people and wounded 18.",
+      "significance": "The attack highlights Russia's continued targeting of civilians in Ukraine, escalating the human cost of the conflict.",
+      "url": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+      "points": [
+        "Attack occurred in the eastern city of Kramatorsk, Ukraine.",
+        "Regional prosecutor\u2019s office reported the death toll rose to 30.",
+        "All local public transport was suspended following the attack."
+      ]
+    },
+    {
+      "summary": "NBA Europe's $10bn basketball league, launching in 2028, attracts major European football clubs with franchise bids.",
+      "url": "https://www.theguardian.com/sport/2026/oct/08/basketball-nba-europe-launch-franchise-football",
+      "points": [
+        "Launch delayed to 2028, with a pre-qualifying competition in 2023 for temporary members.",
+        "NBA plans $10bn investment over 10 years, aiming for 16-team league.",
+        "Franchise bids exceed targets, with prices ranging from $500m to over $1bn for the London spot."
+      ]
+    },
+    {
+      "summary": "Asos reveals hackers accessed customers' names, addresses, phone numbers, and search histories, but not payment details.",
+      "significance": "The hack exposes Asos customers' personal data, including search histories, highlighting vulnerabilities in retail cybersecurity.",
+      "url": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
+      "points": [
+        "Hackers accessed millions of users' personal data including names, addresses, and phone numbers.",
+        "Search histories with terms like \u201cglamorous wide fit\u201d and \u201cAsos petite\u201d were also compromised.",
+        "The cyber attack was revealed after app users received a notification titled \u201cAsos hacked.\u201d"
+      ]
+    },
+    {
+      "summary": "Baby born with rare congenital condition defies doctors' bleak prognosis.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/baby-rare-heterotaxy-syndrome-louisiana",
+      "points": [
+        "Baby Wren Michelle Roberts born with heterotaxy, a syndrome with only 15 known cases.",
+        "Doctors initially feared the condition was unsurvivable.",
+        "Despite initial prognosis, Wren has met multiple milestones deemed miracles by her doctor."
+      ]
+    },
+    {
+      "summary": "Lenora Thaker's debut novel, inspired by a segregated shantytown, wins a $30,000 Queensland literary award.",
+      "url": "https://www.theguardian.com/books/2026/oct/08/queensland-literary-awards-lenora-thaker-the-pearl-of-tagai-town-winner",
+      "points": [
+        "Lenora Thaker wins $30,000 for \"The Pearl of Tagai Town.\"",
+        "Novel draws on history of Cairns-Malay Town, existing 1800s-1950s.",
+        "Book described as \"stunning\" and \"unambiguously and distinctively Queensland."
+      ]
+    },
+    {
+      "summary": "OpenAI withdraws three math papers due to a sign error and revises 14 others.",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "points": [
+        "Three papers withdrawn due to a sign error invalidating key arguments.",
+        "14 manuscripts revised with proof repairs and corrections.",
+        "Total percentage of formalized top-line results now at ~42%."
+      ]
+    },
+    {
+      "summary": "Historians took years to develop Zotero, a research application now used by over 20 million people, emphasizing communal thinking and durability over rapid development.",
+      "significance": "The story highlights the importance of slow, collaborative development in creating durable software, contrasting with today\u2019s rapid AI-driven software creation.",
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "points": [
+        "Zotero launched on October 5, 2006, and is used in dozens of languages.",
+        "Development began in 2001, taking five years to create a rough prototype.",
+        "Roy Rosenzweig, founder of the Center for History and New Media, passed away in 2007."
+      ]
+    },
+    {
+      "summary": "A few individuals maintain critical software that runs on billions of devices, including phones and servers.",
+      "url": "https://sheets.works/data-viz/holding-up-the-internet",
+      "points": [
+        "Paul Eggert, a UCLA lecturer, manages the time zone database used by Android and iOS devices.",
+        "In 2026, Paul made 218 of the 251 changes to the time zone database, with Tim Parenti contributing 28.",
+        "Lasse Collin, who maintains the xz compression tool, faced a backdoor issue in 2024, which was discovered by Andres Freund."
+      ]
+    },
     {
       "summary": "After his mother's death, Otto, a doctor, became convinced of a forensic fraud and embarked on a quest for revenge.",
       "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
