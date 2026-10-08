@@ -2,37 +2,76 @@
   "date": "2026-10-08",
   "stories": [
     {
+      "title": "Canadian Anne Carson wins 2026 Nobel Prize in Literature",
+      "url": "https://www.aljazeera.com/news/2026/10/8/canadian-anne-carson-wins-2026-nobel-prize-in-literature?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Swedish Academy praised the 76-year-old poet and essayist&#039;s work for being &#039;bold and inventive&#039;.",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
+    },
+    {
+      "title": "Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears",
+      "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The former prince is taking legal action against Thames Valley Police after his homes were searched earlier this year.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Royal Navy sailor in court accused of preparing to spy for Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The 24-year-old man appeared at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
       "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
       "url": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The bodies of Jane Adetoro, Christina Walters and Rebecca Walters were pulled from the sea in May.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
+      "summary": "Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "New York Mayor Mamdani under fire for attending October 7 vigil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
+      "summary": "New York City’s Mayor Zohran Mamdani was met by crowds calling him a ‘traitor’ for attending a vigil for October 7.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-      "url": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+      "title": "Football Q&A: ask Ed Aarons your questions as the Premier League returns – live",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/08/football-qa-ask-ed-aarons-your-questions-as-the-premier-league-returns",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Governor says Kremlin \u2018deliberately targeting civilians\u2019 after strike in Kramatorsk, which also wounded 18 and set second bus on fire Europe live \u2013 latest updates A Russian missile strike on a bus in the eastern city of Kramatorsk has killed at least 30 people, officials said on Thursday, in one of the worst attacks by Moscow on Ukrainian civilians this year. The regional prosecutor\u2019s office in the Donetsk region said the vehicle had been hit at 10am by an aerial bomb. \u201cAs of now, the death toll from this morning\u2019s attack has risen to 30. Eighteen people were wounded,\u201d it said, adding that all local public transport had been suspended. Continue reading...",
-      "alsoReportedBy": [
-        "Al Jazeera"
-      ]
+      "summary": "After a lengthy international break dominated by the Manchester City verdict, the Premier League is back on Saturday. Football writer Ed Aarons is online now answering your questions Sign in or sign up to take part Hi Ed. What do you expect the reception from fans of all other teams in the PL will be when Man City come to town? I anticipate it will be much more vociferous than expected. Ed says: Yes and it’s one of the quirks of the fixture list for which we so love football that sees City head to Anfield for their first match since the verdict was announced. I’m sure that the Liverpool supporters have something planned for Sunday afternoon, especially given their close rivalry with them over the past few years. It will be interesting to see how City’s fans respond but they are going to have to get used to being the butt of everyone’s jokes again after so many years of dominance. Ed says: I think it’s a bit early to see any major changes but more generally there has been a bit of a shift away from controlling games by pure possession and a much more direct approach from many teams. Pep Guardiola’s style of play was so influential in the Premier League and beyond but even he went a bit more direct towards the end of his reign at City and lots of other teams have been trying to get the ball forward much earlier. There’s also been even more emphasis on taking greater risks with pressing much higher up the pitch, as Brighton showed with their masterclass against Arsenal before the international break. But the arrival of so many new managers in the summer means that it will be interesting to see how the likes of Liverpool, Chelsea and Manchester City evolve as the weeks go on. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Shoot the People: Global Activism through Misan Harriman’s Lens",
+      "url": "https://www.aljazeera.com/video/witness/2026/10/8/shoot-the-people-global-activism-through-misan-harrimans-lens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Influential British Nigerian photographer and activist Misan Harriman captures global protests that drive social change.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/christa-pike-health-update",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Recovery marks a dramatic turnaround for Pike, who remains in hospital after a botched execution in Tennessee Christa Pike is “up and walking” in hospital, her lawyer said, just more than a week after she survived two lethal injections during a botched execution in Tennessee. The recovery marks a dramatic turnaround after Pike was declared brain dead on Monday, before waking up and beginning to speak on Tuesday. Her ordeal has shocked many in the US and overseas and galvanized critics of the death penalty. Continue reading...",
+      "alsoReportedBy": ["BBC News"]
     },
     {
       "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
@@ -41,33 +80,6 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Italian law to give election winners bonus seats: Why that\u2019s controversial",
-      "url": "https://www.aljazeera.com/news/2026/10/8/italian-law-to-give-election-winners-bonus-seats-why-thats-controversial?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Critics say the proposed law is undemocratic, potentially granting a winning coalition outsized power in parliament.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Royal Navy sailor in court accused of preparing to spy for Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The 24-year-old man appeared at Westminster Magistrates\u2019 Court on Thursday after being arrested at his home in Bedfordshire.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Sri Lanka arrests ex-President Rajapaksa\u2019s wife in graft case",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/sri-lanka-arrests-ex-president-rajapaksas-wife-in-graft-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Sri Lanka\u2019s former first lady Shiranthi Rajapaksa, wife of Mahinda Rajapaksa, has been arrested in a corruption case.",
       "alsoReportedBy": []
     },
     {
@@ -80,30 +92,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Why has Iraq devalued its currency, and why are some MPs against it?",
-      "url": "https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "MPs oppose dinar devaluation, citing increased living costs and financial strain on Iraq\u2019s most vulnerable populations.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Inside NBA Europe\u2019s $10bn plan that has football clubs queuing to join",
-      "url": "https://www.theguardian.com/sport/2026/oct/08/basketball-nba-europe-launch-franchise-football",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Some of the biggest names in European football will bid for a franchise in ESL-style league, now due to launch in 2028 The launch of NBA Europe will be delayed 12 months until 2028, with a pre-qualifying competition planned for next year to find four temporary members to join the 16-team league\u2019s inaugural season alongside 12 permanent franchises. The NBA is planning to invest about $10bn (\u00a37.6bn) over 10 years in what sources have described as the sporting world\u2019s biggest-ever startup competition. It is understood to have received multiple offers for the 12 franchises that exceed their targets, with prices expected to range from $500m to more than $1bn for the London franchise. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Italy overhauls electoral system after fiercely contested debate",
       "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
       "alsoReportedBy": []
     },
     {
@@ -116,12 +128,39 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
+      "url": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Residents in areas from the mouth of the Mississippi River to Florida urged to ‘evacuate if told to do so’ Millions of people from Louisiana to Florida are under hurricane warnings on Thursday as Hurricane Isaias looked set to head towards the US Gulf coast with weather officials warning of dangerous storm surge, hurricane-force winds, heavy rainfall, and flooding. Isaias intensified into a hurricane from a tropical storm on Wednesday night, becoming the first hurricane of the 2026 Atlantic hurricane season. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Former Labour MP cleared over role in fraudulent Covid-19 testing company",
+      "url": "https://www.theguardian.com/world/2026/oct/08/former-labour-mp-shahid-malik-cleared-over-role-fraudulent-covid-19-testing-company",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Court hears former justice minister Shahid Malik had only ‘very limited’ role in business that made £6.67m in three weeks UK politics live – latest updates A former Labour MP and justice minister has been found not guilty of charges around his role in a fraudulent Covid-19 testing company. Shahid Malik, 58, was MP for Dewsbury between 2005 and 2010 and served as a minister in three departments in Gordon Brown’s government. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Residents airlifted to safety after flooding in central Chile",
       "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "One Nation’s AI video is vile and tired – but the ensloppification of Australian politics doesn’t stop there",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/one-nations-ai-video-is-vile-and-tired-but-the-ensloppification-of-australian-politics-doesnt-stop-there-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The inflammatory clip shows the wild west of online politicking created by unrestricted access to AI – and why watchdogs need more powers to do something about it Get our new political email , free app or daily news podcast One Nation’s new AI-generated campaign video is a new low – even for them. The video – reportedly played at the party’s Victorian campaign launch over the weekend – is an AI-generated collection of racist tropes, depicting a man who appears to be African brandishing a machete, an apparently Middle Eastern man with an explosive vest, a South Asian man in a turban talking about “mass migration” and an Indigenous elder talking about people receiving “money … on the basis of need, not identity”. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -134,62 +173,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Bear kills man in home attack near Mongolian capital",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Police say the bear entered a traditional nomadic dwelling near Ulaanbaatar, killing a man and seriously injured a woman.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Asos customers\u2019 names, search histories and contact details accessed in hack, says retailer",
+      "title": "Asos says customers’ names, contact details and search histories hacked",
       "url": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Hackers gained access to millions of users\u2019 personal data, but not card details or passwords, Asos says Business live \u2013 live updates Asos hackers gained access to millions of customers\u2019 recent search histories as well as names, addresses and phone numbers, the online fashion retailer has revealed. Terms typed in by customers such as \u201cglamorous wide fit\u201d and \u201cAsos petite\u201d were in the data accessed in the cyber attack, which emerged on Tuesday after app users received a notification titled \u201cAsos hacked\u201d with a link to the Telegram messaging service. Continue reading...",
+      "summary": "Experts say breadth of data accessed could help attackers devise “highly convincing” phishing scams Business live – live updates Asos hackers gained access to millions of customers’ recent search histories as well as names, addresses and phone numbers, the online fashion retailer has revealed. Terms typed in by customers such as “glamorous wide fit” and “Asos petite” were in the data accessed in the cyber-attack, which emerged on Tuesday after app users received a notification titled “Asos hacked” with a link to the Telegram messaging service. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "US infant defies bleak odds from rare congenital trait: \u2018Don\u2019t quit before your child quits\u2019",
-      "url": "https://www.theguardian.com/us-news/2026/oct/08/baby-rare-heterotaxy-syndrome-louisiana",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Wren Michelle Roberts was born with heterotaxy, a syndrome so rare a specialist could only find 15 similar cases South-eastern Louisiana couple Nick and Savannah Roberts planned to bury their infant daughter the weekend after she was born in September with an exceedingly rare combination of birth defects that her doctors feared was unsurvivable. But an unforeseen congenital trait in Wren Michelle Roberts\u2019 heart, combined with her parents\u2019 dedication to her complex medical care, has allowed her to defy her bleak initial prognosis and meet weeks\u2019 worth of milestones that each are a \u201cmiracle in [their] own way\u201d, according to her doctor. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Mar\u00eda del Carmen Abascal, the 87-year-old woman whose eviction from her Madrid home sparked nationwide protests across Spain and unleashed a political crisis, died on Wednesday while hospitalized.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Queensland literary awards: \u2018stunning\u2019 debut inspired by segregated shantytown wins top prize",
-      "url": "https://www.theguardian.com/books/2026/oct/08/queensland-literary-awards-lenora-thaker-the-pearl-of-tagai-town-winner",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Lenora Thaker wins $30,000 prize for \u2018a work of state significance\u2019 for The Pearl of Tagai Town, which draws on her family\u2019s history in Cairns-Malay Town A \u201cstunning\u201d debut novel described as \u201cunambiguously and distinctively Queensland\u201d has won the $30,000 top prize at the Queensland literary awards (QLAs). Meriam and Wagedagam author Lenora Thaker won the Queensland premier\u2019s award for a work of state significance for her historical novel The Pearl of Tagai Town, which was inspired by her ancestors\u2019 lives in an unmapped shantytown known as Cairns-Malay Town . The town once housed Indigenous Australians, Chinese, Indian, Japanese, Malaysian and Sri Lankan residents who had been segregated from the white population; it existed from the late 1800s until the late 1950s. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -206,8 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "OpenAI Withdraws 3 Math Papers",
-      "url": "https://github.com/openai/math/blob/main/history.md",
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,6 +212,15 @@
       "title": "Anti-Patterns in Software Blogging",
       "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Telnet BBS Guide",
+      "url": "https://www.telnetbbsguide.com/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -242,21 +245,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Slow Formation of Durable Software",
-      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Pulse: Firebase\u2019s global outage & poor response",
+      "title": "The Pulse: Firebase’s global outage & poor response",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
       "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "Also: OpenAI&#8217;s platform play that has similarities to AWS, more data on companies moving to open models, and more",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -269,21 +272,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Calling a function in C without naming it",
-      "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Quoting Ben Affleck",
       "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things like look at what's called a tensor, which is just the numerical translation of a visual image in numbers \u2014 like the batch number, the frame number, the red, green, and blue values of each pixel in each frame. And a tensor, you use a convolutional neural network to identify patterns in that that would reveal what's called edge detection or feature extraction, which is just identifying patterns enough to know like this is where the window ledge is, so we can more easily take the green screen image out and replace it with something. \u2014 Ben Affleck , Pythonista Tags: machine-learning , python",
+      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things like look at what's called a tensor, which is just the numerical translation of a visual image in numbers — like the batch number, the frame number, the red, green, and blue values of each pixel in each frame. And a tensor, you use a convolutional neural network to identify patterns in that that would reveal what's called edge detection or feature extraction, which is just identifying patterns enough to know like this is where the window ledge is, so we can more easily take the green screen image out and replace it with something. — Ben Affleck , Pythonista Tags: machine-learning , python",
       "alsoReportedBy": []
     },
     {
@@ -319,16 +313,16 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few days that I had actually solved it. But it's supposedly proven here - problem 180 . I don't know what to think exactly. I spent thousands of hours on that problem. I really enjoyed it. Hearing that it is solved somehow makes me sad in a far-off way, like hearing an ex-girlfriend died suddenly in a car crash. I don't know, there's probably a lot of people feeling odd emotions tonight. \u2014 Jake Boggan , Hacker News comment on openai/math Tags: openai , mathematics , deep-blue , llms , ai , generative-ai",
+      "summary": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few days that I had actually solved it. But it's supposedly proven here - problem 180 . I don't know what to think exactly. I spent thousands of hours on that problem. I really enjoyed it. Hearing that it is solved somehow makes me sad in a far-off way, like hearing an ex-girlfriend died suddenly in a car crash. I don't know, there's probably a lot of people feeling odd emotions tonight. — Jake Boggan , Hacker News comment on openai/math Tags: openai , mathematics , deep-blue , llms , ai , generative-ai",
       "alsoReportedBy": []
     },
     {
-      "title": "OpenAI \u201crogue\u201d agent activities found on Wikimedia projects",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
       "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "OpenAI \u201crogue\u201d agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking: The Wikimedia Foundation conducted its own investigation to see whether Wikimedia websites had been similarly affected by AI agents, focusing on those operated by OpenAI. We can confirm that we have discovered some activity by these \u201crogue\u201d OpenAI agents on Wikimedia platforms. The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic, which are described more below. They found evidence of agents editing sandbox pages, trying to use pieces of infrastructure such as Etherpad to help proxy content from elsewhere, and saw widespread crawling and \"hundreds of thousands of data queries\" to their Wikidata Query Service. My best guess is that most of this was a similar (or the same) swarm of agents as those that defaced that German wiki while training for research tasks. The Wikipedia sandbox wiki edits appear to have started on May 12th, and the initial test edits to the UseModWiki Sandbox page reported by that incident started on May 11th. Tags: wikimedia , wikipedia , wikis , ai , generative-ai , llms , ai-ethics , accidental-cyberattacks",
+      "summary": "OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking: The Wikimedia Foundation conducted its own investigation to see whether Wikimedia websites had been similarly affected by AI agents, focusing on those operated by OpenAI. We can confirm that we have discovered some activity by these “rogue” OpenAI agents on Wikimedia platforms. The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic, which are described more below. They found evidence of agents editing sandbox pages, trying to use pieces of infrastructure such as Etherpad to help proxy content from elsewhere, and saw widespread crawling and \"hundreds of thousands of data queries\" to their Wikidata Query Service. My best guess is that most of this was a similar (or the same) swarm of agents as those that defaced that German wiki while training for research tasks. The Wikipedia sandbox wiki edits appear to have started on May 12th, and the initial test edits to the UseModWiki Sandbox page reported by that incident started on May 11th. Tags: wikimedia , wikipedia , wikis , ai , generative-ai , llms , ai-ethics , accidental-cyberattacks",
       "alsoReportedBy": []
     },
     {
@@ -346,7 +340,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow \u201cimmediate intervention\u201d by staff to stop training if the company\u2019s models access the internet in ways they\u2019re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said. \u2014 Victoria Kim , Reporting from the Australian parliament Tags: accidental-cyberattacks , generative-ai , ai-security-research , openai , ai , llms",
+      "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said. — Victoria Kim , Reporting from the Australian parliament Tags: accidental-cyberattacks , generative-ai , ai-security-research , openai , ai , llms",
       "alsoReportedBy": []
     },
     {
@@ -367,7 +361,5 @@
       "summary": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
       "alsoReportedBy": []
     }
-  ],
-  "durationSeconds": 196.7,
-  "voice": "af_heart"
+  ]
 }

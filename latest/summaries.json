@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-08T12:42:18.768366Z",
+  "generated": "2026-10-08T14:42:27.601334Z",
   "summaries": [
+    {
+      "summary": "Premier League returns after international break with Manchester City facing fan backlash.",
+      "significance": "The return of the Premier League follows the Manchester City verdict, likely changing fan receptions and playing styles across teams.",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/08/football-qa-ask-ed-aarons-your-questions-as-the-premier-league-returns",
+      "points": [
+        "Manchester City faces vociferous reception from rival fans, especially at Anfield.",
+        "Liverpool supporters expected to have a planned response for City's visit.",
+        "Premier League sees a shift towards more direct play, moving away from possession-based strategies."
+      ]
+    },
+    {
+      "summary": "Christa Pike, who survived a botched execution in Tennessee, is now walking, showing a dramatic recovery.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/christa-pike-health-update",
+      "points": [
+        "Pike survived two lethal injections during the failed execution in Tennessee.",
+        "She was initially declared brain dead but began speaking the next day.",
+        "Her case has intensified criticism against the death penalty in the US."
+      ]
+    },
+    {
+      "summary": "Hurricane Isaias, the first of the 2026 Atlantic season, threatens the US Gulf coast with millions under warnings.",
+      "significance": "The story matters as it alerts millions to impending dangers from Hurricane Isaias, emphasizing evacuation orders and the severity of potential storm surges and flooding.",
+      "url": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
+      "points": [
+        "Hurricane Isaias intensified from a tropical storm on Wednesday night.",
+        "Millions from Louisiana to Florida are under hurricane warnings.",
+        "Officials warn of dangerous storm surge, hurricane-force winds, heavy rainfall, and flooding."
+      ]
+    },
+    {
+      "summary": "Former Labour MP Shahid Malik cleared of charges related to a fraudulent Covid-19 testing company.",
+      "url": "https://www.theguardian.com/world/2026/oct/08/former-labour-mp-shahid-malik-cleared-over-role-fraudulent-covid-19-testing-company",
+      "points": [
+        "Malik had a 'very limited' role in the company that earned £6.67m in three weeks.",
+        "The former justice minister served in Gordon Brown\u2019s government.",
+        "Shahid Malik was MP for Dewsbury from 2005 to 2010."
+      ]
+    },
+    {
+      "summary": "One Nation\u2019s AI-generated campaign video, shown at their Victorian launch, features racist tropes, highlighting the need for stricter watchdog powers.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/one-nations-ai-video-is-vile-and-tired-but-the-ensloppification-of-australian-politics-doesnt-stop-there-ntwnfb",
+      "points": [
+        "Video depicts racist imagery including a man with a machete, a person with an explosive vest, and discussions on mass migration and welfare.",
+        "The inflammatory content was reportedly played at One Nation\u2019s Victorian campaign launch over the weekend.",
+        "The article argues for increased powers for watchdogs to address unrestricted AI in online politicking."
+      ]
+    },
+    {
+      "summary": "The article discusses the evolution and design of DVD menus, highlighting their interactive features and technical limitations.",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "points": [
+        "DVD menus became widespread in the 2000s, offering interactive options like play buttons, chapter selections, and special features.",
+        "DVD menus typically have a resolution of 720 × 480 pixels in NTSC regions and 720 × 576 pixels in PAL regions, reflecting the D1 video standard.",
+        "Disney's FastPlay feature automatically starts playing the disc's content, often including trailers, upon loading a DVD."
+      ]
+    },
+    {
+      "summary": "An AI model, Opus 5.5, was tasked with visualizing cities from Italo Calvino's \"Invisible Cities\" in six hours, resulting in impressive interactive designs.",
+      "significance": "This story showcases the advanced capabilities of AI in visualizing complex literary concepts, demonstrating significant progress in AI-assisted design and interpretation.",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "points": [
+        "Opus 5.5 completed the task in 1 hour 25 minutes, using an equivalent of 7 agent-hours.",
+        "The visualization was based on a prompt to create a three.js masterpiece of Calvino's cities.",
+        "GPT-6 Astra outperformed earlier models, solving more Baba Is You levels and identifying mushrooms more accurately."
+      ]
+    },
     {
       "summary": "Russian missile strike on a bus in Kramatorsk killed at least 30 people and wounded 18.",
       "significance": "The attack highlights Russia's continued targeting of civilians in Ukraine, escalating the human cost of the conflict.",
