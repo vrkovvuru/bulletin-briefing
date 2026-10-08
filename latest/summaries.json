@@ -1,6 +1,117 @@
 {
-  "generated": "2026-10-08T16:41:50.840054Z",
+  "generated": "2026-10-08T18:42:47.039180Z",
   "summaries": [
+    {
+      "summary": "Margaret Atwood and other writers praise Anne Carson, the 2026 Nobel Prize in Literature winner.",
+      "significance": "Prominent writers celebrate Anne Carson's Nobel win, introducing her acclaimed poetry to new readers.",
+      "url": "https://www.theguardian.com/books/2026/oct/08/appreciation-of-anne-carson-nobel-prize-in-literature-2026",
+      "points": [
+        "Margaret Atwood, Emily Wilson, Ocean Vuong, and Rebecca Perry celebrate Carson.",
+        "Carson's works \"The Beauty of the Husband\" and \"Men in the Off Hours\" are recommended.",
+        "Carson's victory is noted for being admired by poets globally."
+      ]
+    },
+    {
+      "summary": "San Francisco's rental market is under strain as evictions rise due to an AI boom.",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
+      "points": [
+        "Eviction notices increased by 44% according to the city\u2019s rent board.",
+        "San Francisco\u2019s Housing Rights Committee receives over 150 voicemails weekly.",
+        "The rental assistance hotline averages 200 calls per week from distressed tenants."
+      ]
+    },
+    {
+      "summary": "Venezuelan president Nicolás Maduro and his wife Cilia Flores indicted for alleged torture conspiracy against US citizens.",
+      "significance": "The indictment of Maduro and Flores for alleged torture escalates legal actions against former Venezuelan leaders in U.S. courts.",
+      "url": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
+      "points": [
+        "Indictment unsealed in Manhattan federal court on Thursday.",
+        "Judge Alvin Hellerstein denied Flores' request for pre-trial release.",
+        "Both Maduro and Flores have been in jail in New York since early January."
+      ]
+    },
+    {
+      "summary": "Microsoft is suspended from applying for green cards for H-1B workers, according to JD Vance.",
+      "url": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension",
+      "points": [
+        "JD Vance announced Microsoft's suspension from the H-1B green card program.",
+        "The suspension is due to alleged abuse of the H-1B system by Microsoft.",
+        "Adobe is also barred from the visa program that leads to US residency."
+      ]
+    },
+    {
+      "summary": "Astronomers detected a mysterious energy burst from a galaxy over 10 billion light-years away.",
+      "url": "https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves",
+      "points": [
+        "Flash of radio waves is over 10 billion years old.",
+        "Burst travelled through approximately 80% of cosmic history.",
+        "Event is considered the most distant fast radio burst recorded."
+      ]
+    },
+    {
+      "summary": "Trump's admission that he banned media over coverage was highlighted in court by media lawyers.",
+      "url": "https://www.theguardian.com/media/2026/oct/08/trump-media-ban-hearing",
+      "points": [
+        "Judge Timothy Kelly, a Trump appointee, extended the temporary restraining order until Tuesday.",
+        "CNN, MS Now, and Politico were banned from the White House due to critical coverage.",
+        "The original temporary reprieve was set to expire on Thursday, 28 September."
+      ]
+    },
+    {
+      "summary": "Marco Rubio avoided questions about Kimberly Guilfoyle allegedly asking a Trump donor to pay her $100,000 credit card bill.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/kimberly-guilfoyle-donor-wire-marco-rubio",
+      "points": [
+        "Rubio, US secretary of state, dodged queries on Guilfoyle's reported actions.",
+        "Guilfoyle, US ambassador to Greece, allegedly sought Trump donor for $100,000.",
+        "Allegations emerged in a Wall Street Journal report prior to Guilfoyle's confirmation hearing."
+      ]
+    },
+    {
+      "summary": "Finance expert Martin Lewis launches initiative to gather small, practical ideas to improve UK systems.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/08/martin-lewis-small-ideas-institute-public-improve-uk",
+      "points": [
+        "Martin Lewis invites public to submit ideas for \"Small Ideas Initiative\" by 12 November.",
+        "Ideas should be low-cost, non-controversial, and aimed at fixing everyday issues.",
+        "Cross-party panel will review ideas covering areas like health, schools, and tech."
+      ]
+    },
+    {
+      "summary": "Whistle, a compact 16.9 MB speech recognition model, transcribes audio in seven languages with high speed and accuracy.",
+      "significance": "Whistle, a compact 16.9 MB speech recognition model, enables efficient speech-to-text transcription across seven languages on various devices without internet connection.",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "points": [
+        "Whistle transcribes audio in English, German, French, Spanish, Italian, Dutch, and Polish.",
+        "The model reaches the first token in 11 ms and operates on 16 kHz mono audio.",
+        "Whistle runs on CPU with no dependencies and is designed for mobiles, wearables, robots, smart homes, automotive, and microcontrollers."
+      ]
+    },
+    {
+      "summary": "StepFun releases Step 5 Preview, a powerful agentic work model with a 1M-context window, excelling in software engineering and finance.",
+      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "points": [
+        "Step 5 Preview has a 27B active / 600B total parameters architecture.",
+        "Costs $1.00/M input tokens and $2.70/M output tokens, with caching discounts.",
+        "Supports up to 64,000 completion tokens and accepts text, images, and video inputs."
+      ]
+    },
+    {
+      "summary": "A website owner successfully deindexed their site from Google to prevent AI scraping.",
+      "url": "https://kennyqin.com/deindexed-by-google/",
+      "points": [
+        "Owner used robots.txt and meta tags to block indexing.",
+        "Deindexing took at least 3 months to complete.",
+        "Website is now free from Google indexing."
+      ]
+    },
+    {
+      "summary": "Archaeologists are reconstructing Stone Age technologies like rope and thread, which are largely absent from the archaeological record but were crucial for early human survival.",
+      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "points": [
+        "Researchers created 16 feet of rope in ten minutes using cattail fibers and a replica of a 35,000-year-old perforated ivory baton.",
+        "The oldest surviving human-made fiber is a six-millimeter-long string dating back about 250,000 years.",
+        "Hafting, attaching stone tools to handles with string or cord, transformed tool use and expanded prehistoric hunting and building capabilities."
+      ]
+    },
     {
       "summary": "Canadian poet and essayist Anne Carson wins the 2026 Nobel prize in literature.",
       "significance": "Anne Carson's Nobel win recognizes her innovative contributions to contemporary literature by blending classical traditions with modern forms.",
