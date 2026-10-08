@@ -1,6 +1,71 @@
 {
-  "generated": "2026-10-08T20:42:45.898486Z",
+  "generated": "2026-10-08T22:41:35.101700Z",
   "summaries": [
+    {
+      "summary": "Firmus Technologies canceled its planned stock market debut, which would have been Australia's largest in decades, due to lackluster investor interest.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
+      "points": [
+        "Firmus was set to have the biggest ASX float since Telstra in 1997.",
+        "The company scrapped the offer due to insufficient investor demand.",
+        "The decision was made in the best interests of the company and shareholders."
+      ]
+    },
+    {
+      "summary": "A film shoot resembling the Renee Good killing continues in Montana despite local concerns over disruptions and its portrayal of immigration policies.",
+      "significance": "The story highlights tensions between film production and local sensitivities following a controversial killing.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/film-shoot-renee-good-pawn-shop-montana",
+      "points": [
+        "Production of Pawn Shop, by conservative media company Daily Wire, temporarily halted earlier this month.",
+        "Residents of Livingston complained about road closures and the film\u2019s depiction of immigration policies.",
+        "The film appears to re-enact elements of Renee Good\u2019s killing, roiling the Montana town."
+      ]
+    },
+    {
+      "summary": "Senator Chris Murphy claims the Pentagon obstructed his visit to a Qatar base and that the Iran strike on the US embassy in Riyadh was more severe than reported.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/chris-murphy-pete-hegseth-iran-war-costs",
+      "points": [
+        "Pentagon blocked Murphy from visiting a major US base in Qatar.",
+        "Damage to US embassy in Riyadh described as \"extraordinary\" by Murphy.",
+        "Iranian strike's severity far worse than what the public has been informed."
+      ]
+    },
+    {
+      "summary": "USS Abraham Lincoln's commanding officer addresses suicide attempts during a record deployment, emphasizing no lost lives.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+      "points": [
+        "Captain Dan Keeler noted the deployment was the first combat experience for most sailors.",
+        "Thousands welcomed USS Lincoln sailors upon their return.",
+        "Trump urges debates between his endorsed candidates and Democratic nominees in key Senate races."
+      ]
+    },
+    {
+      "summary": "Polls closed in Holborn and St Pancras byelection, testing Labour's unity under Andy Burnham against Green Party's Zack Polanski.",
+      "url": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
+      "points": [
+        "Labour aims to retain Keir Starmer\u2019s former seat won with over 11,000 majority in 2024.",
+        "Byelection seen as a test for Andy Burnham to unite Labour voters.",
+        "Green party\u2019s Zack Polanski poses a threat to Labour\u2019s progressive support."
+      ]
+    },
+    {
+      "summary": "Research links ADHD to circadian rhythm dysfunction, suggesting chronotherapy as a potential treatment.",
+      "significance": "The story matters as it identifies circadian rhythm dysfunction as a significant phenotype in ADHD, suggesting chronotherapy as a potential treatment approach.",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "points": [
+        "Up to 80% of adults and 82% of children with ADHD experience sleep disturbances.",
+        "Dim-light melatonin onset (DLMO) is delayed by about 45 minutes in children and 90 minutes in adults with ADHD.",
+        "Melatonin and bright light therapy have successfully advanced DLMO in ADHD patients, correlating with symptom improvement."
+      ]
+    },
+    {
+      "summary": "Carson Gross discusses the enduring value of computer programming skills despite AI advancements.",
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+      "points": [
+        "Carson Gross believes problem-solving with computers will remain valuable.",
+        "Gross highlights controlling complexity as a key aspect of programming.",
+        "The discussion tags include computer-science, careers, and AI."
+      ]
+    },
     {
       "summary": "Yemen's humanitarian crisis worsens as fighting displaces over 200,000 in five weeks.",
       "significance": "The UN reports over 200,000 displaced in five weeks, highlighting the escalating humanitarian crisis in Yemen.",
