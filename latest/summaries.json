@@ -1,6 +1,43 @@
 {
-  "generated": "2026-10-08T00:41:45.207104Z",
+  "generated": "2026-10-08T02:41:09.563109Z",
   "summaries": [
+    {
+      "summary": "Jurors in Sydney are shown photos of decomposed bodies as part of the trial for the February 2024 murders of Jesse Baird and Luke Davies.",
+      "significance": "Photographs of decomposed bodies are shown to jurors in the trial of a former police officer accused of two murders, emphasizing the graphic evidence presented.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/08/jurors-in-beau-lamarre-condon-case-shown-photos-of-decomposed-bodies-ntwnfb",
+      "points": [
+        "Beau Lamarre-Condon, 31, a former police officer, pleaded not guilty to the murders.",
+        "The victims, Jesse Baird, 26, and Luke Davies, 29, were murdered in February 2024.",
+        "15 jurors are evaluating the case after viewing the decomposed bodies' photographs."
+      ]
+    },
+    {
+      "summary": "Firmus Technologies, an AI datacentre company, is cutting its valuation and considering shelving its ASX debut due to investor scepticism.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing",
+      "points": [
+        "Firmus may shelve its initial public offering (IPO) due to investor doubts.",
+        "The company is slashing its valuation to attract sceptical investors.",
+        "These changes are happening just weeks before the anticipated ASX debut."
+      ]
+    },
+    {
+      "summary": "Canada will indefinitely prohibit euthanasia for those with solely mental illness, addressing a contentious issue.",
+      "url": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+      "points": [
+        "Legislation aims to prevent people with only mental illness from accessing euthanasia.",
+        "Current ban set to lift in March but now to be made permanent.",
+        "Crisis Services Canada available at 1.833.456.4566 for mental health support."
+      ]
+    },
+    {
+      "summary": "Students found a way to call a function in C without naming it, bypassing school's automatic grading system checks.",
+      "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+      "points": [
+        "Students used memory offsets to call a function without naming it, exploiting the system's fixed address behavior.",
+        "The exploit involved mapping writable and executable memory to execute arbitrary shell code.",
+        "The method bypassed the system's function naming restrictions but was reported to the school as a potential issue."
+      ]
+    },
     {
       "summary": "EU-China trade talks commence in Beijing as EU seeks to address trade deficits and Chinese export restrictions.",
       "significance": "EU-China trade talks address escalating trade pressures, including EU\u2019s trade deficit and Chinese export restrictions, amid calls for a more assertive EU trade policy.",
