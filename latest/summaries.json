@@ -1,6 +1,82 @@
 {
-  "generated": "2026-10-08T18:42:47.039180Z",
+  "generated": "2026-10-08T20:42:45.898486Z",
   "summaries": [
+    {
+      "summary": "Yemen's humanitarian crisis worsens as fighting displaces over 200,000 in five weeks.",
+      "significance": "The UN reports over 200,000 displaced in five weeks, highlighting the escalating humanitarian crisis in Yemen.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss",
+      "points": [
+        "UN reports over 200,000 displaced in five weeks.",
+        "Yemen faces one of the world's most severe humanitarian crises.",
+        "Aid agencies alarmed by rapid displacement speed."
+      ]
+    },
+    {
+      "summary": "Israeli settlers are destroying olive trees and restricting access to land, targeting the Palestinian olive harvest in the West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss",
+      "points": [
+        "Settlers are destroying olive trees and taking crops from Palestinian farmers.",
+        "Attacks threaten a vital income source for Palestinians.",
+        "The West Bank is the primary location of these systematic attacks."
+      ]
+    },
+    {
+      "summary": "Thousands of family members welcomed sailors of the USS Abraham Lincoln at San Diego after a long and difficult deployment.",
+      "significance": "The return of USS Lincoln highlights the emotional impact of long military deployments on sailors and their families.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego",
+      "points": [
+        "19-year-old Pvt Grayden Monroe and his mother were among the first to arrive at the naval base.",
+        "The USS Abraham Lincoln returned to San Diego after being at sea for nearly a year.",
+        "Military families expressed mixed emotions upon the sailors' return."
+      ]
+    },
+    {
+      "summary": "The DoJ plans to charge Cassidy Hutchinson, a former Trump aide, for allegedly lying to Congress about the January 6 Capitol attack.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/cassidy-hutchinson-criminal-charges-doj",
+      "points": [
+        "Hutchinson testified that Trump tried to join the mob by lunging for an SUV's wheel.",
+        "Potential charges against Hutchinson involve lying to the congressional committee.",
+        "The Justice Department's civil rights division is pursuing the criminal charges."
+      ]
+    },
+    {
+      "summary": "Author reflects on the value of casual conversation in building trust and easing into serious topics.",
+      "significance": "The story reveals the importance of casual conversation in building trust and comfort for discussing sensitive topics, affecting how people communicate and connect.",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "points": [
+        "Author's daughter needed a long warm-up to discuss sensitive issues.",
+        "Casual conversation rituals like coffee chats help overcome speech vulnerability.",
+        "Twitter's character limit may hinder the gradual build-up needed for sensitive discussions."
+      ]
+    },
+    {
+      "summary": "A DIY project details the creation of a neon-themed t-shirt using LED filaments within a tight deadline.",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "points": [
+        "Used 1200mm red filament for a llama design on the back.",
+        "Front features cursive text with 300mm 3v filaments soldered in series.",
+        "Utilized cross-stitch fabric and embroidery hoops for stability during assembly."
+      ]
+    },
+    {
+      "summary": "DeepSeek 4.1 Flash is a highly capable and cost-effective AI model that hasn't caused alarm in the industry despite its advantages.",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "points": [
+        "DeepSeek 4.1 Flash is orders of magnitude cheaper than frontier models like Opus.",
+        "The model reduced the KV cache size by roughly 437x compared to its V1 version.",
+        "Users can perform unlimited tasks with DeepSeek for as little as $0.003 per task."
+      ]
+    },
+    {
+      "summary": "Anthropic releases Claude Haiku 5.5, priced similarly to OpenAI\u2019s GPT-6 Luna but with improved performance and new features.",
+      "significance": "Claude Haiku 5.5 offers improved performance over previous models and competitive pricing, affecting users and developers seeking cost-effective, high-volume AI solutions.",
+      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "points": [
+        "Claude Haiku 5.5 scores 43 on the Artificial Analysis Intelligence Index, up 26 points from the previous version.",
+        "The model is priced to match GPT-6 Luna and includes Anthropic\u2019s effort settings and adaptive thinking.",
+        "Anthropic cut prices on Sonnet 5.5 and subscription plans, making Haiku 5.5 about 75% cheaper to run than Haiku 4.5 on average."
+      ]
+    },
     {
       "summary": "Margaret Atwood and other writers praise Anne Carson, the 2026 Nobel Prize in Literature winner.",
       "significance": "Prominent writers celebrate Anne Carson's Nobel win, introducing her acclaimed poetry to new readers.",

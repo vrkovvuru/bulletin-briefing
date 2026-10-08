@@ -2,13 +2,13 @@
   "date": "2026-10-08",
   "stories": [
     {
-      "title": "Two Latvian men arrested inside UK military base after breach",
-      "url": "https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Police say nothing so far suggests the incident at RAF Molesworth linked ​to events surrounding RAF Fairford last month.",
-      "alsoReportedBy": ["BBC News", "The Guardian"]
+      "summary": "Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
     },
     {
       "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
@@ -29,31 +29,40 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Israel opens first-ever pavilion at Morocco defence show",
-      "url": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss",
+      "title": "How much worse can Yemen’s humanitarian crisis become?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Israel opened its first national pavilion at Morocco&#039;s Marrakech Air Show, joined by Israel&#039;s top military contractors.",
+      "summary": "UN says fighting has displaced more than 200,000 people in five weeks.",
       "alsoReportedBy": []
     },
     {
-      "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
-      "url": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
+      "title": "Israeli settlers take Palestinian olives, and their harvest traditions",
+      "url": "https://www.aljazeera.com/features/2026/10/8/israeli-settlers-take-palestinian-olives-and-their-harvest-traditions?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Colombian President Abelardo De la Espriella had promised closer ties with Israel on the campaign trail.",
+      "summary": "As Israeli settlers harvest olives on Palestinian land, farmers face growing violence and loss of an ancient tradition.",
       "alsoReportedBy": []
     },
     {
-      "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
-      "url": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Suicide is up among Black Americans. We need to talk about it.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "NPR's Michel Martin hosted a panel conversation about mental health and suicide in the Black community, exploring a difficult subject in deeply personal conversations.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Israeli settlers systematically target the Palestinian olive harvest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Israeli settlers in the occupied West Bank are destroying olive trees.",
+      "alsoReportedBy": []
     },
     {
       "title": "‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson",
@@ -61,7 +70,7 @@
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Handmaid’s Tale author is joined by Emily Wilson, Ocean Vuong and Booker-shortlisted writer Rebecca Perry in celebrating the newly announced Nobel laureate Anne Carson wins Nobel prize in literature 2026 Anne Carson’s work has long been admired among poets of many countries. For new readers, I would recommend The Beauty of the Husband – direct and visceral, funny and angry and sad – or Men in the Off Hours. Delights await! Continue reading...",
+      "summary": "The Handmaid’s Tale author is joined by Emily Wilson, Ocean Vuong and Booker-shortlisted writer Rebecca Perry in celebrating the newly announced Nobel laureate Anne Carson wins Nobel prize in literature 2026 Where to start with: Anne Carson Anne Carson’s work has long been admired among poets of many countries. For new readers, I would recommend The Beauty of the Husband – direct and visceral, funny and angry and sad – or Men in the Off Hours. Delights await! Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -74,21 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+      "title": "The long-deployed USS Lincoln is returning home to San Diego",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "4 people on NASA's Crew-12 mission return to Earth after 8 months in space",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Four people — two NASA astronauts, one from the European Space Agency and a Russian cosmonaut — spent nearly eight months at the space station, conducting spacewalks, science experiments and research.",
+      "summary": "The USS Abraham Lincoln is returning home to San Diego Thursday after supporting the Iran war during a record long deployment of 265 uninterrupted days at sea that included reports of deteriorating conditions among its crew.",
       "alsoReportedBy": []
     },
     {
@@ -97,7 +97,7 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Ousted Venezuelan president and Cilia Flores have been in jail in New York since early January The deposed Venezuelan president Nicolás Maduro and his wife, Cilia Flores, have been indicted for alleged conspiracy to commit torture, according to Manhattan federal court papers unsealed on Thursday. The superseding indictment was unsealed shortly before Flores appeared at court in her ongoing push for pre-trial release – which was denied by Judge Alvin Hellerstein. Maduro and Flores have jailed in New York City since early January. Continue reading...",
+      "summary": "Ousted Venezuelan president and Cilia Flores have been in jail in New York since early January The deposed Venezuelan president Nicolás Maduro and his wife, Cilia Flores, have been indicted for alleged conspiracy to commit torture, according to Manhattan federal court papers unsealed on Thursday. The superseding indictment was unsealed shortly before Flores appeared at court in her ongoing push for pretrial release – which was denied by Judge Alvin Hellerstein. Maduro and Flores have been jailed in New York City since early January. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,30 +110,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Zambia signs US health deal after disputes over data-sharing",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
+      "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
       "alsoReportedBy": []
     },
     {
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Microsoft suspended from applying for green cards for H-1B workers, JD Vance says",
-      "url": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension",
+      "title": "Thousands turn out to welcome weary USS Lincoln sailors after fraught stretch at sea",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Vice-president also says Adobe is barred from visa program that allows high-skilled workers to apply for US residency Microsoft is suspended from applying for permanent residency for workers employed through a US visa program for high-skilled workers, JD Vance announced on Thursday. The US vice-president accused the tech company of abusing the H-1B system, which allows those on the visa to work while they apply and are in process for a green card. Continue reading...",
+      "summary": "Military families admit ‘mixed emotions’ as aircraft carrier finally returns to San Diego after grueling deployment that took severe toll USS Lincoln arrives at San Diego base – live updates By 4am on Thursday, the sky still pitch black, 19-year-old Pvt Grayden Monroe and his mom had arrived to the naval base in San Diego, California, the very first military family members huddled on a set of metal bleachers overlooking the dark water. They were waiting for Monroe’s 21-year-old sister to step off the USS Abraham Lincoln, the embattled aircraft carrier that has been at sea for the better part of a year. Monroe, a soldier stationed at Fort Campbell, was wearing his army uniform for the occasion. “I hope she’s proud of me,” he said of his sister, “and I hope she knows damn well that I’m just as proud of her.” Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/kimberly-guilfoyle-donor-wire-marco-rubio",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Eric Deters says US ambassador to Greece asked him to pay off American Express credit card bill in return for access A Trump donor accused Kimberly Guilfoyle, the US ambassador to Greece and Trump family ally, of engaging in a “quid pro quo” by asking him to pay off her $100,000 debt in exchange for access to administration officials. Eric Deters, a former congressional candidate and lawyer, told MS Now on Thursday that Guilfoyle had “ambushed” him last year with an offer to provide access to government officials if he paid her American Express credit card bill, before her US Senate confirmation hearing as ambassador to Greece. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,6 +146,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Zambia signs US health deal after disputes over data-sharing",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "DoJ seeks to charge ex-Trump aide who gave key testimony on January 6 attack",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/cassidy-hutchinson-criminal-charges-doj",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Cassidy Hutchinson told panel she had been told Trump lunged for wheel of SUV to try to join mob at Capitol Prosecutors in the justice department’s civil rights division are seeking criminal charges against Cassidy Hutchinson, a former top Trump White House aide who gave explosive testimony to the committee that investigated the US attack on the Capitol, according to a person familiar with the matter. The potential charges involve lying to Congress, the person said. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Astronomers detect mysterious burst of energy from a galaxy far, far away",
       "url": "https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves",
       "source": "Guardian World",
@@ -155,30 +173,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump made ‘clear’ that media ban was due to critical coverage, court told",
-      "url": "https://www.theguardian.com/media/2026/oct/08/trump-media-ban-hearing",
-      "source": "Guardian World",
+      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Lawyer for CNN, MS Now and Politico says Trump admitted he banned networks from White House over their coverage Donald Trump continues to be the strongest witness for the media companies arguing that they were unfairly barred from the White House at his direction, a lawyer representing CNN, MS Now and Politico told a federal judge on Thursday afternoon. The media coalition was in court asking the judge to extend the temporary restraining order (TRO) he issued on 24 September requiring the White House to lift the ban for 14 days. That temporary reprieve was scheduled to expire on Thursday, but district court judge Timothy Kelly, a Trump appointee, said he would extend it until Tuesday and that he would probably rule on a motion for a preliminary injunction by that day. That means the White House will be forced to allow journalists from CNN, MS Now and Politico to continue accessing the building until at least Tuesday. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Marco Rubio brushes off questions about Kimberly Guilfoyle pressing donor to pay credit card",
-      "url": "https://www.theguardian.com/us-news/2026/oct/08/kimberly-guilfoyle-donor-wire-marco-rubio",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "US ambassador to Greece allegedly asked Trump donor to pay $100,000 American Express bill Marco Rubio, the US secretary of state, brushed off reporters’ questions about recent reports that Kimberly Guilfoyle, the US ambassador to Greece and Trump family ally, used her position to advance personal interests. Rubio refused to respond to the latest allegations against Guilfoyle, raised in a Wall Street Journal report , claiming she asked a Trump donor to pay her $100,000 American Express bill in exchange for access to the administration, before her US Senate confirmation hearing. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "What would make your life easier? Martin Lewis asks public for ‘small ideas’ to improve UK",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/08/martin-lewis-small-ideas-institute-public-improve-uk",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Finance expert launches Small Ideas Initiative to gather ‘practical, low-cost’ ideas to put before cross-party panel Every day, people run into what the finance expert Martin Lewis calls “the life-potholes of unintended consequences” – clunky systems and poorly conceived rules that make life harder than it should be. His latest project, the Small Ideas Initiative , will attempt to address that, with a cross-party panel of politicians and policymakers crowdsourcing ideas for everyday fixes to take to government. The ideas could cover anything from health and schools to policing, tech and money. Lewis is encouraging people to submit ideas for “practical, low-cost, non-controversial ways to improve the UK” before 12 November. Continue reading...",
+      "summary": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
       "alsoReportedBy": []
     },
     {
@@ -200,8 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump administration is suspending Microsoft from a green card program",
-      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "title": "The value of not getting to the point (2015)",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "title": "Theranos.World",
+      "url": "https://www.theranos.world/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -254,8 +254,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Beauty in DVD Menus",
-      "url": "https://vale.rocks/posts/dvd-menus",
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -287,6 +287,15 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things like look at what's called a tensor, which is just the numerical translation of a visual image in numbers — like the batch number, the frame number, the red, green, and blue values of each pixel in each frame. And a tensor, you use a convolutional neural network to identify patterns in that that would reveal what's called edge detection or feature extraction, which is just identifying patterns enough to know like this is where the window ledge is, so we can more easily take the green screen image out and replace it with something. — Ben Affleck , Pythonista Tags: machine-learning , python",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -350,15 +359,6 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said. — Victoria Kim , Reporting from the Australian parliament Tags: accidental-cyberattacks , generative-ai , ai-security-research , openai , ai , llms",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "",
       "alsoReportedBy": []
     }
   ]
