@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-09T00:42:50.683199Z",
+  "generated": "2026-10-09T02:41:39.986284Z",
   "summaries": [
+    {
+      "summary": "Pete Hegseth proposes livestreaming the execution of Nidal Hasan by firing squad, highlighting the Trump administration's moral stance.",
+      "significance": "The story highlights the Trump administration's moral decline by proposing the public livestreaming of an execution, showcasing a new low in democratic standards.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/09/nidal-hasan-execution-pete-hegseth-us-military-tv-democracy",
+      "points": [
+        "Pete Hegseth, a Trump cabinet member, suggests public execution by firing squad.",
+        "The execution targets Nidal Hasan, a convicted murderer.",
+        "Proposal reflects Trump administration's controversial moral and political positions."
+      ]
+    },
+    {
+      "summary": "Labour's Sagal Abdi-Wali wins Holborn and St Pancras byelection, defeating Green party leader Zack Polanski.",
+      "significance": "The story highlights the potential electoral cost for the Green party due to their controversial anti-Zionism motion, affecting their performance in the Holborn and St Pancras byelection.",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+      "points": [
+        "Labour retains the seat with Abdi-Wali's victory over Polanski.",
+        "Camden activists suggest Green's anti-Zionism motion cost them votes.",
+        "Greens acknowledge coming in second but highlight their role in holding Labour accountable."
+      ]
+    },
+    {
+      "summary": "Sydney's 2027 festival will feature 11 international dance premieres, including a high-wire act by acclaimed French choreographer Rachid Ouramdane.",
+      "url": "https://www.theguardian.com/culture/2026/oct/09/sydney-festival-2027-international-dance-headline-program",
+      "points": [
+        "11 international dance works debut in Australia as part of Sydney's 2027 festival.",
+        "Rachid Ouramdane\u2019s \"Outsider\" features 21 dancers and four athletes on high wires.",
+        "The festival triples the scale of the previous event, bringing 174 performers to Sydney."
+      ]
+    },
+    {
+      "summary": "Treasurer Jim Chalmers delays controversial ban on credit card payments for tax bills by over six months.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/chalmers-delays-controversial-credit-card-ban-business-tax",
+      "points": [
+        "Jim Chalmers earmarks funds for a year-long transition period.",
+        "Ban's original start date of 30 November is postponed.",
+        "Decision follows criticism and calls from small businesses."
+      ]
+    },
+    {
+      "summary": "A man found his parents' smart coffee machine used 1TB of data in 10 days, leading him to buy them a new one.",
+      "significance": "The story highlights the potential for smart home devices to cause network issues, affecting household internet performance and security.",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "points": [
+        "The coffee machine generated 1TB of traffic in 10 days.",
+        "Most of the data stayed within the home network, not sent over the internet.",
+        "The device overwhelmed the home Wi-Fi setup, leading the man to disconnect it."
+      ]
+    },
+    {
+      "summary": "The Casuarina Linux project will be wound down, with updates stopping after October 2026.",
+      "url": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/",
+      "points": [
+        "Updates to Casuarina Linux will cease after the end of October 2026.",
+        "The project faced issues with C++ standard libraries that were unresolved.",
+        "The creator plans to migrate to Chimera Linux by the end of October 2026."
+      ]
+    },
+    {
+      "summary": "CLI tool ttok 0.4 updated with fixes and new features for token counting.",
+      "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+      "points": [
+        "Fixed Click warning and updated CI.",
+        "Added --list-models command for listing available models.",
+        "Works with uvx for counting tokens in various files."
+      ]
+    },
     {
       "summary": "Ethiopian federal forces retake Mekelle, Tigray\u2019s capital, amid renewed fighting, raising concerns about regional intervention.",
       "significance": "The renewed conflict in Tigray could extend beyond regional borders, involving neighboring countries and complicating Ethiopia\u2019s strategic ambitions for access to the Red Sea.",
