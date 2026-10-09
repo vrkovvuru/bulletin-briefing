@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-09T18:41:01.945331Z",
+  "generated": "2026-10-09T20:41:22.914715Z",
   "summaries": [
+    {
+      "summary": "US defense secretary's plan for a public execution is likened to Iran's practices.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/fort-hood-public-execution-us-iran",
+      "points": [
+        "Pete Hegseth proposes public execution after failing to defeat Tehran militarily.",
+        "The plan mirrors Iran's notorious practice of public death penalty spectacles.",
+        "US official's proposal comes seven months after initial military efforts against Tehran."
+      ]
+    },
+    {
+      "summary": "Prosecutors oppose Luigi Mangione's request to dismiss state charges in the killing of Brian Thompson, despite his federal guilty plea.",
+      "significance": "Prosecutors' opposition to dismissing Luigi Mangione\u2019s state charges underlines the application of an 'exception' to double jeopardy law, affecting Mangione's legal proceedings.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/luigi-mangione-state-charges-new-york",
+      "points": [
+        "Prosecutors argue the case can proceed under an 'exception' to state double jeopardy law.",
+        "Mangione pleaded guilty to federal charges on 14 August for the 4 December 2024 killing.",
+        "The killing of Brian Thompson outside a Midtown hotel led to a manhunt and backlash against the healthcare industry."
+      ]
+    },
+    {
+      "summary": "Residents of New York City\u2019s Marble Hill are angry and scared after an ICE officer shot a man with his child in the car.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
+      "points": [
+        "ICE shot Oscar Belgal, 28, in the neck while he had his child in the car.",
+        "The incident occurred on the corner of 225th St and Marble Hill Avenue.",
+        "Orlando Perez witnessed the arrest and shooting of Belgal by ICE."
+      ]
+    },
+    {
+      "summary": "The article argues that AI has disrupted intellectual communities in software engineering, making private intellectual activity less meaningful and less frequent.",
+      "significance": "This story highlights how AI transforms software engineering, diminishing human intellectual communities and the intrinsic value of private intellectual activities.",
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "points": [
+        "AI has transformed software engineering, reducing the need for human intellectual contributions.",
+        "The discourse in software engineering has become narrower and shallower, focusing on AI prompts rather than deeper technical concepts.",
+        "Contributing to the commons, such as writing blog posts or designing new programming languages, has become pointless as AIs handle most tasks without human recognition."
+      ]
+    },
+    {
+      "summary": "New tool version 2.0 decodes and compares carrier settings from iPhone, Pixel, and Galaxy firmware.",
+      "url": "https://carrierexplode.com/",
+      "points": [
+        "Tool named carrier-explode released version 2.0",
+        "Decodes carrier settings for iPhone, Pixel, and Galaxy",
+        "Improved backend in the new version"
+      ]
+    },
     {
       "summary": "US plans to livestream execution of Nidal Malik Hasan, who killed 13 at Fort Hood in 2009, facing global condemnation.",
       "significance": "The story matters as it highlights global condemnation of the US's plan to livestream an execution, comparing the action to practices of dictatorships.",
@@ -3686,54 +3733,6 @@
         "About 600,000 people died in the 2020-2022 conflict between Ethiopian army and TPLF.",
         "Rebels target neighbouring states of Afar and Amhara.",
         "New rebel alliance aims to overthrow Prime Minister Abiy Ahmed's government."
-      ]
-    },
-    {
-      "summary": "Ollaya offers open-source decision models for typed questions, providing quick, calibrated answers on local hardware.",
-      "significance": "Ollaya offers fast, open-source decision models for sensitive data processing on local hardware, reducing reliance on external APIs and enhancing privacy.",
-      "url": "https://ollaya.dev/",
-      "points": [
-        "Ollaya's Laya model processes a five-question request in about 10 ms on an NVIDIA RTX 4090.",
-        "Models support over 100 languages and provide typed, calibrated answers to various question types.",
-        "The system runs on local hardware using ONNX Runtime, supporting both CPU and NVIDIA GPU."
-      ]
-    },
-    {
-      "summary": "Margaret Atwood donates C$1m to establish a chair in avian biology in memory of her late partner, Graeme Gibson.",
-      "significance": "Atwood's $1m donation establishes a chair in avian biology, honoring her late partner's passion for birds and advancing avian research.",
-      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/25/margaret-atwood-birds-conservation-optimistic-future",
-      "points": [
-        "Atwood would choose to be a raven if she could transform into any bird.",
-        "The donation is to establish the Graeme Gibson chair in avian biology.",
-        "The bird observatory is located on Pelee Island, Canada's southernmost community."
-      ]
-    },
-    {
-      "summary": "Alberta's rat-free status, maintained for over seven decades, is threatened by the discovery of a dead rat in Bowden.",
-      "significance": "Discovery challenges Alberta's long-held status as rat-free, potentially impacting local ecosystems and agriculture.",
-      "url": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
-      "points": [
-        "Town of Bowden found a dead rat, breaking Alberta's rat-free streak.",
-        "Alberta has been rat-free for over 70 years, similar to Antarctica.",
-        "Province's \"rat patrol\" was called to investigate the discovery."
-      ]
-    },
-    {
-      "summary": "An inquiry links Manston asylum centre's failures to decisions made at Number 10.",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/failures-at-manston-asylum-centre-linked-to-decisions-at-number-10-inquiry-hears",
-      "points": [
-        "KC states Number 10 played a role in pausing transfers to hotels.",
-        "Issues at Manston included racism, use of force, and overcrowding.",
-        "Inquiry covers problems from 1 June to 22 November 2022."
-      ]
-    },
-    {
-      "summary": "Partner of woman killed by US hunter who allegedly mistook her for a deer says the death was \"senseless\".",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/delaware-woman-killed-hunter",
-      "points": [
-        "Minivaldo Velásquez stated the killing was \"senseless\" and \"no accident\".",
-        "Walter Moorhead arrested on suspicion of manslaughter for shooting Santos Maria Chilel Soto.",
-        "Velásquez questioned the claim, noting \"I have never seen a deer with only two legs\"."
       ]
     }
   ]

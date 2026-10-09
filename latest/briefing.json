@@ -2,12 +2,66 @@
   "date": "2026-10-09",
   "stories": [
     {
-      "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
+      "title": "Katie Zacharia ‘offered’ position as White House press secretary",
+      "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
+      "summary": "The role has been vacant since former White House press secretary Karoline Leavitt left in August.",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
+    },
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
+      "url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
+      "url": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Rising fuel prices push Delta&#039;s annual fuel expenses up by $6bn, affecting its profit outlook for 2026.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "NI secretary to ban the Drumcree parade",
+      "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Pentagon says it will livestream the firing squad execution of Nidal Hasan at Fort Hood, the site of his 2009 mass shooting. That would be the first public execution in the U.S. since the 1930s.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "I saw Iran execute a man in public. Is this what the US wants? | Robert Tait",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/fort-hood-public-execution-us-iran",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "It is odd for the US defense secretary to be laying the groundwork for an event that could be organized by Tehran Pete Hegseth’s plans to stage a public execution resemble a grotesque Iran-imitation game. Having failed over the past seven months to defeat the Tehran regime on the battlefield, the self-styled “secretary of war” now proposes to mirror its notorious practice of enforcing the death penalty as a grand public spectacle. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -20,6 +74,15 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is serving as a judge at the international court of justice (ICJ), has “shown that legal measures can help prevent acts of war and violence”. Continue reading...",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
       "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
       "url": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
       "source": "NPR",
@@ -29,84 +92,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-      "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "alsoReportedBy": ["Guardian World"]
     },
     {
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
-      "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The major storm is expected to make landfall along the US Gulf Coast later on Friday or early Saturday.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Did Russia play by the rules in reporting lab worker's death?",
-      "url": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How the oil industry is preparing for Hurricane Isaias",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Medieval’ and ‘disturbing’: US plan to livestream execution elicits global condemnation",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/live-stream-execution-fort-hood-shooter",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Pentagon said execution of Nidal Malik Hasan, who killed 13 people at Fort Hood in 2009, would be broadcast live US politics live – latest updates The US is facing worldwide condemnation over a “barbaric” plan to execute a disabled man by firing squad and livestream it to the public, with critics comparing the Trump administration to dictatorships in Iran and Afghanistan . The Pentagon confirmed on Thursday that the execution of Nidal Malik Hasan, convicted of killing 13 people at a military base at Fort Hood in Texas in 2009, would be livestreamed on 3 December. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+      "title": "Prosecutors oppose Luigi Mangione’s push for dismissal of state charges",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/luigi-mangione-state-charges-new-york",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Hazardous waves are possible in Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador and Mexico A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South America, according to the US Geological Survey (USGS). The quake hit along the southern coast of Panama, the USGS said, and was felt strongly ​in the ⁠Panamanian capital of ⁠Panama ​City, ‌according ‌to ‌witnesses who spoke to Reuters. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb. It is expected to strengthen to a category 2 hurricane as it approaches the US’s northern Gulf coast on Friday, according to the National Oceanic and Atmospheric Administration (NOAA). As a result of the strong El Niño , it has been a notably quiet Atlantic hurricane season. The first hurricane of the season has not formed this late since 8 October 1905, which pre-dates the satellite era (1960s) for tracking hurricanes that has allowed for more non-landfall hurricanes to be discovered. Continue reading...",
+      "summary": "Manhattan prosecutors say murder case over 2024 killing can proceed under ‘exception’ to state double jeopardy law Manhattan prosecutors filed paperwork on Friday opposing Luigi Mangione ’s arguments for dismissing his state-level case in the killing of UnitedHealthcare executive Brian Thompson. Mangione on 14 August pleaded guilty to federal charges in Thompson’s 4 December 2024 killing outside a Midtown hotel – weeks before his scheduled 8 September New York state murder and weapons trial. The killing prompted an intense manhunt but also sparked an outpouring of rage against the practices of the for-profit US healthcare industry. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -119,12 +119,48 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Man named Hitler Mussolini elected mayor in Peru",
       "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb. It is expected to strengthen to a category 2 hurricane as it approaches the US’s northern Gulf coast on Friday, according to the National Oceanic and Atmospheric Administration (NOAA). As a result of the strong El Niño , it has been a notably quiet Atlantic hurricane season. The first hurricane of the season has not formed this late since 8 October 1905, which pre-dates the satellite era (1960s) for tracking hurricanes that has allowed for more non-landfall hurricanes to be discovered. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "New York City’s Marble Hill residents furious after ICE shooting: ‘Why do this?’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Locals also express fear after man shot in the neck while his child was in the back of his car Residents of Manhattan’s Marble Hill neighborhood were furious at federal Immigration and Customs Enforcement (ICE) on Friday but also scared after an officer shot their neighbor who had his child in the back of his car. Orlando Perez had parked his car on the corner of 225th St and Marble Hill Avenue on Thursday night and witnessed ICE arresting Oscar Belgal, 28, after he had been shot in the neck, apparently with an assault-style rifle. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Thai Queen makes first solo flight in fighter jet",
+      "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
       "alsoReportedBy": []
     },
     {
@@ -137,53 +173,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump picks conservative commentator Katie Zacharia to be next press secretary",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Zacharia will replace Karoline Leavitt, who left the role at the end of August after giving birth to her second child Donald Trump has chosen conservative commentator Katie Zacharia to be the next White House press secretary, according to a White House official. Zacharia will replace Karoline Leavitt, who left the role at the end of August after the birth to her second child. Continue reading...",
+      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism offences amid allegations they had been tortured in police detention. Last week, Egyptian authorities arrested the journalists, from the independent factchecking and investigative platform Matsadaash, accusing them in a statement of being unlicensed and producing false news on behalf of the outlawed Muslim Brotherhood . Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "US immigration officer shot man in car where five-year-old child was sitting in the Bronx, sparking fierce protests Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs Enforcement ( ICE ) violence after a federal officer shot a man driving a car in which his five-year-old son was sitting, sparking fierce protests . At least seven shots were reportedly fired and the man was hit in the neck late on Thursday afternoon as children were coming home from school in the busy Marble Hill neighborhood of the south Bronx in New York City. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump establishes committee to investigate Fed governor Lisa Cook",
-      "url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "US president renews his efforts to oust Cook despite supreme court ruling that her firing was unconstitutional Donald Trump announced on Friday that he is establishing a committee to investigate Lisa Cook, the US Federal Reserve governor, over allegations that she committed mortgage fraud, renewing his efforts to oust her despite a June supreme court ruling that her earlier firing was unconstitutional. Trump said a committee will consult with justice department officials to decide whether there is “cause” for her removal. The White House will hold an in-person hearing on 5 November to consider the allegations against Cook, which will be closed to the public but transcribed and published. Cook will be able to submit a written statement to present her own evidence and will be subject to examination from White House and her own legal counsel. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Parties prepare for byelection in Farage seat amid speculation over £5m gift inquiry",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/nigel-farage-byelection-clacton-seat-speculation-5m-gift-inquiry",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Tories said to be ready to fight in Clacton, with standards investigation rumoured to be nearing its end Nigel Farage’s rivals are gearing up for a byelection in Clacton in the months ahead, amid speculation that the standards inquiry into his £5m gift is nearing a conclusion. Conservative sources said the party was ready to fight in Farage’s seat, although senior figures in the shadow cabinet are divided about whether it would be winnable, given Farage’s victory in a byelection over the summer . Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Florida execution called off after DeSantis withdraws death warrant for first time",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/desantis-halts-florida-execution",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Governor halts execution of William Lee Thompson, after Christa Pike survived failed lethal injections Ron DeSantis cancelled a planned execution in the state on Friday, days before a 74-year-old man was due to be killed by lethal injection. The move – the first time Florida’s governor has withdrawn a death warrant in his nearly eight years in office – comes just over a week after the botched execution of Christa Pike in Tennessee. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Deno is joining Cloudflare",
-      "url": "https://deno.com/blog/cloudflare",
+      "title": "Programming Isn’t Special",
+      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -191,9 +191,36 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Programming Isn’t Special",
-      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "No Man Is an Island",
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
+      "url": "https://blueberrywren.dev/blog/primes/",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -218,24 +245,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "TypeSafe a Raises $870M at a $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Building resilient systems with Sam Newman",
       "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
       "source": "Pragmatic Engineer",
@@ -254,18 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
-      "url": "https://blueberrywren.dev/blog/primes/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "There are many themes, but this one is yours",
-      "url": "https://earendil.com/posts/system-theme/",
-      "source": "Lobsters",
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
