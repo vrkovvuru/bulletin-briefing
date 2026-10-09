@@ -2,22 +2,13 @@
   "date": "2026-10-09",
   "stories": [
     {
-      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is serving as a judge at the international court of justice (ICJ), has “shown that legal measures can help prevent acts of war and violence”. Continue reading...",
-      "alsoReportedBy": ["BBC News", "Al Jazeera"]
-    },
-    {
-      "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
-      "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
+      "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The major storm is expected to make landfall along the US Gulf Coast later on Friday or early Saturday.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
+      "alsoReportedBy": []
     },
     {
       "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
@@ -29,21 +20,57 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
-      "source": "The Guardian",
+      "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Analysis: Plan to livestream execution puts US in dubious company Sign up for the US Breaking News email In a statement to the Guardian, Robin M Maher , the executive director of the Death Penalty Information Center, said that her group is “not aware of any regulation or precedent for a military execution to be live streamed on the internet or otherwise made widely available to the public”. She added that “public executions are typically held in authoritarian countries to instil fear in the population, and to show the power and control of the government.” Continue reading...",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-      "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
+      "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+      "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+    },
+    {
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Belgian police respond to &#039;troublemakers&#039; on sidelines of main rally with tear gas, water cannon and baton charges.",
+      "summary": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
+      "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The major storm is expected to make landfall along the US Gulf Coast later on Friday or early Saturday.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Did Russia play by the rules in reporting lab worker's death?",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
       "alsoReportedBy": []
     },
     {
@@ -56,48 +83,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
-      "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
-      "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Winning the Nobel prize in literature only underlines Anne Carson’s infinite genius | Yiyun Li",
-      "url": "https://www.theguardian.com/books/2026/oct/09/winning-the-nobel-prize-in-literature-anne-carson-yiyun-li",
+      "title": "‘Medieval’ and ‘disturbing’: US plan to livestream execution elicits global condemnation",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/live-stream-execution-fort-hood-shooter",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "When her sons died the Book of Goose author turned to Grief Lessons, Carson’s translation of four plays by Euripides. She reflects on the ‘life sustaining’ work of an extraordinary writer • Where to start with: Anne Carson • ‘Delights await!’: Margaret Atwood and other writers on Anne Carson It is preposterous to agree to write a short piece on Anne Carson’s work. The task is impossible, akin to that of solving the mathematical problem of dividing zero by zero. If one had the power to solve it, perhaps one would have some confidence in attempting to write about Anne Carson’s work. Attempting, I say, not succeeding. In attempting to do so, I shall emphasise that all words fall short in extreme situations, which not only include unfathomable losses ( of children, in my case ) but also include articulating anything about Anne Carson’s work. One could start with Carson’s words. “Words, if you let them, will do what they want to do and what they have to do.” (Autobiography of Red) But to let the words exist in their own desires and yearnings and frustrations and confusions, to let the words scream with inarticulable pain or tell a riddle with a twinkling smile or make love to one another – how many of us have achieved that kind of mastery of words? But, oh no, mastery is the wrong word here. Only the minor and the greedy and the power-thirsty writers want to be the masters of the words. Carson does not subjugate or manipulate her words. She lets them be; and lets herself be led by the words – hers, and the ancients’ translated into unforgettable English by her. Continue reading...",
+      "summary": "Pentagon said execution of Nidal Malik Hasan, who killed 13 people at Fort Hood in 2009, would be broadcast live US politics live – latest updates The US is facing worldwide condemnation over a “barbaric” plan to execute a disabled man by firing squad and livestream it to the public, with critics comparing the Trump administration to dictatorships in Iran and Afghanistan . The Pentagon confirmed on Thursday that the execution of Nidal Malik Hasan, convicted of killing 13 people at a military base at Fort Hood in Texas in 2009, would be livestreamed on 3 December. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "summary": "Hazardous waves are possible in Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador and Mexico A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South America, according to the US Geological Survey (USGS). The quake hit along the southern coast of Panama, the USGS said, and was felt strongly ​in the ⁠Panamanian capital of ⁠Panama ​City, ‌according ‌to ‌witnesses who spoke to Reuters. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,15 +110,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "‘The real deal’: Sagal Abdi-Wali’s journey from child refugee to Labour MP in former PM’s seat",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/sagal-abdi-wali-journey-child-refugee-labour-mp-former-pms-seat-london",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Decades of volunteering combined with years of active local party politics, propels Abdi-Wali to victory over Green leader Zack Polanski For Sagal Abdi-Wali, the new MP for Holborn and St Pancras, being elected to replace Keir Starmer in the north London constituency is “deeply personal”, she said in her acceptance speech. The 43-year-old has lived in the area since the 1990s when, as a seven-year-old, she fled war-torn Somalia with her mother and four brothers, eventually settling in Gospel Oak in Camden, which largely falls within the constituency. Her journey from refugee to member of parliament was one which she hoped would inspire “people who look like me”, she said. “This is Camden and this is Britain.” Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
       "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
       "source": "NPR World",
@@ -128,12 +119,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
-      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-      "source": "NPR World",
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
+      "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
       "alsoReportedBy": []
     },
     {
@@ -146,12 +137,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "UK coastguard agency chief faces calls to resign over use of unverified data to back up pay plan",
-      "url": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
+      "title": "Trump picks conservative commentator Katie Zacharia to be next press secretary",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Regulator says poll cited by Virginia McVea in move to strip rescue officers of pay did not sufficiently back up her claim The head of the UK coastguard agency is facing calls to resign after she was found to have used unverified data to back up her controversial plan to strip rescue officers of their pay. Virginia McVea, the chief executive of the Maritime and Coastguard Agency (MCA), claimed more than 90% of coastguard rescue officers supported the proposal, citing an official survey. Now, after an Office for Statistics Regulation (OSR) investigation, the agency has admitted its poll did not sufficiently back up the claim. Continue reading...",
+      "summary": "Zacharia will replace Karoline Leavitt, who left the role at the end of August after giving birth to her second child Donald Trump has chosen conservative commentator Katie Zacharia to be the next White House press secretary, according to a White House official. Zacharia will replace Karoline Leavitt, who left the role at the end of August after the birth to her second child. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -173,18 +164,27 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Christian Bittar has conviction for rigging interest rates quashed",
-      "url": "https://www.theguardian.com/business/2026/oct/09/christian-bittar-conviction-rigging-interest-rates-quashed-euribor",
+      "title": "Parties prepare for byelection in Farage seat amid speculation over £5m gift inquiry",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/nigel-farage-byelection-clacton-seat-speculation-5m-gift-inquiry",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Former City banker becomes eighth to clear their name, just days after five others were acquitted Former City trader Christian Bittar has become the eighth person to have his conviction for rigging interest rates quashed, just days after five other former bankers also successfully cleared their names . Christian Bittar, who previously worked for Deutsche Bank, was convicted in 2018 of conspiracy to defraud. Continue reading...",
+      "summary": "Tories said to be ready to fight in Clacton, with standards investigation rumoured to be nearing its end Nigel Farage’s rivals are gearing up for a byelection in Clacton in the months ahead, amid speculation that the standards inquiry into his £5m gift is nearing a conclusion. Conservative sources said the party was ready to fight in Farage’s seat, although senior figures in the shadow cabinet are divided about whether it would be winnable, given Farage’s victory in a byelection over the summer . Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Deno Is Joining Cloudflare",
+      "title": "Florida execution called off after DeSantis withdraws death warrant for first time",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/desantis-halts-florida-execution",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Governor halts execution of William Lee Thompson, after Christa Pike survived failed lethal injections Ron DeSantis cancelled a planned execution in the state on Friday, days before a 74-year-old man was due to be killed by lethal injection. The move – the first time Florida’s governor has withdrawn a death warrant in his nearly eight years in office – comes just over a week after the botched execution of Christa Pike in Tennessee. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Deno is joining Cloudflare",
       "url": "https://deno.com/blog/cloudflare",
-      "source": "Hacker News",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -193,6 +193,24 @@
     {
       "title": "Programming Isn’t Special",
       "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+      "source": "Pragmatic Engineer",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "Also: do us engineers truly enjoy &#8216;hard problems&#8217;, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Why Are Coding Agents So Dumb?",
+      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,36 +227,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
-      "source": "Pragmatic Engineer",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "Also: do us engineers truly enjoy &#8216;hard problems&#8217;, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
-      "url": "https://blueberrywren.dev/blog/primes/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "title": "TypeSafe a Raises $870M at a $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
       "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why Are Coding Agents So Dumb?",
-      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -260,6 +251,15 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "A look into what has changed, what&#8217;s still the same &#8211; and what&#8217;s broken &#8211; in the tech industry. The full video and the summary of my keynote at LDX3 New York",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
+      "url": "https://blueberrywren.dev/blog/primes/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
