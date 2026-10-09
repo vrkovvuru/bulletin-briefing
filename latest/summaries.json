@@ -1,6 +1,91 @@
 {
-  "generated": "2026-10-08T22:41:35.101700Z",
+  "generated": "2026-10-09T00:42:50.683199Z",
   "summaries": [
+    {
+      "summary": "Ethiopian federal forces retake Mekelle, Tigray\u2019s capital, amid renewed fighting, raising concerns about regional intervention.",
+      "significance": "The renewed conflict in Tigray could extend beyond regional borders, involving neighboring countries and complicating Ethiopia\u2019s strategic ambitions for access to the Red Sea.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
+      "points": [
+        "Ethiopian federal forces used air power and ground forces to advance across Tigray, retaking Mekelle.",
+        "TPLF leader Debretsion Gebremichael pledged to continue fighting from the countryside.",
+        "Eritrean troops reportedly entering northern Tigrayan towns adds a regional dimension to the conflict.",
+        "Egypt, Eritrea, Sudan, and Somalia met on October 4 to discuss concerns over Ethiopia\u2019s regional ambitions."
+      ]
+    },
+    {
+      "summary": "Sydney's new public square plans are uncertain after the NSW government declared the project \"state significant.\"",
+      "significance": "NSW government intervention may alter or halt Sydney\u2019s planned public square project, shifting control from local to state authorities.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-public-square-controversy-state-government-intervention",
+      "points": [
+        "Lord Mayor Clover Moore had released designs in August for the space near Sydney\u2019s town hall.",
+        "The project, expected to be finished by 2031, includes a semi-circular clearing with a fountain and native trees."
+      ]
+    },
+    {
+      "summary": "NHS England's mental health review warns of system failures due to soaring demand for ADHD and autism care.",
+      "url": "https://www.theguardian.com/society/2026/oct/09/key-findings-fonagy-nhs-mental-health-adhd-autism",
+      "points": [
+        "Prof Peter Fonagy\u2019s 607-page report highlights substantial increase in mental distress.",
+        "Report commissioned in 2025 by then health secretary Wes Streeting.",
+        "Without radical overhaul, services for mental health and neurodiversity will be overwhelmed."
+      ]
+    },
+    {
+      "summary": "NHS in England faces potential system failures due to soaring demand for mental health, ADHD, and autism care.",
+      "url": "https://www.theguardian.com/society/2026/oct/09/nhs-fonagy-review-autism-adhd-mental-health-conditions-care",
+      "points": [
+        "Review warns of impending \"world of system failures\" in NHS mental health services.",
+        "Demand for help with mental health and neurodevelopmental conditions has sharply risen.",
+        "Prof Peter Fonagy led the government-commissioned inquiry into the rising demand issue."
+      ]
+    },
+    {
+      "summary": "Mental health review led by Peter Fonagy asserts that youth face significant mental health challenges, contradicting views of overdiagnosis.",
+      "url": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health",
+      "points": [
+        "Peter Fonagy praises youth courage while warning of rising mental illness impacts.",
+        "Wes Streeting's comment on overdiagnosis sparked controversy, leading to an apology.",
+        "Review highlights NHS risks due to increased demand for ADHD and autism care."
+      ]
+    },
+    {
+      "summary": "Survey reveals that new Ofsted inspection regime continues to negatively impact teachers' mental health.",
+      "url": "https://www.theguardian.com/education/2026/oct/09/new-ofsted-inspection-regime-damaging-teachers-survey-says",
+      "points": [
+        "88% of school heads report inspections negatively affected staff mental health.",
+        "29% of respondents say inspections affected mental health \"a lot\".",
+        "Survey was conducted among school leaders who experienced revised inspections since last year."
+      ]
+    },
+    {
+      "summary": "Curtis Flowers, a Black man wrongfully imprisoned for over 22 years for murders in Mississippi, died at 56.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/curtis-flowers-wrongful-conviction-mississippi-dead",
+      "points": [
+        "Flowers was tried six times for the 1996 murders of four people.",
+        "US Supreme Court overturned his conviction and death sentence.",
+        "He died at his home in Mississippi, confirmed by his attorney."
+      ]
+    },
+    {
+      "summary": "OpenAI released a preprint claiming to solve a long-standing mathematical problem, the Partition Principle, but the paper's quality is criticized by a mathematician.",
+      "significance": "The story highlights the controversy around OpenAI's use of AI in solving complex mathematical problems, affecting academic standards and community trust.",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "points": [
+        "The preprint's structure and terminology are described as unclear and muddled.",
+        "References in the paper include unpublished and unrefereed lecture notes, raising questions about its rigor.",
+        "The mathematician argues the paper would likely receive a desk rejection if submitted to a journal."
+      ]
+    },
+    {
+      "summary": "OpenAI fires three safety researchers linked to the METR/Hugging Face incident, amid claims of prioritizing safety over corporate interests.",
+      "significance": "The firing of safety researchers at OpenAI over alleged mishandling of confidential information highlights tensions between corporate interests and safety priorities in AI development.",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+      "points": [
+        "OpenAI fired Tomek Korbak, Mikita Balesni, and Jasmine Wang, citing mishandling of confidential information.",
+        "The researchers argue they were dismissed for prioritizing safety, with Wang citing accessing an executive\u2019s email as the reason.",
+        "Neel Nanda criticizes the dismissals, arguing they will chill outside safety work due to unsettled norms for third-party evaluator access."
+      ]
+    },
     {
       "summary": "Firmus Technologies canceled its planned stock market debut, which would have been Australia's largest in decades, due to lackluster investor interest.",
       "url": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
