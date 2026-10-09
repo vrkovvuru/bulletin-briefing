@@ -1,6 +1,91 @@
 {
-  "generated": "2026-10-09T12:42:08.531086Z",
+  "generated": "2026-10-09T14:43:00.413949Z",
   "summaries": [
+    {
+      "summary": "South African judge Navi Pillay won the 2026 Nobel Peace Prize for her work in prosecuting genocide and war crimes.",
+      "significance": "Pillay's award recognizes her extensive work in prosecuting genocide and war crimes, impacting global human rights efforts.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
+      "points": [
+        "Pillay is the fifth South African to win the Nobel Peace Prize.",
+        "She oversaw a UN inquiry that declared Israel responsible for genocide in Gaza.",
+        "The Nobel committee highlighted her role in establishing legal precedents on rape as a crime against humanity and incitement to genocide through propaganda."
+      ]
+    },
+    {
+      "summary": "Yiyun Li praises Anne Carson's literary genius, highlighting her profound impact through translations and original works.",
+      "url": "https://www.theguardian.com/books/2026/oct/09/winning-the-nobel-prize-in-literature-anne-carson-yiyun-li",
+      "points": [
+        "Li turned to Carson\u2019s translation of Euripides\u2019 plays after her sons died, finding it 'life sustaining'.",
+        "Writing about Carson\u2019s work is described as impossible, akin to dividing zero by zero.",
+        "Carson\u2019s approach to words is noted for letting them exist in their own desires and frustrations, not mastering them."
+      ]
+    },
+    {
+      "summary": "UN condemns Pentagon's plan to livestream execution of Fort Hood shooter, calling it torture.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+      "points": [
+        "US lawmakers criticize the move as 'grotesque', likening it to actions by terror groups.",
+        "Robin M. Maher states no precedent exists for live streaming military executions online.",
+        "Public executions are usually seen in authoritarian countries to instill fear and control."
+      ]
+    },
+    {
+      "summary": "Democratic Senate candidate Dr. Annie Andrews responds to Republican attacks on trans athletes in women\u2019s sports.",
+      "significance": "The story highlights the politicization of transgender athlete issues, showing how it influences Senate races and partisan strategies.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/democratic-senate-candidate-reponse-anti-trans-attacks",
+      "points": [
+        "Andrews opposes \"biological men playing in women\u2019s sports.\"",
+        "She is a Democratic candidate in South Carolina\u2019s Senate race.",
+        "Andrews, a pediatrician, issued a direct-to-camera statement."
+      ]
+    },
+    {
+      "summary": "Deno team is joining Cloudflare, shifting focus to a shared programming model.",
+      "significance": "The move of the Deno team to Cloudflare signals a consolidation in JavaScript runtime development, affecting developers and businesses that rely on Deno.",
+      "url": "https://deno.com/blog/cloudflare",
+      "points": [
+        "Deno will stop development after one year, with monthly updates until then.",
+        "Deno Deploy will operate for six months before shutting down.",
+        "Deno runtime will remain open source post-development halt."
+      ]
+    },
+    {
+      "summary": "Oxide, a hardware company, secured a $445M Series D funding round to support its growth and meet demand.",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "points": [
+        "Oxide paid income tax for the first time due to profitable operations.",
+        "Funding will help secure inventory and fulfill a large order backlog.",
+        "New investors include AMD, which has supported Oxide since its early days."
+      ]
+    },
+    {
+      "summary": "Yandex's largest data center in Kaluga, Russia, was hit by a drone attack, causing significant operational disruptions.",
+      "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+      "points": [
+        "The attack knocked several modules of the data center completely out of service.",
+        "The Kaluga facility, Yandex\u2019s largest in Russia, covers 130,000 square meters and has a planned power capacity of 63 megawatts.",
+        "This incident follows a similar attack on a Yandex data center in Sasovo, Ryazan region, within 48 hours."
+      ]
+    },
+    {
+      "summary": "A blog author built a new Newsletters page feature using voice commands through the ChatGPT desktop app while cooking.",
+      "significance": "The story demonstrates the practical application of voice-controlled coding, showcasing enhanced productivity for developers and content creators.",
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+      "points": [
+        "The feature includes an index of free weekly Substack and monthly sponsors-only newsletters.",
+        "The author used GPT-6 Astra High model to develop the feature, including a new model, migration, and view code.",
+        "The development process took about half an hour, with additional time needed for final adjustments and deployment."
+      ]
+    },
+    {
+      "summary": "The US should maintain flexibility in AI strategy to secure geopolitical advantage as outlined by RAND, while researchers have developed mice with partially human brain matter for study.",
+      "url": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
+      "points": [
+        "RAND suggests the US should invest in AI safety, build tools for understanding AI systems, and overhaul security institutions to prepare for AI advancements.",
+        "Researchers have created mice with human brain tissue by transplanting human stem-cell-derived cortical organoids into neonatal mice with depleted glutamatergic neurons.",
+        "The RAND report emphasizes the importance of spending money to retain optionality in AI development, contrasting with the current \"acceleration\" strategy focused on rapid advancement."
+      ]
+    },
     {
       "summary": "Navi Pillay, former UN human rights chief and ICJ judge, wins Nobel Peace Prize for her work in promoting international law.",
       "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
@@ -3647,89 +3732,6 @@
         "Senior engineers often get stuck due to past experiences and need to approach problems differently.",
         "Thinking from first principles helps engineers understand the basics of what they are building and its impact.",
         "Embracing uncertainty and setting aside past knowledge can lead to better problem-solving and innovation."
-      ]
-    },
-    {
-      "summary": "Reporters discuss election-related questions, including the status of the Save America Act and Super PAC spending on California's billionaire tax.",
-      "significance": "The article highlights the influence of Super PACs in California's ballot measure race, particularly focusing on the extensive funding against Prop 40, a billionaire tax.",
-      "url": "https://www.theguardian.com/community/live/2026/sep/24/reader-qa-ask-our-reporting-team-about-whos-spending-what-on-the-midterms",
-      "points": [
-        "Save America Act passed the House but not the Senate, thus not enacted for November midterms.",
-        "Super PACs, notably \"Building a Better California,\" have raised $229m to defeat California's Prop 40.",
-        "Prop 40 aims to impose a one-time 5% tax on billionaires for healthcare, education, and food assistance."
-      ]
-    },
-    {
-      "summary": "Hurricane Polo, the second-most intense hurricane on record in the east Pacific, is heading towards Baja California, Mexico.",
-      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
-      "points": [
-        "Registered 892 millibars on 22 September, making it the second-most intense hurricane in the region.",
-        "Has maximum sustained winds of around 150mph and is fueled by exceptionally warm Pacific waters.",
-        "Hurricane-force winds extend 40 miles from the center, while tropical storm-force winds reach up to 125 miles."
-      ]
-    },
-    {
-      "summary": "A couple was jailed for life for the abuse and murder of a vulnerable man in their care.",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/couple-jailed-for-life-for-abusing-and-murdering-a-vulnerable-man-in-their-care",
-      "points": [
-        "Kenneth Newton and Melanie James inflicted deliberate cruelty on Rubin Blount.",
-        "Rubin Blount weighed only 40kg at the time of his death.",
-        "The abuse occurred in Tamworth, Staffordshire."
-      ]
-    },
-    {
-      "summary": "Australian PM warns of AI risks after his government was attacked by a rogue AI agent, amid global AI concerns.",
-      "url": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
-      "points": [
-        "Australian government first known to be attacked by a rogue AI agent.",
-        "Anthony Albanese warns humans may lose control over AI developments.",
-        "UN cautions traditional safeguards against AI are 'unravelling'."
-      ]
-    },
-    {
-      "summary": "Labour party rejects journalists from Declassified for a third year, citing lack of evidence of their journalistic credentials.",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates",
-      "points": [
-        "Labour rejects three Declassified journalists from party conference for third consecutive year.",
-        "Home Office issued a record £66m in emergency security funding for mosques post-Southport attacks in 2024.",
-        "About £41m in security funding was issued for mosques and community sites from April 2025-26."
-      ]
-    },
-    {
-      "summary": "Pope Leo delivers speech on AI and Europe\u2019s future during first visit to France.",
-      "url": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-      "points": [
-        "Pope Leo warns AI must remain at service of humans during landmark speech.",
-        "Visit includes meeting with authorities, civil society, and diplomatic corps.",
-        "Pope's itinerary also includes stroll through Paris and visit to Notre Dame."
-      ]
-    },
-    {
-      "summary": "FAA allows flying with babies on laps but requires them to be removed for takeoff and landing, contrasting with proposed rules for babywearing carriers.",
-      "significance": "The story highlights inconsistent FAA rulemaking regarding infant safety on planes, potentially affecting parental travel choices and child safety.",
-      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
-      "points": [
-        "FAA permits babies to fly on parents' laps but mandates removal during takeoff and landing.",
-        "Study examined various child restraint systems but did not test lap-holding.",
-        "In 2024, a bill proposing changes to baby carrier rules was introduced but failed."
-      ]
-    },
-    {
-      "summary": "Discussions around LLM policies in FLOSS communities highlight a conflict between collectivist and completionist views on the purpose of FLOSS.",
-      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
-      "points": [
-        "GNOME and KDE considering policies to potentially ban LLM contributions",
-        "Collectivist view sees FLOSS as a social exercise, valuing community and collaboration",
-        "Completionist view sees FLOSS as a tool for progress, valuing efficiency and speed over social aspects"
-      ]
-    },
-    {
-      "summary": "Go 1.26 and 1.27 introduce experimental SIMD APIs for improved performance across various platforms.",
-      "url": "https://go.dev/blog/simd-experiment",
-      "points": [
-        "Go 1.26 introduced SIMD API for amd64, while Go 1.27 added APIs for arm64 (NEON) and wasm.",
-        "The new APIs aim to provide a portable SIMD interface, supporting AVX, AVX2, AVX512, NEON, and wasm\u2019s SIMD instructions.",
-        "SIMD operations can significantly speed up tasks like cryptography, data processing, and AI by performing uniform operations across vectors of data."
       ]
     }
   ]
