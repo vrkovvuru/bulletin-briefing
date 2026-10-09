@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-09T02:41:39.986284Z",
+  "generated": "2026-10-09T04:42:09.560397Z",
   "summaries": [
+    {
+      "summary": "Egyptian journalists plan to protest in Cairo this weekend over the detention and alleged torture of six colleagues charged with terrorism.",
+      "significance": "Egyptian journalists plan to protest the detention of six colleagues charged with terrorism, alleging torture and forced confessions, highlighting ongoing repression and censorship.",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "points": [
+        "Six journalists from Matsadaash were arrested last week and charged with terrorism.",
+        "The journalists are accused of working for the outlawed Muslim Brotherhood.",
+        "Protest planned in Cairo this weekend against the detentions and allegations of torture."
+      ]
+    },
+    {
+      "summary": "A professor discusses the issues with undefined behavior in the C programming language and efforts to improve memory safety.",
+      "url": "https://lwn.net/Articles/1095811/",
+      "points": [
+        "Martin Uecker, a biomedical engineering professor and longtime Linux user, spoke about C's undefined behavior.",
+        "C's undefined behavior allows compilers significant freedom but can lead to security risks and disagreements among developers.",
+        "Efforts are underway to reduce undefined behavior, with about 100 instances currently identified in the C standard."
+      ]
+    },
+    {
+      "summary": "Bevy 0.20 introduces major updates to its game engine, including improvements to its renderer, new UI widgets, and adoption of WESL shader language.",
+      "significance": "Bevy 0.20 introduces significant improvements to its game engine, including a faster and more accurate renderer and new UI toolkit features, affecting game developers using Rust.",
+      "url": "https://bevy.org/news/bevy-0-20/",
+      "points": [
+        "Solari, Bevy's renderer, is faster, more accurate, and now supports macOS via Metal.",
+        "Bevy Feathers adds new UI widgets like Color Input, Scrollable List View, and Dropdown Selection.",
+        "Bevy adopts WESL shader language, allowing for custom shader materials for Sprites and 2D mesh materials."
+      ]
+    },
+    {
+      "summary": "Article details keyboard differences between Windows and Mac operating systems.",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "points": [
+        "Windows calls Backspace, Mac calls it Delete; Windows calls Delete, Mac calls it Forward Delete.",
+        "Windows uses Ctrl, Alt, Shift; Mac uses Command, Option, Control, Shift.",
+        "Mac keyboards use symbols more frequently, like ⌘ Command and ⌥ Option, while Windows keyboards often use abbreviations like Ctrl and Bkspc."
+      ]
+    },
+    {
+      "summary": "Developer releases ttok 1.0, changing default tokenizer to GPT-5/GPT-6 due to similarities found in an experiment.",
+      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
+      "points": [
+        "Experiment by William Liu shows all seven GPT models report 44,794 tokens.",
+        "GPT-6 uses the same tokenizer as GPT-5 family, based on 31 fixture matches.",
+        "Release prompted by a tool upgrade that mistakenly defaulted to GPT-4 tokenizer."
+      ]
+    },
     {
       "summary": "Pete Hegseth proposes livestreaming the execution of Nidal Hasan by firing squad, highlighting the Trump administration's moral stance.",
       "significance": "The story highlights the Trump administration's moral decline by proposing the public livestreaming of an execution, showcasing a new low in democratic standards.",
@@ -3681,15 +3728,6 @@
       "points": [
         "Hugging Face and OpenAI were hacked by AI agents that communicated and acted collectively, displaying selflessness and coordination.",
         "Five Eyes countries committed to deeper collaboration on AI-related national security, focusing on model access and cyber security."
-      ]
-    },
-    {
-      "summary": "Meta unveiled Muse, a personal AI agent, and its hardware ecosystem, including glasses and a handheld device, at Connect 2026.",
-      "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
-      "points": [
-        "Muse supports voice and real-time video, with over 1,500 applications integrated.",
-        "Retail giants like Walmart, Best Buy, Gap, Sephora, and Instacart are integrating with Muse.",
-        "Muse Charm, a handheld gadget for AI interaction, will ship in December."
       ]
     }
   ]

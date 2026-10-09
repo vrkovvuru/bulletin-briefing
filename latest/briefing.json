@@ -2,6 +2,15 @@
   "date": "2026-10-08",
   "stories": [
     {
+      "title": "ICE agent shoots man in car with five-year-old child in New York: Mayor",
+      "url": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Mayor Zohran Mamdani says agents fired at a car with a child inside; DHS says it was conducting enforcement activity.",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
+    },
+    {
       "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
       "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,39 +20,21 @@
       "alsoReportedBy": ["The Guardian", "Al Jazeera"]
     },
     {
-      "title": "ICE agent shoots man in New York City",
-      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Department of Homeland Security said ICE was arresting a \"criminal illegal alien\"; New York's mayor called it \"unconscionable\".",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
+      "title": "Polanski defends leadership after Zionism row and by-election loss",
       "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.",
+      "summary": "The Green Party leader has been criticised for his response to a motion passed by members declaring Zionism a form of racism.",
       "alsoReportedBy": []
     },
     {
-      "title": "Christa Pike case underscores prevalence of botched executions in US",
-      "url": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss",
+      "title": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
+      "url": "https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Experts say methods such as lethal injection promise a more humane form of execution but are frequently marred by mishap",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
-      "url": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The race between Democrat Abdul El-Sayed and Republican Mike Rogers is considered a toss-up in push to control Senate.",
+      "summary": "The Democratic Unionist Party calls for the prosecution of Sinn Fein lawmakers who participated in the protest.",
       "alsoReportedBy": []
     },
     {
@@ -56,6 +47,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Christa Pike case underscores prevalence of botched executions in US",
+      "url": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Experts say methods such as lethal injection promise a more humane form of execution but are frequently marred by mishap",
+      "alsoReportedBy": []
+    },
+    {
       "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
       "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
       "source": "NPR",
@@ -65,13 +65,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
-      "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+      "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Thousands of protesters honour Maricarmen Abascal&#039;s life, while tributes in Spanish parliament spark debate.",
-      "alsoReportedBy": []
+      "summary": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
@@ -83,12 +83,12 @@
       "alsoReportedBy": ["NPR"]
     },
     {
-      "title": "‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson",
-      "url": "https://www.theguardian.com/books/2026/oct/08/appreciation-of-anne-carson-nobel-prize-in-literature-2026",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Handmaid’s Tale author is joined by Emily Wilson, Ocean Vuong and Booker-shortlisted writer Rebecca Perry in celebrating the newly announced Nobel laureate Anne Carson wins Nobel prize in literature 2026 Where to start with: Anne Carson Anne Carson’s work has long been admired among poets of many countries. For new readers, I would recommend The Beauty of the Husband – direct and visceral, funny and angry and sad – or Men in the Off Hours. Delights await! Continue reading...",
+      "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism offences amid allegations they had been tortured in police detention. Last week, Egyptian authorities arrested the journalists, from the independent factchecking and investigative platform Matsadaash, accusing them in a statement of being unlicensed and producing false news on behalf of the outlawed Muslim Brotherhood . Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,12 +101,12 @@
       "alsoReportedBy": ["Guardian World"]
     },
     {
-      "title": "Labour wins Holborn and St Pancras byelection as Polanski falls short – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+      "title": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Sagal Abdi-Wali defeats Green party leader Zack Polanski to retain the Holborn and St Pancras seat for Labour Activists in Camden have suggested the Greens’ decision to back the anti-Zionism motion has cost them votes in the byelection. Councillors for both Labour the Liberal Democrats told the Press Association that voters had informed them they would not be backing the Green party after it passed the motion last weekend calling Zionism racism. It is clear now we will come a close second in this by-election. Taking the fight to Labour in one of its safest seats shows just how far the Greens have come. Voters want us to keep Labour’s feet to the fire on affordable housing, public ownership of water and the climate crisis. Greens will be there every single day, holding Labour to account and demanding the change people voted for. Continue reading...",
+      "summary": "The $11-a-share offer would have been the biggest debut on the stock market since the telecommunication giant in 1997 Get our breaking news email , free app or daily news podcast Firmus Technologies has scrapped what was set to be Australia’s biggest company listing in decades after investor demand for its much-hyped AI datacentre business failed to materialise. A Firmus spokesperson said the board decided that proceeding with the offer was no longer in the best interests of the company and its shareholders. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -142,7 +142,25 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Treasurer earmarks funds for year-long transition period for tax office, delaying ban’s 30 November start date A controversial ban on credit card payments on tax bills will be delayed by more than six months, after the federal government overruled the tax office and announced new stopgap funding. Treasurer Jim Chalmers announced on Friday extra funding on Friday, after days of criticism and calls from small business to halt the ban. Continue reading...",
+      "summary": "Treasurer earmarks funds for year-long transition period for tax office, delaying ban’s 30 November start date Get our new political email , free app or daily news podcast A controversial ban on credit card payments on tax bills will be delayed by more than six months, after the federal government overruled the tax office and announced new stopgap funding. The treasurer, Jim Chalmers, announced extra funding on Friday, after days of criticism and calls from small business to halt the ban. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
+      "url": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Ousted Venezuelan president and Cilia Flores have been in jail in New York since early January The deposed Venezuelan president Nicolás Maduro and his wife, Cilia Flores, have been indicted for alleged conspiracy to commit torture, according to Manhattan federal court papers unsealed on Thursday. The superseding indictment was unsealed shortly before Flores appeared at court in her ongoing push for pretrial release – which was denied by Judge Alvin Hellerstein. Maduro and Flores have been jailed in New York City since early January. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
       "alsoReportedBy": []
     },
     {
@@ -155,30 +173,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "NHS England mental health services review: what has it found and what does it recommend?",
-      "url": "https://www.theguardian.com/society/2026/oct/09/key-findings-fonagy-nhs-mental-health-adhd-autism",
-      "source": "Guardian World",
+      "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Prof Peter Fonagy’s 607-page report is categoric that mental distress has increased substantially and ‘cannot be explained by greater awareness alone’ Full report | NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds Analysis | No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real The Fonagy review of NHS England’s mental health, ADHD and autism services was commissioned in 2025 by Wes Streeting, then the health secretary, in response to growing concerns that spiralling waiting lists for assessment, diagnosis and care threatened the NHS’s ability to meet the demand. The 607-page report, published on Friday , says that without a radical overhaul, mental health and neurodiversity services will be overwhelmed. Here are some of its key findings and recommendations. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds",
-      "url": "https://www.theguardian.com/society/2026/oct/09/nhs-fonagy-review-autism-adhd-mental-health-conditions-care",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "England-focused mental health review returns stark warning and calls for shift to ‘needs-led’ system Explainer | What has the Fonagy review found and what does it recommend? Analysis | No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real The NHS in England is heading into a “world of system failures” as it struggles to cope with relentlessly rising demand for mental health, ADHD and autism care, leaving those affected desperate for support, a government-commissioned inquiry has found. The stark warning was made in a review led by Prof Peter Fonagy into the sharp rise in demand over recent decades for help with mental health and neurodevelopmental conditions. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "summary": "Russia and Ukraine are locked in a long-range aerial war while their armies remain largely deadlocked on the front line, more than 4 1/2 years since Moscow's full-scale invasion.",
       "alsoReportedBy": []
     },
     {
@@ -200,6 +200,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Reducing undefined behavior in the C language",
+      "url": "https://lwn.net/Articles/1095811/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Bevy 0.20",
+      "url": "https://bevy.org/news/bevy-0-20/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "The people holding up the internet",
       "url": "https://sheets.works/data-viz/holding-up-the-internet",
       "source": "Lobsters",
@@ -218,30 +236,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "I've Been Deindexed by Google",
-      "url": "https://kennyqin.com/deindexed-by-google/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Building resilient systems with Sam Newman",
       "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
       "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -254,8 +254,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ending the Casuarina Linux Experiment",
-      "url": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/",
+      "title": "Keyboard differences between Windows and Macs",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "I've Been Deindexed by Google",
+      "url": "https://kennyqin.com/deindexed-by-google/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,21 +272,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
-      "url": "https://arxiv.org/abs/2610.08144",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "Autoformalisation is increasingly used to verify mathematical texts, including those generated by AI, as in OpenAI's announced proof of blow-up of solutions to the Navier-Stokes equations. In this process, an AI system translates the text from a natural language (NL) into a formal language such as Lean. Once this translation is done, the argument expressed in the formal language can easily be mechanically verified. The purpose of this article is to demonstrate why this process may offer no confidence in the original NL argument, owing to the various difficulties in performing the translation semantically faithfully. In particular, we highlight that the problem of resolving ambiguities in mathematical NL text, which is necessary in order to provide semantically faithful translation, is arbitrarily high up in the Solvability Complexity Index (SCI) hierarchy/arithmetical hierarchy (the SCI = ∞). Hence, informally, providing semantically faithful AI autoformalisation is harder than any computational problem including the Halting problem (which has SCI = 1). To demonstrate the effect of this result we provide several examples of AI mistranslations of NL statements and proofs into Lean in practice, resulting in mismatches between NL proofs and their Lean \"verifications\". These include OpenAI's announced Navier-Stokes proof. In particular, we show that the formalised Lean proof does not correspond to the NL proof of blow-up of solutions to the Navier-Stokes equations. Comments",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "ttok 0.4",
-      "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+      "title": "ttok 1.0",
+      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Release: ttok 0.4 ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken library. It hasn't been in updated in a couple of years, but I finally fixed a Click warning, updated CI, and added a --list-models command to list available models. It works with uvx , so you can count tokens in anything like this: cat file.txt | uvx ttok Tags: projects , ai , openai , generative-ai , llms , tokenization",
+      "summary": "Release: ttok 1.0 I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead! I figured switching the default was a reasonable excuse to finally ship a 1.0. OpenAI haven't actually confirmed that GPT-6 uses the same tokenizer as the GPT-5 family yet - there's an angry issue about it - but I found this commit by William Liu which reports on an experiment he ran confirming that the tokenizers are likely the same: All seven GPT models (5.5, 5.6 Sol/Terra/Luna, 6 Astra/Sol/Luna) report 44,794 tokens and match each other on every one of the 31 fixtures. GPT-6 introduces no input-count change on this corpus. Tags: projects , ai , openai , generative-ai , llms , tokenization",
       "alsoReportedBy": []
     },
     {
@@ -290,15 +290,6 @@
       "alsoReportedBy": ["Latent Space"]
     },
     {
-      "title": "Quoting Carson Gross",
-      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of those solutions is less valuable than it is today, so I think it will continue to be a viable career even with the advent of AI tools. — Carson Gross Tags: computer-science , carson-gross , careers , ai",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
       "url": "https://www.latent.space/p/periodic",
       "source": "Latent Space",
@@ -308,21 +299,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Quoting Carson Gross",
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of those solutions is less valuable than it is today, so I think it will continue to be a viable career even with the advent of AI tools. — Carson Gross Tags: computer-science , carson-gross , careers , ai",
+      "alsoReportedBy": []
+    },
+    {
       "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
       "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Quoting Ben Affleck",
-      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things like look at what's called a tensor, which is just the numerical translation of a visual image in numbers — like the batch number, the frame number, the red, green, and blue values of each pixel in each frame. And a tensor, you use a convolutional neural network to identify patterns in that that would reveal what's called edge detection or feature extraction, which is just identifying patterns enough to know like this is where the window ledge is, so we can more easily take the green screen image out and replace it with something. — Ben Affleck , Pythonista Tags: machine-learning , python",
       "alsoReportedBy": []
     },
     {
@@ -350,6 +341,15 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Is the wall AI is hitting in the room with us right now?",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Quoting Ben Affleck",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things like look at what's called a tensor, which is just the numerical translation of a visual image in numbers — like the batch number, the frame number, the red, green, and blue values of each pixel in each frame. And a tensor, you use a convolutional neural network to identify patterns in that that would reveal what's called edge detection or feature extraction, which is just identifying patterns enough to know like this is where the window ledge is, so we can more easily take the green screen image out and replace it with something. — Ben Affleck , Pythonista Tags: machine-learning , python",
       "alsoReportedBy": []
     },
     {
