@@ -1,6 +1,90 @@
 {
-  "generated": "2026-10-09T14:43:00.413949Z",
+  "generated": "2026-10-09T16:42:42.009961Z",
   "summaries": [
+    {
+      "summary": "Former child refugee Sagal Abdi-Wali won the Holborn and St Pancras seat, previously held by Keir Starmer, in a victory over Green leader Zack Polanski.",
+      "significance": "Abdi-Wali's election as Labour MP from a refugee background highlights opportunities for inspiration and representation in British politics.",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/sagal-abdi-wali-journey-child-refugee-labour-mp-former-pms-seat-london",
+      "points": [
+        "Abdi-Wali, 43, fled Somalia at age 7 and settled in Camden.",
+        "She described her election as \"deeply personal\" in her speech.",
+        "Abdi-Wali aims to inspire others from similar backgrounds."
+      ]
+    },
+    {
+      "summary": "UK coastguard chief Virginia McVea faces resignation calls for using unverified data to support pay plan.",
+      "url": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
+      "points": [
+        "Virginia McVea cited a poll claiming over 90% support for the pay plan.",
+        "OSR investigation found the poll did not sufficiently back up her claim.",
+        "McVea is head of the Maritime and Coastguard Agency (MCA)."
+      ]
+    },
+    {
+      "summary": "US immigration officer shot a man with a child in the car, sparking protests and calls to curb ICE actions.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
+      "points": [
+        "Leading Democrats, including AOC, demand action against ICE violence.",
+        "Incident occurred in Marble Hill, Bronx, as children returned from school.",
+        "The man was hit in the neck with at least seven shots fired."
+      ]
+    },
+    {
+      "summary": "Trump establishes committee to investigate Fed governor Lisa Cook over mortgage fraud allegations, aiming to oust her.",
+      "url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
+      "points": [
+        "Committee to consult with Justice Department officials to decide on her removal.",
+        "White House to hold an in-person hearing on 5 November, closed to public but transcribed.",
+        "Cook can submit a written statement and will be examined by White House and her legal counsel."
+      ]
+    },
+    {
+      "summary": "Christian Bittar's conviction for rigging interest rates has been quashed, becoming the eighth person to clear their name.",
+      "url": "https://www.theguardian.com/business/2026/oct/09/christian-bittar-conviction-rigging-interest-rates-quashed-euribor",
+      "points": [
+        "Christian Bittar worked for Deutsche Bank.",
+        "Bittar was convicted in 2018 of conspiracy to defraud.",
+        "Five other former bankers were acquitted just days prior to Bittar's case."
+      ]
+    },
+    {
+      "summary": "A comparison of four theorem provers\u2014Isabelle/HOL, Lean, HOL4, and Agda\u2014highlighting their differences in automation, user experience, and foundational logic.",
+      "url": "https://blueberrywren.dev/blog/primes/",
+      "points": [
+        "Isabelle/HOL and HOL4 offer robust automation and classical logic, while Lean has decent automation but lacks partial-automation features.",
+        "Agda is constructive by default with minimal automation, making proof construction more manual and challenging.",
+        "The comparison includes a proof of the infinitude of primes, showcasing differences in user experience and foundational logic between the systems."
+      ]
+    },
+    {
+      "summary": "The article discusses the limitations and frustrations of using coding agents, highlighting their inefficiencies and poor task management despite advancements in AI models.",
+      "significance": "The story highlights the current limitations of coding agents, indicating they are a bottleneck in AI-assisted development despite advancements in underlying models.",
+      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+      "points": [
+        "The honeymoon period with coding agents ended in February 2025 due to frequent bugs and primitive workflows.",
+        "Coding agents fail to multitask effectively, often waiting for tasks to complete before moving on to the next step.",
+        "Agents lack self-awareness and often need to search online for information about their own features and functionalities."
+      ]
+    },
+    {
+      "summary": "Earendil introduces a new system theme for Pi that adapts to the user's terminal settings, focusing on contrast for readability.",
+      "url": "https://earendil.com/posts/system-theme/",
+      "points": [
+        "The system theme now serves as Pi's default, reflecting the user's terminal color choices.",
+        "The ANSI color standard, adopted in 1976, defines eight colors without specifying their appearance.",
+        "Contrast is measured using the WCAG contrast ratio, aiming for at least 4.5:1 for normal text."
+      ]
+    },
+    {
+      "summary": "Cryptography expert Matthew Green discusses the potential risks AI poses to public-key encryption standards.",
+      "significance": "Matthew Green suggests a small but significant risk that AI could undermine public-key encryption, highlighting the need for preemptive security measures.",
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+      "points": [
+        "Matthew Green estimates a 15% chance of losing confidence in current public-key encryption algorithms.",
+        "Green mentions a 1% chance of living in Minicrypt, where public-key encryption is impossible.",
+        "The speed mismatch between AI innovation and human standard updates could lead to security vulnerabilities."
+      ]
+    },
     {
       "summary": "South African judge Navi Pillay won the 2026 Nobel Peace Prize for her work in prosecuting genocide and war crimes.",
       "significance": "Pillay's award recognizes her extensive work in prosecuting genocide and war crimes, impacting global human rights efforts.",
@@ -3648,90 +3732,6 @@
         "Muse offers users a personal Linux VM in Meta\u2019s cloud, marking a technical breakthrough.",
         "Gruber warns consumers may not fully grasp the power and risks associated with Muse.",
         "Muse is described as the first consumer-accessible agentic AI system, presented with a cute mascot."
-      ]
-    },
-    {
-      "summary": "Trump conveyed to Xi Jinping that China's support for Iran is unacceptable, amid Xi's state visit featuring a tour of US founding documents.",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live",
-      "points": [
-        "Trump stated China's assistance to Iran is 'unacceptable' to US.",
-        "Xi Jinping's visit includes a tour of the National Archives.",
-        "The visit features a red carpet welcome and a lavish state dinner."
-      ]
-    },
-    {
-      "summary": "Justice Ketanji Brown Jackson criticized the Supreme Court's handling of emergency requests, known as the \"shadow docket.\"",
-      "significance": "Justice Ketanji Brown Jackson's criticism highlights concerns over the Supreme Court\u2019s use of the \"shadow docket,\" potentially affecting public trust in the judicial system.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/ketanji-brown-jackson-supreme-court-emergency-docket",
-      "points": [
-        "Jackson spoke at the UDC school of law, hours after Trump filed a request.",
-        "She highlighted that the \"shadow docket\" undermines public faith in the judiciary.",
-        "As one of three liberal justices, Jackson expressed concerns about her colleagues' rulings."
-      ]
-    },
-    {
-      "summary": "Five senior Kazakh military officials detained after 14 service members died during a training mission on the Caspian Sea.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "14 service members died when swept into the Caspian Sea during disembarkation.",
-        "Incident occurred 43km from Aktau, due to deteriorating weather conditions.",
-        "Investigation focuses on safety measures and weather considerations during the exercise."
-      ]
-    },
-    {
-      "summary": "White House TV pool resumes filming after a court ruling temporarily lifts Trump's ban on CNN.",
-      "url": "https://www.theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool",
-      "points": [
-        "Court ruling overturned Trump's ban on CNN, allowing TV pool to resume.",
-        "CNN, MS Now, and Politico were banned for \"FAKE NEWS\" reporting.",
-        "NBC, ABC, CBS, and Fox News halted recordings in solidarity with CNN."
-      ]
-    },
-    {
-      "summary": "Prime Minister Andy Burnham rules out a snap election before 2029 amid Labour's poll revival.",
-      "url": "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
-      "points": [
-        "Burnham faced repeated questioning on snap elections during Friday's regional media interviews.",
-        "Speculation arose due to Labour's recent improvement in opinion polls.",
-        "Next scheduled general election is set for 2029, according to Burnham's statement."
-      ]
-    },
-    {
-      "summary": "US Supreme Court lifts restrictions on a federal voter database, a move seen as supporting Trump's push for tighter voting rules.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-trump-citizen-voter-database",
-      "points": [
-        "Trump claims the database combats noncitizen voting.",
-        "Critics argue it may disenfranchise eligible voters.",
-        "Decision comes ahead of November\u2019s midterm elections."
-      ]
-    },
-    {
-      "summary": "Jevmem is an automatic project memory tool for Claude Code, Cursor, and Codex, saving decisions, constraints, bugs, and todos.",
-      "significance": "Jevmem automates saving project decisions and constraints for Claude Code, enhancing project memory and efficiency.",
-      "url": "https://github.com/Avinash-jetwani/jevmem",
-      "points": [
-        "Jevmem uses Postgres 16 for the primary store.",
-        "Node 20 is the minimum requirement, with CI running on Node 20 and 22.",
-        "Jevmem's median decision time is 0.30 seconds, significantly faster than other LLMs."
-      ]
-    },
-    {
-      "summary": "Florida Republican introduces bill requiring warrants for federal agencies to use Flock Safety cameras.",
-      "significance": "The bill aims to protect privacy by requiring warrants for access to license plate reader data, responding to public concerns over surveillance.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/florida-warrants-flock-camera-greg-steube",
-      "points": [
-        "Bill introduced by Greg Steube requires warrants for federal agencies to access license plate reader data.",
-        "Flafo Act makes DOJ grants to local police conditional on adopting similar warrant rules.",
-        "Legislation comes amid nationwide backlash against surveillance company Flock Safety."
-      ]
-    },
-    {
-      "summary": "The article discusses the importance of first principles thinking in engineering and problem-solving.",
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "points": [
-        "Senior engineers often get stuck due to past experiences and need to approach problems differently.",
-        "Thinking from first principles helps engineers understand the basics of what they are building and its impact.",
-        "Embracing uncertainty and setting aside past knowledge can lead to better problem-solving and innovation."
       ]
     }
   ]

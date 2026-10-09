@@ -2,13 +2,22 @@
   "date": "2026-10-09",
   "stories": [
     {
-      "title": "Who is Navi Pillay, winner of the 2026 Nobel Peace Prize?",
-      "url": "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is serving as a judge at the international court of justice (ICJ), has “shown that legal measures can help prevent acts of war and violence”. Continue reading...",
+      "alsoReportedBy": ["BBC News", "Al Jazeera"]
+    },
+    {
+      "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
+      "url": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The 85-year-old South African judge has spent decades fighting apartheid and genocide.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+      "summary": "The major storm is expected to make landfall along the US Gulf Coast later on Friday or early Saturday.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
@@ -20,6 +29,33 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
+      "title": "UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Analysis: Plan to livestream execution puts US in dubious company Sign up for the US Breaking News email In a statement to the Guardian, Robin M Maher , the executive director of the Death Penalty Information Center, said that her group is “not aware of any regulation or precedent for a military execution to be live streamed on the internet or otherwise made widely available to the public”. She added that “public executions are typically held in authoritarian countries to instil fear in the population, and to show the power and control of the government.” Continue reading...",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
+      "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Belgian police respond to &#039;troublemakers&#039; on sidelines of main rally with tear gas, water cannon and baton charges.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "How the oil industry is preparing for Hurricane Isaias",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Anthropic bans users from being 'cruel' to its AI systems",
       "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -29,12 +65,12 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Ethiopia and Eritrea accuse one another of launching war",
-      "url": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss",
+      "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
+      "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Eritrea denies backing TPLF as Ethiopia alleges collusion, further straining their already volatile relationship.",
+      "summary": "Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.",
       "alsoReportedBy": []
     },
     {
@@ -47,66 +83,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Bangladesh’s mango diplomacy with India has reached its limits",
-      "url": "https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Cultural gestures have kept relations from collapsing, but repairing ties with India will require tough negotiations.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
-      "url": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Winning the Nobel prize in literature only underlines Anne Carson’s infinite genius | Yiyun Li",
       "url": "https://www.theguardian.com/books/2026/oct/09/winning-the-nobel-prize-in-literature-anne-carson-yiyun-li",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "When her sons died, the Book of Goose author turned to Grief Lessons, Carson’s translation of four plays by Euripides. She reflects on the ‘life sustaining’ work of an extraordinary writer • Where to start with: Anne Carson • ‘Delights await!’: Margaret Atwood and other writers on Anne Carson It is preposterous to agree to write a short piece on Anne Carson’s work. The task is impossible, akin to that of solving the mathematical problem of dividing zero by zero. If one had the power to solve it, perhaps one would have some confidence in attempting to write about Anne Carson’s work. Attempting, I say, not succeeding. In attempting to do so, I shall emphasise that all words fall short in extreme situations, which not only include unfathomable losses ( of children, in my case ) but also include articulating anything about Anne Carson’s work. One could start with Carson’s words. “Words, if you let them, will do what they want to do and what they have to do.” (Autobiography of Red) But to let the words exist in their own desires and yearnings and frustrations and confusions, to let the words scream with inarticulable pain or tell a riddle with a twinkling smile or make love to one another – how many of us have achieved that kind of mastery of words? But, oh no, mastery is the wrong word here. Only the minor and the greedy and the power-thirsty writers want to be the masters of the words. Carson does not subjugate or manipulate her words. She lets them be; and lets herself be led by the words – hers, and the ancients’ translated into unforgettable English by her. Continue reading...",
+      "summary": "When her sons died the Book of Goose author turned to Grief Lessons, Carson’s translation of four plays by Euripides. She reflects on the ‘life sustaining’ work of an extraordinary writer • Where to start with: Anne Carson • ‘Delights await!’: Margaret Atwood and other writers on Anne Carson It is preposterous to agree to write a short piece on Anne Carson’s work. The task is impossible, akin to that of solving the mathematical problem of dividing zero by zero. If one had the power to solve it, perhaps one would have some confidence in attempting to write about Anne Carson’s work. Attempting, I say, not succeeding. In attempting to do so, I shall emphasise that all words fall short in extreme situations, which not only include unfathomable losses ( of children, in my case ) but also include articulating anything about Anne Carson’s work. One could start with Carson’s words. “Words, if you let them, will do what they want to do and what they have to do.” (Autobiography of Red) But to let the words exist in their own desires and yearnings and frustrations and confusions, to let the words scream with inarticulable pain or tell a riddle with a twinkling smile or make love to one another – how many of us have achieved that kind of mastery of words? But, oh no, mastery is the wrong word here. Only the minor and the greedy and the power-thirsty writers want to be the masters of the words. Carson does not subjugate or manipulate her words. She lets them be; and lets herself be led by the words – hers, and the ancients’ translated into unforgettable English by her. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Analysis: Plan to livestream execution puts US in dubious company Sign up for the US Breaking News email In a statement to the Guardian, Robin M. Maher , the executive director of the Death Penalty Information Center, said that her group is “not aware of any regulation or precedent for a military execution to be live streamed on the internet or otherwise made widely available to the public”. She added that “public executions are typically held in authoritarian countries to instil fear in the population, and to show the power and control of the government.” Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why American investors love European defense startups",
-      "url": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year. One reason why: European investment firms have restrictions on how they can invest.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is serving as a judge at the international court of justice (ICJ), has “shown that legal measures can help prevent acts of war and violence”. Continue reading...",
-      "alsoReportedBy": ["Guardian World"]
-    },
-    {
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
       "alsoReportedBy": []
     },
     {
@@ -119,12 +110,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Green MP Siân Berry says opponents of Zionism motion were ‘persuaded’ not to fight it because of byelection – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+      "title": "‘The real deal’: Sagal Abdi-Wali’s journey from child refugee to Labour MP in former PM’s seat",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/sagal-abdi-wali-journey-child-refugee-labour-mp-former-pms-seat-london",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The MP says that passing the motion has done ‘genuine damage; to the party’s reputation Report: Labour wins Holborn and St Pancras byelection Analysis: defeat will disappoint Greens – but there may also be relief Activists in Camden have suggested the Greens’ decision to back the anti-Zionism motion has cost them votes in the byelection. Councillors for both Labour the Liberal Democrats told the Press Association that voters had informed them they would not be backing the Green party after it passed the motion last weekend calling Zionism racism. It is clear now we will come a close second in this by-election. Taking the fight to Labour in one of its safest seats shows just how far the Greens have come. Voters want us to keep Labour’s feet to the fire on affordable housing, public ownership of water and the climate crisis. Greens will be there every single day, holding Labour to account and demanding the change people voted for. Continue reading...",
+      "summary": "Decades of volunteering combined with years of active local party politics, propels Abdi-Wali to victory over Green leader Zack Polanski For Sagal Abdi-Wali, the new MP for Holborn and St Pancras, being elected to replace Keir Starmer in the north London constituency is “deeply personal”, she said in her acceptance speech. The 43-year-old has lived in the area since the 1990s when, as a seven-year-old, she fled war-torn Somalia with her mother and four brothers, eventually settling in Gospel Oak in Camden, which largely falls within the constituency. Her journey from refugee to member of parliament was one which she hoped would inspire “people who look like me”, she said. “This is Camden and this is Britain.” Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -137,49 +128,58 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Two Renoir paintings stolen from French museum are recovered",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera.",
+      "summary": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
       "alsoReportedBy": []
     },
     {
-      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
+      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
       "alsoReportedBy": []
     },
     {
-      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Democratic Senate candidate responds to anti-trans attacks pushed by Republicans",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/democratic-senate-candidate-reponse-anti-trans-attacks",
+      "title": "UK coastguard agency chief faces calls to resign over use of unverified data to back up pay plan",
+      "url": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Dr Annie Andrews voices opposition to ‘biological men ... in women’s sports’ in response to Republican attacks Dr Annie Andrews , a Democratic Senate candidate in South Carolina, has responded to persistent efforts by Republicans to make trans athletes in women’s sports a wedge issue in the race. In a restrained direct-to-camera statement, Andrews – a pediatrician – outlined her opposition to “biological men playing in women’s sports”, as her party pushes back against Republican attacks. Continue reading...",
+      "summary": "Regulator says poll cited by Virginia McVea in move to strip rescue officers of pay did not sufficiently back up her claim The head of the UK coastguard agency is facing calls to resign after she was found to have used unverified data to back up her controversial plan to strip rescue officers of their pay. Virginia McVea, the chief executive of the Maritime and Coastguard Agency (MCA), claimed more than 90% of coastguard rescue officers supported the proposal, citing an official survey. Now, after an Office for Statistics Regulation (OSR) investigation, the agency has admitted its poll did not sufficiently back up the claim. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Adidas sues Australian label White Fox over four stripes design",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-      "alsoReportedBy": ["Guardian World"]
+      "summary": "US immigration officer shot man in car where five-year-old child was sitting in the Bronx, sparking fierce protests Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs Enforcement ( ICE ) violence after a federal officer shot a man driving a car in which his five-year-old son was sitting, sparking fierce protests . At least seven shots were reportedly fired and the man was hit in the neck late on Thursday afternoon as children were coming home from school in the busy Marble Hill neighborhood of the south Bronx in New York City. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump establishes committee to investigate Fed governor Lisa Cook",
+      "url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "US president renews his efforts to oust Cook despite supreme court ruling that her firing was unconstitutional Donald Trump announced on Friday that he is establishing a committee to investigate Lisa Cook, the US Federal Reserve governor, over allegations that she committed mortgage fraud, renewing his efforts to oust her despite a June supreme court ruling that her earlier firing was unconstitutional. Trump said a committee will consult with justice department officials to decide whether there is “cause” for her removal. The White House will hold an in-person hearing on 5 November to consider the allegations against Cook, which will be closed to the public but transcribed and published. Cook will be able to submit a written statement to present her own evidence and will be subject to examination from White House and her own legal counsel. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Christian Bittar has conviction for rigging interest rates quashed",
+      "url": "https://www.theguardian.com/business/2026/oct/09/christian-bittar-conviction-rigging-interest-rates-quashed-euribor",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Former City banker becomes eighth to clear their name, just days after five others were acquitted Former City trader Christian Bittar has become the eighth person to have his conviction for rigging interest rates quashed, just days after five other former bankers also successfully cleared their names . Christian Bittar, who previously worked for Deutsche Bank, was convicted in 2018 of conspiracy to defraud. Continue reading...",
+      "alsoReportedBy": []
     },
     {
       "title": "Deno Is Joining Cloudflare",
@@ -218,6 +218,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
+      "url": "https://blueberrywren.dev/blog/primes/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "source": "Hacker News",
@@ -227,8 +236,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Bevy 0.20",
-      "url": "https://bevy.org/news/bevy-0-20/",
+      "title": "Why Are Coding Agents So Dumb?",
+      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -245,15 +254,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "64-Day Certificate Lifetimes Coming Feb 2027",
-      "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "The state of the tech industry in 2026",
       "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
       "source": "Pragmatic Engineer",
@@ -263,13 +263,22 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
-      "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
-      "source": "Hacker News",
+      "title": "There are many themes, but this one is yours",
+      "url": "https://earendil.com/posts/system-theme/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
+    },
+    {
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with the very best AI assistance) are just orders of magnitude different. You only recover from a surprise like this if you do the preparation in advance. — Matthew Green , on Twitter. I looked it up and Minicrypt is Russell Impagliazzo’s hypothetical world in which public-key encryption is impossible. Tags: ai-security-research , matthew-green , cryptography , standards , llms , ai , generative-ai",
+      "alsoReportedBy": ["Simon Willison"]
     },
     {
       "title": "A new feature for my blog, built using my voice",
@@ -290,21 +299,21 @@
       "alsoReportedBy": ["Latent Space"]
     },
     {
-      "title": "ttok 1.0",
-      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: ttok 1.0 I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead! I figured switching the default was a reasonable excuse to finally ship a 1.0. OpenAI haven't actually confirmed that GPT-6 uses the same tokenizer as the GPT-5 family yet - there's an angry issue about it - but I found this commit by William Liu which reports on an experiment he ran confirming that the tokenizers are likely the same: All seven GPT models (5.5, 5.6 Sol/Terra/Luna, 6 Astra/Sol/Luna) report 44,794 tokens and match each other on every one of the 31 fixtures. GPT-6 introduces no input-count change on this corpus. Tags: projects , ai , openai , generative-ai , llms , tokenization",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
       "url": "https://www.latent.space/p/periodic",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "ttok 1.0",
+      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Release: ttok 1.0 I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead! I figured switching the default was a reasonable excuse to finally ship a 1.0. OpenAI haven't actually confirmed that GPT-6 uses the same tokenizer as the GPT-5 family yet - there's an angry issue about it - but I found this commit by William Liu which reports on an experiment he ran confirming that the tokenizers are likely the same: All seven GPT models (5.5, 5.6 Sol/Terra/Luna, 6 Astra/Sol/Luna) report 44,794 tokens and match each other on every one of the 31 fixtures. GPT-6 introduces no input-count change on this corpus. Tags: projects , ai , openai , generative-ai , llms , tokenization",
       "alsoReportedBy": []
     },
     {
@@ -350,15 +359,6 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of those solutions is less valuable than it is today, so I think it will continue to be a viable career even with the advent of AI tools. — Carson Gross Tags: computer-science , carson-gross , careers , ai",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-      "url": "https://www.latent.space/p/stacklok",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud.",
       "alsoReportedBy": []
     }
   ]
