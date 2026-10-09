@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-09T20:41:22.914715Z",
+  "generated": "2026-10-09T22:41:12.271396Z",
   "summaries": [
+    {
+      "summary": "Trump appointed Katie Zacharia as the new White House press secretary, succeeding Karoline Leavitt.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
+      "points": [
+        "Zacharia described as a \"devoted fan\" by Trump.",
+        "Karoline Leavitt left the role at the end of August after giving birth.",
+        "Zacharia is a conservative commentator taking on the spokesperson role."
+      ]
+    },
+    {
+      "summary": "A motorist attempting to beat a traffic light caused a crash in New York City's Bronx, killing one and injuring nine.",
+      "significance": "The story highlights the deadly consequences of reckless driving, affecting multiple lives in New York City's Bronx.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/new-york-city-car-crash",
+      "points": [
+        "The crash occurred in the Allerton neighborhood shortly after 2pm.",
+        "The driver reportedly tried to beat a traffic light, hitting pedestrians and causing a chain-reaction.",
+        "At least one person was killed and nine others were injured in the incident."
+      ]
+    },
+    {
+      "summary": "Hurricane Isaias, a category 3 storm, approaches the US Gulf coast, prompting emergency declarations in three states.",
+      "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
+      "points": [
+        "Alabama, Florida, and Mississippi declare emergencies ahead of Isaias.",
+        "Isaias expected to cause a \"life-threatening storm surge\" upon landfall.",
+        "Forecast predicts landfall on Friday night along western Florida Panhandle."
+      ]
+    },
+    {
+      "summary": "Adidas is suing Australian label White Fox for using a four-stripe design Adidas claims is deceptively similar to its trademark three-stripe design.",
+      "url": "https://www.theguardian.com/business/2026/oct/09/adidas-white-fox-fashion-australia-trading-branding-sydney-ntwnfb",
+      "points": [
+        "Adidas filed the lawsuit in the Federal Court of Australia.",
+        "White Fox's design uses four stripes instead of Adidas's trademark three stripes.",
+        "Adidas accuses White Fox of trading off its reputation through design similarity."
+      ]
+    },
+    {
+      "summary": "A Canadian YouTuber was visited by police after he set up an ALPR camera to track police cars.",
+      "significance": "The story highlights the double standards in law enforcement's attitude towards surveillance technology when used by civilians versus authorities.",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "points": [
+        "Anthony Sistilli, a YouTuber from Brampton, Ontario, built an ALPR camera to track police vehicles.",
+        "Police visited Sistilli to inquire about his intentions with the data collected from the camera.",
+        "Sistilli's city, Brampton, recently approved the use of high-resolution cameras with ALPR technology."
+      ]
+    },
     {
       "summary": "US defense secretary's plan for a public execution is likened to Iran's practices.",
       "url": "https://www.theguardian.com/us-news/2026/oct/09/fort-hood-public-execution-us-iran",
@@ -3688,51 +3735,6 @@
         "Delegations from multiple countries were visibly absent or left during Netanyahu's speech.",
         "Protest was due to Israel\u2019s ongoing war in Gaza.",
         "Specific countries' actions not detailed in the provided text."
-      ]
-    },
-    {
-      "summary": "President Trump hosted Chinese President Xi Jinping for a state visit, focusing on pageantry and extending a trade truce.",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-      "points": [
-        "The trade truce was extended by two months, allowing continued access to rare earth elements and semiconductor chips.",
-        "Xi Jinping emphasized historical cooperation, mentioning the \"Thucydides trap\" and praising a \"new chapter\" in relations."
-      ]
-    },
-    {
-      "summary": "New Jersey's lieutenant governor, Dale Caldwell, resigned after being accused of sexual harassment and ethics violations.",
-      "significance": "The resignation highlights ongoing consequences for sexual harassment in politics, affecting New Jersey's leadership and potentially influencing future misconduct responses.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell",
-      "points": [
-        "Dale Caldwell resigned following a report of sexual harassment and ethics violations.",
-        "Governor Mikie Sherrill announced Caldwell's resignation on Friday.",
-        "The investigation found Caldwell violated state ethics rules and harassed a female staffer."
-      ]
-    },
-    {
-      "summary": "Idaho officials suggest a man found dead in a church decades ago may be linked to the unsolved 1982 Tylenol murders in Chicago.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/idaho-cold-case-1982-tylenol-murders",
-      "points": [
-        "Detective Tim Cooper reopened the cold case investigation in 2019.",
-        "The identified man, Dr Mathew Francis Betkouski, died by cyanide poisoning over 40 years ago.",
-        "Betkouski was buried anonymously after his death."
-      ]
-    },
-    {
-      "summary": "Trump administration removes 760,000 from ACA marketplace, investigates 420,000 for fraud.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-aca-health-insurance",
-      "points": [
-        "760,000 people removed from Affordable Care Act marketplace.",
-        "420,000 people under investigation for suspected fraud.",
-        "Six-month moratorium on new agents and brokers selling Obamacare policies."
-      ]
-    },
-    {
-      "summary": "Tigrayan rebels advance into Afar and Amhara, forming a new alliance to overthrow Abiy Ahmed's government, raising fears of renewed civil war.",
-      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "points": [
-        "About 600,000 people died in the 2020-2022 conflict between Ethiopian army and TPLF.",
-        "Rebels target neighbouring states of Afar and Amhara.",
-        "New rebel alliance aims to overthrow Prime Minister Abiy Ahmed's government."
       ]
     }
   ]
