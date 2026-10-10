@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-10T14:42:00.539895Z",
+  "generated": "2026-10-10T16:41:05.753386Z",
   "summaries": [
+    {
+      "summary": "Thousands protest in London supporting Palestinians, marching towards parliament.",
+      "significance": "The march follows Ed Miliband's declaration that Israel\u2019s occupation of the West Bank is unlawful, showing continued public support for Palestinians.",
+      "url": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
+      "points": [
+        "Protesters gathered on Embankment, marching towards parliament with placards.",
+        "Event marks first since Ed Miliband stated UK views Israel\u2019s West Bank occupation as unlawful.",
+        "A two-minute silence was held to honor lives lost in Gaza."
+      ]
+    },
+    {
+      "summary": "A person received a reward check from Donald Knuth for finding an error in his book \"Computer Modern Typefaces.\"",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check",
+      "points": [
+        "The error was found on page one, the very first word of the book.",
+        "The initial reward was $2.88, represented as \"0x$1.20\" in hexadecimal.",
+        "A subsequent proposed error was incorrect, but the person received an additional $0.32 for a good suggestion."
+      ]
+    },
+    {
+      "summary": "Rampart is an on-device PII filtering system that redacts personal information before it leaves the user's device.",
+      "significance": "Rampart enables on-device PII redaction in browsers, ensuring personal information privacy without relying on potentially insecure remote servers.",
+      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "points": [
+        "Rampart uses regular expressions and MiniLM to redact structured and contextual PII.",
+        "The system supports seven languages and operates entirely within the browser.",
+        "It redacts information such as SSNs, credit cards, and names to protect user privacy."
+      ]
+    },
     {
       "summary": "Yemen has slid back into full-scale war as government forces fight against Houthi rebels, causing civilian casualties and displacement.",
       "significance": "The story indicates Yemen has returned to full-scale war, affecting over 200,000 displaced civilians and threatening regional stability.",
@@ -3711,33 +3740,6 @@
         "Ban includes operation, offering, intermediation, and advertising of betting.",
         "Decision made a week before the first round of presidential elections.",
         "President describes measure as 'hard, drastic and necessary'."
-      ]
-    },
-    {
-      "summary": "Venezuelan man shot by ICE officers during a traffic stop in Texas needs surgery to avoid losing feeling in his body.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/venezuelan-man-ice-shooting-austin-texas",
-      "points": [
-        "Wilber Rafael Garcés Pérez, 28, has a bullet lodged in his back.",
-        "Pérez has been in detention for five days since the shooting.",
-        "ICE quickly moved him from the hospital in Austin after the incident on Sunday."
-      ]
-    },
-    {
-      "summary": "UK government intensifies efforts to outlaw for-profit ticket resale amid pressure from artists.",
-      "url": "https://www.theguardian.com/business/2026/sep/26/work-intensifying-uk-laws-stamp-out-concert-ticket-touts",
-      "points": [
-        "Keir Starmer pledged to \"stop fans from being ripped off\" by ticket touts.",
-        "Artists like Tinie Tempah and Mike Joyce from the Smiths pressured the government.",
-        "New laws aim to ban for-profit resale on platforms like Viagogo and StubHub."
-      ]
-    },
-    {
-      "summary": "Thomas Jefferson's 1787 letter advising on national prosperity is for sale, with warnings relevant to Trump.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/thomas-jefferson-letter-trump-warning",
-      "points": [
-        "Letter advises on peace, debt repayment, and agricultural support.",
-        "Written in Paris to David Rittenhouse, a member of the American Philosophical Society.",
-        "Jefferson's notes caution against actions similar to those taken by Trump."
       ]
     }
   ]
