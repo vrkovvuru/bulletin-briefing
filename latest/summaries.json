@@ -1,6 +1,127 @@
 {
-  "generated": "2026-10-10T04:41:12.344509Z",
+  "generated": "2026-10-10T12:43:26.659222Z",
   "summaries": [
+    {
+      "summary": "A graffiti artist in Spain honored 'Maricarmen', an 87-year-old symbol of Spain's housing crisis, through street art.",
+      "significance": "An artist's graffiti commemorates 'Maricarmen', symbolizing Spain's housing crisis and honoring a figure in the fight for housing rights.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/graffiti-artist-honours-spains-housing-rights-figure?traffic_source=rss",
+      "points": [
+        "Maricarmen, 87, lost her home and became a symbol of Spain\u2019s housing affordability issues.",
+        "The artist used graffiti to commemorate Maricarmen posthumously.",
+        "Maricarmen's plight highlighted the severe housing crisis in Spain."
+      ]
+    },
+    {
+      "summary": "Influencer Nara Smith clarifies her lifestyle choices and rejects labels like \"tradwife.\"",
+      "url": "https://www.theguardian.com/media/2026/oct/10/nara-aziza-smith-influencer-model-actor-mother-four-not-tradwife",
+      "points": [
+        "Smith, 25, has four children and makes everything from toothpaste to frozen yoghurt.",
+        "She denies having a secret agenda or promoting a 1950s housewife archetype.",
+        "Smith also clarifies she is not Mormon, despite her husband Lucky Blue Smith's background."
+      ]
+    },
+    {
+      "summary": "French students protest frequently due to ingrained revolutionary spirit, unlike British students who rarely engage in collective action.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/10/angry-french-students-protests-british-dont-why",
+      "points": [
+        "French education emphasizes revolutionary history, fostering a tradition of protest.",
+        "British youth face issues like student debt and housing crises but rarely protest.",
+        "Kitty Sayers, a journalism student, contrasts her experiences in France and Britain."
+      ]
+    },
+    {
+      "summary": "FDA proposes expanding a loophole to allow toxic chemicals in food without safety review if not carcinogenic and below 0.5 ppb.",
+      "significance": "The story matters because it highlights a potential FDA policy change that could allow toxic chemicals in food without safety reviews, alarming experts.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
+      "points": [
+        "Proposal expands loophole for chemicals in food contact materials to include direct food additives.",
+        "Current loophole allows dangerous compounds without review if not carcinogenic and below 0.5 parts per billion.",
+        "Experts express alarm over the potential health risks of this proposal."
+      ]
+    },
+    {
+      "summary": "Longest-serving congresswoman Marcy Kaptur faces backlash over anti-transgender ad in Ohio race.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/marcy-kaptur-ohio-trans-ad",
+      "points": [
+        "Kaptur, in Congress since 1983, released ad criticizing transgender ideology in schools.",
+        "Ad states Kaptur voted with Republicans to keep transgender ideology out of schools.",
+        "Kaptur argues parents know best for their children, boys should not play in girls' sports."
+      ]
+    },
+    {
+      "summary": "Union protests TSA's removal of chairs for checkpoint staff to enforce professionalism.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs",
+      "points": [
+        "AFGE demands reinstatement of chairs for TSA workers.",
+        "TSA staff morale is reported to be plunging.",
+        "Chair removal ordered by the Trump administration."
+      ]
+    },
+    {
+      "summary": "Chicago archdiocese dedicated the first US memorial for suicide victims at Queen of Heaven cemetery.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/suicide-memorial-chicago-catholic-church",
+      "points": [
+        "Memorial honors lives lost to suicide and supports surviving families.",
+        "Rev Charles Rubey's work in supporting suicide loss families is recognized.",
+        "Rubey founded Loving Outreach to Survivors of Suicide in 1979."
+      ]
+    },
+    {
+      "summary": "A Danish IT company's use of the password \"123456\" led to a massive data breach of Denmark\u2019s CPR register.",
+      "significance": "The use of a simple password \"123456\" in a major data breach highlights critical security failures, affecting 8.8 million individuals in Denmark.",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "points": [
+        "At least three accounts, including an administrator, used the password \"123456\".",
+        "The breach exposed information linked to around 8.8 million CPR numbers.",
+        "The hacker had access to the CPR register for 21 days and 17 hours starting from September 10."
+      ]
+    },
+    {
+      "summary": "Standard C lacks a portable method for checking string-to-float conversion errors.",
+      "url": "https://sebsite.pw/w/20261009-strtod.html",
+      "points": [
+        "POSIX specifies stricter requirements than standard C for overflow/underflow.",
+        "Underflow detection is optional and implementation-defined.",
+        "Error checking for malformed strings is not standardized, leading to non-portable behavior."
+      ]
+    },
+    {
+      "summary": "Talorys is a free, open-source personal AI assistant running on Cloudflare's free tier, offering chat, memory, tasks, and reminders.",
+      "url": "https://github.com/rociiu/talorys",
+      "points": [
+        "Deployed with a single command: `npx create-talorys@latest`.",
+        "Operates within one Cloudflare account, designed for single-user use.",
+        "No telemetry, uses Cloudflare's Workers AI for chat and reminders."
+      ]
+    },
+    {
+      "summary": "Apple's macOS has been removed from the official Unix registry, impacting its certified status.",
+      "url": "https://www.opengroup.org//openbrand/register/",
+      "points": [
+        "macOS is no longer listed as a certified Unix system by The Open Group.",
+        "UNIX certification ensures portability, compatibility, and interoperability across systems.",
+        "Removal affects macOS's status as a trusted and open system industry standard."
+      ]
+    },
+    {
+      "summary": "REA tool allows users to inspect and reverse-engineer program setups and functions.",
+      "url": "https://rea.tools/",
+      "points": [
+        "REA inspected Windows Calculator 11.2508.4.0, x64, using version 4.1.0.",
+        "After 4,000 updates, speed was 10.0; after 10,000, it was 13.0.",
+        "Users can inspect functions, strings, and call relationships in browser or process activity."
+      ]
+    },
+    {
+      "summary": "TypeSafe/Jev achieves over $100M ARR and a $7.5B valuation just three weeks after launch, setting a new benchmark in decision models.",
+      "significance": "TypeSafe/Jev's rapid success sets a new benchmark for decision models, influencing industry standards and competition in AI technology.",
+      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "points": [
+        "TypeSafe/Jev benchmarks at 94.5% accuracy across 1,071 cases.",
+        "Jev accepts text and images, costing $0.10/M input tokens and is up to 10x faster.",
+        "LangSmith uses Jev as a judge, returning typed answers for difficulty and correctness."
+      ]
+    },
     {
       "summary": "Three men were found guilty of murdering Australian surfing brothers and their American friend in Mexico in 2024.",
       "significance": "Three men convicted for the murders of Australian surfers and their American friend bring closure to the victims' families.",
@@ -3615,129 +3736,6 @@
         "TikTok to pay Alabama a minimum of $100 million.",
         "Settlement includes time limits and other restrictions for teenage users.",
         "Agreement modeled after Meta\u2019s deal with US states, avoiding trial."
-      ]
-    },
-    {
-      "summary": "Russia targets Ukraine\u2019s digital infrastructure by attacking ISPs and datacenters in Kyiv, causing internet outages.",
-      "url": "https://www.theguardian.com/world/2026/sep/26/russia-strikes-ukraine-digital-economy-attacks-isps-datacentres",
-      "points": [
-        "About 100,000 households in Kyiv and surrounding areas experienced internet outages.",
-        "Strikes occurred on Wednesday and Thursday, targeting the digital backbone of Ukraine\u2019s economy.",
-        "Attacks aim to disrupt vital networks supporting banks, payment systems, and public services."
-      ]
-    },
-    {
-      "summary": "White House excludes CNN from Air Force One, escalating conflict with media.",
-      "significance": "The story highlights escalating tensions between the White House and news media, impacting press freedom and public information access.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
-      "points": [
-        "CNN blocked from flying with Trump to Tennessee for a football game.",
-        "Exclusion confirmed by White House not listing CNN in press guidance.",
-        "Incident marks latest in ongoing tensions between White House and news media."
-      ]
-    },
-    {
-      "summary": "The article discusses the need for more mathematicians to understand and contribute to AI-generated mathematical ideas and breakthroughs.",
-      "significance": "The story highlights the need for more mathematicians to keep pace with AI-generated mathematical ideas, preventing a放弃人类理解和贡献的深刻弃权行为。",
-      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "points": [
-        "AI systems are producing new mathematical ideas that humans may struggle to keep up with.",
-        "The author argues for the importance of human understanding in validating and interpreting AI-generated designs, such as a one terawatt nuclear fusion power plant.",
-        "There is a call for expanding the number of mathematically sophisticated researchers globally to meet the challenges posed by AI advancements."
-      ]
-    },
-    {
-      "summary": "David Heinemeier Hansson, creator of Ruby on Rails, shifted focus to LLMs and Rust at Rails World 2026, signaling a significant change in his vision for Rails.",
-      "url": "https://jardo.dev/what-about-rails",
-      "points": [
-        "DHH claims he wrote 150k lines of code in August 2023, mostly in Rust, compared to 30k lines per month previously.",
-        "Ruby's share of his coding dropped from about 50% over two decades to just 3% in 2023.",
-        "He envisions a future where hand-written code is rare, advocating for LLM-generated code and CLI interactions."
-      ]
-    },
-    {
-      "summary": "Pope Leo XIV made his first official Papal visit to France in nearly 20 years, drawing large crowds.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss",
-      "points": [
-        "Pope Leo XIV's visit to France marks the first official Papal visit in 18 years.",
-        "The Pope addressed thousands of young people at the Stade de France.",
-        "Large crowds gathered for the Pope's mass and message of encouragement."
-      ]
-    },
-    {
-      "summary": "Six-year-old Chinese girl sets women\u2019s Rubik\u2019s Cube world record with average solve time of over four seconds.",
-      "significance": "The story highlights the intense training and early specialization in competitive activities among young Chinese children, impacting views on childhood development and competition.",
-      "url": "https://www.theguardian.com/world/2026/sep/26/dream-come-true-six-year-old-rubiks-cube-world-record",
-      "points": [
-        "Lian Yunzhi trains up to three hours daily for competitions.",
-        "Mother describes daughter's achievement as a \"dream come true.\"",
-        "Lian receives autograph requests from fellow students post-achievement."
-      ]
-    },
-    {
-      "summary": "Trump cancels nearly $1bn in Congress-approved funding for immigrant services and diversity initiatives.",
-      "significance": "Trump's action affects immigrant services and alters funding allocations despite congressional approval.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
-      "points": [
-        "Trump uses rare power to revoke $1bn in approved expenditures.",
-        "Funding cut targets \"most harmful government spending\" on immigrant services.",
-        "Move affects diversity-focused initiatives with bipartisan Congressional backing."
-      ]
-    },
-    {
-      "summary": "South Africa's deputy national police commissioner charged with raping an 18-year-old and grooming a 16-year-old.",
-      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
-      "points": [
-        "Shadrack Sibiya already suspended over political killings investigation interference.",
-        "Sibiya faces additional charges including people trafficking and promoting child sexual grooming.",
-        "Arrest occurs amid national concerns over police corruption and violence against women."
-      ]
-    },
-    {
-      "summary": "The article discusses how AI is transforming computing, blurring lines between users and programmers, and changing the concept of operating systems.",
-      "significance": "The story highlights how AI is fundamentally altering the relationship between users and computers, potentially making programming more accessible and changing software distribution.",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "points": [
-        "AI allows users to create personalized applications using natural language.",
-        "Traditional software distribution and application concepts are becoming obsolete.",
-        "The future involves more personalized, small-scale applications rather than mass-produced software."
-      ]
-    },
-    {
-      "summary": "Melburnians protest a council ban on drinking in Canning Street's median strip with a picnic.",
-      "significance": "Melburnians protest a council ban on drinking in a beloved picnic spot, preserving a local tradition of outdoor socializing.",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
-      "points": [
-        "Protesters gathered with punch bowls, chips, and laughter.",
-        "The event took place on a spring evening in Carlton.",
-        "Picnickers set up tables with tablecloths and flowers, defying the ban."
-      ]
-    },
-    {
-      "summary": "FBI agents express fear and anger over a data breach that compromised personal and private information of the entire workforce.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "ShinyHunters, an English-speaking hacking group, breached FBI systems and threatens to publish stolen data within four days.",
-        "The stolen data includes personal information like home addresses, job titles, and sensitive medical records of thousands of agents.",
-        "Agents fear physical attacks and sophisticated phishing scams, with some believing the FBI's response is inadequate."
-      ]
-    },
-    {
-      "summary": "Netanyahu labels Al Jazeera a \"toxic media outlet\" and views media as an \"eighth front\" in Israel's conflict.",
-      "significance": "Netanyahu's statement escalates tensions, following Israel's actions against Al Jazeera, including shutting down operations and restricting media access to Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
-      "points": [
-        "Netanyahu refers to media as an \"eighth front\" in Israel\u2019s war.",
-        "Israel has killed Palestinian journalists and restricted media access to Gaza."
-      ]
-    },
-    {
-      "summary": "Trump and Xi conclude summit emphasizing personal rapport over substantial AI agreements.",
-      "url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
-      "points": [
-        "Summit extended trade truce by two months.",
-        "Leaders discussed conflicts in Iran and Ukraine.",
-        "No major agreements on pausing AI arms race were made."
       ]
     }
   ]
