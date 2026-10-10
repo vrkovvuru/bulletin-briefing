@@ -1,6 +1,26 @@
 {
-  "generated": "2026-10-09T22:41:12.271396Z",
+  "generated": "2026-10-10T00:40:54.765069Z",
   "summaries": [
+    {
+      "summary": "Australian advocates urge subsidization of weight-loss drugs for women with Polyendrocrine Metabolic Ovarian Syndrome (PMOS).",
+      "significance": "The story matters because it highlights a call for subsidized weight-loss drugs for women with PMOS, potentially improving access to necessary treatments.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/10/women-with-pmos-should-get-subsidised-weight-loss-drugs-advocates-say",
+      "points": [
+        "POSAA calls for GLP-1 drugs to be approved on the Pharmaceutical Benefits Scheme.",
+        "GLP-1 drugs are currently prescribed off-label as they are not specifically approved by the TGA.",
+        "The push is to provide taxpayer-funded access to these medications for PMOS patients."
+      ]
+    },
+    {
+      "summary": "A Japanese tuna buyer claims he turned Somali pirates into fishermen by providing boats and buying their catch.",
+      "significance": "The story highlights an unconventional approach to resolving piracy by addressing its root causes, potentially offering a model for future conflict resolution.",
+      "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+      "points": [
+        "In 2012, he provided four fishing boats and committed to buying yellowfin tuna from Somali fishermen.",
+        "By 2015, successful Somali hijackings had ceased entirely.",
+        "The International Maritime Bureau credits navies, ship hardening, and private security for ending piracy."
+      ]
+    },
     {
       "summary": "Trump appointed Katie Zacharia as the new White House press secretary, succeeding Karoline Leavitt.",
       "url": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
@@ -3716,25 +3736,6 @@
         "Lists and arrays in cells enable storing multiple values together while maintaining functionality for filtering and calculations.",
         "Users can create lists via Insert > List or Ctrl+J, with values separated by commas or semicolons.",
         "Nested arrays preserve relationships between data groups, such as workstreams and milestones, within a single cell."
-      ]
-    },
-    {
-      "summary": "The article discusses the impact of AI on the job market and the potential commodification of human intelligence.",
-      "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
-      "points": [
-        "Employment of young workers (ages 22\u201325) in AI-exposed occupations is 19% below where it would be without AI.",
-        "The value of human intellectual labor could rapidly decrease to minimum wage levels.",
-        "AI commodification makes workers more replaceable, affecting both white-collar and unskilled labor."
-      ]
-    },
-    {
-      "summary": "Dozens of countries' delegations walked out or were absent from Netanyahu\u2019s UN speech in protest over Gaza conflict.",
-      "significance": "The mass walkout reflects international disapproval of Israel's actions in Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/which-countries-walked-out-of-netanyahus-unga-speech?traffic_source=rss",
-      "points": [
-        "Delegations from multiple countries were visibly absent or left during Netanyahu's speech.",
-        "Protest was due to Israel\u2019s ongoing war in Gaza.",
-        "Specific countries' actions not detailed in the provided text."
       ]
     }
   ]
