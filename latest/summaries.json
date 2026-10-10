@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-10T16:41:05.753386Z",
+  "generated": "2026-10-10T18:40:59.646103Z",
   "summaries": [
+    {
+      "summary": "Delhi authorities detain thousands, including \"Cockroach\" movement leader, to halt protest over 130m electoral roll removals.",
+      "significance": "The crackdown highlights government efforts to suppress protests over the removal of millions from the electoral roll, affecting potential voter participation and civil liberties.",
+      "url": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns",
+      "points": [
+        "130 million names removed from India\u2019s electoral roll.",
+        "\"Cockroach\" movement leader among tens of thousands detained.",
+        "Delhi placed under severe lockdown to prevent anti-government rally."
+      ]
+    },
+    {
+      "summary": "Christa Pike, surviving a botched execution attempt, is back in prison after a hospital stay.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/christa-pike-discharged-back-in-prison",
+      "points": [
+        "Pike returned to Deborah K Johnson rehabilitation center, her prison for the last 30 years.",
+        "The botched execution attempt occurred on September 30 in Tennessee.",
+        "Pike's legal team includes Stephen Ferrell, Luke Ihnen, Randy Spivey, and Kelly Gleason."
+      ]
+    },
+    {
+      "summary": "Chrome 154 introduces a new feature allowing iframes to automatically adjust their height to fit content with a single line of CSS.",
+      "significance": "This story matters because it simplifies iframe resizing with a single line of CSS, though it still requires the embedded page's cooperation.",
+      "url": "https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html",
+      "points": [
+        "The feature requires the iframe's content page to include a specific meta tag to allow resizing.",
+        "The embedded page must call a function to request a new measurement when its content changes.",
+        "The functionality is currently only available in Chrome, with no support from Firefox or Safari yet."
+      ]
+    },
     {
       "summary": "Thousands protest in London supporting Palestinians, marching towards parliament.",
       "significance": "The march follows Ed Miliband's declaration that Israel\u2019s occupation of the West Bank is unlawful, showing continued public support for Palestinians.",
@@ -3712,34 +3741,6 @@
         "User compiled NixOS userspace and kernel/initrd for the Steam Link.",
         "Overcame bootloader restrictions by using a kexec module for old kernels.",
         "Reduced the NixOS disk image size from 2.3GB to 1.2GB through various optimizations."
-      ]
-    },
-    {
-      "summary": "Former NFL quarterback Colin Kaepernick discusses his decision to kneel during the national anthem and its impact on his career and activism.",
-      "significance": "Kaepernick's persistence highlights the lasting impact of his protest on discussions about racism and civil rights.",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/26/colin-kaepernick-interview-nfl-taking-the-knee",
-      "points": [
-        "Kaepernick still trains daily despite not playing in 10 years.",
-        "His activism led to exclusion from the NFL and accusations of disrespecting the flag.",
-        "At 38, Kaepernick remains prepared for a potential return to football."
-      ]
-    },
-    {
-      "summary": "Manchester City manager Enzo Maresca posted a cryptic message after the club was found guilty of breaching financial rules.",
-      "url": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
-      "points": [
-        "Noel Gallagher, an Oasis star and fan, expressed shock and sadness.",
-        "City faces over 100 charges and plans to appeal the guilty verdict."
-      ]
-    },
-    {
-      "summary": "Brazilian President Lula bans fixed-odds sports betting ahead of elections to tackle family debt.",
-      "significance": "Lula's ban on fixed-odds sports betting targets family debt issues ahead of Brazilian elections, potentially gaining public approval.",
-      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
-      "points": [
-        "Ban includes operation, offering, intermediation, and advertising of betting.",
-        "Decision made a week before the first round of presidential elections.",
-        "President describes measure as 'hard, drastic and necessary'."
       ]
     }
   ]
