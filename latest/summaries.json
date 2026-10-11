@@ -1,6 +1,25 @@
 {
-  "generated": "2026-10-11T00:41:59.101700Z",
+  "generated": "2026-10-11T02:40:46.492471Z",
   "summaries": [
+    {
+      "summary": "Developers often assume consistency can be achieved within a single component, but Apache Kafka's journey illustrates the complexity.",
+      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+      "points": [
+        "Achieving exactly-once writes in Kafka took years and multiple new components.",
+        "Exactly-once processing requires an end-to-end guarantee, not just within components.",
+        "Eight years after initial release, Kafka's protocol was still being redesigned for correctness."
+      ]
+    },
+    {
+      "summary": "Dwarf Fortress, a complex game, has started using version control after years of resisting the practice.",
+      "significance": "The story marks Dwarf Fortress developer's adoption of version control, changing their long-standing development practice.",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "points": [
+        "Tarn Adams, in March 2013, disliked version control, seeing it as a \"black box thingy.\"",
+        "By March 2016, Adams still avoided version control, citing 15 years of evolving reasons.",
+        "In March 2023, Adams acknowledged using version control, coinciding with the game's Steam release."
+      ]
+    },
     {
       "summary": "Lancet assessment warns nuclear war and AI misuse could lead to human extinction by 2100.",
       "significance": "The Lancet assessment highlights imminent threats like nuclear war and AI misuse, emphasizing realistic actions to prevent human extinction by 2100.",
@@ -3721,26 +3740,6 @@
         "Goroutines are lightweight threads managed by the Go runtime, allowing for the creation of hundreds or thousands of them.",
         "Channels enable goroutines to communicate by sending and receiving data, with options for buffered and unbuffered channels.",
         "Wait groups help synchronize goroutines by blocking the main function until all goroutines have finished their tasks."
-      ]
-    },
-    {
-      "summary": "Six people, including four American tourists, died after an explosion caused a two-storey building to collapse in Athens' Plaka district.",
-      "significance": "Greek authorities investigate cause of explosion that led to the collapse of an apartment building, affecting local residents and foreign tourists in Athens' historic district.",
-      "url": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
-      "points": [
-        "Six victims found, including four American tourists.",
-        "Incident occurred in the historic Plaka district of Athens.",
-        "Building collapsed \"in seconds\" following an early morning explosion."
-      ]
-    },
-    {
-      "summary": "A powerful nor'easter storm hits the northeastern US, causing coastal flooding, power outages, and cancellations in New York and New Jersey.",
-      "significance": "The nor'easter causes widespread coastal flooding, power outages, and travel disruptions, affecting tens of millions in the northeastern US, leading New York and New Jersey to declare emergencies.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "New York and New Jersey declare states of emergency due to the storm.",
-        "Over 150,000 households have experienced power outages.",
-        "Ed Sheeran's Boston concert and other major events are among those cancelled."
       ]
     }
   ]
