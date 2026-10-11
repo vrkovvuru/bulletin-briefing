@@ -1,6 +1,89 @@
 {
-  "generated": "2026-10-11T14:42:07.118548Z",
+  "generated": "2026-10-11T16:42:08.915930Z",
   "summaries": [
+    {
+      "summary": "Football fans discuss Manchester City's financial breaches as they play against Liverpool at Anfield.",
+      "significance": "Fans discuss Manchester City's financial breaches ahead of their match against Liverpool, impacting the team's reputation and fan sentiment.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
+      "points": [
+        "Manchester City found guilty of serious financial breaches.",
+        "Match takes place at Liverpool's home ground, Anfield."
+      ]
+    },
+    {
+      "summary": "Demand for the shingles vaccine is increasing as some hope it may prevent dementia.",
+      "url": "https://www.theguardian.com/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring",
+      "points": [
+        "Jenny, a 50-year-old from Cambridge, got vaccinated to potentially avoid dementia.",
+        "High street chemists in Britain report rising demand for the shingles vaccine.",
+        "The vaccine costs around £450 for two doses for most under-65s, as it's not free on the NHS."
+      ]
+    },
+    {
+      "summary": "Zelenskyy indicates support for an energy ceasefire with Russia after Trump's surprise announcement, with EU Commission President backing Ukraine.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+      "points": [
+        "Ursula von der Leyen expresses full support for Zelenskyy's ceasefire call.",
+        "Ceasefire aims to protect food supplies and energy infrastructure in Ukraine and Russia.",
+        "Ukraine awaits details from the American side on Trump's partial ceasefire announcement."
+      ]
+    },
+    {
+      "summary": "Riyadh's King Khalid airport was struck by an unidentified projectile, following a deadly Houthi missile attack that killed 12.",
+      "significance": "Escalating attacks on Riyadh airport by Houthi rebels threaten to broaden Middle East conflict involvement.",
+      "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+      "points": [
+        "A projectile hit terminal 4, causing a fire at King Khalid international airport.",
+        "The attack is the third on the airport within the past week.",
+        "Air defences intercepted a cruise missile near the airport."
+      ]
+    },
+    {
+      "summary": "Trump announces an energy ceasefire between Ukraine and Russia, which Zelenskyy claims was unknown to him.",
+      "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+      "points": [
+        "Trump declared an immediate energy ceasefire on Truth Social.",
+        "Zelenskyy stated the deal was \u201cnews to me,\u201d indicating lack of prior knowledge.",
+        "Previously, Zelenskyy rejected a US call to stop bombing Russian oil refineries."
+      ]
+    },
+    {
+      "summary": "Trump's deal with Putin to lift sanctions on US imports of Russian diesel is unlikely to impact diesel prices significantly.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+      "points": [
+        "Deal will have little meaningful effect on US diesel prices, say analysts.",
+        "Fuel shipment will take weeks and quantity is too small to affect prices.",
+        "Zelenskyy rejects Trump's claim of Ukraine-Russia 'energy ceasefire'."
+      ]
+    },
+    {
+      "summary": "Green party leader Zack Polanski proposes greater leadership control amid controversy over Zionism vote.",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
+      "points": [
+        "Polanski calls for structural changes due to the party's rapid growth.",
+        "Criticism stems from a divisive vote equating Zionism with racism.",
+        "The proposal questions if parties should dictate member beliefs."
+      ]
+    },
+    {
+      "summary": "New internal documents suggest ExxonMobil was aware of climate risks but misled the public about its efforts to address them.",
+      "significance": "The story provides new evidence of ExxonMobil's internal acknowledgment of climate risks, potentially strengthening legal cases demanding accountability from the oil industry.",
+      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "points": [
+        "Frank Sprow warned Exxon colleagues in 1988 of potential negative impacts from climate action.",
+        "Documents show Exxon scientists believed the company's claims about biofuels and carbon capture were misleading.",
+        "Massachusetts is suing Exxon for allegedly deceptive practices regarding climate action."
+      ]
+    },
+    {
+      "summary": "The tilde character (~) in PATH may not expand to HOME as expected due to specific conditions in shell variable assignments.",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "points": [
+        "Tilde expansion occurs only in unquoted inputs in Bash and Zsh.",
+        "Expansion happens in variable assignments after a \u2018:\u2019 or the first \u2018=\u2019.",
+        "Whitespace can break variable assignments that rely on tilde expansion."
+      ]
+    },
     {
       "summary": "Actor Rachael Stirling discusses media reaction to her confession of eating her mother Diana Rigg\u2019s ashes.",
       "significance": "The story highlights the public's varied reactions to Rachael Stirling's personal tribute to her mother, Diana Rigg, shedding light on cultural perceptions of grief and mourning.",
@@ -3651,91 +3734,6 @@
         "Pandas left Chengdu on Sunday for Atlanta, Georgia.",
         "Announcement made during Xi Jinping's three-day summit with Trump.",
         "Panda loan marked one of few concrete outcomes from the summit."
-      ]
-    },
-    {
-      "summary": "Villagers near RAF Fairford describe an evacuation amid heightened security and suspicious activities.",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
-      "points": [
-        "Local residents observed unusual activity involving vans overnight.",
-        "Increased security measures include newly barricaded gates at the base.",
-        "The area has experienced disturbances due to protesters and police presence since allowing US air force use for potential Iran attacks."
-      ]
-    },
-    {
-      "summary": "Most UK GPs lack time for in-depth patient discussions due to increasing illness loads.",
-      "url": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth",
-      "points": [
-        "Three in four UK GPs are too busy to talk to patients in depth.",
-        "Pastoral conversations about life, health, and happiness are no longer feasible for most GPs.",
-        "Rising tide of illness is the primary reason for the lack of time for in-depth discussions."
-      ]
-    },
-    {
-      "summary": "Environmental groups accuse datacenter developers of manipulating EPA rules to avoid emission controls and scrutiny.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/datacenter-developers-us-pollution-rules",
-      "points": [
-        "Advocates allege firms divide emissions sources into multiple \"minor\" sources to bypass major reviews.",
-        "Developers need federal permits for emitting various pollutants.",
-        "The EPA\u2019s air pollution permitting process is being exploited by some big tech companies."
-      ]
-    },
-    {
-      "summary": "A person successfully replaced the batteries in old rechargeable bike lights after disassembling them at a local makerspace.",
-      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "points": [
-        "Cost about $20 CAD to buy the parts for two bike lights.",
-        "Used an LLM to identify the battery type as \"LIR2477\".",
-        "The repaired lights worked for nighttime biking, though battery lifetime is unknown."
-      ]
-    },
-    {
-      "summary": "The article criticizes modern web development practices for overcomplicating simple tasks and advocates for simpler, more efficient methods.",
-      "significance": "The story highlights the overcomplication in modern web development, affecting developers and users by emphasizing simpler, more accessible alternatives.",
-      "url": "https://modernmotherfuckingwebsite.dreamstation.systems/",
-      "points": [
-        "Modern sites require over 1,100 dependencies for basic functions.",
-        "Native HTML features like <details> provide accessibility without extra libraries.",
-        "Simple meta tags suffice for social sharing, not complex plugins.",
-        "Modern browsers support efficient image formats like AVIF and WebP, reducing file sizes."
-      ]
-    },
-    {
-      "summary": "A controversial Orange Order march in Portadown, Northern Ireland, was delayed due to a large protest.",
-      "significance": "The delayed march highlights ongoing tensions in Northern Ireland's community relations and tests the effectiveness of the Parades Commission.",
-      "url": "https://www.theguardian.com/uk-news/live/2026/sep/27/northern-ireland-orange-order-portadown-drumcree-latest-news-updates",
-      "points": [
-        "Michelle O\u2019Neill called on Chris Bryant to intervene over the march.",
-        "The march was planned through a Catholic enclave in a largely Protestant town.",
-        "Carla Lockhart defended the marchers, describing them as a \"dignified grouping."
-      ]
-    },
-    {
-      "summary": "Last residents of Russian-occupied Oleshky are starving, eating weeds, as food supplies are cut off.",
-      "url": "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky",
-      "points": [
-        "2,000 civilians remain in Oleshky and surrounding villages.",
-        "Evacuation by occupying forces is awaited by starving residents.",
-        "Bodies left uncollected due to drone attacks, eaten by dogs."
-      ]
-    },
-    {
-      "summary": "Chartreuse, a herbal liqueur with a secret recipe made by French monks, has become a trendy drink in Parisian bars.",
-      "url": "https://www.theguardian.com/society/2026/sep/27/the-elixir-of-long-life-how-the-elusive-chartreuse-quietly-became-the-trendiest-drink-around",
-      "points": [
-        "Chartreuse is known for its unique 'grellow' color and mysterious origins.",
-        "The liqueur's popularity has grown in Paris, especially during digestif hour.",
-        "Its recipe, kept secret by Carthusian monks, adds to its allure and exclusivity."
-      ]
-    },
-    {
-      "summary": "New research reveals only 3% of US sickle cell patients receive red blood cell exchange treatment.",
-      "significance": "The story highlights underutilization of an effective treatment for sickle cell disease, despite hospital access, affecting patient care and outcomes.",
-      "url": "https://www.theguardian.com/society/2026/sep/27/sickle-cell-patients-red-blood-cell-exchange",
-      "points": [
-        "Only 3% of US sickle cell patients receive the red blood cell exchange treatment.",
-        "Treatment involves discarding damaged red blood cells and replacing them with donor cells.",
-        "Despite widespread hospital access to the technology, patient access remains limited."
       ]
     }
   ]
