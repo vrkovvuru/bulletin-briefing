@@ -1,6 +1,88 @@
 {
-  "generated": "2026-10-11T12:44:07.940623Z",
+  "generated": "2026-10-11T14:42:07.118548Z",
   "summaries": [
+    {
+      "summary": "Actor Rachael Stirling discusses media reaction to her confession of eating her mother Diana Rigg\u2019s ashes.",
+      "significance": "The story highlights the public's varied reactions to Rachael Stirling's personal tribute to her mother, Diana Rigg, shedding light on cultural perceptions of grief and mourning.",
+      "url": "https://www.theguardian.com/culture/2026/oct/11/rachael-stirling-on-eating-her-mother-diana-riggs-ashes",
+      "points": [
+        "Stirling's book, \"All About My Mother,\" admits to consuming a small amount of her mother's ashes.",
+        "Media portrayed Stirling as a \"matricidal cannibal\" despite her intention to honor her mother.",
+        "Diana Rigg, Stirling's mother, was a renowned actress known for roles in Game of Thrones and The Avengers."
+      ]
+    },
+    {
+      "summary": "The Australian's podcast delay led to a 10-month postponement in the trial of a \"sadistic\" paedophile already serving a 48-year sentence.",
+      "significance": "The Australian\u2019s podcast delay highlights the impact of media on legal proceedings, affecting the timeline of a paedophile's trial.",
+      "url": "https://www.theguardian.com/media/2026/oct/12/shadow-of-doubt-podcast-the-australian-victoria-schoolgirls-trial-delay-ntwnfb",
+      "points": [
+        "William \"Rob\" Gilfillan faces five counts of indecent assault and sexual penetration of two schoolgirls.",
+        "Gilfillan's trial, initially set for February last year, was delayed by 10 months due to the podcast.",
+        "The podcast made Gilfillan's history easily discoverable online, impacting trial proceedings."
+      ]
+    },
+    {
+      "summary": "Australia considers reversing net overseas migration for the first time in its history.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous",
+      "points": [
+        "Extended periods of more departures than arrivals have only occurred during crises like wars, economic collapses, and pandemics.",
+        "Political groups like One Nation and the Coalition have different views on the migration challenge."
+      ]
+    },
+    {
+      "summary": "Greens demand tougher big tech regulations, including court rights for individuals and percentage-based fines, in exchange for supporting Labor's digital duty of care laws.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor",
+      "points": [
+        "Greens call for individuals' right to sue big tech platforms and receive compensation.",
+        "Greens push for eSafety commissioner fines to be a percentage of tech companies' global revenue.",
+        "Labor's digital duty of care laws are set to be introduced into parliament this week."
+      ]
+    },
+    {
+      "summary": "Wildlife park in Yorkshire confirms tiger will not be euthanised after a man who entered its enclosure was mauled to death.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/11/tiger-will-not-be-euthanised-after-man-mauled-to-death-yorkshire-zoo",
+      "points": [
+        "Man entered tiger enclosure at Yorkshire Wildlife Park near Doncaster.",
+        "Incident occurred on Saturday at 1:35 pm.",
+        "Ed Miliband offered \"deepest condolences\" to the victim's family."
+      ]
+    },
+    {
+      "summary": "Hurricane Isaias caused power outages and flooding warnings across Florida, Alabama, and into the Appalachians.",
+      "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
+      "points": [
+        "Nearly 396,000 customers without power in Florida Panhandle and southern Alabama.",
+        "Storm linked to at least four deaths.",
+        "National Weather Service warns of flash flooding and strong winds in central Appalachians and mid-Atlantic."
+      ]
+    },
+    {
+      "summary": "Flu cases are higher than usual in England during September, prompting experts to urge vaccinations.",
+      "url": "https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa",
+      "points": [
+        "UK Health Security Agency reports above-average flu activity.",
+        "Emergency-department attendances for flu-like symptoms exceed seasonal expectations.",
+        "Experts recommend vaccination as the best method to reduce flu impact."
+      ]
+    },
+    {
+      "summary": "Trump directly encouraged Democratic senator John Fetterman to join the Republican party.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman",
+      "points": [
+        "Trump made the comment at Joint Base Andrews upon returning from a Tennessee rally.",
+        "The overture occurred just weeks before crucial midterm elections.",
+        "Trump believes Fetterman would perform better as a Republican."
+      ]
+    },
+    {
+      "summary": "The article discusses Valen's approach to memory safety, blending group borrowing with other techniques to create a flexible borrow checker.",
+      "significance": "Valen's Memory Safety introduces a flexible borrow checking method, potentially merging Rust's borrow checking with reference counting or garbage collection, impacting memory safety in programming languages.",
+      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "points": [
+        "Valen's approach uses \"Group Borrowing,\" designed by the author's friend, to ensure memory safety without runtime costs.",
+        "Group Borrowing allows multiple mutable references to the same object, a pattern typically challenging for borrow checkers."
+      ]
+    },
     {
       "summary": "Pope Leo XIV will undergo surgery for an early-stage lung nodule found during a medical check-up.",
       "significance": "Pope Leo's surgery for an early-stage lung nodule reassures the public about his health and planned papal visits.",
@@ -3654,88 +3736,6 @@
         "Only 3% of US sickle cell patients receive the red blood cell exchange treatment.",
         "Treatment involves discarding damaged red blood cells and replacing them with donor cells.",
         "Despite widespread hospital access to the technology, patient access remains limited."
-      ]
-    },
-    {
-      "summary": "High court ruling allows construction of 190 homes on floodplains in north Somerset despite failing safety tests.",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/high-court-floodplains-development-safety-test-north-somerset-yatton",
-      "points": [
-        "High court decision permits building on floodplains in England and Wales.",
-        "Development involves 190 new homes on north Somerset\u2019s floodplains.",
-        "Site classified as \"flood zone 3a\", the second highest flood risk level."
-      ]
-    },
-    {
-      "summary": "Andy Burnham plans to include universal free social care in Labour\u2019s next manifesto.",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-sets-out-vision-for-universal-free-social-care",
-      "points": [
-        "Burnham aims to \"rip the plaster off\" to address the broken social care system.",
-        "The proposed service will be free at the point of use for everyone in England.",
-        "Funding for the NHS-style service will come from \"everybody,\" though specifics are not provided."
-      ]
-    },
-    {
-      "summary": "Bangkok declares a flood emergency after over 300mm of rain caused widespread flooding.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "All 50 of Bangkok's districts declared emergency zones.",
-        "Over 300mm of rain since Thursday submerged Bangkok roads.",
-        "Governor warns flooding not yet over, despite rains subsiding."
-      ]
-    },
-    {
-      "summary": "Research shows that chat templates significantly influence Large Language Models' self-referential voice, affecting their use of disclaimers and experiential language.",
-      "significance": "The story reveals that chat templates significantly influence AI self-referential disclaimers, impacting how researchers interpret AI self-reports and introspection.",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "points": [
-        "Chat templates activate a disclaimer voice in LLMs, reducing experiential language like \"I feel.\"",
-        "Removing a specific direction in the model's activation space decreases disclaimer voice.",
-        "Findings impact how researchers interpret self-reports from LLMs, suggesting a need to control for chat template effects."
-      ]
-    },
-    {
-      "summary": "Valve introduces Pyrowave, a new experimental video codec for low-latency streaming in the Steam client beta.",
-      "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
-      "points": [
-        "Pyrowave uses 5~10x more bandwidth than other codecs, suitable for LAN with Gigabit Ethernet.",
-        "Developed by Hans-Kristian Arntzen, it supports Vulkan API, HDR, and YUV 4:4:4.",
-        "Available in Steam beta on Windows, macOS, and Linux with experimental SteamRT3 client."
-      ]
-    },
-    {
-      "summary": "A fluid simulation was created for a flipdot display, emphasizing technical details and the process of acquiring the display.",
-      "url": "https://mitxela.com/projects/flipflip",
-      "points": [
-        "The project was built for EMF2026.",
-        "Flipdot displays are expensive, with studios requiring budgets over $50,000.",
-        "Sam, aka Look Mum No Computer, provided old flipdot displays for the project."
-      ]
-    },
-    {
-      "summary": "New court filings reveal OpenAI and Microsoft executives knew their AI training methods were illegal and feared negative publicity.",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "points": [
-        "Top executives at OpenAI and Microsoft were aware their use of copyrighted books was illegal.",
-        "OpenAI's Jack Clark admitted their work would lead to unemployment among genre fiction authors.",
-        "OpenAI deleted files from LibGen in 2022 to avoid negative optics, as noted in internal communications."
-      ]
-    },
-    {
-      "summary": "US withdrawal from aid programs strains African healthcare, urging local control over health development.",
-      "significance": "US aid withdrawal strains African healthcare, urging regional control over health development.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
-      "points": [
-        "Report highlights Trump administration's cuts to USAID as a major strain.",
-        "Covid-19 pandemic and rising global living costs add urgency to healthcare reform.",
-        "Accra Reset recommends greater regional control over health development."
-      ]
-    },
-    {
-      "summary": "The article discusses the \"Parse, don't validate\" pattern in Rust programming, emphasizing the use of type systems to enforce invariants.",
-      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-      "points": [
-        "The pattern uses types to ensure a vector is not empty, avoiding runtime checks.",
-        "Examples include using specialized types for non-empty vectors and absolute paths."
       ]
     }
   ]
