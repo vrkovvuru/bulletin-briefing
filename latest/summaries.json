@@ -1,6 +1,64 @@
 {
-  "generated": "2026-10-11T16:42:08.915930Z",
+  "generated": "2026-10-11T18:41:45.973577Z",
   "summaries": [
+    {
+      "summary": "Palestinians flee Gaza due to Israeli attacks, with additional threats in East Jerusalem and the West Bank.",
+      "significance": "Israeli attacks on Gaza and other threats to Palestinian communities highlight ongoing conflict and displacement in the region.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
+      "points": [
+        "Israeli attacks cause panic and displacement in Gaza.",
+        "Home demolitions occur in occupied East Jerusalem.",
+        "Settler violence escalates across the occupied West Bank."
+      ]
+    },
+    {
+      "summary": "Lebanon introduces a solar-powered model train to rejuvenate its dormant railway system and boost tourism.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
+      "points": [
+        "Solar-powered train operates on a section of Lebanon\u2019s historic railway.",
+        "Aims to revive interest in the country\u2019s long-dormant rail network.",
+        "Project hopes to attract tourists and reinvigorate the railway system."
+      ]
+    },
+    {
+      "summary": "Democratic candidate Abdul El-Sayed warns Democrats must win by large margins in midterms to counter Trump\u2019s election denial claims.",
+      "significance": "El-Sayed warns Democrats must achieve large victories in midterms to counter anticipated election disputes from Trump and Republicans.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers",
+      "points": [
+        "Abdul El-Sayed argues Democrats need to win by \"massive numbers\" in November midterms.",
+        "Trump and Republicans likely to question integrity of election results.",
+        "Democrats favored to win House control, polls suggest possible Senate gains too."
+      ]
+    },
+    {
+      "summary": "Nanolathe, an open-source engine, brings Total Annihilation to modern computers with enhanced graphics and cross-platform support.",
+      "significance": "Nanolathe's open-source engine modernizes Total Annihilation, making it accessible on contemporary systems and editable for modders and enthusiasts.",
+      "url": "https://nanolathe.gg",
+      "points": [
+        "Modern GPU rendering with options for classic visuals",
+        "Supports Windows, Mac, and Linux, requiring original game files",
+        "Three demo missions available in-browser, full game requires installation"
+      ]
+    },
+    {
+      "summary": "The article discusses strategies for career individuals to build wealth through employment rather than entrepreneurship.",
+      "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+      "points": [
+        "Education improves earning prospects; a bachelor\u2019s degree holder earns $1,578 weekly vs $966 for high-school graduates.",
+        "Successful career individuals focus on problem-solving, continuous learning, and converting income into assets.",
+        "Career capital, built through difficult work and market-valued skills, is key to long-term financial success."
+      ]
+    },
+    {
+      "summary": "Python 3.15.0 is now available in actions/python-versions for GitHub Actions.",
+      "significance": "This story matters because it enables developers to test their projects against Python 3.15.0 using GitHub Actions.",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "points": [
+        "Python 3.15.0 can be added to GitHub Actions testing matrix for running tests.",
+        "User monitored updates hourly by cloning and pulling from actions/python-versions repo.",
+        "ChatGPT was used to track the availability of Python 3.15.0 release."
+      ]
+    },
     {
       "summary": "Football fans discuss Manchester City's financial breaches as they play against Liverpool at Anfield.",
       "significance": "Fans discuss Manchester City's financial breaches ahead of their match against Liverpool, impacting the team's reputation and fan sentiment.",
@@ -3677,63 +3735,6 @@
         "Rate hike will push typical home loan interest rates to 6.5%.",
         "Expected to add over $100 to typical monthly mortgage repayments.",
         "The increase marks the fourth rate hike in 2026."
-      ]
-    },
-    {
-      "summary": "A UX designer details his negative experience with NeoVim due to data loss and questions the software's duty of care.",
-      "significance": "The story highlights a significant lack of user data protection by NeoVim developers, leading to potential data loss and user distrust.",
-      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-      "points": [
-        "NeoVim deleted the user's undo files, causing loss of data over 20 years.",
-        "The user abandoned NeoVim after finding the software unreliable with user data.",
-        "Raskin\u2019s First Law, mentioned in the article, states a program must not harm a user\u2019s data."
-      ]
-    },
-    {
-      "summary": "The article discusses the normalization of inexplicable failures in technology, using examples like a fictional president struggling with doors and the unreliable performance of AI models like Jev.",
-      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-      "points": [
-        "Jev, an AI model, provides typed values with probability estimates but lacks clear calibration of confidence scores.",
-        "Users often set arbitrary thresholds (0.5 for \"do nothing,\" 0.9 for \"do high-risk actions\") for Jev's responses without considering specific use cases.",
-        "The article expresses concern over the acceptance of failures as normal, suggesting a lack of interest in diagnosing underlying issues in software development."
-      ]
-    },
-    {
-      "summary": "A personal account of ten lines of code that had significant impacts, ranging from educational to humorous and mischievous.",
-      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-      "points": [
-        "\"Hello world\" code introduced a kid to computer communication.",
-        "Machine language example showed the ability to modify code while running.",
-        "Using IRC and logging in as root was a common Linux troubleshooting method."
-      ]
-    },
-    {
-      "summary": "President Trump's frequent use of profanity has brought presidential swearing into the open, changing norms about acceptable language in office.",
-      "significance": "President Trump's use of profanity redefines norms for acceptable language in public office, influencing public perception and behavior.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/trump-swearing-president-bad-language",
-      "points": [
-        "Cheryl Johnson, a retired social worker, criticizes today\u2019s politicians for excessive swearing.",
-        "Previous 45 presidents did not use such \"vile language\" in public office.",
-        "Trump's recent months have seen an increase in the use of swearwords publicly."
-      ]
-    },
-    {
-      "summary": "Lime bike profits more than doubled in the UK due to a significant increase in riders.",
-      "significance": "Lime's increased profits and user numbers reflect growing acceptance and usage of e-bikes in England.",
-      "url": "https://www.theguardian.com/world/2026/sep/27/lime-bike-profits-double-rider-numbers-surge-england",
-      "points": [
-        "Lime's UK monthly users increased by 31%, reaching nearly 700,000.",
-        "Lime added over 4,500 ebikes and scooters, bringing the total fleet to almost 38,000.",
-        "Sales increased by a third, contributing to the doubling of annual profits."
-      ]
-    },
-    {
-      "summary": "Two pandas departed from China for Atlanta's zoo following the Xi-Trump summit.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
-      "points": [
-        "Pandas left Chengdu on Sunday for Atlanta, Georgia.",
-        "Announcement made during Xi Jinping's three-day summit with Trump.",
-        "Panda loan marked one of few concrete outcomes from the summit."
       ]
     }
   ]
