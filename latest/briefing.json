@@ -2,31 +2,40 @@
   "date": "2026-10-10",
   "stories": [
     {
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
       "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Another 309 people are injured, with a Saudi-led military coalition saying the attack by Yemen's Houthis is \"war crime\".",
+      "summary": "Saudi and US officials blame the attack on Yemen's Houthis, who have not taken responsibility for the latest strike.",
       "alsoReportedBy": ["NPR", "The Guardian", "Al Jazeera"]
     },
     {
-      "title": "Man dies after entering tiger enclosure at England wildlife park",
-      "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Man dies after tiger attack at wildlife park",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis.",
+      "alsoReportedBy": []
     },
     {
       "title": "Christa Pike discharged from the hospital and back in prison",
@@ -38,30 +47,30 @@
       "alsoReportedBy": ["BBC News"]
     },
     {
-      "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-      "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+      "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+      "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Trump condemns &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s attacks on the Houthis.",
+      "summary": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.",
       "alsoReportedBy": []
     },
     {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+      "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "summary": "US military jet strikes stern of commercial cargo ship &#039;without harming the crew&#039;, CENTCOM says.",
       "alsoReportedBy": []
     },
     {
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Developing nations face triple shock from energy crisis, El Niño and borrowing costs, UN warns",
+      "url": "https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+      "summary": "UN’s development arm calls for urgent action as crises could ‘throw tens if not hundreds of millions back into poverty’ Developing countries face a triple shock from the energy crisis, El Niño and surging borrowing costs and need urgent support from the international community, the UN’s development arm has warned. Speaking before the International Monetary Fund (IMF) and World Bank annual meetings in Bangkok this week, the UNDP’s administrator, Alexander De Croo, called for “solidarity and global action”. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -74,21 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
-      "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
-      "source": "The Guardian",
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each exists Humans could become extinct by the year 2100 due to malicious use of AI or nuclear conflict, according to a new global risk assessment. They top a list of 17 major threats to human health over the next 75 years, which also includes cuts to aid spending by wealthy countries, the climate crisis and childhood malnutrition. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘There is no secret agenda’: Nara Smith on home-making absolutely everything, raising four kids at 25 – and why she’s definitely not a tradwife",
-      "url": "https://www.theguardian.com/media/2026/oct/10/nara-aziza-smith-influencer-model-actor-mother-four-not-tradwife",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The model, actor and influencer is known for making her own frozen yoghurt, bubblegum or even toothpaste while dressed in immaculate haute couture. But she insists she is not who the internet thinks she is Nara Smith is not a tradwife, she wants you to know that. Nor is she an ex-tradwife – pace the New York Times who included her in a feature on how ex-tradwives are as popular a movement now as the tradwives were in the first place. Nor was she peddling a tradwife-adjacent lifestyle choice by marrying at 18, having four children by 24, and devoting hours to cooking and documenting it online. Nor is she Mormon, by the way. Although, yes, her husband, the model and former teen heart‑throb Lucky Blue Smith, was raised Mormon, but we’ll get to that. Nor was she telegraphing subliminal religious messages in her content: “There is no secret agenda.” Nor was she abandoning her biracial heritage by wearing her hair in a sleek little bob. Nor was she leaning into a 1950s housewife archetype – even when dressed in a pink and red polka-dot minidress to batch-cook sourdough. Smith wants you to scrap everything you think you know about her and start again. She also doesn’t care if you don’t. As with her content: “Those that get it, get it. Those that don’t, don’t. And that’s totally fine. I tell people: ‘If you don’t like my content, I won’t see you scroll past me.’ ‘If you need to block me for your own sanity, please do. I promise I won’t know.’ And if you want to stick around, that is beautiful, I’m grateful, welcome.” Continue reading...",
+      "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
       "alsoReportedBy": []
     },
     {
@@ -99,15 +99,6 @@
       "categoryLabel": "World",
       "summary": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email , free app or daily news podcast The parents of Australian surfing brothers murdered in Mexico have said “no outcome can ever undo this tragedy” after three men were convicted of the 2024 killings. Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state in a suspected robbery. Continue reading...",
       "alsoReportedBy": ["BBC World"]
-    },
-    {
-      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent. Continue reading...",
-      "alsoReportedBy": []
     },
     {
       "title": "Protests against voter roll revisions rock capital of world's largest democracy",
@@ -128,21 +119,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "alsoReportedBy": ["BBC World", "Guardian World"]
-    },
-    {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -182,18 +173,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
+      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is thriving. A population of Aldabra giant tortoises lives on an island in Seychelles called Aldabra Atoll. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Consistency is not a localized property",
-      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
-      "source": "Lobsters",
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "url": "https://wallhop.io/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -218,8 +209,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
+      "title": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
+      "url": "https://lightbulbcomputer.com/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
+      "url": "https://worldfacts.app",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,8 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "No Man Is an Island",
-      "url": "https://borretti.me/article/no-man-is-an-island",
+      "title": "Consistency is not a localized property",
+      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Generative AI scandal has come to one of Nikon's competitions",
-      "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-      "source": "Hacker News",
+      "title": "No Man Is an Island",
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",

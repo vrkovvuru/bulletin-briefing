@@ -1,6 +1,16 @@
 {
-  "generated": "2026-10-11T02:40:46.492471Z",
+  "generated": "2026-10-11T04:40:26.177522Z",
   "summaries": [
+    {
+      "summary": "UN warns that developing nations are at risk of a triple shock from energy crisis, El Niño, and high borrowing costs, potentially pushing millions back into poverty.",
+      "significance": "The story highlights the urgent need for international support to prevent tens of millions in developing nations from falling back into poverty due to compounded crises.",
+      "url": "https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns",
+      "points": [
+        "UNDP\u2019s administrator Alexander De Croo calls for urgent international support.",
+        "Crises could push tens or hundreds of millions back into poverty.",
+        "Warning comes ahead of IMF and World Bank meetings in Bangkok."
+      ]
+    },
     {
       "summary": "Developers often assume consistency can be achieved within a single component, but Apache Kafka's journey illustrates the complexity.",
       "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
@@ -3730,16 +3740,6 @@
         "Reladraw uses relative positioning, avoiding pixel coordinates or nested dependencies.",
         "The tool is early in development, currently at version 0.4.0, with a parser, resolver, and SVG renderer.",
         "It aims to balance between auto-layout languages like Mermaid and absolute-positioning tools like Excalidraw."
-      ]
-    },
-    {
-      "summary": "The article provides an overview of Go concurrency, focusing on goroutines, channels, and synchronization mechanisms.",
-      "significance": "This story matters as it provides an interactive and concise refresher on Go concurrency for programmers familiar with the basics, enhancing their understanding and practical skills.",
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "points": [
-        "Goroutines are lightweight threads managed by the Go runtime, allowing for the creation of hundreds or thousands of them.",
-        "Channels enable goroutines to communicate by sending and receiving data, with options for buffered and unbuffered channels.",
-        "Wait groups help synchronize goroutines by blocking the main function until all goroutines have finished their tasks."
       ]
     }
   ]
