@@ -1,94 +1,136 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "stories": [
     {
-      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
-    },
-    {
-      "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "At least 139 migrants, including 15 children, have died and 84 remain missing after a migrant boat capsized.",
-      "alsoReportedBy": ["BBC News", "The Guardian"]
-    },
-    {
-      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
-      "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ethiopian government forces entered Adigrat in northern Tigray after rebel fighters withdrew.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government",
-      "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Suspension of provincial government escalates standoff with Khan’s PTI party a week after his supporters began marching to demand his release Pakistan has declared a state of emergency in a province ⁠led by Imran ​Khan’s PTI party and suspended its government, a move a party spokesperson described as “more of a coup disguised as emergency”. President Asif Ali Zardari ​declared the emergency in the north-western Khyber Pakhtunkhwa province on Sunday, after the federal government said authorities there had failed to tackle Islamist militancy in the province bordering Afghanistan. Continue reading...",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Pope Leo XIV to undergo lung surgery this week",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+      "title": "Two Americans win Nobel Prize in Economics for work on boom-bust cycles",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "Two Americans have won the Nobel Prize in Economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+      "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Forecasters say the storm, which brought heavy rain and coastal flooding, is a preview of what may be in store as California braces for a possibly record-setting El Niño.",
+      "summary": "President Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his statement.",
+      "alsoReportedBy": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Nobel economics prize awarded to Robert Hall and Michael \u2060Woodford",
+      "url": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Swedish academy says the academics&#039; models are &#039;now used by central banks and \u200bgovernments around the world&#039;.",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Trump thinks Ukraine needs a new president. Who could replace Zelenskyy?",
+      "url": "https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
-      "alsoReportedBy": ["BBC News"]
+      "summary": "Popular former general Zaluzhnyi leads potential challengers, alongside intelligence chief Budanov and reformer Fedorov.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Pine cones, glitter and a hip-hop head for sale: red-hot artists reveal their Frieze stunners",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/12/pine-cones-glitter-and-a-hip-hop-head-for-sale-red-hot-artists-reveal-their-frieze-stunners",
+      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Which banners did Liverpool fans display at Anfield against Man City?",
+      "url": "https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "From creative wordplay on song lyrics to simply calling Man City &#039;cheats&#039;, the Reds fans went all out at Anfield.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The missed opportunity of Jay-Z\u2019s documentary series",
+      "url": "https://www.theguardian.com/music/2026/oct/12/jay-z-in-8-hbo-documentary-series",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "As the sprawling art jamboree hits London, eight of the most exciting exhibitors share what their work means to them – and who they hope will buy it First held in 2003, the Frieze art fair is a giant art supermarket that descends on Regent’s Park, London, every October. Some detest it for its blatant commercialism, others relish it as the opportunity to see a mind-boggling amount of contemporary art in one enormous tent. Here, eight British-based artists of the moment talk through what they’re showing. Continue reading...",
+      "summary": "Jay-Z in 8, the rap mogul\u2019s HBO docuseries, covers his life and career in effort to mend his image \u2013 with no pushback. Why is he so fixated on the court of public opinion? During the finale of Jay-Z \u2019s Jay-Z in 8 , the recent eight-part HBO documentary series on his life and career, the billionaire rap mogul talked with record producer Rick Rubin about the song Family Feud from his 4:44 album . He clarified one of its lyrics, \u201cAl Sharpton in the mirror takin\u2019 selfies / How is him or Pill Cosby \u2018posed to help me?\u201d, in which he chided Sharpton, the civil rights leader, and Cosby, the disgraced actor-comedian, for constantly criticizing rap music . He called Sharpton an \u201cextortionist\u201d who goes \u201cfrom place to place\u201d demanding: \u201cYou want our support \u2026 give us the money.\u201d Listening to him chastise Sharpton, I pondered how he doesn\u2019t see himself as a similar figure. Starting in 2019, Jay-Z partnered with the NFL in 2019 as entertainment director, deciding the Super Bowl half-time performers and working with the league on other community endeavors. Colin Kaepernick , the former NFL quarterback, has recently alleged that the deal came after NFL owners decided they needed a \u201cBlack face\u201d to help them quell outrage from Black people after Kaepernick was blackballed by the league for kneeling during the national anthems as a form of protest against police brutality. Jay-Z was lambasted for undercutting Kaepernick\u2019s cause for personal gain, marring his reputation with many fans who came to view him as the same counterinsurgent figure he criticized in the documentary. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Marco Rubio is promoting troubling ideas about \u2018Western civilization\u2019 | Ted Widmer",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/12/marco-rubio-western-civilization",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "In a recent visit to Greece, the secretary of state suggested that Europe must rediscover the values of conquest and expansion They had obviously worked hard on the backdrop \u2013 and it was magnificent. On 7 October, the US secretary of state, Marco Rubio , delivered a major speech in Athens, outdoors, with the Acropolis behind him. The sun was setting, bathing the ancient scene, including the Parthenon, in the light of the golden hour. The golden hour, but yet not quite the golden age. This was not Pericles defending democracy. Instead, Rubio offered a haunting vision of the choices facing the west, arguing that the US and Europe must rediscover the values of exploration and conquest that once drove centuries of expansion, or face decline and irrelevance. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Reform pledges to suspend UK's asylum system for up to five years",
+      "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+      "alsoReportedBy": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Balkan temperatures swing as heavy rain heads for Greece",
+      "url": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Clear skies bring warm days and cold nights to Montenegro, while a low-pressure system moves towards Aegean Sea Europe live \u2013 latest updates Temperatures fluctuated dramatically in the Balkans last week, with unusually large differences between daytime highs and overnight lows \u2013 known as the diurnal range. An area of high pressure over the region brought prolonged sunshine during the day, while clear skies at night allowed temperatures to drop rapidly as heat escaped into the atmosphere without cloud cover to slow the cooling. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Kremlin rejects 60-day truce offer and refuses to comment on Trump\u2019s \u2018energy ceasefire\u2019 \u2013 Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Zelenskyy had proposed a 60-day total ceasefire to allow Ukraine to hold presidential elections Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is \u2018news to me\u2019 Addressing the conference virtually, Ukrainian president Volodymyr Zelenskyy commented on Trump\u2019s \u201csudden but very important\u201d energy ceasefire declaration over the weekend. He said it is clear that Putin \u201cdoes not read Truth social\u201d, the site that the US president posted his ceasefire declaration on. Russia wants to ruin the existing security architecture in Europe to make sure that Russian domination comes back to where it was before 1989. We have no doubt about it. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Doctor warned Elizabeth Struhs would not be safe years before sect killed her by withdrawing medicine",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/elizabeth-struhs-death-inquest-doctor-home-warning-queensland-coroner-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Inquest hears paediatricians pleaded with child safety for action to protect the eight-year-old from her parents and other Toowoomba sect members Get our breaking news email , free app or daily news podcast A specialist child safety doctor was \u201cstonewalled\u201d by a child safety officer after repeatedly warning that Elizabeth Struhs would not be safe living with her mother, years before her parents allowed her to die by withdrawing lifesaving medicine, a coronial inquest has heard. Elizabeth returned to live with her parents at her family home in Toowoomba in 2019, after both of them were convicted of neglecting her. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,6 +152,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Harrowing accounts of violence and sex abuse in women's prison told in new podcast",
       "url": "https://www.npr.org/2026/10/11/nx-s1-5994363/harrowing-accounts-of-violence-and-sex-abuse-in-womens-prison-told-in-new-podcast",
       "source": "NPR World",
@@ -119,72 +170,45 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Australian politics live: Joyce likens US public execution to ‘Roman amphitheatre’; Coalition targets small business minister over credit card ban",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+      "title": "Ex-director who oversaw Grenfell cost-cutting leaves council housing role after backlash",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/12/former-grenfell-tower-housing-boss-laura-johnson-leaves-council-property-role-after-backlash",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino , says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down. This is a very substantial review. This is about fairness in our tax system. It’s about trying to better align the taxes that people pay when they earn income through trusts versus when they earn income from working, from providing their labour. These are changes that have been called for by experts for decades. If we go back to major reviews in the 1970s and all the way through the Howard government, the Henry review, even the Abbott government’s review, these changes to trust taxation have been called for. I think he’s getting that from lots of corners. People are saying that the Liberal party needs to do better. The polls are showing that the Liberal party is at an all-time low. And so, things have to change. Because there’s something existential about the threat that I think the party now faces. Look, I certainly haven’t closed the door, but I don’t need to rush to a decision. The next election is 18 months away. Continue reading...",
+      "summary": "Survivors had criticised \u2018outrageous\u2019 appointment of Laura Johnson to \u00a3150,000 job with Barnet Group A housing director who oversaw cost cutting at Grenfell Tower before the fatal fire has left a \u00a3150,000-a-year senior council housing role after a backlash from bereaved families and survivors. Laura Johnson was the director of housing at the Royal Borough of Kensington and Chelsea (RBKC) at the time of the 2017 Grenfell fire which killed 72 people, and was criticised in the subsequent inquiry for her role in budget-cutting decisions prior to the blaze. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Detained Australian engineer Robert Pether has left Iraq after being jailed in 2021",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Australian foreign minister welcomes Iraqi government’s decision to allow engineer to leave Baghdad Follow our Australia politics live blog for latest updates Get our new political email , free app or daily news podcast Australian engineer Robert Pether has been allowed to leave Iraq after a four-year stint in a Baghdad jail cell that his family feared would kill him. Pether’s family say they have been “living in hell” since he was arrested without charge in April 2021 in connection to a business dispute between his firm – which was building a new headquarters for the central bank – and the Iraqi government. Continue reading...",
+      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is serving as a judge at the international court of justice (ICJ), has \u201cshown that legal measures can help prevent acts of war and violence\u201d. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Absolutely senseless’: Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The 36-year-old victim had withdrawn cash to give to some young people when he was allegedly stabbed, according to police Get our breaking news email , free app or daily news podcast A 13-year-old boy has been charged with murder after a man was stabbed to death in Sydney’s west on Friday. Emergency services were called to the suburb of Mount Druitt on Friday evening amid reports a man had been assaulted. This story was amended on 12 October 2026. An earlier version incorrectly stated the victim’s age as 30, rather than 36. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australian Greens call for ‘barbaric’ US execution live stream to be blocked",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-greens-us-firing-squad-execution-nidal-hasan-live-stream-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Federal government urged to prevent Australians from viewing planned broadcast of Fort Hood mass murderer Nidal Hasan’s execution Get our new political email , free app or daily news podcast Follow our Australia politics live blog for latest updates The Australian government should block the “barbaric” broadcast or live stream of a US military execution, Greens senator Sarah Hanson-Young says, but it is unclear whether the commonwealth can or would be willing to do so. While the communications department warned media broadcasters must “act responsibly” in reporting on the scheduled execution by firing squad of Nidal Malik Hasan – which the Pentagon said would be livestreamed on 3 December – Australian federal government sources said there may be limitations in what it can do to order restrictions on an ally carrying out its own legal proceedings. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
-      "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The band, who announced their reunion last week, say they are \"absolutely ecstatic\" to be playing together again.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Fingerprints are the new cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "title": "QGIS bans AI assisted contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
       "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "'AI' is Not a Tool",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -200,8 +224,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,34 +233,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "What's Wrong with GitHub",
-      "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "I'm still around.. I'm just not writing here",
-      "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+      "title": "The Pulse: new trend of building \u201cinternal vibe-coding apps\u201d at tech companies",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -263,11 +260,29 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "title": "I'm still around.. I'm just not writing here",
+      "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "I personally am not happy about this, the last place I want AI to touch is my Linux. Comments",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+      "source": "Import AI",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
       "summary": "",
       "alsoReportedBy": []
     },
@@ -277,7 +292,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time: March 2013:  \"I don't use version control -- I didn't like the feeling of having the code get committed into a black box thingy with no immediate upside\" March 2016:  \"I don’t even use version control. If you don’t know what that is then you’re not gonna yell at me. If you even know what version control is you’re gonna be like, ‘You don’t use version control? You don’t use source control? What is wrong with you? How can you even work? I’m just not cut out for it, in a sense. It’s been 15 years, so the reasons have change over time, but that’s my current understanding of it.\"   March 2023:  \"I've got Discord channels to check and version control stuff to use now, so the process is definitely a little more involved\" That March 2023 quote comes from an interview about the release on Steam which made them millionaires . I'm a tiny bit sad that they gave in before they hit that milestone, but what an impressive run. Tags: version-control",
+      "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time: March 2013:\u00a0 \"I don't use version control -- I didn't like the feeling of having the code get committed into a black box thingy with no immediate upside\" March 2016:\u00a0 \"I don\u2019t even use version control. If you don\u2019t know what that is then you\u2019re not gonna yell at me. If you even know what version control is you\u2019re gonna be like, \u2018You don\u2019t use version control? You don\u2019t use source control? What is wrong with you? How can you even work? I\u2019m just not cut out for it, in a sense. It\u2019s been 15 years, so the reasons have change over time, but that\u2019s my current understanding of it.\" \u00a0 March 2023:\u00a0 \"I've got Discord channels to check and version control stuff to use now, so the process is definitely a little more involved\" That March 2023 quote comes from an interview about the release on Steam which made them millionaires . I'm a tiny bit sad that they gave in before they hit that milestone, but what an impressive run. Tags: version-control",
       "alsoReportedBy": []
     },
     {
@@ -322,7 +337,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. — The New York Times , Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags: accidental-cyberattacks , anthropic , generative-ai , ai , llms",
+      "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic\u2019s A.I. agents had submitted 20 visa applications through a form available on the State Department\u2019s website. All the applications were incomplete and were not processed, they said. \u2014 The New York Times , Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags: accidental-cyberattacks , anthropic , generative-ai , ai , llms",
       "alsoReportedBy": []
     },
     {
@@ -344,16 +359,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "url": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
-      "source": "Import AI",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Is the wall AI is hitting in the room with us right now?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "title": "Why AlphaFold Didn't Solve Protein Folding \u2014 Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
       "url": "https://www.latent.space/p/biohub-deepmind",
       "source": "Latent Space",
       "category": "ai",
@@ -361,5 +367,7 @@
       "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind&#8217;s Pushmeet Kohli and Biohub&#8217;s Sal Candido are rethinking what it takes to build AI that truly understands biology.",
       "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 187.7,
+  "voice": "af_heart"
 }
