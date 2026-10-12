@@ -1,6 +1,26 @@
 {
-  "generated": "2026-10-12T00:41:22.771816Z",
+  "generated": "2026-10-12T02:41:18.091562Z",
   "summaries": [
+    {
+      "summary": "A projectile attack on Riyadh's King Khalid International airport killed one and injured eleven on October 10, 2026.",
+      "significance": "The attacks on Riyadh airport escalate the Yemen conflict, threatening global oil supplies and potentially drawing US military involvement.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+      "points": [
+        "The deceased was identified as a Pakistani resident by the General Authority of Civil Aviation (GACA).",
+        "The attack occurred at terminals 3 and 4, which serve domestic flights, at about 8:30pm local time.",
+        "This attack is the fourth on the airport in five days, with the previous one on October 9 killing 12 and injuring over 300."
+      ]
+    },
+    {
+      "summary": "Websites use browser fingerprinting to track users, similar to how cookies do, but more insidiously.",
+      "significance": "The story highlights how digital fingerprinting can uniquely identify users online, raising privacy concerns beyond traditional cookie tracking.",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "points": [
+        "Browser fingerprinting identifies users through unique hardware and software characteristics.",
+        "Over 60% of Americans can be uniquely identified using this method.",
+        "Chrome users are particularly vulnerable, while Safari and Firefox offer some protection."
+      ]
+    },
     {
       "summary": "Pakistan declares emergency in Khyber Pakhtunkhwa, suspending the provincial government led by Imran Khan\u2019s PTI party.",
       "significance": "Suspension of provincial government escalates conflict between Pakistan's federal authorities and Imran Khan\u2019s PTI party, deepening political instability.",
@@ -3722,25 +3742,6 @@
         "70% of voters rejected the proposal for stricter neutrality rules.",
         "The proposal aimed to write a strict neutrality definition into the Swiss constitution.",
         "Far-right Swiss People\u2019s party (SVP) promoted the motion."
-      ]
-    },
-    {
-      "summary": "Thom Tillis criticizes Trump for backing Ken Paxton over John Cornyn in Texas Senate primary.",
-      "significance": "Tillis claims Trump's backing of Paxton over Cornyn endangers the Republican hold on the Texas Senate seat.",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
-      "points": [
-        "Tillis calls Trump's support of Paxton a \"colossal mistake.\"",
-        "Paxton defeated Cornyn in the May primary.",
-        "Tillis, a North Carolina senator, frequently criticizes Trump."
-      ]
-    },
-    {
-      "summary": "Labour Party delegates express relief over Andy Burnham's leadership but worry about upcoming fiscal challenges.",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/burnham-bounce-gives-labour-a-second-chance-but-budget-realities-are-looming",
-      "points": [
-        "Burnham's leadership seen as a successful gamble compared to Starmer's tenure.",
-        "Contrast with last year's conference, where Burnham left early after Starmer's retention.",
-        "Fiscal headwinds pose a significant challenge to the party's future prospects."
       ]
     }
   ]
