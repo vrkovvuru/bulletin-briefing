@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-12T02:41:18.091562Z",
+  "generated": "2026-10-12T04:40:53.192121Z",
   "summaries": [
+    {
+      "summary": "Eight British artists discuss their works at the Frieze art fair in London.",
+      "significance": "The story highlights contemporary artists' perspectives on their work showcased at Frieze, a major art fair in London, offering insights into their creations and potential buyers.",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/12/pine-cones-glitter-and-a-hip-hop-head-for-sale-red-hot-artists-reveal-their-frieze-stunners",
+      "points": [
+        "Frieze art fair, first held in 2003, takes place annually in Regent\u2019s Park, London.",
+        "Artists reveal their pieces, including pine cones, glitter, and a hip-hop themed artwork.",
+        "The event is viewed as either a commercial spectacle or a vast showcase of contemporary art."
+      ]
+    },
+    {
+      "summary": "Australian engineer Robert Pether has been released from an Iraqi jail and allowed to leave Iraq.",
+      "significance": "The release of detained Australian engineer Robert Pether marks an end to a four-year legal and diplomatic struggle between Australia and Iraq.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison",
+      "points": [
+        "Pether spent four years in jail after being arrested without charge in April 2021.",
+        "His family described the period as \"living in hell.\"",
+        "Pether was involved in a business dispute with the Iraqi government over a project for the central bank."
+      ]
+    },
+    {
+      "summary": "Australian Greens call for blocking Australian access to a planned live stream of an US military execution.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-greens-us-firing-squad-execution-nidal-hasan-live-stream-ntwnfb",
+      "points": [
+        "Greens senator Sarah Hanson-Young deems the broadcast \"barbaric\".",
+        "The execution of Nidal Malik Hasan is set for livestream on 3 December.",
+        "Australian government sources suggest limitations in restricting an ally's legal proceedings."
+      ]
+    },
     {
       "summary": "A projectile attack on Riyadh's King Khalid International airport killed one and injured eleven on October 10, 2026.",
       "significance": "The attacks on Riyadh airport escalate the Yemen conflict, threatening global oil supplies and potentially drawing US military involvement.",
@@ -3714,34 +3743,6 @@
         "New name \"Nura\" inspired by ancient Sardinian structures, symbolizing stability.",
         "Previous name \"postmarketOS\" was hard to pronounce and remember in many languages.",
         "Trademark for \"Nura\" has been filed to protect against fraudulent use."
-      ]
-    },
-    {
-      "summary": "Lofi Cities is a free web app that generates pixel-art city scenes and live lofi music in your browser.",
-      "url": "https://loficities.com/",
-      "points": [
-        "Features 11 cities including Paris, Tokyo, New York, and Sydney.",
-        "Music and city sounds are generated live using the Web Audio API.",
-        "Offers customizable settings for vibe, weather, and city sound mixers."
-      ]
-    },
-    {
-      "summary": "At least 27 people were killed in two mass shootings in South Africa, targeting a tavern and a shop.",
-      "significance": "The story highlights escalating gun violence in South Africa, affecting communities and prompting police investigation into potential motives.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
-      "points": [
-        "At least 27 people killed in shootings near Johannesburg and outside Cape Town.",
-        "Police investigating possible business rivalry motive.",
-        "11 people died in a separate shooting near Durban days prior."
-      ]
-    },
-    {
-      "summary": "Swiss voters reject stricter neutrality rules that would have limited NATO cooperation and ended sanctions against Russia.",
-      "url": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
-      "points": [
-        "70% of voters rejected the proposal for stricter neutrality rules.",
-        "The proposal aimed to write a strict neutrality definition into the Swiss constitution.",
-        "Far-right Swiss People\u2019s party (SVP) promoted the motion."
       ]
     }
   ]

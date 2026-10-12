@@ -2,12 +2,21 @@
   "date": "2026-10-11",
   "stories": [
     {
-      "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
-      "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+    },
+    {
+      "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Claim marks the first time a UK prime minister has publicly acknowledged Russia&#039;s interference in the vote to leave EU.",
+      "summary": "At least 139 migrants, including 15 children, have died and 84 remain missing after a migrant boat capsized.",
       "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
@@ -20,12 +29,21 @@
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+      "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+      "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Sunday&#039;s strike on King Khalid International airport kills a Pakistani national.",
+      "summary": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Ethiopian government forces entered Adigrat in northern Tigray after rebel fighters withdrew.",
       "alsoReportedBy": []
     },
     {
@@ -38,13 +56,13 @@
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "Bridge washed away by torrent of water in Nepal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Pope Leo XIV to undergo lung surgery this week",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Flash floods along Nepal’s Budhi Gandaki River swept away homes and bridges, forcing residents to flee to higher ground.",
-      "alsoReportedBy": []
+      "summary": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
@@ -56,39 +74,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Pope Leo XIV to undergo lung surgery this week",
-      "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Sacha Baron Cohen to star in Quentin Tarantino's West End play",
-      "url": "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Borat star said he was \"beyond delighted\" to be working on the show, The Popinjay Cavalier, with the Pulp Fiction director.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
       "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
       "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
-      "alsoReportedBy": []
+      "alsoReportedBy": ["BBC News"]
     },
     {
-      "title": "‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring",
-      "url": "https://www.theguardian.com/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring",
+      "title": "Pine cones, glitter and a hip-hop head for sale: red-hot artists reveal their Frieze stunners",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/12/pine-cones-glitter-and-a-hip-hop-head-for-sale-red-hot-artists-reveal-their-frieze-stunners",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Could a drug intended to prevent painful rashes also protect our brains as we get older? The signs are promising – but not conclusive. Yet that’s enough to be driving a boom in shingles jabs When Jenny, a 50-year-old marketing and branding professional from Cambridge, went for her shingles vaccine last year, an entirely different disease was on her mind. Having witnessed three of her four grandparents succumb to dementia, with all the distress that brought, she wants to avoid the same fate. She hopes the shingles vaccine might help. Jenny is far from alone. Britain’s high street chemists have reported a rise in demand for the shingles vaccine, at least some of which is driven by people more worried about dementia than shingles. And while the vaccine is free for some on the NHS , most under-65s pay around £450 for the full two doses. Continue reading...",
+      "summary": "As the sprawling art jamboree hits London, eight of the most exciting exhibitors share what their work means to them – and who they hope will buy it First held in 2003, the Frieze art fair is a giant art supermarket that descends on Regent’s Park, London, every October. Some detest it for its blatant commercialism, others relish it as the opportunity to see a mind-boggling amount of contemporary art in one enormous tent. Here, eight British-based artists of the moment talk through what they’re showing. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
       "alsoReportedBy": []
     },
     {
@@ -110,16 +119,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australian politics live: Taylor defends CV after Hanson calls him ‘smarmy’; Joyce likens US public execution to ‘Roman amphitheatre’",
+      "title": "Australian politics live: Joyce likens US public execution to ‘Roman amphitheatre’; Coalition targets small business minister over credit card ban",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
       "source": "Guardian World",
       "category": "world",
@@ -128,12 +128,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Total fire ban for Sydney, with 37C temperatures and risk of bushfires from ‘dry lightning’",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/total-fire-ban-sydney-extreme-weather-temperature-37c",
+      "title": "Detained Australian engineer Robert Pether has left Iraq after being jailed in 2021",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Thunderstorms coupled with hot and dry conditions mean ‘fire danger is going to be right up today’, Rural Fire Service says Follow our Australia politics live blog for latest updates Get our new political email , free app or daily news podcast A total fire ban is in place across greater Sydney, with temperatures forecast to reach 37C in the city’s west. The Bureau of Meteorology said Sydney faced extreme fire danger due to hot, dry conditions and the chance of thunderstorms, with little rainfall. Continue reading...",
+      "summary": "Australian foreign minister welcomes Iraqi government’s decision to allow engineer to leave Baghdad Follow our Australia politics live blog for latest updates Get our new political email , free app or daily news podcast Australian engineer Robert Pether has been allowed to leave Iraq after a four-year stint in a Baghdad jail cell that his family feared would kill him. Pether’s family say they have been “living in hell” since he was arrested without charge in April 2021 in connection to a business dispute between his firm – which was building a new headquarters for the central bank – and the Iraqi government. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,44 +146,44 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is serving as a judge at the international court of justice (ICJ), has “shown that legal measures can help prevent acts of war and violence”. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Thousands without power in Florida and Alabama as Isaias moves north",
-      "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "At least four deaths linked to storm amid warnings of flash flooding that could stretch into Appalachians As what was left of Hurricane Isaias moved north on Sunday, bringing moderate to heavy rainfall across the central Appalachians and the mid-Atlantic region, nearly 396,000 customers across the Florida Panhandle and southern Alabama remained without power. Heavy rainfall associated with the storm could bring isolated flash flooding and strong wind gusts and remain a threat across the south-eastern US, especially near the southern Appalachians, according to the National Weather Service (NWS). That could bring scattered power outages and downed trees and power lines. Life-threatening surf and rip current conditions were expected to continue along the Gulf and south-eastern Atlantic coasts. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
+      "title": "‘Absolutely senseless’: Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
       "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Second boy, 16, also charged in relation to the stabbing death of a 30-year-old man in Mount Druitt Get our breaking news email , free app or daily news podcast A 13-year-old boy has been charged with murder after a man was stabbed to death in Sydney’s west on Friday. Emergency services were called to the suburb of Mount Druitt on Friday evening amid reports a man had been assaulted. Continue reading...",
+      "summary": "The 36-year-old victim had withdrawn cash to give to some young people when he was allegedly stabbed, according to police Get our breaking news email , free app or daily news podcast A 13-year-old boy has been charged with murder after a man was stabbed to death in Sydney’s west on Friday. Emergency services were called to the suburb of Mount Druitt on Friday evening amid reports a man had been assaulted. This story was amended on 12 October 2026. An earlier version incorrectly stated the victim’s age as 30, rather than 36. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Australian Greens call for ‘barbaric’ US execution live stream to be blocked",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-greens-us-firing-squad-execution-nidal-hasan-live-stream-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Federal government urged to prevent Australians from viewing planned broadcast of Fort Hood mass murderer Nidal Hasan’s execution Get our new political email , free app or daily news podcast Follow our Australia politics live blog for latest updates The Australian government should block the “barbaric” broadcast or live stream of a US military execution, Greens senator Sarah Hanson-Young says, but it is unclear whether the commonwealth can or would be willing to do so. While the communications department warned media broadcasters must “act responsibly” in reporting on the scheduled execution by firing squad of Nidal Malik Hasan – which the Pentagon said would be livestreamed on 3 December – Australian federal government sources said there may be limitations in what it can do to order restrictions on an ally carrying out its own legal proceedings. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
+      "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The band, who announced their reunion last week, say they are \"absolutely ecstatic\" to be playing together again.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,8 +209,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Fingerprints are the new cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Cartographers of North Korea (2019)",
-      "url": "https://cartographers-nk.wonyoung.so/",
-      "source": "Hacker News",
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
