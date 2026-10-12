@@ -1,6 +1,80 @@
 {
-  "generated": "2026-10-12T18:42:57.449165Z",
+  "generated": "2026-10-12T20:42:48.558727Z",
   "summaries": [
+    {
+      "summary": "Israeli airstrike on a tent in Gaza's Khan Younis killed three Palestinians.",
+      "significance": "The latest Israeli airstrike escalates tensions in Gaza, impacting ceasefire stability and civilian safety.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
+      "points": [
+        "Palestinians held funerals for the victims on Monday.",
+        "The attack occurred amid rising tensions over the Gaza ceasefire.",
+        "The strike targeted a tent in Khan Younis, Gaza."
+      ]
+    },
+    {
+      "summary": "Christian Horner, former Red Bull F1 team boss, reflects on his sacking and its impact on his life.",
+      "url": "https://www.theguardian.com/sport/2026/oct/12/christian-horner-red-bull-formula-one",
+      "points": [
+        "Horner questions his purpose and deals with panic attacks after being fired.",
+        "At 52, Horner should be in Singapore for a grand prix but is at home in Highgate.",
+        "His wife, Geri Halliwell-Horner, discusses their daughters' school and her Spice Girls past."
+      ]
+    },
+    {
+      "summary": "Greens push for tech regulations as Labor funds charities; Greens divided on Ukraine weapons.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+      "points": [
+        "Greens advocate for regulations on big tech, aiming to prevent harm to Australians.",
+        "Labor announces $630m funding boost for charities.",
+        "Greens internally divided on providing weapons to Ukraine."
+      ]
+    },
+    {
+      "summary": "BBC will cease recording The Archers in Birmingham due to cost-cutting measures.",
+      "significance": "The Archers recordings leaving Birmingham marks a significant change for the 75-year-old soap opera, affected by BBC's cost-cutting measures.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/12/bbc-to-stop-recording-the-archers-in-birmingham-for-first-time-in-its-75-year-history",
+      "points": [
+        "Plans for a new radio drama theatre in Digbeth have been scrapped.",
+        "The move affects the show's 75-year recording history in Birmingham."
+      ]
+    },
+    {
+      "summary": "A 14-year-old pupil was arrested after shooting two teachers at a middle school in Aubagne, France.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "The suspect entered Lakanal middle school with a shotgun hidden in a guitar case.",
+        "The principal and a 37-year-old teacher were injured but their conditions are not life-threatening.",
+        "The suspect's father was also taken into custody after weapons were found in their home."
+      ]
+    },
+    {
+      "summary": "Codex CLI installs a persistent, self-updating background daemon by default, causing user concerns over control and security.",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "points": [
+        "Users request making daemon auto-start opt-in rather than default.",
+        "Daemon updates itself hourly, potentially disrupting active sessions.",
+        "Codex 0.157.0 fails to start with Arch Linux package without --no-daemon flag."
+      ]
+    },
+    {
+      "summary": "Cryptographic recommendations for developers are updated, emphasizing post-quantum security measures and the importance of using secure encryption methods by 2029.",
+      "significance": "The story matters as it provides updated cryptographic guidelines for developers to secure data against quantum computing threats by 2029.",
+      "url": "https://words.filippo.io/right-answers/",
+      "points": [
+        "Cryptographic standards need to be updated by 2029 to address post-quantum security.",
+        "Symmetric cryptography methods like AES-256-GCM and XChaCha20Poly1305 are recommended for encryption.",
+        "For asymmetric cryptography, HPKE with MLKEM768-X25519 and AES-128-GCM is suggested, highlighting changes since 2018 and 2024."
+      ]
+    },
+    {
+      "summary": "The newsletter covers AI swarm scaling, Google DeepMind's SynthID Bio watermarking for synthetic biology, and the performance of AI systems in automated scientific labs.",
+      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+      "points": [
+        "Toby Ord's analysis shows swarms can halve the time needed for tasks but face diminishing returns as the number of agents increases.",
+        "Polling indicates 61% of Americans believe self-regulation by AI companies is insufficient, with 54% supporting government-set rules.",
+        "Google's SynthID Bio watermarking method for synthetic biology has shown effectiveness across various proteins in wet-lab testing."
+      ]
+    },
     {
       "summary": "UK to review security for high-profile public figures after Ann Widdecombe's murder.",
       "significance": "Security arrangements for high-profile public figures will be reviewed following Ann Widdecombe\u2019s murder, extending police support to former MPs, party leaders, and others.",
@@ -3671,78 +3745,6 @@
         "Steele is \"sincerely ashamed\" to be associated with RSPCA Certified scheme.",
         "RSPCA Certified scheme labels 97% of chicken sold in Australia.",
         "Steele left RSPCA NSW at the end of September."
-      ]
-    },
-    {
-      "summary": "Radio host Alan Jones corresponded with a 13-year-old seeking financial help, involving secret-keeping and personal visits.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/06/alan-jones-court-financial-help-13-year-old-ntwnfb",
-      "points": [
-        "Jones took the teenager to lunch and invited him to his apartment.",
-        "The teenager wrote to Jones after his father left and a family member died.",
-        "Jones asked the teenager to keep some conversations secret from his mother."
-      ]
-    },
-    {
-      "summary": "Guardian readers funded life-changing surgery for a Somali boy injured in a US airstrike.",
-      "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
-      "points": [
-        "Seven-year-old Abdiqadir Salah underwent surgery in Mogadishu.",
-        "The US drone strike in Jamaame, Somalia, killed at least 12 civilians."
-      ]
-    },
-    {
-      "summary": "Angus Taylor promises to cut Australia's net overseas migration to 100,000 for two years, calling it the biggest reduction in history.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/06/coalition-immigration-policy-angus-taylor-one-nation-labor-ntwnfb",
-      "points": [
-        "Coalition plans to limit net overseas migration to 100,000 for two years.",
-        "Proposes 130,000 and 160,000 migration caps in third and fourth years.",
-        "Includes new agriculture visa starting in 2030."
-      ]
-    },
-    {
-      "summary": "Former NSW police officer's movements tracked by CCTV after alleged double murder in Sydney.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/06/beau-lamarre-condon-trial-cctv-accuseds-movements-sydney-after-alleged-double-murder-ntwnfb",
-      "points": [
-        "Jurors viewed CCTV footage tracking accused across Sydney post-murders.",
-        "Beau Lamarre-Condon, 31, former senior constable, pleaded not guilty.",
-        "Victims were Jesse Baird, 26, and Luke Davies, 29, killed in Feb 2024."
-      ]
-    },
-    {
-      "summary": "Research on ancient skulls from Umm el-Qa\u2019ab suggests servants of early Egyptian kings were sacrificed upon their ruler's death.",
-      "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
-      "points": [
-        "Study found fractures in several ancient skulls at the royal cemetery.",
-        "Umm el-Qa\u2019ab, near Abydos, holds tombs dating back to 3,000BC.",
-        "Evidence supports early Egyptologist theories on sacrificial practices."
-      ]
-    },
-    {
-      "summary": "Trump announces a Super Pac will cover costs of controversial taxpayer-funded ads that praised him.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads",
-      "points": [
-        "Ads cost at least $1.5m in federal funds.",
-        "Trump initially defended the ads as \"standard\" promotion for the U.S.",
-        "Both Democrats and Republicans criticized the use of tax dollars for pro-Trump ads."
-      ]
-    },
-    {
-      "summary": "Gleam programming language no longer compiles to Erlang source, instead using a new binary format for improved performance and accuracy.",
-      "significance": "The change improves compiler performance and accuracy of runtime metadata in Gleam, affecting developers using the language.",
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "points": [
-        "Gleam's new Erlang code generator outputs a binary format, improving compiler performance and accuracy of location metadata.",
-        "Compilation time for 100 modules with 100 functions each has significantly reduced from v1.17.0 to v1.19.0.",
-        "Gleam's decision to compile to Erlang abstract forms rather than BEAM bytecode ensures sustainability and avoids the need to constantly update for virtual machine changes."
-      ]
-    },
-    {
-      "summary": "Reflection introduces Beam, an open-weight model designed for coding, reasoning, and agentic tasks, featuring 501 billion parameters.",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "points": [
-        "Beam has 23 billion active parameters and was pretrained on 23.8 trillion tokens.",
-        "The model underwent high-compute reinforcement learning using 10.5K NVIDIA GB300 GPUs over 4 weeks.",
-        "Beam achieves comparable reasoning scores to GLM-5.2 while using 3-4 times less inference compute."
       ]
     }
   ]
