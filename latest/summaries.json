@@ -1,6 +1,16 @@
 {
-  "generated": "2026-10-12T20:42:48.558727Z",
+  "generated": "2026-10-12T22:40:37.724712Z",
   "summaries": [
+    {
+      "summary": "The article argues that while LLMs have limitations, they can still be considered tools that require skill to use effectively.",
+      "significance": "The story matters because it clarifies that using AI effectively requires skill and human direction, challenging the notion that AI is merely automation.",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "points": [
+        "The article contends that using an LLM well requires skill, similar to using other tools like a saw or chisel.",
+        "It challenges the notion that automation disqualifies something from being a tool, citing examples like compilers and spreadsheets.",
+        "The author criticizes the AI industry's use of anthropomorphic terms, suggesting it misrepresents the nature of these systems."
+      ]
+    },
     {
       "summary": "Israeli airstrike on a tent in Gaza's Khan Younis killed three Palestinians.",
       "significance": "The latest Israeli airstrike escalates tensions in Gaza, impacting ceasefire stability and civilian safety.",
@@ -3735,16 +3745,6 @@
       "points": [
         "Trials involve French ISIS suspects transferred from Syrian detention camps.",
         "on the proceedings taking place in Iraq."
-      ]
-    },
-    {
-      "summary": "RSPCA NSW vice-president Mark Steele resigned over dissatisfaction with RSPCA's chicken welfare standards.",
-      "significance": "The resignation highlights internal conflict over RSPCA welfare standards for chicken, potentially affecting consumer trust in RSPCA-certified products.",
-      "url": "https://www.theguardian.com/food/2026/oct/06/rspca-vice-president-quits-chicken-welfare-standards",
-      "points": [
-        "Steele is \"sincerely ashamed\" to be associated with RSPCA Certified scheme.",
-        "RSPCA Certified scheme labels 97% of chicken sold in Australia.",
-        "Steele left RSPCA NSW at the end of September."
       ]
     }
   ]

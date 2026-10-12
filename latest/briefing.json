@@ -11,67 +11,76 @@
       "alsoReportedBy": ["BBC News", "Al Jazeera"]
     },
     {
-      "title": "India's opposition parties march to top court as protests over voter lists escalate",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "US actress Selma Blair arrested after allegedly attacking attendants on flight",
-      "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Blair's publicist told the BBC that she \"experienced a medical emergency that led to the alleged conduct\".",
+      "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
+      "title": "Why the Cornell gang rape case has raised concerns about fraternity culture",
+      "url": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Israeli strike on tent in Gaza’s Khan Younis kills three",
+      "summary": "Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty.",
       "alsoReportedBy": []
     },
     {
-      "title": "Government expands police support to political figures who are not MPs",
-      "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
+      "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Katie Zacharia worked for one of Trump's companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she'll be the president's chief spokesperson.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Nearly $22 million in taxpayers funds has been spent to air the ads, with nearly half spent after Trump promised to fund what the White House calls public service announcements through his super PAC.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+      "url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
+      "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "El Nino-induced drought is affecting roughly half of the country as three-year long war continues.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
+      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
       "alsoReportedBy": []
     },
     {
-      "title": "Elon Musk spends $366m to bolster Republican Party in US midterm elections",
-      "url": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The barrage of spending comes as Republicans fight to overcome Trump&#039;s slipping popularity and cost of living concerns.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "title": "French supermarket fridges heated up in 'unprecedented' cyber attack",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Teenager shoots headmaster, teacher at French school",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "French officials say a 14-year-old boy opened fire with a hunting rifle at a middle school in the town of Aubagne.",
-      "alsoReportedBy": []
+      "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "Christian Horner: ‘Not all teams act that way. You don’t see the same brutality as when I left’",
@@ -83,66 +92,57 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Why are the Houthis attacking Saudi airports and how are the missiles getting through?",
-      "url": "https://www.theguardian.com/world/2026/oct/12/why-are-the-houthis-attacking-saudi-airports-riyadh-yemen",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Attacks by Iran-backed group come amid counteroffensive by Yemeni government supported by Riyadh Continue reading...",
+      "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
       "alsoReportedBy": []
     },
     {
-      "title": "Australia politics live: Labor’s $630m funding boost for charities; Greens at odds about Ukraine weapons",
+      "title": "Many Iranians who go to Turkey to find jobs are exploited",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5979836/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Desperate Iranians are finding work in Turkey to make ends meet, but many are being exploited and left with nothing but more debt.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Trump said he had brokered a cease-fire to protect energy infrastructure in Russia and Ukraine. But Ukrainian officials say bombs kept falling overnight on gas facilities, wounding 33 people.",
+      "alsoReportedBy": ["BBC World"]
+    },
+    {
+      "title": "Australia politics live: PM urged to call Trump about execution livestream; Robert Pether speaks after Iraq prison release",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Greens say big tech has been ‘laughing all the way to the bank’ and ‘we need proper regulations’ Sarah Hanson-Young is leading the Greens’ negotiations with the government over legislation designed to hold tech companies responsible for preventing harm to Australians, in particular children. The legislation is expected to be tabled in parliament this week. Putting in place a duty of care on these big tech platforms is something that’s well and truly overdue. And these big tech companies, social media platforms have been getting away with profiting off content that has been harmful, of technologies that have been designed to be deliberately addictive, even though they know the harm that that can do. Continue reading...",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail. Pether and his Egyptian colleague Khalid Radwan were detained in Baghdad in 2021 after flying in for a meeting with bank officials to resolve a dispute with his engineering firm, CME Consulting. We were innocent when we were taken on the 7th of April 2021, and we remain innocent today. I was released from prison hours away from death. My body was shutting down after months of critical illness and excruciating pain, but I remained trapped in Iraq. She is an incredible person, someone that I have so much respect for, and being able to come home was incredible. Just the emotion that it brings is, you can’t describe it. I mean, it’s been years. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "BBC to stop recording The Archers in Birmingham for first time in its 75-year history",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/12/bbc-to-stop-recording-the-archers-in-birmingham-for-first-time-in-its-75-year-history",
+      "title": "Australia may risk a diplomatic spat with the Trump administration if it limits the viewing of a US execution",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-us-execution-livestream-julie-inman-grant-esafety",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Plans for a new theatre for world’s longest-running soap in Digbeth scrapped as part of cost-cutting measures The BBC is set to stop recording The Archers in Birmingham for the first time in the show’s 75-year history, after scrapping plans for a radio drama theatre that was to be the new home of the world’s longest-running soap opera. A pledge to move recordings to the so-called tea factory, the BBC’s new Birmingham hub in Digbeth, has become the latest victim of the corporation’s £500m cuts plan . Continue reading...",
+      "summary": "A history of tech giant legal challenges and US political criticism shows there’s no easy solution for the eSafety commissioner Get our new political email , free app or daily news podcast Australia’s online safety regulator has a few levers to limit the public seeing the US’s planned live stream of an execution but history suggests it will lead to a very public fight. The US defense secretary, Pete Hegseth, announced last week the planned execution of Fort Hood shooter Nidal Hasan would be livestreamed when the military execution is carried out in early December . Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Both Russia and Ukraine are using AI-powered drones on the battlefield",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A businessman wanted in the US for allegedly bribing top Venezuelan officials has been taken into custody A businessman wanted for years in the US for allegedly paying bribes to top Venezuelan officials in exchange for lucrative state contracts in Venezuela has been taken into custody. Alvaro Pulido was indicted in Miami federal court in 2019 and again in 2021 as part of an investigation into his longtime business partner, Alex Saab, a one-time ally of ousted Venezuelan president Nicolás Maduro . The US Drug Enforcement Administration (DEA) and the state department had been offering a reward of up to $10m for information leading to his arrest. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Mahmood orders urgent security review after killing of Ann Widdecombe",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/12/security-high-profile-public-figures-reviewed-ann-widdecombe",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Home secretary also expands police support ‘with immediate effect’ for high-profile public figures not currently MPs Security arrangements for high-profile public figures including politicians and members of the royal family are to be urgently reviewed after the killing of Ann Widdecombe , the home secretary has said. Shabana Mahmood said former MPs, party leaders who are not MPs, peers, former members of devolved parliaments and party spokespeople will also be offered police support. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+      "summary": "A Ukrainian company that got rich making smartphone-controlled cameras to watch pets at home now outfits first-person-view drones with an image recognition system powered by artificial intelligence.",
       "alsoReportedBy": []
     },
     {
@@ -155,13 +155,22 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Democrats rebuke federal raid of Ilhan Omar’s home: ‘rogue abuse of power’",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump",
+      "title": "BBC to stop recording The Archers in Birmingham for first time in its 75-year history",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/12/bbc-to-stop-recording-the-archers-in-birmingham-for-first-time-in-its-75-year-history",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Top House Democrats question the ‘corrupt weaponization’ of federal government against Trump’s adversaries Ilhan Omar ’s Democratic colleagues have condemned federal agents’ search of the Minnesota congresswoman’s home on Monday morning, describing it as “deeply disturbing” and emblematic of the Trump administration ’s “corrupt weaponization” of the US government. House Democratic leaders, including minority leader Hakeem Jeffries, party whip Katherine Clark and caucus chair Pete Aguilar, issued a joint statement excoriating the president for the search. Continue reading...",
-      "alsoReportedBy": ["Guardian World"]
+      "summary": "Plans for a new theatre for world’s longest-running soap in Digbeth scrapped as part of cost-cutting measures The BBC is set to stop recording The Archers in Birmingham for the first time in the show’s 75-year history, after scrapping plans for a radio drama theatre that was to be the new home of the world’s longest-running soap opera. A pledge to move recordings to the so-called Tea Factory, the BBC’s new Birmingham hub in Digbeth, has become the latest victim of the corporation’s £500m cuts plan . Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+      "alsoReportedBy": []
     },
     {
       "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
@@ -173,17 +182,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "About 70 ultramarathon runners in Utah evacuated after being stranded by flooding",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/storm-rachel-runners-stranded-evacuated-utah",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Runners in Moab 240 successfully evacuated from race route after flooding from remnants of tropical storm Rachel About 70 runners participating in Utah ’s Moab 240 ultramarathon were successfully evacuated from the race route on Sunday after being stranded by flooding stemming from the remnants of Tropical Storm Rachel . The event’s host, Destination Trail, addressed the emergency rescue effort in a social media statement which confirmed that all runners were safe and accounted for. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "url": "https://github.com/openai/codex/issues/48195",
+      "title": "AI Is a Tool. Using It Well Takes Skill.",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "url": "https://news.ycombinator.com/item?id=50059096",
+      "title": "Phreak.ing – Internet Phone Switch",
+      "url": "https://phreak.ing/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
