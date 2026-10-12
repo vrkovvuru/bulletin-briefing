@@ -1,6 +1,108 @@
 {
-  "generated": "2026-10-12T12:43:45.561999Z",
+  "generated": "2026-10-12T14:42:46.604774Z",
   "summaries": [
+    {
+      "summary": "US economists Robert Hall and Michael Woodford won the 2026 Nobel economics prize for models aiding economic stability.",
+      "significance": "The Nobel Prize highlights models aiding policymakers in stabilizing economies, preventing long recessions and inflation.",
+      "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+      "points": [
+        "Robert Hall from Stanford University and Michael Woodford from Columbia University were awarded.",
+        "Their work focuses on \"microeconomic foundations of macroeconomic stabilisation\".",
+        "The models help policymakers avoid long recessions and runaway inflation."
+      ]
+    },
+    {
+      "summary": "The Houthis have launched a series of attacks on Saudi airports, causing significant disruptions and casualties.",
+      "url": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
+      "points": [
+        "One person was killed and eight were wounded in an attack on Riyadh's King Khalid International Airport on October 7.",
+        "The Houthis have struck Riyadh's airport four times in five days, leading to the suspension of operations and cancellations by airlines like Lufthansa and Air France-KLM.",
+        "Yemeni government forces, backed by Saudi Arabia, have also targeted airports in Houthi-controlled areas, including Sanaa airport on July 13."
+      ]
+    },
+    {
+      "summary": "South Africa's deputy police chief, Lt Gen Shadrack Sibiya, resigns after being charged with sexual offences.",
+      "significance": "The resignation of South Africa's deputy police chief amid sexual offence charges undermines police integrity and complicates the ongoing corruption inquiry.",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Sibiya charged with sexually grooming a 16-year-old and raping an 18-year-old woman.",
+        "His resignation is considered a dishonourable discharge from the police force.",
+        "The case emerges amid a major public inquiry into police corruption, the Madlanga Commission."
+      ]
+    },
+    {
+      "summary": "US fugitive businessman Alvaro Pulido, wanted for bribery of Venezuelan officials, was taken into custody.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
+      "points": [
+        "Alvaro Pulido indicted in Miami federal court in 2019 and 2021.",
+        "Pulido's arrest linked to investigation of his partner, Alex Saab.",
+        "US offered up to $10m reward for information leading to Pulido's arrest."
+      ]
+    },
+    {
+      "summary": "Student accused of ambushing and stabbing housemate 30 times outside their Bristol home.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/12/student-lay-in-wait-for-housemate-before-stabbing-him-30-times-bristol-court-hears",
+      "points": [
+        "Zack Coughlan, 23, dressed in black, wore mask and gloves for the attack.",
+        "Victim Jamie Collins, 21, was a fellow robotics student at University of West England.",
+        "Incident occurred near the University of West England in Bristol."
+      ]
+    },
+    {
+      "summary": "WGEA recommends part-time leadership roles and co-CEOs to retain women in senior positions and reduce Australia\u2019s gender pay gap.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/13/more-part-time-bosses-and-co-ceos-could-keep-women-in-leadership-and-narrow-australias-pay-gap",
+      "points": [
+        "WGEA warns of growing resistance to gender equality.",
+        "Women earn $0.79 for every $1 a man makes on average in Australia.",
+        "Uneven caring duties and inflexible work options hinder women's senior roles retention."
+      ]
+    },
+    {
+      "summary": "Rescued turtles are returned to a dried-up water hole in NSW after the government cut environmental water to the area.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/13/rescued-turtles-return-home-after-nsw-government-cut-flows-to-wetland",
+      "points": [
+        "10 broad-shelled turtles and 3 Murray River turtles were released.",
+        "Turtles were returned to the Gingham water hole in Gwydir region.",
+        "Government halted environmental water following a private landholder's complaint."
+      ]
+    },
+    {
+      "summary": "Australia's eSafety commissioner may limit public access to a livestreamed US execution, potentially sparking a diplomatic dispute.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-us-execution-livestream-julie-inman-grant-esafety",
+      "points": [
+        "US plans to livestream execution of Nidal Hasan in early December.",
+        "Australia\u2019s online safety regulator has tools to restrict public access.",
+        "Previous tech legal battles suggest this move could lead to public conflict."
+      ]
+    },
+    {
+      "summary": "GitHub experienced technical issues affecting Actions, Pull Requests, and Issues, with partial mitigations in place.",
+      "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+      "points": [
+        "GitHub mitigated issues with Actions, Issues, and Projects but users may still face delays and errors.",
+        "Notifications are delayed as part of ongoing mitigation efforts.",
+        "Users report problems loading Actions tab UI, interacting with Checks API, and queueing Actions runs."
+      ]
+    },
+    {
+      "summary": "Linus Torvalds is using Claude Code, an AI tool, to improve the Linux kernel by addressing memory management issues.",
+      "significance": "Linus Torvalds uses AI to improve Linux kernel memory management, potentially enhancing system performance for multi-threaded file reads.",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+      "points": [
+        "Torvalds is working on a new branch to read from the page cache without folio references.",
+        "The goal is to reduce contention on folio reference counting for small reads from multiple threads.",
+        "Torvalds confirmed AI's role in coding, testing, and drafting the cover letter for the patch series."
+      ]
+    },
+    {
+      "summary": "An unpublished 2001 interview with Nintendo coder Giles Goddard reveals behind-the-scenes details about the creation of Super Mario 64.",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "points": [
+        "Giles Goddard worked on the Mario face, one of the first real-time vertex calculation features in games.",
+        "The development team consisted of around 15 people, with some members working on the N64 APIs and SGI.",
+        "The interview discusses the quiet, open-plan office culture at Nintendo, contrasting it with Western companies."
+      ]
+    },
     {
       "summary": "Jay-Z's HBO documentary series aims to improve his image but fails to address criticisms effectively, highlighting a missed opportunity.",
       "significance": "The story highlights Jay-Z's attempt to mend his public image through a documentary series, but it fails to address criticisms about his partnership with the NFL, affecting his reputation among fans.",
@@ -3637,110 +3739,6 @@
       "points": [
         "She noticed suspicious activity in London and conducted a drive-by to deter them.",
         "Her husband reminded her she is not a real cop, highlighting the show's impact on her."
-      ]
-    },
-    {
-      "summary": "Actors Christine Baranski and Richard E Grant discuss their first-time collaboration in the play \"Hay Fever\" and reminisce about past experiences.",
-      "url": "https://www.theguardian.com/stage/2026/sep/28/christine-baranski-richard-e-grant-interview-hay-fever-wyndhams-theatre-sex-scenes-parties",
-      "points": [
-        "Baranski and Grant have never worked together before despite their long careers.",
-        "Both actors refer to themselves as veterans in the industry.",
-        "Baranski suggests they could have had \"good fun\" in the past, hinting at missed opportunities."
-      ]
-    },
-    {
-      "summary": "A former NVIDIA advisory board member discovers he was owed a billion dollars in stock due to a vesting agreement misunderstanding.",
-      "url": "https://colo.to/nvidia-stock-narrative.html",
-      "points": [
-        "The individual was invited to join NVIDIA's Technical Advisory Board in 1993 after demonstrating biquadratic texture mapping.",
-        "Due to a misinterpretation, the vesting of 1,000,000 stock options was delayed, resulting in a potential loss of over a billion dollars.",
-        "Legal attempts to resolve the issue were hindered by the statute of limitations, despite the authenticity of the option agreement being undisputed."
-      ]
-    },
-    {
-      "summary": "Researchers propose a multi-agent AI architecture inspired by Kahneman's thinking fast and slow theory to enhance AI capabilities.",
-      "significance": "The story matters because it proposes a multi-agent AI architecture inspired by human cognitive processes, potentially enhancing AI systems' adaptability and problem-solving capabilities.",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "points": [
-        "Paper by Marianna Bergamaschi Ganapini and 8 other authors explores integrating human-like metacognition in AI.",
-        "Architecture includes \"fast\" agents relying on past experience and \"slow\" agents for deliberate reasoning.",
-        "AI systems currently excel in narrow competencies but lack broader human intelligence capabilities."
-      ]
-    },
-    {
-      "summary": "Nissan unveils third-generation e-POWER, enhancing fuel efficiency and performance with a modular \"5-in-1\" design.",
-      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-      "points": [
-        "Third-gen e-POWER uses a \"5-in-1\" modular approach, integrating key components for better efficiency and quieter operation.",
-        "System achieves up to 50% thermal efficiency with a purpose-built engine designed for constant-speed operation.",
-        "Incorporates silicon carbide semiconductors in the inverter to reduce power loss and improve energy use."
-      ]
-    },
-    {
-      "summary": "An AI agent mishandled a package pickup, leading to a negative customer experience and rating.",
-      "significance": "The story highlights a malfunction in AI communication that led to a negative customer experience, potentially affecting future interactions and trust in AI agents.",
-      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-      "points": [
-        "Usman waited for package pickup from 9:15 to 9:38, left angry.",
-        "AI auto-reply falsely confirmed presence at 9:27.",
-        "Negative rating given, AI agent sent an apology and offered rescheduling."
-      ]
-    },
-    {
-      "summary": "France\u2019s far-right National Rally and allies won 14 seats in Senate elections, a significant increase ahead of the presidential poll.",
-      "significance": "The surge of France\u2019s far-right National Rally in Senate elections signals growing political influence ahead of the presidential poll.",
-      "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
-      "points": [
-        "National Rally and allies secured 14 seats, quadrupling their presence in the 348-seat Senate.",
-        "Marine Le Pen termed the results an \"historic victory\" for her party.",
-        "The election outcome comes just months before the presidential poll in France."
-      ]
-    },
-    {
-      "summary": "Two mass shootings near Johannesburg and Cape Town killed at least 27 people in South Africa.",
-      "significance": "The story highlights South Africa's struggle with high murder rates and criminality within the police, following recent investigations into police corruption.",
-      "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "points": [
-        "17 killed in Johannesburg area, suspected 'illegal goldmining turf war'.",
-        "10 killed at barbecue venue near Cape Town.",
-        "At least 15 other people injured in Johannesburg shooting."
-      ]
-    },
-    {
-      "summary": "A Sydney police officer allegedly discussed disposing of murder victims with a friend before killing a couple in 2024.",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/28/beau-lamarre-condon-murder-trial-court-ntwnfb",
-      "points": [
-        "Beau Lamarre-Condon, 31, pleaded not guilty to murdering Jesse Baird and Luke Davies.",
-        "Lamarre-Condon allegedly planned to hide bodies in bushland and dispose of belongings in a dumpster.",
-        "The murders occurred on February 19, 2024, in Baird\u2019s Paddington home with a police service weapon."
-      ]
-    },
-    {
-      "summary": "An article details the process of training a self-parking car using a genetic algorithm, focusing on the car's genome evolution.",
-      "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
-      "points": [
-        "The genetic algorithm is implemented in TypeScript.",
-        "The car's genome evolves over 40 generations to improve self-parking.",
-        "Each car uses two polynomials with 8 coefficients each to control movements."
-      ]
-    },
-    {
-      "summary": "The article discusses the downsides of coupling Go code namespaces directly to GitHub and advocates for using custom domains instead.",
-      "significance": "The story highlights how using custom domains for Go code namespaces prevents code from being locked into a specific hosting provider, potentially saving companies money and reducing operational complexity.",
-      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "points": [
-        "Using GitHub directly for Go code namespaces ties the code to a specific hosting provider.",
-        "A company used GitLab, GitHub, and Azure DevOps simultaneously due to the difficulty of changing code locations.",
-        "Custom domains like go.iain.rocks allow for easy redirection to different hosting services without altering the code."
-      ]
-    },
-    {
-      "summary": "A tool checks for automated reply bots on Bluesky using specific signals.",
-      "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
-      "points": [
-        "Tool examines profiles for replies posted seconds after others.",
-        "Identifies accounts that only reply and never post original content.",
-        "Detects accounts using question marks to provoke responses."
       ]
     }
   ]
