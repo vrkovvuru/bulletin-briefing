@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-12T14:42:46.604774Z",
+  "generated": "2026-10-12T16:41:41.590501Z",
   "summaries": [
+    {
+      "summary": "Pope Leo keeps up his schedule a day after announcing upcoming lung surgery for a detected nodule.",
+      "significance": "Pope Leo's continued work after announcing lung surgery shows resilience, potentially reassuring followers amid health concerns.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss",
+      "points": [
+        "Pope Leo announced he will undergo lung surgery this week.",
+        "The decision follows a routine health check that found a small lung nodule.",
+        "Despite the upcoming surgery, the Pope maintains his busy schedule."
+      ]
+    },
+    {
+      "summary": "Zelenskyy promises retaliation if Russia keeps attacking Ukraine\u2019s power grid.",
+      "significance": "Zelenskyy's vow to retaliate escalates tensions following Russian strikes on Ukraine\u2019s power grid, despite calls for an energy ceasefire.",
+      "url": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
+      "points": [
+        "Zelenskyy expressed surprise at Trump\u2019s \u2018energy ceasefire\u2019 announcement.",
+        "Strikes occurred as Russian drones hit Kyiv.",
+        "Zelenskyy made the statement at a European security meeting in Warsaw."
+      ]
+    },
+    {
+      "summary": "Cyber-attack causes refrigerators to defrost in approximately 150-200 Intermarché and nearly 100 Cooperative U stores.",
+      "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+      "points": [
+        "150-200 Intermarché shops affected by the cyber-attack.",
+        "Almost 100 Cooperative U outlets impacted."
+      ]
+    },
+    {
+      "summary": "Andy Burnham reignites debate on Russia's interference in the 2016 EU referendum.",
+      "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-kremlin-eu-referendum-brexit",
+      "points": [
+        "Burnham claims he was informed of Russian interference post-election.",
+        "Issue was contentious in the latter half of the previous decade.",
+        "Comments revive a largely forgotten topic as the UK adjusts to Brexit."
+      ]
+    },
+    {
+      "summary": "DHH's keynote at RailsWorld signaled a shift in interest away from Rails and Ruby, leading to mixed reactions within the community.",
+      "significance": "The story highlights a shift in the Ruby ecosystem, indicating a potential renaissance despite the departure of key figures, paralleling the creative boom of the Weimar era.",
+      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "points": [
+        "DHH stated that HEY was rewritten for better performance, indicating less interest in Rails.",
+        "The article suggests a renaissance in the Ruby ecosystem despite prominent figures moving on.",
+        "The community is encouraged to innovate, such as improving concurrency in Ruby or adding a robust type system."
+      ]
+    },
+    {
+      "summary": "French supermarkets faced a significant cyberattack that disrupted refrigeration systems, leading to food spoilage and potential fires.",
+      "url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
+      "points": [
+        "At least 300 Intermarché and Netto stores, over 100 Cooperative U outlets, and several E. Leclerc stores were affected.",
+        "The attack targeted refrigeration control systems from Danish manufacturer Danfoss, notably the AK-SM800 and AK-SC355 models.",
+        "French Prime Minister's office stated that a vulnerability in software supplied by a Danish company was identified, and an investigation is underway."
+      ]
+    },
     {
       "summary": "US economists Robert Hall and Michael Woodford won the 2026 Nobel economics prize for models aiding economic stability.",
       "significance": "The Nobel Prize highlights models aiding policymakers in stabilizing economies, preventing long recessions and inflation.",
@@ -3685,60 +3741,6 @@
         "Sol is priced at $2/$10 per million tokens, 39% cheaper than GPT-6 Sol while scoring 1.52 points higher.",
         "Sonnet 5.5 debuted at #3 in Agent Arena and ranked #1 in the Chat category, costing $2.74 per task.",
         "Anthropic models now hold the top three spots in Agent Arena."
-      ]
-    },
-    {
-      "summary": "The article advocates for default hard budget caps on pay-by-usage services to prevent unexpected high costs.",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "points": [
-        "AWS launched spending limits in mid-September, pausing projects when spend limits are reached.",
-        "Google Cloud introduced Spend Caps in July, allowing monthly financial caps on specific services.",
-        "The author suggests coding agents should recommend providers with hard budget caps to avoid financial risks."
-      ]
-    },
-    {
-      "summary": "New AI models and updates, including Pi's TypeScript port and enhancements, and Google's Gemini 4 Argon and OpenAI's GPT-6.1 Sol, are detailed.",
-      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "points": [
-        "Pi now supports TypeScript, enabling external state management and automatic resumption from checkpoints.",
-        "Gemini 4 Argon undergoes extensive internal testing by thousands of engineers before release.",
-        "GPT-6.1 Sol improves serving performance and efficiency, reducing costs to $0.72 per task at maximum effort."
-      ]
-    },
-    {
-      "summary": "Scientist Michael Levin proposes that minds are patterns from a Platonic space, with bodies and machines as interfaces, suggesting a new model for understanding intelligence and embodiment.",
-      "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
-      "points": [
-        "Michael Levin argues that minds are patterns that can exist independently of physical bodies.",
-        "Xenobots and anthrobots are cited as examples of patterns adjacent to known biological forms.",
-        "Levin suggests that both biological and algorithmic systems can exhibit behaviors beyond their initial programming, hinting at a deeper, non-physical influence."
-      ]
-    },
-    {
-      "summary": "September sponsors-only newsletter covers various tech and software topics.",
-      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
-      "points": [
-        "Covers topics like Fable class models, pricing wars, and advancements in LLMs.",
-        "Includes sections on cyberattacks, Datasette vulnerabilities, and software releases.",
-        "Costs $10/month for access, with a free copy available a month later."
-      ]
-    },
-    {
-      "summary": "Photographer captures life inside a French child prison, highlighting harsh conditions and limited activities.",
-      "significance": "The story highlights harsh conditions and limited activities for children in French prisons, criticized by Europe\u2019s Committee for the Prevention of Torture.",
-      "url": "https://www.theguardian.com/global-development/2026/sep/28/i-sleep-with-all-my-clothes-on-to-protect-my-privacy-a-glimpse-into-life-inside-a-child-prison-in-france",
-      "points": [
-        "Children may spend up to 23 hours daily in their cells due to staff shortages.",
-        "Europe\u2019s Committee for the Prevention of Torture criticizes low access to education and sports.",
-        "Cells contain minimal elements: a window, bars, a rudimentary bed, and a plank desk."
-      ]
-    },
-    {
-      "summary": "Actress Siân Brooke discusses how her role in the police drama Blue Lights has influenced her behavior in real life.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/28/blue-lights-sian-brooke-peelers-sherlock-house-of-the-dragon",
-      "points": [
-        "She noticed suspicious activity in London and conducted a drive-by to deter them.",
-        "Her husband reminded her she is not a real cop, highlighting the show's impact on her."
       ]
     }
   ]

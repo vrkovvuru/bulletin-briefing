@@ -8,60 +8,78 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.",
-      "alsoReportedBy": ["The Guardian"]
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
     },
     {
-      "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
-      "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Tehran seeks dialogue in Yemen conflict, warning a military solution risks complicating the volatile regional situation.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
-      "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding long recessions and runaway inflation. Robert Hall of Stanford University, California, and Michael Woodford of Columbia University, New York, were recognised for developing the “microeconomic foundations of macroeconomic stabilisation” , giving policymakers better tools to smooth out the peaks and troughs of their economies. Continue reading...",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "alsoReportedBy": []
+      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "alsoReportedBy": ["NPR"]
     },
     {
-      "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
-      "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Why are the Houthis attacking Saudi airports and how are the missiles getting through?",
+      "url": "https://www.theguardian.com/world/2026/oct/12/why-are-the-houthis-attacking-saudi-airports-riyadh-yemen",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The IRGC is hitting more ships allegedly part of a shuttle operation to move crude oil beyond the Strait of Hormuz.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "President Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his statement.",
+      "summary": "Attacks by Iran-backed group come amid counteroffensive by Yemeni government supported by Riyadh Continue reading...",
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "Why are the Houthis striking Saudi airports?",
-      "url": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
+      "title": "French supermarket fridges heated to 50C in 'unprecedented' cyber attack",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Pope Leo continues working after lung surgery announcement",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The attacks mark the deadliest assault on Saudi soil in more than a decade.",
+      "summary": "Pope Leo continues working after lung surgery announcement",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "India's opposition parties march to top court as protests over voter lists escalate",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
+      "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "PM Burnham confirms talks in Brussels next month, insisting the British public will be &#039;the boss&#039; of the reset.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "France school shooting: Police detain pupil after two injured",
+      "url": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Officials say a staff member disarmed the suspect, who hid a hunting shotgun in a guitar case, before police arrived.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Zelenskyy says ‘increasingly clear’ Russia does not want energy ceasefire after strikes on energy facilities – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Zelenskyy had proposed a 60-day total ceasefire to allow Ukraine to hold presidential elections Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ Addressing the conference virtually, Ukrainian president Volodymyr Zelenskyy commented on Trump’s “sudden but very important” energy ceasefire declaration over the weekend. He said it is clear that Putin “does not read Truth social”, the site that the US president posted his ceasefire declaration on. Russia wants to ruin the existing security architecture in Europe to make sure that Russian domination comes back to where it was before 1989. We have no doubt about it. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -74,21 +92,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The missed opportunity of Jay-Z’s documentary series",
-      "url": "https://www.theguardian.com/music/2026/oct/12/jay-z-in-8-hbo-documentary-series",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Jay-Z in 8, the rap mogul’s HBO docuseries, covers his life and career in effort to mend his image – with no pushback. Why is he so fixated on the court of public opinion? During the finale of Jay-Z ’s Jay-Z in 8 , the recent eight-part HBO documentary series on his life and career, the billionaire rap mogul talked with record producer Rick Rubin about the song Family Feud from his 4:44 album . He clarified one of its lyrics, “Al Sharpton in the mirror takin’ selfies / How is him or Pill Cosby ‘posed to help me?”, in which he chided Sharpton, the civil rights leader, and Cosby, the disgraced actor-comedian, for constantly criticizing rap music . He called Sharpton an “extortionist” who goes “from place to place” demanding: “You want our support … give us the money.” Listening to him chastise Sharpton, I pondered how he doesn’t see himself as a similar figure. Starting in 2019, Jay-Z partnered with the NFL in 2019 as entertainment director, deciding the Super Bowl half-time performers and working with the league on other community endeavors. Colin Kaepernick , the former NFL quarterback, has recently alleged that the deal came after NFL owners decided they needed a “Black face” to help them quell outrage from Black people after Kaepernick was blackballed by the league for kneeling during the national anthems as a form of protest against police brutality. Jay-Z was lambasted for undercutting Kaepernick’s cause for personal gain, marring his reputation with many fans who came to view him as the same counterinsurgent figure he criticized in the documentary. Continue reading...",
+      "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
+      "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "A businessman wanted in the US for allegedly bribing top Venezuelan officials has been taken into custody A businessman wanted for years in the US for allegedly paying bribes to top Venezuelan officials in exchange for lucrative state contracts in Venezuela has been taken into custody. Alvaro Pulido was indicted in Miami federal court in 2019 and again in 2021 as part of an investigation into his longtime business partner, Alex Saab, a one-time ally of ousted Venezuelan president Nicolás Maduro . The US Drug Enforcement Administration (DEA) and the state department had been offering a reward of up to $10m for information leading to his arrest. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Marco Rubio is promoting troubling ideas about ‘Western civilization’ | Ted Widmer",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/12/marco-rubio-western-civilization",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "In a recent visit to Greece, the secretary of state suggested that Europe must rediscover the values of conquest and expansion They had obviously worked hard on the backdrop – and it was magnificent. On 7 October, the US secretary of state, Marco Rubio , delivered a major speech in Athens, outdoors, with the Acropolis behind him. The sun was setting, bathing the ancient scene, including the Parthenon, in the light of the golden hour. The golden hour, but yet not quite the golden age. This was not Pericles defending democracy. Instead, Rubio offered a haunting vision of the choices facing the west, arguing that the US and Europe must rediscover the values of exploration and conquest that once drove centuries of expansion, or face decline and irrelevance. Continue reading...",
+      "title": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
+      "url": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Ukrainian leader says he was surprised by Trump’s ‘energy ceasefire’ announcement, posted as Russian drones hit Kyiv Europe live – latest updates Volodymyr Zelenskyy has vowed to respond to Russia’s continuing attacks on the Ukrainian power grid as European leaders rally around Kyiv amid a feud with Donald Trump over Ukraine’s strikes on oil refineries. Speaking to a gathering of European security officials in Warsaw on Monday, the Ukrainian president said Kyiv would retaliate if strikes on its power grid continued: “If Russia does not agree to an energy ceasefire this winter, we will respond.” Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,13 +119,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-      "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
-      "source": "NPR World",
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
-      "alsoReportedBy": ["BBC World"]
+      "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
+      "alsoReportedBy": []
     },
     {
       "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
@@ -116,15 +134,6 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "US officials had been offering a reward of $10m (£7.5m) for information leading to Álvaro Pulido's arrest.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A businessman wanted in the US for allegedly bribing top Venezuelan officials has been taken into custody A businessman wanted for years in the US for allegedly paying bribes to top Venezuelan officials in exchange for lucrative state contracts in Venezuela has been taken into custody. Alvaro Pulido was indicted in Miami federal court in 2019 and again in 2021 as part of an investigation into his longtime business partner, Alex Saab, a one-time ally of ousted Venezuelan president Nicolás Maduro . The US Drug Enforcement Administration (DEA) and the state department had been offering a reward of up to $10m for information leading to his arrest. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -137,53 +146,44 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Cyber-attack defrosts refrigerators in two French supermarket chains",
+      "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "An estimated 150-200 Intermarché shops were targeted, along with almost 100 Cooperative U outlets French supermarket chains Intermarché and Cooperative U have been hit by an “unprecedented” cyber-attack that caused their refrigerators to defrost, the two retailers have said. An estimated 150-200 Intermarché shops were targeted, along with almost 100 Cooperative U outlets, in the attack, they said on Monday. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Why the US is bringing back firing squads",
+      "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The execution of Fort Hood gunman Nidal Hasan would be the first time the US Army had used a firing squad since 1945.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "How significant are Burnham’s remarks on Kremlin interference in Brexit vote?",
+      "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-kremlin-eu-referendum-brexit",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Prime minister has reopened the debate over whether Russia did seek to influence the 2016 referendum Andy Burnham unexpectedly reopened an old Brexit debate when he said he had been told after becoming prime minister that Russia had interfered in the 2016 EU referendum. It was a contentious issue in the second half of the previous decade, but one that had largely been forgotten about as the UK finally adjusted to the reality of leaving the EU. Now Burnham’s comments have given the topic a fresh impetus. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Student lay in wait for housemate before stabbing him 30 times, Bristol court hears",
       "url": "https://www.theguardian.com/uk-news/2026/oct/12/student-lay-in-wait-for-housemate-before-stabbing-him-30-times-bristol-court-hears",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Zack Coughlan is accused of murdering Jamie Collins, who he studied with at the University of the West of England A university student lay in wait for his housemate to return home before stabbing him 30 times, a murder trial has been told. Zack Coughlan, 23, dressed all in black and wore a mask and gloves to ambush Jamie Collins, 21, in the garden of their home near the University of West England in Bristol, where both studied robotics. Continue reading...",
+      "summary": "Zack Coughlan is accused of murdering Jamie Collins, who he studied with at the University of the West of England A university student lay in wait for his housemate to return home before stabbing him 30 times, a murder trial has been told. Zack Coughlan, 23, dressed in black and wore a mask and gloves to ambush Jamie Collins, 21, in the garden of their home near the University of West England in Bristol, where both were studying robotics. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Kremlin rejects 60-day truce offer and refuses to comment on Trump’s ‘energy ceasefire’ – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Zelenskyy had proposed a 60-day total ceasefire to allow Ukraine to hold presidential elections Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ Addressing the conference virtually, Ukrainian president Volodymyr Zelenskyy commented on Trump’s “sudden but very important” energy ceasefire declaration over the weekend. He said it is clear that Putin “does not read Truth social”, the site that the US president posted his ceasefire declaration on. Russia wants to ruin the existing security architecture in Europe to make sure that Russian domination comes back to where it was before 1989. We have no doubt about it. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "More part-time bosses and co-CEOs could keep women in leadership and narrow Australia’s pay gap",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/more-part-time-bosses-and-co-ceos-could-keep-women-in-leadership-and-narrow-australias-pay-gap",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Uneven caring responsibilities combined with a lack of flexible work options have prevented women from staying in senior positions, research suggests Get our breaking news email , free app or daily news podcast More part-time bosses and “co-CEOs” could keep women in leadership and narrow Australia’s gender pay gap, the federal government’s Workplace Gender Equality Agency says. WGEA warned resistance to gender equality was growing and urged employers to make management more flexible to reduce the gender pay gap, where women earn $0.79 for every $1 a man makes on average. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Rescued turtles return home after NSW government cut flows to wetland",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/rescued-turtles-return-home-after-nsw-government-cut-flows-to-wetland",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Environmental water to the area was halted after a complaint from a private landholder, leading to the deaths of wildlife and sheep Get our breaking news email , free app or daily news podcast Freshwater turtles rescued from a dried-up water hole in western New South Wales after the state government cut environmental water to the area are being returned home. Late last month, 10 broad-shelled turtles and three Murray River turtles were released back into the Gingham water hole in the state’s Gwydir region. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Julie Inman Grant may be able to limit Australians seeing a livestreamed US execution – but it could start a diplomatic incident",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-us-execution-livestream-julie-inman-grant-esafety",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A history of tech giant legal challenges and US political criticism shows there’s no easy solution for the eSafety commissioner Get our new political email , free app or daily news podcast Australia’s online safety regulator has a few levers to limit the public seeing the US’s planned livestream of an execution, but history suggests it will lead to a very public fight. The US defence secretary, Pete Hegseth, announced last week the planned execution of Fort Hood shooter Nidal Hasan would be livestreamed when the military execution is carried out in early December . Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Incident with Actions, Pull Requests and Issues",
-      "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
+      "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+      "url": "https://z.ai/blog/glm-legal",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,8 +209,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "title": "Living in the Weimar era of Ruby",
+      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,13 +218,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "QGIS bans AI assisted contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+      "url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": []
+      "alsoReportedBy": ["Hacker News"]
     },
     {
       "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "I'm sorry, but you still have to think",
-      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
