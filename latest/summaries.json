@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-11T22:41:51.469868Z",
+  "generated": "2026-10-12T00:41:22.771816Z",
   "summaries": [
+    {
+      "summary": "Pakistan declares emergency in Khyber Pakhtunkhwa, suspending the provincial government led by Imran Khan\u2019s PTI party.",
+      "significance": "Suspension of provincial government escalates conflict between Pakistan's federal authorities and Imran Khan\u2019s PTI party, deepening political instability.",
+      "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+      "points": [
+        "President Asif Ali Zardari declared the state of emergency in Khyber Pakhtunkhwa province.",
+        "PTI party spokesperson described the move as a \"coup disguised as emergency.\"",
+        "Federal government cited failure to tackle Islamist militancy as the reason for the suspension."
+      ]
+    },
+    {
+      "summary": "Sydney faces a total fire ban due to 37C temperatures and the risk of bushfires from 'dry lightning'.",
+      "significance": "A total fire ban affects Sydney due to 37C temperatures and risk of bushfires from 'dry lightning', heightening fire danger.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/total-fire-ban-sydney-extreme-weather-temperature-37c",
+      "points": [
+        "Total fire ban in place across greater Sydney.",
+        "Temperatures forecast to reach 37C in Sydney\u2019s west.",
+        "Extreme fire danger due to hot, dry conditions and thunderstorms."
+      ]
+    },
+    {
+      "summary": "A 13-year-old boy was charged with murder after a 30-year-old man was stabbed to death in Mount Druitt, Sydney.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
+      "points": [
+        "13-year-old boy charged with murder for the stabbing death.",
+        "Second boy, aged 16, also charged in connection with the incident.",
+        "The stabbing occurred in Mount Druitt on Friday evening."
+      ]
+    },
+    {
+      "summary": "An article discusses the limitations of AI agents in rewriting code, highlighting the necessity of human oversight and understanding.",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "points": [
+        "AI rewrites of code show significant differences in backwards compatibility and performance.",
+        "Rust version drops CSRF tokens and Redis for easier caching and in-process queues.",
+        "Elixir rewrite maintains closer compatibility with the original Rails code but faces performance issues."
+      ]
+    },
     {
       "summary": "Trump claims an \"energy ceasefire\" between Ukraine and Russia, with Zelensky supporting it conditionally, but Russia has not commented.",
       "significance": "Trump's claim of an \"energy ceasefire\" between Ukraine and Russia is welcomed by Zelensky but faces skepticism due to lack of Moscow's confirmation and recent attacks on energy facilities.",
@@ -3703,43 +3741,6 @@
         "Burnham's leadership seen as a successful gamble compared to Starmer's tenure.",
         "Contrast with last year's conference, where Burnham left early after Starmer's retention.",
         "Fiscal headwinds pose a significant challenge to the party's future prospects."
-      ]
-    },
-    {
-      "summary": "UK Work and Pensions Secretary Pat McFadden criticizes the current benefits system and calls for changes at the Labour conference.",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
-      "points": [
-        "Pat McFadden states the current benefits system 'writes off' claimants by keeping them dependent.",
-        "Keir Starmer pledges to deliver radical changes in the benefits system ahead of the Labour conference.",
-        "Providing free adult social care, similar to NHS healthcare, would cost £18bn according to the Health Foundation."
-      ]
-    },
-    {
-      "summary": "Drumcree standoff over an Orange Order march highlights Northern Ireland\u2019s fragile peace.",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/27/drumcree-standoff-shows-northern-irelands-troubled-past-still-threatens-its-peace",
-      "points": [
-        "Protesters previously blocked roads annually for a march on Garvaghy Road.",
-        "The issue resurfaces every year on the Sunday before the annual 12 July parade.",
-        "The standoff underscores the region's history of tension and its impact on current stability."
-      ]
-    },
-    {
-      "summary": "Fireworks Research launches Ember-1, a specialized model that matches Kimi K3's quality with 40% fewer tokens.",
-      "significance": "Ember-1 reduces costs by decreasing token usage without sacrificing quality, addressing user needs for more economical yet capable coding models.",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "points": [
-        "Ember-1 reduces token usage by 40% without sacrificing quality.",
-        "Tested on various benchmarks and live customer workloads, maintaining high quality.",
-        "Ember-1 outperforms Kimi K3 on cost/task on Bedside Bench, a physician-validated benchmark."
-      ]
-    },
-    {
-      "summary": "The article discusses the importance and methods of writing efficient C++ code, emphasizing its unique balance between high-level and low-level programming.",
-      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "points": [
-        "C++ supports object-oriented programming and direct hardware access, making it suitable for performance-critical applications like game programming.",
-        "Data-Oriented Design (DOD) focuses on efficient data layout and structure to enhance code performance and parallelization.",
-        "Inefficient code can lead to issues such as cache misses and difficulties in parallel processing, impacting performance in real-time applications."
       ]
     }
   ]
