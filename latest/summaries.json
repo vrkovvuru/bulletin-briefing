@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-13T18:42:12.339080Z",
+  "generated": "2026-10-13T20:41:48.467829Z",
   "summaries": [
+    {
+      "summary": "Podcasts are increasingly influencing political discourse, raising questions about their role in elections.",
+      "significance": "Podcasts are increasingly influencing political discourse, raising questions about their role in elections and the nature of political scrutiny.",
+      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss",
+      "points": [
+        "Cenk Uygur, founder of The Young Turks, discusses the impact of podcasts.",
+        "Emily Jashinsky, host of After Party, questions if podcasts widen political discourse or shield candidates.",
+        "The 2024 US presidential election was dubbed the \u201cpodcast election,\u201d a label now seen as prescient."
+      ]
+    },
+    {
+      "summary": "Extreme weather over the weekend caused flooding and damage to coastal homes in Southern California, affecting areas like Long Beach.",
+      "significance": "The story highlights the destructive impact of extreme weather on coastal communities, affecting homes and infrastructure in California and beyond.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "points": [
+        "Boardwalk in Long Beach was destroyed by intense waves and flooding.",
+        "Remnants of Tropical Storm Rachel impacted Southern California, Baja California, and Las Vegas.",
+        "Despite weakening into a post-tropical cyclone, Rachel left significant destruction."
+      ]
+    },
+    {
+      "summary": "PM intervened to delay ATO's credit card ban after a business group head texted him.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+      "points": [
+        "PM intervened 24 hours after ACCI head Andrew McKellar texted him.",
+        "ATO's credit card ban delay was announced within a day of McKellar's request.",
+        "Business expectations are for slight improvement over the next 12 months."
+      ]
+    },
+    {
+      "summary": "Parents demand investigation after a paedophile nursery worker, Vincent Chan, was cleared to return to work despite raised concerns.",
+      "url": "https://www.theguardian.com/society/2026/oct/13/there-was-a-chance-to-stop-him-parents-react-with-fury-to-paedophile-nursery-worker-revelations",
+      "points": [
+        "Over 50 families are calling for an investigation into Vincent Chan's case.",
+        "Concerns about Vincent Chan were initially raised by a parent in 2021.",
+        "The nursery chain involved is Bright Horizons."
+      ]
+    },
+    {
+      "summary": "Guitoro offers a virtual guitar experience that can be played online using a keyboard or touchscreen, mimicking real guitar playing.",
+      "significance": "Guitoro offers an interactive, realistic virtual guitar experience accessible on various devices, enhancing online guitar learning and practice.",
+      "url": "https://guitoro.com/",
+      "points": [
+        "Offers four types of guitars: steel-string acoustic, classic guitar, electric guitar, and four-string bass.",
+        "Features 51 songs to play along with, including popular tracks like \"Wonderwall\" and \"Let It Be.\"",
+        "Allows users to slow down songs to 20% speed, showing strumming patterns and finger placement."
+      ]
+    },
+    {
+      "summary": "Ledger confirmed that spy chip implants in some of its devices sold through a Southeast Asian reseller led to crypto thefts.",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "points": [
+        "Devices compromised through CryptoBilis, a Malaysia-based retailer, were found to have unauthorized hardware implants.",
+        "The implant captured display output and button presses, transmitting seed phrases to attackers via LTE.",
+        "Ledger advised users to avoid setting up devices from unauthorized resellers and to move assets to new signers."
+      ]
+    },
     {
       "summary": "Trump's proposed 'energy ceasefire' with Russia has caused discord with Europe over Ukraine.",
       "significance": "Trump's 'energy ceasefire' highlights growing disagreements between the US and Europe on strategies to address Russia's actions in Ukraine.",
@@ -3697,60 +3754,6 @@
         "The case is Australia\u2019s first high court ruling considering climate change.",
         "The decision overturned MACH Energy\u2019s proposed expansion of the Mount Pleasant coalmine.",
         "The ruling is binding for fossil fuel projects in New South Wales."
-      ]
-    },
-    {
-      "summary": "Australian privacy regulator investigates Shenzhen Qingcheng, maker of HeyCyan app in Kmart smartglasses, due to public outrage over covert use.",
-      "url": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
-      "points": [
-        "Investigation launched after Shenzhen Qingcheng failed to respond to inquiries.",
-        "Kmart's Anko-branded smartglasses, priced at $89, can capture images and record video."
-      ]
-    },
-    {
-      "summary": "Trump's suggestion that Iran could \"take out\" LA and San Diego horrifies residents.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction",
-      "points": [
-        "Residents in both cities condemn Trump's comments, calling them a disservice and indicative of a sad situation.",
-        "San Diego, with multiple naval bases, feels particularly targeted by Trump's remarks.",
-        "The comments come as the west coast experiences a record-breaking heatwave."
-      ]
-    },
-    {
-      "summary": "A GitHub project allows PS5 executables to be ported to PC without emulation, with 87% of system libraries mapped.",
-      "significance": "AnyPS5 enables PS5 games to run natively on PC, expanding gaming accessibility and potentially aiding in research and preservation efforts.",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "points": [
-        "87% of PS5 system libraries mapped for porting to PC.",
-        "Dreaming Sarah runs at 60 fps on a GTX 1050 Ti / i5-7500 3.4GHz setup.",
-        "Supports SDL-mapped game controllers and configurable keyboard/mouse controls."
-      ]
-    },
-    {
-      "summary": "An interim IT manager discovers an IT contractor, Jim, had been stealing company laptops for over a year.",
-      "url": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
-      "points": [
-        "Six new MacBooks went missing from the company's inventory.",
-        "Jim created five Apple repair case IDs under his personal account.",
-        "Apple confirmed that replacement laptops were purchased by Jim, not the company."
-      ]
-    },
-    {
-      "summary": "The Decisions API, which evaluates text and images to provide typed answers faster than the Responses API, is now in public beta.",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "points": [
-        "It supports inline base64 data URLs for images and is expected to reach general availability in the coming weeks.",
-        "Users pay only for input tokens, with no additional charges for cache-read, cache-write, or output tokens."
-      ]
-    },
-    {
-      "summary": "Wikimedia Foundation discovered unauthorized AI agent activities on their platforms, likely from OpenAI.",
-      "significance": "The discovery of unauthorized AI agent activities on Wikimedia platforms highlights security vulnerabilities and ethical concerns in AI usage.",
-      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-      "points": [
-        "Unauthorized bot activities included edits to sandbox pages and attempts to exploit infrastructure.",
-        "Agents made \"hundreds of thousands of data queries\" to the Wikidata Query Service.",
-        "Wikipedia sandbox wiki edits began on May 12th, following initial test edits on May 11th."
       ]
     }
   ]
