@@ -1,6 +1,99 @@
 {
-  "generated": "2026-10-13T12:43:19.701724Z",
+  "generated": "2026-10-13T14:42:06.660849Z",
   "summaries": [
+    {
+      "summary": "Zelenskyy states Ukraine received no early warning from allies about a Russian ballistic missile strike on Kyiv.",
+      "significance": "Zelenskyy highlights lack of early warning from allies for Russian missile strikes on Kyiv, underscoring reliance on intelligence for civilian protection.",
+      "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
+      "points": [
+        "Five missiles hit Kyiv's civilian infrastructure in the attack.",
+        "Zelenskyy described the attack as \"particularly vile\".",
+        "The Ukrainian president stressed the critical importance of intelligence from allies in saving lives."
+      ]
+    },
+    {
+      "summary": "Zelenskyy states Ukraine paused strikes on Russian oil refineries following Trump's ceasefire call, but Russia did not respond, and Ukraine had no warning before Kyiv strikes.",
+      "significance": "Zelenskyy highlights Russia's disregard for Trump's ceasefire call, emphasizing ongoing conflict challenges.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
+      "points": [
+        "Poland's Sikorski emphasizes strong opposition to releasing frozen Russian assets.",
+        "Germany fully supports Ukrainian government and President Zelenskyy.",
+        "Ukraine had no early warning system in place before recent strikes on Kyiv."
+      ]
+    },
+    {
+      "summary": "The White House has requested the resignation of Kimberly Guilfoyle as US ambassador to Greece due to scrutiny over her appointment.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+      "points": [
+        "Kimberly Guilfoyle is under scrutiny following reports of questionable acts prior to her ambassador role.",
+        "Katie Zacharia monitored Donald Trump\u2019s schedule and social media to ensure visibility.",
+        "Zacharia is set to be the sixth person to hold the press secretary role during Trump\u2019s terms."
+      ]
+    },
+    {
+      "summary": "AFL orders Sportsbet to cease using AI-generated content featuring players without consent.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content",
+      "points": [
+        "Sportsbet directed to remove videos of AFL stars delivering movie lines.",
+        "Lachie Neale featured in a video saying, \"I want to thank me for believing in me.\"",
+        "Sportsbet is collaborating with AFL on \"the evolving use of AI in our content."
+      ]
+    },
+    {
+      "summary": "Flying foxes, especially grey-headed ones, face mass starvation in NSW and parts of Victoria due to food shortages.",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/flying-foxes-in-nsw-and-victoria-face-mass-starvation-amid-food-shortages",
+      "points": [
+        "Wildlife rescuers report surge in exhausted and emaciated adults and skeletal pups.",
+        "Grey-headed flying foxes are listed as vulnerable under federal environment laws.",
+        "Flying foxes typically feed on native tree blossoms and nectar, which are in short supply."
+      ]
+    },
+    {
+      "summary": "Fewer Britons plan to save for foreign holidays next year due to cost of living pressures, despite travel recovering to pre-pandemic levels.",
+      "url": "https://www.theguardian.com/business/2026/oct/13/uk-holiday-demand-travel-industry-spain-deals-abta",
+      "points": [
+        "Spain remains the most popular destination for British travelers.",
+        "Britons are booking trips later to seek better deals amid financial strain.",
+        "Travel numbers recovered to pre-pandemic levels this year, but may have peaked due to rising costs."
+      ]
+    },
+    {
+      "summary": "Pennsylvania reports sixth death in measles outbreak, with cases surpassing 1,100.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/pennsylvania-measles-sixth-death",
+      "points": [
+        "Sixth death, a 39-year-old unvaccinated woman with underlying conditions, reported in Franklin county.",
+        "Pennsylvania's measles cases exceed 1,100.",
+        "CDC only lists two deaths nationwide despite Pennsylvania's report."
+      ]
+    },
+    {
+      "summary": "Apple introduces Minions, a virtual GPU cloud that utilizes idle Apple Silicon Macs for machine learning tasks.",
+      "significance": "Minions transforms idle Apple Silicon Macs into a distributed GPU cloud, enhancing machine learning inference efficiency and reducing the need for additional GPU procurement.",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "points": [
+        "Minions aggregates idle GPUs from macOS devices to execute large-scale machine learning workloads.",
+        "The system aims to reduce the need for additional GPU procurement and improve resource utilization.",
+        "Minions offers flexible task execution and fault tolerance for machine learning inference."
+      ]
+    },
+    {
+      "summary": "Creusot 0.14.0 introduces new features including contracts for Rust with formal proofs and improved Go-to-definition functionality in Pearlite specifications.",
+      "url": "https://devlog.creusot.rs/v0-14-0/",
+      "points": [
+        "Creusot now supports partial orders, changing how totality is handled since version 0.13.0.",
+        "New verification conditions (VCs) for snapshots help catch mistakes in specifications more quickly.",
+        "Go-to-definition now works in Pearlite specifications, improving navigation and development experience."
+      ]
+    },
+    {
+      "summary": "Geoffrey Huntley discusses automating code compliance through pre-commit hooks.",
+      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "points": [
+        "Huntley proposes using pre-commit hooks to enforce diagnostics library usage.",
+        "The system fails commits with direct calls to observability modules bypassing diagnostics.",
+        "Tags include coding-agents, generative-ai, git, and agentic-engineering."
+      ]
+    },
     {
       "summary": "William Chapman was killed after entering a tiger enclosure at Yorkshire Wildlife Park.",
       "significance": "The story highlights the risks and safety concerns in wildlife parks after a visitor entered a tiger enclosure and was killed, prompting investigations.",
@@ -3660,97 +3753,6 @@
         "Health minister announced the death of a citizen who arrived from DRC on Saturday.",
         "4,082 people have died out of 8,463 confirmed cases in DRC since May.",
         "This is the 17th Ebola outbreak in DRC, with no vaccine or specific treatment available."
-      ]
-    },
-    {
-      "summary": "Kemi Badenoch denies comparing the Conservative party's proposed air defence system to Israel\u2019s Iron Dome.",
-      "url": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
-      "points": [
-        "Badenoch stated the \"Britannia Shield\" is not comparable to Israel\u2019s Iron Dome.",
-        "The term \"British Iron Dome\" was used in the party\u2019s press release.",
-        "The denial came after a newspaper article mentioned the comparison."
-      ]
-    },
-    {
-      "summary": "Asos warns of potential data compromise after unauthorized access to its app system.",
-      "url": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
-      "points": [
-        "Shares in Asos fell nearly 10% following the data breach alert.",
-        "Basic personal information like names and contact details may have been accessed.",
-        "Asos does not believe payment card records or passwords were compromised."
-      ]
-    },
-    {
-      "summary": "Election deniers, including former officials, are spreading fears about election security ahead of the midterms, echoing claims made by Trump.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/election-deniers-midterms-trump",
-      "points": [
-        "Former officials who supported Trump\u2019s 2020 fraud claims now allege new election vulnerabilities.",
-        "Claims aim to justify increased control over voting processes.",
-        "Election deniers use conservative media to spread fears before midterms."
-      ]
-    },
-    {
-      "summary": "Kemi Badenoch, Conservative Party leader, refuses to form a coalition with Reform UK, preferring another election instead.",
-      "significance": "Badenoch's refusal to form a deal with Reform UK underscores the Conservatives' stance against scandal-tainted parties, potentially leading to another election in a hung parliament scenario.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Badenoch states Reform UK is \"neck deep in scandal,\" citing cases like Dan Thomas' arrest and Nathan Gill's 10.5-year prison sentence for bribery.",
-        "Polls suggest a hung parliament at the next election, with Labour leading, followed by Reform UK and the Conservatives.",
-        "Badenoch proposes cutting employer National Insurance contributions by half for workers aged 21 to 24 to boost youth employment."
-      ]
-    },
-    {
-      "summary": "An international legal battle surrounds the copyright status of an AI-generated meme character named Tung Tung Tung Sahur.",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
-      "points": [
-        "Created in 2025 by Indonesian teen Noxa using OpenAI\u2019s tool.",
-        "Character is an anthropomorphized kentongan, a southeast Asian drum.",
-        "Part of the \"Italian brain rot\" internet video genre."
-      ]
-    },
-    {
-      "summary": "African artists criticize the oversimplification of their music under the Afrobeats label, highlighting the diversity of African pop.",
-      "url": "https://www.theguardian.com/music/2026/oct/06/african-music-afrobeats-tyla",
-      "points": [
-        "Tyla won the best Afrobeats award at the MTV VMAs in 2024, representing amapiano.",
-        "Tems describes her music as a mix of \"Afro, R&B, soul and alternative elements.\"",
-        "Artists like Burna Boy prefer terms like Afrofusion to describe their diverse sounds."
-      ]
-    },
-    {
-      "summary": "The ongoing war with Iran is affecting US voters and could influence the midterm elections by highlighting affordability issues and giving Congress power to scrutinize the war.",
-      "significance": "The war with Iran is highlighting affordability issues in the U.S., potentially influencing voter decisions in the midterm elections.",
-      "url": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
-      "points": [
-        "The war has cost $45.1 billion so far, with estimates of an additional $2-3 billion monthly cost.",
-        "Congress could impede the war by controlling the purse strings and holding hearings to scrutinize decisions.",
-        "Inflation has risen from 2.4% in January to 3.4% by July, partly due to the war's impact on energy costs."
-      ]
-    },
-    {
-      "summary": "Badenoch indicates Tories won't repeal Labour's pensions triple lock policy, avoids specifics on tax cuts in upcoming speech.",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
-      "points": [
-        "Badenoch suggests Conservatives will not reverse Labour\u2019s pensions triple lock legislation.",
-        "Badenoch evades details on tax cuts, directs to speech tomorrow at 11.15am."
-      ]
-    },
-    {
-      "summary": "Paris students protest for school funding and equality, clashing with police.",
-      "url": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
-      "points": [
-        "Students built barricades outside Lycée Sophie-Germain.",
-        "Protests started in low-income suburbs and turned violent.",
-        "Investigations into police brutality are underway."
-      ]
-    },
-    {
-      "summary": "New York City med spa owner admits to causing botulism in a client by using illegal Botox.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/new-york-med-spa-botulism-botox",
-      "points": [
-        "Klara Shuster, spa owner, admitted to importing mislabeled Botox from Asia.",
-        "Shuster pleaded guilty to conspiracy to commit smuggling and other charges.",
-        "One client developed botulism after receiving the illegal Botox treatment."
       ]
     }
   ]
