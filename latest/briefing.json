@@ -2,13 +2,13 @@
   "date": "2026-10-13",
   "stories": [
     {
-      "title": "Football regulator says he would quit over any political interference in Man City case",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
+      "alsoReportedBy": ["BBC News", "The Guardian", "Al Jazeera"]
     },
     {
       "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
@@ -17,15 +17,51 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "alsoReportedBy": ["The Guardian"]
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
     },
     {
-      "title": "How podcasts became political powerhouses",
-      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss",
+      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+      "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
+      "url": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Are podcasts remaking politics or just bypassing scrutiny?",
+      "summary": "Jurrien Timber, Eberechi Eze and Bukayo Saka score as Arsenal overcome Lille in UEFA Champions League.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
+      "url": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Michael Carrick&#039;s Man Utd continue to search for a win as Atletico win 2-0 in UEFA Champions League.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "What an economics Nobel Prize winner knows about pricing",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "NPR's Ailsa Chang chats with Michael Woodford of Columbia University, who was one of two Americans awarded the Nobel Prize in Economics.",
       "alsoReportedBy": []
     },
     {
@@ -38,67 +74,31 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Scientists urge tighter AI controls to prevent global cyber risks",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
+      "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Call comes amid polls casting doubts on political leaders&#039; ability to manage AI risks as US midterm elections near.",
+      "summary": "Yemeni government forces are encircled by the Houthis in Taiz, where blockades on road routes have worsened shortages.",
       "alsoReportedBy": []
     },
     {
-      "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Locals and preservationists have long opposed Trump's plan to redevelop a municipal D.C. golf course. That legal fight escalated after the government cleared hundreds of trees on short notice.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Man killed in tiger attack identified as William Chapman",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Chapman, who was in his 20s, died after entering the tiger's enclosure at Yorkshire Wildlife Park.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Cornell suspends fraternity parties after alleged campus gang rape case",
-      "url": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Fraternities face immediate emergency suspensions for violations amid sweeping ban tackling parties at US university.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Cornell University bans frat parties, vows to address 'disturbing' campus culture",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "In a letter, Cornell's president apologized for what happened to the student who alleges she was raped by several men at a fraternity house in 2024 and promised 'meaningful action.'",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Loves Trump, lies and conspiracies: Katie Zacharia is the perfect presidential press secretary | Arwa Mahdawi",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
+      "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
+      "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Maga member believes the 2020 election was stolen and seemingly her new boss is saving the world from a cabal of satanic paedophiles. She’ll fit right in then Poor Donald Trump. His (third) wife seemingly can’t bear to be near him and his (fifth) press secretary recently abandoned him to be with a baby she had only recently met. “She decided she loved her children more than she loved Donald Trump,” the president lamented in August when Karoline Leavitt decided to step down a few months after giving birth. “I’m very upset about this. She has to go home and spend time with her children. That does happen on occasion with some people – when they love their children.” Continue reading...",
+      "summary": "Ukrainian president’s comments on ‘particularly vile’ strikes come after US threatened to halt intelligence sharing Ukraine received no early warning from its partners about a second night of Russian ballistic missile strikes on civilian infrastructure in Kyiv, including a critical power plant struck after dark, Volodymyr Zelenskyy said on Tuesday. The Ukrainian president had earlier described an attack involving five missiles on Monday as “particularly vile”. He emphasised that receiving intelligence from Ukraine’s western allies “helps saves lives, and this is one of the most critical issues”. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
-      "source": "NPR World",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
-      "alsoReportedBy": ["BBC World", "Guardian World"]
+      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "alsoReportedBy": ["Guardian World"]
     },
     {
       "title": "How will a diesel deal with Russia impact the U.S. market?",
@@ -119,72 +119,72 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Australian politics live: Chalmers urges against mocking, cancelling or talking down to One Nation supporters",
+      "title": "Australian politics live: Hanson dismisses ‘shamed and stoned’ remark as ‘heat of moment’; PM extends ‘thoughts and prayers’ to pope",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast PM says he intervened on ATO credit card ban Yesterday the prime minister said the ATO’s credit card ban was delayed just 24 hours after Andrew McKellar , head of the Australian Chamber of Commerce and Industry (ACCI) texted him asking him to interview. My door is always open. Andrew [McKellar] did text me last Thursday morning and by Friday morning we had an announcement. They don’t expect things to get a lot better in the next 12 weeks but they do expect things to get a bit better over the next 12 months. Continue reading...",
+      "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being left on the table because the government won’t properly tax the resource. We’re giving away billions in resource wealth while families struggle to pay the rent, put food on the table and afford basic healthcare. Labor can find billions to prop up the fossil fuel industry, but when it comes to making corporations like Santos, Woodside and Adani pay a fair return, suddenly it’s all too hard. The prime minister has a kink for punishing small businesses and a fetish for humiliating his treasurer. So I say this is a consistent pattern of behaviour where the prime minister constantly goes in, overrides his treasurer, humiliates him in public. I suspect it’s going to sour the relationship somewhat. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Man charged with murder over shooting death of boy, 12, in Sydney apartment last month",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/man-charged-murder-alleged-shooting-boy-12-ntwnfb",
+      "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Who's to blame for the toxic smog choking South East Asia?",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Why the lonely in China are hiring 'temporary children'",
+      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
+      "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "A 19-year-old man was arrested and charged at Silverwater correctional facility on Tuesday Get our breaking news email , free app or daily news podcast A man has been charged with murder over the shooting death of a boy, 12, in Sydney’s north in September. Police were called to a unit on Fairway Drive, Norwest, on 21 September 2026 after reports of a shooting. Continue reading...",
+      "summary": "Prime minister reiterates UK backing after the Ukrainian president’s latest round of difficulties with Donald Trump Andy Burnham will host Volodymyr Zelenskyy at Downing Street on Wednesday as the UK seeks to further underline its support for the Ukrainian president, in contrast to his difficulties with Donald Trump. The UK prime minister said his message to Zelenskyy and his country would be: “We are with you for as long as it takes.” Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "‘There was a chance to stop him’: Parents react with fury to paedophile nursery worker revelations",
-      "url": "https://www.theguardian.com/society/2026/oct/13/there-was-a-chance-to-stop-him-parents-react-with-fury-to-paedophile-nursery-worker-revelations",
+      "title": "Florida officials say six people dead from Hurricane Isaias",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "More than 50 families call for investigation into how Vincent Chan was allowed to return to job after inquiry by nursery The parents of the victims of paedophile nursery worker Vincent Chan have reacted with fury to the news that he was cleared to return to work after “significant concerns” were raised by the parent of a young girl. As first revealed in the Guardian , Chan was reported to his employer, the nursery chain Bright Horizons, by a concerned parent in 2021. Continue reading...",
+      "summary": "Governor Ron DeSantis says death toll ‘sad’ but praises work of local officials for helping to minimize storm’s impact Six deaths have been confirmed in Florida in the aftermath of Hurricane Isaias. In a press conference on Tuesday, Florida governor Ron DeSantis praised the work of local officials for minimizing the impact of the storm, which made landfall late on Friday, ⁠bringing strong winds, rain, flash floods and tornado ​threats across parts of the ​US south-east, leaving hundreds of thousands ​of residents without power. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Far-right and Iran add to mix of terror threats UK faces – not to mention AI",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Annual update from MI5 chief highlighted a complex cocktail that could have real-life consequences for Britain MI5’s annual threat update covers so much ground it is easy to feel anxious. The terror threat has become more diverse, with far-right anti-migrant threats on the rise; while Iran has now firmly emerged alongside Russia as a country seeking to undertake violent and deadly plots in the UK. “There is no law of physics dictating that rising state threats will be accompanied by diminishing terrorist threats,” MI5’s director general, Ken McCallum, said , although one of his core messages was that people and the country at large needed to focus on being more resilient. “In this new world, we should expect to be tested.” Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump's diesel deal with Putin angers Europe",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "President Trump's diesel deal with Russia sparks European fury, as Ukraine's President Zelenskyy questions Washington's motives and allies vow to keep pressure on Moscow.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent. This article was amended on 13 October 2026. A previous version said CIDRAP first reported news that the research trial was approved by the Denmark ethics committee. Rolling Stone had actually reported the news first. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "UK high street bosses urge chancellor to cut cost of employing young people",
-      "url": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Retailers call on John Healey to reduce national insurance contributions threshold in his first budget Some of the UK’s biggest retailers and hospitality businesses, including Tesco, Costa Coffee and the Co-op, have met John Healey to urge him to cut the cost of employing young people in his first budget. At the No 11 event on Tuesday morning, the chancellor heard from sector leaders – including the boss of Marks & Spencer, Stuart Machin, and Sainsbury’s chief executive, Simon Roberts – about the impact of the rise in employers’ national insurance contributions (Nics). Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A plea not to use uv-build",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-      "source": "Lobsters",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -197,6 +197,15 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "How to handle uncertainty with AI vendors and disaster recovery (DR) approaches to consider. An excerpt from the book Building Resilient Distributed Systems by Sam Newman",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -236,15 +245,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/apple-homeview/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
       "source": "Pragmatic Engineer",
@@ -263,12 +263,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+      "url": "https://www.latent.space/p/dyna",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Our first robotics pod with Dyna&#8217;s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
       "alsoReportedBy": []
     },
     {
@@ -299,15 +308,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "url": "https://www.latent.space/p/claude-dynamic-workflows",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
       "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
       "source": "Simon Willison",
@@ -317,22 +317,22 @@
       "alsoReportedBy": []
     },
     {
-      "title": "web-edit 0.1a0",
-      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which provides a web UI for viewing and editing files in a folder. It's intended to be run over Tailscale, so I can have an agent start this running and then edit files via my Tailscale network directly from my phone. Here's the interface for browsing files in a folder: Editing uses CodeMirror 6 - I was going to use Monaco but that still doesn't have a great mobile experience yet. Tags: projects , python , ai , tailscale , generative-ai , llms , codex",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-      "url": "https://www.latent.space/p/nyc2026",
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Tomorrow and Tuesday. If you see this you&#8217;re in!",
+      "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
       "alsoReportedBy": []
+    },
+    {
+      "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the \"web-edit\" app from PyPI - research first then make me those demos Here's the resulting example flame graph and heatmap . Tags: profiling , python , codex",
+      "alsoReportedBy": ["Simon Willison"]
     },
     {
       "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",

@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-13T20:41:48.467829Z",
+  "generated": "2026-10-13T22:41:35.237685Z",
   "summaries": [
+    {
+      "summary": "UK Prime Minister Andy Burnham to host Ukrainian President Zelenskyy at Downing Street to show support.",
+      "significance": "UK reinforces support for Zelenskyy amid his conflicts with Trump.",
+      "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+      "points": [
+        "Burnham will host Zelenskyy at No. 10 on Wednesday.",
+        "UK aims to contrast its support with Zelenskyy's issues with Donald Trump.",
+        "Burnham promises support for Ukraine \"for as long as it takes."
+      ]
+    },
+    {
+      "summary": "Florida's governor, Ron DeSantis, confirms six deaths due to Hurricane Isaias and commends local officials for minimizing the storm's impact.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida",
+      "points": [
+        "Six people have died in Florida following Hurricane Isaias.",
+        "Governor Ron DeSantis praised local officials for their efforts.",
+        "Isaias made landfall late Friday, causing power outages for hundreds of thousands."
+      ]
+    },
+    {
+      "summary": "An OpenAI engineer from Saudi Arabia was arrested for allegedly planting a recording device in an executive conference room.",
+      "significance": "The arrest of an OpenAI engineer for allegedly bugging an executive conference room highlights potential security vulnerabilities and risks to confidential information at leading AI firms.",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "points": [
+        "Abdulrahman Alfozan, 35, was arrested on Friday and charged with intercepting oral communications.",
+        "The recording device was found on September 30, concealed in toilet paper behind a television in a conference room.",
+        "Alfozan's spouse's chatbot account submitted queries about building and encrypting a recording device between Sept. 24 and Sept. 30."
+      ]
+    },
+    {
+      "summary": "Anthropic migrated to an in-house version control system, Scion, to handle a tenfold increase in daily code merges.",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "points": [
+        "Anthropic's daily code changes grew from 2,500 in May 2026 to over 30,000 by September.",
+        "The migration to Scion, an in-house system, was completed in five months.",
+        "Scion was designed for online agents, unlike Git, which is decentralized and works offline."
+      ]
+    },
+    {
+      "summary": "A researcher used Python 3.15 to profile a web-edit app, generating flame graphs and heatmaps.",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+      "points": [
+        "Python 3.15 profiler was used to analyze the \"web-edit\" app.",
+        "GPT-6 Astra Extra High in Codex was utilized for the profiling process.",
+        "Example flame graph and heatmap were generated as part of the research."
+      ]
+    },
     {
       "summary": "Podcasts are increasingly influencing political discourse, raising questions about their role in elections.",
       "significance": "Podcasts are increasingly influencing political discourse, raising questions about their role in elections and the nature of political scrutiny.",
@@ -3706,54 +3753,6 @@
         "Collins stated she is not Trump's \"favorite senator\".",
         "She claimed to have voted with Biden over 90% of the time when he was president.",
         "Collins highlighted voting against her own party more than any other senator."
-      ]
-    },
-    {
-      "summary": "Comedian Dave Hughes will stop performing at Victorian Liberal events due to concerns over political donation laws.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/07/comedian-dave-hughes-liberal-party-donation-law-concerns-ntwnfb",
-      "points": [
-        "Hughes, known as Hughesy, was a former Labor voter but criticizes the party over recent budget reforms.",
-        "His decision follows complaints about 'in-kind' donations related to Victorian fundraisers.",
-        "The comedian's appearances were deemed potentially problematic under state political donation laws."
-      ]
-    },
-    {
-      "summary": "Strands Decider 2B is a new open-source decision model designed for fast experimentation and local development.",
-      "significance": "Strands Decider 2B introduces a faster, more efficient decision model for agentic AI, enabling quicker experimentation and innovation in local development.",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "points": [
-        "Strands Decider 2B is a 2 billion parameter model that can return answers in tens of milliseconds.",
-        "It ranks 3rd in accuracy and calibration among 2B class models and 1st when excluding just-over-2B models.",
-        "The model can make local decisions in a median of around 115ms on an Nvidia RTX3090 and 153ms on an M3 MacBook."
-      ]
-    },
-    {
-      "summary": "Director Paloma Schneideman's film \"Big Girls Don\u2019t Cry\" explores themes of consent and queerness, resonating at film festivals.",
-      "significance": "The film explores and validates the complex issues of consent and queerness in early romantic experiences, affecting and resonating with many viewers who feel seen and exposed.",
-      "url": "https://www.theguardian.com/world/2026/oct/07/big-girls-dont-cry-director-surprise-film-festival-hit",
-      "points": [
-        "Film features a scene on a moonlit beach in Ōmaha, New Zealand.",
-        "Main character Sid, played by Ani Palmer, navigates uncomfortable teenage consent issues.",
-        "An 18-year-old viewer felt \"seen and exposed\" by the film's portrayal."
-      ]
-    },
-    {
-      "summary": "Pornhub re-enables access in Australia after implementing age verification via Apple devices.",
-      "significance": "Pornhub reaccessibility follows Australian age verification rules via Apple devices, affecting adult users and compliance with online safety codes.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/07/pornhub-returns-australia-apple-age-verification-rules-child-safety-ntwnfb",
-      "points": [
-        "Pornhub blocked Australian users in March due to new online safety codes.",
-        "Users can now access Pornhub via Apple devices with age verification.",
-        "Non-compliance with age verification rules could result in fines of $49.5m."
-      ]
-    },
-    {
-      "summary": "A Hunter Valley community group won a high court case against a coalmine expansion, setting a national precedent on climate change.",
-      "url": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",
-      "points": [
-        "The case is Australia\u2019s first high court ruling considering climate change.",
-        "The decision overturned MACH Energy\u2019s proposed expansion of the Mount Pleasant coalmine.",
-        "The ruling is binding for fossil fuel projects in New South Wales."
       ]
     }
   ]
