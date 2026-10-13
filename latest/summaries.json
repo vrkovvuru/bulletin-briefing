@@ -1,6 +1,110 @@
 {
-  "generated": "2026-10-13T04:41:45.576383Z",
+  "generated": "2026-10-13T12:43:19.701724Z",
   "summaries": [
+    {
+      "summary": "William Chapman was killed after entering a tiger enclosure at Yorkshire Wildlife Park.",
+      "significance": "The story highlights the risks and safety concerns in wildlife parks after a visitor entered a tiger enclosure and was killed, prompting investigations.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Victim identified as William Chapman, attacked by a tiger at Yorkshire Wildlife Park near Doncaster.",
+        "Incident occurred on Saturday shortly after 13:30 BST; park visitor entered tiger enclosure alone.",
+        "Tiger involved in the attack, named Altai, will not be euthanised and remains in the enclosure."
+      ]
+    },
+    {
+      "summary": "A scandal involving a judge who convicted Jair Bolsonaro could benefit his son and harm Lula's campaign.",
+      "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+      "points": [
+        "Flávio Bolsonaro targets Supreme Court Justice Alexandre de Moraes, calling him \"Voldemort.\"",
+        "Event occurred during a speech to far-right supporters on Brazil\u2019s Independence Day, 7 September.",
+        "Flávio aims to continue his father\u2019s \u201cperverse project\u201d to destroy the Amazon."
+      ]
+    },
+    {
+      "summary": "TFG London, owner of Phase Eight, Hobbs, and Whistles, reports a cyber-attack that may have exposed customer data.",
+      "significance": "TFG London's cyber-attack follows Asos's recent hack, highlighting growing cybersecurity risks for fashion retailers and potential exposure of customer data.",
+      "url": "https://www.theguardian.com/business/2026/oct/13/hobbs-whistles-hack-cyber-attack-asos",
+      "points": [
+        "Incident identified on Sunday, affecting three UK-based retail chains.",
+        "TFG London is a South-African listed company.",
+        "Two other UK brands, Inside Story and White Stuff, are unaffected by the attack."
+      ]
+    },
+    {
+      "summary": "Bellway's CEO states that Burnham\u2019s Your First Home scheme could increase their annual house production by 10%.",
+      "url": "https://www.theguardian.com/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers",
+      "points": [
+        "Your First Home programme aims to aid first-time buyers in England.",
+        "Government announcement boosted housebuilders' shares by over 10%.",
+        "Scheme could slow market as buyers wait for its launch."
+      ]
+    },
+    {
+      "summary": "Federal agents raided Ilhan Omar's home, prompting condemnation from Democratic leaders and a vow from Omar not to be silenced.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/first-thing-democratic-leaders-condemn-federal-raid-ilhan-omar",
+      "points": [
+        "Democratic leaders, including Hakeem Jeffries, Katherine Clark, and Pete Aguilar, condemned the raid as an abuse of power.",
+        "Omar accused the Trump administration of targeting political enemies and weaponizing law enforcement.",
+        "The raid is part of accusations of fraud related to Omar\u2019s family\u2019s immigration history."
+      ]
+    },
+    {
+      "summary": "A soundness bug in Rust's borrow checker allows bypassing struct's lifetime requirements via covariant field assignment.",
+      "significance": "This story matters because it reveals an 11-year-old soundness bug in Rust's borrow checker, affecting struct lifetime requirements and impacting code correctness.",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "points": [
+        "The issue affects Rust versions from at least 1.85.0.",
+        "The bug is categorized as a soundness hole, the worst kind of bug.",
+        "The types team will review and decide on the issue."
+      ]
+    },
+    {
+      "summary": "Google's EmbeddingGemma 2 model transcribes audio to text with high speed and accuracy on Mac devices.",
+      "url": "https://eg2.haku.sh/",
+      "points": [
+        "Transcribes an hour of audio in about 13 seconds on a MacBook Air.",
+        "Achieves a word error rate of about 5%, compared to 2-3% for leading models.",
+        "Trained only the reader component, taking under two hours on 8×H100."
+      ]
+    },
+    {
+      "summary": "Vi Hart discusses her reaction to OpenAI's Navier-Stokes proof and her past involvement with the Lean proof assistant project.",
+      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
+      "points": [
+        "Vi Hart worked with the Lean proof assistant team at Microsoft Research.",
+        "Lean was used by OpenAI to verify the Navier-Stokes proof.",
+        "Hart had advocated for community support for Mathlib in 2021.",
+        "The Navier-Stokes proof was verified using Lean, a project she had direct involvement with."
+      ]
+    },
+    {
+      "summary": "The article explores reasons why new, good software isn't as visible despite advancements in AI coding.",
+      "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
+      "points": [
+        "Software improvements are seen in fewer bugs and better performance.",
+        "AI is creating more private software, less visible to the public.",
+        "Some software development processes haven't been accelerated by AI."
+      ]
+    },
+    {
+      "summary": "Archaeologists discovered a significant Hittite royal archive in Turkey, containing over 130 cuneiform tablets and fragments.",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "points": [
+        "131 cuneiform tablets and fragments were unearthed this year, more than tripling last year's find of 53.",
+        "The documents date back 3,400 years and detail an epidemic, military logistics, and royal life under King Tudhaliya II.",
+        "A letter from generals in western Anatolia appeals for reinforcements, highlighting the city's political and military importance."
+      ]
+    },
+    {
+      "summary": "Meta released Muse Wonder and Wonder Full, advanced AI models that outperform their predecessor, Muse Spark, in various benchmarks.",
+      "significance": "Meta's Muse Wonder and Wonder Full models advance AI capabilities, achieving higher scores and faster development times, impacting the competitive landscape of AI models.",
+      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "points": [
+        "Muse Wonder Full scored 56 on AA-Briefcase, up from Muse Spark 1.3's 48.",
+        "Wonder Full has a 1M context window and costs $4/M input and $20/M output.",
+        "The models were released 6 weeks after Muse Spark, showing rapid advancement."
+      ]
+    },
     {
       "summary": "Hurricane Simon and Tropical Storm Rachel hit Mexico\u2019s Pacific coast, causing flooding and at least five deaths.",
       "significance": "The story highlights the deadly impact of Hurricane Simon and Tropical Storm Rachel on Mexico\u2019s Pacific coast, affecting infrastructure and leading to fatalities.",
@@ -3647,110 +3751,6 @@
         "Klara Shuster, spa owner, admitted to importing mislabeled Botox from Asia.",
         "Shuster pleaded guilty to conspiracy to commit smuggling and other charges.",
         "One client developed botulism after receiving the illegal Botox treatment."
-      ]
-    },
-    {
-      "summary": "Vaping among never-smokers in Great Britain has nearly doubled in four years, reaching over 1 million people.",
-      "url": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years",
-      "points": [
-        "Over 1 million never-smokers vape in Great Britain as of 2025.",
-        "Vaping rates among adults aged 16+ reached 9.9% in 2025.",
-        "Highest vaping prevalence is among 25-34 year olds at 16.4%."
-      ]
-    },
-    {
-      "summary": "The article discusses the origins of Smalltalk, highlighting its development from ideas in the 1960s and its role in shaping modern personal computing.",
-      "significance": "The story details Smalltalk's foundational role in shaping modern personal computing paradigms, influenced by 1960s innovations.",
-      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
-      "points": [
-        "Smalltalk emerged from ARPA community ideas in the 1960s about human-computer interaction.",
-        "Early Smalltalk was influenced by predecessors like SKETCHPAD, JOSS, LISP, and SIMULA.",
-        "The article mentions a 1992 notebook computer weighing five pounds, sold for under $700, embodying Smalltalk's vision."
-      ]
-    },
-    {
-      "summary": "An AI model, Claude Opus 5.5, was tested for music composition, producing quality game music reminiscent of \"Secret of Monkey Island.\"",
-      "significance": "The story illustrates emerging capabilities in AI music composition, potentially marking a new development in what text-based AI models can achieve.",
-      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
-      "points": [
-        "The AI-generated music heavily featured the \"Monkey Island\" theme.",
-        "The experiment suggests a new capability in text models for composing competent music.",
-        "Further experiments are needed to determine if this ability is recent or longstanding."
-      ]
-    },
-    {
-      "summary": "Former German spy chief August Hanning and a former BND employee were arrested for espionage and treason.",
-      "significance": "The arrest of former German spy chief August Hanning for espionage and treason affects Germany's national security and follows a pattern of high-ranking intelligence officials facing similar charges.",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "August Hanning, former BND chief, arrested at his home in Nordwalde.",
-        "Manfred D, former BND employee, arrested in Bavaria for passing 2,000 classified documents to Hanning.",
-        "Hanning accused of using classified intelligence for foreign powers and maintaining contact with foreign spies."
-      ]
-    },
-    {
-      "summary": "Russia urges ignoring rumors after a plague researcher died in Siberia, and responds to US help offer.",
-      "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Kremlin spokesman Dmitry Peskov called for relying only on Russia's public health watchdog.",
-        "Official cause of death was named as pneumonia of unknown origin.",
-        "US President Donald Trump offered support to Russia."
-      ]
-    },
-    {
-      "summary": "New Tigray alliance forcibly recruits boys as young as 15 amid renewed conflict in northern Ethiopia.",
-      "significance": "The story highlights a violation of international law through the forced recruitment of minors, potentially exacerbating the humanitarian crisis in Tigray.",
-      "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
-      "points": [
-        "Conflict erupted on 23 September between Ethiopia\u2019s federal government and TPLF.",
-        "Reports indicate men and boys are being forcibly recruited by new Tigray alliance.",
-        "Renewed fighting threatens a new humanitarian crisis in the northern region."
-      ]
-    },
-    {
-      "summary": "US citizen Marimar Martinez sues CBP, alleging agent shot her from behind during an immigration raid.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/chicago-citizen-shot-by-immigration-agent-lawsuit",
-      "points": [
-        "Martinez, 30, filed a lawsuit against the federal government.",
-        "Incident occurred on October 4, 2025, during Operation Midway Blitz.",
-        "Martinez alleges agent Charles Exum lied about shooting her from behind."
-      ]
-    },
-    {
-      "summary": "PM urged to act on unmarked communal graves for impoverished Australians after Guardian investigation.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/07/nsw-health-people-buried-unmarked-grave-minister-failings-families",
-      "points": [
-        "Anthony Albanese called to use national cabinet to address issue.",
-        "Investigation revealed unmarked communal graves used without family notification.",
-        "Condemnation came from federal Liberal MPs, state Labor ministers, and Greens."
-      ]
-    },
-    {
-      "summary": "Coalition's migration plan could breach India's free trade agreement and harm economy, warns advocacy groups.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb",
-      "points": [
-        "Plan aims to cut net overseas migration to 100,000 for first two years.",
-        "Elimination of temporary graduate visas may breach Australia-India trade deal.",
-        "Changes could reduce Australia's competitiveness in attracting international students."
-      ]
-    },
-    {
-      "summary": "Mistral Large 4 is a new multimodal model with advanced architecture and large parameter counts.",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "points": [
-        "Features 49B active parameters and 1.05T total parameters",
-        "Includes a 1.6B vision encoder",
-        "Utilizes a granular Mixture-of-Experts architecture"
-      ]
-    },
-    {
-      "summary": "Polars 2.0 release introduces major features including out-of-core support, enhanced SQL capabilities, and performance improvements.",
-      "significance": "Polars 2.0 introduces significant performance improvements and enhanced SQL support, marking a substantial advancement in data processing capabilities.",
-      "url": "https://pola.rs/posts/release-polars-2/",
-      "points": [
-        "Polars 2.0 defaults to streaming engine, improving memory and performance on most queries.",
-        "Out-of-core support starts spilling at ~80% of RAM, with a default disk budget of 64GB.",
-        "Polars outperforms DuckDB and DataFusion in most benchmarks, especially with 32 cores."
       ]
     }
   ]

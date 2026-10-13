@@ -1,23 +1,32 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "stories": [
     {
-      "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
-      "source": "NPR",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Justice Department says the search is part of an \"ongoing federal investigation\", while Omar calls it \"an attempt to target political enemies\"",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+      "summary": "Sir Ken McCallum says more is being done to tackle state threats than since the Cold War - and warns AI could be used to develop drones and bioweapons.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
-      "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
-      "source": "The Guardian",
+      "title": "How protests have shaped India: From anti-Hindi agitation to farm laws",
+      "url": "https://www.aljazeera.com/news/2026/10/13/how-protests-have-shaped-india-from-anti-hindi-agitation-to-farm-laws?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast, causing flooding that downed trees and electricity poles, blocked roads and inundated homes. Simon claimed the life of a 71-year-old man who died when a wall collapsed in Chilpancingo in the southern state of Guerrero, governor Evelyn Salgado said at a press conference. Continue reading...",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "Activists challenging India&#039;s government over electoral roll controversies have a long legacy of protest to draw on.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Man killed in tiger attack at wildlife park named",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Yorkshire Wildlife Park remains closed after Saturday's incident.",
+      "alsoReportedBy": []
     },
     {
       "title": "Breaking Bad actor RJ Mitte dies aged 34",
@@ -26,173 +35,157 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "alsoReportedBy": ["The Guardian"]
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss",
+      "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "India\u2019s $87bn river-linking plan leaves villagers fighting for their homes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Portuguese superstar Cristiano Ronaldo waved a scarf with the Saudi flag after Al Nassr’s victory.",
+      "summary": "Villagers in India say they would rather die than leave their homes as they protest a billion dollar government project",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
+      "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "\u2018My son was killed\u2019: France faces backlash over police firearms bill",
+      "url": "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "US President urges Zelenskyy, Putin to end &#039;ridiculous war&#039; and insists they agreed to stop attacks on energy sites.",
+      "summary": "As protests nationwide protests rage, activists warn proposed law could lead to more impunity.",
       "alsoReportedBy": []
     },
     {
-      "title": "US actress Selma Blair accused of assault after incident with flight attendants",
-      "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructure are continuing despite &#039;energy ceasefire&#039;.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Second tranche of prisoners will include those serving up to two and a half years for crimes.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Death on Six Flags rollercoaster in US triggers ride closures across six states",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster",
+      "title": "How a scandal engulfing Brazil\u2019s top court could return the Bolsonaros to power",
+      "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Six Flags says nine rollercoasters across six amusement parks temporarily closed after reported fatal incident on Goliath ride in Georgia Theme park company Six Flags temporarily closed nine rollercoasters across six amusement parks on Monday after one person died and several others were injured in an incident involving a coaster in Georgia. A spokesperson for the park said they closed similar attractions across their parks “out of an abundance of caution” after the incident at Six Flags Over Georgia, about 15 miles (24km) north-west of Atlanta. Continue reading...",
+      "summary": "The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula Marina Silva on Fl\u00e1vio Bolsonaro: He will try to finish his father\u2019s \u2018perverse project\u2019 to destroy the Amazon Thundering to a crowd of thousands of far-right supporters in S\u00e3o Paulo on 7 September, Brazil\u2019s Independence Day, the senator Fl\u00e1vio Bolsonaro focused less on his opponent in the presidential election , the leftist president Luiz In\u00e1cio Lula da Silva, than on someone who is not running at all. \u201cWhoever votes for Lula is voting for Alexandre de Moraes ,\u201d Bolsonaro shouted, referring to the shaven-headed supreme court justice once described as \u201cVoldemort\u201d by Elon Musk. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "The billion-dollar shipwreck and the man who tried to find it – podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/13/billion-dollar-shipwreck-san-jose-and-the-man-who-tried-to-find-it-podcast",
-      "source": "The Guardian",
+      "title": "What ice cream has to do with this year's Nobel Prize in economics",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Journalist Julian Sancton on the story of the most valuable shipwreck in history and who could end up with its treasures A few years ago, the journalist Julian Sancton came across a story about a shipwreck found off the coast of Colombia. Onboard were treasures supposedly worth $1bn – which, he thought, must’ve been a typo. But it wasn’t. “It was supposedly billions, many tons, more than 100 tons of gold and silver,” he told Michael Safi. He wrote a piece for Vanity Fair about the extraordinary 300-year mystery of where this ship had sunk, and how it had been finally found a decade ago. But the more Julian dug into the story, the more he realised that the tale of the man who had done more than anyone to find the San José was just as tantalising. Continue reading...",
+      "summary": "Prices can get sticky. That helps explain why recessions hurt so much \u2014 and what policymakers can do about them.",
       "alsoReportedBy": []
     },
     {
-      "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Trump said he had brokered a cease-fire to protect energy infrastructure in Russia and Ukraine. But Ukrainian officials say bombs kept falling overnight on gas facilities, wounding 33 people.",
-      "alsoReportedBy": ["BBC World"]
-    },
-    {
-      "title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "title": "Super El Ni\u00f1o sets another record as it strengthens to 'unprecedented levels'",
+      "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "summary": "El Ni\u00f1o has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
       "alsoReportedBy": []
     },
     {
-      "title": "Many Iranians who go to Turkey to find jobs are exploited",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5979836/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
+      "title": "Trump's diesel deal with Putin angers Europe",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Desperate Iranians are finding work in Turkey to make ends meet, but many are being exploited and left with nothing but more debt.",
+      "summary": "President Trump's diesel deal with Russia sparks European fury, as Ukraine's President Zelenskyy questions Washington's motives and allies vow to keep pressure on Moscow.",
       "alsoReportedBy": []
     },
     {
-      "title": "Australian politics live: Climate protester restrained after interrupting NSW parliament; Shoebridge calls AI committee a ‘farce’ after letter ‘vetted’ by PM’s staffer",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail. Pether and his Egyptian colleague Khalid Radwan were detained in Baghdad in 2021 after flying in for a meeting with bank officials to resolve a dispute with his engineering firm, CME Consulting. We were innocent when we were taken on the 7th of April 2021, and we remain innocent today. I was released from prison hours away from death. My body was shutting down after months of critical illness and excruciating pain, but I remained trapped in Iraq. She is an incredible person, someone that I have so much respect for, and being able to come home was incredible. Just the emotion that it brings is, you can’t describe it. I mean, it’s been years. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-president named leader of new DR Congo rebel coalition",
+      "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+      "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
       "alsoReportedBy": []
     },
     {
-      "title": "Both Russia and Ukraine are using AI-powered drones on the battlefield",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield",
+      "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "How NATO plans to combat potential attacks on the alliance from Russia",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998721/how-nato-plans-to-combat-potential-attacks-on-the-alliance-from-russia",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "A Ukrainian company that got rich making smartphone-controlled cameras to watch pets at home now outfits first-person-view drones with an image recognition system powered by artificial intelligence.",
+      "summary": "NPR's Steve Inskeep speaks with former U.S. Assistant Secretary for European Affairs Dan Hamilton about NATO's detailed plans to counter any possible Russian attack on the alliance.",
       "alsoReportedBy": []
     },
     {
-      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "title": "Jury selection begins in hate crimes trial for Buffalo supermarket gunman",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/jury-selection-buffalo-supermarket-shooting",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned. In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”. Continue reading...",
+      "summary": "Trial could see white supremacist who killed 10 people in New York state store get the death penalty Jury selection is set to begin Tuesday in the trial that could see the white supremacist who killed 10 people in a 2022 Buffalo supermarket get the death penalty. The attack is believed to be the deadliest shooting targeting Black people in modern history. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Vikki Campion, News Corp columnist and wife of Barnaby Joyce, begins role with NSW One Nation",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/vikki-campion-news-corp-columnist-and-wife-of-barnaby-joyce-begins-role-with-nsw-one-nation",
+      "title": "Hobbs and Whistles owner investigates hack that may have exposed customer data",
+      "url": "https://www.theguardian.com/business/2026/oct/13/hobbs-whistles-hack-cyber-attack-asos",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Media adviser who married federal One Nation MP in 2023 confirms she has started working part-time for the party’s state executive Get our new political email , free app or daily news podcast Vikki Campion, the News Corp columnist and wife of the federal One Nation MP Barnaby Joyce, has begun working as an adviser for the party in New South Wales in the lead-up to the March state election. Campion, who helped the NSW One Nation leader and candidate for Cessnock, Mike Newman, with a press conference in the Hunter electorate on Tuesday, told Guardian Australia she had started working for the party’s state executive as a contractor, providing media advice on a part-time basis this week. Continue reading...",
+      "summary": "Cyber-attack on TFG London comes less than a week after online fashion seller Asos was hit by hackers Business live \u2013 latest updates The owner of Phase Eight, Hobbs and Whistles has said its websites and IT systems have been hit by a cyber-attack that may have compromised customers\u2019 personal data. The South-African listed TFG London said it identified the \u201ccybersecurity incident\u201d at the three UK-based retail chains on Sunday. Its two other UK brands, Inside Story and White Stuff, are not affected. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Bullet hole in door and DNA evidence scrutinised in Beau Lamarre-Condon double murder trial",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/beau-lamarre-condon-double-trial-dna-evidence-scrutinised-bullet-hole-ntwnfb",
+      "title": "Burnham\u2019s Your First Home scheme \u2018could boost Bellway\u2019s house output by 10%\u2019",
+      "url": "https://www.theguardian.com/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Defence also cross-examines witness over postmortem examinations of Jesse Baird and Luke Davies Get our breaking news email , free app or daily news podcast A bullet hole left in a bedroom door and DNA found in the barrel of the firearm have been scrutinised in court as Beau Lamarre-Condon’s double murder trial continues in Sydney. Lamarre-Condon, 31, has been accused of fatally shooting Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home in on 19 February 2024. Continue reading...",
+      "summary": "Help-to-buy initiative for England could slow market while first-time buyers wait for launch, builder admits Business live \u2013 latest updates The new Your First Home programme for first-time buyers could increase the number of houses British builder Bellway produces each year by 10%, its boss has said. Faced with a chronic shortage of homes, the government has made housing one of its top priorities and Andy Burnham\u2019s surprise announcement of the YFH scheme a fortnight ago sent housebuilders\u2019 shares soaring by more than 10%. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Living in the Weimar era of Ruby",
-      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
+      "title": "Democratic leaders condemn federal raid on Ilhan Omar as she vows not to be silenced | First Thing",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/first-thing-democratic-leaders-condemn-federal-raid-ilhan-omar",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Minnesota congresswoman criticized raid as attempt by Trump administration \u2018to target political enemies and weaponize law enforcement\u2019. Plus what is to be done about the world record in the women\u2019s marathon? Don\u2019t already get First Thing in your inbox? Sign up here Good morning. Ilhan Omar has said she will not be silenced after federal agents raided her home. In a social media post, the Minnesota congresswoman criticized the raid as an attempt by the Trump administration \u201cto target political enemies and weaponize law enforcement\u201d. Donald Trump and key allies have accused Omar of fraud related to her family\u2019s immigration history, fantasizing openly about denaturalizing her and expelling her from the country. Omar said in her post: \u201cThis is just the latest escalation in his campaign of political intimidation. I will not be silenced.\u201d How have Ilhan Omar\u2019s Democratic colleagues reacted to the raid? House Democratic leaders, including the minority leader, Hakeem Jeffries, the party whip, Katherine Clark and caucus chair, Pete Aguilar, issued a joint statement excoriating the president for the search, calling it \u201cdeeply disturbing\u201d. The Democratic leaders vowed to \u201cdeliver full accountability for the rogue abuse of power\u201d from the US Departments of Justice and Homeland Security. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
+      "title": "Immigration agents search congresswoman Ilhan Omar's home",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,17 +193,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
-      "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+      "title": "Who is vfmaddrnd231pd??",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,8 +202,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "url": "https://eg2.haku.sh/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,8 +211,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "(Post-Quantum) Cryptographic Right Answers",
-      "url": "https://words.filippo.io/right-answers/",
+      "title": "Vi Hart's Big Navier-Stokes Post",
+      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -236,7 +220,25 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Where is all the new, good software?",
+      "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The Pulse: new trend of building \u201cinternal vibe-coding apps\u201d at tech companies",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -263,8 +265,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -272,12 +274,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL\u2019s Claude 5.5-tier Frontier Model",
+      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
+      "summary": "MSL&#8217;s emergence as a frontier lab is finally complete.",
       "alsoReportedBy": []
     },
     {
@@ -296,6 +298,15 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "How Anthropic\u2019s Dynamic Workflows Coordinate Claude Agents",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
       "alsoReportedBy": []
     },
     {
@@ -326,15 +337,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-      "url": "https://www.latent.space/p/standard-bots",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Inside Standard Bots&#8217; AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
       "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
       "source": "Import AI",
@@ -358,8 +360,10 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time: March 2013:  \"I don't use version control -- I didn't like the feeling of having the code get committed into a black box thingy with no immediate upside\" March 2016:  \"I don’t even use version control. If you don’t know what that is then you’re not gonna yell at me. If you even know what version control is you’re gonna be like, ‘You don’t use version control? You don’t use source control? What is wrong with you? How can you even work? I’m just not cut out for it, in a sense. It’s been 15 years, so the reasons have change over time, but that’s my current understanding of it.\"   March 2023:  \"I've got Discord channels to check and version control stuff to use now, so the process is definitely a little more involved\" That March 2023 quote comes from an interview about the release on Steam which made them millionaires . I'm a tiny bit sad that they gave in before they hit that milestone, but what an impressive run. Tags: version-control",
+      "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to report that the days without version control appear to have ended. Quoting Tarn Adams over time: March 2013:\u00a0 \"I don't use version control -- I didn't like the feeling of having the code get committed into a black box thingy with no immediate upside\" March 2016:\u00a0 \"I don\u2019t even use version control. If you don\u2019t know what that is then you\u2019re not gonna yell at me. If you even know what version control is you\u2019re gonna be like, \u2018You don\u2019t use version control? You don\u2019t use source control? What is wrong with you? How can you even work? I\u2019m just not cut out for it, in a sense. It\u2019s been 15 years, so the reasons have change over time, but that\u2019s my current understanding of it.\" \u00a0 March 2023:\u00a0 \"I've got Discord channels to check and version control stuff to use now, so the process is definitely a little more involved\" That March 2023 quote comes from an interview about the release on Steam which made them millionaires . I'm a tiny bit sad that they gave in before they hit that milestone, but what an impressive run. Tags: version-control",
       "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 177.9,
+  "voice": "af_heart"
 }
