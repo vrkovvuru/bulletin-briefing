@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-13T00:42:09.992411Z",
+  "generated": "2026-10-13T02:40:43.824438Z",
   "summaries": [
+    {
+      "summary": "IMF warns global economy faces resilience tests due to low oil stocks and overstretched budgets.",
+      "significance": "IMF warns that low oil stocks and overstretched budgets could soon challenge global economic resilience.",
+      "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+      "points": [
+        "IMF upgrades UK GDP growth forecast for 2026.",
+        "Developing nations face a triple shock, according to the UN.",
+        "Global growth has surpassed fears from the Middle East conflict in the last six months."
+      ]
+    },
+    {
+      "summary": "IMF warns of potential 30 cents per litre increase in Australian fuel prices due to a possible Middle East crisis.",
+      "significance": "The story highlights potential significant increases in Australian fuel prices and interest rates under an IMF scenario of heightened Middle East tensions and soaring oil prices.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-fuel-prices-rise-imf-rba-us-oil-interest-rates",
+      "points": [
+        "IMF scenario predicts global oil prices could surge to US$130 per barrel.",
+        "Economists suggest this could pressure the Reserve Bank to increase interest rates.",
+        "The IMF highlighted the \"clear and present danger\" to global growth and inflation."
+      ]
+    },
+    {
+      "summary": "A Python web app was created to provide a web UI for viewing and editing files via Tailscale.",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "points": [
+        "App built using Codex and GPT-6 Astra Extra High.",
+        "Uses CodeMirror 6 for editing files.",
+        "Intended for use over Tailscale for mobile file editing."
+      ]
+    },
     {
       "summary": "Despite public support for nationalization, recent rail incidents and ongoing issues question its effectiveness in improving service reliability.",
       "significance": "The story highlights public skepticism about rail nationalization's effectiveness in improving service reliability despite its popularity.",
@@ -3720,34 +3749,6 @@
         "Polls show GOP candidates trailing Democrats in Senate and House races.",
         "Republicans have spent hundreds of millions on advertising and voter outreach.",
         "Thirty days remain until the midterm elections."
-      ]
-    },
-    {
-      "summary": "A survey of over 150 public affairs leaders identifies AI misuse as the top reputational threat to brands.",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation",
-      "points": [
-        "AI misuse ranks higher than risks related to child harm and geopolitical conflicts.",
-        "Survey part of the quarterly Reputation Risk Index, released on Tuesday.",
-        "Tech leaders warn AI misuse could lead to existential threats like nuclear war."
-      ]
-    },
-    {
-      "summary": "A self-hosted email user discusses their experience with maddy and invites others to share their setups.",
-      "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
-      "points": [
-        "User employs maddy for self-hosting email services across multiple domains.",
-        "Major issue noted is slow email download speed on iOS native client.",
-        "User seeks feedback from other self-hosted email users on their configurations and improvements."
-      ]
-    },
-    {
-      "summary": "JetBrains reported its first net financial loss in its tracked history in 2025 despite record revenue growth.",
-      "significance": "JetBrains reported its first net financial loss in recorded history, marking a significant financial shift for the historically profitable software company.",
-      "url": "https://www.helgilibrary.com/companies/jetbrains",
-      "points": [
-        "Recorded a net loss of CZK 315 mil in 2025, marking the first financial loss in its history.",
-        "Revenue rose by 6.3% to CZK 16,008 mil, setting a new record for the company.",
-        "Return on equity dropped to -11.1%, 107 percentage points lower than the previous year."
       ]
     }
   ]
