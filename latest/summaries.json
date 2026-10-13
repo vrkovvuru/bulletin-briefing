@@ -1,6 +1,107 @@
 {
-  "generated": "2026-10-13T14:42:06.660849Z",
+  "generated": "2026-10-13T16:42:45.490898Z",
   "summaries": [
+    {
+      "summary": "Pope Leo admitted to Rome hospital for surgery to remove a small lung growth discovered during a check-up.",
+      "significance": "The Pope's hospitalization for lung growth removal highlights unexpected health challenges faced by the Pope, affecting the Vatican's operations and global Catholic community's concerns.",
+      "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+      "points": [
+        "Surgery to determine if the nodule is malignant will take place on Tuesday afternoon.",
+        "Pope Leo, 71, announced the discovery during his angelus prayer on Sunday.",
+        "The Vatican described the discovery as unexpected, calling it \"a bolt out of the blue."
+      ]
+    },
+    {
+      "summary": "Report recommends British and Irish governments negotiate with Northern Ireland's paramilitary groups for their disbandment.",
+      "significance": "The report suggests a timely chance for governments to formally engage paramilitary groups in Northern Ireland for disbandment.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/13/british-irish-negotiate-paramilitary-disbandment-northern-ireland",
+      "points": [
+        "Report identifies a \"window of opportunity\" for formal negotiations.",
+        "Process involves both loyalist and republican paramilitary groups.",
+        "Conditions must be met for the establishment of a transition mechanism."
+      ]
+    },
+    {
+      "summary": "Texas man, Miguel Parra-Hernandez, injured by ICE vehicle during chase, never met person agents were pursuing.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/texas-man-struck-ice-vehicle",
+      "points": [
+        "Miguel Parra-Hernandez, 48, suffered hip and leg injuries in Houston.",
+        "ICE vehicle struck Parra-Hernandez while chasing two other men.",
+        "Parra-Hernandez remains in ICE custody following the incident."
+      ]
+    },
+    {
+      "summary": "MPs claim Serco failed to tag hundreds of early-release prisoners, including violent offenders, in England and Wales.",
+      "url": "https://www.theguardian.com/society/2026/oct/13/early-release-prisoners-england-wales-tags-serco",
+      "points": [
+        "Clive Efford states Serco couldn't source enough tags for released prisoners.",
+        "Police and probation officers struggle with new influx of 650 monitored offenders.",
+        "Government promised \"toughest supervision in British history\" for early releases."
+      ]
+    },
+    {
+      "summary": "Kimberly Guilfoyle resigns as US ambassador to Greece due to allegations of misconduct.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down",
+      "points": [
+        "Guilfoyle allegedly sought a bill payment from a Trump donor for access to officials.",
+        "The White House requested her resignation on Tuesday.",
+        "Guilfoyle was one of Trump\u2019s longest-standing political allies."
+      ]
+    },
+    {
+      "summary": "UK bird populations hit record lows, with nearly half of species declining since 1970.",
+      "url": "https://www.theguardian.com/environment/2026/oct/13/uk-bird-populations-fall-to-lowest-level-on-record",
+      "points": [
+        "Average populations of 132 native breeding species fell by 19% between 1970 and 2025.",
+        "Farmland birds and seabirds experienced the most significant declines recently.",
+        "This marks the lowest level of bird populations since records began."
+      ]
+    },
+    {
+      "summary": "Rates of sexual assault against Australian children have risen sharply since the pandemic, contrary to researchers' expectations.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/family-and-sexual-violence-rates-against-australian-children-rise-sharply-as-researchers-warn-of-manosphere",
+      "points": [
+        "Sexual assaults on boys increased by 15.7%.",
+        "Researchers were surprised as they expected rates to have fallen.",
+        "Study authors attribute the rise to factors including income inequality and increased awareness."
+      ]
+    },
+    {
+      "summary": "Argon, a new intelligence model, is enhancing various fields including software engineering, quantum chemistry, and 3D modeling with its advanced capabilities.",
+      "significance": "Argon accelerates complex problem-solving in software engineering, quantum chemistry, and cybersecurity, significantly impacting efficiency and discovery for researchers and engineers.",
+      "url": "https://deepmind.google/models/gemini/",
+      "points": [
+        "Argon helped the Chrome team refactor a ~6 million line codebase, completing months of work in weeks.",
+        "Using Argon, xTB achieved up to 2.3x faster molecular structure predictions and 1.8x faster conformer searches.",
+        "Argon autonomously created a playable miniature racing game from real desk images, using Blender and Three.js."
+      ]
+    },
+    {
+      "summary": "Apple introduces HomeView, a smart home device with Siri AI, customizable faces, and advanced audio-visual features for entertainment and convenience.",
+      "url": "https://www.apple.com/apple-homeview/",
+      "points": [
+        "Siri AI adapts to each user, offering personalized assistance and protecting privacy.",
+        "Features a 7-inch Liquid Retina display with brightness ranging from 500 nits to 0.3 nits.",
+        "Includes a 12MP Center Stage camera and four beamforming microphones for clear FaceTime calls."
+      ]
+    },
+    {
+      "summary": "Thunderbird is developing a native iOS email app with a focus on privacy, seamless cross-device experience, and community input.",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "points": [
+        "It includes background sync to keep the inbox updated while preserving battery life.",
+        "Thunderbird aims for a clean, modern design with an experimental feature flag system for community contributions."
+      ]
+    },
+    {
+      "summary": "A plea against using uv-build as a build backend for Gentoo packages due to its drawbacks.",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "points": [
+        "Gentoo users face extended build times due to frequent releases (12 in 30 days).",
+        "uv-build's size (1.2-1.5 MiB) is significantly larger than pure Python alternatives (45 KiB).",
+        "Portability issues arise as uv-build may not work on all platforms, requiring extensive maintenance."
+      ]
+    },
     {
       "summary": "Zelenskyy states Ukraine received no early warning from allies about a Russian ballistic missile strike on Kyiv.",
       "significance": "Zelenskyy highlights lack of early warning from allies for Russian missile strikes on Kyiv, underscoring reliance on intelligence for civilian protection.",
@@ -3651,108 +3752,6 @@
         "S&P 500 topped 7,800 for the first time in its history.",
         "Nasdaq index rose by 0.45%.",
         "Dow Jones Industrial Average climbed 0.49%, slightly below its August record."
-      ]
-    },
-    {
-      "summary": "Finnish authorities halt work on two Google data centres over environmental concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Finnish Supervisory Agency orders halt to work by 23 October due to lack of environmental impact assessment.",
-        "The data centres are part of Google's \u20ac13bn investment in Finland, its largest single investment in Europe.",
-        "Work included clearing over 300 hectares of forest in Muhos and Kajaani."
-      ]
-    },
-    {
-      "summary": "Ex-CIA official David J Rush pleaded guilty to misusing his position to acquire Florida real estate and gold bars worth tens of millions.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/cia-official-gold-bars-guilty-plea",
-      "points": [
-        "David J Rush fabricated a \"highly classified\" program to justify buying luxury Florida property.",
-        "Rush created a false \"sensitive government activity\" to obtain hundreds of gold bars.",
-        "The real estate and gold bars acquired by Rush are worth tens of millions of dollars."
-      ]
-    },
-    {
-      "summary": "Chancellor John Healey plans to spend over £1bn to reduce energy bills for poorer UK households in January's budget.",
-      "url": "https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills",
-      "points": [
-        "Plans include spending more than £1bn to help energy consumers.",
-        "Intervention aims to address forecasts of bills rising by hundreds of pounds.",
-        "Focus will be on increasing discounts for households receiving certain benefits."
-      ]
-    },
-    {
-      "summary": "Web developer David Bushell advises on sustaining a web career amid current financial struggles and irrational phases in the industry.",
-      "significance": "The story matters as it provides guidance for web developers on sustaining their careers during financial struggles by focusing on critical skills like accessibility and communication.",
-      "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
-      "points": [
-        "Accessibility is crucial and must be integrated from the start, not as an afterthought.",
-        "CSS skills are vital, and developers should avoid limiting abstractions like \"CSS-in-JS.\"",
-        "React development is declining, and high-paying jobs are becoming less common."
-      ]
-    },
-    {
-      "summary": "Brut is a shell script tool for Unix that routes commands based on filename and arguments, promoting portability and modularity in shell scripting.",
-      "url": "https://brut.sh",
-      "points": [
-        "Brut enables programs to run on any contemporary Unix system without runtime dependencies.",
-        "It breaks programs into small executables and shared library files, making them independently testable.",
-        "Brut is composed of about 120 lines of shell script and a set of environment variables."
-      ]
-    },
-    {
-      "summary": "Berthd allows users to run coding agents like Claude Code and Codex on their own development boxes from a Mac interface.",
-      "url": "https://berthd.app/",
-      "points": [
-        "Supports Apple silicon and Intel Macs, with signed and notarized software.",
-        "Users can create worktrees and start coding agents with a keyboard shortcut.",
-        "Agents continue running on development boxes even when the Mac is closed."
-      ]
-    },
-    {
-      "summary": "Lawmakers introduce legislation to restrict federal agencies' use of Flock cameras and automatic license plate readers following media reports.",
-      "url": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
-      "points": [
-        "Senator Bernie Sanders, Representative Ocasio-Cortez, and Senator Jeff Merkley introduced the Ban Flock Act.",
-        "The legislation would prohibit federal agencies from using automatic license plate readers and block funding to states that use them.",
-        "Lawmakers cited Flock sharing state information with federal immigration officials and use in investigating protests against ICE raids."
-      ]
-    },
-    {
-      "summary": "Parseable, a new observability platform, integrates with Datasette for OpenTelemetry traces.",
-      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-      "points": [
-        "Parseable offers an open-source Rust version and an \"Enterprise\" version with additional features.",
-        "Datasette 1.0a41 includes OpenTelemetry support, enabling trace integration.",
-        "Integration demonstrated with a screenshot of Datasette trace in Parseable's localhost web app."
-      ]
-    },
-    {
-      "summary": "Film director Luca Guadagnino's tech satire about Sam Altman and OpenAI premieres amid Vanity Fair's cover story and Altman's interview.",
-      "significance": "The story highlights the growing tension between AI's benefits and its potential dangers, illustrated through a film and real-world incidents.",
-      "url": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
-      "points": [
-        "Vanity Fair's cover story compares Altman to Oppenheimer, suggesting he's leading humanity to destruction.",
-        "Altman says society should accept \"bad things\" for AI's benefits in a recent interview.",
-        "Studies indicate AI use could lead to cognitive surrender, with instances of AI misuse already reported."
-      ]
-    },
-    {
-      "summary": "French riot police used teargas and baton charges against over 250,000 protesters demanding better school conditions.",
-      "url": "https://www.theguardian.com/world/2026/oct/06/protests-schools-blockade-streets-france",
-      "points": [
-        "Over 250,000 students, teachers, and parents protested in cities like Paris, Marseille, and Lyon.",
-        "French Prime Minister Sébastien Lecornu reported at least 215 teenagers and 85 staff injured.",
-        "The protests, lasting over two weeks, saw the heaviest toll in decades for the school system."
-      ]
-    },
-    {
-      "summary": "Kenya reports its first Ebola death, with 28 contacts identified, as the virus spreads in DRC.",
-      "significance": "Kenya's first Ebola case highlights the disease's spread beyond DRC, affecting international health security.",
-      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-      "points": [
-        "Health minister announced the death of a citizen who arrived from DRC on Saturday.",
-        "4,082 people have died out of 8,463 confirmed cases in DRC since May.",
-        "This is the 17th Ebola outbreak in DRC, with no vaccine or specific treatment available."
       ]
     }
   ]
