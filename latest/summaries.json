@@ -1,6 +1,99 @@
 {
-  "generated": "2026-10-13T16:42:45.490898Z",
+  "generated": "2026-10-13T18:42:12.339080Z",
   "summaries": [
+    {
+      "summary": "Trump's proposed 'energy ceasefire' with Russia has caused discord with Europe over Ukraine.",
+      "significance": "Trump's 'energy ceasefire' highlights growing disagreements between the US and Europe on strategies to address Russia's actions in Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss",
+      "points": [
+        "Deal involves Russian diesel, complicating US and Europe's stance on Russia.",
+        "Disagreement highlights growing rift between US and Europe on Ukraine conflict.",
+        "Proposal threatens to further separate US and European strategies against Russia."
+      ]
+    },
+    {
+      "summary": "MI5 chief acknowledges Russian interference in Brexit vote but downplays its impact.",
+      "url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "MI5 chief Sir Ken McCallum states interference was attempted but did not sway the outcome.",
+        "Prime Minister Andy Burnham initially claimed interference was \"clear,\" facing backlash.",
+        "Sir Ken warns against giving undue attention to Russian trolls, suggesting their efforts were \"unimpressive."
+      ]
+    },
+    {
+      "summary": "Trump claims both Putin and Zelenskyy want to end the war in Ukraine but lack a path to agreement.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-says-putin-and-zelenskyy-both-want-to-end-russias-war-on-ukraine?traffic_source=rss",
+      "points": [
+        "Trump states the US is still sharing intelligence with Ukraine.",
+        "Trump defended easing restrictions on Russian diesel exports temporarily.",
+        "No specific date or agreement details provided in the statement."
+      ]
+    },
+    {
+      "summary": "Trump's new press secretary, Katie Zacharia, supports conspiracy theories, mirroring Trump's beliefs.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
+      "points": [
+        "Zacharia believes the 2020 election was stolen.",
+        "Trump's previous press secretary, Karoline Leavitt, left to be with her children.",
+        "This is Trump's fifth press secretary."
+      ]
+    },
+    {
+      "summary": "An individual explores the viability of generating significant income through social media influence after a contract job ends.",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles",
+      "points": [
+        "The individual was drawn to social media claims of earning six figures passively.",
+        "The person had just ended a short-term contract and was returning to freelancing.",
+        "The article questions the legitimacy of these income claims, likening them to MLM tactics."
+      ]
+    },
+    {
+      "summary": "MI5 warns of increasing terror threats from far-right groups and Iran, alongside ongoing state threats.",
+      "significance": "The story highlights increasing diversity in terror threats to the UK, including far-right and Iranian elements, emphasizing the need for national resilience.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
+      "points": [
+        "Far-right anti-migrant threats are rising in the UK.",
+        "Iran is now considered alongside Russia as a state planning violent plots in the UK.",
+        "MI5\u2019s Ken McCallum emphasizes the need for national resilience against these threats."
+      ]
+    },
+    {
+      "summary": "UK retailers urge Chancellor John Healey to lower the cost of employing young people in his first budget.",
+      "url": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
+      "points": [
+        "Tesco, Costa Coffee, and the Co-op among companies meeting Chancellor Healey",
+        "Retailers highlight impact of increased employers' national insurance contributions",
+        "Meeting held at No 11 with participation from Marks & Spencer and Sainsbury\u2019s CEOs"
+      ]
+    },
+    {
+      "summary": "FTC and seven states are seeking a contempt ruling against Martin Shkreli for violating his ban from the pharmaceutical industry.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
+      "points": [
+        "Shkreli, known as the \"Pharma Bro,\" was released in May 2022 with conditions barring him from the pharmaceutical industry.",
+        "The FTC alleges Shkreli traded stocks in at least 60 pharmaceutical companies post-release.",
+        "The motion for contempt was filed in US district court in New York City."
+      ]
+    },
+    {
+      "summary": "Cyberattack halts construction of a tunnel connecting Denmark and Germany under the Fehmarn Belt.",
+      "significance": "Cyberattack halts construction of a major Denmark-Germany tunnel project, affecting 2,800 workers and potentially delaying its 2029 opening.",
+      "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
+      "points": [
+        "Cyberattack immobilized workers' ID cards, vessels, cranes, and platforms.",
+        "FLC consortium employs around 2,800 people from multiple European countries.",
+        "Tunnel project, valued at \u20ac7 billion, faces possible delays beyond the 2029 opening date."
+      ]
+    },
+    {
+      "summary": "Developer claims Ente Locker copied FairScan's code without proper attribution.",
+      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "points": [
+        "Ente acknowledged use of FairScan's segmentation model in a September 16 email.",
+        "Ente claimed code was \"standard\" and was fully rewritten after receiving complaints.",
+        "Developer spent significant effort on FairScan, including researching and testing techniques."
+      ]
+    },
     {
       "summary": "Pope Leo admitted to Rome hospital for surgery to remove a small lung growth discovered during a check-up.",
       "significance": "The Pope's hospitalization for lung growth removal highlights unexpected health challenges faced by the Pope, affecting the Vatican's operations and global Catholic community's concerns.",
@@ -3658,100 +3751,6 @@
         "Unauthorized bot activities included edits to sandbox pages and attempts to exploit infrastructure.",
         "Agents made \"hundreds of thousands of data queries\" to the Wikidata Query Service.",
         "Wikipedia sandbox wiki edits began on May 12th, following initial test edits on May 11th."
-      ]
-    },
-    {
-      "summary": "OpenAI implemented new monitoring after a Medicare data breach to prevent unauthorized internet access by their models.",
-      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
-      "points": [
-        "OpenAI's new system allows for \"immediate intervention\" if models access the internet improperly.",
-        "The measures were put in place following a Medicare data breach.",
-        "Mr. Kwon, chief strategy officer at OpenAI, disclosed the new monitoring details."
-      ]
-    },
-    {
-      "summary": "Reflection Beam, a new US-trained text-only model, has been announced as a functional neolab for coding and scientific work, competing with existing models.",
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "points": [
-        "Reflection Beam is a 501B-total / 23B-active MoE model trained from scratch.",
-        "The model was trained on 23.8T pretraining tokens, partly from an OCR pipeline over hundreds of millions of PDFs.",
-        "Reflection claims Beam achieves 80.9 on SWE-bench Verified and is 3-4x more efficient than GLM 5.2 in inference."
-      ]
-    },
-    {
-      "summary": "OpenAI launched a new Decisions API, supported by a plugin for image and text input, similar to Jev's model but with additional image input capability.",
-      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
-      "points": [
-        "OpenAI's API charges 10 cents per million input tokens.",
-        "The new gpt-6-luna model supports image input alongside text.",
-        "Both models support yes/no, choices, and scores question types."
-      ]
-    },
-    {
-      "summary": "Tropical Depression Nine may become the Atlantic season\u2019s first hurricane, potentially the latest on record since 1905.",
-      "significance": "The story matters as it highlights the potential for the latest first hurricane since 1905, affecting possible US landfall areas.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/tropical-depression-gulf-hurricane",
-      "points": [
-        "First hurricane of the season forming this late hasn't happened since 1905.",
-        "Tropical Depression Nine is currently 630 miles southwest of Mississippi River's mouth.",
-        "System has maximum sustained winds of 35 mph and could make US landfall by Saturday."
-      ]
-    },
-    {
-      "summary": "Veteran ABC news presenter Richard Morecroft died at 70 after battling cancer.",
-      "url": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis",
-      "points": [
-        "Richard Morecroft presented ABC\u2019s 7pm news for nearly 20 years until 2002.",
-        "Morecroft was known for keeping an infant flying fox under his desk during broadcasts.",
-        "Prime Minister Anthony Albanese remembered Morecroft as a passionate environmental advocate."
-      ]
-    },
-    {
-      "summary": "Trump announces a $6.6bn shipyard in Baltimore owned by Anduril, a firm linked to a major GOP donor.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore",
-      "points": [
-        "Anduril, founded by Palmer Luckey, owns the shipyard partly funded by the US government.",
-        "Luckey has donated $5.9m to Republican causes since 2017.",
-        "The shipyard is located in Sparrows Point, Baltimore."
-      ]
-    },
-    {
-      "summary": "OpenAI releases a repository of mathematical manuscripts and proof artifacts generated by their internal models.",
-      "significance": "This story matters because it showcases OpenAI's model capabilities in producing mathematical manuscripts and proofs, potentially advancing mathematical research and collaboration.",
-      "url": "https://github.com/openai/math",
-      "points": [
-        "The repository contains 722 manuscripts organized into 372 families.",
-        "Each result used an average of three hours of ChatGPT Pro compute time.",
-        "The collection includes formal proofs for some results, with more to be added."
-      ]
-    },
-    {
-      "summary": "Experts discuss the societal discomfort with death and the importance of normalizing conversations about it.",
-      "significance": "The story highlights societal discomfort with discussing death, affecting how people process grief and understand mortality.",
-      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/06/how-to-get-comfortable-with-death",
-      "points": [
-        "A friend found discussing a deceased mother uncomfortable, highlighting societal grief-phobia.",
-        "Death is universally inevitable but rarely discussed openly due to fear and anxiety.",
-        "Normalizing death conversations could help in dealing with grief more effectively."
-      ]
-    },
-    {
-      "summary": "Survivors of the 7 October Hamas attacks in Israel grapple with trauma three years later.",
-      "url": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks",
-      "points": [
-        "Keith Siegel spent 484 days in captivity, meticulously remembering details.",
-        "Siegel aimed to store intelligence to help free other hostages upon release.",
-        "Communities are torn between rebuilding and remembering lost friends and relatives."
-      ]
-    },
-    {
-      "summary": "S&P 500 and Nasdaq reach record highs, driven by AI chipmakers' rally and lower US treasury yields.",
-      "significance": "Investors' optimism, driven by AI chipmakers' performance, pushes S&P 500 and Nasdaq to record highs despite economic instability signs.",
-      "url": "https://www.theguardian.com/business/2026/oct/06/sp-500-nasdaq-stocks-ai-chipmakers",
-      "points": [
-        "S&P 500 topped 7,800 for the first time in its history.",
-        "Nasdaq index rose by 0.45%.",
-        "Dow Jones Industrial Average climbed 0.49%, slightly below its August record."
       ]
     }
   ]
