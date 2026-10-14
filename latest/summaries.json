@@ -1,6 +1,82 @@
 {
-  "generated": "2026-10-14T14:41:53.337651Z",
+  "generated": "2026-10-14T16:42:17.685046Z",
   "summaries": [
+    {
+      "summary": "Container ship sinks near the Strait of Hormuz, with a second vessel reportedly sinking, amid increased Iranian attacks on shipping.",
+      "significance": "The story highlights Iran's escalating efforts to disrupt crucial shipping routes near Hormuz, potentially impacting global fuel prices and US political interests.",
+      "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+      "points": [
+        "Attacks suggest Iran aims to close the strategic waterway before US midterms on 3 November.",
+        "Surge is the sharpest since the start of the US-Israel conflict with Iran.",
+        "Incident involves a container ship and a second cargo vessel near the Strait of Hormuz."
+      ]
+    },
+    {
+      "summary": "Fire breaks out at Albania\u2019s Education Ministry during ongoing student protests in Tirana.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss",
+      "points": [
+        "16 protesters arrested after overnight blaze at Education Ministry.",
+        "Students demand better university conditions and Prime Minister Edi Rama's resignation.",
+        "Riot police use tear gas and water cannons to disperse crowds throwing rocks and bricks."
+      ]
+    },
+    {
+      "summary": "Cornell's president admitted knowing about a sexual assault report but failing to follow up, amid calls for his resignation.",
+      "significance": "The story highlights a university president's failure to address sexual assault allegations, potentially impacting campus safety policies and leadership trust.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/cornell-president-fraternity-sexual-assault-interview",
+      "points": [
+        "Michael Kotlikoff knew of the November 2024 assault report but did not follow up.",
+        "Kotlikoff was unaware the victim had dropped out until she filed a lawsuit.",
+        "Cornell University is facing calls for Kotlikoff's resignation over the handling."
+      ]
+    },
+    {
+      "summary": "Social security recipients will receive a 3.6% increase in benefits in 2027.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/social-security-increase-cost-of-living",
+      "points": [
+        "Average increase of $75 per month for retirement benefits.",
+        "72 million social security beneficiaries will see higher payments starting January 2027.",
+        "About 7.3 million SSI recipients will get increased payments starting December 31, 2026."
+      ]
+    },
+    {
+      "summary": "BotStopper, a new web protection tool, shields sites from scraping and automated abuse while maintaining a user-friendly experience.",
+      "significance": "BotStopper offers organizations a polished, flexible tool to manage and mitigate automated web traffic, building on the open-source foundation of Anubis.",
+      "url": "https://botstopper.net",
+      "points": [
+        "Built by the team behind Anubis, offering an open-source approach to automated traffic management.",
+        "Offers a default corporate-friendly experience that can be tailored to fit organizational needs.",
+        "Combines signals and challenges to differentiate between useful visitors and automated traffic."
+      ]
+    },
+    {
+      "summary": "A new method allows for efficient testing of Windows desktop applications from Linux using disposable VMs.",
+      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "points": [
+        "Tests run on disposable Windows VMs managed by Kubernetes, with each VM costing more than a Linux container.",
+        "A cold Windows VM takes 2 to 3 minutes to boot, compared to seconds for a browser container.",
+        "The system uses Playwright for browser interactions, Appium for native apps, and WebRTC for screen streaming."
+      ]
+    },
+    {
+      "summary": "Submarine cables, critical for global telecommunications, face frequent disruptions due to accidental and deliberate damage, highlighting the need for enhanced protection and resilience.",
+      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "points": [
+        "Between 2018 and 2022, submarine cables between Taiwan and the Matsu Islands were cut 27 times.",
+        "Since 2023, there have been 11 disruptions to submarine systems in the Baltic Sea.",
+        "In September 2025, several cables were severed in the Bab al-Mandab Strait, disrupting 25% of cable capacity between Asia, Europe, and the Middle East."
+      ]
+    },
+    {
+      "summary": "AI is decompiling games, leading to both preservation benefits and ethical concerns.",
+      "significance": "AI mass decompiling of games enables preservation and accessibility but raises concerns over intellectual property and industry practices.",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "points": [
+        "Popcar highlights AI's ability to create game mashups and enhance preservation.",
+        "AI decompilation threatens tech industry security, enabling unauthorized software use.",
+        "The process benefits game preservation, making old games accessible on new hardware."
+      ]
+    },
     {
       "summary": "The Yemen war could escalate into a region-wide operation or a prolonged war of attrition following Houthi attacks on Saudi Arabia.",
       "significance": "The story outlines potential scenarios for escalation in the Yemen war, affecting regional alliances and military strategies.",
@@ -3679,81 +3755,6 @@
         "The vigil took place at Richmond Terrace, opposite Downing Street.",
         "The Board of Deputies of British Jews stated 1,200 were murdered by Hamas.",
         "Andy Burnham said the government stands with British Jews."
-      ]
-    },
-    {
-      "summary": "Kemi Badenoch proposes slashing inheritance tax, a move criticized for funneling £6bn to the wealthy.",
-      "significance": "Badenoch\u2019s proposal to slash inheritance tax follows a Conservative tradition but, like Osborne\u2019s 2007 pledge, may not materialize due to economic constraints.",
-      "url": "https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense",
-      "points": [
-        "Proposal would give £6bn to already wealthy individuals.",
-        "Similar 2007 plan by George Osborne included £1m threshold for inheritance tax.",
-        "Osborne's plan never implemented due to 2010 financial crisis."
-      ]
-    },
-    {
-      "summary": "Trump's repetitive and divisive rhetoric at rallies has desensitized the public to shocking statements.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-comments-los-angeles-san-diego",
-      "points": [
-        "Trump repeatedly refers to himself as the \"greatest\" president and criticizes \"Dumocrats.\"",
-        "His speeches include controversial topics like \"transgender mutilization\" and illegal immigration as an \"invasion.\"",
-        "Public reaction to once-shocking statements has become indifferent, indicating desensitization."
-      ]
-    },
-    {
-      "summary": "Texas attorney general Ken Paxton admitted in leaked audio that gas prices due to Trump's Iran war are hurting Republicans before midterms.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/ken-paxton-trumps-iran-war-gas-prices-republicans",
-      "points": [
-        "Ken Paxton stated gas prices and the war are dragging his campaign.",
-        "Paxton is running as a Republican candidate in a competitive Senate race in Texas.",
-        "The admission came during a closed-door fundraising event and was shared with Axios."
-      ]
-    },
-    {
-      "summary": "Claude Haiku 5.5, a new AI model, offers improved speed and cost efficiency for high-volume tasks.",
-      "significance": "Claude Haiku 5.5 offers cheaper, faster, and more capable performance for high-volume tasks, benefiting cost-sensitive and speed-sensitive applications.",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "points": [
-        "Claude Haiku 5.5 costs around 75% less to run compared to Haiku 4.5.",
-        "The model's performance was praised for up to 2.5x faster inference per agent turn.",
-        "Sonnet 5.5 now runs 20% cheaper due to halved cache read prices."
-      ]
-    },
-    {
-      "summary": "Visa, Mastercard, and major banks are facing new litigation over alleged anticompetitive practices that inflate merchants' credit card transaction fees.",
-      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-      "points": [
-        "A San Diego pizzeria is leading a proposed class action lawsuit against the financial giants.",
-        "Merchants pay over $100 billion annually in fees to accept Visa and Mastercard credit cards.",
-        "The lawsuit covers transactions from January 25, 2019, as previous settlements only compensated for earlier periods."
-      ]
-    },
-    {
-      "summary": "A blog post outlines key differences between C and Rust, focusing on C's quirks for those familiar with Rust.",
-      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "points": [
-        "C originally lacked a boolean type, using 0 and 1 instead; booleans became primitives later.",
-        "C strings are null-terminated, requiring extra memory for the null byte, unlike Rust's length-prefixed strings.",
-        "C's integer types vary in bit width by platform, with `long` being 64 bits on Unix and 32 bits on Windows."
-      ]
-    },
-    {
-      "summary": "The article discusses the development of tooling for the small-scale Chimera Linux project, emphasizing automation and community empowerment.",
-      "url": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
-      "points": [
-        "Chimera aims to minimize maintenance costs by automating tasks and making packaging accessible to all users.",
-        "Tooling supports heavy sandboxing and ensures packaging is correct and clean, with hard errors for most issues.",
-        "Users can replicate the entire project infrastructure on their machine within an hour, promoting ease of use and fun."
-      ]
-    },
-    {
-      "summary": "Trump's speech in Nebraska included alarming threats about potential nuclear attacks on U.S. cities by Iran.",
-      "significance": "Trump's threats highlight a new era of political desperation linking domestic issues to escalated foreign threats, alarming California leaders.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/07/trump-speech-los-angeles-san-diego",
-      "points": [
-        "Trump suggested Iran could \"take out\" Los Angeles or San Diego with a nuclear attack.",
-        "California leaders dismissed Trump's statements as alarmist.",
-        "Ted Widmer, a former White House speechwriter, criticized Trump's rhetoric."
       ]
     }
   ]
