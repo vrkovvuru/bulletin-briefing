@@ -1,76 +1,52 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "stories": [
     {
-      "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
-      "url": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
+      "title": "Pope Leo has lung cancer, the Vatican says",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
-      "alsoReportedBy": ["BBC News", "The Guardian"]
+      "alsoReportedBy": [
+        "BBC News",
+        "The Guardian"
+      ]
     },
     {
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "title": "Fulham manager Arbeloa fined for Man Utd refereeing outburst",
+      "url": "https://www.aljazeera.com/sports/2026/10/14/fulham-manager-arbeloa-fined-for-man-utd-refereeing-outburst?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Alvaro Arbeloa fined $33,000 for remarks made after Fulham&#039;s 1-1 draw against Manchester United in September.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+      "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Starlink network restrictions in Ukraine related to political situation, Zelensky aide says",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
-      "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss",
+      "title": "Do any of these Israeli candidates support a Palestinian state?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The trial is expected to run into February and could test Germany&#039;s political stance on Ukraine.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "China and North Korea to open New Yalu River Bridge, state media reports",
-      "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The long-delayed bridge will formally open on Thursday, according to China&#039;s state-run Xinhua news agency.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "My son killed himself after falling for an online scam. I heard it happen – and vowed to protect other children",
-      "url": "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Gavin Guffey was 17 when he was targeted by a ‘sextortionist’ on Instagram. His father Brandon has spent four years fighting for justice, and for social media companies to do more to safeguard young users What were the last words Brandon Guffey said to his son Gavin? Four years on, he still struggles with this question. “That last exchange, it bothers me constantly,” he says. “I think I said, ‘Goodnight, buddy. I love you,’ and he said, ‘I’ll see you in the morning.’ I sincerely hope that’s what I said. The truth is, I’ll never know for certain.” The exchange happened in 2022, on a hot July in Rock Hill, South Carolina, where, just weeks before, Guffey had won the Republican ticket to stand for the state’s House of Representatives. The election was three months away, Guffey’s head was buzzing with politics, and he’d spent that evening at a local event. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Singapore’s economy grows more than 5 percent amid AI boom",
-      "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "City-state&#039;s GDP expands 5.4 percent in July-September quarter, according to advance government estimates.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘He’s terrified, panicked, can’t sleep’: the tragic, lonely death of Beatles manager Brian Epstein",
-      "url": "https://www.theguardian.com/music/2026/oct/14/beatles-brian-epstein-gary-kemp-spandau-ballet",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Spandau Ballet’s Gary Kemp paid £10k at auction for Epstein’s address book. He then used it to co-author a thrilling account of the swinging 60s – and an intimate portrait of a tormented man whose life was unravelling The email from Sotheby’s might easily have gone unread. Despite his deep appreciation for the musical heroes who came before him, Gary Kemp is not a collector of rock memorabilia. But there, among the auction lots, was something that caught his eye: a 160x100mm black Twinlock binder that once belonged to the Beatles’ manager, Brian Epstein. The listing detailed 57 pages containing 404 entries, many handwritten by Epstein himself, cataloguing the social and business network of the Liverpudlian impresario in 1967, the year of his death. Kemp immediately recognised this was much more than simply an address book: it was a who’s who of 60s London at its swinging peak, from David Bailey and David Frost to most of the Rolling Stones. “I just thought, ‘I’ve got to have this. I’ve got to hold it,’” he says. “It’s got DNA on it.” Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "In Germany the mood is dark. But the Weimar narrative is a far right trap | Klaus Brinkbäumer",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/in-germany-the-mood-is-dark-but-the-weimar-narrative-is-a-far-right-trap",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The final season of the TV epic Babylon Berlin is taking us back to 1933. Our confidence is falling apart, but that’s where the parallels end There is one experience we in Germany can all find mildly satisfying this autumn, as we watch the dark and terrifying final season of the hit TV series Babylon Berlin . We know everything those fearless (a few of them) or frightened (many more) and opportunistic (the majority) people on the screen do not. We know their future. Made by the public broadcaster ARD, Babylon Berlin has run for over 10 years, brilliantly fictionalising how Germany sleepwalked into nazism and the second world war. The fifth and last season begins in January 1933 with Adolf Hitler appointed Reichskanzler . Continue reading...",
+      "summary": "Do any of these Israeli candidates support a Palestinian state?",
       "alsoReportedBy": []
     },
     {
@@ -83,66 +59,39 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
       "alsoReportedBy": []
     },
     {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-      "alsoReportedBy": ["Guardian World"]
-    },
-    {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+      "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Saudi civil defence authority says danger passed after it issued alerts via its national early warning platform.",
       "alsoReportedBy": []
     },
     {
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "title": "What will drive American voters to the polls in the midterm elections? - video explainer",
+      "url": "https://www.theguardian.com/us-news/video/2026/oct/14/what-will-drive-american-voters-to-the-polls-in-the-midterm-elections-video-explainer",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Recent polls show that American voters across the political spectrum are deeply dissatisfied with the Trump administration, and the upcoming midterm elections will provide them an opportunity to express how they feel. The Guardian's reporter Fabiola Cineas breaks down the four key issues that will drive voters to the polls Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "How will a diesel deal with Russia impact the U.S. market?",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The price of diesel hit an all-time high in the U.S. in September. Can President Trump's deal for Russia to release more diesel onto the market bring the price down?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australian politics live: Albanese says ‘completely wrong’ he ‘cleaned up’ after Chalmers on credit card ban; Coalition continues to target Aly",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being left on the table because the government won’t properly tax the resource. We’re giving away billions in resource wealth while families struggle to pay the rent, put food on the table and afford basic healthcare. Labor can find billions to prop up the fossil fuel industry, but when it comes to making corporations like Santos, Woodside and Adani pay a fair return, suddenly it’s all too hard. The prime minister has a kink for punishing small businesses and a fetish for humiliating his treasurer. So I say this is a consistent pattern of behaviour where the prime minister constantly goes in, overrides his treasurer, humiliates him in public. I suspect it’s going to sour the relationship somewhat. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "$20m public liability insurance to rally in a park: How council red tape hinders the right to protest",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/councils-making-protesters-purchase-public-liability-insurance",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Public gatherings stymied by bureaucracy, Australian Democracy Network and Deakin University researchers find Council red tape is stymieing the right to protest, a report has said, after a regional New South Wales council told a protest organiser they needed a $20m public liability insurance policy to hold a rally in a park. A report released on Wednesday, co-authored by Australian Democracy Network (ADN) and Deakin University’s Centre for Law as Protection, raised concerns about incidents in which councils have required protest organisers to obtain insurance when rallies are held on council land. It also expressed concern about the power some regional and urban councils have to issue financial penalties if public gatherings are held without a council permit. Continue reading...",
+      "title": "\u2018Children are naturally drawn to beauty\u2019: the head of the \u2018fake\u2019 Issey Miyake preschool on their pleated uniforms",
+      "url": "https://www.theguardian.com/fashion/2026/oct/14/issey-miyake-montessori-school-designer",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Ms Lam Montessori\u2019s head of school reveals teachers wear a different Japanese designer after their chic clothes drew online envy \u201cDoes anyone know what the deal is Ms Lam Montessori \u2026 and why all their employees wear Issey Miyake \u2026 every day \u2026 I\u2019m confused and a bit jealous,\u201d asked one commenter on the Williamsburg subreddit last week, sparking a unexpected viral moment for a chain of Brooklyn Montessori preschools. The poster was responding to photos on the Montessori\u2019s website of the teachers\u2019 uniforms: raspberry, cobalt and apple green dresses in pliss\u00e9 fabric. They appeared to be from the Pleats Please line by Japanese designer Issey Miyake. It seemed an avant-garde choice for staff posing in front of the abachi and blond wood toys of their preschool classroom. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -151,34 +100,115 @@
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
       "alsoReportedBy": []
     },
     {
-      "title": "Court overturns Tanya Plibersek’s protection order which stalled controversial NSW goldmine",
-      "url": "https://www.theguardian.com/environment/2026/oct/14/federal-court-overturns-tanya-plibersek-protection-order-nsw-goldmine-mcphillamys-blaney",
-      "source": "Guardian World",
+      "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Federal court overrules decision by former environment minister for the McPhillamys goldmine development at Blayney Follow our Australian politics live blog for latest updates Get our breaking news email , free app or daily news podcast The federal court has overturned a rare protection order issued by former environment minister Tanya Plibersek under Indigenous heritage legislation, which the company said effectively blocked a controversial goldmine in the central west of New South Wales. Regis Resources challenged the decision by the former minister to issue the order in 2024 under section 10 of the Aboriginal and Torres Strait Islander Heritage Protection Act. Continue reading...",
+      "summary": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
       "alsoReportedBy": []
     },
     {
-      "title": "Beau Lamarre-Condon previously visited farm where he later tried to sink bodies, court told",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/beau-lamarre-condon-trial-shown-alleged-murder-scene-reconstruction-bullet-holes-ntwnfb",
-      "source": "Guardian World",
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Jury also shown 3D reconstruction of Paddington terrace outlining prosecution version of alleged murders of Jesse Baird and Luke Davies Follow our Australian politics live blog for latest updates Get our new political email , free app or daily news podcast Beau Lamarre-Condon previously visited a farm where he later tried to sink the bodies of Jesse Baird and Luke Davies, the prosecution has told a Sydney court. The rural property belonged to the family of a man the police officer had met on a dating app and the two visited the farm together months before the alleged murders. Continue reading...",
+      "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
       "alsoReportedBy": []
     },
     {
-      "title": "Family of Indigenous woman found dead in Melbourne mourn ‘vibrant, beautiful young girl’",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/family-mourn-jayda-bonner-indigenous-woman-found-dead-melbourne-ntwnfb",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska \u2013 US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Police have charged a 31-year-old man with the alleged murder of Jayda Allen Bonner, whose body was found in a Carlton apartment on Saturday Follow our Australian politics live blog for latest updates Get our new political email , free app or daily news podcast Warning: This article contains images of and references to Indigenous Australians who have died The family of a young Indigenous woman found dead in an apartment complex in Melbourne’s inner-north on Saturday say they are “absolutely crushed and shattered” by her death. Jayda Allen Bonner, 21, was found dead on the fifth floor of an apartment block on Cardigan Street, Carlton on Saturday at about 1.45am. Continue reading...",
+      "summary": "Trump has taken to campaigning in conservative-leaning \u200bparts of competitive states, rather than in more politically diverse areas Sign up for the Breaking News US email Donald Trump begins the day in Las Vegas, following his rally in Wasilla, Alaska on Tuesday. He\u2019ll then travel to Bullhead City, Arizona for a midterms rally, where he\u2019ll take the stage at 3pm ET. A reminder that there are several competitive races in the state, notably the contest for the sixth congressional district , where the incumbent Republican congressman Juan Ciscomani is facing a challenge from Democrat JoAnna Mendoza , a former US marine who served tours in Iraq and Afghanistan. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "EU says \u2018no indication\u2019 intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power \u2013 Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "European Commission declined to comment on reported disruption to Starlink\u2019s services in Ukraine Ukrainian soldiers have access to Starlink satellite internet restricted Rutte gets asked \u201cis Russia foolish enough to consider attacking any of Nato countries?\u201d He says \u201cwe don\u2019t think so\u201d and that there is \u201cno imminent threat against Nato territory,\u201d but stresses that \u201cif we see a build up, we will react to it.\u201d \u201cWe will never, ever mount a attack towards anyone else because that is not in our interest. We are a defensive alliance.\u201d \u201c But here\u2019s the main thing: we are stronger. Russia is not in a good place. These hybrid attacks, whatever it is, are a sign of weakness. What they allow us to do is to talk about it the whole day and to be rattled and to have press conferences on it. We\u2019re not going to do that. We will react where we need to react.\u201d Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ken Paxton stirs vaccine skepticism to ingratiate himself with Maha movement",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Texas AG and US Senate hopeful announced inquiry into alleged conspiracy between pediatricians, vaccine makers and insurance firms Ken Paxton, the attorney general of Texas and the Republican candidate for the US Senate, is aligning himself with the Make America Healthy Again (Maha) movement by investigating pediatricians for giving vaccines \u2013 actions that could further restrict access to vaccines as deadly outbreaks unfold. Paxton announced he would investigate an alleged conspiracy between pediatricians, vaccine makers and insurance companies in January, and at least one Texas pediatrician now says she is under investigation. Paxton linked his efforts to a campaign against vaccines from Donald Trump and Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS), and directly referenced the Maha movement in his announcement. The president endorsed Paxton\u2019s Senate run in May. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Tinie Tempah says he will finally visit Scunthorpe after campaign by fans",
+      "url": "https://www.theguardian.com/music/2026/oct/14/tinie-tempah-visit-scunthorpe-campaign-fans-pass-out",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Rapper to visit Lincolnshire town 16 years after saying he had never been there in his hit Pass Out The rapper Tinie Tempah has said he will finally visit Scunthorpe \u2013 16 years after he announced to the world that he had never been to the town in his number one hit Pass Out . His decision follows a campaign by fans, led by Ben Johns, a Scunthorpe resident, who carried a cardboard cutout of the artist around the Lincolnshire town and encouraged people to pre-save Tempah\u2019s new album. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Burnham rules out deal with Greens as he condemns \u2018Zionism is racism\u2019 policy as \u2018antisemitic\u2019\u2013 UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Prime minister tells PMQs that the Green party motion was \u2018wrong\u2019 and says no way Labour would make a deal PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are supportive of Farage said Badenoch was needlessly trying to cause a political row (per @katyballs @MrHarryCole) and accused her of undermining the Anglo-American relationship. It is possible that these people are particularly sensitive about this topic because they are still considering buying the islands, as @connorstringer and I reported earlier in the year. Domestic opposition to the idea of the US running Chagos in the UK would be a problem for the White House. Calamity Kemi Strikes Again. Kemi Badenoch has risked causing a diplomatic row with Britain\u2019s allies, all because she cannot control the Tory spin doctors around her that oversaw the disastrous premierships of Boris Johnson, Rishi Sunak, Theresa May, and even David Cameron. Kemi and the Conservatives cannot be trusted by the Chagos people. If they really have interest in the Chagos, why would you have started negotiating about things you already own? We are confused at why @KemiBadenoch is attacking @Nigel_Farage \u2026 We understood Nigel Farage\u2019s comments to mean that we would get perpetual use of the base, which, frankly, we\u2019ve always had. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Fancy Curl Sites",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -191,8 +221,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
+      "title": "Introducing Firefox Enterprise",
+      "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,43 +248,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Did Ente Locker copy my code without attribution?",
-      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Grace Hopper Celebration Cancelled",
-      "url": "https://anitab.org/press-release",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Who is vfmaddrnd231pd??",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+      "title": "The Pulse: new trend of building \u201cinternal vibe-coding apps\u201d at tech companies",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -263,21 +266,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "url": "https://www.latent.space/p/dyna",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Our first robotics pod with Dyna&#8217;s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
       "alsoReportedBy": []
     },
     {
@@ -286,16 +280,16 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically (and who have boasted about their pelicans before.) Here's the \"high\" illustration, which cost me 17.166 cents: The pricing is interesting. At launch, Argon is $2/million input and $10/million output - the same price as GPT-6 Sol, half the price of Claude Opus 5.5 and 1/5th the price of Claude Fable 5.1 and GPT-6 Astra. But on December 1st Argon is set to double in price - so it will be the same price as Opus 5.5. Prices like this aren't really comparable these days since what really matters is how many tokens a model takes to achieve a goal within an agentic harness. One useful clue for that comes from Artificial Analysis, who publish the total cost to run their benchmark using each model. Argon is looking very good there - costing $2,407 to run the benchmark, putting it close to GLM-5.3 and significantly cheaper than OpenAI, Anthropic, and Meta's latest models. When the price doubles it will still be a little cheaper than GPT-6 Astra. (I used ChatGPT to edit that chart ! The data is all correct, I checked - I needed to get that Gemini 4 Argon info box to display without overlapping the other numbers.) Some bonus examples using Gemini 4 Argon: here's Generate an SVG of an armadillo in fishnet tights jaywalking on Mars , here's a Fabergé egg it created for me using Blender, and DeepMind staffer @fofrAI shared a video of a pelican riding a bike, using fourier epicycles . That's a fun new twist! Tags: google , ai , generative-ai , llms , llm , gemini , llm-pricing , pelican-riding-a-bicycle , llm-release",
+      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically (and who have boasted about their pelicans before.) Here's the \"high\" illustration, which cost me 17.166 cents: The pricing is interesting. At launch, Argon is $2/million input and $10/million output - the same price as GPT-6 Sol, half the price of Claude Opus 5.5 and 1/5th the price of Claude Fable 5.1 and GPT-6 Astra. But on December 1st Argon is set to double in price - so it will be the same price as Opus 5.5. Prices like this aren't really comparable these days since what really matters is how many tokens a model takes to achieve a goal within an agentic harness. One useful clue for that comes from Artificial Analysis, who publish the total cost to run their benchmark using each model. Argon is looking very good there - costing $2,407 to run the benchmark, putting it close to GLM-5.3 and significantly cheaper than OpenAI, Anthropic, and Meta's latest models. When the price doubles it will still be a little cheaper than GPT-6 Astra. (I used ChatGPT to edit that chart ! The data is all correct, I checked - I needed to get that Gemini 4 Argon info box to display without overlapping the other numbers.) Some bonus examples using Gemini 4 Argon: here's Generate an SVG of an armadillo in fishnet tights jaywalking on Mars , here's a Faberg\u00e9 egg it created for me using Blender, and DeepMind staffer @fofrAI shared a video of a pelican riding a bike, using fourier epicycles . That's a fun new twist! Tags: google , ai , generative-ai , llms , llm , gemini , llm-pricing , pelican-riding-a-bicycle , llm-release",
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy \u2014 Jason Ma, Dyna Robotics",
+      "url": "https://www.latent.space/p/dyna",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "MSL&#8217;s emergence as a frontier lab is finally complete.",
+      "summary": "Our first robotics pod with Dyna&#8217;s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
       "alsoReportedBy": []
     },
     {
@@ -313,16 +307,16 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten. — Geoffrey Huntley , nobody should type code by hand anymore. here's what's left. Tags: coding-agents , generative-ai , git , agentic-engineering , ai , geoffrey-huntley , llms",
+      "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten. \u2014 Geoffrey Huntley , nobody should type code by hand anymore. here's what's left. Tags: coding-agents , generative-ai , git , agentic-engineering , ai , geoffrey-huntley , llms",
       "alsoReportedBy": []
     },
     {
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL\u2019s Claude 5.5-tier Frontier Model",
+      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
+      "summary": "MSL&#8217;s emergence as a frontier lab is finally complete.",
       "alsoReportedBy": []
     },
     {
@@ -350,7 +344,18 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
-      "alsoReportedBy": ["Simon Willison"]
+      "alsoReportedBy": [
+        "Simon Willison"
+      ]
+    },
+    {
+      "title": "How Anthropic\u2019s Dynamic Workflows Coordinate Claude Agents",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
+      "alsoReportedBy": []
     },
     {
       "title": "llm-meta-ai 0.2",
@@ -361,5 +366,7 @@
       "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol. I updated my llm-meta-ai plugin for the new model. Here are pelicans for Muse Wonder for the six reasoning levels: minimal, low, medium, high, xhigh, max. This is the max one: For comparison, here are pelicans for Muse 1.3 (released September 2nd) and Muse 1.2 (released August 5th). Meta AI are putting out a new model a month, and the improvements between each model (at least in terms of drawing pelicans) are material. Tags: ai , generative-ai , llms , meta , pelican-riding-a-bicycle , llm-release",
       "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 182.0,
+  "voice": "af_heart"
 }

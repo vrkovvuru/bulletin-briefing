@@ -1,6 +1,108 @@
 {
-  "generated": "2026-10-14T04:41:25.426850Z",
+  "generated": "2026-10-14T12:43:06.312859Z",
   "summaries": [
+    {
+      "summary": "A Brooklyn Montessori school's teachers' Issey Miyake uniforms sparked online envy and curiosity.",
+      "significance": "The story highlights unexpected online envy over preschool teachers' stylish Issey Miyake uniforms, drawing attention to the intersection of fashion and education.",
+      "url": "https://www.theguardian.com/fashion/2026/oct/14/issey-miyake-montessori-school-designer",
+      "points": [
+        "Commenter on Williamsburg subreddit expressed confusion and jealousy over the uniforms.",
+        "Teachers wear raspberry, cobalt, and apple green dresses from Issey Miyake's Pleats Please line.",
+        "Ms Lam Montessori is a chain of Brooklyn Montessori preschools."
+      ]
+    },
+    {
+      "summary": "Trump is holding campaign rallies in Arizona and Montana after a stop in Alaska.",
+      "significance": "Trump's rally tour targets conservative-leaning areas in competitive states ahead of midterms.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+      "points": [
+        "Trump's first stop is a rally in Las Vegas, followed by Arizona.",
+        "In Arizona, Trump will speak in Bullhead City at 3pm ET.",
+        "Arizona's 6th district race features incumbent Rep. Juan Ciscomani versus Democrat JoAnna Mendoza."
+      ]
+    },
+    {
+      "summary": "EU asserts continued intelligence sharing with Ukraine despite Russian attacks leaving 600,000 without power.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+      "points": [
+        "Russian attacks have left 600,000 people without power in Ukraine.",
+        "European Commission avoided commenting on Starlink service disruptions in Ukraine.",
+        "Dutch PM Rutte stated no imminent threat to NATO territory from Russia."
+      ]
+    },
+    {
+      "summary": "Texas AG Ken Paxton investigates alleged vaccine conspiracy, aligning with Maha movement and vaccine skeptics.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines",
+      "points": [
+        "Paxton announced investigation into pediatricians, vaccine makers, and insurance firms in January.",
+        "At least one Texas pediatrician reports being under investigation.",
+        "President endorsed Paxton\u2019s Senate run in May."
+      ]
+    },
+    {
+      "summary": "Rapper Tinie Tempah agrees to visit Scunthorpe, 16 years after mentioning he had never been there in his hit song.",
+      "url": "https://www.theguardian.com/music/2026/oct/14/tinie-tempah-visit-scunthorpe-campaign-fans-pass-out",
+      "points": [
+        "Tinie Tempah's decision follows a fan campaign led by Ben Johns.",
+        "The campaign included carrying a cardboard cutout of Tinie Tempah around Scunthorpe.",
+        "Fans encouraged pre-saving Tempah\u2019s new album to convince him to visit."
+      ]
+    },
+    {
+      "summary": "Prime Minister Burnham rejects a deal with the Greens and denounces their 'Zionism is racism' policy as antisemitic during PMQs.",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+      "points": [
+        "Burnham explicitly states no deal with Greens due to their antisemitic policy.",
+        "Sources in Trump administration criticize Badenoch for causing political tension.",
+        "Badenoch accused of undermining Anglo-American relationship over Chagos Islands."
+      ]
+    },
+    {
+      "summary": "Iosevka is an open-source font designed for better screen utilization, offering customization through stylistic sets and advanced OpenType features.",
+      "significance": "Iosevka improves screen efficiency and compatibility in terminal emulators, affecting users who need clear, space-efficient text display.",
+      "url": "https://typeof.net/Iosevka/",
+      "points": [
+        "Iosevka allows fitting more columns within the same screen width compared to competitors.",
+        "The font offers an Extended version for more space between characters.",
+        "Iosevka supports advanced OpenType features, including long arrows and horizontal bars."
+      ]
+    },
+    {
+      "summary": "PostgreSQL extension PRISM offers faster vector search than pgvector's IVFFlat and HNSW.",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "points": [
+        "PRISM is 100 times faster on a 100-million-vector dataset with a quarter of the memory.",
+        "Uses hierarchical centroid tree and RaBitQ encoding for efficient vector partitioning and filtering.",
+        "Two usage methods: PLAIN for inline vectors and EXTERNAL (default) for vectors over 2 kB."
+      ]
+    },
+    {
+      "summary": "Mozilla introduces Firefox Enterprise to help institutions reduce technological dependency and enhance control over their browser infrastructure.",
+      "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+      "points": [
+        "Firefox Enterprise pairs the Firefox browser with a management console for better control.",
+        "Built on Gecko, the only major browser engine outside Google and Apple.",
+        "Initial sales focus on France, Germany, Austria, and Switzerland."
+      ]
+    },
+    {
+      "summary": "Amazon's pricing structure and fees force sellers to raise prices across the internet, impacting consumer costs globally.",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "points": [
+        "FTC and 17 US states sued Amazon in 2023 for maintaining a monopoly by punishing sellers who offer lower prices elsewhere.",
+        "Amazon's fees, including a 15% commission, fulfillment, and advertising costs, can total up to half of a seller's sales.",
+        "Sellers must raise prices on their own websites to match Amazon prices to avoid losing sales, affecting prices globally."
+      ]
+    },
+    {
+      "summary": "A new Smalltalk IDE called Pulsar was presented at ESUG 2026, focusing on aiding programmers in understanding and navigating systems.",
+      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "points": [
+        "Pulsar aims to help programmers understand, navigate, and modify systems while staying close to the code.",
+        "The presentation at ESUG 2026 showcased Pulsar's current capabilities and future directions.",
+        "Pulsar is described as a work in progress but already usable, with feedback encouraged."
+      ]
+    },
     {
       "summary": "Father campaigns for social media safety after son's suicide following online scam.",
       "significance": "The story highlights the fatal consequences of online scams on youth and a father's advocacy for social media safety measures.",
@@ -3651,108 +3753,6 @@
         "Authors highlight that resolving ambiguities in mathematical natural language text is SCI $= \\infty$, making it harder than the Halting problem.",
         "Examples show AI mistranslations of NL statements and proofs into Lean, including OpenAI's Navier-Stokes proof.",
         "The formalised Lean proof of Navier-Stokes does not match the original natural language proof of blow-up solutions."
-      ]
-    },
-    {
-      "summary": "A new technique uses animated ASCII art to create dynamic web page visuals.",
-      "url": "https://ascii.rest/",
-      "points": [
-        "Technique employs ASCII characters for web page animations",
-        "Offers a retro aesthetic with modern interactivity",
-        "Can be used to enhance user engagement on websites"
-      ]
-    },
-    {
-      "summary": "Boots, a UK pharmacy and retail chain, was sold for £7bn to a Canadian billionaire family's holding company.",
-      "significance": "The sale of Boots to the Weston family marks a significant ownership change, potentially impacting the retail chain's strategy and operations in the UK, Ireland, and Thailand.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Deal valued at $8.9bn (£6.7bn) from Sycamore Partners to Wittington Investments.",
-        "Sycamore owned Boots for only 18 months before the sale.",
-        "Galen Weston, new chairman, aims to improve Boots through long-term investment and focus."
-      ]
-    },
-    {
-      "summary": "Parti Québécois wins Quebec election but falls short of majority needed for a referendum on separation from Canada.",
-      "url": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis",
-      "points": [
-        "Parti Québécois gained 56 seats and more than doubled its vote share since 2022.",
-        "Victory marks first taste of power for PQ in 14 years.",
-        "PQ is five seats short of a majority, complicating plans for a 2028 referendum."
-      ]
-    },
-    {
-      "summary": "Flávio Bolsonaro's lead in Brazil's election raises concerns for the Amazon rainforest's future.",
-      "significance": "Flávio Bolsonaro's lead in Brazil's election threatens progress in curbing Amazon deforestation, alarming global climate campaigners.",
-      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
-      "points": [
-        "Flávio Bolsonaro currently leads in Brazil\u2019s presidential election.",
-        "Lula\u2019s success in reducing Amazon deforestation hasn't translated to electoral success.",
-        "A Bolsonaro presidency could accelerate the Amazon towards irreversible damage."
-      ]
-    },
-    {
-      "summary": "Conservatives plan to abolish inheritance tax on family homes, facing criticism for favoring the wealthy.",
-      "url": "https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech",
-      "points": [
-        "Tories propose to exempt family homes from inheritance tax.",
-        "Couples could leave an additional £1m tax-free to families.",
-        "Critics argue the plan prioritizes affluent middle-class voters."
-      ]
-    },
-    {
-      "summary": "South West Water's owner, Pennon, slashes dividend and seeks £550m from investors to fund infrastructure after a £7.9m fine for sewage spills.",
-      "url": "https://www.theguardian.com/business/2026/oct/07/south-west-water-owner-taps-investors-to-fix-infrastructure-after-sewage-spills",
-      "points": [
-        "Pennon faces £7.9m fine for hundreds of sewage spills.",
-        "Company launches £550m cash call to investors.",
-        "Part of a £1bn investment plan to improve customer and community outcomes."
-      ]
-    },
-    {
-      "summary": "BBC's director general Matt Brittin faces staff criticism over disproportionate job cuts in junior ranks.",
-      "url": "https://www.theguardian.com/media/2026/oct/07/bbc-boss-matt-brittin-criticism-job-cuts-junior-staff",
-      "points": [
-        "Staff accuse Brittin of sparing executives while cutting frontline jobs.",
-        "Brittin suggests potential overhaul of iPlayer service."
-      ]
-    },
-    {
-      "summary": "Australian PM Albanese highlights climate injustice abroad while opposing legal action against a domestic coalmine expansion.",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/overseas-albanese-sees-the-very-definition-of-climate-injustice-but-at-home-he-still-wants-coal",
-      "points": [
-        "High Court struck down approval for a massive coalmine expansion in the Hunter Valley.",
-        "Coalmine expansion could have operated until 2048 before being halted.",
-        "Community members in the Hunter Valley won a likely historic victory against the coalmine."
-      ]
-    },
-    {
-      "summary": "The article outlines common mistakes in software blogging and provides tips for effective communication.",
-      "significance": "The story matters as it provides beginner software bloggers with a set of anti-patterns to avoid, enhancing the clarity and appeal of their content for readers.",
-      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-      "points": [
-        "Meandering is the most common mistake, where readers lose track of the main point.",
-        "Bloggers should use the title and first three sentences to clearly state the benefit and topic.",
-        "Minimize assumptions about the reader's background knowledge to ensure clarity."
-      ]
-    },
-    {
-      "summary": "South Korea considers abolishing military service exemption for gold medal-winning athletes due to public backlash.",
-      "significance": "The story indicates a potential policy change in South Korea, affecting athletes' exemptions from military service following public backlash over athletes' comments.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/south-koreas-military-service-exemption-could-be-cut-for-athletes?traffic_source=rss",
-      "points": [
-        "Government signaled potential abolition of exemption following controversial comments by Asian Games winners.",
-        "Current policy exempts gold medalists from mandatory military service.",
-        "Public backlash triggered review of the exemption policy for athletes."
-      ]
-    },
-    {
-      "summary": "Former German intelligence chief August Hanning, 80, was arrested for espionage and attempted treason.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/german-ex-spy-chief-arrested-for-treason-what-we-know?traffic_source=rss",
-      "points": [
-        "Hanning is accused of having contact with foreign intelligence services, including Azerbaijan and Israel.",
-        "Prosecutors allege Hanning received approximately 2,000 documents from his former bureau chief, Manfred D, containing classified information.",
-        "The arrest is described as Germany\u2019s \u201cbiggest espionage scandal of the century\u201d by Deutsche Welle."
       ]
     }
   ]
