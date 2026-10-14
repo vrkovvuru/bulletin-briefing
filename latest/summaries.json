@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-14T20:42:03.761116Z",
+  "generated": "2026-10-14T22:41:03.658695Z",
   "summaries": [
+    {
+      "summary": "University of Maryland suspends its club tennis team after racist imagery was sent to other schools before a tournament.",
+      "significance": "The suspension of the University of Maryland club tennis team over racist imagery highlights ongoing issues with discrimination in collegiate sports.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/university-maryland-club-tennis-suspended-racist-imagery",
+      "points": [
+        "Team suspended indefinitely following circulation of Ku Klux Klan imagery.",
+        "Offense spotted by Toni Rachal, president of Howard University\u2019s tennis team.",
+        "Controversy involved a shared Google document sent to participating schools."
+      ]
+    },
+    {
+      "summary": "UK hospitality sector plans to offer up to 100,000 jobs to young unemployed individuals over three years.",
+      "url": "https://www.theguardian.com/society/2026/oct/14/uk-hospitality-sector-100000-jobs-young-people-neets",
+      "points": [
+        "Scheme targets 18- to 24-year-olds not in employment, education, or training.",
+        "Nando\u2019s and Fuller\u2019s among participating businesses.",
+        "Former health secretary warns of 1.25 million Neets in five years without intervention."
+      ]
+    },
+    {
+      "summary": "Anthropic's new version control system, Scion, is criticized for closely resembling Mononoke, a system developed by Meta.",
+      "significance": "The story highlights the importance of acknowledging prior work in technological advancements, emphasizing the ethical implications of inspiration versus plagiarism in AI development.",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "points": [
+        "The criticism centers on Scion's use of \"derived data\" concept, previously used in Mononoke.",
+        "Mononoke's influence is noted as not being acknowledged in Scion's documentation.",
+        "The author emphasizes the importance of crediting prior work in system design."
+      ]
+    },
+    {
+      "summary": "Jev 1.14.0 release includes experimental features for creativity, including images, new types, and longer context lengths.",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "points": [
+        "Release introduces experimental \"danger zone\" features for creativity, cautioning against production use.",
+        "New features enable multimodality in current Jev models, allowing image integration in JSON interface.",
+        "Context length limits removed, previously restricted for reliability, now fully accessible to users."
+      ]
+    },
     {
       "summary": "Russian strikes on Kyiv's energy infrastructure left over half a million without electricity, following an intelligence lapse.",
       "significance": "The story highlights a critical intelligence failure that left Kyiv vulnerable to Russian attacks, affecting over half a million people's access to electricity.",
@@ -3716,43 +3754,6 @@
         "19-year-old had tissue removed and frozen three years ago before cancer treatment.",
         "Procedure offers hope for preserving fertility in boys left infertile by chemotherapy.",
         "Patient expressed gratitude for the pioneering medical procedure."
-      ]
-    },
-    {
-      "summary": "Hundred Rabbits, an off-grid group, shares updates on their projects and life, including software development, language experiments, and a new book release.",
-      "url": "https://100r.ca/site/home.html",
-      "points": [
-        "Released a new page on encryption and decryption, featuring animated sprites and an in-game manual.",
-        "Devine works on formalizing linguistic experiments inspired by Giuseppe Peano's work on auxiliary languages.",
-        "The group released a new book, with preparations and writing taking precedence over other projects."
-      ]
-    },
-    {
-      "summary": "Jurors in Sydney are shown photos of decomposed bodies as part of the trial for the February 2024 murders of Jesse Baird and Luke Davies.",
-      "significance": "Photographs of decomposed bodies are shown to jurors in the trial of a former police officer accused of two murders, emphasizing the graphic evidence presented.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/08/jurors-in-beau-lamarre-condon-case-shown-photos-of-decomposed-bodies-ntwnfb",
-      "points": [
-        "Beau Lamarre-Condon, 31, a former police officer, pleaded not guilty to the murders.",
-        "The victims, Jesse Baird, 26, and Luke Davies, 29, were murdered in February 2024.",
-        "15 jurors are evaluating the case after viewing the decomposed bodies' photographs."
-      ]
-    },
-    {
-      "summary": "Firmus Technologies, an AI datacentre company, is cutting its valuation and considering shelving its ASX debut due to investor scepticism.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing",
-      "points": [
-        "Firmus may shelve its initial public offering (IPO) due to investor doubts.",
-        "The company is slashing its valuation to attract sceptical investors.",
-        "These changes are happening just weeks before the anticipated ASX debut."
-      ]
-    },
-    {
-      "summary": "Canada will indefinitely prohibit euthanasia for those with solely mental illness, addressing a contentious issue.",
-      "url": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
-      "points": [
-        "Legislation aims to prevent people with only mental illness from accessing euthanasia.",
-        "Current ban set to lift in March but now to be made permanent.",
-        "Crisis Services Canada available at 1.833.456.4566 for mental health support."
       ]
     }
   ]
