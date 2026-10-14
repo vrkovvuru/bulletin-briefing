@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-14T02:40:52.897509Z",
+  "generated": "2026-10-14T04:41:25.426850Z",
   "summaries": [
+    {
+      "summary": "Father campaigns for social media safety after son's suicide following online scam.",
+      "significance": "The story highlights the fatal consequences of online scams on youth and a father's advocacy for social media safety measures.",
+      "url": "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist",
+      "points": [
+        "Gavin Guffey, 17, targeted by 'sextortionist' on Instagram in July 2022.",
+        "Incident occurred in Rock Hill, South Carolina, where father Brandon was running for state House.",
+        "Brandon has spent four years advocating for social media companies to better protect young users."
+      ]
+    },
+    {
+      "summary": "Gary Kemp bought Brian Epstein's address book at auction, using it to write about Epstein's life and the 1960s.",
+      "url": "https://www.theguardian.com/music/2026/oct/14/beatles-brian-epstein-gary-kemp-spandau-ballet",
+      "points": [
+        "Kemp paid £10k for Epstein\u2019s address book at an auction.",
+        "The address book contained 404 entries, many handwritten by Epstein.",
+        "The book catalogued Epstein\u2019s network in 1967, the year of his death."
+      ]
+    },
+    {
+      "summary": "Final season of Babylon Berlin TV series revisits Germany's descent into Nazism in 1933.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/in-germany-the-mood-is-dark-but-the-weimar-narrative-is-a-far-right-trap",
+      "points": [
+        "TV series Babylon Berlin, by ARD, spans over 10 years.",
+        "Final season starts with Hitler becoming Reichskanzler in January 1933.",
+        "Show depicts Germany's move towards Nazism, contrasting with current confidence."
+      ]
+    },
+    {
+      "summary": "Report highlights how council red tape, including a $20m insurance demand, hinders public protests in parks.",
+      "significance": "Council red tape, including demands for excessive insurance, hinders public protest rights, as highlighted by a report from ADN and Deakin University.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/councils-making-protesters-purchase-public-liability-insurance",
+      "points": [
+        "Regional NSW council demanded $20m public liability insurance for a park rally.",
+        "Report by ADN and Deakin University's Centre for Law as Protection raised concerns.",
+        "Some councils impose financial penalties for public gatherings without permits."
+      ]
+    },
+    {
+      "summary": "Family mourns Jayda Allen Bonner, a 21-year-old Indigenous woman found dead in Melbourne; a man is charged with her murder.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/family-mourn-jayda-bonner-indigenous-woman-found-dead-melbourne-ntwnfb",
+      "points": [
+        "Jayda Allen Bonner, 21, found dead in Carlton apartment on Saturday at 1:45am.",
+        "Police charged a 31-year-old man with her alleged murder.",
+        "Family describes Jayda as a \u201cvibrant, beautiful young girl,\u201d expressing profound grief."
+      ]
+    },
+    {
+      "summary": "The Grace Hopper Celebration in Anaheim, CA, has been cancelled due to insufficient funds from registrations and sponsorships.",
+      "significance": "The cancellation of the Grace Hopper Celebration affects attendees, sponsors, and the broader community of women technologists, disrupting plans and financial commitments.",
+      "url": "https://anitab.org/press-release",
+      "points": [
+        "Registration and sponsorship commitments fell below required levels for operating expenses.",
+        "Attendees should cancel travel and hotel reservations independently.",
+        "AnitaB.org will communicate with registrants about refunds by October 26."
+      ]
+    },
     {
       "summary": "Anger over the removal of 130 million names from electoral rolls has sparked protests against India's Hindu nationalist government.",
       "significance": "The story highlights a crisis sparked by the removal of millions from voter rolls, affecting citizens' rights and challenging the Hindu nationalist government.",
@@ -3696,62 +3753,6 @@
         "Hanning is accused of having contact with foreign intelligence services, including Azerbaijan and Israel.",
         "Prosecutors allege Hanning received approximately 2,000 documents from his former bureau chief, Manfred D, containing classified information.",
         "The arrest is described as Germany\u2019s \u201cbiggest espionage scandal of the century\u201d by Deutsche Welle."
-      ]
-    },
-    {
-      "summary": "World leaders honored victims as Israel marked three years since the Hamas attack on October 7th, 2023.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/07/israel-october-7-anniversary-hamas-gaza-netanyahu-iran-latest-news-updates",
-      "points": [
-        "1,200 people died in the attack that sparked a war in Gaza.",
-        "Israeli military arrested dozens suspected of terrorism, including supporting the October 7th attack.",
-        "A young man was shot and wounded by Israeli soldiers during security operations in Jenin."
-      ]
-    },
-    {
-      "summary": "Detained immigrants at a Georgia ICE facility begin a mass hunger strike to protest detention conditions.",
-      "significance": "The mass hunger strike highlights detained immigrants' protest against prolonged detention and poor conditions at a private ICE facility.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia",
-      "points": [
-        "At least 73 detained immigrants are participating in the hunger strike.",
-        "The protest targets prolonged detention and conditions at the Folkston facility.",
-        "The ICE processing center is run by the private prison company GEO Group."
-      ]
-    },
-    {
-      "summary": "Israel commemorates the third anniversary of the Hamas attacks on October 7th, which killed around 1,200 and took 251 captive.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/first-thing-israel-marks-third-anniversary-7-october-hamas-attacks",
-      "points": [
-        "About 1,200 people were killed and 251 taken captive in the Hamas attacks.",
-        "Israel\u2019s response led to a war in Gaza where at least 74,243 people were killed.",
-        "A photographer was beaten by Israeli settlers while covering olive farmers in the West Bank."
-      ]
-    },
-    {
-      "summary": "Chrome 155 introduces support for JPEG XL, a new image format offering better compression and features like lossless compression and HDR support.",
-      "significance": "Chrome's support for JPEG XL improves web image compression and security, following developer requests and enhancing web standards interoperability.",
-      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-      "points": [
-        "JPEG XL provides 30-50% better compression compared to JPEG.",
-        "Support for JPEG XL is implemented using Rust to ensure memory safety.",
-        "The decision to support JPEG XL was influenced by consistent feedback from web developers."
-      ]
-    },
-    {
-      "summary": "A font based on Commodore 64 keycaps has been recreated and is available for download.",
-      "url": "https://github.com/szabadkai/c64-keyboard-font/",
-      "points": [
-        "Font includes 63 PETSCII graphic front legends, arranged by key.",
-        "Users can insert symbols using special-key or PETSCII buttons in the type tester.",
-        "The font recreates key legends with smooth geometric reconstructions, not exact photo traces."
-      ]
-    },
-    {
-      "summary": "The article outlines reasons why some people dislike AI coding, focusing on artistic, job security, and ethical concerns.",
-      "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
-      "points": [
-        "AI-generated software lacks the creative ineffability valued in artistic outputs.",
-        "Concerns over job security as AI can perform coding tasks traditionally done by humans.",
-        "Critics argue AI coding undermines the interpersonal and ethical aspects of software development."
       ]
     }
   ]
