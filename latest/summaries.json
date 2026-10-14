@@ -1,6 +1,89 @@
 {
-  "generated": "2026-10-14T16:42:17.685046Z",
+  "generated": "2026-10-14T18:42:42.837248Z",
   "summaries": [
+    {
+      "summary": "Guinea-Bissau's health minister denies approval of a controversial hepatitis B vaccine trial in newborns backed by RFK Jr.",
+      "significance": "Guinea-Bissau's denial clarifies misinformation surrounding a controversial vaccine trial backed by anti-vaccine activist Robert F Kennedy Jr.",
+      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+      "points": [
+        "Health minister stated the government did not authorize the Danish-led trial.",
+        "Trial aims to track nonspecific health outcomes like mortality and neurodevelopmental conditions.",
+        "Robert F Kennedy Jr, an anti-vaccine activist, supports the study funded by US government and private partners."
+      ]
+    },
+    {
+      "summary": "A southern California beach closed after a report of a great white shark showing aggressive behavior.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/great-white-shark-huntington-beach",
+      "points": [
+        "Two-mile stretch of Huntington Beach closed on Tuesday afternoon.",
+        "Shark was reported to be 10-12ft long, circling near a lifeguard tower.",
+        "City's marine safety division deemed the shark's behavior as aggressive."
+      ]
+    },
+    {
+      "summary": "The Archers cast is upset over BBC's decision to scrap the show's new Birmingham studio.",
+      "url": "https://www.theguardian.com/media/2026/oct/14/the-archers-cast-radio-bbc-decision-new-studio-birmingham",
+      "points": [
+        "Ben Norris, playing Ben Archer, claims the move could harm show quality.",
+        "Cast fears the change will place a heavy burden on the crew."
+      ]
+    },
+    {
+      "summary": "Manchester City sent a representative on a government trade trip to India despite rule breaches.",
+      "url": "https://www.theguardian.com/football/2026/oct/14/bev-craig-manchester-city-trade-trip-india-to-promote-uk-tourism",
+      "points": [
+        "Mayor Bev Craig invited Manchester City rep on the trip.",
+        "Trip organized by Business Secretary Jonathan Reynolds.",
+        "Manchester City found guilty of 114 rule breaches in the Premier League."
+      ]
+    },
+    {
+      "summary": "England aims to raise organic farming land to 10% by 2036, currently at 3.4%.",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
+      "points": [
+        "Target set for 2036 to reach 10% organic land, up from 3.4%.",
+        "France leads with 10.4% organic land, aiming for 18% by 2027.",
+        "Funding concerns arise over the transition to organic farming."
+      ]
+    },
+    {
+      "summary": "US frontier AI labs have experienced unauthorized access incidents due to neglecting basic cybersecurity practices.",
+      "significance": "Inexcusable cybersecurity failures by frontier AI labs have led to unauthorized access incidents, highlighting a disregard for established security practices.",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "points": [
+        "OpenAI, Meta, and Google reported unauthorized access incidents involving their AI models.",
+        "Cybersecurity experts argue that these incidents stem from neglecting basic containment and monitoring practices.",
+        "AI labs prioritize \"AI safety\" over traditional cybersecurity, leading to insufficient risk management."
+      ]
+    },
+    {
+      "summary": "Go 1.27 improves HTTP/1 connection reuse, significantly reducing the time needed for requests.",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "points": [
+        "Go 1.27 reduces request time to ~150 milliseconds, nearly 5 times faster than previous versions.",
+        "HTTP/1 connection reuse issues arise when response bodies are not fully read, leading to connection abandonment.",
+        "Go 1.27 automatically drains unread HTTP/1 response bodies for up to 50 ms or 256 KB, optimizing connection reuse."
+      ]
+    },
+    {
+      "summary": "KDE released Plasma 6.8 on its 30th anniversary, featuring numerous enhancements and accessibility features.",
+      "url": "https://kde.org/announcements/plasma/6/6.8.0/",
+      "points": [
+        "Plasma 6.8 includes a \"dwell clicker\" feature for users with mobility issues.",
+        "System Monitor now allows users to assign compute-intensive tasks to specific CPUs.",
+        "Remote desktop server improvements include latency prioritization and virtual screen options."
+      ]
+    },
+    {
+      "summary": "The author details their journey into self-hosting services, driven by cost and privacy concerns, and outlines the benefits and specifics of their setup.",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "points": [
+        "The author moved from streaming services to self-hosting after living in India where services were cheaper.",
+        "Uses Jellyfin for media management and prefers native services over Docker for efficiency.",
+        "Runs a Beelink Mini PC with 16 GB RAM and a 6 TB hard drive for media storage.",
+        "Emphasizes security by not exposing services directly to the public internet, relying on IPv6 for public access."
+      ]
+    },
     {
       "summary": "Container ship sinks near the Strait of Hormuz, with a second vessel reportedly sinking, amid increased Iranian attacks on shipping.",
       "significance": "The story highlights Iran's escalating efforts to disrupt crucial shipping routes near Hormuz, potentially impacting global fuel prices and US political interests.",
@@ -3673,88 +3756,6 @@
         "30% drop in new Computer Science students in Iceland.",
         "Mark Zuckerberg's plan to replace Meta staff with AI failed.",
         "Developers feel less invested in their work due to AI tools, leading to decreased job satisfaction."
-      ]
-    },
-    {
-      "summary": "GPT-6 models, including Intelligent UI, are now available to more users, enhancing ChatGPT's interactivity and visual capabilities.",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "points": [
-        "GPT-6 now serves over 1.2 billion weekly ChatGPT users.",
-        "Intelligent UI enables ChatGPT to provide interactive and visual responses.",
-        "GPT-6 can start answering questions 44% sooner on average than GPT-5.6 for web search queries."
-      ]
-    },
-    {
-      "summary": "Margaret Hamilton, who led software development for NASA\u2019s Apollo program, died at 90.",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "points": [
-        "Received the Presidential Medal of Freedom from President Obama in 2016.",
-        "Worked at MIT from 1959 to the mid-1970s, authoring over 130 publications."
-      ]
-    },
-    {
-      "summary": "Docker introduces a new tool for building and running AI agents using YAML configuration.",
-      "url": "https://github.com/docker/docker-agent",
-      "points": [
-        "Allows creation of AI agents that solve complex problems without coding.",
-        "Supports team creation of specialized agents for automatic task delegation.",
-        "Offers pluggable retrieval options including BM25, embeddings, and hybrid search."
-      ]
-    },
-    {
-      "summary": "Trump distances himself from two top aides over reports of their work for a pro-Russia government in the Balkans.",
-      "significance": "Trump's distancing from his aides over their work with a pro-Russia government in the Balkans highlights potential conflicts of interest within his campaign.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska",
-      "points": [
-        "Trump claims he has no idea who else Chris LaCivita and James Blair work for.",
-        "LaCivita is co-manager of Trump's 2024 presidential campaign.",
-        "Blair is a campaign adviser and on leave from his role as White House deputy chief of staff."
-      ]
-    },
-    {
-      "summary": "Arizona congressional candidate Bernadette Greene-Placentia alleges she was raped while repairing a campaign sign.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/bernadette-greene-placentia-house-candidate-allegedly-raped",
-      "points": [
-        "Incident occurred in August.",
-        "Greene-Placentia aims to advocate for sexual assault victims.",
-        "Support resources provided for affected individuals."
-      ]
-    },
-    {
-      "summary": "Two men with indefinite jail sentences for public protection were freed after serving over two decades.",
-      "url": "https://www.theguardian.com/law/2026/oct/07/two-men-freed-indefinite-sentences-for-public-protection-ipp",
-      "points": [
-        "Luke Ings and Liam Bennett were released despite minimum terms of two years or less.",
-        "James Ward, a third man, had his indeterminate sentence replaced after a review."
-      ]
-    },
-    {
-      "summary": "Meta and Microsoft are reducing employee usage of Claude AI, shifting towards their own AI tools.",
-      "significance": "Meta and Microsoft reduce employee usage of Claude AI, prioritizing their own AI tools and reflecting competition in AI investment and control over developer resources.",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "points": [
-        "Microsoft cut AI spending limits per employee from $100,000 to $10,000 monthly.",
-        "Meta's Claude Code users dropped from 60,000 to 30,000, shifting to Meta's own AI solutions.",
-        "Despite user reductions, Meta spent over $105 million on Claude Code over 28 days."
-      ]
-    },
-    {
-      "summary": "Lionel Messi's Argentina career ended this week, leaving a complex legacy of adoration and criticism.",
-      "significance": "The article highlights the complex adoration of Lionel Messi in Argentina, exploring the contradiction between his god-like status and his silence on racist incidents.",
-      "url": "https://www.theguardian.com/football/2026/oct/07/lionel-messi-argentina-retirement-final-match",
-      "points": [
-        "Brazilian writer Milly Lacombe described Argentina's World Cup performance as \"of a sacred order.\"",
-        "Lacombe questioned Messi's silence on racist incidents involving the Argentina team.",
-        "The article highlights the contradiction between Messi's god-like status and his political silence."
-      ]
-    },
-    {
-      "summary": "British Jewish groups held a vigil in London to honor victims of the 7 October attacks in Israel.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/07/british-jewish-groups-london-vigil-7-october-attacks",
-      "points": [
-        "The vigil took place at Richmond Terrace, opposite Downing Street.",
-        "The Board of Deputies of British Jews stated 1,200 were murdered by Hamas.",
-        "Andy Burnham said the government stands with British Jews."
       ]
     }
   ]
