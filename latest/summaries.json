@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-14T00:41:37.916205Z",
+  "generated": "2026-10-14T02:40:52.897509Z",
   "summaries": [
+    {
+      "summary": "Anger over the removal of 130 million names from electoral rolls has sparked protests against India's Hindu nationalist government.",
+      "significance": "The story highlights a crisis sparked by the removal of millions from voter rolls, affecting citizens' rights and challenging the Hindu nationalist government.",
+      "url": "https://www.theguardian.com/world/2026/oct/14/india-protests-election-commission-gyanesh-kumar",
+      "points": [
+        "130 million names were deleted from India's electoral rolls.",
+        "Shahida Fakir, born in West Bengal, had her voting rights revoked despite presenting extensive documentation.",
+        "The crisis is a significant challenge for Prime Minister Narendra Modi\u2019s government."
+      ]
+    },
+    {
+      "summary": "A 3D computer video reconstruction of the alleged murders of Jesse Baird and Luke Davies was shown to a Sydney jury in Beau Lamarre-Condon's trial.",
+      "significance": "The 3D reconstruction and ballistics evidence presented in the trial of Beau Lamarre-Condon provide crucial visual and forensic details supporting the prosecution's case in the alleged murders.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/beau-lamarre-condon-trial-shown-alleged-murder-scene-reconstruction-bullet-holes-ntwnfb",
+      "points": [
+        "3D video reconstruction of Paddington terrace crime scene shown to jurors.",
+        "Prosecution alleges Beau Lamarre-Condon shot Jesse Baird and Luke Davies with his police service weapon.",
+        "Crime occurred on February 19, 2024, in Baird\u2019s Paddington home."
+      ]
+    },
+    {
+      "summary": "Federal court overturns Tanya Plibersek\u2019s protection order, allowing a controversial goldmine development in New South Wales.",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/federal-court-overturns-tanya-plibersek-protection-order-nsw-goldmine-mcphillamys-blaney",
+      "points": [
+        "Federal court overturned the protection order issued by Tanya Plibersek in 2024.",
+        "Order was challenged by Regis Resources under Indigenous heritage legislation.",
+        "Goldmine development site is located at Blayney in central west New South Wales."
+      ]
+    },
+    {
+      "summary": "Australian high court rules in favor of prisoner Rachel Smith's right to freeze her eggs.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/rachel-smith-will-turn-39-in-prison-the-high-court-says-she-could-freeze-her-eggs-from-behind-bars",
+      "points": [
+        "Rachel Smith, serving a 10-year term for drug trafficking, won her appeal.",
+        "The high court decided egg extraction and storage does not qualify as 'assisted reproductive technology'.",
+        "Smith will turn 39 in prison but can now freeze her eggs while incarcerated."
+      ]
+    },
     {
       "summary": "Treasurer Jim Chalmers denies being overruled by PM Anthony Albanese regarding the ATO's credit card payment ban.",
       "significance": "Prime minister's intervention in tax office credit card payments highlights internal government dynamics and decision-making.",
@@ -3714,43 +3752,6 @@
         "AI-generated software lacks the creative ineffability valued in artistic outputs.",
         "Concerns over job security as AI can perform coding tasks traditionally done by humans.",
         "Critics argue AI coding undermines the interpersonal and ethical aspects of software development."
-      ]
-    },
-    {
-      "summary": "LLMs can write in telegraphic style, saving costs without losing meaning, by compressing text to 25-49% of original size.",
-      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
-      "points": [
-        "Models compress text to 25-49% of original size under identical instructions.",
-        "Compression saves costs, with expansion back to plaintext still cheaper than original.",
-        "Cablese improves model performance slightly, with readback ratios ≥0.99."
-      ]
-    },
-    {
-      "summary": "OpenAI publishes 722 math papers solving 90 of the top 500 open math problems, hailed as the most significant moment in over a century of mathematics.",
-      "significance": "OpenAI's publication of 722 math papers solving 90 of the top 500 open math problems marks a significant moment in mathematics, potentially advancing the field by over a century.",
-      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "points": [
-        "OpenAI's papers solve 90 of the top 500 open math problems.",
-        "The collection includes 722 manuscripts grouped into 372 families.",
-        "Mathematicians praise the results, calling it the most significant moment in mathematical history."
-      ]
-    },
-    {
-      "summary": "Jake Boggan reflects on his 24-year pursuit of solving Barnette's Conjecture in graph theory, feeling a mix of emotions upon hearing it was solved.",
-      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
-      "points": [
-        "Boggan spent 24 years working on Barnette's Conjecture.",
-        "He moved to Budapest to study graph theory among leading experts.",
-        "The recent solution of the conjecture evokes a sense of loss for Boggan."
-      ]
-    },
-    {
-      "summary": "Former Happy Mondays member Bez recounts his wild past filled with drugs, accidents, and dangerous escapades.",
-      "url": "https://www.theguardian.com/music/2026/oct/07/bez-cocaine-happy-mondays-marriage-shaun-ryder",
-      "points": [
-        "Bez, real name Mark Berry, lost his teeth in a 16-year-old motorbike crash.",
-        "He was held hostage during a drug deal and faced a gun threat in New York.",
-        "Bez fell into a month-long coma after contracting MRSA following another motorbike crash."
       ]
     }
   ]
