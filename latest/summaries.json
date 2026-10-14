@@ -1,6 +1,98 @@
 {
-  "generated": "2026-10-14T18:42:42.837248Z",
+  "generated": "2026-10-14T20:42:03.761116Z",
   "summaries": [
+    {
+      "summary": "Russian strikes on Kyiv's energy infrastructure left over half a million without electricity, following an intelligence lapse.",
+      "significance": "The story highlights a critical intelligence failure that left Kyiv vulnerable to Russian attacks, affecting over half a million people's access to electricity.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
+      "points": [
+        "Over half a million people in Kyiv lost electricity due to Russian strikes.",
+        "Ukraine\u2019s president reported receiving no intelligence warning from allies."
+      ]
+    },
+    {
+      "summary": "Voter anger is a significant trend in the US midterms, with Republicans particularly anxious about future elections.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing",
+      "points": [
+        "Republicans are anxious about the 2026 midterm elections.",
+        "The midterm feels less like a referendum on Trumpism and more like a dirge.",
+        "Both parties are not taking voter anger seriously enough."
+      ]
+    },
+    {
+      "summary": "Ukrainian president Zelenskyy accuses Trump of betrayal over reduced Starlink access for Ukraine\u2019s military.",
+      "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
+      "points": [
+        "Zelenskyy feels personally betrayed by Trump regarding Starlink access.",
+        "US support for Kyiv questioned due to reduced access to Starlink.",
+        "Relations strained further by US agreement to purchase diesel from Moscow."
+      ]
+    },
+    {
+      "summary": "Nutrition expert Christopher Gardner suggests eating well is simpler than perceived, advocating for healthy choices 80% of the time.",
+      "url": "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview",
+      "points": [
+        "Christopher Gardner, from Stanford, emphasizes eating well is mostly about good science.",
+        "Gardner recommends aiming for healthy eating 80% of the time for better nutrition.",
+        "Based in Palo Alto, Gardner is the director of nutrition studies and a professor of medicine."
+      ]
+    },
+    {
+      "summary": "Victoria Labor promises free abortion care if re-elected; Albanese criticizes Hanson\u2019s stance on multiculturalism.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
+      "points": [
+        "Victoria Labor pledges free abortion care if re-elected.",
+        "Health Minister Mark Butler aims to reintroduce bill to adjust private health insurance rebates for over-65s.",
+        "Butler emphasizes urgent need for more aged care beds in Australia."
+      ]
+    },
+    {
+      "summary": "ITV undercover filming exposes Reform UK councillors and candidates making racist and extreme comments, leading to a party crisis.",
+      "significance": "Reform UK faces internal upheaval as racist and extreme comments from its members come to light, prompting resignations and an investigation.",
+      "url": "https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments",
+      "points": [
+        "Three councillors quit following the曝光事件。",
+        "ITV的隐秘调查于周三播出，揭示了暴力、厌女和种族主义言论。",
+        "Reform UK表示正在对首次曝光进行调查。"
+      ]
+    },
+    {
+      "summary": "OpenAI\u2019s London staff received an average of £2.3m per person annually, including salaries and shares.",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
+      "points": [
+        "110 staff shared £87m in salaries and £168m in shares last year.",
+        "OpenAI UK Ltd is based in Westminster but is opening a new HQ in King\u2019s Cross.",
+        "The company aims to list on the stock market at a valuation of about $1tn."
+      ]
+    },
+    {
+      "summary": "Throttling of Starlink in Ukraine is worsening civilian casualties and impacting Kyiv\u2019s air defenses.",
+      "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+      "points": [
+        "Russia bombed three Kyiv power plants, aiming to cut heating and electricity.",
+        "No warning was given by western allies for incoming ballistic missiles for two consecutive nights.",
+        "Jet-powered drones are breaching Kyiv\u2019s air defenses, increasing civilian casualties."
+      ]
+    },
+    {
+      "summary": "A cancer patient shares insights on navigating a cancer diagnosis and treatment in 2026.",
+      "significance": "The story matters as it provides practical advice from personal experience for navigating cancer diagnosis and treatment, emphasizing patient persistence and proactive involvement.",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "points": [
+        "Diagnosis in May 2026 revealed squamous cell carcinoma in the mouth.",
+        "Persistence in scheduling appointments can lead to quicker access, like securing a same-week ENT appointment.",
+        "Comprehensive genetic testing may require patient advocacy to avoid delays in treatment."
+      ]
+    },
+    {
+      "summary": "Fire at a Starlink site in Bulgaria linked to suspected sabotage in Poland.",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "points": [
+        "Bulgarian Prime Minister Rumen Radev confirmed a fire at a Starlink facility near Sofia.",
+        "Two men, aged 20 and 21 with German passports, were detained in connection.",
+        "Pro-Western opposition claims 11 of 17 antennas were deliberately set on fire on October 9."
+      ]
+    },
     {
       "summary": "Guinea-Bissau's health minister denies approval of a controversial hepatitis B vaccine trial in newborns backed by RFK Jr.",
       "significance": "Guinea-Bissau's denial clarifies misinformation surrounding a controversial vaccine trial backed by anti-vaccine activist Robert F Kennedy Jr.",
@@ -3661,101 +3753,6 @@
         "Legislation aims to prevent people with only mental illness from accessing euthanasia.",
         "Current ban set to lift in March but now to be made permanent.",
         "Crisis Services Canada available at 1.833.456.4566 for mental health support."
-      ]
-    },
-    {
-      "summary": "Students found a way to call a function in C without naming it, bypassing school's automatic grading system checks.",
-      "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
-      "points": [
-        "Students used memory offsets to call a function without naming it, exploiting the system's fixed address behavior.",
-        "The exploit involved mapping writable and executable memory to execute arbitrary shell code.",
-        "The method bypassed the system's function naming restrictions but was reported to the school as a potential issue."
-      ]
-    },
-    {
-      "summary": "EU-China trade talks commence in Beijing as EU seeks to address trade deficits and Chinese export restrictions.",
-      "significance": "EU-China trade talks address escalating trade pressures, including EU\u2019s trade deficit and Chinese export restrictions, amid calls for a more assertive EU trade policy.",
-      "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss",
-      "points": [
-        "EU Trade Commissioner Maros Sefcovic meets Chinese Commerce Minister Wang Wentao to discuss EU\u2019s trade deficit of over \u20ac1bn daily.",
-        "China rejects EU request for voluntary curbs on hybrid car exports, EU now seeks unilateral measure to cap imports.",
-        "EU lawmakers call for assertive trade policy towards China, while China vows resolute response to protect its industries."
-      ]
-    },
-    {
-      "summary": "China faces a succession crisis as a generation of entrepreneurs retires, questioning if their children can manage their family businesses.",
-      "url": "https://www.theguardian.com/world/2026/oct/08/china-succession-crisis-factory-workers-manufacturing-family-businesses",
-      "points": [
-        "Ayu watched parents make leather shoes by hand in Wenzhou, transforming into a 700-person factory.",
-        "Family-run businesses powered China\u2019s economic growth.",
-        "Next generation struggles to continue parents' work in family businesses."
-      ]
-    },
-    {
-      "summary": "Leon Botstein resigned from all Bard College roles after a Democratic lawmaker called for an investigation into his communications with Jeffrey Epstein.",
-      "significance": "A Democratic congressman's call for investigation into Botstein's Epstein-linked email triggered Botstein's resignation from all Bard positions.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/leon-botstein-bard-college-jeffrey-epstein",
-      "points": [
-        "Jamie Raskin demanded a criminal investigation following the discovery of an email from Botstein to Epstein.",
-        "The email reportedly asked if a young woman was \"for me, or are you keeping her for yourself\".",
-        "Botstein's resignation comes after leading Bard College for 50 years."
-      ]
-    },
-    {
-      "summary": "Democrats sue to halt Trump's use of taxpayer funds for self-promoting ads.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/democrats-sue-trump-taxpayer-funds-ads",
-      "points": [
-        "Democrats argue ads are illegal government-sponsored propaganda.",
-        "Ads promoting Trump have cost taxpayers over $12m.",
-        "Lawsuit filed in Washington DC federal court."
-      ]
-    },
-    {
-      "summary": "Jonathan, a 194-year-old Aldabra giant tortoise, is the oldest land animal on Earth, and scientists have sequenced his genome to understand his extreme longevity.",
-      "significance": "Jonathan's genome reveals unique gene variants related to extreme longevity, potentially offering insights into human aging.",
-      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-      "points": [
-        "Jonathan was born around 1832 in the Seychelles and moved to Saint Helena in the 1880s.",
-        "His genome reveals unique gene variants in aging pathways like DNA repair and mitochondrial function.",
-        "Researchers found Jonathan\u2019s mitochondrial methylome is unusually pristine compared to younger tortoises."
-      ]
-    },
-    {
-      "summary": "Ben Affleck discusses his interest in computers and digital filmmaking, touching on his basic knowledge of Python and machine learning.",
-      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-      "points": [
-        "Affleck mentions he can write \"shitty Python scripts.\"",
-        "He talks about using convolutional neural networks for edge detection and feature extraction.",
-        "The discussion includes the transition from analog to digital film."
-      ]
-    },
-    {
-      "summary": "Texas plans to execute Jamaal Howard despite risks highlighted by a recent botched execution in Tennessee.",
-      "significance": "The story highlights continued use of lethal injection despite recent failures, affecting future execution practices and condemned inmates' fates.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard",
-      "points": [
-        "Texas court denied a stay request for Jamaal Howard's execution.",
-        "Christa Pike's botched lethal injection in Tennessee occurred last week.",
-        "Howard's lawyers argued the risks of a failed execution are similar to Pike's case."
-      ]
-    },
-    {
-      "summary": "Labour's special education changes in England are at risk as parents rush to secure current support for their children.",
-      "url": "https://www.theguardian.com/education/2026/oct/07/labour-send-reforms-ehcp-system-change-england",
-      "points": [
-        "Thinktank Institute for Government warns the overhaul may take longer than the 2030 deadline.",
-        "Parents are securing existing education, health, and care plans (EHCPs) before changes.",
-        "Government plans to shift support to mainstream schools may be overly optimistic."
-      ]
-    },
-    {
-      "summary": "Software developers are experiencing significant job dissatisfaction, burnout, and mental health issues, leading many to leave the industry.",
-      "significance": "The story highlights systemic issues in the software industry affecting developers' mental health and job satisfaction, leading to mass departures and career changes.",
-      "url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
-      "points": [
-        "30% drop in new Computer Science students in Iceland.",
-        "Mark Zuckerberg's plan to replace Meta staff with AI failed.",
-        "Developers feel less invested in their work due to AI tools, leading to decreased job satisfaction."
       ]
     }
   ]
