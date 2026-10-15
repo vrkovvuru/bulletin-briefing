@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-14T22:41:03.658695Z",
+  "generated": "2026-10-15T00:40:57.964563Z",
   "summaries": [
+    {
+      "summary": "Student protests in Albania's capital turned violent, with government buildings and banks set on fire as police used water cannons and teargas.",
+      "significance": "Student protests in Albania turn violent, affecting public order and infrastructure, as demonstrators clash with police over education costs and corruption.",
+      "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+      "points": [
+        "Tens of thousands of students protested in Tirana against rising education costs and corruption.",
+        "Protesters set fire to the ministry of education building and a Raiffeisen Bank branch.",
+        "Police detained dozens and used water cannons and teargas to disperse the crowd."
+      ]
+    },
+    {
+      "summary": "Major parties reject bill to ban shackling incarcerated women during childbirth.",
+      "significance": "The rejection by major parties highlights ongoing controversy over the treatment of incarcerated women during childbirth, influenced by independent senators.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/labor-coalition-bill-banning-shackling-incarcerated-women-ntwnfb",
+      "points": [
+        "Independent senator Lidia Thorpe introduced the bills into the Senate.",
+        "Liberal Paul Scarr criticizes major parties' stance, planning to write to Queensland attorney general.",
+        "Bill aims to prevent shackling and stop children from being strip-searched."
+      ]
+    },
+    {
+      "summary": "Paddington: The Musical, a hit from London's West End, is set to debut in Sydney in September 2027.",
+      "url": "https://www.theguardian.com/stage/2026/oct/15/paddington-the-musical-sydney-australia-2027",
+      "points": [
+        "Show will run for 10 weeks at Sydney's Capitol Theatre.",
+        "Production has been running in London\u2019s West End since 2025.",
+        "Dates for other Australian cities have not been announced yet."
+      ]
+    },
+    {
+      "summary": "A 21-year-old woman reported being sexually assaulted at a fraternity house near the University of Chicago.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/sexual-assault-report-uchicago",
+      "points": [
+        "Incident occurred at Alpha Epsilon Pi residence at approximately 1:50am on Sunday.",
+        "Follows a gang-rape report at Cornell, sparking national criticism of Greek life.",
+        "Part of renewed scrutiny over recurrent misconduct in fraternities nationwide."
+      ]
+    },
+    {
+      "summary": "An AI experiment created a \"Tree Appreciator\" game using Claude, focusing on appreciating differences between algorithmically generated trees.",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "points": [
+        "Game designed in 3 hours and 7 minutes.",
+        "Features music, animation, and achievements.",
+        "Built using Claude Opus 5.5 Max and Three.js."
+      ]
+    },
     {
       "summary": "University of Maryland suspends its club tennis team after racist imagery was sent to other schools before a tournament.",
       "significance": "The suspension of the University of Maryland club tennis team over racist imagery highlights ongoing issues with discrimination in collegiate sports.",
@@ -3706,54 +3753,6 @@
         "Three papers withdrawn due to a sign error invalidating key arguments.",
         "14 manuscripts revised with proof repairs and corrections.",
         "Total percentage of formalized top-line results now at ~42%."
-      ]
-    },
-    {
-      "summary": "Historians took years to develop Zotero, a research application now used by over 20 million people, emphasizing communal thinking and durability over rapid development.",
-      "significance": "The story highlights the importance of slow, collaborative development in creating durable software, contrasting with today\u2019s rapid AI-driven software creation.",
-      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-      "points": [
-        "Zotero launched on October 5, 2006, and is used in dozens of languages.",
-        "Development began in 2001, taking five years to create a rough prototype.",
-        "Roy Rosenzweig, founder of the Center for History and New Media, passed away in 2007."
-      ]
-    },
-    {
-      "summary": "A few individuals maintain critical software that runs on billions of devices, including phones and servers.",
-      "url": "https://sheets.works/data-viz/holding-up-the-internet",
-      "points": [
-        "Paul Eggert, a UCLA lecturer, manages the time zone database used by Android and iOS devices.",
-        "In 2026, Paul made 218 of the 251 changes to the time zone database, with Tim Parenti contributing 28.",
-        "Lasse Collin, who maintains the xz compression tool, faced a backdoor issue in 2024, which was discovered by Andres Freund."
-      ]
-    },
-    {
-      "summary": "After his mother's death, Otto, a doctor, became convinced of a forensic fraud and embarked on a quest for revenge.",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
-      "points": [
-        "Otto's mother, Doria, died in her Munich apartment in June 2020.",
-        "Otto, also known as Rainer, cared for his mother since her stroke.",
-        "Germany's privacy laws restrict the use of Otto's full last name."
-      ]
-    },
-    {
-      "summary": "Japanese authorities raided four major breweries suspected of price-fixing on beverages.",
-      "significance": "The raids on Japan's major breweries could lead to legal action and alter pricing practices in the beer market, affecting consumers and industry competition.",
-      "url": "https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages",
-      "points": [
-        "Four breweries raided: Asahi, Kirin, Suntory, and Sapporo.",
-        "Breweries control over 90% of Japan\u2019s beer market.",
-        "Suspected violation of the anti-monopoly law."
-      ]
-    },
-    {
-      "summary": "UK surgeons performed the first testicular tissue transplant on a 19-year-old, potentially preserving his fertility after chemotherapy.",
-      "significance": "The operation offers hope for preserving fertility in boys left infertile by chemotherapy.",
-      "url": "https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility",
-      "points": [
-        "19-year-old had tissue removed and frozen three years ago before cancer treatment.",
-        "Procedure offers hope for preserving fertility in boys left infertile by chemotherapy.",
-        "Patient expressed gratitude for the pioneering medical procedure."
       ]
     }
   ]
