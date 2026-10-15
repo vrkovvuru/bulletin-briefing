@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-15T12:43:53.452Z",
+  "generated": "2026-10-15T14:41:56.347693Z",
   "summaries": [
+    {
+      "summary": "UK Labour politician Wes Streeting meets US official amid Ukraine tensions; Labour reviews Green Party partnerships.",
+      "significance": "Westring's visit to the US for the meeting follows escalating Ukraine tensions and emphasizes increased support and pressure on Putin regarding Ukraine's security.",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
+      "points": [
+        "Labour instructs councils to review agreements with Green Party following \"Zionism is Racism\" motion.",
+        "Streeting emphasizes stepping up pressure on Putin and support for Ukraine amid escalating tensions.",
+        "Focus on military, diplomatic, and economic support for Ukraine highlighted amid harsh winter concerns."
+      ]
+    },
+    {
+      "summary": "Resources minister Madeleine King faces pressure to correct her claim that all emissions from the Beetaloo gas basin will be offset.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/16/madeleine-king-calls-to-correct-claim-beetaloo-basin-emissions-offset",
+      "points": [
+        "Madeleine King stated emissions 'are accounted for and offset' at National Press Club.",
+        "Research indicates 95% of emissions this decade won't require offsetting.",
+        "King defended supporting the development of the Beetaloo gas basin in NT."
+      ]
+    },
+    {
+      "summary": "Queensland's LNP government plans sweeping changes to workplace laws, risking its suburban support.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/16/queensland-lnp-workplace-laws-power-to-break-strikes",
+      "points": [
+        "Plans announced Wednesday aim to break up workers' strikes.",
+        "Government previously avoided risky political issues for nearly two years.",
+        "Changes may alienate critical suburban support base."
+      ]
+    },
+    {
+      "summary": "Libreboot 26.10 \"Ominous Olive\" introduces full UEFI support and compatibility with 233 Chromebook models.",
+      "significance": "Libreboot 26.10 expands support for UEFI and Chromebooks, offering users greater customization and security with open-source firmware.",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "points": [
+        "Added full UEFI support via MrChromebox EDK2 payload.",
+        "Includes support for 233 Chromebook models, with Baytrail (Kip) tested.",
+        "Implemented a strongly anti-AI policy in a new file: AGENTS.md."
+      ]
+    },
+    {
+      "summary": "C++26 introduces contracts for specifying preconditions and postconditions, enhancing code clarity and reliability.",
+      "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+      "points": [
+        "Contracts allow moving requirements from function bodies to declarations, improving API visibility.",
+        "Preconditions and postconditions can be defined with different evaluation semantics, such as ignore, observe, or enforce.",
+        "As of October 2026, only GCC 16 supports Contracts with special compile flags."
+      ]
+    },
+    {
+      "summary": "Anthropic reported a nearly 50% increase in quarterly revenue to $16.8bn ahead of its upcoming IPO.",
+      "significance": "Anthropic's revenue surge ahead of IPO indicates strong market demand for AI technologies, influenced by reduced reliance on controversial distillation practices.",
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "points": [
+        "Q3 revenue reached $16.8bn, up from $11.5bn in Q2 and $4.8bn in Q1.",
+        "Revenue per dollar spent on computing power was $1.70 in Q3.",
+        "Distillation, accounting for 5-7% of revenue, was significantly reduced in Q3."
+      ]
+    },
     {
       "summary": "Severe drought declared in parts of southern England due to low rainfall and high demand.",
       "significance": "The severe drought declaration in parts of southern England affects water supplies and prompts stricter monitoring and conservation measures due to low reservoir levels following high demand.",
@@ -3696,63 +3753,6 @@
         "Used 1200mm red filament for a llama design on the back.",
         "Front features cursive text with 300mm 3v filaments soldered in series.",
         "Utilized cross-stitch fabric and embroidery hoops for stability during assembly."
-      ]
-    },
-    {
-      "summary": "DeepSeek 4.1 Flash is a highly capable and cost-effective AI model that hasn't caused alarm in the industry despite its advantages.",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "points": [
-        "DeepSeek 4.1 Flash is orders of magnitude cheaper than frontier models like Opus.",
-        "The model reduced the KV cache size by roughly 437x compared to its V1 version.",
-        "Users can perform unlimited tasks with DeepSeek for as little as $0.003 per task."
-      ]
-    },
-    {
-      "summary": "Anthropic releases Claude Haiku 5.5, priced similarly to OpenAI\u2019s GPT-6 Luna but with improved performance and new features.",
-      "significance": "Claude Haiku 5.5 offers improved performance over previous models and competitive pricing, affecting users and developers seeking cost-effective, high-volume AI solutions.",
-      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "points": [
-        "Claude Haiku 5.5 scores 43 on the Artificial Analysis Intelligence Index, up 26 points from the previous version.",
-        "The model is priced to match GPT-6 Luna and includes Anthropic\u2019s effort settings and adaptive thinking.",
-        "Anthropic cut prices on Sonnet 5.5 and subscription plans, making Haiku 5.5 about 75% cheaper to run than Haiku 4.5 on average."
-      ]
-    },
-    {
-      "summary": "Margaret Atwood and other writers praise Anne Carson, the 2026 Nobel Prize in Literature winner.",
-      "significance": "Prominent writers celebrate Anne Carson's Nobel win, introducing her acclaimed poetry to new readers.",
-      "url": "https://www.theguardian.com/books/2026/oct/08/appreciation-of-anne-carson-nobel-prize-in-literature-2026",
-      "points": [
-        "Margaret Atwood, Emily Wilson, Ocean Vuong, and Rebecca Perry celebrate Carson.",
-        "Carson's works \"The Beauty of the Husband\" and \"Men in the Off Hours\" are recommended.",
-        "Carson's victory is noted for being admired by poets globally."
-      ]
-    },
-    {
-      "summary": "San Francisco's rental market is under strain as evictions rise due to an AI boom.",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
-      "points": [
-        "Eviction notices increased by 44% according to the city\u2019s rent board.",
-        "San Francisco\u2019s Housing Rights Committee receives over 150 voicemails weekly.",
-        "The rental assistance hotline averages 200 calls per week from distressed tenants."
-      ]
-    },
-    {
-      "summary": "Venezuelan president Nicolás Maduro and his wife Cilia Flores indicted for alleged torture conspiracy against US citizens.",
-      "significance": "The indictment of Maduro and Flores for alleged torture escalates legal actions against former Venezuelan leaders in U.S. courts.",
-      "url": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
-      "points": [
-        "Indictment unsealed in Manhattan federal court on Thursday.",
-        "Judge Alvin Hellerstein denied Flores' request for pre-trial release.",
-        "Both Maduro and Flores have been in jail in New York since early January."
-      ]
-    },
-    {
-      "summary": "Microsoft is suspended from applying for green cards for H-1B workers, according to JD Vance.",
-      "url": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension",
-      "points": [
-        "JD Vance announced Microsoft's suspension from the H-1B green card program.",
-        "The suspension is due to alleged abuse of the H-1B system by Microsoft.",
-        "Adobe is also barred from the visa program that leads to US residency."
       ]
     }
   ]
