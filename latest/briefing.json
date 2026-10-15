@@ -2,13 +2,13 @@
   "date": "2026-10-15",
   "stories": [
     {
-      "title": "Trump says Fort Hood shooter execution will not be livestreamed",
-      "url": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "US president reverses Pentagon&#039;s plan to publicly stream execution of Nidal Malik Hasan after outcry.",
-      "alsoReportedBy": ["BBC News"]
+      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "alsoReportedBy": ["Al Jazeera"]
     },
     {
       "title": "Severe drought declared in parts of southern England",
@@ -20,21 +20,21 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
-      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
-      "url": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss",
+      "title": "UK Green member behind anti-Zionism motion ‘receives death threats’",
+      "url": "https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Experts say Albania’s protests reflect ignored student grievances and growing frustration.",
+      "summary": "Lubna Speitan, who has Palestinian roots, believes messages and emails are part of an effort to intimidate her.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
+      "url": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Citizen Lab investigation says dozens of Al Jazeera devices were infected by malware planted through advertisements.",
       "alsoReportedBy": []
     },
     {
@@ -47,21 +47,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Rebel Tours: Money or morals?",
-      "url": "https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss",
+      "title": "Why are eight US states suing OpenAI?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Some West Indies cricketers toured apartheid South Africa in the 1980&#039;s, breaking one of the biggest sporting boycotts.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "summary": "They allege ChatGPT has caused harm to their residents, coaching its users to harm themselves or others.",
       "alsoReportedBy": []
     },
     {
@@ -71,6 +62,15 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump cancels plan to livestream execution after global condemnation",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/trump-fort-hood-execution-livestream",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Soldier who killed 13 people in 2009 will still be executed, but president said ‘people would rather not watch him die’ Donald Trump has shelved a widely condemned plan to livestream the execution of Nidal Malik Hasan, who was convicted of killing 13 people at a military base at Fort Hood in Texas in 2009. In a social media post on Thursday, Trump argued that broadcasting such an execution “might have been a strong deterrent for the World to witness how America deals with Terrorists and SCUM like Hasan” but said that “many very good and well meaning people would rather not watch him die, through streaming, or through any other visual device”. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -92,16 +92,16 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
-      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
+      "summary": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
       "alsoReportedBy": []
     },
     {
-      "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
       "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
@@ -116,6 +116,33 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Man killed by tiger at Yorkshire zoo had bouts of psychosis, inquest hears",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/15/man-killed-tiger-yorkshire-zoo-bouts-of-psychosis-inquest",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Family express concerns about William Chapman’s contact with mental health services before his death A man who was killed by a tiger at a South Yorkshire zoo had bouts of psychosis, his family told an inquest opening, as they expressed concerns about his contact with mental health services before his death. William Chapman was mauled to death by the animal at Yorkshire Wildlife Park in Doncaster on Saturday, after climbing into its enclosure. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Lawmakers from both parties welcome Trump’s decision to cancel livestream of firing squad execution – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Democrat Senator Elissa Slotkin called plan to broadcast execution of Nidal Hasan ‘sick’ and Republican John Curtis said it was ‘not an effective deterrent’ Q&A: Will Trump’s economy sink the GOP in the midterms? Sign up for the Breaking News US email The US government could spend hundreds of thousands of dollars on a media campaign in South Africa to figure out why more white Afrikaners are not applying to become refugees to the US , as Donald Trump had hoped. State department officials, according to an August proposal seen by the Guardian, outlined a roughly $335,000 research and advertising effort after applications to the refugee program “trended lower than expected” since Afrikaners were allowed to apply directly online in November 2025. The document, written by the US mission in South Africa with a department research unit for the embassy in Pretoria, admits officials know little about why. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Thames Water asks for £2.4bn more to avoid going bust this year or early 2027",
+      "url": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Water company tells creditors it will not survive long enough to agree refinancing deal without more money Thames Water has asked its creditors for another £2.4bn as the embattled water company comes close to running out of cash. The UK’s largest water company said on Thursday it needed another short-term cash injection because it would be unable to reach a longer-term deal to sort out its giant debt pile before running out of cash by “the end of 2026 or the start of 2027”. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -137,53 +164,35 @@
       "alsoReportedBy": ["NPR World"]
     },
     {
-      "title": "Obama says drift towards extremism 'not inevitable'",
-      "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Wes Streeting in US for Hegseth meeting as Ukraine tensions escalate – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
+      "title": "Hegseth church allies backed plan for ‘public’ execution of Fort Hood shooter",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/pete-hegseth-crec-church-execution-livestream",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Defence secretary’s meeting comes after Burnham said he would help facilitate reconciliation between Zelenskyy and Trump Labour says it’s told all of its local councils who share power with the Green Party to review their agreements after the Greens passed a “Zionism is Racism” motion at their autumn conference earlier this month. If Green coalition partners don’t agree to condemn the policy, the Labour council groups have been instructed to terminate existing power deals. We cannot support a partnership with a party that holds [the] position that has recently been adopted. “Now is the time to step up pressure on Putin and step up support for Ukraine.” “I’m working on different ways we can step up support for Ukraine, military, diplomatic, and economic, and you know, if anybody needed any reminder of that, it’s what we see coming out of Ukraine, with Putin targeting these energy systems , leaving thousands without power, as we’ve got a harsh winter approaching. The future of Ukraine is the future of European security, and that’s that’s why it’s so crucial that Putin doesn’t prevail.”d Continue reading...",
+      "summary": "Leader of CREC church – whose pastors have advocated death penalty – says he ‘prefers public executions to private’ Donald Trump announced on Thursday he was cancelling Pete Hegseth’s recently announced plans to livestream a military execution – because “many very good and well-meaning people would rather not watch him die”. But there were some fans of Hegseth’s now-scotched idea: the rightwing religious figures who have long backed his career. Hegseth announced last week that the US public would be able to see the execution of Nidal Hasan, which is set for 3 December at Fort Hood, Texas. Hasan, a former army major and psychiatrist, killed 13 people and wounded 32 at Fort Hood in 2009. A military court sentenced him to death in August 2013. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Resources minister faces calls to correct her claim all Beetaloo emissions will be offset",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/16/madeleine-king-calls-to-correct-claim-beetaloo-basin-emissions-offset",
+      "title": "Two 1960s London housing estates saved from demolition after decade-long battle",
+      "url": "https://www.theguardian.com/society/2026/oct/15/london-architecture-estates-saved-from-demolition-social-housing",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Madeleine King told press club emissions from NT fossil fuel basin ‘are accounted for and offset’ but research found 95% of emissions this decade would not have to be offset Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The resources minister, Madeleine King, is facing calls to correct her claim in a major speech that all greenhouse gas emissions from developing a massive fossil fuel basin in the Northern Territory will be offset to limit their impact on the climate. Speaking at the National Press Club in Canberra on Wednesday, King defended her support for the development of the Beetaloo gas basin south of Darwin after being asked if she was comfortable with the impact that the emissions from the gas would have on Australians. Continue reading...",
+      "summary": "Change of council leadership hands reprieve to residents of architecturally celebrated developments in Lambeth Two architecturally celebrated council estates in south London that have been under threat of demolition for more than a decade have been saved. Residents of Cressingham Gardens and the Central Hill estate have campaigned tirelessly for their homes to be saved, saying the low-density 1960s developments are significant in design and popular with those living there. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Queensland’s LNP has tread softly in government. It’s now baring its teeth over the power to break up workers’ strikes",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/16/queensland-lnp-workplace-laws-power-to-break-strikes",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The controversial legislation may end up placing large sections of its suburban support – critical to the party’s lead in the polls – on the bonfire Get our breaking news email , free app or daily news podcast For almost two years, the Liberal National party’s strategy for government in Queensland has been to stay well clear of issues that risk burning through political capital. On Wednesday, one of the most tentative conservative governments in recent history announced plans for sweeping and controversial changes to workplace laws. Continue reading...",
+      "title": "I designed a nose guard for my dog and gave it away. Now 500 dogs wear one",
+      "url": "https://snoutcover.com/one-year",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Brazil's Congress approves shorter working week in win for Lula",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-      "url": "https://libreboot.org/news/libreboot2610.html",
+      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,18 +227,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
-      "url": "https://www.cppstories.com/2026/cpp26_contracts/",
-      "source": "Hacker News",
+      "title": "Sunsetting decomp.dev",
+      "url": "https://decomp.dev/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Introducing Firefox Enterprise",
-      "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
-      "source": "Lobsters",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -254,18 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: Unfenced – Land for sale that borders public land",
-      "url": "https://unfenced.land/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "source": "Hacker News",
+      "title": "JPEG XL vs AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -277,7 +277,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on \"computing power\" Adjusted operating margins (excluding stock-based compensation) were 11% This point about distillation is worth quoting in full (highlight mine): The start-up has also clamped down on “distillation” — a controversial practice whereby rival AI labs train their models on the outputs of more advanced ones. When rival companies “distil” their models from Anthropic’s models, that involves heavy usage and spending. Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue and that they had cut it back “materially” in the third quarter of the year, said four people with direct knowledge of the matter. Napkin maths says that if distillation was 5% of their Q2 revenue (before they cut it back in Q3) then unnamed \"other labs\" spent over half a billion dollars distilling Anthropic's models in that quarter! Tags: ai , generative-ai , llms , anthropic",
+      "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on \"computing power\" Adjusted operating margins (excluding stock-based compensation) were 11% This point about distillation is worth quoting in full (highlight mine): The start-up has also clamped down on “distillation” — a controversial practice whereby rival AI labs train their models on the outputs of more advanced ones. When rival companies “distil” their models from Anthropic’s models, that involves heavy usage and spending. Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue and that they had cut it back “materially” in the third quarter of the year, said four people with direct knowledge of the matter. Napkin maths says that if distillation was 5% of their Q2 revenue (before they cut it back in Q3) then unnamed \"other labs\" spent over half a billion dollars distilling Anthropic's models in that quarter! Also notable: Anthropic appear to no longer be leaning on \"annualized run-rate revenue\" ( previously ) in these communications to their investors. Tags: ai , generative-ai , llms , anthropic",
       "alsoReportedBy": []
     },
     {

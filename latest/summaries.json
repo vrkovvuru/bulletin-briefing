@@ -1,6 +1,108 @@
 {
-  "generated": "2026-10-15T14:41:56.347693Z",
+  "generated": "2026-10-15T16:43:01.415444Z",
   "summaries": [
+    {
+      "summary": "Trump cancels plan to livestream execution of Nidal Malik Hasan amid global condemnation.",
+      "significance": "Trump's decision follows global condemnation, altering the method but not the outcome of Hasan's execution.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/trump-fort-hood-execution-livestream",
+      "points": [
+        "Plan to livestream execution of Hasan, who killed 13 at Fort Hood in 2009, canceled.",
+        "Trump believed streaming could deter terrorism, showcasing how America deals with it.",
+        "Decision influenced by public preference not to watch execution via any visual medium."
+      ]
+    },
+    {
+      "summary": "Family raises concerns over mental health services for William Chapman, who was killed by a tiger at a Yorkshire zoo.",
+      "significance": "The story highlights concerns over mental health support for individuals, following a man's tragic death at a zoo.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/15/man-killed-tiger-yorkshire-zoo-bouts-of-psychosis-inquest",
+      "points": [
+        "William Chapman died after climbing into a tiger enclosure at Yorkshire Wildlife Park in Doncaster.",
+        "Chapman had experienced bouts of psychosis, according to his family.",
+        "Family expresses worries about Chapman's interactions with mental health services prior to his death."
+      ]
+    },
+    {
+      "summary": "Lawmakers from both parties criticized Trump's plan to broadcast an execution by firing squad.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+      "points": [
+        "Democrat Senator Elissa Slotkin described the plan as \u2018sick\u2019.",
+        "Republican John Curtis argued it was \u2018not an effective deterrent\u2019.",
+        "US government proposed a $335,000 campaign to boost Afrikaner refugee applications."
+      ]
+    },
+    {
+      "summary": "Thames Water seeks £2.4bn from creditors to prevent bankruptcy by late 2026 or early 2027.",
+      "url": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
+      "points": [
+        "Thames Water requires £2.4bn to avoid insolvency.",
+        "Company claims it will run out of cash by end of 2026 or early 2027.",
+        "As UK\u2019s largest water company, Thames Water faces giant debt issues."
+      ]
+    },
+    {
+      "summary": "Trump cancels Hegseth's plan to livestream execution of Fort Hood shooter, despite support from rightwing religious allies.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/pete-hegseth-crec-church-execution-livestream",
+      "points": [
+        "Trump cancelled the livestream of Nidal Hasan's execution set for 3 December.",
+        "Hasan, sentenced to death in 2013, killed 13 and wounded 32 at Fort Hood in 2009.",
+        "Rightwing religious figures backing Hegseth supported the public execution idea."
+      ]
+    },
+    {
+      "summary": "Two architecturally celebrated 1960s London housing estates are saved from demolition after a decade-long campaign.",
+      "url": "https://www.theguardian.com/society/2026/oct/15/london-architecture-estates-saved-from-demolition-social-housing",
+      "points": [
+        "Cressingham Gardens and Central Hill estates in Lambeth are saved.",
+        "Residents campaigned for over a decade to preserve the developments.",
+        "The estates are considered significant in design and popular among residents."
+      ]
+    },
+    {
+      "summary": "A dog owner designed a nose guard for his dog with DLE and shared it for free, leading to over 500 dogs using the product.",
+      "significance": "A dog owner's DIY solution for managing his pet's skin condition has unexpectedly evolved into a product benefiting over 500 dogs.",
+      "url": "https://snoutcover.com/one-year",
+      "points": [
+        "Designed and shared the SnoutCover for free, initially for one dog with DLE.",
+        "Over 500 dogs have benefited, with 395 orders shipped to 16 countries.",
+        "The creator still designs, prints, and assembles each SnoutCover himself."
+      ]
+    },
+    {
+      "summary": "Simons Foundation launches a $15M initiative with Anthropic and OpenAI to assist mathematicians in adapting to AI advancements.",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "points": [
+        "$15 million in funding and resources from Simons Foundation, Anthropic, and OpenAI.",
+        "Initiative supports workshops and initiatives for evaluating AI-assisted results and learning new tools.",
+        "Anthropic and OpenAI will provide AI tools and computing resources to supported researchers."
+      ]
+    },
+    {
+      "summary": "decomp.dev, a platform for tracking decompilation progress, is sunsetting its main index and new project additions due to issues with AI and community abuse.",
+      "url": "https://decomp.dev/",
+      "points": [
+        "AI advancements have made decompilation faster but led to issues with \"sloppy\" contributions.",
+        "Bad actors have been forking projects and racing to port games, harming the community.",
+        "The platform will continue to track existing projects and serve historical data."
+      ]
+    },
+    {
+      "summary": "A new Linux desktop environment called DEsk, featuring a skeuomorphic design, has released its first public version for Fedora.",
+      "url": "https://github.com/fyzugx/DEsk",
+      "points": [
+        "Released v0.1 with an installer for Fedora.",
+        "Skeuomorphic design mimics real-world objects like a walnut desk, binders, and a post box for notifications.",
+        "Uses ray-tracing for the room's lighting and shadows, with settings and data carried forward in updates."
+      ]
+    },
+    {
+      "summary": "AVIF generally outperforms JPEG XL in web use-cases, producing smaller files and better handling various image types.",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "points": [
+        "AVIF produces files 15-25% smaller than JPEG XL for lossy photos at default settings.",
+        "For screenshots and illustrations, JPEG XL files are 30-90% larger than AVIF at default settings.",
+        "AVIF is faster to encode and uses less memory compared to JPEG XL, which takes 2-3x longer to decode at medium quality."
+      ]
+    },
     {
       "summary": "UK Labour politician Wes Streeting meets US official amid Ukraine tensions; Labour reviews Green Party partnerships.",
       "significance": "Westring's visit to the US for the meeting follows escalating Ukraine tensions and emphasizes increased support and pressure on Putin regarding Ukraine's security.",
@@ -3650,109 +3752,6 @@
         "Production of Pawn Shop, by conservative media company Daily Wire, temporarily halted earlier this month.",
         "Residents of Livingston complained about road closures and the film\u2019s depiction of immigration policies.",
         "The film appears to re-enact elements of Renee Good\u2019s killing, roiling the Montana town."
-      ]
-    },
-    {
-      "summary": "Senator Chris Murphy claims the Pentagon obstructed his visit to a Qatar base and that the Iran strike on the US embassy in Riyadh was more severe than reported.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/08/chris-murphy-pete-hegseth-iran-war-costs",
-      "points": [
-        "Pentagon blocked Murphy from visiting a major US base in Qatar.",
-        "Damage to US embassy in Riyadh described as \"extraordinary\" by Murphy.",
-        "Iranian strike's severity far worse than what the public has been informed."
-      ]
-    },
-    {
-      "summary": "USS Abraham Lincoln's commanding officer addresses suicide attempts during a record deployment, emphasizing no lost lives.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-      "points": [
-        "Captain Dan Keeler noted the deployment was the first combat experience for most sailors.",
-        "Thousands welcomed USS Lincoln sailors upon their return.",
-        "Trump urges debates between his endorsed candidates and Democratic nominees in key Senate races."
-      ]
-    },
-    {
-      "summary": "Polls closed in Holborn and St Pancras byelection, testing Labour's unity under Andy Burnham against Green Party's Zack Polanski.",
-      "url": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
-      "points": [
-        "Labour aims to retain Keir Starmer\u2019s former seat won with over 11,000 majority in 2024.",
-        "Byelection seen as a test for Andy Burnham to unite Labour voters.",
-        "Green party\u2019s Zack Polanski poses a threat to Labour\u2019s progressive support."
-      ]
-    },
-    {
-      "summary": "Research links ADHD to circadian rhythm dysfunction, suggesting chronotherapy as a potential treatment.",
-      "significance": "The story matters as it identifies circadian rhythm dysfunction as a significant phenotype in ADHD, suggesting chronotherapy as a potential treatment approach.",
-      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-      "points": [
-        "Up to 80% of adults and 82% of children with ADHD experience sleep disturbances.",
-        "Dim-light melatonin onset (DLMO) is delayed by about 45 minutes in children and 90 minutes in adults with ADHD.",
-        "Melatonin and bright light therapy have successfully advanced DLMO in ADHD patients, correlating with symptom improvement."
-      ]
-    },
-    {
-      "summary": "Carson Gross discusses the enduring value of computer programming skills despite AI advancements.",
-      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-      "points": [
-        "Carson Gross believes problem-solving with computers will remain valuable.",
-        "Gross highlights controlling complexity as a key aspect of programming.",
-        "The discussion tags include computer-science, careers, and AI."
-      ]
-    },
-    {
-      "summary": "Yemen's humanitarian crisis worsens as fighting displaces over 200,000 in five weeks.",
-      "significance": "The UN reports over 200,000 displaced in five weeks, highlighting the escalating humanitarian crisis in Yemen.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss",
-      "points": [
-        "UN reports over 200,000 displaced in five weeks.",
-        "Yemen faces one of the world's most severe humanitarian crises.",
-        "Aid agencies alarmed by rapid displacement speed."
-      ]
-    },
-    {
-      "summary": "Israeli settlers are destroying olive trees and restricting access to land, targeting the Palestinian olive harvest in the West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss",
-      "points": [
-        "Settlers are destroying olive trees and taking crops from Palestinian farmers.",
-        "Attacks threaten a vital income source for Palestinians.",
-        "The West Bank is the primary location of these systematic attacks."
-      ]
-    },
-    {
-      "summary": "Thousands of family members welcomed sailors of the USS Abraham Lincoln at San Diego after a long and difficult deployment.",
-      "significance": "The return of USS Lincoln highlights the emotional impact of long military deployments on sailors and their families.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego",
-      "points": [
-        "19-year-old Pvt Grayden Monroe and his mother were among the first to arrive at the naval base.",
-        "The USS Abraham Lincoln returned to San Diego after being at sea for nearly a year.",
-        "Military families expressed mixed emotions upon the sailors' return."
-      ]
-    },
-    {
-      "summary": "The DoJ plans to charge Cassidy Hutchinson, a former Trump aide, for allegedly lying to Congress about the January 6 Capitol attack.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/08/cassidy-hutchinson-criminal-charges-doj",
-      "points": [
-        "Hutchinson testified that Trump tried to join the mob by lunging for an SUV's wheel.",
-        "Potential charges against Hutchinson involve lying to the congressional committee.",
-        "The Justice Department's civil rights division is pursuing the criminal charges."
-      ]
-    },
-    {
-      "summary": "Author reflects on the value of casual conversation in building trust and easing into serious topics.",
-      "significance": "The story reveals the importance of casual conversation in building trust and comfort for discussing sensitive topics, affecting how people communicate and connect.",
-      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-      "points": [
-        "Author's daughter needed a long warm-up to discuss sensitive issues.",
-        "Casual conversation rituals like coffee chats help overcome speech vulnerability.",
-        "Twitter's character limit may hinder the gradual build-up needed for sensitive discussions."
-      ]
-    },
-    {
-      "summary": "A DIY project details the creation of a neon-themed t-shirt using LED filaments within a tight deadline.",
-      "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-      "points": [
-        "Used 1200mm red filament for a llama design on the back.",
-        "Front features cursive text with 300mm 3v filaments soldered in series.",
-        "Utilized cross-stitch fabric and embroidery hoops for stability during assembly."
       ]
     }
   ]
