@@ -1,6 +1,126 @@
 {
-  "generated": "2026-10-15T04:42:17.122017Z",
+  "generated": "2026-10-15T12:43:53.452Z",
   "summaries": [
+    {
+      "summary": "Severe drought declared in parts of southern England due to low rainfall and high demand.",
+      "significance": "The severe drought declaration in parts of southern England affects water supplies and prompts stricter monitoring and conservation measures due to low reservoir levels following high demand.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Wimbleball Reservoir in Somerset is at 14.9% capacity.",
+        "Ardingly Reservoir in West Sussex serves 280,000 customers and is at 20% capacity.",
+        "The Environment Agency granted permits to reduce water releases from key reservoirs."
+      ]
+    },
+    {
+      "summary": "Jesse Eisenberg's dual role in Richard Ayoade\u2019s film adaptation of a Dostoevsky novella is highlighted as a standout performance.",
+      "url": "https://www.theguardian.com/film/2026/oct/15/jesse-eisenberg-10-best-film-performances-ranked",
+      "points": [
+        "Eisenberg plays both Simon, a shy programmer, and James, a confident alpha-achiever.",
+        "The film, an adaptation of a Dostoevsky novella, is set in a grim futureworld.",
+        "Simon is hopelessly in love with Hannah, played by Mia Wasikowska."
+      ]
+    },
+    {
+      "summary": "Author Sally Rooney supports Palestine Action, risking UK arrest and book bans.",
+      "url": "https://www.theguardian.com/books/2026/oct/15/sally-rooneys-stand-on-palestine-is-brave-and-humane",
+      "points": [
+        "Her decision could lead to her books being withdrawn from sale in the UK.",
+        "Rooney avoids the UK to prevent potential imprisonment under Britain\u2019s terrorism laws."
+      ]
+    },
+    {
+      "summary": "Two people died in Istanbul due to severe flooding from the heaviest rainfall in 84 years.",
+      "significance": "The story highlights the致命影响和破坏性后果，当伊斯坦布尔遭遇84年来最大的降雨量时，这影响了超过1600万居民，并导致两人死亡和数百人被救援。",
+      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "14-year-old boy electrocuted stepping in a puddle.",
+        "34-year-old man died after slipping and hitting his head on the pavement.",
+        "Nearly 600 people rescued after becoming stranded in the floods."
+      ]
+    },
+    {
+      "summary": "Elon Musk claims US government imposed Starlink restrictions in Ukraine, amid tensions including a fire on a Romanian vessel.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "points": [
+        "Zelenskyy expressed feeling 'betrayed' by the US over Trump\u2019s diesel deal with Russia and Starlink restrictions.",
+        "Seven people are still missing after a fire on a vessel in Romanian territorial waters of the Black Sea.",
+        "Suspected Russian drones have attacked several ships off Romania and Bulgaria since last week."
+      ]
+    },
+    {
+      "summary": "Trump faces economic challenges ahead of midterms, with shifting Republican views on the economy.",
+      "url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
+      "points": [
+        "In September 2024, 65% of Republicans believed the US economy was worsening.",
+        "Six months later, after Trump's \"liberation day\" tariffs, only 33% of Republicans viewed the economy negatively.",
+        "Political polarization has reduced and confused the influence of economic conditions on US elections."
+      ]
+    },
+    {
+      "summary": "Global tech markets, particularly chip makers, are experiencing a sell-off due to inflation fears and potential interest rate hikes.",
+      "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+      "points": [
+        "South Korea\u2019s Kospi 200 index fell over 8%, reaching a six-month low.",
+        "Circuit breakers were triggered multiple times due to the sharp decline.",
+        "Companies like Samsung and SoftBank are among those affected by the sell-off."
+      ]
+    },
+    {
+      "summary": "UK Chancellor John Healey promises a \"breathing space\" for consumers and businesses in his first budget while adhering to fiscal rules.",
+      "url": "https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs",
+      "points": [
+        "Healey speaking at IMF annual meetings in Bangkok",
+        "Budget will occur in a fortnight",
+        "Chancellor aims to balance fiscal rules with addressing rising costs"
+      ]
+    },
+    {
+      "summary": "Ukraine's president accuses Trump of betrayal over throttling Starlink access, impacting Ukraine's military operations.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/first-thing-us-betrayal-over-starlink-undermines-ukrainian-defense",
+      "points": [
+        "Zelenskyy claims US throttled Starlink, affecting drones and air defense systems.",
+        "Starlink no longer works on terminals moving faster than 100mph.",
+        "Human rights activist warns of increased civilian casualties without Starlink protection."
+      ]
+    },
+    {
+      "summary": "Haxy, a new git forge, promises unique features like offline metadata editing and SSH-based TUI access.",
+      "url": "https://try.haxy.net/haxy:haxy",
+      "points": [
+        "Haxy allows offline editing of repository issues and metadata.",
+        "Users can access Haxy via a text user interface (TUI) served over SSH.",
+        "The system uses event sourcing, creating one event per commit."
+      ]
+    },
+    {
+      "summary": "A user wrote a kernel exploit for their TP-Link EAP770 v1 access point to fix corrupt downloads.",
+      "significance": "A user wrote a kernel exploit to fix download corruption issues on an outdated TP-Link access point, highlighting problems with unsupported hardware.",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "points": [
+        "The exploit was necessary because TP-Link had ended support for the device in June 2025.",
+        "The issue began in August 2023 when the user bought the Wi-Fi 7 access point.",
+        "The corruption problem was linked to Qualcomm's SFE/PPE offload, affecting TCP segments."
+      ]
+    },
+    {
+      "summary": "Modal, an AI infrastructure company, reached a $1B ARR and secured a $16B valuation after a $750M Series D funding round, marking significant growth in just five months.",
+      "significance": "Modal\u2019s rapid growth and high valuation highlight the increasing demand for advanced AI infrastructure, affecting the tech industry and investment in AI startups.",
+      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "points": [
+        "Modal\u2019s valuation tripled in five months and grew 15x year-over-year.",
+        "The company\u2019s Sandboxes product, launched in 2023, now has a $300M run rate.",
+        "Modal\u2019s Series D funding round was led by Accel and valued the company at $15.75B."
+      ]
+    },
+    {
+      "summary": "Anthropic developed a new source control system named Scion due to a significant increase in code changes.",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "points": [
+        "Anthropic's code changes surged from 2,500 to over 30,000 per day between May and September 2026.",
+        "Scion, the new system, was built by a team of seven and completed in five months.",
+        "The system handles over 25 million code checkouts daily, with a main branch history of almost 100 GB."
+      ]
+    },
     {
       "summary": "Heavy rain led to a mass pileup inside Sao Paulo\u2019s Anhangabau tunnel, stranding people until floodwaters receded.",
       "significance": "Heavy rain-induced flooding in Sao Paulo\u2019s Anhangabau tunnel stranded people, highlighting risks of extreme weather on infrastructure.",
@@ -3633,126 +3753,6 @@
         "JD Vance announced Microsoft's suspension from the H-1B green card program.",
         "The suspension is due to alleged abuse of the H-1B system by Microsoft.",
         "Adobe is also barred from the visa program that leads to US residency."
-      ]
-    },
-    {
-      "summary": "Astronomers detected a mysterious energy burst from a galaxy over 10 billion light-years away.",
-      "url": "https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves",
-      "points": [
-        "Flash of radio waves is over 10 billion years old.",
-        "Burst travelled through approximately 80% of cosmic history.",
-        "Event is considered the most distant fast radio burst recorded."
-      ]
-    },
-    {
-      "summary": "Trump's admission that he banned media over coverage was highlighted in court by media lawyers.",
-      "url": "https://www.theguardian.com/media/2026/oct/08/trump-media-ban-hearing",
-      "points": [
-        "Judge Timothy Kelly, a Trump appointee, extended the temporary restraining order until Tuesday.",
-        "CNN, MS Now, and Politico were banned from the White House due to critical coverage.",
-        "The original temporary reprieve was set to expire on Thursday, 28 September."
-      ]
-    },
-    {
-      "summary": "Marco Rubio avoided questions about Kimberly Guilfoyle allegedly asking a Trump donor to pay her $100,000 credit card bill.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/08/kimberly-guilfoyle-donor-wire-marco-rubio",
-      "points": [
-        "Rubio, US secretary of state, dodged queries on Guilfoyle's reported actions.",
-        "Guilfoyle, US ambassador to Greece, allegedly sought Trump donor for $100,000.",
-        "Allegations emerged in a Wall Street Journal report prior to Guilfoyle's confirmation hearing."
-      ]
-    },
-    {
-      "summary": "Finance expert Martin Lewis launches initiative to gather small, practical ideas to improve UK systems.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/08/martin-lewis-small-ideas-institute-public-improve-uk",
-      "points": [
-        "Martin Lewis invites public to submit ideas for \"Small Ideas Initiative\" by 12 November.",
-        "Ideas should be low-cost, non-controversial, and aimed at fixing everyday issues.",
-        "Cross-party panel will review ideas covering areas like health, schools, and tech."
-      ]
-    },
-    {
-      "summary": "Whistle, a compact 16.9 MB speech recognition model, transcribes audio in seven languages with high speed and accuracy.",
-      "significance": "Whistle, a compact 16.9 MB speech recognition model, enables efficient speech-to-text transcription across seven languages on various devices without internet connection.",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "points": [
-        "Whistle transcribes audio in English, German, French, Spanish, Italian, Dutch, and Polish.",
-        "The model reaches the first token in 11 ms and operates on 16 kHz mono audio.",
-        "Whistle runs on CPU with no dependencies and is designed for mobiles, wearables, robots, smart homes, automotive, and microcontrollers."
-      ]
-    },
-    {
-      "summary": "StepFun releases Step 5 Preview, a powerful agentic work model with a 1M-context window, excelling in software engineering and finance.",
-      "url": "https://openrouter.ai/stepfun/step-5-preview",
-      "points": [
-        "Step 5 Preview has a 27B active / 600B total parameters architecture.",
-        "Costs $1.00/M input tokens and $2.70/M output tokens, with caching discounts.",
-        "Supports up to 64,000 completion tokens and accepts text, images, and video inputs."
-      ]
-    },
-    {
-      "summary": "A website owner successfully deindexed their site from Google to prevent AI scraping.",
-      "url": "https://kennyqin.com/deindexed-by-google/",
-      "points": [
-        "Owner used robots.txt and meta tags to block indexing.",
-        "Deindexing took at least 3 months to complete.",
-        "Website is now free from Google indexing."
-      ]
-    },
-    {
-      "summary": "Archaeologists are reconstructing Stone Age technologies like rope and thread, which are largely absent from the archaeological record but were crucial for early human survival.",
-      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
-      "points": [
-        "Researchers created 16 feet of rope in ten minutes using cattail fibers and a replica of a 35,000-year-old perforated ivory baton.",
-        "The oldest surviving human-made fiber is a six-millimeter-long string dating back about 250,000 years.",
-        "Hafting, attaching stone tools to handles with string or cord, transformed tool use and expanded prehistoric hunting and building capabilities."
-      ]
-    },
-    {
-      "summary": "Canadian poet and essayist Anne Carson wins the 2026 Nobel prize in literature.",
-      "significance": "Anne Carson's Nobel win recognizes her innovative contributions to contemporary literature by blending classical traditions with modern forms.",
-      "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-      "points": [
-        "Swedish Academy honored Carson for her bold and inventive works.",
-        "Carson is known for genre-crossing works like \"Autobiography of Red\".",
-        "Her writing creates new forms for contemporary literature, engaging with classical tradition."
-      ]
-    },
-    {
-      "summary": "Campaigners, including Chris Packham and Sally Phillips, urge Prime Minister Andy Burnham to abandon reforms to special educational needs, citing removal of children\u2019s legal protections.",
-      "significance": "Campaigners argue reforms will unfairly remove children\u2019s legal protections, urging the prime minister to reconsider special educational needs changes.",
-      "url": "https://www.theguardian.com/education/2026/oct/08/campaigners-letter-send-reform-chris-packham-sally-phillips",
-      "points": [
-        "Letter signed by Chris Packham and Sally Phillips highlights unfair removal of children\u2019s legal protections.",
-        "Campaigners want Andy Burnham to gut the plans originally laid out by Keir Starmer.",
-        "Group of disabled children, parents, and experts are leading the call against the reforms."
-      ]
-    },
-    {
-      "summary": "Trump considers asking FBI to investigate the death of Nolan Wells, an 18-year-old Black college student found dead on Horn Island.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/08/trump-fbi-nolan-wells-death-investigation",
-      "points": [
-        "Trump mentioned the consideration during a Wednesday statement.",
-        "Wells, an 18-year-old Black college freshman, was last seen on July 4.",
-        "His body was discovered two days later on Horn Island, Mississippi."
-      ]
-    },
-    {
-      "summary": "BBC apologizes and pays compensation to PinkNews founders for false sexual misconduct allegations in a documentary.",
-      "url": "https://www.theguardian.com/media/2026/oct/08/bbc-pays-compensation-pinknews-couple-false-sexual-misconduct-allegations-benjamin-cohen",
-      "points": [
-        "Compensation amount described as \"substantial\" but exact figure not disclosed.",
-        "Documentary titled \"PinkNews: Behind Closed Doors\" accused Benjamin Cohen and Anthony James falsely."
-      ]
-    },
-    {
-      "summary": "A person has funded a Tanzanian student's education for a decade, leading to her university graduation and acceptance into a master's program.",
-      "significance": "This story highlights the significant impact of long-term educational support on individual achievement and potential community transformation in rural Tanzania.",
-      "url": "https://news.ycombinator.com/item?id=50006366",
-      "points": [
-        "Anwarite, the student, graduated with a degree in Language Studies from the University of Dar es Salaam.",
-        "The master's program for Anwarite costs about $1,161.",
-        "The initiative, now called the Tanzania Education Project, supports five students from Ibumila, covering school fees and healthcare."
       ]
     }
   ]

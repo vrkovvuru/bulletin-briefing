@@ -1,184 +1,192 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "stories": [
     {
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "title": "Severe drought declared in parts of southern England",
+      "url": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "alsoReportedBy": []
+      "summary": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "Heavy rain causes mass pileup in Brazil tunnel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Flooding left vehicles piled up and people stranded inside Sao Paulo’s Anhangabau tunnel.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘I am still a child, it cannot be good to be married’: how drought forces Afghan families to sell girls as brides",
-      "url": "https://www.theguardian.com/global-development/2026/oct/15/afghanistan-drought-hunger-displaced-families-girls-child-marriage-poverty",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "As climate breakdown pushes families to starvation, many feel forced to ‘sacrifice’ daughters to save siblings. Photographer Elise Blanchard travelled the country speaking to girls as young as eight, 10 and 14 who have been engaged or married to repay debts or pay for food ‘I’m not happy about this,” says 11-year-old Khatira, who was sold into marriage to repay debts, sitting in her home in Qala-e-Naw, capital of Badghis province in north-west Afghanistan. “She was healthy before her engagement, now she is worried and cries a lot,” says her 40-year-old mother, Noor Bibi. When her 20-year-old husband-to-be comes to her home, Khatira runs away. Since her engagement, she has stopped going outside because she “is ashamed of having a husband in front of the other girls”, says her mother. Shepherds watch over their sheep in the hills of Bala-Murghab, Badghis province, north-west Afghanistan. By March, the pasture was already too dry for the season Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
-      "url": "https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The social platform says networks targeted US political debate across the spectrum ahead of midterm elections.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A perfect storm: how the super El Niño is devastating the fishing industry",
-      "url": "https://www.theguardian.com/news/2026/oct/15/a-perfect-storm-how-the-super-el-nino-is-devastating-the-fishing-industry",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Peru’s anchoveta have made up about a 10th of the entire global commercial fishing catch since 1970, more than any other fish. A combination of warming seas and decades-long overfishing spells disaster On 10 June 2026, the government of Peru made a decision that it knew would hurt one of the world’s major fishing industries. It stopped all anchoveta fishing boats from going out to sea, suspending the fishing season. At first the order was temporary, but in mid-August, the suspension turned into a total closure . This was no easy call. For one thing, it was a brutal blow to the Peruvian economy. Peruvian anchovies – the scientific name is Engraulis ringens – are not the salty, punch-packing little fillets in a puttanesca sauce or caesar salad dressing. That is a different species – Engraulis encrasicolus – which is smaller, tastier and found mostly in the eastern Atlantic and the Mediterranean. Only a small part of Peru’s anchoveta catch is eaten in fish form. The rest – more than 90% – is immediately processed as fishmeal and fish oil, packed in sacks and barrels, and shipped to fish, shellfish and seaweed farms, factory farms and nutritional supplement producers around the world. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
-      "url": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The US President&#039;s ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "UK temperatures to rise to 23C before autumn chill sets in",
-      "url": "https://www.bbc.co.uk/weather/articles/c6d7qv73nldgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Warm air will bring unseasonable warmth to the south and east of the UK on Thursday but chillier conditions are set to spread to all areas by the weekend.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How Gaza changed Europe, exposing cracks that grow bigger by the week | Shada Islam",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/15/how-gaza-changed-europe-exposing-cracks-that-grow-bigger-by-the-week",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Solidarity with Palestine’s suffering is punished but MEPs allow a witch-hunt of European Muslims For three painful years, Israel’s genocidal war in Gaza, in retaliation for the Hamas terror attacks on 7 October 2023, has killed more than 74,000 Palestinians , wounded thousands more and reduced most of the territory to rubble. It has changed views of Israel across the world , increased support for Palestine and raised questions about US power. Europe’s failure to hold Israel’s government to account has cost it global credibility and influence. But I fear something even more consequential than that: Gaza is changing Europe itself. Shada Islam is a Brussels-based commentator on EU affairs. She runs New Horizons project, a strategy, analysis and advisory company Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
+      "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
+      "alsoReportedBy": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+      "url": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Reduced missile warnings increase threat to civilians as Trump pushes an &#039;energy ceasefire&#039; and peace negotiations.",
       "alsoReportedBy": []
     },
     {
-      "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
+      "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "US-Iran stalemate: What are Trump\u2019s next military options?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Trump has ruled out attacks before the midterms. Analysts weigh what he could do next, and at what cost.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Your full attention: Jesse Eisenberg\u2019s 10 best film performances \u2013 ranked!",
+      "url": "https://www.theguardian.com/film/2026/oct/15/jesse-eisenberg-10-best-film-performances-ranked",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "As his new movie The Debut closes the London film festival, we count down the best of the actor\u2019s shy, sly and sometimes hairy outings A doppelganger role can be a trap for an actor: either the two roles are not sufficiently distinct, or they are too hammily different, and either way the result can look like a film school graduation project. But Jesse Eisenberg gives a stylish split-personality turn in Richard Ayoade\u2019s adaptation of the Dostoevsky novella. He plays Simon, a nerdily shy and self-effacing computer programmer in a grim futureworld, ignored by his employers and by co-worker Hannah (Mia Wasikowska), with whom he is hopelessly in love. But then his carbon copy, James, arrives, also of course played by Eisenberg. James is a confident alpha-achiever who impresses his bosses and entrances Hannah \u2013 to Simon\u2019s gibbering despair. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments \u2014 even as the next stage of the anti-fraud effort is underway.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Sally Rooney\u2019s stand on Palestine is brave and humane",
+      "url": "https://www.theguardian.com/books/2026/oct/15/sally-rooneys-stand-on-palestine-is-brave-and-humane",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Normal People author\u2019s determination to support Palestine Action, even if it means that her books are withdrawn from sale in the UK, makes a mockery of Britain\u2019s terrorism laws It\u2019s hard to think of a published author in living memory who risked arrest in the UK for their political beliefs, hard to think of one whose books could be published anywhere but here. Sally Rooney went into this debacle with her eyes open: she said last July that royalties from her books, and their BBC adaptations, would be used to support Palestine Action. Rooney\u2019s courage is not so much in risking imprisonment , since there is a fix for that, which is what she\u2019s doing \u2013 avoiding the UK. Rather, she has chosen the thorniest possible path for this cause. Authors can write essays and sign letters in support of the Palestinian people; actors can voice it in interviews, musicians can say it from the stage, and there is always a cost to it, whether it\u2019s in plain sight and they\u2019ve been kicked off a global tour, or it\u2019s behind closed doors and they are simply excluded from opportunities. But such actions, even if they logically suggest support for a proscribed organisation, don\u2019t entail actively breaking the terrorism laws. Rooney had taken a financial hit anyway, by pledging support for Palestine Action with her royalties; but that\u2019s a price at least you can count. The lost sales and opportunities that ripple out from being effectively both barred from and banned in the UK are innumerable. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Australian woman charged with lacing colleague's curry with snail poison",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
+      "alsoReportedBy": [
+        "Guardian World"
+      ]
+    },
+    {
+      "title": "Ukraine says its Starshield access is back",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
-      "alsoReportedBy": []
+      "summary": "Ukraine says its access to SpaceX's Starshield has been restored. It's the system the country uses for its offensive drone attacks on Russia.",
+      "alsoReportedBy": [
+        "NPR World"
+      ]
     },
     {
-      "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-      "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+      "title": "Obama says drift towards extremism 'not inevitable'",
+      "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
+      "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
       "alsoReportedBy": []
     },
     {
-      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Student protesters attack government buildings in Albania",
-      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australian politics live: Wells says ‘manosphere’ podcasts and moon landing conspiracies allowed under Labor duty of care reform",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
+      "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine \u2013 Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Private health insurance changes ‘recalibrating precious taxpayer dollars’, says Wells The health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health insurance rebates for over-65s, after it was thrown out of the Senate by the crossbench and Coalition. It’s really important we reintroduce it, because we need to raise the level of support and resourcing for aged care. I was the aged care minister before being the communications minister, we need to work urgently. There’s not enough beds being built for older Australians who need that support. It’s recalibrating precious taxpayer dollars. Continue reading...",
+      "summary": "Zelenskyy said he felt \u2018betrayed\u2019 by the US after Trump\u2019s diesel deal with Russia and the Starlink restrictions Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian territorial waters of the Black Sea. Suspected Russian drones have hit several ships off Romania and neighbouring Bulgaria since last week in a spillover from the Ukraine war, AFP reported. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Victoria to become first state to make abortions free as Coalition matches Labor election promise",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
+      "title": "Bad news for Trump ahead of the midterms: it\u2019s still the economy, stupid",
+      "url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Exclusive: Out-of-pocket costs for abortion care to be covered regardless of who wins November election as Jess Wilson says Liberals and Nationals ‘will not allow Labor to play politics on this issue’ Follow our Australian politics live blog for latest updates Get our breaking news email , free app or daily news podcast Victoria will become the first state in Australia to make access to abortion care free, no matter who wins the November election, with the Coalition matching Labor’s promise just hours after it was announced as it attempts to neutralise the issue. The opposition leader, Jess Wilson, on Thursday afternoon told Guardian Australia a Liberal National Coalition government would match Labor’s commitment to cover out-of-pocket costs for abortion care up to 16 weeks’ gestation. This would include GP and specialist consultations, scans, tests or medication, which can quickly add up to more than $1,000. Continue reading...",
+      "summary": "Voters\u2019 opposition to the state of Trump\u2019s economy is well established \u2013 despite his desperate attempts to deflect Our reporters answer your questions about the US economy and the midterm elections It\u2019s indisputable that the political polarization of our time has reduced (and confused) the influence of economic conditions on US elections. In September of 2024, in the waning weeks of the Joe Biden presidency, 65% of Republicans believed the US economy was getting worse. About six months later, as Donald Trump launched a trade war on the rest of the world with his \u201cliberation day\u201d tariffs, the share of Republican pessimists had dropped to 33%. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Greens senator Jordan Steele-John takes leave amid investigation into complaints",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/greens-senator-jordan-steele-john-leave-investigation-complaints-ntwnb",
+      "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+      "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Steele-John said he rejected the claims and had referred them to the Western Australian Greens for a ‘fair, independent process’ Greens senator Jordon Steele-John has taken leave from the party room after complaints were made, triggering an independent review. The Nine newspapers reported on Thursday afternoon that seven party members demanded an investigation into allegations he made inappropriate comments to a number of women. Continue reading...",
+      "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets Business news \u2013 live updates Larry Elliott: the global economy is muddling through. But a storm is coming An accelerating sell-off of AI-linked shares has hit global markets, as fears over rising inflation and future interest rate hikes spooked traders already wary of the heavily indebted sector. South Korea\u2019s benchmark Kospi 200 index, which is heavily skewed towards the companies that make memory chips, fell more than 8% overnight to a six-month closing low, triggering circuit breakers that brought trading to a halt at various points. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
+      "title": "John Healey vows to give \u2018breathing space\u2019 to consumers and businesses in first budget",
+      "url": "https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Talarico casts himself as a moderate who would put Texans’ needs over party allegiances amid close contest against Republican Ken Paxton James Talarico, the Texas Democratic nominee for Senate, sat face to face with several undecided voters who grilled him on a slew of contentious issues including Israel’s military campaign in Gaza, abortion and foreign aid, during a CNN town hall on Wednesday evening. One voter, a devout small business owner, questioned the authenticity of Talarico’s faith, referencing a past remark where he described God as nonbinary. Continue reading...",
+      "summary": "Speaking at IMF meeting, chancellor says he will stick to fiscal rules while recognising business and living costs UK politics live \u2013 latest updates Business live \u2013 latest updates John Healey has promised to use his first budget in a fortnight\u2019s time to offer consumers and businesses a \u201cbreathing space\u201d while sticking to Labour\u2019s fiscal rules. Speaking to journalists in Bangkok, where he has been attending the International Monetary Fund annual meetings, the chancellor said he was conscious of rising costs. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+      "title": "First Thing: US \u2018betrayal\u2019 over Starlink undermines Ukrainian defense",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/first-thing-us-betrayal-over-starlink-undermines-ukrainian-defense",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would instead track “nonspecific” health outcomes like overall mortality or neurodevelopmental conditions, has been championed by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime anti-vaccine activist. Continue reading...",
-      "alsoReportedBy": ["Guardian World"]
-    },
-    {
-      "title": "Senior Victorian public servants hid loss of up to $285m from Covid grants given to ineligible businesses",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/vic-gov-hid-285m-loss-from-covid-grants-corruption-watchdog-ibac-finds-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Whistleblowers applauded as Ibac finds ‘decisions were made to withhold information about the magnitude of the loss’ Senior public servants in one state covered up losses suspected to be worth hundreds of millions of dollars arising from flawed Covid-19 business support payments, an investigation has found. During the pandemic, the Victorian government spent an estimated $257m on support grants to 9,000 ineligible businesses. Follow our Australia politics live blog for latest updates Continue reading...",
+      "summary": "President Zelenskyy accused Donald Trump of taking Russia\u2019s side after access to the vital system was throttled. Plus, a happy ending for a dog that was missing for a month Good morning. Ukraine\u2019s president has said he feels \u201cbetrayed\u201d by Donald Trump over a throttling of Starlink access. Volodymyr Zelenskyy accused the US president of picking the other side after more than four years of war, risking a breakdown in US-Ukraine relations. Ukraine\u2019s military reported that the communications system, produced by Elon Musk\u2019s SpaceX but managed by the US government, was no longer working on terminals moving at speeds greater than 100mph. That effectively rendered most of the drones used by Ukraine to strike behind the frontlines inoperable and affected the country\u2019s best air defence system to stop Russian jet-powered attack drones bombing Kyiv. What is the likely impact of the loss of Starlink? The Ukrainian human rights activist Oleksandra Matviichuk said : \u201cWithout that protection, Russian drones will strike residential buildings, hospitals and schools like targets in a shooting gallery.\u201d However, Starlink is not required for long-range Ukrainian missions that target Russian oil refineries, which Trump has been concerned because of their impact on world energy prices. How is Israel blocking Trump\u2019s plans for Gaza? Israel is refusing to allow a key project for Donald Trump\u2019s Board of Peace to proceed. In early August, it issued its first construction contract, for a military outpost to host 150 international troops as a vanguard of an international stabilization force. Two months later, Israel has still not allowed the contract to move forward. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -200,21 +208,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Uber’s AI infra, from the inside",
+      "title": "Uber\u2019s AI infra, from the inside",
       "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
       "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Future of Cancer Care Today (FCCT)",
-      "url": "https://sijbrandijfoundation.org/fcct",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -236,8 +235,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "What I Self-Host",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "title": "Haxy on Haxy",
+      "url": "https://try.haxy.net/haxy:haxy",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -254,7 +253,16 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The Pulse: new trend of building \u201cinternal vibe-coding apps\u201d at tech companies",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -263,12 +271,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "One in ten people are older than 65. Three in four live under a leader who is",
-      "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
-      "source": "Hacker News",
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "[AINews] Modal\u2019s $1B ARR, $16B Series D makes it NYC\u2019s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Tree Appreciator",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk , I've found that telling Opus 5.5 \"make sure it is fun\" works uncomfortably well. In this case Claude crunched for 3 hours and 7 minutes before retuning a cosy little spot-the-difference game with music and animation and achievements that's quite compelling to play. Tags: game-design , javascript , ai , generative-ai , llms , claude , vibe-coding , three-js",
       "alsoReportedBy": []
     },
     {
@@ -281,39 +307,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Tree Appreciator",
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk , I've found that telling Opus 5.5 \"make sure it is fun\" works uncomfortably well. In this case Claude crunched for 3 hours and 7 minutes before retuning a cosy little spot-the-difference game with music and animation and achievements that's quite compelling to play. Tags: game-design , javascript , ai , generative-ai , llms , claude , vibe-coding , three-js",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-      "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "AI is mass decompiling games. That's both awesome and scary.",
       "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "AI is mass decompiling games. That&#x27;s both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and the negatives of this new development: Most people already realized the scary part by now. If AI can decompile games and software, then the entire tech industry is about to explode. Anybody can decompile other software and use it any way they'd like, and nobody can stop them. Companies can steal from competitors. Your paid game or app can be open-sourced against your will. This isn't exclusive to old video games, we can apply this to  any  software. [...] This is also a big win for preservation. Old games can be ported, modified, enhanced, and made much more easily accessible than before. [...[ With console makers going all in on digital and games becoming entirely unplayable due to servers shutting down, this is  fantastic  news. We could own software we bought regardless of what the company thinks. Via Hacker News Tags: computer-history , game-design , ai , webassembly , generative-ai , llms , ai-ethics , coding-agents",
+      "summary": "AI is mass decompiling games. That&#x27;s both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and the negatives of this new development: Most people already realized the scary part by now. If AI can decompile games and software, then the entire tech industry is about to explode. Anybody can decompile other software and use it any way they'd like, and nobody can stop them. Companies can steal from competitors. Your paid game or app can be open-sourced against your will. This isn't exclusive to old video games, we can apply this to\u00a0 any \u00a0software. [...] This is also a big win for preservation. Old games can be ported, modified, enhanced, and made much more easily accessible than before. [...[ With console makers going all in on digital and games becoming entirely unplayable due to servers shutting down, this is\u00a0 fantastic \u00a0news. We could own software we bought regardless of what the company thinks. Via Hacker News Tags: computer-history , game-design , ai , webassembly , generative-ai , llms , ai-ethics , coding-agents",
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "title": "Lab-in-the-Loop at Compute Speed \u2014 Ian Quigley, Leash Bio",
+      "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
+      "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
       "alsoReportedBy": []
     },
     {
@@ -323,6 +331,15 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day. They included a chart showing those changes. I had Claude modify their chart ( code here ) to add markers for the public releases of each of their models in 2026: This shows public release dates, not the date when models became available for Anthropic's internal use. My guess is that the introduction of Fable/Mythos class models is a key factor in the increased coding velocity. \"Antique\" is their new code review system. The source control system is called Scion, and sounds to me like a reinvention of centralized source control along the lines of Subversion. ( Update : Anthropic credit Google's Piper and Meta's Sapling as \"prior art\" - it looks like the core concept of \"derived data\" was heavily inspired by Mononoke , the server component of Sapling.) They had some pretty extreme requirements: The history of our main branch alone is almost 100 GB, and a\u00a0 compressed \u00a0working copy is over 25 GB. We perform on the order of 25 million code checkouts per day for CI, before counting developer environments, agent sandboxes, and research jobs. Fetched naively, that would be over 600 PB of git traffic per day. The new system was built by a team of seven people, and the migration from Git was completed in five months. When asked on Hacker News about the lack of offline support, Scion engineer Nick G replied : Since Claude is by far the heaviest user of Scion and is necessarily online, this just wasn't important to do. As an aside, I've been trying adversarial review in my own projects recently, where you have a model try and find flaws (I often play Claude and GPT off against each other). This note from the article reflected my own experience with that: Anthropic also makes extensive use of adversarial review, and, while this is incredibly effective in many ways, it can also be myopic, so skilled engineers needed to steer Claude away from over-engineering parts of the system in response to hypothetical concerns. Via Hacker News Tags: git , migrations , version-control , ai , generative-ai , llms , anthropic , agentic-engineering",
       "alsoReportedBy": []
     },
     {
@@ -344,22 +361,15 @@
       "alsoReportedBy": []
     },
     {
-      "title": "llm-gemini 0.35",
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically (and who have boasted about their pelicans before.) Here's the \"high\" illustration, which cost me 17.166 cents: The pricing is interesting. At launch, Argon is $2/million input and $10/million output - the same price as GPT-6 Sol, half the price of Claude Opus 5.5 and 1/5th the price of Claude Fable 5.1 and GPT-6 Astra. But on December 1st Argon is set to double in price - so it will be the same price as Opus 5.5. Prices like this aren't really comparable these days since what really matters is how many tokens a model takes to achieve a goal within an agentic harness. One useful clue for that comes from Artificial Analysis, who publish the total cost to run their benchmark using each model. Argon is looking very good there - costing $2,407 to run the benchmark, putting it close to GLM-5.3 and significantly cheaper than OpenAI, Anthropic, and Meta's latest models. When the price doubles it will still be a little cheaper than GPT-6 Astra. (I used ChatGPT to edit that chart ! The data is all correct, I checked - I needed to get that Gemini 4 Argon info box to display without overlapping the other numbers.) Some bonus examples using Gemini 4 Argon: here's Generate an SVG of an armadillo in fishnet tights jaywalking on Mars , here's a Fabergé egg it created for me using Blender, and DeepMind staffer @fofrAI shared a video of a pelican riding a bike, using fourier epicycles . That's a fun new twist! Tags: google , ai , generative-ai , llms , llm , gemini , llm-pricing , pelican-riding-a-bicycle , llm-release",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "url": "https://www.latent.space/p/dyna",
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Our first robotics pod with Dyna&#8217;s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
+      "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
       "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 195.8,
+  "voice": "af_heart"
 }
