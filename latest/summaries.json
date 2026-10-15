@@ -1,6 +1,26 @@
 {
-  "generated": "2026-10-15T20:41:51.478568Z",
+  "generated": "2026-10-15T22:40:48.604044Z",
   "summaries": [
+    {
+      "summary": "Zimbabwean author denies using AI for prize-winning story after Atlantic article claims AI generated it.",
+      "significance": "The denial impacts the integrity and credibility of literary awards in the age of AI.",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+      "points": [
+        "Simbarashe Kundizeza won Caine prize for African writers on 6 October.",
+        "The Atlantic article claims AI flagged \"The Blue Fighter\" as almost entirely AI-generated.",
+        "Vauhini Vara authored the Atlantic article questioning the story's authenticity."
+      ]
+    },
+    {
+      "summary": "Despite declining call center jobs, human receptionists outperform AI in converting calls into successful outcomes based on a study of 14,000 calls.",
+      "significance": "The story highlights that despite AI's rise, human call center workers still significantly outperform AI in converting calls to successful business outcomes.",
+      "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+      "points": [
+        "Human receptionists achieved about 4x stronger conversion rates than AI.",
+        "AI-handled calls had a 700% higher rate of no-progress hangups.",
+        "Human receptionists missed about 15% more calls compared to AI agents."
+      ]
+    },
     {
       "summary": "London's Lion Green Road housing project wins the 2026 Stirling Prize for its integration into a green landscape.",
       "significance": "The story highlights a new approach to high-density, affordable housing that integrates well with natural landscapes, potentially influencing future urban development projects.",
@@ -3733,24 +3753,6 @@
         "Labour retains the seat with Abdi-Wali's victory over Polanski.",
         "Camden activists suggest Green's anti-Zionism motion cost them votes.",
         "Greens acknowledge coming in second but highlight their role in holding Labour accountable."
-      ]
-    },
-    {
-      "summary": "Sydney's 2027 festival will feature 11 international dance premieres, including a high-wire act by acclaimed French choreographer Rachid Ouramdane.",
-      "url": "https://www.theguardian.com/culture/2026/oct/09/sydney-festival-2027-international-dance-headline-program",
-      "points": [
-        "11 international dance works debut in Australia as part of Sydney's 2027 festival.",
-        "Rachid Ouramdane\u2019s \"Outsider\" features 21 dancers and four athletes on high wires.",
-        "The festival triples the scale of the previous event, bringing 174 performers to Sydney."
-      ]
-    },
-    {
-      "summary": "Treasurer Jim Chalmers delays controversial ban on credit card payments for tax bills by over six months.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/09/chalmers-delays-controversial-credit-card-ban-business-tax",
-      "points": [
-        "Jim Chalmers earmarks funds for a year-long transition period.",
-        "Ban's original start date of 30 November is postponed.",
-        "Decision follows criticism and calls from small businesses."
       ]
     }
   ]
