@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-15T18:42:51.895257Z",
+  "generated": "2026-10-15T20:41:51.478568Z",
   "summaries": [
+    {
+      "summary": "London's Lion Green Road housing project wins the 2026 Stirling Prize for its integration into a green landscape.",
+      "significance": "The story highlights a new approach to high-density, affordable housing that integrates well with natural landscapes, potentially influencing future urban development projects.",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Lion Green Road comprises 157 homes across five 13-sided blocks.",
+        "The project won the UK's top architecture award from the Royal Institute of British Architects (Riba).",
+        "Designed to blend into an area of natural beauty, it includes community gardens and allotments."
+      ]
+    },
+    {
+      "summary": "The FBI investigates letters with an unknown substance sent to election officials in multiple states ahead of the midterms.",
+      "significance": "The investigation into letters with an \"unknown substance\" sent to election officials highlights security concerns just weeks before the US midterm elections.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+      "points": [
+        "Louisiana and Oklahoma election offices received envelopes with a powdery substance, causing evacuations.",
+        "A package with white powder intended for Ohio's secretary of state was intercepted by the US Postal Service.",
+        "The incidents occur just weeks before the US midterm elections in November."
+      ]
+    },
+    {
+      "summary": "Nigel Farage accused of supporting a Reform mayoral candidate who made racist remarks against David Lammy.",
+      "url": "https://www.theguardian.com/politics/2026/oct/15/farage-accused-protecting-reform-candidate-racist-slurs-david-lammy-itv-film",
+      "points": [
+        "ITV investigation reveals Farage was informed he was \"protecting\" the candidate.",
+        "Sarah Pochin, a Reform MP, complained about party officials being \"so fucking chauvinistic\".",
+        "The candidate reportedly told Lammy to \"go home to the Caribbean\"."
+      ]
+    },
+    {
+      "summary": "The author discusses adopting modern C conventions, focusing on changes in handling data types and compiler behaviors.",
+      "url": "https://abner.page/post/c23-conventions-1/",
+      "points": [
+        "The author requires callers to capture the rectangle of rendered elements to prevent business logic bugs.",
+        "Zardium suggested removing the 'auto' keyword in macros to make it act like the underscore in other languages.",
+        "The author notes a shift in how GCC and Clang handle union initialization, with C23 requiring whole union initialization."
+      ]
+    },
+    {
+      "summary": "An experiment created a two-player game called Chirp Pong using audio chirps for communication between phones.",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "points": [
+        "Uses web microphone API to interpret game state through audio noises",
+        "Designed as a competitive game with graphical and gameplay twists beyond traditional Pong",
+        "Demonstrates feasibility of static HTML two-player games using audio for networking"
+      ]
+    },
     {
       "summary": "A mother's skin-to-skin contact helps her premature son in Gaza through kangaroo care.",
       "significance": "Kangaroo mother care introduced in Gaza helps improve health outcomes for premature babies like Ilyas, providing critical support in a region with limited medical resources.",
@@ -3704,54 +3751,6 @@
         "Jim Chalmers earmarks funds for a year-long transition period.",
         "Ban's original start date of 30 November is postponed.",
         "Decision follows criticism and calls from small businesses."
-      ]
-    },
-    {
-      "summary": "A man found his parents' smart coffee machine used 1TB of data in 10 days, leading him to buy them a new one.",
-      "significance": "The story highlights the potential for smart home devices to cause network issues, affecting household internet performance and security.",
-      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "points": [
-        "The coffee machine generated 1TB of traffic in 10 days.",
-        "Most of the data stayed within the home network, not sent over the internet.",
-        "The device overwhelmed the home Wi-Fi setup, leading the man to disconnect it."
-      ]
-    },
-    {
-      "summary": "The Casuarina Linux project will be wound down, with updates stopping after October 2026.",
-      "url": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/",
-      "points": [
-        "Updates to Casuarina Linux will cease after the end of October 2026.",
-        "The project faced issues with C++ standard libraries that were unresolved.",
-        "The creator plans to migrate to Chimera Linux by the end of October 2026."
-      ]
-    },
-    {
-      "summary": "CLI tool ttok 0.4 updated with fixes and new features for token counting.",
-      "url": "https://simonwillison.net/2026/Oct/8/ttok/",
-      "points": [
-        "Fixed Click warning and updated CI.",
-        "Added --list-models command for listing available models.",
-        "Works with uvx for counting tokens in various files."
-      ]
-    },
-    {
-      "summary": "Ethiopian federal forces retake Mekelle, Tigray\u2019s capital, amid renewed fighting, raising concerns about regional intervention.",
-      "significance": "The renewed conflict in Tigray could extend beyond regional borders, involving neighboring countries and complicating Ethiopia\u2019s strategic ambitions for access to the Red Sea.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
-      "points": [
-        "Ethiopian federal forces used air power and ground forces to advance across Tigray, retaking Mekelle.",
-        "TPLF leader Debretsion Gebremichael pledged to continue fighting from the countryside.",
-        "Eritrean troops reportedly entering northern Tigrayan towns adds a regional dimension to the conflict.",
-        "Egypt, Eritrea, Sudan, and Somalia met on October 4 to discuss concerns over Ethiopia\u2019s regional ambitions."
-      ]
-    },
-    {
-      "summary": "Sydney's new public square plans are uncertain after the NSW government declared the project \"state significant.\"",
-      "significance": "NSW government intervention may alter or halt Sydney\u2019s planned public square project, shifting control from local to state authorities.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-public-square-controversy-state-government-intervention",
-      "points": [
-        "Lord Mayor Clover Moore had released designs in August for the space near Sydney\u2019s town hall.",
-        "The project, expected to be finished by 2031, includes a semi-circular clearing with a fountain and native trees."
       ]
     }
   ]
