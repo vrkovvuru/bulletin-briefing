@@ -2,48 +2,84 @@
   "date": "2026-10-14",
   "stories": [
     {
-      "title": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
-      "url": "https://www.aljazeera.com/news/2026/10/15/white-house-spokesperson-katie-zacharias-law-career-faces-scrutiny?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Katie Zacharia has repeatedly claimed to be a lawyer, but critics question whether she was ever licensed.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump suggests those who leak government information should ‘be shot’",
-      "url": "https://www.aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The US president has long been unhappy with inside information about his administration being leaked to the media.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Torrential rain has triggered flash floods across Istanbul.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
       "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
       "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Heavy rain causes mass pileup in Brazil tunnel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Flooding left vehicles piled up and people stranded inside Sao Paulo’s Anhangabau tunnel.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘I am still a child, it cannot be good to be married’: how drought forces Afghan families to sell girls as brides",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/afghanistan-drought-hunger-displaced-families-girls-child-marriage-poverty",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "As climate breakdown pushes families to starvation, many feel forced to ‘sacrifice’ daughters to save siblings. Photographer Elise Blanchard travelled the country speaking to girls as young as eight, 10 and 14 who have been engaged or married to repay debts or pay for food ‘I’m not happy about this,” says 11-year-old Khatira, who was sold into marriage to repay debts, sitting in her home in Qala-e-Naw, capital of Badghis province in north-west Afghanistan. “She was healthy before her engagement, now she is worried and cries a lot,” says her 40-year-old mother, Noor Bibi. When her 20-year-old husband-to-be comes to her home, Khatira runs away. Since her engagement, she has stopped going outside because she “is ashamed of having a husband in front of the other girls”, says her mother. Shepherds watch over their sheep in the hills of Bala-Murghab, Badghis province, north-west Afghanistan. By March, the pasture was already too dry for the season Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
+      "url": "https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The social platform says networks targeted US political debate across the spectrum ahead of midterm elections.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "A perfect storm: how the super El Niño is devastating the fishing industry",
+      "url": "https://www.theguardian.com/news/2026/oct/15/a-perfect-storm-how-the-super-el-nino-is-devastating-the-fishing-industry",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Peru’s anchoveta have made up about a 10th of the entire global commercial fishing catch since 1970, more than any other fish. A combination of warming seas and decades-long overfishing spells disaster On 10 June 2026, the government of Peru made a decision that it knew would hurt one of the world’s major fishing industries. It stopped all anchoveta fishing boats from going out to sea, suspending the fishing season. At first the order was temporary, but in mid-August, the suspension turned into a total closure . This was no easy call. For one thing, it was a brutal blow to the Peruvian economy. Peruvian anchovies – the scientific name is Engraulis ringens – are not the salty, punch-packing little fillets in a puttanesca sauce or caesar salad dressing. That is a different species – Engraulis encrasicolus – which is smaller, tastier and found mostly in the eastern Atlantic and the Mediterranean. Only a small part of Peru’s anchoveta catch is eaten in fish form. The rest – more than 90% – is immediately processed as fishmeal and fish oil, packed in sacks and barrels, and shipped to fish, shellfish and seaweed farms, factory farms and nutritional supplement producers around the world. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
+      "url": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The US President&#039;s ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "UK temperatures to rise to 23C before autumn chill sets in",
+      "url": "https://www.bbc.co.uk/weather/articles/c6d7qv73nldgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Warm air will bring unseasonable warmth to the south and east of the UK on Thursday but chillier conditions are set to spread to all areas by the weekend.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "How Gaza changed Europe, exposing cracks that grow bigger by the week | Shada Islam",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/15/how-gaza-changed-europe-exposing-cracks-that-grow-bigger-by-the-week",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Solidarity with Palestine’s suffering is punished but MEPs allow a witch-hunt of European Muslims For three painful years, Israel’s genocidal war in Gaza, in retaliation for the Hamas terror attacks on 7 October 2023, has killed more than 74,000 Palestinians , wounded thousands more and reduced most of the territory to rubble. It has changed views of Israel across the world , increased support for Palestine and raised questions about US power. Europe’s failure to hold Israel’s government to account has cost it global credibility and influence. But I fear something even more consequential than that: Gaza is changing Europe itself. Shada Islam is a Brussels-based commentator on EU affairs. She runs New Horizons project, a strategy, analysis and advisory company Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -56,39 +92,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Why Zelensky's meeting with Burnham matters",
-      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
+      "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
       "alsoReportedBy": []
     },
     {
-      "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-      "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ukrainian president accused US president of picking the other side after four years of war Volodymyr Zelenskyy has said he feels personally betrayed by Donald Trump after it emerged that Ukraine’s military has had its access to Elon Musk’s Starlink satellite squeezed, raising doubts about long-term US support for Kyiv. The Ukrainian president, on a visit to London, accused Trump of picking the other side after more than four years of war, risking a breakdown in relations already strained by the US agreeing to buy diesel from Moscow . Continue reading...",
+      "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
       "alsoReportedBy": []
     },
     {
-      "title": "The most important US midterm trends I’m seeing | Molly Jong-Fast",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The one I worry about most is voter anger – which both parties are not taking seriously enough That chill in the air you are feeling is not the weather, it is the Republicans freaking out about the 2026 midterm elections. Midterms are always referendums on the incumbent, though the party in power usually would rather they weren’t. This midterm feels less like a referendum on Trumpism than a dirge. It’s easy to see how Republicans got here, lulled into thinking that their guy, Donald Trump, could once again defy political gravity. Trump certainly thought he could. Molly Jong-Fast is the host of the Fast Politics pod, contributing writer for the times and an analyst for MS Now Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Try to eat really well, 80% of the time’: nutrition expert says healthy eating is easier than you think",
-      "url": "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Christopher Gardner, the author of Food Sense and director of nutrition studies at Stanford, says we have overcomplicated the question of what to eat Finally, some good news: eating well is more straightforward than you think. “There’s a lot of good science out there, and it mostly agrees,” says Stanford University’s director of nutrition studies and professor of medicine Christopher Gardner from his office in Palo Alto – beaming, bronzed and the picture of health. In the age of social media and wellness grift, we’ve overcomplicated the question of what to eat, he says. Continue reading...",
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
       "alsoReportedBy": []
     },
     {
@@ -101,21 +128,39 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australian politics live: Greens vow to table bill to block US execution livestream; government considering allowing individuals to sue tech platforms",
+      "title": "Australian politics live: Wells says ‘manosphere’ podcasts and moon landing conspiracies allowed under Labor duty of care reform",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Private health insurance changes ‘recalibrating precious taxpayer dollars’, says Wells The health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health insurance rebates for over-65s, after it was thrown out of the Senate by the crossbench and Coalition. It’s really important we reintroduce it, because we need to raise the level of support and resourcing for aged care. I was the aged care minister before being the communications minister, we need to work urgently. There’s not enough beds being built for older Australians who need that support. It’s recalibrating precious taxpayer dollars. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Victoria to become first state to make abortions free as Coalition matches Labor election promise",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Exclusive: Out-of-pocket costs for abortion care to be covered regardless of who wins November election as Jess Wilson says Liberals and Nationals ‘will not allow Labor to play politics on this issue’ Follow our Australian politics live blog for latest updates Get our breaking news email , free app or daily news podcast Victoria will become the first state in Australia to make access to abortion care free, no matter who wins the November election, with the Coalition matching Labor’s promise just hours after it was announced as it attempts to neutralise the issue. The opposition leader, Jess Wilson, on Thursday afternoon told Guardian Australia a Liberal National Coalition government would match Labor’s commitment to cover out-of-pocket costs for abortion care up to 16 weeks’ gestation. This would include GP and specialist consultations, scans, tests or medication, which can quickly add up to more than $1,000. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Greens senator Jordan Steele-John takes leave amid investigation into complaints",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/greens-senator-jordan-steele-john-leave-investigation-complaints-ntwnb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Steele-John said he rejected the claims and had referred them to the Western Australian Greens for a ‘fair, independent process’ Greens senator Jordon Steele-John has taken leave from the party room after complaints were made, triggering an independent review. The Nine newspapers reported on Thursday afternoon that seven party members demanded an investigation into allegations he made inappropriate comments to a number of women. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Talarico casts himself as a moderate who would put Texans’ needs over party allegiances amid close contest against Republican Ken Paxton James Talarico, the Texas Democratic nominee for Senate, sat face to face with several undecided voters who grilled him on a slew of contentious issues including Israel’s military campaign in Gaza, abortion and foreign aid, during a CNN town hall on Wednesday evening. One voter, a devout small business owner, questioned the authenticity of Talarico’s faith, referencing a past remark where he described God as nonbinary. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -128,57 +173,12 @@
       "alsoReportedBy": ["Guardian World"]
     },
     {
-      "title": "Diplomat Richard Haass discusses the Russia-Ukraine war and Trump's role",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-6000164/diplomat-richard-haass-discusses-the-russia-ukraine-war-and-trumps-role",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "NPR's Steve Inskeep speaks with veteran diplomat Richard Haass about the Russia-Ukraine war and the role President Trump is playing.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Labor and Coalition block bill that would ban incarcerated women being shackled in childbirth",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/labor-coalition-bill-banning-shackling-incarcerated-women-ntwnfb",
+      "title": "Senior Victorian public servants hid loss of up to $285m from Covid grants given to ineligible businesses",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/vic-gov-hid-285m-loss-from-covid-grants-corruption-watchdog-ibac-finds-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Liberal Paul Scarr breaks ranks to condemn major parties, saying he will write to Queensland attorney general Follow our Australian politics live blog for latest updates Get our new political email , free app or daily news podcast Labor and the Coalition have blocked a vote on a bill that would have banned the shackling of incarcerated women during childbirth, with the government saying it was the responsibility of the states and territories. Independent senator Lidia Thorpe introduced the bills into the Senate, which would prevent shackling and stop children being strip-searched. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "As One Nation rises, Victorian Labor has promised to make abortions free. Is the timing pure politics?",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/victorian-state-election-labor-pledges-free-abortion-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Facing the prospect of election defeat, Labor is hoping to make abortion a defining issue as the Liberals attempt to stave off claims they would oversee a rollback Follow our Australian politics live blog for latest updates Get our new political email , free app or daily news podcast Victorian Labor’s plan to make abortion free has been years in the making. But make no mistake: the timing of the announcement is pure politics. On Thursday morning, the state’s health minister, Ingrid Stitt, announced if re-elected in November, Labor would invest $30m over four years to remove the out-of-pocket cost of abortion care, which can quickly add up to more than $1,000. Benita Kolovos is Guardian Australia’s Victorian state correspondent Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Kenya confirms second Ebola case - a relative of the first victim",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "summary": "Whistleblowers applauded as Ibac finds ‘decisions were made to withhold information about the magnitude of the loss’ Senior public servants in one state covered up losses suspected to be worth hundreds of millions of dollars arising from flawed Covid-19 business support payments, an investigation has found. During the pandemic, the Victorian government spent an estimated $257m on support grants to 9,000 ineligible businesses. Follow our Australia politics live blog for latest updates Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -209,8 +209,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "OpenCode 2.0",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "title": "Future of Cancer Care Today (FCCT)",
+      "url": "https://sijbrandijfoundation.org/fcct",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,8 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "title": "One in ten people are older than 65. Three in four live under a leader who is",
+      "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",

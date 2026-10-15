@@ -1,6 +1,99 @@
 {
-  "generated": "2026-10-15T02:41:18.451855Z",
+  "generated": "2026-10-15T04:42:17.122017Z",
   "summaries": [
+    {
+      "summary": "Heavy rain led to a mass pileup inside Sao Paulo\u2019s Anhangabau tunnel, stranding people until floodwaters receded.",
+      "significance": "Heavy rain-induced flooding in Sao Paulo\u2019s Anhangabau tunnel stranded people, highlighting risks of extreme weather on infrastructure.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
+      "points": [
+        "Vehicles were piled up in Sao Paulo\u2019s Anhangabau tunnel due to flooding.",
+        "Rescue teams could only reach stranded individuals after floodwaters receded.",
+        "Heavy rain was the cause of the flooding and subsequent pileup."
+      ]
+    },
+    {
+      "summary": "Drought in Afghanistan forces families to marry off young daughters to repay debts or buy food.",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/afghanistan-drought-hunger-displaced-families-girls-child-marriage-poverty",
+      "points": [
+        "11-year-old Khatira was sold into marriage to repay debts in Qala-e-Naw.",
+        "Khatira, now worried and crying, avoids going outside due to shame.",
+        "Photographer Elise Blanchard documented cases of young girls, as young as eight, being married."
+      ]
+    },
+    {
+      "summary": "Peru suspended anchoveta fishing due to El Niño and overfishing, severely impacting the global fishing industry.",
+      "url": "https://www.theguardian.com/news/2026/oct/15/a-perfect-storm-how-the-super-el-nino-is-devastating-the-fishing-industry",
+      "points": [
+        "Peru halted anchoveta fishing on 10 June 2026, later making it a total closure.",
+        "Anchoveta make up about 10% of global commercial fishing catches since 1970.",
+        "Over 90% of Peru\u2019s anchoveta catch is processed into fishmeal and fish oil for global markets."
+      ]
+    },
+    {
+      "summary": "Gaza conflict impacts Europe, increasing support for Palestine and questioning US influence.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/15/how-gaza-changed-europe-exposing-cracks-that-grow-bigger-by-the-week",
+      "points": [
+        "Over 74,000 Palestinians killed since Israel\u2019s retaliation began in October 2023.",
+        "Europe's failure to hold Israel accountable damages its global credibility.",
+        "Conflict raises questions about US power and increases global support for Palestine."
+      ]
+    },
+    {
+      "summary": "Victoria will become the first Australian state to offer free abortion care, with both major parties promising to cover costs up to 16 weeks.",
+      "significance": "Victoria将成为澳大利亚首个提供免费堕胎服务的州，无论哪个政党获胜，这改变了堕胎服务的可负担性。",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
+      "points": [
+        "Coalition matches Labor's promise to cover abortion costs up to $1,000.",
+        "Free access applies to consultations, scans, tests, and medication.",
+        "Commitment is effective regardless of the November election outcome."
+      ]
+    },
+    {
+      "summary": "Greens senator Jordan Steele-John takes leave due to complaints of inappropriate comments.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/greens-senator-jordan-steele-john-leave-investigation-complaints-ntwnb",
+      "points": [
+        "Seven party members demanded an investigation into the allegations.",
+        "Steele-John referred the claims to Western Australian Greens for an independent process.",
+        "The complaints involve inappropriate comments made to several women."
+      ]
+    },
+    {
+      "summary": "Texas Democratic Senate nominee James Talarico faced voter scrutiny on various issues during a CNN town hall.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
+      "points": [
+        "Talarico, a Democrat, is competing against Republican Ken Paxton in a tight Senate race.",
+        "Voters questioned Talarico on topics such as Israel\u2019s Gaza campaign, abortion, and foreign aid.",
+        "A voter challenged Talarico\u2019s religious beliefs, citing his previous nonbinary description of God."
+      ]
+    },
+    {
+      "summary": "Senior Victorian public servants concealed a potential $285m loss from fraudulent Covid grants.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/vic-gov-hid-285m-loss-from-covid-grants-corruption-watchdog-ibac-finds-ntwnfb",
+      "points": [
+        "$257m spent on grants to 9,000 ineligible businesses.",
+        "Loss magnitude concealed by senior public servants, whistleblowers commended.",
+        "Ibac investigation revealed decisions to withhold information on the loss."
+      ]
+    },
+    {
+      "summary": "FCCT aids cancer patients by providing non-clinical support through curated diagnostic and treatment options beyond standard care.",
+      "significance": "FCCT provides cancer patients and families with curated, advanced diagnostic and treatment information beyond standard care, aiding informed decision-making.",
+      "url": "https://sijbrandijfoundation.org/fcct",
+      "points": [
+        "FCCT offers playbooks and resources to help patients ask better questions to their doctors.",
+        "Services include tumor tissue preservation for future testing and molecular profiling of tumors.",
+        "FCCT lists various diagnostic and treatment options from different countries, all physician-ordered."
+      ]
+    },
+    {
+      "summary": "Most global leaders are older than 65, with significant age gaps between leaders and their populations.",
+      "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
+      "points": [
+        "Paul Biya, Cameroon\u2019s 93-year-old president, leads a country with a median age of 18.",
+        "Three in four people globally live under a leader over 65, with two in three having a leader over 70.",
+        "The median age of leaders globally is around 64, significantly older than the median population age."
+      ]
+    },
     {
       "summary": "Istanbul faces severe chaos due to the heaviest rainfall since 1985, causing floods and landslides.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
@@ -3660,101 +3753,6 @@
         "Anwarite, the student, graduated with a degree in Language Studies from the University of Dar es Salaam.",
         "The master's program for Anwarite costs about $1,161.",
         "The initiative, now called the Tanzania Education Project, supports five students from Ibumila, covering school fees and healthcare."
-      ]
-    },
-    {
-      "summary": "Premier League returns after international break with Manchester City facing fan backlash.",
-      "significance": "The return of the Premier League follows the Manchester City verdict, likely changing fan receptions and playing styles across teams.",
-      "url": "https://www.theguardian.com/sport/live/2026/oct/08/football-qa-ask-ed-aarons-your-questions-as-the-premier-league-returns",
-      "points": [
-        "Manchester City faces vociferous reception from rival fans, especially at Anfield.",
-        "Liverpool supporters expected to have a planned response for City's visit.",
-        "Premier League sees a shift towards more direct play, moving away from possession-based strategies."
-      ]
-    },
-    {
-      "summary": "Christa Pike, who survived a botched execution in Tennessee, is now walking, showing a dramatic recovery.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/08/christa-pike-health-update",
-      "points": [
-        "Pike survived two lethal injections during the failed execution in Tennessee.",
-        "She was initially declared brain dead but began speaking the next day.",
-        "Her case has intensified criticism against the death penalty in the US."
-      ]
-    },
-    {
-      "summary": "Hurricane Isaias, the first of the 2026 Atlantic season, threatens the US Gulf coast with millions under warnings.",
-      "significance": "The story matters as it alerts millions to impending dangers from Hurricane Isaias, emphasizing evacuation orders and the severity of potential storm surges and flooding.",
-      "url": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
-      "points": [
-        "Hurricane Isaias intensified from a tropical storm on Wednesday night.",
-        "Millions from Louisiana to Florida are under hurricane warnings.",
-        "Officials warn of dangerous storm surge, hurricane-force winds, heavy rainfall, and flooding."
-      ]
-    },
-    {
-      "summary": "Former Labour MP Shahid Malik cleared of charges related to a fraudulent Covid-19 testing company.",
-      "url": "https://www.theguardian.com/world/2026/oct/08/former-labour-mp-shahid-malik-cleared-over-role-fraudulent-covid-19-testing-company",
-      "points": [
-        "Malik had a 'very limited' role in the company that earned £6.67m in three weeks.",
-        "The former justice minister served in Gordon Brown\u2019s government.",
-        "Shahid Malik was MP for Dewsbury from 2005 to 2010."
-      ]
-    },
-    {
-      "summary": "One Nation\u2019s AI-generated campaign video, shown at their Victorian launch, features racist tropes, highlighting the need for stricter watchdog powers.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/09/one-nations-ai-video-is-vile-and-tired-but-the-ensloppification-of-australian-politics-doesnt-stop-there-ntwnfb",
-      "points": [
-        "Video depicts racist imagery including a man with a machete, a person with an explosive vest, and discussions on mass migration and welfare.",
-        "The inflammatory content was reportedly played at One Nation\u2019s Victorian campaign launch over the weekend.",
-        "The article argues for increased powers for watchdogs to address unrestricted AI in online politicking."
-      ]
-    },
-    {
-      "summary": "The article discusses the evolution and design of DVD menus, highlighting their interactive features and technical limitations.",
-      "url": "https://vale.rocks/posts/dvd-menus",
-      "points": [
-        "DVD menus became widespread in the 2000s, offering interactive options like play buttons, chapter selections, and special features.",
-        "DVD menus typically have a resolution of 720 × 480 pixels in NTSC regions and 720 × 576 pixels in PAL regions, reflecting the D1 video standard.",
-        "Disney's FastPlay feature automatically starts playing the disc's content, often including trailers, upon loading a DVD."
-      ]
-    },
-    {
-      "summary": "An AI model, Opus 5.5, was tasked with visualizing cities from Italo Calvino's \"Invisible Cities\" in six hours, resulting in impressive interactive designs.",
-      "significance": "This story showcases the advanced capabilities of AI in visualizing complex literary concepts, demonstrating significant progress in AI-assisted design and interpretation.",
-      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
-      "points": [
-        "Opus 5.5 completed the task in 1 hour 25 minutes, using an equivalent of 7 agent-hours.",
-        "The visualization was based on a prompt to create a three.js masterpiece of Calvino's cities.",
-        "GPT-6 Astra outperformed earlier models, solving more Baba Is You levels and identifying mushrooms more accurately."
-      ]
-    },
-    {
-      "summary": "Russian missile strike on a bus in Kramatorsk killed at least 30 people and wounded 18.",
-      "significance": "The attack highlights Russia's continued targeting of civilians in Ukraine, escalating the human cost of the conflict.",
-      "url": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
-      "points": [
-        "Attack occurred in the eastern city of Kramatorsk, Ukraine.",
-        "Regional prosecutor\u2019s office reported the death toll rose to 30.",
-        "All local public transport was suspended following the attack."
-      ]
-    },
-    {
-      "summary": "NBA Europe's $10bn basketball league, launching in 2028, attracts major European football clubs with franchise bids.",
-      "url": "https://www.theguardian.com/sport/2026/oct/08/basketball-nba-europe-launch-franchise-football",
-      "points": [
-        "Launch delayed to 2028, with a pre-qualifying competition in 2023 for temporary members.",
-        "NBA plans $10bn investment over 10 years, aiming for 16-team league.",
-        "Franchise bids exceed targets, with prices ranging from $500m to over $1bn for the London spot."
-      ]
-    },
-    {
-      "summary": "Asos reveals hackers accessed customers' names, addresses, phone numbers, and search histories, but not payment details.",
-      "significance": "The hack exposes Asos customers' personal data, including search histories, highlighting vulnerabilities in retail cybersecurity.",
-      "url": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
-      "points": [
-        "Hackers accessed millions of users' personal data including names, addresses, and phone numbers.",
-        "Search histories with terms like \u201cglamorous wide fit\u201d and \u201cAsos petite\u201d were also compromised.",
-        "The cyber attack was revealed after app users received a notification titled \u201cAsos hacked.\u201d"
       ]
     }
   ]
