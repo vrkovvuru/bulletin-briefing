@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-16T00:41:26.576855Z",
+  "generated": "2026-10-16T02:41:46.119823Z",
   "summaries": [
+    {
+      "summary": "Jamaica's petition for slavery reparations from the UK will be heard by the UK Privy Council in March 2027.",
+      "significance": "Jamaica's petition for slavery reparations to be heard by UK privy council in 2027 marks a significant step in seeking legal advice on historical injustices.",
+      "url": "https://www.theguardian.com/world/2026/oct/16/jamaica-slavery-reparations-petition-heard-uk-privy-council-march-2027-king-charles",
+      "points": [
+        "Olivia Grange, Jamaica\u2019s minister of culture, confirmed the provisional hearing date.",
+        "The UK has until November 2023 to file its case.",
+        "The Privy Council is the final court of appeal for UK overseas territories and some Commonwealth countries."
+      ]
+    },
+    {
+      "summary": "Police identified the remains found in a barrel in Lake Mead as Edward Lelburian Jackson.",
+      "significance": "The identification of Edward Lelburian Jackson's remains solves a mystery that began with his discovery in drought-revealed Lake Mead in 2022.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/15/edward-lelburian-jackson-barrel-lake-mead",
+      "points": [
+        "Edward Lelburian Jackson's remains were found in 2022.",
+        "Initial autopsy showed Jackson was killed decades ago.",
+        "Clark county coroner Melanie Rouse revealed his identity four years later."
+      ]
+    },
+    {
+      "summary": "RPKI now protects 70% of internet routes, up from 54% a year ago, significantly enhancing internet security.",
+      "significance": "RPKI's protection of 70% of internet routes enhances global cybersecurity by preventing routing errors and malicious traffic redirection.",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "points": [
+        "China's RPKI-protected IPv4 addresses surged from 3.7% to 83% in a year.",
+        "RPKI protection increased by 16.4 percentage points in the last year, more than the previous two years combined.",
+        "Invalid RPKI routes are seen by fewer vantage points, indicating effective filtering by networks."
+      ]
+    },
+    {
+      "summary": "Meta's new commercial terms, starting Oct. 30, will allow scraping of news sites linked to business accounts on its platforms.",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "points": [
+        "Business accounts must consent to scraping if they continue using Meta services.",
+        "Scraping can be used to train Meta\u2019s AI products, according to legal experts.",
+        "No opt-out option exists before Oct. 30, forcing publishers to stop using Meta services to avoid consent."
+      ]
+    },
+    {
+      "summary": "Rust 1.99.1, a new point release, fixes several regressions from prior versions.",
+      "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+      "points": [
+        "Rust 1.99.1 adds a function to its compiler-builtins library as a fallback.",
+        "The update resolves an issue where certain UEFI targets were broken for projects using specific calls.",
+        "A problem with the return register in FFI calls has been fixed, ensuring proper zero-extension."
+      ]
+    },
     {
       "summary": "A new same-day metagenomic test at Great Ormond Street Hospital detects hidden infections in critically ill children, improving treatment outcomes.",
       "significance": "The same-day metagenomics test allows doctors to detect and treat hidden infections more effectively in critically ill children, improving patient outcomes.",
@@ -3706,53 +3754,6 @@
         "The project uses a small macOS CLI and an agent skill to display non-intrusive, click-through arrows.",
         "It supports multiple displays and macOS Spaces, disappearing automatically after use.",
         "The tool does not capture or click anything, only points at specific UI elements for user interaction."
-      ]
-    },
-    {
-      "summary": "Let\u2019s Encrypt will switch to 64-day certificate lifetimes starting February 10, 2027.",
-      "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
-      "points": [
-        "All certificates issued or renewed from February 10, 2027, will have a 64-day validity period.",
-        "Last 90-day certificate will expire on May 11, 2027.",
-        "Testing for the change will be enabled on October 14, 2026."
-      ]
-    },
-    {
-      "summary": "Microsoft introduces MXC, a sandboxed code execution system for secure and isolated workload execution across multiple platforms.",
-      "url": "https://github.com/microsoft/mxc",
-      "points": [
-        "MXC supports various containment backends including OS-native process sandboxes, full VMs, Bubblewrap, and MicroVM.",
-        "SDKs available in Rust,.NET, and Node for integrating MXC into applications.",
-        "Telemetry is optional and requires explicit user consent and administrative policy permission."
-      ]
-    },
-    {
-      "summary": "Egyptian journalists plan to protest in Cairo this weekend over the detention and alleged torture of six colleagues charged with terrorism.",
-      "significance": "Egyptian journalists plan to protest the detention of six colleagues charged with terrorism, alleging torture and forced confessions, highlighting ongoing repression and censorship.",
-      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "points": [
-        "Six journalists from Matsadaash were arrested last week and charged with terrorism.",
-        "The journalists are accused of working for the outlawed Muslim Brotherhood.",
-        "Protest planned in Cairo this weekend against the detentions and allegations of torture."
-      ]
-    },
-    {
-      "summary": "A professor discusses the issues with undefined behavior in the C programming language and efforts to improve memory safety.",
-      "url": "https://lwn.net/Articles/1095811/",
-      "points": [
-        "Martin Uecker, a biomedical engineering professor and longtime Linux user, spoke about C's undefined behavior.",
-        "C's undefined behavior allows compilers significant freedom but can lead to security risks and disagreements among developers.",
-        "Efforts are underway to reduce undefined behavior, with about 100 instances currently identified in the C standard."
-      ]
-    },
-    {
-      "summary": "Bevy 0.20 introduces major updates to its game engine, including improvements to its renderer, new UI widgets, and adoption of WESL shader language.",
-      "significance": "Bevy 0.20 introduces significant improvements to its game engine, including a faster and more accurate renderer and new UI toolkit features, affecting game developers using Rust.",
-      "url": "https://bevy.org/news/bevy-0-20/",
-      "points": [
-        "Solari, Bevy's renderer, is faster, more accurate, and now supports macOS via Metal.",
-        "Bevy Feathers adds new UI widgets like Color Input, Scrollable List View, and Dropdown Selection.",
-        "Bevy adopts WESL shader language, allowing for custom shader materials for Sprites and 2D mesh materials."
       ]
     }
   ]
