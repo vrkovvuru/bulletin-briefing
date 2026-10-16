@@ -2,13 +2,49 @@
   "date": "2026-10-16",
   "stories": [
     {
-      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-      "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post .",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
+    },
+    {
+      "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+      "url": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans&#039; behaviour during Egypt friendly.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Amid talk of public execution, public opinion on death penalty is split",
+      "url": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A majority of Americans support the death penalty for people convicted of murder, but support becomes more divided when questions vary.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+      "url": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Experts still consider race a toss up despite slate of polls showing right-wing senator leading left-wing president.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
+      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "alsoReportedBy": []
     },
     {
       "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
@@ -20,75 +56,57 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Sheikh Mohammed also discussed Israeli &#039;violations&#039; in Lebanese territory with Prime Minister Nawaf Salam.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
-      "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-      "url": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
-      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "EU leaders rally around Ukraine's leader after Donald Trump says he is \"more difficult to work with than Putin\".",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
       "alsoReportedBy": []
     },
     {
-      "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
+      "title": "The artisanal miners behind Nigeria’s lithium boom",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/the-artisanal-miners-behind-nigerias-lithium-boom?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Qatar’s prime minister and minister of foreign affairs has reaffirmed his country’s support for Lebanon.",
+      "summary": "Nasarawa is at the heart of Nigeria’s lithium boom, where artisanal miners hope to benefit from the clean energy race.",
       "alsoReportedBy": []
     },
     {
-      "title": "Lions lock Hyron Andrews dies at team hotel before Champions Cup game against La Rochelle",
-      "url": "https://www.theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle",
+      "title": "Of course Trump is helping Russia in Ukraine – he’s a master of the art of betrayal | Jonathan Freedland",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "SA Rugby said Andrews fell at hotel in tragic accident Squad will play on Saturday to honour teammate Tributes have been paid to Johannesburg Lions’ Hyron Andrews after he died in the team hotel on the eve of their Champions Cup game against La Rochelle. Andrews, 31, who also played for the KZN Sharks and Sale Sharks, could not be revived by emergency services after the alarm was raised at the Atalante-Relais Thalasso hotel on the Île de Ré. A statement from SA Rugby said the lock forward had “passed away tragically” after an accident in which he fell. Continue reading...",
+      "summary": "The old certainties have gone. We will have to spend whatever it takes to protect ourselves in this new and dangerous world Donald Trump must find it oddly frustrating. He keeps showing the world exactly who he is, and yet the world keeps refusing to believe it. As clearly as he can, he is announcing that he is not the leader of the free world, that he is not even a reliable member of the democratic west, that he is in fact an ally of its enemies – but the west, including Britain, either doesn’t fully get the message or can’t quite bring itself to draw the obvious conclusion. Trump had another go this week, finding multiple ways to declare that in the war between Russia and Ukraine, he is no mediator or peace broker but a partner of Vladimir Putin. In fairness to him, the US president had loudly issued that declaration within weeks of his return to the White House when, in February 2025, he delivered an on-camera dressing down of Volodymyr Zelenskyy in the Oval Office, seeking to humiliate the Ukrainian leader by telling him “you don’t have the cards”, even as JD Vance demanded their visitor show gratitude. That should have made Trump’s position sufficiently plain, but in the past few days he has all but put it up in lights. Jonathan Freedland is a Guardian columnist US midterms: Trump, war and America’s future On Thursday, 5 November join Jonathan Freedland, Devika Bhat, Professor Adam Smith in London and David Smith and leading US commentator Tara Setmayer live from the US to discuss the results and their implications for the future of Trump, the US and global politics. Book tickets here or at guardian.live Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Mikel Arteta defends job cuts at Arsenal to help club ‘evolve and create success’",
+      "url": "https://www.theguardian.com/football/2026/oct/16/mikel-arteta-defends-job-cuts-at-arsenal-to-help-club-evolve-and-create-success",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Up to 60 roles at risk after structural review Arteta signed new deal worth more than £20m a season Mikel Arteta has defended Arsenal’s decision to cut up to 60 jobs and insisted it was felt necessary to ensure they can continue achieving success. The Premier League champions are understood to have informed the staff whose positions are at risk after a consultation process started by Boston Consulting Group (BCG) before the end of last season. Arsenal hope the number of redundancies can be reduced and will attempt to redeploy affected employees wherever possible, although some job losses may be unavoidable. Continue reading...",
       "alsoReportedBy": ["BBC News"]
     },
     {
-      "title": "Fiery speeches, LED hats and infighting: inside an Alberta separatist conference",
-      "url": "https://www.theguardian.com/world/2026/oct/16/fiery-speeches-led-hats-and-infighting-inside-an-alberta-separatist-conference",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "WeUnify’s Reclaiming Alberta brought together ardent supporters of independence from Canada while highlighting key disagreements over strategy – not least how close a free Alberta should be to the US The debate began with a simple question in a dark Calgary hotel ballroom: does Alberta need Canada? By the time the audience was asked to vote at the end, more than three-quarters had answered no – a decisive measure of the convictions of a room packed with some of Alberta’s most ardent independence supporters, some of whom had paid C$900 (£480) for a “visionary” weekend pass. Continue reading...",
+      "title": "New White House press secretary faces more scrutiny – this time from Trump-friendly Fox News",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/white-house-press-secretary-katie-zacharia-fox-news",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Katie Zacharia made the rounds at the conservative news channel to defend her appointment as Trump’s mouthpiece US politics live – latest updates Katie Zacharia, the new White House press secretary , faced intense scrutiny from news outlets including the rightwing cable network Fox News amid growing questions over her legal credentials. During an appearance on Fox on Friday – her fifth day as Donald Trump’s chief spokesperson – Zacharia was asked if she still has the confidence of the US president. “I’m standing here,” she replied. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
+      "title": "Pope has called Putin to request supplies and evacuation for occupied city of Oleshky – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Vatican says Pope Leo – still in hospital after his lung surgery earlier this week – spoke with Russian president Vladimir Putin this afternoon Analysis: Power plant attacks reflect Russian blueprint to make Ukrainian cities unliveable Several leaders offered Zelenskyy very friendly welcome or, in some cases, simply a big hug as he walked into the room before the formal part of the meeting got under way. Speaking to Newsmax last night, Donald Trump repeated his views of the two leaders involved in the conflict. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -98,15 +116,6 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Russian authorities say Ukraine struck a major oil refinery southeast of Moscow Thursday. The strike was in response to Russia's attacks on Ukrainian energy infrastructure.",
       "alsoReportedBy": []
     },
     {
@@ -128,12 +137,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "summary": "Russian authorities say Ukraine struck a major oil refinery southeast of Moscow Thursday. The strike was in response to Russia's attacks on Ukrainian energy infrastructure.",
       "alsoReportedBy": []
     },
     {
@@ -146,44 +155,44 @@
       "alsoReportedBy": []
     },
     {
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-      "alsoReportedBy": ["BBC World", "Guardian World"]
-    },
-    {
-      "title": "Neet rates higher in England’s smaller cities and towns than in biggest cities",
-      "url": "https://www.theguardian.com/society/2026/oct/16/neet-rates-england-smaller-cities-towns-youth-unemployment-training",
+      "title": "Target pensions or welfare, not banks, IMF tells John Healey",
+      "url": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Initiatives to address youth employment crisis and offer training are being launched in towns such as Telford Smaller cities and towns across England have higher rates of young people not in employment, education or training than the nine largest cities, analysis shows. The Centre for Cities, an independent thinktank dedicated to improving the economies of the UK, used 2021 census data to work out the rates across 41 cities and towns in England. Continue reading...",
+      "summary": "Supporters of planned tax, however, say banks were bailed out by taxpayers during financial crisis and can afford to pay more now John Healey poised to raise taxes on banks in budget The International Monetary Fund has urged John Healey to target savings on pensions and welfare, instead of taxing Britain’s banks at the budget later this month. Helge Berger, deputy director of the IMF’s European department, was asked about bank taxes after the Guardian revealed Healey plans to tap the sector for additional revenue. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+      "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unliveable",
+      "url": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report . More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, according to HIV Justice Network , an organisation quoted in the Human Rights Watch (HRW) report. Among these, at least 84 were charged with “voluntary HIV transmission”, solely on the basis of their HIV status. Continue reading...",
+      "summary": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozen Europe live – latest updates As Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages have increasingly resembled a supposed Russian blueprint to destroy life in major Ukrainian cities seen by the Guardian. Even as Donald Trump unilaterally declared an “energy ceasefire” last week between Moscow and Kyiv, Russia continued with its methodical and devastating strikes on Ukraine’s power grid, in particular in Kyiv, in a strategy meant to punish Ukraine’s population and drive the country to capitulation. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "I Love Software Rendering",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "title": "Judi Dench joins calls by The Archers cast to keep show in Birmingham",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/16/judi-dench-archers-cast-bbc-birmingham-studio",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The actor, who made a cameo in the Radio 4 drama in 1989, has signed a letter urging BBC not to move studio elsewhere The cast and crew behind The Archers, including the one-time guest star Judi Dench, have written to the BBC director general urging him to keep the recording of the Radio 4 drama in Birmingham. It emerged this week that the corporation was planning to stop recording the rural community soap opera in the city for the first time in the show’s 75-year history, after it scrapped plans for a radio drama studio. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,17 +209,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Pulse: OpenAI software engineer accused of spying",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
-      "source": "Pragmatic Engineer",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "The road to iroh 1.0",
-      "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
+      "title": "Why are we even doing all this?",
+      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,12 +227,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Gyroscopes Got So Small [video]",
-      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
-      "source": "Hacker News",
+      "title": "The Pulse: OpenAI software engineer accused of spying",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "",
+      "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
       "alsoReportedBy": []
     },
     {
@@ -245,15 +254,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
-      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Building resilient AI-powered software, and planning for when things go wrong",
       "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
       "source": "Pragmatic Engineer",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "My C23 Conventions",
-      "url": "https://abner.page/post/c23-conventions-1/",
+      "title": "The road to iroh 1.0",
+      "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",

@@ -1,6 +1,99 @@
 {
-  "generated": "2026-10-16T14:41:45.841633Z",
+  "generated": "2026-10-16T16:43:08.304947Z",
   "summaries": [
+    {
+      "summary": "Columnist argues Trump openly supports Russia in the Ukraine conflict, yet the West remains in denial.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
+      "points": [
+        "Trump's stance evident since his 2025 return to the White House.",
+        "Trump humiliated Ukrainian leader Zelenskyy in an Oval Office meeting.",
+        "Freedland suggests Trump sees himself as an ally of Russia, not the democratic West."
+      ]
+    },
+    {
+      "summary": "Arsenal manager Mikel Arteta defends job cuts at the club to ensure future success.",
+      "significance": "Job cuts at Arsenal aim to ensure continued success, affecting up to 60 staff members.",
+      "url": "https://www.theguardian.com/football/2026/oct/16/mikel-arteta-defends-job-cuts-at-arsenal-to-help-club-evolve-and-create-success",
+      "points": [
+        "Up to 60 roles at risk following a structural review.",
+        "Arteta signed a new deal worth over £20m per season.",
+        "Arsenal aims to reduce redundancies and redeploy affected employees."
+      ]
+    },
+    {
+      "summary": "New White House press secretary Katie Zacharia faced scrutiny from Fox News about her qualifications and the president's confidence in her.",
+      "significance": "The story highlights increased scrutiny of Zacharia from Fox News, indicating potential divisions or doubts within Trump-friendly media about her appointment.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/white-house-press-secretary-katie-zacharia-fox-news",
+      "points": [
+        "Zacharia appeared on Fox News five days into her role.",
+        "She was questioned about her legal credentials and the president's confidence.",
+        "Zacharia's response to confidence queries was simply, \"I\u2019m standing here."
+      ]
+    },
+    {
+      "summary": "Pope Leo, recovering from surgery, called Putin to request supplies and evacuation for Oleshky.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
+      "points": [
+        "Pope Leo spoke with Putin despite being hospitalized post-lung surgery.",
+        "The call aimed to secure supplies and evacuation for the occupied Ukrainian city of Oleshky.",
+        "Zelenskyy received warm welcomes and hugs from leaders at a recent meeting."
+      ]
+    },
+    {
+      "summary": "IMF advises John Healey to cut pensions and welfare, not tax banks, contrary to his budget plans.",
+      "url": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
+      "points": [
+        "IMF suggests targeting pensions and welfare savings instead of banks.",
+        "John Healey plans to introduce bank taxes in the upcoming budget.",
+        "Supporters argue banks should contribute more due to past bailouts."
+      ]
+    },
+    {
+      "summary": "Russian attacks on Ukrainian power plants aim to make major cities unliveable, despite Trump's call for an energy ceasefire.",
+      "url": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
+      "points": [
+        "Russian strikes target Kyiv and Kharkiv power plants, causing blackouts and water outages.",
+        "Attacks reflect a Russian strategy to punish Ukraine\u2019s population and force capitulation.",
+        "Trump's unilateral declaration of an \"energy ceasefire\" was ignored by Russia."
+      ]
+    },
+    {
+      "summary": "Charles C Mann explores the high-cost material Dekton after purchasing a pricey induction cooktop that required a separate, expensive cooking surface.",
+      "significance": "The story highlights the resurgence of high-tech ceramics like Dekton, underscoring the significant role of materials science in transforming the physical world.",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "points": [
+        "Dekton, invented by Cosentino in 2013, is a heat, pressure, scratch, shatter, and stain-resistant material.",
+        "Dekton is essentially porcelain, a material with origins over 3,000 years old.",
+        "The creation of porcelain involves heating kaolin clay to about 1,200 degrees centigrade, forming a dense, translucent matrix."
+      ]
+    },
+    {
+      "summary": "Researchers exploited a 37-year-old kernel bug in OpenBSD, leading to local privilege escalation to root.",
+      "url": "https://calif.io/research/big-fish",
+      "points": [
+        "The bug involved a signed 16-bit short counter for shared memory attachments, maxing at 32,767.",
+        "Exploitation required forking 259 processes to wrap the counter to -32,643, enabling a use-after-free.",
+        "OpenBSD's kernel memory allocators lack base address randomization, making early boot allocations predictable."
+      ]
+    },
+    {
+      "summary": "Apple's MLX framework enables running large language models like Muse Spark Open on Mac Studio with Apple silicon.",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "points": [
+        "Muse Spark Open, a model with nearly a trillion parameters, runs at over 36 tokens per second on a cluster of four Mac Studios.",
+        "The M5 Ultra chip in Mac Studio offers up to 4.6× faster time to first token (TTFT) compared to the M3 Ultra.",
+        "Mac Studio with M5 Ultra consumes 300W peak power, making it energy-efficient for AI work in home or office environments."
+      ]
+    },
+    {
+      "summary": "A theoretical physicist discusses the impact of AI-generated mathematical papers, suggesting a shift in academic priorities towards efficiency over comprehension.",
+      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+      "points": [
+        "In early October, OpenAI generated a list of 700 obscure mathematical facts.",
+        "The author, a physicist, views this as a move towards Borges' Library of Babel concept.",
+        "Academics generally agree that the goal is to accumulate potentially true facts, regardless of comprehensibility."
+      ]
+    },
     {
       "summary": "Hyron Andrews, a rugby player for Johannesburg Lions, died in a hotel fall before a Champions Cup match.",
       "significance": "The death of Hyron Andrews affects his teammates, family, and fans, and leads to tributes and a game played in his honor.",
@@ -3658,99 +3751,6 @@
         "Execution of Nidal Malik Hasan set for December 3.",
         "Hasan, convicted of killing 13 at Fort Hood military base in 2009.",
         "Plan described as \"barbaric,\" drawing comparisons to regimes in Iran and Afghanistan."
-      ]
-    },
-    {
-      "summary": "A 7.6-magnitude earthquake hit Panama, causing tsunami warnings in multiple countries.",
-      "significance": "The story matters because it alerts coastal communities in multiple countries to potential hazardous waves, prompting necessary precautions and responses.",
-      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-      "points": [
-        "The quake struck along Panama's southern coast, felt in Panama City.",
-        "Tsunami warnings issued for Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador, and Mexico.",
-        "The event was reported by the US Geological Survey (USGS)."
-      ]
-    },
-    {
-      "summary": "Rivals prepare for byelection in Farage's Clacton seat as £5m gift inquiry nears conclusion.",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/nigel-farage-byelection-clacton-seat-speculation-5m-gift-inquiry",
-      "points": [
-        "Tories ready to contest Clacton seat in upcoming byelection.",
-        "Speculation suggests standards inquiry into Farage\u2019s £5m gift nearing end.",
-        "Shadow cabinet divided on Tories' chances of winning the seat."
-      ]
-    },
-    {
-      "summary": "Florida's Governor DeSantis halted an execution, marking his first withdrawal of a death warrant, following a botched execution in Tennessee.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/desantis-halts-florida-execution",
-      "points": [
-        "Governor Ron DeSantis cancelled the execution of William Lee Thompson.",
-        "This is the first time DeSantis has withdrawn a death warrant since taking office.",
-        "The decision follows the failed lethal injection of Christa Pike in Tennessee."
-      ]
-    },
-    {
-      "summary": "TypeSafe raised $870M at a $7.5B valuation, with plans to enhance AI infrastructure.",
-      "significance": "TypeSafe a's funding round, led by Sequoia Capital and including top angel investors, aims to enhance AI infrastructure and add enterprise features, benefiting software builders.",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "points": [
-        "Raised $870 million at a $7.5 billion valuation.",
-        "Martin Casado joins the board of TypeSafe.",
-        "Company claims to have already saved customers millions in production costs."
-      ]
-    },
-    {
-      "summary": "Former child refugee Sagal Abdi-Wali won the Holborn and St Pancras seat, previously held by Keir Starmer, in a victory over Green leader Zack Polanski.",
-      "significance": "Abdi-Wali's election as Labour MP from a refugee background highlights opportunities for inspiration and representation in British politics.",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/sagal-abdi-wali-journey-child-refugee-labour-mp-former-pms-seat-london",
-      "points": [
-        "Abdi-Wali, 43, fled Somalia at age 7 and settled in Camden.",
-        "She described her election as \"deeply personal\" in her speech.",
-        "Abdi-Wali aims to inspire others from similar backgrounds."
-      ]
-    },
-    {
-      "summary": "UK coastguard chief Virginia McVea faces resignation calls for using unverified data to support pay plan.",
-      "url": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
-      "points": [
-        "Virginia McVea cited a poll claiming over 90% support for the pay plan.",
-        "OSR investigation found the poll did not sufficiently back up her claim.",
-        "McVea is head of the Maritime and Coastguard Agency (MCA)."
-      ]
-    },
-    {
-      "summary": "US immigration officer shot a man with a child in the car, sparking protests and calls to curb ICE actions.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
-      "points": [
-        "Leading Democrats, including AOC, demand action against ICE violence.",
-        "Incident occurred in Marble Hill, Bronx, as children returned from school.",
-        "The man was hit in the neck with at least seven shots fired."
-      ]
-    },
-    {
-      "summary": "Trump establishes committee to investigate Fed governor Lisa Cook over mortgage fraud allegations, aiming to oust her.",
-      "url": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
-      "points": [
-        "Committee to consult with Justice Department officials to decide on her removal.",
-        "White House to hold an in-person hearing on 5 November, closed to public but transcribed.",
-        "Cook can submit a written statement and will be examined by White House and her legal counsel."
-      ]
-    },
-    {
-      "summary": "Christian Bittar's conviction for rigging interest rates has been quashed, becoming the eighth person to clear their name.",
-      "url": "https://www.theguardian.com/business/2026/oct/09/christian-bittar-conviction-rigging-interest-rates-quashed-euribor",
-      "points": [
-        "Christian Bittar worked for Deutsche Bank.",
-        "Bittar was convicted in 2018 of conspiracy to defraud.",
-        "Five other former bankers were acquitted just days prior to Bittar's case."
-      ]
-    },
-    {
-      "summary": "A comparison of four theorem provers\u2014Isabelle/HOL, Lean, HOL4, and Agda\u2014highlighting their differences in automation, user experience, and foundational logic.",
-      "url": "https://blueberrywren.dev/blog/primes/",
-      "points": [
-        "Isabelle/HOL and HOL4 offer robust automation and classical logic, while Lean has decent automation but lacks partial-automation features.",
-        "Agda is constructive by default with minimal automation, making proof construction more manual and challenging.",
-        "The comparison includes a proof of the infinitude of primes, showcasing differences in user experience and foundational logic between the systems."
       ]
     }
   ]
