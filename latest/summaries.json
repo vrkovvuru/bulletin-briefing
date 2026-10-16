@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-16T16:43:08.304947Z",
+  "generated": "2026-10-16T18:42:21.963745Z",
   "summaries": [
+    {
+      "summary": "President Trump questions the future of his new press secretary, Katie Zacharia, after only a few days on the job.",
+      "significance": "Trump's uncertainty over Zacharia's role may lead to a new press secretary and affect communications between the White House and media.",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
+      "points": [
+        "Zacharia's first official day was Monday, with her first briefing on Tuesday.",
+        "Trump asked Zacharia if the role was right for her just before a campaign rally.",
+        "Zacharia faced scrutiny over her performance and legal credentials."
+      ]
+    },
+    {
+      "summary": "A well-known individual seeks a permanent injunction against Guardian and ITN to prevent publication of serious allegations.",
+      "significance": "The story highlights legal efforts to suppress serious allegations to protect an individual's mental health, impacting press freedom and public's right to know.",
+      "url": "https://www.theguardian.com/media/2026/oct/16/well-known-individual-tries-to-secure-permanent-injunction-against-guardian-and-itn",
+      "points": [
+        "Legal team claims publicizing allegations poses serious risk of self-harm.",
+        "Hearing took place at the high court on Friday.",
+        "Contact details for crisis support services in multiple countries provided."
+      ]
+    },
+    {
+      "summary": "Former Dallas police officer Amber Guyger, convicted of murdering Botham Jean in 2018, was released from prison.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/amber-guyger-released",
+      "points": [
+        "Guyger served seven years of her ten-year sentence.",
+        "Release occurred two weeks after the Texas board of pardons and paroles approved it.",
+        "Jean\u2019s family opposed Guyger's release."
+      ]
+    },
+    {
+      "summary": "Met police are investigating allegations of unauthorized database access related to the founding of Your Party.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/16/met-police-investigating-row-over-founding-of-your-party",
+      "points": [
+        "Investigation launched in September 2025 following a report.",
+        "Allegations involve unauthorized access to a political party\u2019s database.",
+        "The row occurred as the leftwing party was being established last year."
+      ]
+    },
+    {
+      "summary": "Man charged with raping a student and giving lethal fentanyl doses to two college students at FIT.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/new-york-fashion-institute-of-technology-rape-fentanyl-overdose",
+      "points": [
+        "Moises Freire allegedly gave fentanyl, posing as cocaine, to two FIT students.",
+        "One student died from the overdose, while the other nearly died.",
+        "Federal prosecutors have charged three men in connection with the incident."
+      ]
+    },
+    {
+      "summary": "Existing AI benchmarks cover only 10% of tasks performed by American workers, highlighting a significant gap in understanding AI's real-world capabilities.",
+      "significance": "The story highlights that existing AI benchmarks poorly represent the tasks of most American jobs, making it difficult to assess AI's real-world capabilities and impact.",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "points": [
+        "90% of American working hours are spent on tasks with little or no coverage from existing AI benchmarks.",
+        "Benchmarks heavily cover tasks of high-wage occupations like lawyers but underrepresent middle-income jobs such as legal secretaries.",
+        "The study uses ONET taxonomy to break down the economy into sectors, occupations, and tasks, with a focus on 29 selected benchmarks."
+      ]
+    },
+    {
+      "summary": "eBay imposes new restrictions on listings of radio transmitting equipment, exempting gear that operates exclusively on amateur radio frequencies.",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "points": [
+        "eBay's new policy requires an FCC ID number for listings of radio transmitting equipment.",
+        "The restrictions do not apply to gear operating exclusively on amateur radio frequencies.",
+        "The FCC's rules, effective October 13, hold online marketplaces responsible for unauthorized RF devices."
+      ]
+    },
     {
       "summary": "Columnist argues Trump openly supports Russia in the Ukraine conflict, yet the West remains in denial.",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
@@ -3684,73 +3750,6 @@
         "Adidas filed the lawsuit in the Federal Court of Australia.",
         "White Fox's design uses four stripes instead of Adidas's trademark three stripes.",
         "Adidas accuses White Fox of trading off its reputation through design similarity."
-      ]
-    },
-    {
-      "summary": "A Canadian YouTuber was visited by police after he set up an ALPR camera to track police cars.",
-      "significance": "The story highlights the double standards in law enforcement's attitude towards surveillance technology when used by civilians versus authorities.",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "points": [
-        "Anthony Sistilli, a YouTuber from Brampton, Ontario, built an ALPR camera to track police vehicles.",
-        "Police visited Sistilli to inquire about his intentions with the data collected from the camera.",
-        "Sistilli's city, Brampton, recently approved the use of high-resolution cameras with ALPR technology."
-      ]
-    },
-    {
-      "summary": "US defense secretary's plan for a public execution is likened to Iran's practices.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/fort-hood-public-execution-us-iran",
-      "points": [
-        "Pete Hegseth proposes public execution after failing to defeat Tehran militarily.",
-        "The plan mirrors Iran's notorious practice of public death penalty spectacles.",
-        "US official's proposal comes seven months after initial military efforts against Tehran."
-      ]
-    },
-    {
-      "summary": "Prosecutors oppose Luigi Mangione's request to dismiss state charges in the killing of Brian Thompson, despite his federal guilty plea.",
-      "significance": "Prosecutors' opposition to dismissing Luigi Mangione\u2019s state charges underlines the application of an 'exception' to double jeopardy law, affecting Mangione's legal proceedings.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/luigi-mangione-state-charges-new-york",
-      "points": [
-        "Prosecutors argue the case can proceed under an 'exception' to state double jeopardy law.",
-        "Mangione pleaded guilty to federal charges on 14 August for the 4 December 2024 killing.",
-        "The killing of Brian Thompson outside a Midtown hotel led to a manhunt and backlash against the healthcare industry."
-      ]
-    },
-    {
-      "summary": "Residents of New York City\u2019s Marble Hill are angry and scared after an ICE officer shot a man with his child in the car.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
-      "points": [
-        "ICE shot Oscar Belgal, 28, in the neck while he had his child in the car.",
-        "The incident occurred on the corner of 225th St and Marble Hill Avenue.",
-        "Orlando Perez witnessed the arrest and shooting of Belgal by ICE."
-      ]
-    },
-    {
-      "summary": "The article argues that AI has disrupted intellectual communities in software engineering, making private intellectual activity less meaningful and less frequent.",
-      "significance": "This story highlights how AI transforms software engineering, diminishing human intellectual communities and the intrinsic value of private intellectual activities.",
-      "url": "https://borretti.me/article/no-man-is-an-island",
-      "points": [
-        "AI has transformed software engineering, reducing the need for human intellectual contributions.",
-        "The discourse in software engineering has become narrower and shallower, focusing on AI prompts rather than deeper technical concepts.",
-        "Contributing to the commons, such as writing blog posts or designing new programming languages, has become pointless as AIs handle most tasks without human recognition."
-      ]
-    },
-    {
-      "summary": "New tool version 2.0 decodes and compares carrier settings from iPhone, Pixel, and Galaxy firmware.",
-      "url": "https://carrierexplode.com/",
-      "points": [
-        "Tool named carrier-explode released version 2.0",
-        "Decodes carrier settings for iPhone, Pixel, and Galaxy",
-        "Improved backend in the new version"
-      ]
-    },
-    {
-      "summary": "US plans to livestream execution of Nidal Malik Hasan, who killed 13 at Fort Hood in 2009, facing global condemnation.",
-      "significance": "The story matters as it highlights global condemnation of the US's plan to livestream an execution, comparing the action to practices of dictatorships.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/live-stream-execution-fort-hood-shooter",
-      "points": [
-        "Execution of Nidal Malik Hasan set for December 3.",
-        "Hasan, convicted of killing 13 at Fort Hood military base in 2009.",
-        "Plan described as \"barbaric,\" drawing comparisons to regimes in Iran and Afghanistan."
       ]
     }
   ]
