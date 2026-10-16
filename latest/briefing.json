@@ -2,6 +2,15 @@
   "date": "2026-10-16",
   "stories": [
     {
+      "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Katie Zacharia's first official day was on Monday.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+    },
+    {
       "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
       "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
       "source": "NPR",
@@ -11,57 +20,66 @@
       "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
-      "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
       "title": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
       "url": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Police reviewing social media post by writer Sarah Helm, wife of Burnham&#039;s National Security Adviser Jonathan Powell.",
-      "alsoReportedBy": []
+      "alsoReportedBy": ["BBC News"]
     },
     {
-      "title": "Trump casts doubt on press secretary's future",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Katie Zacharia's first official day was on Monday.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-      "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
+      "title": "Oregon community mourns victims of school shooting",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
+      "summary": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.",
       "alsoReportedBy": []
     },
     {
-      "title": "Ukraine president targets Trump, Putin at EU summit",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+      "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+      "url": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
+      "summary": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat &#039;smears&#039; against El-Sayed.",
       "alsoReportedBy": []
     },
     {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
-      "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "summary": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Game, set and tache: Carlos Alcaraz joins growing trend for a stylish top lip",
+      "url": "https://www.theguardian.com/fashion/2026/oct/16/game-set-tache-carlos-alcarez-growing-trend-stylish-top-lip",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Tennis superstar is latest celebrity to sport a ‘refined’ moustache which owes little to bushy Tom Selleck look The tennis superstar Carlos Alcaraz might have been knocked out of the Shanghai Masters in straight sets earlier this week, but he did so sporting a moustache that became almost as remarked upon as his aptitude for a sneaky drop shot. “I always wanted to step on the court at least once with the moustache,” Alcaraz said. The Spaniard and his team had all agreed to take the facial-hair plunge if he won the Japan Open, which he did for a second straight year. “¡Bigotes para todos!” or “moustaches for everyone”, they apparently cheered at the end of the match. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
       "alsoReportedBy": []
     },
     {
@@ -74,48 +92,39 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Man killed by tiger may have had medical records breached by NHS staff",
-      "url": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
       "alsoReportedBy": []
     },
     {
-      "title": "Of course Trump is helping Russia in Ukraine – he’s a master of the art of betrayal | Jonathan Freedland",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The old certainties have gone. We will have to spend whatever it takes to protect ourselves in this new and dangerous world Donald Trump must find it oddly frustrating. He keeps showing the world exactly who he is, and yet the world keeps refusing to believe it. As clearly as he can, he is announcing that he is not the leader of the free world, that he is not even a reliable member of the democratic west, that he is in fact an ally of its enemies – but the west, including Britain, either doesn’t fully get the message or can’t quite bring itself to draw the obvious conclusion. Trump had another go this week, finding multiple ways to declare that in the war between Russia and Ukraine, he is no mediator or peace broker but a partner of Vladimir Putin. In fairness to him, the US president had loudly issued that declaration within weeks of his return to the White House when, in February 2025, he delivered an on-camera dressing down of Volodymyr Zelenskyy in the Oval Office, seeking to humiliate the Ukrainian leader by telling him “you don’t have the cards”, even as JD Vance demanded their visitor show gratitude. That should have made Trump’s position sufficiently plain, but in the past few days he has all but put it up in lights. Jonathan Freedland is a Guardian columnist US midterms: Trump, war and America’s future On Thursday, 5 November join Jonathan Freedland, Devika Bhat, Professor Adam Smith in London and David Smith and leading US commentator Tara Setmayer live from the US to discuss the results and their implications for the future of Trump, the US and global politics. Book tickets here or at guardian.live Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Well-known individual’ tries to secure permanent injunction against Guardian and ITN",
-      "url": "https://www.theguardian.com/media/2026/oct/16/well-known-individual-tries-to-secure-permanent-injunction-against-guardian-and-itn",
+      "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Lawyers tell high court that client could harm himself if serious allegations against him are made public A “well-known individual” is trying to secure a permanent injunction against the Guardian and ITN to prevent them from publishing details of serious allegations made against him. At a high court hearing on Friday, the claimant’s legal team said there was a serious risk that he could harm himself should the allegations be made public. In the UK and Ireland, Samaritans can be contacted on freephone 116 123. In the US, you can call or text the National Suicide Prevention Lifeline on 988, chat on 988lifeline.org , or text HOME to 741741 to connect with a crisis counselor. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
+      "summary": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely seen as a desperate electoral gambit. The U-turn, which Lula announced during a Thursday night interview with TV Globo, comes with the presidential runoff in just over a week. The incumbent faces an uphill battle to overturn the first-round victory of his opponent, the far-right senator Flávio Bolsonaro, who remains slightly ahead at the polls. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Trump rallies in Georgia as new White House press secretary is fired after five days on the job - live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-      "alsoReportedBy": []
+      "summary": "The president is rallying to support Republican nominees shortly after the White House confirmed Katie Zacharia is ‘transitioning out’ of her role as press secretary Full story: Katie Zacharia fired after five days as White House press secretary Sign up for the Breaking News US email In Maine, Troy Jackson , the Democratic nominee for US Senate, and Susan Collins , the five-term Republican incumbent traded barbs on Thursday in their final debate ahead of the November midterms. This was the fourth showdown between the pair. Collins has tried to cast Jackson as an inexperienced state lawmaker, and attempted to yoke him to the former nominee, Graham Platner , who dropped out of the race earlier this year following allegations of rape and sexual assault (which he still denies). Meanwhile, Jackson accused his opponent of corruption, and castigated her for her “moderate” persona in Congress. Continue reading...",
+      "alsoReportedBy": ["Guardian World"]
     },
     {
-      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "title": "What we learned from heated US midterm Senate debates",
+      "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+      "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
       "alsoReportedBy": []
     },
     {
@@ -128,21 +137,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Amber Guyger, police officer who murdered black neighbor in his home, released from prison",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/amber-guyger-released",
+      "title": "Case against Leon Black dismissed after plaintiff said she was ‘medically incapable of continuing’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/leon-black-civil-rape-lawsuit-dismissed-epstein",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Guyger, convicted of murder of Botham Jean in Dallas in 2018, served seven years of 10-year sentence The former Dallas police officer who was convicted of murdering Botham Jean after entering his apartment and shooting him in 2018 was released from prison on Friday morning after spending seven years in prison. Amber Guyger, 38, regained her freedom a little more than two weeks after the Texas board of pardons and paroles approved her release , despite opposition from Jean’s family. Continue reading...",
+      "summary": "In civil suit, ‘Jane Doe’ alleged billionaire raped her after being ‘handed off’ by Jeffrey Epstein. Black denied the allegations and called claims a fabrication A federal judge has agreed to dismiss a lawsuit brought against Leon Black after the plaintiff in the case, who had accused the private equity billionaire of rape, said she was “medically incapable of continuing” and at risk of “acute psychiatric crisis”, including suicide. The woman known only as “Jane Doe”, who claimed in a lawsuit that was first filed in July 2023 that she had been “handed off” to Black by his associate Jeffrey Epstein and then sexually assaulted by him, had been acting without a lawyer in the case. Doe has alleged that the assault occurred in 2002, when she was a teenager. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Met police investigating row over founding of Your Party",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/16/met-police-investigating-row-over-founding-of-your-party",
+      "title": "Police search for clues to deadly shooting at Oregon elementary school",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Inquiry said to have been launched after force received report ‘relating to alleged unauthorised access of a political party’s database’ Police are carrying out a criminal investigation into a row over the founding of Your Party, which split the leftwing party as it was established last year. A spokesperson for London’s Metropolitan police said they had launched an investigation after they received a report in September 2025 “relating to the alleged unauthorised access of a political party’s database”, the Politico website reported. Continue reading...",
+      "summary": "Schools closed after one teacher and three children killed, and child and teacher hospitalized with critical injuries Oregon elementary school shooting: what we know so far Police are investigating a deadly shooting at an elementary school in Bend, Oregon , where a 16-year-old opened fire on Thursday, killing three children and a teacher, before being shot dead by an armed bystander. Authorities in Oregon said that the three children killed at Silver Rail elementary school were aged five, eight and 11, and that a seven-year-old child and a 54-year-old teacher were also hospitalized with critical injuries. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -164,54 +173,45 @@
       "alsoReportedBy": []
     },
     {
-      "title": "New York man charged with rape and lethal fentanyl dosing of college student",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/new-york-fashion-institute-of-technology-rape-fentanyl-overdose",
+      "title": "‘Well-known individual’ tries to secure permanent injunction against Guardian and ITN",
+      "url": "https://www.theguardian.com/media/2026/oct/16/well-known-individual-tries-to-secure-permanent-injunction-against-guardian-and-itn",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Prosecutors allege Moises Freire gave two students at FIT the opioid, saying it was cocaine, and raped one as she overdosed A man raped a student at New York ’s Fashion Institute of Technology (FIT) after giving her a dose of fentanyl that rendered her unconscious and ultimately killed her, federal prosecutors allege. That student’s friend also experienced an overdose and nearly died after taking the potent synthetic opiate, leading to charges against three men, the US justice department said in a statement on Thursday. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Linus Torvalds on AI-assisted kernel contributions",
-      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
+      "summary": "Lawyers tell high court that client could harm himself if serious allegations against him are made public A “well-known individual” is trying to secure a permanent injunction against the Guardian and ITN to prevent them from publishing details of serious allegations made against him. At a high court hearing on Friday, the claimant’s legal team said there was a serious risk that he could harm himself should the allegations be made public. In the UK and Ireland, Samaritans can be contacted on freephone 116 123. In the US, you can call or text the National Suicide Prevention Lifeline on 988, chat on 988lifeline.org , or text HOME to 741741 to connect with a crisis counselor. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
       "alsoReportedBy": []
     },
     {
       "title": "The road to iroh 1.0",
       "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -227,9 +227,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "source": "Hacker News",
+      "title": "Linus Torvalds on AI-assisted kernel contributions",
+      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "JPEG XL vs AVIF for web use-cases",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "source": "Lobsters",
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",

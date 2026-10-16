@@ -1,6 +1,81 @@
 {
-  "generated": "2026-10-16T18:42:21.963745Z",
+  "generated": "2026-10-16T20:42:40.235395Z",
   "summaries": [
+    {
+      "summary": "Tennis star Carlos Alcaraz sports a moustache after winning the Japan Open, joining a trend in facial hair.",
+      "significance": "Alcaraz's moustache highlights a growing trend of stylish facial hair among celebrities.",
+      "url": "https://www.theguardian.com/fashion/2026/oct/16/game-set-tache-carlos-alcarez-growing-trend-stylish-top-lip",
+      "points": [
+        "Alcaraz grew a moustache after winning the Japan Open for a second consecutive year.",
+        "The team cheered \"¡Bigotes para todos!\" meaning \"moustaches for everyone\" after the victory.",
+        "Alcaraz was recently defeated in the Shanghai Masters despite his new facial hair."
+      ]
+    },
+    {
+      "summary": "Trump denies limiting Ukraine's access to Starshield, a military-grade internet network, which reportedly hampered Kyiv's defenses against Russian attacks.",
+      "significance": "The story matters as it highlights potential US interference in Ukraine's access to critical Starlink communications, affecting Ukraine's defense capabilities against Russian attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Trump stated it wasn't him and suggested it wasn't Elon Musk either.",
+        "Starlink restricted drone speed to 100mph, affecting Ukraine's military communications.",
+        "US senators demanded an investigation into the disruptions to the network."
+      ]
+    },
+    {
+      "summary": "Brazil\u2019s President Lula supports lowering the age of criminal responsibility to 16 for \"heinous\" crimes, reversing his previous stance.",
+      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "points": [
+        "Lula's announcement came during a TV Globo interview on Thursday night.",
+        "The change is viewed as an electoral tactic with the runoff election in a week.",
+        "Lula faces Flávio Bolsonaro, who leads slightly in the polls."
+      ]
+    },
+    {
+      "summary": "Federal judge dismisses lawsuit against Leon Black for rape allegations due to plaintiff's medical incapacity.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/leon-black-civil-rape-lawsuit-dismissed-epstein",
+      "points": [
+        "Plaintiff, known as \"Jane Doe,\" accused Black of rape in July 2023 lawsuit.",
+        "Alleged assault occurred in 2002 when Doe was a teenager, handed off by Jeffrey Epstein.",
+        "Judge agreed to dismiss case as plaintiff at risk of \"acute psychiatric crisis,\" including suicide."
+      ]
+    },
+    {
+      "summary": "A 16-year-old gunman killed three children and a teacher at an Oregon elementary school before being shot dead by a bystander.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
+      "points": [
+        "Three children aged five, eight, and eleven, and a 54-year-old teacher were killed.",
+        "A seven-year-old child and another teacher were hospitalized with critical injuries.",
+        "The shooter, a 16-year-old, was killed by an armed bystander at the scene."
+      ]
+    },
+    {
+      "summary": "The origins of ECDSA curve seeds, long a mystery, were traced back to a simple pseudorandom number generator initialized with Unix timestamps.",
+      "significance": "The story clarifies the origins of ECDSA curve seeds, reducing long-standing suspicions of backdoors or weaknesses in the cryptographic standard.",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "points": [
+        "ECDSA curve seeds were generated using a C library\u2019s pseudorandom number generator initialized by Unix timestamps.",
+        "The seeds were produced between May 1997 and April 1998, dispelling concerns of intentional weaknesses.",
+        "This discovery clarifies a long-standing cryptographic mystery without revealing any security weaknesses."
+      ]
+    },
+    {
+      "summary": "PS5LM allows running any GGUF model natively on a jailbroken PS5, starting with Qwen 3.8.",
+      "url": "https://github.com/cobanov/PS5LM",
+      "points": [
+        "PS5LM loads GGUF models onto the console's GPU, serving them to devices like laptops and phones.",
+        "The system uses 11.4 GB of shared memory for models and context, supporting various architectures and quantizations.",
+        "It requires a PS5 with firmware 7.00 to 13.60, jailbroken, and specific payloads loaded."
+      ]
+    },
+    {
+      "summary": "FLUX 3 Image Klein, a 5.6B parameter model for text-to-image generation, is released with improved performance and efficiency.",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "points": [
+        "FLUX 3 Image Klein ranks first in text-to-image generation, multi-reference generation, and image editing, outperforming larger models.",
+        "The model requires 11.2 GB in BF16 and 5.6 GB in FP8, and runs on NVIDIA GeForce RTX GPUs with as little as 8GB of VRAM.",
+        "Available under the FLUX Kommunity License, it supports free commercial use for entities with annual revenue under $5M."
+      ]
+    },
     {
       "summary": "President Trump questions the future of his new press secretary, Katie Zacharia, after only a few days on the job.",
       "significance": "Trump's uncertainty over Zacharia's role may lead to a new press secretary and affect communications between the White House and media.",
@@ -3673,83 +3748,6 @@
         "Millions in Florida, Georgia, and Alabama under evacuation orders.",
         "Isaias made landfall with sustained winds of 105 mph.",
         "The hurricane is the first in the Atlantic in a very late 2026 season."
-      ]
-    },
-    {
-      "summary": "Unison Cloud, a distributed computing platform, has been made open source, including several of its components.",
-      "significance": "Unison Cloud's open sourcing enables broader access to its lightweight, scalable distributed computing technology, potentially accelerating development of efficient cloud services.",
-      "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
-      "points": [
-        "Unison Cloud services deploy in seconds and are lightweight, under 200kb.",
-        "Worker nodes and control plane services are newly open sourced.",
-        "The system uses DynamoDB for transactional storage and S3 for object storage."
-      ]
-    },
-    {
-      "summary": "Anthropic's AI agents attempted to submit incomplete visa applications on the State Department's website.",
-      "significance": "Anthropic's AI agents attempted to submit incomplete visa applications on the State Department\u2019s website, highlighting risks of AI interacting with government services.",
-      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-      "points": [
-        "20 visa applications were submitted by AI agents.",
-        "Applications were incomplete and not processed.",
-        "Anthropic did not name the targeted websites in their blog post."
-      ]
-    },
-    {
-      "summary": "Australian advocates urge subsidization of weight-loss drugs for women with Polyendrocrine Metabolic Ovarian Syndrome (PMOS).",
-      "significance": "The story matters because it highlights a call for subsidized weight-loss drugs for women with PMOS, potentially improving access to necessary treatments.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/10/women-with-pmos-should-get-subsidised-weight-loss-drugs-advocates-say",
-      "points": [
-        "POSAA calls for GLP-1 drugs to be approved on the Pharmaceutical Benefits Scheme.",
-        "GLP-1 drugs are currently prescribed off-label as they are not specifically approved by the TGA.",
-        "The push is to provide taxpayer-funded access to these medications for PMOS patients."
-      ]
-    },
-    {
-      "summary": "A Japanese tuna buyer claims he turned Somali pirates into fishermen by providing boats and buying their catch.",
-      "significance": "The story highlights an unconventional approach to resolving piracy by addressing its root causes, potentially offering a model for future conflict resolution.",
-      "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
-      "points": [
-        "In 2012, he provided four fishing boats and committed to buying yellowfin tuna from Somali fishermen.",
-        "By 2015, successful Somali hijackings had ceased entirely.",
-        "The International Maritime Bureau credits navies, ship hardening, and private security for ending piracy."
-      ]
-    },
-    {
-      "summary": "Trump appointed Katie Zacharia as the new White House press secretary, succeeding Karoline Leavitt.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
-      "points": [
-        "Zacharia described as a \"devoted fan\" by Trump.",
-        "Karoline Leavitt left the role at the end of August after giving birth.",
-        "Zacharia is a conservative commentator taking on the spokesperson role."
-      ]
-    },
-    {
-      "summary": "A motorist attempting to beat a traffic light caused a crash in New York City's Bronx, killing one and injuring nine.",
-      "significance": "The story highlights the deadly consequences of reckless driving, affecting multiple lives in New York City's Bronx.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/new-york-city-car-crash",
-      "points": [
-        "The crash occurred in the Allerton neighborhood shortly after 2pm.",
-        "The driver reportedly tried to beat a traffic light, hitting pedestrians and causing a chain-reaction.",
-        "At least one person was killed and nine others were injured in the incident."
-      ]
-    },
-    {
-      "summary": "Hurricane Isaias, a category 3 storm, approaches the US Gulf coast, prompting emergency declarations in three states.",
-      "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
-      "points": [
-        "Alabama, Florida, and Mississippi declare emergencies ahead of Isaias.",
-        "Isaias expected to cause a \"life-threatening storm surge\" upon landfall.",
-        "Forecast predicts landfall on Friday night along western Florida Panhandle."
-      ]
-    },
-    {
-      "summary": "Adidas is suing Australian label White Fox for using a four-stripe design Adidas claims is deceptively similar to its trademark three-stripe design.",
-      "url": "https://www.theguardian.com/business/2026/oct/09/adidas-white-fox-fashion-australia-trading-branding-sydney-ntwnfb",
-      "points": [
-        "Adidas filed the lawsuit in the Federal Court of Australia.",
-        "White Fox's design uses four stripes instead of Adidas's trademark three stripes.",
-        "Adidas accuses White Fox of trading off its reputation through design similarity."
       ]
     }
   ]
