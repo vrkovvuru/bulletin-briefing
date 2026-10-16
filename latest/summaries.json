@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-16T20:42:40.235395Z",
+  "generated": "2026-10-16T22:41:49.917420Z",
   "summaries": [
+    {
+      "summary": "A 16-year-old former student killed three students and a teacher in a shooting at an elementary school in Bend, Oregon, before being shot by a bystander.",
+      "significance": "The shooting highlights the ongoing issue of school safety and the tragic impact of gun violence on young communities.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-silver-rail-elementary-school-shooting-what-we-know-so-far",
+      "points": [
+        "The victims included five-year-old Rhoam Summer, an eight-year-old, an eleven-year-old, and 25-year-old teacher Megan Lambert.",
+        "The shooter, Griffin J John II, was killed at the scene by Kaylub Giamanco, a father of two girls at the school.",
+        "The attack occurred at 1:02 PM local time, with the shooter using a 12-gauge shotgun and firing up to 15 shots."
+      ]
+    },
+    {
+      "summary": "Chancellor Healey supports the pro-growth argument for Heathrow's third runway despite Prime Minister's reluctance.",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+      "points": [
+        "Healey emphasizes airports' role in job creation and economic growth.",
+        "Previous Chancellor Reeves highlighted the runway as key to Britain's business connectivity.",
+        "Prime Minister avoids taking a stance on the Heathrow expansion."
+      ]
+    },
+    {
+      "summary": "The seeds for NIST elliptic curves were generated using a POSIX-standard algorithm, not random sentences as previously thought, resolving a cryptographic mystery.",
+      "significance": "This story clarifies the generation process of NIST elliptic curve seeds, reinforcing confidence in these cryptographic primitives.",
+      "url": "https://words.filippo.io/seeds-solved/",
+      "points": [
+        "Anthropic researchers, including Amir Omidi and Steve Weis, tripled the bounty value to $36,864.",
+        "The seeds were generated using the UNIX timestamp and drand48 algorithm, not forgotten sentences.",
+        "This discovery rules out NSA manipulation of the seeds to exploit weak curves, enhancing confidence in NIST elliptic curves."
+      ]
+    },
+    {
+      "summary": "The Claude Code team changed their code review process to continuous review with AI assistance, reducing human workload.",
+      "significance": "The story matters because it highlights a shift to continuous AI-assisted code review, which catches routine mistakes early and allows human reviewers to focus on complex issues.",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "points": [
+        "Most code changes are reviewed and fixed by AI before human review.",
+        "New process catches routine mistakes early, saving human attention for complex issues.",
+        "Review shifted from a final gate to continuous, akin to spellcheck while coding."
+      ]
+    },
+    {
+      "summary": "A new LaTeX rendering tool inspired by Tiny Little Office allows users to create and share LaTeX documents via URL fragments.",
+      "url": "https://simonwillison.net/2026/Oct/15/latex/",
+      "points": [
+        "The tool supports LaTeX code in URL fragments, making documents shareable and bookmarkable.",
+        "It uses Pako 2.1.0, MathJax 4.1.3, faster-latex 0.3.1, and DOMPurify 3.4.16 for rendering.",
+        "Users can toggle between an editor view and a rendered view, with the latter being bookmarkable."
+      ]
+    },
     {
       "summary": "Tennis star Carlos Alcaraz sports a moustache after winning the Japan Open, joining a trend in facial hair.",
       "significance": "Alcaraz's moustache highlights a growing trend of stylish facial hair among celebrities.",
@@ -3700,54 +3748,6 @@
         "REA inspected Windows Calculator 11.2508.4.0, x64, using version 4.1.0.",
         "After 4,000 updates, speed was 10.0; after 10,000, it was 13.0.",
         "Users can inspect functions, strings, and call relationships in browser or process activity."
-      ]
-    },
-    {
-      "summary": "TypeSafe/Jev achieves over $100M ARR and a $7.5B valuation just three weeks after launch, setting a new benchmark in decision models.",
-      "significance": "TypeSafe/Jev's rapid success sets a new benchmark for decision models, influencing industry standards and competition in AI technology.",
-      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "points": [
-        "TypeSafe/Jev benchmarks at 94.5% accuracy across 1,071 cases.",
-        "Jev accepts text and images, costing $0.10/M input tokens and is up to 10x faster.",
-        "LangSmith uses Jev as a judge, returning typed answers for difficulty and correctness."
-      ]
-    },
-    {
-      "summary": "Three men were found guilty of murdering Australian surfing brothers and their American friend in Mexico in 2024.",
-      "significance": "Three men convicted for the murders of Australian surfers and their American friend bring closure to the victims' families.",
-      "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
-      "points": [
-        "Parents stated no outcome can undo the tragedy.",
-        "Victims were on a surfing trip in Baja California state.",
-        "Jake Robinson, 30, Callum Robinson, 33, and Carter Rhoad, 30, were killed."
-      ]
-    },
-    {
-      "summary": "UAE prosecutors claim Flydubai co-pilot Hammam al-Hammami planned a suicide attack on Tel Aviv's Ben Gurion airport.",
-      "url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
-      "points": [
-        "Co-pilot Hammam al-Hammami attacked the plane\u2019s Indian pilot with an emergency axe.",
-        "The attack was planned to target the passenger terminal at Ben Gurion airport.",
-        "The co-pilot failed as his injured colleague opened the cockpit door, allowing passengers to intervene."
-      ]
-    },
-    {
-      "summary": "Trump complained about not winning the Nobel peace prize for 2026, criticizing Norway and mentioning starting a war with Iran.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize",
-      "points": [
-        "Trump stated, \u201cWe will not forget, Norway.\u201d",
-        "The complaint came during a rally for Republican candidates in Syracuse, New York.",
-        "Trump initiated a war with Iran in the year he was nominated."
-      ]
-    },
-    {
-      "summary": "Hurricane Isaias, a Category 2 storm, made landfall on the US Gulf coast, prompting evacuations and states of emergency in multiple states.",
-      "significance": "Hurricane Isaias, the first Atlantic hurricane of a late 2026 season, prompts millions to evacuate, facing significant storm surges, rainfall, and strong winds.",
-      "url": "https://www.theguardian.com/global/2026/oct/09/hurricane-isaias-where-path-landfall-preparation",
-      "points": [
-        "Millions in Florida, Georgia, and Alabama under evacuation orders.",
-        "Isaias made landfall with sustained winds of 105 mph.",
-        "The hurricane is the first in the Atlantic in a very late 2026 season."
       ]
     }
   ]
