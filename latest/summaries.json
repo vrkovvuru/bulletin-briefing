@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-16T04:42:21.633042Z",
+  "generated": "2026-10-16T12:41:12.302095Z",
   "summaries": [
+    {
+      "summary": "Alberta separatist conference reveals deep convictions and strategic disagreements among independence supporters.",
+      "significance": "The story highlights internal disagreements among Alberta separatists over strategy, despite a strong conviction for independence from Canada.",
+      "url": "https://www.theguardian.com/world/2026/oct/16/fiery-speeches-led-hats-and-infighting-inside-an-alberta-separatist-conference",
+      "points": [
+        "Over three-quarters of attendees voted that Alberta does not need Canada.",
+        "Some supporters paid C$900 for a \"visionary\" weekend pass to the conference.",
+        "Conference highlighted disagreements, including Alberta's future relationship with the US."
+      ]
+    },
+    {
+      "summary": "Burnham advocates for devolving power from Westminster and Holyrood to regions and towns, using Scotland\u2019s Ravenscraig steelworks closure as an example.",
+      "significance": "Burnham proposes devolving power to regions, aiming to empower local communities and address historical economic and social injustices.",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/16/andy-burnham-scotland-devolution-speech-reform-uk-documentary-jenrick-farage-latest-news-updates",
+      "points": [
+        "Ravenscraig steelworks, once employing tens of thousands, closed in 1992.",
+        "Burnham was MP for a region affected by pit closures from the early 2000s for 16 years.",
+        "He proposes placing local needs over party interests in political decision-making."
+      ]
+    },
+    {
+      "summary": "Trump criticizes Republicans, including John Cornyn and Karl Rove, for allegedly undermining Texas Attorney General Ken Paxton.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+      "points": [
+        "Trump accused Cornyn and Rove of working against Paxton out of jealousy.",
+        "Trump will hold a rally in Dalton, Georgia at 2:45pm ET.",
+        "The criticism comes amid a struggle between Paxton and his challenger Talarico."
+      ]
+    },
+    {
+      "summary": "A 16-year-old shooter killed three children and a teacher at an Oregon elementary school before being shot dead by a community member.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/first-thing-three-young-children-killed-in-oregon-elementary-school-shooting",
+      "points": [
+        "Three children, aged five, eight, and eleven, were among the victims.",
+        "The attacker, a 16-year-old from Bend, was killed by a community member.",
+        "After the shooting, children were taken to a nearby church for family reunification."
+      ]
+    },
+    {
+      "summary": "A method to invoke JavaScript functions without parentheses using array positions and function overwriting.",
+      "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+      "points": [
+        "Uses prototype pollution to insert a payload into another function.",
+        "Involves overwriting function outputs to return desired JavaScript code.",
+        "Final payload alters `Object.prototype` and `Array.prototype` to execute code."
+      ]
+    },
     {
       "summary": "Yemen's former PM warns that western security is at risk due to the ongoing conflict in Yemen, particularly concerning the city of Taiz.",
       "significance": "The story highlights how the Yemen civil war impacts Western security due to the use of drones by Iran-backed militia.",
@@ -3705,53 +3752,6 @@
         "Pillay is the fifth South African to win the Nobel Peace Prize.",
         "She oversaw a UN inquiry that declared Israel responsible for genocide in Gaza.",
         "The Nobel committee highlighted her role in establishing legal precedents on rape as a crime against humanity and incitement to genocide through propaganda."
-      ]
-    },
-    {
-      "summary": "Yiyun Li praises Anne Carson's literary genius, highlighting her profound impact through translations and original works.",
-      "url": "https://www.theguardian.com/books/2026/oct/09/winning-the-nobel-prize-in-literature-anne-carson-yiyun-li",
-      "points": [
-        "Li turned to Carson\u2019s translation of Euripides\u2019 plays after her sons died, finding it 'life sustaining'.",
-        "Writing about Carson\u2019s work is described as impossible, akin to dividing zero by zero.",
-        "Carson\u2019s approach to words is noted for letting them exist in their own desires and frustrations, not mastering them."
-      ]
-    },
-    {
-      "summary": "UN condemns Pentagon's plan to livestream execution of Fort Hood shooter, calling it torture.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
-      "points": [
-        "US lawmakers criticize the move as 'grotesque', likening it to actions by terror groups.",
-        "Robin M. Maher states no precedent exists for live streaming military executions online.",
-        "Public executions are usually seen in authoritarian countries to instill fear and control."
-      ]
-    },
-    {
-      "summary": "Democratic Senate candidate Dr. Annie Andrews responds to Republican attacks on trans athletes in women\u2019s sports.",
-      "significance": "The story highlights the politicization of transgender athlete issues, showing how it influences Senate races and partisan strategies.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/democratic-senate-candidate-reponse-anti-trans-attacks",
-      "points": [
-        "Andrews opposes \"biological men playing in women\u2019s sports.\"",
-        "She is a Democratic candidate in South Carolina\u2019s Senate race.",
-        "Andrews, a pediatrician, issued a direct-to-camera statement."
-      ]
-    },
-    {
-      "summary": "Deno team is joining Cloudflare, shifting focus to a shared programming model.",
-      "significance": "The move of the Deno team to Cloudflare signals a consolidation in JavaScript runtime development, affecting developers and businesses that rely on Deno.",
-      "url": "https://deno.com/blog/cloudflare",
-      "points": [
-        "Deno will stop development after one year, with monthly updates until then.",
-        "Deno Deploy will operate for six months before shutting down.",
-        "Deno runtime will remain open source post-development halt."
-      ]
-    },
-    {
-      "summary": "Oxide, a hardware company, secured a $445M Series D funding round to support its growth and meet demand.",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "points": [
-        "Oxide paid income tax for the first time due to profitable operations.",
-        "Funding will help secure inventory and fulfill a large order backlog.",
-        "New investors include AMD, which has supported Oxide since its early days."
       ]
     }
   ]
