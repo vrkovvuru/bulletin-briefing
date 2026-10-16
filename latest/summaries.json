@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-15T22:40:48.604044Z",
+  "generated": "2026-10-16T00:41:26.576855Z",
   "summaries": [
+    {
+      "summary": "A new same-day metagenomic test at Great Ormond Street Hospital detects hidden infections in critically ill children, improving treatment outcomes.",
+      "significance": "The same-day metagenomics test allows doctors to detect and treat hidden infections more effectively in critically ill children, improving patient outcomes.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "The test identified infections in 122 critically ill children, influencing prescribing decisions in 25% of cases.",
+        "It detected 50 organisms not found by routine diagnostics, aiding in the fight against antimicrobial resistance.",
+        "Willow Crowther, a 10-year-old pneumonia patient, was saved by the test, which identified a drug-resistant bacterial infection."
+      ]
+    },
+    {
+      "summary": "Russia and Ukraine resume strikes on each other\u2019s energy infrastructure after Trump\u2019s unilateral \"energy ceasefire\" fails.",
+      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "points": [
+        "Moscow launches record drone attacks on central Ukraine's infrastructure.",
+        "Kyiv restarts strikes on Russian oil refineries, including one in Ryazan.",
+        "Trump's \"energy ceasefire\" was not agreed upon by Russia or Ukraine."
+      ]
+    },
+    {
+      "summary": "Meta launched Muse Spark Open, an AI model claiming superior multi-step reasoning and software engineering capabilities compared to Chinese rivals.",
+      "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+      "points": [
+        "Meta's Muse Spark Open is touted as the most capable US open-weight AI model.",
+        "Alexandr Wang, Meta\u2019s AI chief, announced the model's release on X.",
+        "The model aims to compete with and outperform leading Chinese AI products."
+      ]
+    },
+    {
+      "summary": "A user encountered malware disguised as a South Park episode on torrent sites, which repeatedly attempted to import into their Sonarr media management software.",
+      "significance": "This story highlights the ongoing threat of malware disguised as torrent files, affecting media download automation tools and personal data security.",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "points": [
+        "Malware file named \"South Park S29E03 1080p WEB H264-MeGusta.exe\" was 886 MB with 118 KB of actual malware.",
+        "Malware targeted cryptocurrency wallets, password managers, remote access tools, and email clients.",
+        "Creator used ChaCha20 encryption and obfuscation techniques but left the key inside the file."
+      ]
+    },
     {
       "summary": "Zimbabwean author denies using AI for prize-winning story after Atlantic article claims AI generated it.",
       "significance": "The denial impacts the integrity and credibility of literary awards in the age of AI.",
@@ -3715,44 +3753,6 @@
         "Solari, Bevy's renderer, is faster, more accurate, and now supports macOS via Metal.",
         "Bevy Feathers adds new UI widgets like Color Input, Scrollable List View, and Dropdown Selection.",
         "Bevy adopts WESL shader language, allowing for custom shader materials for Sprites and 2D mesh materials."
-      ]
-    },
-    {
-      "summary": "Article details keyboard differences between Windows and Mac operating systems.",
-      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-      "points": [
-        "Windows calls Backspace, Mac calls it Delete; Windows calls Delete, Mac calls it Forward Delete.",
-        "Windows uses Ctrl, Alt, Shift; Mac uses Command, Option, Control, Shift.",
-        "Mac keyboards use symbols more frequently, like ⌘ Command and ⌥ Option, while Windows keyboards often use abbreviations like Ctrl and Bkspc."
-      ]
-    },
-    {
-      "summary": "Developer releases ttok 1.0, changing default tokenizer to GPT-5/GPT-6 due to similarities found in an experiment.",
-      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
-      "points": [
-        "Experiment by William Liu shows all seven GPT models report 44,794 tokens.",
-        "GPT-6 uses the same tokenizer as GPT-5 family, based on 31 fixture matches.",
-        "Release prompted by a tool upgrade that mistakenly defaulted to GPT-4 tokenizer."
-      ]
-    },
-    {
-      "summary": "Pete Hegseth proposes livestreaming the execution of Nidal Hasan by firing squad, highlighting the Trump administration's moral stance.",
-      "significance": "The story highlights the Trump administration's moral decline by proposing the public livestreaming of an execution, showcasing a new low in democratic standards.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/09/nidal-hasan-execution-pete-hegseth-us-military-tv-democracy",
-      "points": [
-        "Pete Hegseth, a Trump cabinet member, suggests public execution by firing squad.",
-        "The execution targets Nidal Hasan, a convicted murderer.",
-        "Proposal reflects Trump administration's controversial moral and political positions."
-      ]
-    },
-    {
-      "summary": "Labour's Sagal Abdi-Wali wins Holborn and St Pancras byelection, defeating Green party leader Zack Polanski.",
-      "significance": "The story highlights the potential electoral cost for the Green party due to their controversial anti-Zionism motion, affecting their performance in the Holborn and St Pancras byelection.",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
-      "points": [
-        "Labour retains the seat with Abdi-Wali's victory over Polanski.",
-        "Camden activists suggest Green's anti-Zionism motion cost them votes.",
-        "Greens acknowledge coming in second but highlight their role in holding Labour accountable."
       ]
     }
   ]
