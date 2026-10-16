@@ -1,6 +1,79 @@
 {
-  "generated": "2026-10-16T02:41:46.119823Z",
+  "generated": "2026-10-16T04:42:21.633042Z",
   "summaries": [
+    {
+      "summary": "Yemen's former PM warns that western security is at risk due to the ongoing conflict in Yemen, particularly concerning the city of Taiz.",
+      "significance": "The story highlights how the Yemen civil war impacts Western security due to the use of drones by Iran-backed militia.",
+      "url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
+      "points": [
+        "Maeen Abdulmalik Saeed warns of a 'new era of radical terrorism' due to Iran-backed militia's drone use.",
+        "Loss of Taiz to Houthi rebels could result in control over the strategic Bab al-Mandab strait.",
+        "The city of Taiz, near the Red Sea, is crucial for access to the road leading to Aden."
+      ]
+    },
+    {
+      "summary": "French lawyers and rights groups claim teenagers protesting in schools have suffered severe injuries from police weapons and faced unprecedented custody.",
+      "url": "https://www.theguardian.com/world/2026/oct/16/french-police-injuries-teenagers-school-protests-arrests-custody",
+      "points": [
+        "Teenagers reportedly suffered war-like injuries from police weapons during protests.",
+        "The protests are in their fourth week, involving hundreds of high schools across France."
+      ]
+    },
+    {
+      "summary": "College football player Tyler Ulrich died five days after a severe injury during a game.",
+      "significance": "Death of college football player highlights risks and potential for severe injuries in sports.",
+      "url": "https://www.theguardian.com/sport/2026/oct/16/southern-nazarene-university-tyler-ulrich-death-college-football",
+      "points": [
+        "21-year-old Ulrich was a sophomore safety at Southern Nazarene University in Oklahoma.",
+        "The injury occurred during a game against Ouachita Baptist on Saturday.",
+        "The game was delayed nearly an hour for Ulrich's medical treatment on the field."
+      ]
+    },
+    {
+      "summary": "JD Vance's campaign style mimics Donald Trump's, focusing on attacking Democrats and using humor and swearing to engage voters.",
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast",
+      "points": [
+        "Vance's strategy includes adopting Trump's approach of attacking Democrats and using humor.",
+        "Jonathan Freedland discusses Vance's efforts to court voters with Arwa Mahdawi."
+      ]
+    },
+    {
+      "summary": "Police lock down Sydney suburb Dulwich Hill searching for a man seen with a shotgun.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/16/sydney-suburb-in-lockdown-as-police-search-for-man-armed-with-shotgun-ntwnfb",
+      "points": [
+        "Police searching area around Williams Parade and Constitution Road.",
+        "Man allegedly set a stolen car on fire before fleeing on foot.",
+        "Aerial and armed support deployed in the manhunt."
+      ]
+    },
+    {
+      "summary": "A firearms manufacturer running for One Nation in NSW opposes new gun laws enacted post-Bondi massacre.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/16/weapons-manufacturer-jeff-bacon-one-nation-opposes-bondi-gun-laws-ntwnfb",
+      "points": [
+        "Jeff Bacon, Oceania Precision's director, aims to repeal recent NSW gun legislation.",
+        "Bacon claims all rifles his company produces were banned under new laws.",
+        "One Nation's NSW leader, Mike Newman, described Bacon as his go-to firearms expert."
+      ]
+    },
+    {
+      "summary": "Sill is an open-source app that allows users to display any Mac window on their iPhone or iPad, supporting touch, Apple Pencil, and keyboard inputs.",
+      "significance": "Sill enables Mac users to view and interact with any Mac window on their iPhone or iPad, enhancing remote device control and accessibility.",
+      "url": "https://github.com/Saffsanity/sill",
+      "points": [
+        "Sill captures Mac windows as HEVC video and sends them to iOS devices over the same network, USB, or Direct Wireless Connection.",
+        "Users can resize streamed window text and control the Mac's keyboard and mouse directly from their iOS device."
+      ]
+    },
+    {
+      "summary": "Researchers disprove polysemanticity in neural networks, enhancing interpretability and alignment.",
+      "significance": "The story matters because it disproves polysemanticity, greatly enhancing the interpretability and alignment of neural networks, potentially transforming AI safety and development.",
+      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "points": [
+        "90% of neurons in Qwen-32B have a single function.",
+        "Meta releases Muse Spark Open, a 816B-total/42B-active MoE model.",
+        "Muse Spark Open ranks first among US open-weight models on Artificial Analysis Intelligence Index."
+      ]
+    },
     {
       "summary": "Jamaica's petition for slavery reparations from the UK will be heard by the UK Privy Council in March 2027.",
       "significance": "Jamaica's petition for slavery reparations to be heard by UK privy council in 2027 marks a significant step in seeking legal advice on historical injustices.",
@@ -3679,81 +3752,6 @@
         "Oxide paid income tax for the first time due to profitable operations.",
         "Funding will help secure inventory and fulfill a large order backlog.",
         "New investors include AMD, which has supported Oxide since its early days."
-      ]
-    },
-    {
-      "summary": "Yandex's largest data center in Kaluga, Russia, was hit by a drone attack, causing significant operational disruptions.",
-      "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
-      "points": [
-        "The attack knocked several modules of the data center completely out of service.",
-        "The Kaluga facility, Yandex\u2019s largest in Russia, covers 130,000 square meters and has a planned power capacity of 63 megawatts.",
-        "This incident follows a similar attack on a Yandex data center in Sasovo, Ryazan region, within 48 hours."
-      ]
-    },
-    {
-      "summary": "A blog author built a new Newsletters page feature using voice commands through the ChatGPT desktop app while cooking.",
-      "significance": "The story demonstrates the practical application of voice-controlled coding, showcasing enhanced productivity for developers and content creators.",
-      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-      "points": [
-        "The feature includes an index of free weekly Substack and monthly sponsors-only newsletters.",
-        "The author used GPT-6 Astra High model to develop the feature, including a new model, migration, and view code.",
-        "The development process took about half an hour, with additional time needed for final adjustments and deployment."
-      ]
-    },
-    {
-      "summary": "The US should maintain flexibility in AI strategy to secure geopolitical advantage as outlined by RAND, while researchers have developed mice with partially human brain matter for study.",
-      "url": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
-      "points": [
-        "RAND suggests the US should invest in AI safety, build tools for understanding AI systems, and overhaul security institutions to prepare for AI advancements.",
-        "Researchers have created mice with human brain tissue by transplanting human stem-cell-derived cortical organoids into neonatal mice with depleted glutamatergic neurons.",
-        "The RAND report emphasizes the importance of spending money to retain optionality in AI development, contrasting with the current \"acceleration\" strategy focused on rapid advancement."
-      ]
-    },
-    {
-      "summary": "Navi Pillay, former UN human rights chief and ICJ judge, wins Nobel Peace Prize for her work in promoting international law.",
-      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "points": [
-        "Pillay chaired UN commission that concluded Israel was guilty of genocide in Gaza.",
-        "Norwegian Nobel committee recognized Pillay's role in showing legal measures can prevent war and violence.",
-        "Pillay is a South African judge currently serving at the International Court of Justice (ICJ)."
-      ]
-    },
-    {
-      "summary": "Isaias strengthens into the first Atlantic hurricane of 2026, expected to hit the northern Gulf coast as a category 2 storm.",
-      "significance": "Isaias becomes the first Atlantic hurricane of the 2026 season, marking the latest first hurricane formation since 1905, as it heads towards the northern Gulf coast with risks of flooding.",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "points": [
-        "Isaias has wind speeds of 80mph and a minimum pressure of 975mb.",
-        "The storm is forecast to make landfall on the northern Gulf coast on Friday.",
-        "This is the latest first hurricane formation since 8 October 1905."
-      ]
-    },
-    {
-      "summary": "US defense secretary promises a livestream of Nidal Hasan's execution by firing squad, while Trump pauses military action against Iran before midterms.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/09/first-thing-hegseth-promises-execution-live-stream-trump-pause-war-iran",
-      "points": [
-        "Defense Secretary Pete Hegseth announced Nidal Hasan\u2019s execution by firing squad will be livestreamed next month.",
-        "Trump promised no attack on Iran before the US midterm elections in November.",
-        "Hasan killed 13 people at Fort Hood, Texas, on November 5, 2009, and was sentenced to death in 2013."
-      ]
-    },
-    {
-      "summary": "Programmers are less concerned about AI's impact on their field compared to artists, despite similar risks to their work.",
-      "significance": "The story highlights the discrepancy in attitudes towards AI use in programming compared to other creative fields, suggesting a need for a more unified stance on AI's role in creativity.",
-      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-      "points": [
-        "Artists have protested AI through open letters and lawsuits.",
-        "Many programmers believe AI is acceptable if it fulfills a functional role.",
-        "The article argues that programs can be art and deserve similar respect."
-      ]
-    },
-    {
-      "summary": "A GitHub project allows AI agents to draw arrows, boxes, and text on your Mac screen to guide user actions.",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "points": [
-        "The project uses a small macOS CLI and an agent skill to display non-intrusive, click-through arrows.",
-        "It supports multiple displays and macOS Spaces, disappearing automatically after use.",
-        "The tool does not capture or click anything, only points at specific UI elements for user interaction."
       ]
     }
   ]
