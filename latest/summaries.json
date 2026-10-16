@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-16T12:41:12.302095Z",
+  "generated": "2026-10-16T14:41:45.841633Z",
   "summaries": [
+    {
+      "summary": "Hyron Andrews, a rugby player for Johannesburg Lions, died in a hotel fall before a Champions Cup match.",
+      "significance": "The death of Hyron Andrews affects his teammates, family, and fans, and leads to tributes and a game played in his honor.",
+      "url": "https://www.theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle",
+      "points": [
+        "Andrews, 31, fell in Atalante-Relais Thalasso hotel on Île de Ré.",
+        "He played for KZN Sharks and Sale Sharks besides Johannesburg Lions.",
+        "Team plans to play the next day game to honor him."
+      ]
+    },
+    {
+      "summary": "Analysis reveals higher rates of youth not in employment, education, or training in England\u2019s smaller cities and towns compared to larger cities.",
+      "url": "https://www.theguardian.com/society/2026/oct/16/neet-rates-england-smaller-cities-towns-youth-unemployment-training",
+      "points": [
+        "Centre for Cities used 2021 census data for 41 English cities and towns.",
+        "Smaller areas have higher rates of NEET youth than the nine largest cities.",
+        "Initiatives are being launched in towns like Telford to address the employment crisis."
+      ]
+    },
+    {
+      "summary": "The article discusses the author's preference for software rendering in classic DOS games like Quake, highlighting its unique visual style and performance on modern hardware.",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "points": [
+        "Quake runs at a locked 60fps at 800×600 on modern hardware.",
+        "Software rendering uses the CPU to draw every pixel, maintaining crisp square textures.",
+        "Modern machines can handle high resolutions that were impractical in the 90s."
+      ]
+    },
+    {
+      "summary": "After four years, the iroh 1.0 release marks the culmination of efforts to create a lightweight, efficient protocol for resource-constrained devices.",
+      "significance": "The release of iroh 1.0 marks a shift towards lightweight, efficient protocols for resource-constrained devices, impacting mobile and IoT applications.",
+      "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
+      "points": [
+        "iroh 1.0 was developed over four years with a focus on lightweight operations for devices like mobile phones.",
+        "The project shifted focus to QUIC for networking and BLAKE3 for verified streaming of large blobs.",
+        "deltachat integrated iroh into their codebase, enabling efficient chat history transfer across various platforms."
+      ]
+    },
     {
       "summary": "Alberta separatist conference reveals deep convictions and strategic disagreements among independence supporters.",
       "significance": "The story highlights internal disagreements among Alberta separatists over strategy, despite a strong conviction for independence from Canada.",
@@ -3713,45 +3751,6 @@
         "Isabelle/HOL and HOL4 offer robust automation and classical logic, while Lean has decent automation but lacks partial-automation features.",
         "Agda is constructive by default with minimal automation, making proof construction more manual and challenging.",
         "The comparison includes a proof of the infinitude of primes, showcasing differences in user experience and foundational logic between the systems."
-      ]
-    },
-    {
-      "summary": "The article discusses the limitations and frustrations of using coding agents, highlighting their inefficiencies and poor task management despite advancements in AI models.",
-      "significance": "The story highlights the current limitations of coding agents, indicating they are a bottleneck in AI-assisted development despite advancements in underlying models.",
-      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-      "points": [
-        "The honeymoon period with coding agents ended in February 2025 due to frequent bugs and primitive workflows.",
-        "Coding agents fail to multitask effectively, often waiting for tasks to complete before moving on to the next step.",
-        "Agents lack self-awareness and often need to search online for information about their own features and functionalities."
-      ]
-    },
-    {
-      "summary": "Earendil introduces a new system theme for Pi that adapts to the user's terminal settings, focusing on contrast for readability.",
-      "url": "https://earendil.com/posts/system-theme/",
-      "points": [
-        "The system theme now serves as Pi's default, reflecting the user's terminal color choices.",
-        "The ANSI color standard, adopted in 1976, defines eight colors without specifying their appearance.",
-        "Contrast is measured using the WCAG contrast ratio, aiming for at least 4.5:1 for normal text."
-      ]
-    },
-    {
-      "summary": "Cryptography expert Matthew Green discusses the potential risks AI poses to public-key encryption standards.",
-      "significance": "Matthew Green suggests a small but significant risk that AI could undermine public-key encryption, highlighting the need for preemptive security measures.",
-      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-      "points": [
-        "Matthew Green estimates a 15% chance of losing confidence in current public-key encryption algorithms.",
-        "Green mentions a 1% chance of living in Minicrypt, where public-key encryption is impossible.",
-        "The speed mismatch between AI innovation and human standard updates could lead to security vulnerabilities."
-      ]
-    },
-    {
-      "summary": "South African judge Navi Pillay won the 2026 Nobel Peace Prize for her work in prosecuting genocide and war crimes.",
-      "significance": "Pillay's award recognizes her extensive work in prosecuting genocide and war crimes, impacting global human rights efforts.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
-      "points": [
-        "Pillay is the fifth South African to win the Nobel Peace Prize.",
-        "She oversaw a UN inquiry that declared Israel responsible for genocide in Gaza.",
-        "The Nobel committee highlighted her role in establishing legal precedents on rape as a crime against humanity and incitement to genocide through propaganda."
       ]
     }
   ]
