@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-17T00:40:57.647594Z",
+  "generated": "2026-10-17T02:41:17.506285Z",
   "summaries": [
+    {
+      "summary": "US coastguard rescued 16 people after a boat sank off Mexico\u2019s Baja coast, with search continuing for 11 missing individuals.",
+      "significance": "The rescue highlights risks in a region frequented by smugglers and recreational vessels, with ongoing search for missing individuals.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
+      "points": [
+        "16 Mexican nationals rescued about 225km west of Ensenada, Mexico.",
+        "One survivor treated for suspected shark bite; two in critical condition.",
+        "Coastguard and US Navy continue search with multiple aircraft and ships."
+      ]
+    },
+    {
+      "summary": "England's unbeaten streak in rugby ends with a narrow loss to Canada.",
+      "url": "https://www.theguardian.com/sport/2026/oct/17/canada-england-red-roses-wxv-rugby-union-match-report",
+      "points": [
+        "Canada defeated England 24-21 at BMO Field in Toronto.",
+        "England's streak, lasting four years and 41 games, was broken.",
+        "Canada previously drew 26-26 with England in Exeter last month."
+      ]
+    },
+    {
+      "summary": "Mathias Cormann warns against adopting populist policies like migration caps, urging instead to boost productivity to ease living costs.",
+      "significance": "Cormann warns that mimicking populist policies will not solve cost of living issues or enhance productivity in Australia.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
+      "points": [
+        "Cormann, former longest-serving finance minister, advises against migration caps.",
+        "Research indicates migrants contribute positively to employment.",
+        "Urges focus on housing, real wage growth, and lower energy costs to address cost of living."
+      ]
+    },
+    {
+      "summary": "An article explains how to create an animated 88x31 pixel GIF book using ImageMagick and small fonts.",
+      "url": "https://k.sosnierz.me/08-11-24/",
+      "points": [
+        "The GIF can contain up to 4295 megapixels, though the project limits to 88x31 pixels.",
+        "Text is formatted using Unix tools like `cat`, `tr`, and `fold` to fit 22 characters per line.",
+        "The process involves converting text to images with ImageMagick's `convert` command and adjusting delays between frames."
+      ]
+    },
     {
       "summary": "Researchers in New Zealand's South Island attempt to track elusive Fiordland crested penguins, known for their forest-dwelling habits and evasive maneuvers.",
       "significance": "The story highlights ongoing efforts to study the elusive Fiordland crested penguin, aiding in conservation efforts for this mysterious species.",
@@ -3711,43 +3749,6 @@
         "French education emphasizes revolutionary history, fostering a tradition of protest.",
         "British youth face issues like student debt and housing crises but rarely protest.",
         "Kitty Sayers, a journalism student, contrasts her experiences in France and Britain."
-      ]
-    },
-    {
-      "summary": "FDA proposes expanding a loophole to allow toxic chemicals in food without safety review if not carcinogenic and below 0.5 ppb.",
-      "significance": "The story matters because it highlights a potential FDA policy change that could allow toxic chemicals in food without safety reviews, alarming experts.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
-      "points": [
-        "Proposal expands loophole for chemicals in food contact materials to include direct food additives.",
-        "Current loophole allows dangerous compounds without review if not carcinogenic and below 0.5 parts per billion.",
-        "Experts express alarm over the potential health risks of this proposal."
-      ]
-    },
-    {
-      "summary": "Longest-serving congresswoman Marcy Kaptur faces backlash over anti-transgender ad in Ohio race.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/10/marcy-kaptur-ohio-trans-ad",
-      "points": [
-        "Kaptur, in Congress since 1983, released ad criticizing transgender ideology in schools.",
-        "Ad states Kaptur voted with Republicans to keep transgender ideology out of schools.",
-        "Kaptur argues parents know best for their children, boys should not play in girls' sports."
-      ]
-    },
-    {
-      "summary": "Union protests TSA's removal of chairs for checkpoint staff to enforce professionalism.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs",
-      "points": [
-        "AFGE demands reinstatement of chairs for TSA workers.",
-        "TSA staff morale is reported to be plunging.",
-        "Chair removal ordered by the Trump administration."
-      ]
-    },
-    {
-      "summary": "Chicago archdiocese dedicated the first US memorial for suicide victims at Queen of Heaven cemetery.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/10/suicide-memorial-chicago-catholic-church",
-      "points": [
-        "Memorial honors lives lost to suicide and supports surviving families.",
-        "Rev Charles Rubey's work in supporting suicide loss families is recognized.",
-        "Rubey founded Loving Outreach to Survivors of Suicide in 1979."
       ]
     }
   ]
