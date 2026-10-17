@@ -1,6 +1,117 @@
 {
-  "generated": "2026-10-17T04:41:32.036003Z",
+  "generated": "2026-10-17T12:43:21.960130Z",
   "summaries": [
+    {
+      "summary": "US and Iran both claim control of the Strait of Hormuz amid vessel attacks.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+      "points": [
+        "At least 12 ships were attacked in the week ending October 16, 2026.",
+        "US Central Command claims 400 ships and 100 million barrels of oil moved through the Strait of Hormuz over the past week.",
+        "Brent crude reached $110 a barrel, influenced by attacks and Iran-aligned Houthis' actions."
+      ]
+    },
+    {
+      "summary": "Women gathered outside New Delhi's police headquarters to protest alleged police brutality against female demonstrators.",
+      "significance": "The protest highlights ongoing issues of police misconduct towards women in India, following recent election-related demonstrations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
+      "points": [
+        "Protest occurred on Saturday outside New Delhi's police headquarters.",
+        "Demonstrations stem from alleged brutality during protests over election irregularities.",
+        "Women are the primary group protesting the mistreatment by police."
+      ]
+    },
+    {
+      "summary": "The movie \"Digger\" is predicted to lose $245m, marking a significant flop for Tom Cruise and Hollywood.",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood",
+      "points": [
+        "Predicted loss of $245m due to misjudgment, bad timing, and hubris.",
+        "World premiere in London featured Prince William and Kate Middleton.",
+        "Star-studded cast includes Tom Cruise, Riz Ahmed, and John Goodman."
+      ]
+    },
+    {
+      "summary": "Bank of England governor Andrew Bailey led a walkout of finance leaders at an IMF meeting in Bangkok to protest Russian involvement.",
+      "significance": "The walkout by global finance leaders, including the Bank of England's governor, highlights ongoing protests against Russian participation in international financial summits.",
+      "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "points": [
+        "Andrew Bailey, alongside leaders from France, Germany, and several Scandinavian and Baltic countries, walked out.",
+        "The protest occurred when Russian finance minister Anton Siluanov addressed the group.",
+        "The incident took place during an International Monetary Fund meeting in Bangkok."
+      ]
+    },
+    {
+      "summary": "CDC will send a 'disease detective' to assist in tackling Pennsylvania's measles outbreak.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
+      "points": [
+        "Pennsylvania confirmed 1,222 measles cases as of Wednesday.",
+        "The state has confirmed six measles-related deaths.",
+        "County at the center of the outbreak lacks its own health department."
+      ]
+    },
+    {
+      "summary": "Mark Cocker reaches 1,000 articles for the Guardian's country diary, reflecting on nature and birdlife changes.",
+      "url": "https://www.theguardian.com/environment/2026/oct/17/1000-articles-for-the-guardian-country-diary-mark-cocker",
+      "points": [
+        "Mark Cocker wrote his first diary in 1987, watching a jay bury acorns.",
+        "Cocker's column is the world\u2019s oldest in an English-language newspaper.",
+        "He will reflect on rare birds like the cuckoo and nearly extinct twite in his next piece."
+      ]
+    },
+    {
+      "summary": "US corporate lobbyists intensively worked to weaken the EU's landmark deforestation law over two years.",
+      "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+      "points": [
+        "US firms and trade groups held over 350 meetings to influence the EU Deforestation Regulation.",
+        "Major companies involved include Cargill, Bunge, and Mondelēz.",
+        "The effort aimed to dilute the world\u2019s most progressive forest protection legislation."
+      ]
+    },
+    {
+      "summary": "Trump holds rallies in traditionally red states to boost Republican support amid unusual behavior.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview",
+      "points": [
+        "Trump's rallies in Montana, Tennessee, and Alaska highlight his eccentric performances.",
+        "Trump is an unpopular president leading an unpopular party in the run-up to an election.",
+        "The focus of the rallies is on Trump's behavior rather than the candidates he supports."
+      ]
+    },
+    {
+      "summary": "DeepSeek V4.1 Flash 1017 is a cost-efficient AI model with advanced image understanding and coding capabilities, priced at $0.10/M input tokens and $0.50/M output tokens.",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "points": [
+        "DeepSeek V4.1 Flash 1017 activates 8B parameters on input and 16B on output from a 552B-parameter backbone.",
+        "The model supports up to 1,048,576 token context window and up to 131,072 completion tokens.",
+        "It is served by 3 providers on OpenRouter: inference.net, DeepInfra, and DeepSeek."
+      ]
+    },
+    {
+      "summary": "A tool called Llmspeed lets users gauge the speed of local LLMs before hardware purchase.",
+      "significance": "Llmspeed allows users to assess local LLM performance speeds, aiding informed hardware purchases for AI enthusiasts and professionals.",
+      "url": "https://llmspeed.dev/",
+      "points": [
+        "Estimates performance for short prompts on individual devices.",
+        "Relies on community benchmarks from sources like r/LocalLLaMA and localscore.ai.",
+        "Provides measured numbers and projections based on similar setups or specs."
+      ]
+    },
+    {
+      "summary": "Lingua Franca is a coordination language for deterministic, efficient concurrent programming across multiple languages.",
+      "url": "https://www.lf-lang.org/",
+      "points": [
+        "Eliminates race conditions and manual synchronization by design.",
+        "Supports C, C++, Python, TypeScript, and Rust for reactive components.",
+        "Developed with contributions from universities including UC Berkeley, Kiel University, and TU Dresden."
+      ]
+    },
+    {
+      "summary": "The article discusses the latest advancements in AI models and their performance metrics, focusing on new releases and updates from various companies.",
+      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+      "points": [
+        "Meta's Muse Spark 1.3, an 816B-total, 42B-active MoE model, ranks highest on AA\u2019s Intelligence Index at 39.",
+        "Muse Spark 1.3 charges $1.25/$4.25 per M input/output tokens, with the lowest output tokens per task among top nine open models.",
+        "The model ranks last on AA\u2019s four agentic evals but leads open models on AA-Omniscience and tops US open models on Code Arena WebDev."
+      ]
+    },
     {
       "summary": "Chancellor Healey argues for a third runway at Heathrow, despite Prime Minister Burnham's reservations.",
       "significance": "Chancellor Healey argues for Heathrow's third runway, citing growth and jobs, amid mixed government support and ongoing public consultation.",
@@ -3634,122 +3745,6 @@
         "Async I/O in DuckDB 2.0 makes reading data over S3 2x to 3x faster with no query changes.",
         "Recursive CTE engine in 2.0 improves graph reachability performance by 40x compared to version 1.5.",
         "DuckDB 2.0 introduces VARIANT type with shredding, which splits consistent JSON fields into sub-columns, improving query performance by up to 78 times."
-      ]
-    },
-    {
-      "summary": "Delhi authorities detain thousands, including \"Cockroach\" movement leader, to halt protest over 130m electoral roll removals.",
-      "significance": "The crackdown highlights government efforts to suppress protests over the removal of millions from the electoral roll, affecting potential voter participation and civil liberties.",
-      "url": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns",
-      "points": [
-        "130 million names removed from India\u2019s electoral roll.",
-        "\"Cockroach\" movement leader among tens of thousands detained.",
-        "Delhi placed under severe lockdown to prevent anti-government rally."
-      ]
-    },
-    {
-      "summary": "Christa Pike, surviving a botched execution attempt, is back in prison after a hospital stay.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/10/christa-pike-discharged-back-in-prison",
-      "points": [
-        "Pike returned to Deborah K Johnson rehabilitation center, her prison for the last 30 years.",
-        "The botched execution attempt occurred on September 30 in Tennessee.",
-        "Pike's legal team includes Stephen Ferrell, Luke Ihnen, Randy Spivey, and Kelly Gleason."
-      ]
-    },
-    {
-      "summary": "Chrome 154 introduces a new feature allowing iframes to automatically adjust their height to fit content with a single line of CSS.",
-      "significance": "This story matters because it simplifies iframe resizing with a single line of CSS, though it still requires the embedded page's cooperation.",
-      "url": "https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html",
-      "points": [
-        "The feature requires the iframe's content page to include a specific meta tag to allow resizing.",
-        "The embedded page must call a function to request a new measurement when its content changes.",
-        "The functionality is currently only available in Chrome, with no support from Firefox or Safari yet."
-      ]
-    },
-    {
-      "summary": "Thousands protest in London supporting Palestinians, marching towards parliament.",
-      "significance": "The march follows Ed Miliband's declaration that Israel\u2019s occupation of the West Bank is unlawful, showing continued public support for Palestinians.",
-      "url": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
-      "points": [
-        "Protesters gathered on Embankment, marching towards parliament with placards.",
-        "Event marks first since Ed Miliband stated UK views Israel\u2019s West Bank occupation as unlawful.",
-        "A two-minute silence was held to honor lives lost in Gaza."
-      ]
-    },
-    {
-      "summary": "A person received a reward check from Donald Knuth for finding an error in his book \"Computer Modern Typefaces.\"",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check",
-      "points": [
-        "The error was found on page one, the very first word of the book.",
-        "The initial reward was $2.88, represented as \"0x$1.20\" in hexadecimal.",
-        "A subsequent proposed error was incorrect, but the person received an additional $0.32 for a good suggestion."
-      ]
-    },
-    {
-      "summary": "Rampart is an on-device PII filtering system that redacts personal information before it leaves the user's device.",
-      "significance": "Rampart enables on-device PII redaction in browsers, ensuring personal information privacy without relying on potentially insecure remote servers.",
-      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "points": [
-        "Rampart uses regular expressions and MiniLM to redact structured and contextual PII.",
-        "The system supports seven languages and operates entirely within the browser.",
-        "It redacts information such as SSNs, credit cards, and names to protect user privacy."
-      ]
-    },
-    {
-      "summary": "Yemen has slid back into full-scale war as government forces fight against Houthi rebels, causing civilian casualties and displacement.",
-      "significance": "The story indicates Yemen has returned to full-scale war, affecting over 200,000 displaced civilians and threatening regional stability.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
-      "points": [
-        "UN envoy Hans Grundberg warns of a return to full-scale war at the UN Security Council.",
-        "Over 200,000 people have been displaced since September due to escalated fighting.",
-        "At least 46 civilians have been killed and over 130 injured since August, many of them children.",
-        "Government forces aim to retake the Bab al-Mandeb strait, a critical trade route for global shipping."
-      ]
-    },
-    {
-      "summary": "South African billionaire Koos Bekker transforms a Somerset estate into a luxury hotel complex, raising local concerns.",
-      "url": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate",
-      "points": [
-        "Koos Bekker purchased and developed the Newt estate in Somerset.",
-        "The estate includes luxury hotels, pubs, and high street businesses.",
-        "Local residents have concerns about issues such as flooding."
-      ]
-    },
-    {
-      "summary": "Isaias weakened to a post-tropical cyclone after hitting Florida's panhandle as a category 2 hurricane, leaving nearly a million without power.",
-      "significance": "The story highlights the significant power outages and ongoing threats of flooding and tornadoes affecting Florida, Alabama, and Georgia in the wake of Isaias.",
-      "url": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
-      "points": [
-        "Over 868,000 customers in Florida, Alabama, and Georgia lost power.",
-        "Isaias struck Florida's panhandle as a category 2 hurricane on Friday night.",
-        "Flooding and tornado threats persisted as the storm moved inland."
-      ]
-    },
-    {
-      "summary": "New York City's EMS workers, including Oren Barzilay, advise against joining the profession due to low pay.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/10/ems-workers-nyc-low-pay",
-      "points": [
-        "Oren Barzilay, after 31 years, advises young people not to enter EMS.",
-        "EMS workers are the lowest paid first responders in New York City.",
-        "Barzilay recently retired as president of FDNY EMS Local 2507."
-      ]
-    },
-    {
-      "summary": "Two tornadoes hit Marsala, Sicily, injuring dozens and damaging buildings.",
-      "url": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
-      "points": [
-        "Marsala, on Sicily\u2019s west coast, was hit by powerful storms from the Mediterranean.",
-        "Videos showed two waterspouts approaching the town from the sea.",
-        "A school and multiple cars were among the damaged structures."
-      ]
-    },
-    {
-      "summary": "The article argues that lobbying, though legal, functions as a form of corruption by allowing wealthy individuals and corporations to influence politicians.",
-      "significance": "The story highlights how lobbying, though legal, functions as a form of corruption by influencing politicians to favor those who fund their campaigns.",
-      "url": "https://carette.xyz/posts/lobbying_and_corruption/",
-      "points": [
-        "Corruption includes influence peddling, which is legal in many countries.",
-        "Politicians often get lucrative jobs in the private sector after leaving office.",
-        "Lobbying allows wealthy entities to shape laws to their benefit through campaign contributions."
       ]
     }
   ]
