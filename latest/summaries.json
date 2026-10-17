@@ -1,6 +1,52 @@
 {
-  "generated": "2026-10-16T22:41:49.917420Z",
+  "generated": "2026-10-17T00:40:57.647594Z",
   "summaries": [
+    {
+      "summary": "Researchers in New Zealand's South Island attempt to track elusive Fiordland crested penguins, known for their forest-dwelling habits and evasive maneuvers.",
+      "significance": "The story highlights ongoing efforts to study the elusive Fiordland crested penguin, aiding in conservation efforts for this mysterious species.",
+      "url": "https://www.theguardian.com/world/2026/oct/17/secrets-of-new-zealand-fiordland-crested-penguin-tawaki",
+      "points": [
+        "Researchers monitor Eleanor Island burrows to retrieve data from tagged penguins.",
+        "Tawaki penguins dig multiple tunnels to evade capture by scientists.",
+        "Annual nest survey takes place around Doubtful Sound on the South Island."
+      ]
+    },
+    {
+      "summary": "Sydney's historic Wentworth Park, known for greyhound racing, held its final races before demolition.",
+      "significance": "The closure of Wentworth Park affects long-time racing fans and marks the end of a significant historical sporting site in Sydney.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/gone-to-the-dogs-racing-fans-mourn-closure-of-wenty-sydneys-historic-greyhound-track",
+      "points": [
+        "Final races at Wentworth Park drew thousands on Friday night.",
+        "Greyhound races have been held at the park since 1932.",
+        "The stadium will be demolished and turned into parkland."
+      ]
+    },
+    {
+      "summary": "In Australia, mortgage repayments are now cheaper than rent in some suburbs due to high rents and falling property prices.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/buying-a-home-cheaper-than-renting-in-some-australian-suburbs",
+      "points": [
+        "Median rents in inner-city Melbourne, suburban Canberra, and Darwin nearly match weekly home loan repayments.",
+        "In 10% of Australian suburbs and towns, repayments are less than $200 a week higher than rent."
+      ]
+    },
+    {
+      "summary": "Trump at a Georgia rally claimed the election of Jon Ossoff was illegitimate, dismissing critics and supporting Mike Collins.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
+      "points": [
+        "Trump labeled Ossoff's election as fraudulent, undermining Georgia's democratic process.",
+        "Trump supports Mike Collins against Ossoff in the upcoming November election.",
+        "Trump described his two-year run as the 'most successful,' despite election claims."
+      ]
+    },
+    {
+      "summary": "Alan Feeney resigned from Solihull and Birmingham councils after being caught on camera making racist remarks.",
+      "url": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks",
+      "points": [
+        "Feeney admitted there was 'no excuse' for his comments.",
+        "Resigned from positions on both Solihull borough council and Birmingham city council.",
+        "His racist remarks were uncovered in an undercover investigation."
+      ]
+    },
     {
       "summary": "A 16-year-old former student killed three students and a teacher in a shooting at an elementary school in Bend, Oregon, before being shot by a bystander.",
       "significance": "The shooting highlights the ongoing issue of school safety and the tragic impact of gun violence on young communities.",
@@ -3702,52 +3748,6 @@
         "Memorial honors lives lost to suicide and supports surviving families.",
         "Rev Charles Rubey's work in supporting suicide loss families is recognized.",
         "Rubey founded Loving Outreach to Survivors of Suicide in 1979."
-      ]
-    },
-    {
-      "summary": "A Danish IT company's use of the password \"123456\" led to a massive data breach of Denmark\u2019s CPR register.",
-      "significance": "The use of a simple password \"123456\" in a major data breach highlights critical security failures, affecting 8.8 million individuals in Denmark.",
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "points": [
-        "At least three accounts, including an administrator, used the password \"123456\".",
-        "The breach exposed information linked to around 8.8 million CPR numbers.",
-        "The hacker had access to the CPR register for 21 days and 17 hours starting from September 10."
-      ]
-    },
-    {
-      "summary": "Standard C lacks a portable method for checking string-to-float conversion errors.",
-      "url": "https://sebsite.pw/w/20261009-strtod.html",
-      "points": [
-        "POSIX specifies stricter requirements than standard C for overflow/underflow.",
-        "Underflow detection is optional and implementation-defined.",
-        "Error checking for malformed strings is not standardized, leading to non-portable behavior."
-      ]
-    },
-    {
-      "summary": "Talorys is a free, open-source personal AI assistant running on Cloudflare's free tier, offering chat, memory, tasks, and reminders.",
-      "url": "https://github.com/rociiu/talorys",
-      "points": [
-        "Deployed with a single command: `npx create-talorys@latest`.",
-        "Operates within one Cloudflare account, designed for single-user use.",
-        "No telemetry, uses Cloudflare's Workers AI for chat and reminders."
-      ]
-    },
-    {
-      "summary": "Apple's macOS has been removed from the official Unix registry, impacting its certified status.",
-      "url": "https://www.opengroup.org//openbrand/register/",
-      "points": [
-        "macOS is no longer listed as a certified Unix system by The Open Group.",
-        "UNIX certification ensures portability, compatibility, and interoperability across systems.",
-        "Removal affects macOS's status as a trusted and open system industry standard."
-      ]
-    },
-    {
-      "summary": "REA tool allows users to inspect and reverse-engineer program setups and functions.",
-      "url": "https://rea.tools/",
-      "points": [
-        "REA inspected Windows Calculator 11.2508.4.0, x64, using version 4.1.0.",
-        "After 4,000 updates, speed was 10.0; after 10,000, it was 13.0.",
-        "Users can inspect functions, strings, and call relationships in browser or process activity."
       ]
     }
   ]

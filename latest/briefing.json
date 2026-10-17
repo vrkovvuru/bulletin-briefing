@@ -2,13 +2,22 @@
   "date": "2026-10-16",
   "stories": [
     {
-      "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
+      "title": "Katie Zacharia is out as press secretary, White House says",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Katie Zacharia's first official day was on Monday.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+      "summary": "Katie Zacharia is \"transitioning out\" of her role as press secretary, according to a White House official not authorized to speak on the record, marking a stunning turn of events for the spokeswoman.",
+      "alsoReportedBy": ["NPR", "The Guardian", "Al Jazeera"]
+    },
+    {
+      "title": "Oregon school shooter was former special needs student, police say",
+      "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
@@ -20,39 +29,48 @@
       "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
-      "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
-      "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+      "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Attack comes as Yemeni gov&#039;t forces claim advances in Marib and say they &#039;neutralised&#039; 430 Houthi fighters in 24 hours.",
+      "summary": "Trump says the US Navy blockade has stopped all Iranian ships from crossing the Strait of Hormuz.",
       "alsoReportedBy": []
     },
     {
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Uncovering the secrets of New Zealand’s elusive ‘jungle penguins’",
+      "url": "https://www.theguardian.com/world/2026/oct/17/secrets-of-new-zealand-fiordland-crested-penguin-tawaki",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro&#039;s profile and his WhatsApp channel.",
+      "summary": "The tawaki, or Fiordland crested penguin, known for its prominent yellow eyebrows, has for years baffled scientists with its unusual habits Deep in the misty fjords of New Zealand’s South Island, a team of researchers is trying to catch one of the world’s most elusive penguins: the forest-dwelling tawaki, or Fiordland crested penguin.For weeks, researchers stand sentry each day over a burrow on Eleanor Island, hoping to corner the female bird so they can retrieve data from its tagging device. But this penguin has developed a clever exit strategy – digging multiple tunnels to elude its captors. The Tutoko I prepares for a research trip during its annual Fiordland crested penguin nest survey around Doubtful Sound Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here&#039;s how it works.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason.",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "“If you’re in doubt about somebody’s name from the Middle East, just say ‘Mohammed,’” says US President Donald Trump.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
       "alsoReportedBy": []
     },
     {
@@ -65,48 +83,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Game, set and tache: Carlos Alcaraz joins growing trend for a stylish top lip",
-      "url": "https://www.theguardian.com/fashion/2026/oct/16/game-set-tache-carlos-alcarez-growing-trend-stylish-top-lip",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Tennis superstar is latest celebrity to sport a ‘refined’ moustache which owes little to bushy Tom Selleck look The tennis superstar Carlos Alcaraz might have been knocked out of the Shanghai Masters in straight sets earlier this week, but he did so sporting a moustache that became almost as remarked upon as his aptitude for a sneaky drop shot. “I always wanted to step on the court at least once with the moustache,” Alcaraz said. The Spaniard and his team had all agreed to take the facial-hair plunge if he won the Japan Open, which he did for a second straight year. “¡Bigotes para todos!” or “moustaches for everyone”, they apparently cheered at the end of the match. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "summary": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason.",
       "alsoReportedBy": []
     },
     {
-      "title": "Norwegian teen 'hitman' jailed over UK murder plot",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
       "alsoReportedBy": []
     },
     {
-      "title": "Oregon elementary school shooting: what we know so far",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-silver-rail-elementary-school-shooting-what-we-know-so-far",
-      "source": "Guardian World",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The rural Oregon city of Bend was rocked by a mass shooting at an elementary school that killed three students and a teacher. Here’s what we know about the tragedy Shooter in fatal Bend, Oregon, school shooting was former student there Bystander who killed Oregon shooter identified as father of girls at elementary school A 16-year-old gunman opened fire at the Silver Rail elementary school in Bend, Oregon, on Thursday, killing three children and a teacher. The student victims were aged five, eight and 11. All of the victims were shot in the same classroom. On Friday, the youngest victim was identified as Rhoam Summer, age five. His family said he was a fast runner and fearless climber who loved reading and his stuffed animals. “He never met a stuffie that he didn’t think needed to be rescued and cared for,” said his aunt, Swan Sheridan, who described him as “a little ball of energy from the moment he was born”. The names of the other student victims have not been released. The teacher who was killed has been identified as 25-year-old Megan Lambert. In a statement read by officials on Friday, her family said she grew up in Bend, graduated from Boise State University and had a passion for sports, especially volleyball, and was a local coach. They said she was funny and opinionated, and “fought for the underdog” and “those with special needs”. “Meg loved those children,” the family said. The 16-year-old shooter has been identified as Griffin J John II, a former student at the school. Griffin was killed at the scene. Police have yet to offer a motive. Police said that an armed bystander pursued the suspect and shot him inside the school shortly before officers arrived. On Friday, that bystander was identified by his family as Kaylub Giamanco, a lifelong resident of Bend with two daughters at Silver Rail elementary. His family and others have called him a “hero”. Two other victims, a seven-year-old student and a 54-year-old teacher, remain hospitalized. As of Friday afternoon, authorities said the student was receiving “life-saving care”, while the teacher was described as having “significant” but non-life-threatening injuries, police said. The wounded teacher was identified by family as Becky Drury. Her mother-in-law, Yvonne Drury, said on Facebook that she had injuries to her left arm and right hand and was recovering from surgery. Police arrived at the school at 1.02pm local time after receiving multiple reports of a shooting. One 911 caller reported an individual armed with a long gun firing upon their car. At a news conference on Friday, police said the shooter climbed over a fence and onto the school’s property, before shooting through a set of locked doors and forcing entry into the building. He fired as many as 15 shots from a 12-gauge shotgun before he was stopped, police said. The attack has rocked the small city of Bend, which is home to 100,000 residents and is located on the Deschutes River, about 170 miles (275km) south-east of Portland. All public schools in the district, and the campuses of Oregon State University-Cascades and Central Oregon Community College, were closed on Friday. Hundreds of people gathered at nearby Drake Park on Thursday night at a somber candlelight ceremony to remember the victims. Some attenders called on authorities to harden gun laws in Oregon, already some of the tightest in the nation. Officials have praised the swift actions of law enforcement officers and of the community member who intervened. The Oregon governor, Tina Kotek, praised the intervention as heroic and extended her thoughts to the bystander. “Your actions carry a heavy emotional burden,” she said on Thursday evening. The FBI is helping local authorities investigate the shooting, according to the agency’s director, Kash Patel. Continue reading...",
+      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
       "alsoReportedBy": []
     },
     {
@@ -119,12 +119,57 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
-      "url": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+      "title": "Katie Zacharia leaving her White House role less than five days on the job",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/gone-to-the-dogs-racing-fans-mourn-closure-of-wenty-sydneys-historic-greyhound-track",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Chancellor says government will study responses to public consultation, with airports being ‘big part of jobs and growth’ John Healey has said there is a pro-growth case for going ahead with a third runway at Heathrow despite the prime minister declining to back it. Healey’s predecessor as chancellor, Rachel Reeves, put approval of the long-planned runway at the heart of her “growth speech” last year, saying it would “make Britain the world’s best-connected place to do business” . Continue reading...",
+      "summary": "Thousands pack Wentworth Park for the final time before the stadium is demolished and returned to parkland Get our breaking news email , free app or daily news podcast The end of an era has fallen upon an Australian sporting landmark as the greyhound races at an inner-city track kicked off for the very last time. Thousands packed into Wentworth Park in central Sydney on Friday night, where greyhound races have been held since 1932, for the last race meeting before the track’s planned demolition. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them?",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/buying-a-home-cheaper-than-renting-in-some-australian-suburbs",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "As house prices plateau, the gap between the cost of buying and renting is narrowing in dozens of suburbs Get our breaking news email , free app or daily news podcast High rents and falling property prices have opened a rare window for Australian tenants to become homeowners, with mortgage repayments cheaper than rent in dozens of suburbs. Guardian Australia’s analysis of Cotality data shows that median rents in inner-city Melbourne, suburban Canberra and Darwin are now nearly matching weekly home loan repayments. In one in 10 suburbs and towns across the country, repayments are less than $200 a week higher than rent, for the typical property. In some suburbs, they are actually cheaper. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "President appears at rally for struggling Mike Collins, dismisses critics and touts ‘most successful’ two-year run At a rally in north Georgia, Donald Trump again claimed that the 2020 election in Georgia was fraudulent, alleging that the election of US senator Jon Ossoff was illegitimate. Ossoff, who faces US congressman Mike Collins in November, does not represent Georgia’s values, Trump said. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Reform councillor resigns after being filmed making racist remarks",
+      "url": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Alan Feeney, who sat on Solihull and Birmingham councils, said there was ‘no excuse’ for his comments Alan Feeney has resigned as a Reform councillor for Solihull and Birmingham after backlash over racist comments that were captured in an undercover investigation. In a Facebook post on Friday, Feeney wrote: “There is no excuse for my comments. With responsibility comes accountability, and it is for that reason that I have resigned every post I hold on both Solihull borough council and Birmingham city council.” Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -134,51 +179,6 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely seen as a desperate electoral gambit. The U-turn, which Lula announced during a Thursday night interview with TV Globo, comes with the presidential runoff in just over a week. The incumbent faces an uphill battle to overturn the first-round victory of his opponent, the far-right senator Flávio Bolsonaro, who remains slightly ahead at the polls. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "New York man charged with rape and lethal fentanyl dosing of college student",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/new-york-fashion-institute-of-technology-rape-fentanyl-overdose",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Prosecutors allege Moises Freire gave two students at FIT the opioid, saying it was cocaine, and raped one as she overdosed A man raped a student at New York ’s Fashion Institute of Technology (FIT) after giving her a dose of fentanyl that rendered her unconscious and ultimately killed her, federal prosecutors allege. That student’s friend also experienced an overdose and nearly died after taking the potent synthetic opiate, leading to charges against three men, the US Department of Justice said in a statement on Thursday. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "India's 'cockroach' party founder detained ahead of protest",
-      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Russia's view amid Ukraine's strikes and Zelenskyy's growing rift with the U.S.",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Russian authorities say Ukraine struck a major oil refinery southeast of Moscow Thursday. The strike was in response to Russia's attacks on Ukrainian energy infrastructure.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report . More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, according to HIV Justice Network , an organisation quoted in the Human Rights Watch (HRW) report. Among these, at least 84 were charged with “voluntary HIV transmission”, solely on the basis of their HIV status. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Albanian protests turn violent: What we know",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
       "alsoReportedBy": []
     },
     {
@@ -218,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
