@@ -1,6 +1,90 @@
 {
-  "generated": "2026-10-17T18:41:16.391578Z",
+  "generated": "2026-10-17T20:42:20.457117Z",
   "summaries": [
+    {
+      "summary": "Over 400 arrests made as French police clash with protesters supporting high school students and protesting economic issues.",
+      "significance": "The story highlights escalating tensions and widespread discontent in France over student grievances and economic issues, leading to violent protests and mass arrests.",
+      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+      "points": [
+        "More than 400 people arrested during clashes.",
+        "Police used teargas in confrontations with protesters in Paris.",
+        "Protesters stormed a town hall in Marseille during the unrest."
+      ]
+    },
+    {
+      "summary": "ICE agent crashed into a construction worker, mistaking him for a suspect who had died years ago.",
+      "significance": "ICE agent's mistaken pursuit of a deceased suspect highlights flaws in immigration enforcement practices, impacting public trust and immigrant rights.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/ice-crash-houston",
+      "points": [
+        "Worker Miguel Parra Hernandez, 48, hospitalized with multiple leg fractures.",
+        "ICE agent believed he was pursuing a suspect who had died years ago.",
+        "Documentation proving the suspect's death was shared by his family."
+      ]
+    },
+    {
+      "summary": "A Reform UK candidate was caught on camera suggesting asylum seekers should be placed in concentration camps and that Muslims cannot be British.",
+      "url": "https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps",
+      "points": [
+        "The candidate made the remarks during an ITV undercover investigation.",
+        "Reform UK has been accused of \"appalling behaviour\" and \"extreme racism\" due to the comments.",
+        "The candidate suggested Muslims are incapable of being British citizens."
+      ]
+    },
+    {
+      "summary": "Research shows nearly all homes destroyed in NSW's black summer bushfires were within 100 meters of vegetation, validating risk maps.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
+      "points": [
+        "99% of destroyed homes were within 100 meters of flammable vegetation.",
+        "Official risk maps used by authorities are confirmed as accurate by the research.",
+        "Worsening fire conditions due to global heating may require extending safety distances."
+      ]
+    },
+    {
+      "summary": "A masked lapwing is nesting in the middle of a Tasmanian cricket ground, ignoring ongoing matches.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues",
+      "points": [
+        "The bird is located at Windsor Park oval, Riverside, just outside Launceston.",
+        "Locals nicknamed the bird \"Faf Swoop Plessis,\" referencing former cricket captain Faf du Plessis.",
+        "Despite its species' reputation for swooping, this lapwing shows indifference to the cricket matches."
+      ]
+    },
+    {
+      "summary": "Bleached coral fragments can recover within days when in contact with healthy fragments from the same individual.",
+      "significance": "This story matters because it demonstrates a rapid method to reverse coral bleaching by physical contact with healthy coral, offering potential scalable solutions for coral reef conservation.",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "points": [
+        "Recovery occurs through a tissue bridge that enables symbiont transfer.",
+        "In experiments, bleached coral fully recovered within eight weeks when touching healthy fragments.",
+        "The process did not work for fragments from different species or different animals of the same species."
+      ]
+    },
+    {
+      "summary": "Estonian online voting system's source code is made publicly available in a repository.",
+      "url": "https://github.com/valimised/ivxv",
+      "points": [
+        "Repository contains the actual code used in elections.",
+        "State Electoral Office of Estonia supervises the development.",
+        "Repository will be kept up to date but not used for active development."
+      ]
+    },
+    {
+      "summary": "A hacker describes a nine-year journey to modchip an Xbox 360 using fault injection techniques.",
+      "url": "https://kennedn.com/blog/posts/glitching/",
+      "points": [
+        "The hacker used a Matrix CoolRunner Rev D glitcher to deliver a 100 nanosecond pulse to the Xbox 360.",
+        "In 2026, the hacker successfully modchipped the Xbox 360 using a Raspberry Pi Pico microcontroller.",
+        "The Raspberry Pi Pico, released in 2021 for £5, enabled precise timing and simplified the modchipping process."
+      ]
+    },
+    {
+      "summary": "Dam removals in the northeastern U.S. are restoring fish populations, particularly herring.",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "points": [
+        "Over 1,800 dams have been removed from U.S. waterways since 1912.",
+        "In 2024, dam removals reconnected more than 2,500 miles of fragmented rivers.",
+        "New Hampshire removed several dams in 2024, including the historic Talbot Mills Dam."
+      ]
+    },
     {
       "summary": "Israeli settlers attacked European diplomats, a French mayor, and an archbishop in the West Bank, disrupting olive harvesting.",
       "significance": "The attack highlights escalating tensions and violence involving Israeli settlers against international figures supporting Palestinian olive harvesting rights.",
@@ -3661,89 +3745,6 @@
         "Wes Streeting asserts Ukrainians should choose their leader.",
         "Trump's call coincides with US agreement to buy Russian diesel.",
         "Priority is to maintain Western unity over Russia conflict."
-      ]
-    },
-    {
-      "summary": "A developer paid people to test and provide feedback on their README documentation to improve its clarity and usability.",
-      "significance": "This story matters because it highlights the importance of user testing for technical documentation, showing how real user feedback can significantly improve the clarity and usability of README files.",
-      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "points": [
-        "Paid \u20ac25 per person for an hour of feedback on the installation experience.",
-        "Updated the README after each session based on the difficulties users encountered.",
-        "Found that real human feedback was more valuable than using language models for simulation."
-      ]
-    },
-    {
-      "summary": "The GNU Project advises developers to avoid GitHub due to its harmful practices and its role as a SaaSS (Service as a Software Substitute) dis-service.",
-      "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
-      "points": [
-        "GitHub's Copilot feature has been controversial for generating code that may infringe on copyright and for overwhelming project maintainers with low-quality bug reports.",
-        "GitHub's model ties users into a centralized system, limiting the use of free software Git by requiring interactions through nonfree JavaScript and spyware-laden tools."
-      ]
-    },
-    {
-      "summary": "LineageOS released version 24.0, featuring security updates and UI improvements, ahead of its 10-year anniversary in 2026.",
-      "url": "https://lineageos.org/Changelog-32/",
-      "points": [
-        "Security patches from August 2025 to October 2026 merged into LineageOS 18.1 through 24.0.",
-        "LineageOS 24.0 includes UI/UX refinements and Material Design 3 updates for core apps.",
-        "New browser-based flash tools using WebUSB introduced for easier device installation."
-      ]
-    },
-    {
-      "summary": "The size of a Git commit varies based on file compressibility and directory structure.",
-      "url": "https://ratfactor.com/cards/git-commit-size",
-      "points": [
-        "Committing 3 bytes of change in a directory of 50 files results in kilobytes of overhead.",
-        "Larger commits with fewer files can store data as little as 10% of the uncompressed size.",
-        "A single tiny file commit shows substantial overhead, indicating larger commits save space."
-      ]
-    },
-    {
-      "summary": "Nitter seeks funding and legal help after receiving cease and desist letters from X Corp.",
-      "url": "https://nitter.net",
-      "points": [
-        "X Corp sent cease and desist letters on 24 August 2026 and 8 September 2026.",
-        "Previous assurances about legal representation were found to be untrue.",
-        "Donations will prioritize legal costs, with surplus supporting Nitter or its successor."
-      ]
-    },
-    {
-      "summary": "IRCv3 specifications detail modern IRC protocol enhancements and extensions.",
-      "url": "https://ircv3.net/",
-      "points": [
-        "Standardised account login using SASL for quicker registration.",
-        "Instant away notifications for real-time user status updates.",
-        "Support for Unicode nicknames and channel names for international users."
-      ]
-    },
-    {
-      "summary": "Cloudflare acquires Deno, aiming to support celld development while ceasing Deno runtime development after a year.",
-      "significance": "The acquisition shifts focus from Deno to celld, impacting the future development and maintenance of Deno's runtime.",
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-      "points": [
-        "Cloudflare will support Deno runtime with monthly updates for one year post-acquisition.",
-        "Deno's creator, Ryan Dahl, sees celld as more aligned with building new abstractions.",
-        "Deno introduced a permissions system for specifying file and network access, now partially mirrored in Node.js."
-      ]
-    },
-    {
-      "summary": "UN warns that developing nations are at risk of a triple shock from energy crisis, El Niño, and high borrowing costs, potentially pushing millions back into poverty.",
-      "significance": "The story highlights the urgent need for international support to prevent tens of millions in developing nations from falling back into poverty due to compounded crises.",
-      "url": "https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns",
-      "points": [
-        "UNDP\u2019s administrator Alexander De Croo calls for urgent international support.",
-        "Crises could push tens or hundreds of millions back into poverty.",
-        "Warning comes ahead of IMF and World Bank meetings in Bangkok."
-      ]
-    },
-    {
-      "summary": "Developers often assume consistency can be achieved within a single component, but Apache Kafka's journey illustrates the complexity.",
-      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
-      "points": [
-        "Achieving exactly-once writes in Kafka took years and multiple new components.",
-        "Exactly-once processing requires an end-to-end guarantee, not just within components.",
-        "Eight years after initial release, Kafka's protocol was still being redesigned for correctness."
       ]
     }
   ]
