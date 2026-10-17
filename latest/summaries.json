@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-17T02:41:17.506285Z",
+  "generated": "2026-10-17T04:41:32.036003Z",
   "summaries": [
+    {
+      "summary": "Chancellor Healey argues for a third runway at Heathrow, despite Prime Minister Burnham's reservations.",
+      "significance": "Chancellor Healey argues for Heathrow's third runway, citing growth and jobs, amid mixed government support and ongoing public consultation.",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Chancellor Healey asserts that airport expansion, including Heathrow, has driven jobs and growth.",
+        "Prime Minister Burnham remains cautious, stating it is \"a matter for London and Londoners.\"",
+        "Heathrow's CEO warns not building the third runway would be a \"huge missed opportunity,\" with the project valued at £33bn."
+      ]
+    },
+    {
+      "summary": "Trump delays new Russia sanctions, citing national interest, amid tensions with Ukraine.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
+      "points": [
+        "Trump waived sanctions championed by late Senator Lindsey Graham.",
+        "Sanctions were due to target the Russian economy comprehensively.",
+        "Trump's move follows public criticism of Ukrainian President Volodymyr Zelenskyy."
+      ]
+    },
+    {
+      "summary": "The article discusses the concept of \"decoherence\" in AI systems, where the accumulation of incompatible models leads to increased complexity and cost.",
+      "significance": "The story highlights how AI-generated models can lead to unsustainable complexity, affecting system efficiency and sustainability.",
+      "url": "https://maevyn.codes/decoherence",
+      "points": [
+        "Decoherence increases exponentially as the system changes, making it unsustainable with widespread AI use.",
+        "The phenomenon prevents AI from achieving runaway self-improvement, limiting its rate of improvement.",
+        "Using examples like replacing pipes in a building, the article illustrates how incremental changes lead to a complex, patchwork system requiring more expertise to manage."
+      ]
+    },
+    {
+      "summary": "Ultramarine 1 Flash, a new AI model, excels in knowledge work tasks across multiple industries at a significantly lower cost than competitors.",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "points": [
+        "Ultramarine 1 Flash is 60x cheaper than Fable, costing $0.13 per task.",
+        "It generates 6.5% fewer tokens than GLM-5.3 Flash but achieves better work efficiency.",
+        "In finance, steel mills earnings dropped from $7.2bn in 2022 to $2.4bn in 2025, with their sales share rising to 62%."
+      ]
+    },
     {
       "summary": "US coastguard rescued 16 people after a boat sank off Mexico\u2019s Baja coast, with search continuing for 11 missing individuals.",
       "significance": "The rescue highlights risks in a region frequented by smugglers and recreational vessels, with ongoing search for missing individuals.",
@@ -3712,43 +3750,6 @@
         "Corruption includes influence peddling, which is legal in many countries.",
         "Politicians often get lucrative jobs in the private sector after leaving office.",
         "Lobbying allows wealthy entities to shape laws to their benefit through campaign contributions."
-      ]
-    },
-    {
-      "summary": "The article argues that the concept of AI being \"inevitable\" is a misconception, highlighting that technological adoption depends on social and cultural contexts.",
-      "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-      "points": [
-        "The inevitability of a technology depends on its social and cultural usefulness, not just its technical capabilities.",
-        "Technologies like firearms can be considered inevitable due to their overwhelming impact and lack of effective countermeasures.",
-        "The adoption of AI, like other technologies, is contingent on its ability to outperform alternatives and its social value, rather than being inherently inevitable."
-      ]
-    },
-    {
-      "summary": "A graffiti artist in Spain honored 'Maricarmen', an 87-year-old symbol of Spain's housing crisis, through street art.",
-      "significance": "An artist's graffiti commemorates 'Maricarmen', symbolizing Spain's housing crisis and honoring a figure in the fight for housing rights.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/graffiti-artist-honours-spains-housing-rights-figure?traffic_source=rss",
-      "points": [
-        "Maricarmen, 87, lost her home and became a symbol of Spain\u2019s housing affordability issues.",
-        "The artist used graffiti to commemorate Maricarmen posthumously.",
-        "Maricarmen's plight highlighted the severe housing crisis in Spain."
-      ]
-    },
-    {
-      "summary": "Influencer Nara Smith clarifies her lifestyle choices and rejects labels like \"tradwife.\"",
-      "url": "https://www.theguardian.com/media/2026/oct/10/nara-aziza-smith-influencer-model-actor-mother-four-not-tradwife",
-      "points": [
-        "Smith, 25, has four children and makes everything from toothpaste to frozen yoghurt.",
-        "She denies having a secret agenda or promoting a 1950s housewife archetype.",
-        "Smith also clarifies she is not Mormon, despite her husband Lucky Blue Smith's background."
-      ]
-    },
-    {
-      "summary": "French students protest frequently due to ingrained revolutionary spirit, unlike British students who rarely engage in collective action.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/10/angry-french-students-protests-british-dont-why",
-      "points": [
-        "French education emphasizes revolutionary history, fostering a tradition of protest.",
-        "British youth face issues like student debt and housing crises but rarely protest.",
-        "Kitty Sayers, a journalism student, contrasts her experiences in France and Britain."
       ]
     }
   ]

@@ -11,6 +11,42 @@
       "alsoReportedBy": ["NPR", "The Guardian", "Al Jazeera"]
     },
     {
+      "title": "Albania’s PM blames ‘foreign hands’ for protests",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Albanian PM Edi Rama claimed ‘foreign hands’ are driving protests that have rocked the country for months.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
+      "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "It comes after the prime minister refused to say whether he backed expansion.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Oregon school shooter was former special needs student, police say",
       "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
       "source": "Al Jazeera",
@@ -20,30 +56,12 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Eleven people are believed to be still missing, with rescue operations under way.",
+      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
       "alsoReportedBy": []
     },
     {
@@ -56,57 +74,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
-      "url": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Miranda Hart became emotional and spoke about her health problems as more action unfolded on Friday.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Faisal Islam: What I learned from a week with the world's top finance leaders",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Red Roses’ unbeaten streak ends in a thriller as Canada claim win with late try",
-      "url": "https://www.theguardian.com/sport/2026/oct/17/canada-england-red-roses-wxv-rugby-union-match-report",
+      "title": "Trump puts new Russia sanctions passed by Congress on hold amid deepening row with Ukraine",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "WXV: Canada 24-21 England at BMO Field in Toronto England suffer first defeat since 2022 Women’s Rugby World Cup final No, there is nothing wrong with whatever device you are reading this on. The 24-21 scoreline is correct. Yes, it finally happened. England have lost a rugby game after four years and 41 games unbeaten. The defeat came at the hands of a passionate, resilient and impressive Canadian outfit who had made it clear they were out for revenge for last year’s World Cup loss. Canada had already ended England’s winning streak with a 26-26 draw in Exeter last month but that was not vengeance enough. The scrum-half Olivia Apps said in the buildup to these matches that Canada had been doing everything they can in 2026 to make it possible to beat England and that is just what they did. Continue reading...",
+      "summary": "President signed the legislation championed by late senator Lindsey Graham last month but has waived the restrictions as they were due to come into effect Donald Trump has put on hold a sweeping new sanctions package targeting the Russian economy, telling Congress the pause on the legislation passed by both chambers was in the national interest. In an executive order on Friday, the US president said he was waiving many ⁠sanctions, restrictions and duties ⁠on Russia, in a move that comes as he has been publicly criticising ⁠Ukrainian president Volodymyr Zelenskyy, including suggesting that Ukraine needs a ​new leader. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employment Get our breaking news email , free app or daily news podcast Australia’s mainstream political parties are being warned not to adopt populist policies such as migration caps to address voters’ grievances over the cost of living. Instead, Australia’s longest-serving finance minister, Mathias Cormann, is urging politicians to deliver housing, real wage growth and lower energy costs by boosting productivity. Continue reading...",
+      "title": "Australia v New Zealand: Bledisloe Cup rugby union international – live",
+      "url": "https://www.theguardian.com/sport/live/2026/oct/17/aus-vs-nz-australia-wallabies-v-new-zealand-all-blacks-bledisloe-cup-rugby-union-test-live-updates",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Updates as the Wallabies seek redemption against the All Blacks Kick-off time in Sydney is 4pm local/6pm NZDT Any thoughts? Get in touch with an email Wallabies: Australia coach Les Kiss has named Declan Meredith as starting flyhalf and uncapped playmaker Harry McLaughlin-Phillips ⁠as back-up. with both Carter Gordon and Ben Donaldson unavailable because of leg injuries. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -119,21 +101,39 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Katie Zacharia leaving her White House role less than five days on the job",
       "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employment Get our breaking news email , free app or daily news podcast Australia’s mainstream political parties are being warned not to adopt populist policies such as migration caps to address voters’ grievances over the cost of living. Instead, Australia’s longest-serving finance minister, Mathias Cormann, is urging politicians to deliver housing, real wage growth and lower energy costs by boosting productivity. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
       "alsoReportedBy": []
     },
     {
@@ -146,30 +146,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
-      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely seen as a desperate electoral gambit. The U-turn, which Lula announced during a Thursday night interview with TV Globo, comes with the presidential runoff in just over a week. The incumbent faces an uphill battle to overturn the first-round victory of his opponent, the far-right senator Flávio Bolsonaro, who remains slightly ahead at the polls. Continue reading...",
+      "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated. Kundizeza’s story The Blue Fighter was announced as the winner of the prestigious Caine prize for African writers on 6 October. Five days later, The Atlantic published an article by the author and journalist Vauhini Vara titled: “Yet Another Literary prize winner Seems to Be AI.” Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -182,6 +164,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would instead track “nonspecific” health outcomes like overall mortality or neurodevelopmental conditions, has been championed by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime anti-vaccine activist. Continue reading...",
+      "alsoReportedBy": ["Guardian World"]
+    },
+    {
       "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
       "url": "https://words.filippo.io/seeds-solved/",
       "source": "Lobsters",
@@ -191,8 +191,35 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Butlerian Jihad",
-      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+      "url": "https://maevyn.codes/decoherence",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ultramarine 1 Flash",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The Pulse: OpenAI software engineer accused of spying",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "source": "Pragmatic Engineer",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -211,33 +238,6 @@
     {
       "title": "The road to iroh 1.0",
       "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Pulse: OpenAI software engineer accused of spying",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
-      "source": "Pragmatic Engineer",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Making a 88x31 button book using ImageMagick",
-      "url": "https://k.sosnierz.me/08-11-24/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
