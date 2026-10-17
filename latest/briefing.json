@@ -2,30 +2,39 @@
   "date": "2026-10-17",
   "stories": [
     {
-      "title": "Pope Leo leaves hospital after lung cancer surgery",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+      "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November.",
+      "alsoReportedBy": ["BBC News", "The Guardian", "Al Jazeera"]
+    },
+    {
+      "title": "Israeli settlers attack European diplomats in West Bank",
+      "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, in the latest violent attempt to prevent Palestinians from harvesting olives on their own land. Bernard Baudoux, mayor of Aulnoye-Aymeries, was wearing his red, white and blue sash of office and attempting to enter a vehicle with diplomatic plates when he was assaulted and knocked to the ground on Saturday. Continue reading...",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+      "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Pope Leo left Rome&#039;s Gemelli Hospital on Saturday after successful lung cancer surgery",
-      "alsoReportedBy": ["BBC News", "NPR", "The Guardian"]
-    },
-    {
-      "title": "More NHS staff sacked over attacks victims' records",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+      "summary": "Attacks hit several areas as UNICEF reports more than 340 children killed since &#039;ceasefire&#039; began a year ago.",
       "alsoReportedBy": []
     },
     {
-      "title": "Buildings and cars set on fire as cost of living protests rock France",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
+      "title": "India and West Indies denied a thrilling finale as rain hits final T20",
+      "url": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Protesters have set fire to cars and buildings in France as demonstrations escalate.",
+      "summary": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.",
       "alsoReportedBy": []
     },
     {
@@ -38,12 +47,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
-      "url": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "More NHS staff sacked over attacks victims' records",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Argentinian international taken to hospital for precautionary tests after head clash with Everton&#039;s Jarrad Branthwaite.",
+      "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
       "alsoReportedBy": []
     },
     {
@@ -83,15 +92,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Move over, pervert glasses – the latest toxic trend is robogroping",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Whenever a new technology is created, it will, without exception, immediately be used to harass girls and women You may be familiar with rule 34 of the internet, which states that if something exists or can be imagined, there will almost certainly be online porn of it. Now let me introduce my rule 35: whenever a new technology is created, it will, without exception, immediately be used to harass girls and women. See, for example, Meta’s “ pervert glasses ”. As anyone could have foreseen, putting a tiny camera and microphone into smartglasses would immediately lead to people using them to record and harass women. Lo and behold, that is exactly what happened. So-called manfluencers have filmed themselves trying to flirt with women in public spaces and then uploaded the footage to TikTok. The women in these videos are often not aware they’ve been recorded until their identities are shared online and they are harassed by strangers. And what’s Meta doing about this? It’s instituted a few bans and made some privacy updates, but doesn’t seem to have an appetite to properly solve the problem. Indeed, at the Meta Connect 2026 keynote, Mark Zuckerberg did not feel the need to apologize to the women whose lives have been upended by his technology. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
       "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
       "source": "NPR World",
@@ -101,30 +101,12 @@
       "alsoReportedBy": ["BBC World", "Guardian World"]
     },
     {
-      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
-      "alsoReportedBy": ["Guardian World"]
-    },
-    {
-      "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
-      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+      "title": "Six homes burned and two firefighters injured in fast-moving California wildfire",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed that an investigation has been launched into why the cars, funded by the UK government specifically to prevent asylum seekers crossing the Channel, were used during a protest involving school students in Dunkirk. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "SNP says campaign for next referendum on independence ‘has already begun’",
-      "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "John Swinney tells party conference SNP will use ‘six-figure war chest’ to renew argument for leaving UK John Swinney has said that the second referendum campaign for Scottish independence “has already begun”, revealing a nationwide effort to renew the argument for leaving the UK in his keynote address to the SNP party conference. On Saturday, the Scottish first minister said that the SNP would launch its “most sophisticated campaign in history” to convince Scottish of the benefits of independence, backed by “a six-figure war chest”. Called Choose Scotland, the campaign aims to build the consensus for leaving the union. Continue reading...",
+      "summary": "About 6,000 homes under evacuation, affecting 16,000 residents in San Clemente and San Juan Capistrano At least six homes burned and two firefighters were injured after a fast-moving wildfire blazed through parts of southern California on Friday. Two firefighters were taken to the hospital with heat-related injuries from the Norte fire, officials said. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,21 +128,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ilhan Omar’s attorneys say federal search of her home was ‘neither justified nor lawful’",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
+      "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Minnesota lawmaker’s attorneys asked for return of seized items and the preservation of any recordings of search Ilhan Omar ’s attorneys have asked the US Department of Justice to return property that federal agents removed days earlier from her home during a search. The lawyers for the Minnesota Democrat contended that the seizure as “neither justified nor lawful”, according to a letter that the Associated Press reported on Friday. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "summary": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed that an investigation has been launched into why the cars, funded by the UK government specifically to prevent asylum seekers crossing the Channel, were used during a protest involving school students in Dunkirk. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -173,17 +146,44 @@
       "alsoReportedBy": []
     },
     {
-      "title": "‘We’re not playing games’: Parents launch playground protests to fight school field sell-off",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
+      "title": "SNP says campaign for next referendum on independence ‘has already begun’",
+      "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "School looking to sell piece of open land beloved by people in Devon town to fund refurbishments On Saturdays throughout autumn, residents of Totnes have met at a field on the banks of the River Dart to play ballgames, fly kites or simply sit on the grass and chat. But it hasn’t just been about having fun – this has been a “play protest” aimed at trying to save a beloved piece of open land in the historic Devon market town. Continue reading...",
+      "summary": "John Swinney tells party conference SNP will use ‘six-figure war chest’ to renew argument for leaving UK John Swinney has said that the second referendum campaign for Scottish independence “has already begun”, revealing a nationwide effort to renew the argument for leaving the UK in his keynote address to the SNP party conference. On Saturday, the Scottish first minister said the SNP would launch its “most sophisticated campaign in history” to convince Scottish voters of the benefits of independence, backed by “a six-figure war chest”. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Making Chicken Transparent Using Dorito Dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated. Kundizeza’s story The Blue Fighter was announced as the winner of the prestigious Caine prize for African writers on 6 October. Five days later, The Atlantic published an article by the author and journalist Vauhini Vara titled: “Yet Another Literary prize winner Seems to Be AI.” Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ilhan Omar’s attorneys say federal search of her home was ‘neither justified nor lawful’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Minnesota lawmaker’s attorneys asked for return of seized items and the preservation of any recordings of search Ilhan Omar ’s attorneys have asked the US Department of Justice to return property that federal agents removed days earlier from her home during a search. The lawyers for the Minnesota Democrat contended that the seizure as “neither justified nor lawful”, according to a letter that the Associated Press reported on Friday. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Development statistics for the 7.2 kernel",
+      "url": "https://lwn.net/Articles/1088776/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,15 +200,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
       "url": "https://words.filippo.io/seeds-solved/",
       "source": "Lobsters",
@@ -218,18 +209,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-      "url": "https://maevyn.codes/decoherence",
-      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -242,6 +224,24 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+      "url": "https://maevyn.codes/decoherence",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Super Intelligence",
-      "url": "https://www.si.gov/",
-      "source": "Hacker News",
+      "title": "Interactive refactoring in gopls",
+      "url": "https://go.dev/blog/interactive-refactoring",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
