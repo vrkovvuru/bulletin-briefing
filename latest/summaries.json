@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-17T14:41:44.445695Z",
+  "generated": "2026-10-17T16:41:32.834347Z",
   "summaries": [
+    {
+      "summary": "Cost of living protests in France have escalated, with protesters setting fire to buildings and cars.",
+      "significance": "Protests over cost of living and public services escalate in France, marked by acts of vandalism, indicating serious unrest across the country.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
+      "points": [
+        "Protests are occurring in Paris and multiple other locations across France.",
+        "Demonstrations are against the rising cost of living and declining public services.",
+        "Serious unrest includes arson attacks on vehicles and structures."
+      ]
+    },
+    {
+      "summary": "A shooting at an elementary school in Bend, Oregon, resulted in the death of three children and one teacher.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/bend-oregon-school-shooting",
+      "points": [
+        "The incident occurred on Thursday at Silver Rail elementary.",
+        "Parents, including Joe Camarlinghi, waited for hours at a local church.",
+        "The community is in mourning, emphasizing the emotional impact on locals."
+      ]
+    },
+    {
+      "summary": "French police used UK-funded 4x4 vehicles to charge student protesters, sparking an investigation.",
+      "significance": "The story matters because it reveals misuse of UK-funded vehicles, potentially straining UK-France relations and raising questions about police tactics.",
+      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+      "points": [
+        "Investigation launched by French government over misuse of UK-funded vehicles.",
+        "Vehicles were intended to prevent asylum seekers crossing the Channel.",
+        "Incident occurred during school protests in Dunkirk."
+      ]
+    },
+    {
+      "summary": "SNP announces renewed campaign for Scottish independence with a significant budget.",
+      "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+      "points": [
+        "John Swinney claims the campaign for a second referendum has already started.",
+        "The campaign, named Choose Scotland, will use a \"six-figure war chest\".",
+        "SNP aims to launch its \"most sophisticated campaign in history\" to promote independence."
+      ]
+    },
+    {
+      "summary": "DeepSeek-v4.1-Flash introduces improvements in reasoning, coding, and visual tasks while reducing execution time and output length.",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "points": [
+        "The model advances performance-cost efficiency across multiple agent harnesses.",
+        "It includes a Python reference implementation with test cases for various conversation features.",
+        "A Rust toolkit with Python bindings is provided for prompt format conversion and model output parsing."
+      ]
+    },
+    {
+      "summary": "America aims to lead in Super Intelligence under President Trump with various initiatives and executive orders.",
+      "url": "https://www.si.gov/",
+      "points": [
+        "15 federal agencies unite in the SI-for-Science initiative with industry and academia.",
+        "Federal permitting for Super Intelligence data centers accelerates to build American capacity.",
+        "K-12 students and teachers receive SI literacy and training to prepare for future innovation."
+      ]
+    },
     {
       "summary": "New technologies, like Meta\u2019s smartglasses, are being used to harass women, highlighting a persistent issue of technological misuse.",
       "significance": "The story highlights a recurring issue of new technologies being misused for harassment, affecting women and emphasizing the need for better safeguards.",
@@ -3689,63 +3745,6 @@
         "Robert F Kennedy Jr, HHS secretary, supports the vaccine trial.",
         "Danish researchers will withhold recommended hepatitis B vaccines from thousands of newborns.",
         "The trial is taking place in Guinea-Bissau."
-      ]
-    },
-    {
-      "summary": "The article explains how to build a decision model using language models to generate calibrated probabilities for fixed options.",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "points": [
-        "11 passes are required to generate the final output in the example provided.",
-        "The model can be overconfident, with 70% accuracy in the 0.9-1.0 confidence range.",
-        "Temperature scaling can be used to calibrate the model's output probabilities to better reflect its accuracy."
-      ]
-    },
-    {
-      "summary": "Anthropic introduces a policy banning cruelty towards its Claude AI models, effective November 12, 2026.",
-      "significance": "Anthropic implements a policy to prevent cruelty towards its AI models, Claude, based on observed behavioral patterns, effective November 12.",
-      "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-      "points": [
-        "Policy takes effect on November 12, 2026, prohibiting sustained and needless abusive behavior.",
-        "Enforcement mechanism, allowing Claude to end conversations, was introduced in August 2025.",
-        "Anthropic assigns Claude a 15 to 20 percent probability of being conscious, according to its system card."
-      ]
-    },
-    {
-      "summary": "A project envisions a Lightbulb Computer that uses projector technology and computer vision to blend ambient computation and spatial information display in everyday spaces.",
-      "url": "https://lightbulbcomputer.com/",
-      "points": [
-        "The Lightbulb Computer can be mounted in a portable lamp-like base or screwed into any wall or ceiling socket.",
-        "It reacts to voice commands, sees where you point, and can project content and highlight things in the real world.",
-        "The device can be used for various tasks like displaying recipes, projecting maps, and controlling smart home devices naturally."
-      ]
-    },
-    {
-      "summary": "The US imposed new sanctions on the International Criminal Court (ICC), targeting its operations more severely.",
-      "significance": "The US sanctions aim to cripple the ICC, impacting its ability to prosecute war crimes, crimes against humanity, and genocide, especially as it has targeted leaders like Netanyahu and Putin.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
-      "points": [
-        "US sanctions came hours after former ICC judge Navi Pillay won the Nobel Peace Prize.",
-        "ICC has issued arrest warrants for over 70 individuals, including Netanyahu and Putin.",
-        "US Secretary of State Marco Rubio stated the latest sanctions aim to cripple the ICC's operations."
-      ]
-    },
-    {
-      "summary": "Nine people, including children, died in a mass shooting in Erie, Pennsylvania, with the suspect also found dead.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania",
-      "points": [
-        "Nine victims, including children, were killed in the shooting.",
-        "The incident occurred on Friday outside and inside a home in Erie.",
-        "A standoff with police ended with the suspect among the dead."
-      ]
-    },
-    {
-      "summary": "A 72-year-old man shot an off-duty ICE agent who allegedly assaulted him and his daughter on their property in California.",
-      "significance": "The shooting highlights tensions between immigration enforcement officials and the public, leading to felony charges against an off-duty ICE agent.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty",
-      "points": [
-        "72-year-old man shot David Gonzalez, an ICE official, in the midsection.",
-        "ICE official was reportedly \"intoxicated and agitated\" while sleeping on the man\u2019s lawn.",
-        "David Gonzalez faces felony charges for assaulting the man and his daughter."
       ]
     }
   ]

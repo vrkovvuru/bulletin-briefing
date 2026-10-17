@@ -2,30 +2,57 @@
   "date": "2026-10-17",
   "stories": [
     {
-      "title": "Why Trump’s latest White House press secretary lasted just five days",
-      "url": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss",
+      "title": "Pope Leo leaves hospital after lung cancer surgery",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Katie Zacharia is the shortest-serving White House press secretary after a rocky tenure, but she&#039;s not the first to go.",
-      "alsoReportedBy": ["NPR", "The Guardian"]
+      "summary": "Pope Leo left Rome&#039;s Gemelli Hospital on Saturday after successful lung cancer surgery",
+      "alsoReportedBy": ["BBC News", "NPR", "The Guardian"]
     },
     {
-      "title": "Pope discharged from hospital days after lung cancer surgery",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "title": "More NHS staff sacked over attacks victims' records",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-      "url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+      "title": "Buildings and cars set on fire as cost of living protests rock France",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Trudy is the latest in successive storms that have hit Mexico&#039;s Pacific coast this year.",
+      "summary": "Protesters have set fire to cars and buildings in France as demonstrations escalate.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Scuffles and fires break out as protesters rally across France, joining students",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
+      "url": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Argentinian international taken to hospital for precautionary tests after head clash with Everton&#039;s Jarrad Branthwaite.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control.",
       "alsoReportedBy": []
     },
     {
@@ -38,21 +65,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
-      "url": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Katie Zacharia fired after five days as White House press secretary",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/katie-zacharia-fired-press-secretary",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws.",
-      "alsoReportedBy": []
+      "summary": "Zacharia hosted widely panned first briefing on Tuesday and faced scrutiny after admitting she didn’t pass bar exam Donald Trump’s new press secretary, Katie Zacharia, was fired on Friday, just five days after she assumed the role, according to a White House official. Zacharia confirmed her departure from the White House on Friday evening. Continue reading...",
+      "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "More NHS staff sacked over attacks victims' records",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "After the unimaginable happens, an Oregon town mourns: ‘You can’t stop thinking about the kids’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/bend-oregon-school-shooting",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+      "summary": "A shooting at an elementary school in Bend on Thursday left three children and one teacher dead For three long hours on Thursday afternoon, Joe Camarlinghi waited at a Bend, Oregon, church for word about his daughter. Camarlinghi had received an alert about a shooting at Silver Rail elementary, heard sirens and quickly headed to campus, where he was directed to the church along with other parents. Parents and teachers cried and hugged, and waited. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -65,31 +92,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Perspective: Midterm money madness",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
-      "alsoReportedBy": []
+      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+      "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post .",
+      "alsoReportedBy": ["BBC World", "Guardian World"]
     },
     {
       "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
@@ -101,21 +110,21 @@
       "alsoReportedBy": ["Guardian World"]
     },
     {
-      "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-      "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post .",
-      "alsoReportedBy": ["BBC World", "Guardian World"]
-    },
-    {
-      "title": "Ilhan Omar’s attorneys say federal search of her home was ‘neither justified nor lawful’",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
+      "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Minnesota lawmaker’s attorneys asked for return of seized items and the preservation of any recordings of search Ilhan Omar ’s attorneys have asked the US Department of Justice to return property that federal agents removed days earlier from her home during a search. The lawyers for the Minnesota Democrat contended that the seizure as “neither justified nor lawful”, according to a letter that the Associated Press reported on Friday. Continue reading...",
+      "summary": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed that an investigation has been launched into why the cars, funded by the UK government specifically to prevent asylum seekers crossing the Channel, were used during a protest involving school students in Dunkirk. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "SNP says campaign for next referendum on independence ‘has already begun’",
+      "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "John Swinney tells party conference SNP will use ‘six-figure war chest’ to renew argument for leaving UK John Swinney has said that the second referendum campaign for Scottish independence “has already begun”, revealing a nationwide effort to renew the argument for leaving the UK in his keynote address to the SNP party conference. On Saturday, the Scottish first minister said that the SNP would launch its “most sophisticated campaign in history” to convince Scottish of the benefits of independence, backed by “a six-figure war chest”. Called Choose Scotland, the campaign aims to build the consensus for leaving the union. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -137,21 +146,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘We’re not playing games’: Parents launch playground protests to fight school field sell-off",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
+      "title": "Ilhan Omar’s attorneys say federal search of her home was ‘neither justified nor lawful’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "School looking to sell piece of open land beloved by people in Devon town to fund refurbishments On Saturdays throughout autumn, residents of Totnes have met at a field on the banks of the River Dart to play ballgames, fly kites or simply sit on the grass and chat. But it hasn’t just been about having fun – this has been a “play protest” aimed at trying to save a beloved piece of open land in the historic Devon market town. Continue reading...",
+      "summary": "Minnesota lawmaker’s attorneys asked for return of seized items and the preservation of any recordings of search Ilhan Omar ’s attorneys have asked the US Department of Justice to return property that federal agents removed days earlier from her home during a search. The lawyers for the Minnesota Democrat contended that the seizure as “neither justified nor lawful”, according to a letter that the Associated Press reported on Friday. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -164,35 +164,44 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Bank of England governor walks out of IMF summit in protest against Russia",
-      "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Andrew Bailey among finance leaders to leave session in Bangkok when Russian finance minister addressed group The Bank of England governor, Andrew Bailey, has taken part in a walkout of finance leaders who left an International Monetary Fund meeting in protest against Russian involvement. Bailey joined counterparts from France, Germany and a number of Scandinavian and Baltic countries who left the session in Bangkok when the Russian finance minister, Anton Siluanov, addressed the group in Russian. Continue reading...",
+      "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report . More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, according to HIV Justice Network , an organisation quoted in the Human Rights Watch (HRW) report. Among these, at least 84 were charged with “voluntary HIV transmission”, solely on the basis of their HIV status. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
+      "title": "‘We’re not playing games’: Parents launch playground protests to fight school field sell-off",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "State has confirmed six measles-related deaths and county at center of outbreak lacks its own health department The county at the center of Pennsylvania’s measles outbreak is at a clear disadvantage because, local officials say, it lacks its own health department and it will now get special assistance from the Centers for Disease Control and Prevention (CDC). As of Wednesday, Pennsylvania had confirmed 1,222 measles cases, up from 86 the week before. Six measles-associated deaths have also been confirmed by the state. Continue reading...",
+      "summary": "School looking to sell piece of open land beloved by people in Devon town to fund refurbishments On Saturdays throughout autumn, residents of Totnes have met at a field on the banks of the River Dart to play ballgames, fly kites or simply sit on the grass and chat. But it hasn’t just been about having fun – this has been a “play protest” aimed at trying to save a beloved piece of open land in the historic Devon market town. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "title": "Making Chicken Transparent Using Dorito Dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": ["Hacker News"]
+      "alsoReportedBy": []
     },
     {
-      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "title": "Intuitive concurrent programming in any language",
+      "url": "https://www.lf-lang.org/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Making Chicken Transparent Using Dorito Dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -236,15 +245,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The road to iroh 1.0",
-      "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Uber’s AI infra, from the inside",
       "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
       "source": "Pragmatic Engineer",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Intuitive concurrent programming in any language",
-      "url": "https://www.lf-lang.org/",
-      "source": "Lobsters",
+      "title": "Super Intelligence",
+      "url": "https://www.si.gov/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
