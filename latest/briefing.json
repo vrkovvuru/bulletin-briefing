@@ -2,15 +2,76 @@
   "date": "2026-10-17",
   "stories": [
     {
-      "title": "France tackles new wave of nationwide protests",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
+      "title": "Why Trump’s latest White House press secretary lasted just five days",
+      "url": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
+      "summary": "Katie Zacharia is the shortest-serving White House press secretary after a rocky tenure, but she&#039;s not the first to go.",
+      "alsoReportedBy": ["NPR", "The Guardian"]
+    },
+    {
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
+      "url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Trudy is the latest in successive storms that have hit Mexico&#039;s Pacific coast this year.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
+      "url": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "More NHS staff sacked over attacks victims' records",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Move over, pervert glasses – the latest toxic trend is robogroping",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Whenever a new technology is created, it will, without exception, immediately be used to harass girls and women You may be familiar with rule 34 of the internet, which states that if something exists or can be imagined, there will almost certainly be online porn of it. Now let me introduce my rule 35: whenever a new technology is created, it will, without exception, immediately be used to harass girls and women. See, for example, Meta’s “ pervert glasses ”. As anyone could have foreseen, putting a tiny camera and microphone into smartglasses would immediately lead to people using them to record and harass women. Lo and behold, that is exactly what happened. So-called manfluencers have filmed themselves trying to flirt with women in public spaces and then uploaded the footage to TikTok. The women in these videos are often not aware they’ve been recorded until their identities are shared online and they are harassed by strangers. And what’s Meta doing about this? It’s instituted a few bans and made some privacy updates, but doesn’t seem to have an appetite to properly solve the problem. Indeed, at the Meta Connect 2026 keynote, Mark Zuckerberg did not feel the need to apologize to the women whose lives have been upended by his technology. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+      "alsoReportedBy": []
     },
     {
       "title": "Perspective: Midterm money madness",
@@ -19,24 +80,6 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "alsoReportedBy": []
     },
     {
@@ -49,51 +92,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Women protest in New Delhi against police brutality",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Women protest in New Delhi against police brutality",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
-      "url": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past are still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "England stunned by Tonga in World Cup opener",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c83vqd73k0xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
-    },
-    {
-      "title": "The Digger disaster: what an epic movie flop means for Tom Cruise and Hollywood",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Unprecedented folly of misjudgment, bad timing and spectacular hubris is predicted to lose $245m. How did this happen? The fanfare at Digger\u2019s world premiere in London four weeks ago was literal. As the Prince and Princess of Wales took to the stage, their arrival was heralded by the band of the Irish guards\u2019 fanfare team \u2013 bugles gleaming, epaulets shining, bearskin bonnets rippling under the lights. Given the occasion, the band were not overdressed. Joining William (velvet tux) and Kate (chiffon gown, the late Diana\u2019s earrings) to introduce the film was cinema\u2019s longest-reigning monarch, Tom Cruise (Armani), along with a retinue including director Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu and co-stars Sandra H\u00fcller, Riz Ahmed, John Goodman, Jesse Plemons and Michael Stuhlbarg. Loyal courtiers filled the front rows: Salma Hayek, Hannah Waddingham and no fewer than three Beckhams (David, Cruz and Romeo). Continue reading...",
-      "alsoReportedBy": []
+      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+      "alsoReportedBy": ["Guardian World"]
     },
     {
       "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
@@ -102,36 +107,15 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post .",
-      "alsoReportedBy": [
-        "BBC World",
-        "Guardian World"
-      ]
+      "alsoReportedBy": ["BBC World", "Guardian World"]
     },
     {
-      "title": "Bank of England governor walks out of IMF summit in protest against Russia",
-      "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "title": "Ilhan Omar’s attorneys say federal search of her home was ‘neither justified nor lawful’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Andrew Bailey among finance leaders to leave session in Bangkok when Russian finance minister addressed group The Bank of England governor, Andrew Bailey, has taken part in a walkout of finance leaders who left an International Monetary Fund meeting in protest against Russian involvement. Bailey joined counterparts from France, Germany and a number of Scandinavian and Baltic countries who left the session in Bangkok when the Russian finance minister, Anton Siluanov, addressed the group in Russian. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "CDC to send \u2018disease detective\u2019 to help tackle Pennsylvania measles outbreak",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "State has confirmed six measles-related deaths and county at center of outbreak lacks its own health department The county at the center of Pennsylvania\u2019s measles outbreak is at a clear disadvantage because, local officials say, it lacks its own health department and it will now get special assistance from the Centers for Disease Control and Prevention (CDC). As of Wednesday, Pennsylvania had confirmed 1,222 measles cases, up from 86 the week before. Six measles-associated deaths have also been confirmed by the state. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "From little acorns \u2026 to his 1,000th article for the Guardian country diary",
-      "url": "https://www.theguardian.com/environment/2026/oct/17/1000-articles-for-the-guardian-country-diary-mark-cocker",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "As Mark Cocker approaches a landmark for the world\u2019s oldest column in an English-language newspaper, he is still inspired by powerful encounters with nature In the autumn of 1987, Mark Cocker sat in a field near Norwich and watched a jay burying acorns for the long winter ahead. He described the scene in his first country diary for the Guardian. Thirty-nine years on, some of those jay-planted acorns will be mature oaks now, and Cocker is completing his 1,000th diary for the world\u2019s oldest column in an English-language newspaper. In his next diary, he will reflect on the changing birdlife around Flint Clough, in the Peak District, where he first marvelled at rare birds aged 12 after devouring bird books in his bedroom. As a boy, he would find cuckoo, golden plover, ring ouzel and twite, a once-common bird which is now virtually extinct in England . Continue reading...",
+      "summary": "Minnesota lawmaker’s attorneys asked for return of seized items and the preservation of any recordings of search Ilhan Omar ’s attorneys have asked the US Department of Justice to return property that federal agents removed days earlier from her home during a search. The lawyers for the Minnesota Democrat contended that the seizure as “neither justified nor lawful”, according to a letter that the Associated Press reported on Friday. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -144,12 +128,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Pope to be discharged days after lung cancer surgery",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
       "alsoReportedBy": []
     },
     {
@@ -162,6 +146,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "‘We’re not playing games’: Parents launch playground protests to fight school field sell-off",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "School looking to sell piece of open land beloved by people in Devon town to fund refurbishments On Saturdays throughout autumn, residents of Totnes have met at a field on the banks of the River Dart to play ballgames, fly kites or simply sit on the grass and chat. But it hasn’t just been about having fun – this has been a “play protest” aimed at trying to save a beloved piece of open land in the historic Devon market town. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Brazil sees record fall in Amazon deforestation as key election looms",
       "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -171,21 +164,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "US corporate lobbyists mounted \u2018blitz\u2019 to dilute landmark EU deforestation law, report finds",
-      "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+      "title": "Bank of England governor walks out of IMF summit in protest against Russia",
+      "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year \u201cblitz\u201d to postpone and weaken the world\u2019s most progressive legislation to protect forests, according to a new investigation by the environmental watchdog Mighty Earth. Major US firms and trade associations, including Cargill, Bunge, Mondel\u0113z and the US Soybean Export Council, as well as numerous other US firms and organizations, sought to influence the EU Deforestation Regulation (EUDR) in more than 350 meetings, the advocacy group found . Continue reading...",
+      "summary": "Andrew Bailey among finance leaders to leave session in Bangkok when Russian finance minister addressed group The Bank of England governor, Andrew Bailey, has taken part in a walkout of finance leaders who left an International Monetary Fund meeting in protest against Russian involvement. Bailey joined counterparts from France, Germany and a number of Scandinavian and Baltic countries who left the session in Bangkok when the Russian finance minister, Anton Siluanov, addressed the group in Russian. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Insults, odd obsessions and rambling thoughts: a week in Trump rallies",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview",
+      "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "President has hit red states to drum up Republican support \u2013 and his increasingly strange performances are on full display Montana, Tennessee, Alaska. In the run-up to an election, a Republican president typically wouldn\u2019t be campaigning in these traditionally red states. These aren\u2019t normal times, however, and Donald Trump, an unpopular president leading an unpopular party, has held rallies in those states in the last week, seeking to drum up support. But a series of eccentric performances from the president means his behavior has been the focus, rather than any of the candidates he is backing. Continue reading...",
+      "summary": "State has confirmed six measles-related deaths and county at center of outbreak lacks its own health department The county at the center of Pennsylvania’s measles outbreak is at a clear disadvantage because, local officials say, it lacks its own health department and it will now get special assistance from the Centers for Disease Control and Prevention (CDC). As of Wednesday, Pennsylvania had confirmed 1,222 measles cases, up from 86 the week before. Six measles-associated deaths have also been confirmed by the state. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -195,14 +188,30 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": [
-        "Hacker News"
-      ]
+      "alsoReportedBy": ["Hacker News"]
+    },
+    {
+      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
     },
     {
       "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
       "url": "https://words.filippo.io/seeds-solved/",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Making Chicken Transparent Using Dorito Dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -227,15 +236,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "The road to iroh 1.0",
       "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
       "source": "Lobsters",
@@ -245,16 +245,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ultramarine 1\u00a0Flash",
-      "url": "https://www.paperinstruments.com/ultramarine",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Uber\u2019s AI infra, from the inside",
+      "title": "Uber’s AI infra, from the inside",
       "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -274,7 +265,7 @@
     {
       "title": "Intuitive concurrent programming in any language",
       "url": "https://www.lf-lang.org/",
-      "source": "Hacker News",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -295,7 +286,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check\u2014automated or human\u2014is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This catches most routine mistakes, and saves team attention for higher-level questions and scrutiny. \u2014 Addy Osmani, Morgan Westlee Lunt, and Qing Wang , How the Claude Code team does code review Tags: anthropic , claude , ai , claude-code , llms , addy-osmani , coding-agents , generative-ai , agentic-engineering , code-review",
+      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This catches most routine mistakes, and saves team attention for higher-level questions and scrutiny. — Addy Osmani, Morgan Westlee Lunt, and Qing Wang , How the Claude Code team does code review Tags: anthropic , claude , ai , claude-code , llms , addy-osmani , coding-agents , generative-ai , agentic-engineering , code-review",
       "alsoReportedBy": []
     },
     {
@@ -322,11 +313,11 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on \"computing power\" Adjusted operating margins (excluding stock-based compensation) were 11% This point about distillation is worth quoting in full (highlight mine): The start-up has also clamped down on \u201cdistillation\u201d \u2014 a controversial practice whereby rival AI labs train their models on the outputs of more advanced ones. When rival companies \u201cdistil\u201d their models from Anthropic\u2019s models, that involves heavy usage and spending. Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue and that they had cut it back \u201cmaterially\u201d in the third quarter of the year, said four people with direct knowledge of the matter. Napkin maths says that if distillation was 5% of their Q2 revenue (before they cut it back in Q3) then unnamed \"other labs\" spent over half a billion dollars distilling Anthropic's models in that quarter! Also notable: Anthropic appear to no longer be leaning on \"annualized run-rate revenue\" ( previously ) in these communications to their investors. Tags: ai , generative-ai , llms , anthropic",
+      "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on \"computing power\" Adjusted operating margins (excluding stock-based compensation) were 11% This point about distillation is worth quoting in full (highlight mine): The start-up has also clamped down on “distillation” — a controversial practice whereby rival AI labs train their models on the outputs of more advanced ones. When rival companies “distil” their models from Anthropic’s models, that involves heavy usage and spending. Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue and that they had cut it back “materially” in the third quarter of the year, said four people with direct knowledge of the matter. Napkin maths says that if distillation was 5% of their Q2 revenue (before they cut it back in Q3) then unnamed \"other labs\" spent over half a billion dollars distilling Anthropic's models in that quarter! Also notable: Anthropic appear to no longer be leaning on \"annualized run-rate revenue\" ( previously ) in these communications to their investors. Tags: ai , generative-ai , llms , anthropic",
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] Modal\u2019s $1B ARR, $16B Series D makes it NYC\u2019s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
       "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
       "source": "Latent Space",
       "category": "ai",
@@ -370,7 +361,5 @@
       "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and Trip Planner). Tiny Little Office's signature trick is to store all of the document data in the #fragment section of the URL, so every document created using it becomes a bookmarkable and shareable link. It also has an llms.txt file telling agents how to construct URLs that will render as documents. Claude used that file to generate this link to a deck that explains how the URL format works: Tiny Little Office inspired me to have Claude Code (Opus 5.5 Extra) build a similar tool that works with LaTeX. Here's the sequence of prompts I used: I want a tool where you can link to it with a fragment hash #code-here and it treats that code as LaTeX and renders it really effectively. It should also support a prefix which means the latex is compressed with a custom compression dictionary optimized for latex. Use the best available latex render library from a CDN (consider WebAssembly too). If loaded without a fragment hash show an editor you can paste latex into and then toggle to a \"rendered\" view. That rendered view should be bookmarkable. The #fragment view should let you switch to edit source too. Since it was working in my tools repo I told it to take inspiration from the <iframe sandbox=\"...\"> mechanism used by my existing SVG in Markdown tool as protection against XSS risks: Safe from XSS? We could run in an iframe sandbox like we do on the SVG markdown render project I had it copy the Gist/URL loading feature from that tool as well: We should have an option to load latex from a URL (or gist) similar to the markdown SVG tool Here's an example link . The tool uses Pako 2.1.0 , MathJax 4.1.3 , faster-latex 0.3.1 , and DOMPurify 3.4.16 . Tags: latex , paul-ford , tools , urls , ai , generative-ai , llms",
       "alsoReportedBy": []
     }
-  ],
-  "durationSeconds": 174.4,
-  "voice": "af_heart"
+  ]
 }

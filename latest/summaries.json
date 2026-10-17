@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-17T12:43:21.960130Z",
+  "generated": "2026-10-17T14:41:44.445695Z",
   "summaries": [
+    {
+      "summary": "New technologies, like Meta\u2019s smartglasses, are being used to harass women, highlighting a persistent issue of technological misuse.",
+      "significance": "The story highlights a recurring issue of new technologies being misused for harassment, affecting women and emphasizing the need for better safeguards.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends",
+      "points": [
+        "Meta\u2019s smartglasses, dubbed \"pervert glasses,\" have been used to record and harass women.",
+        "Manfluencers have uploaded footage of unwanted interactions with women to TikTok.",
+        "Meta has made limited responses, such as bans and privacy updates, but no apology from Zuckerberg."
+      ]
+    },
+    {
+      "summary": "Ilhan Omar's lawyers claim the federal search of her home was unjustified and unlawful, requesting the return of seized items.",
+      "significance": "The story highlights legal challenges following the federal search of a congresswoman's home, potentially impacting perceptions of political investigations and civil liberties.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
+      "points": [
+        "Omar's attorneys argue the search and seizure were neither justified nor lawful.",
+        "Lawyers requested the return of items taken by federal agents from Omar's home."
+      ]
+    },
+    {
+      "summary": "Parents in Totnes protest against a school's plan to sell a popular field by playing there on weekends.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
+      "points": [
+        "Protesters gather every Saturday in autumn to play and demonstrate.",
+        "The field is located on the banks of the River Dart in Totnes, Devon.",
+        "The school plans to sell the land to fund refurbishments."
+      ]
+    },
+    {
+      "summary": "Solar power generation surpassed nuclear power globally for the first time in 2025, according to a WNISR report.",
+      "significance": "This story marks the first time solar power has surpassed nuclear power globally, highlighting the rapid expansion of renewables compared to the stagnant growth of nuclear energy.",
+      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "points": [
+        "Solar capacity increased by 510 GW to 2,383 GW in 2025, a 27% year-on-year rise.",
+        "Nuclear capacity rose only by 1.5 GW to 399.5 GW, with operating capacity declining by 0.5 GW.",
+        "From March 2025 through June 2026, either solar or wind generated more electricity than nuclear every month."
+      ]
+    },
+    {
+      "summary": "Researchers made chicken breast partially transparent by soaking it in a tartrazine solution, a food dye found in Doritos.",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "points": [
+        "Chicken breast became partially transparent after soaking in a ~0.19 M tartrazine solution for 6 hours.",
+        "The original study used a 0.62 M tartrazine solution at 40°C with a machine shaker.",
+        "The experiment resulted in a gummy-bear-like texture in the chicken breast."
+      ]
+    },
     {
       "summary": "US and Iran both claim control of the Strait of Hormuz amid vessel attacks.",
       "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
@@ -3699,52 +3746,6 @@
         "72-year-old man shot David Gonzalez, an ICE official, in the midsection.",
         "ICE official was reportedly \"intoxicated and agitated\" while sleeping on the man\u2019s lawn.",
         "David Gonzalez faces felony charges for assaulting the man and his daughter."
-      ]
-    },
-    {
-      "summary": "Pauline Hanson appears as the preferred opposition leader at the Conservative Political Action Conference, overshadowing Angus Taylor.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb",
-      "points": [
-        "Pauline Hanson seen as de facto opposition leader at CPAC in Brisbane.",
-        "Angus Taylor warmed the seat for Hanson at the conservative conference.",
-        "Cooperation between One Nation and Liberals contingent on Angus Taylor."
-      ]
-    },
-    {
-      "summary": "Albanese aims to make universal childcare affordable but faces challenges in funding.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics",
-      "points": [
-        "Labor struggles to convince Australian families of childcare affordability.",
-        "Rachel Hill, a Sydney mother of two, increased work hours to cover childcare costs.",
-        "Additional income from full-time work is absorbed by rising childcare fees."
-      ]
-    },
-    {
-      "summary": "Australian universities face enrollment shortfalls and financial strain due to visa uncertainty and immigration debates, impacting regional areas most.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities",
-      "points": [
-        "Universities are only filling two-thirds of their international student places on average.",
-        "Only five public universities reached over 80% capacity, all located in capital cities.",
-        "Financial deficits from low enrollment could negatively impact domestic students."
-      ]
-    },
-    {
-      "summary": "A person received a reward check from Donald Knuth for finding an error in his book \"Computer Modern Typefaces.\"",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "points": [
-        "The error was found on the first page, first paragraph, and first word of the book.",
-        "The initial reward was $2.88, with an additional $0.32 for a good suggestion in a later report.",
-        "Knuth no longer issues real checks, instead offering fantasy certificates from a fictional bank."
-      ]
-    },
-    {
-      "summary": "DuckDB 2.0 introduces several features that significantly enhance its performance, particularly in asynchronous I/O and recursive CTEs.",
-      "significance": "DuckDB 2.0 significantly accelerates data reading over S3 by using a separate thread pool for downloads, improving speed by 2x to 3x with no query changes.",
-      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "points": [
-        "Async I/O in DuckDB 2.0 makes reading data over S3 2x to 3x faster with no query changes.",
-        "Recursive CTE engine in 2.0 improves graph reachability performance by 40x compared to version 1.5.",
-        "DuckDB 2.0 introduces VARIANT type with shredding, which splits consistent JSON fields into sub-columns, improving query performance by up to 78 times."
       ]
     }
   ]
