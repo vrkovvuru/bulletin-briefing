@@ -1,6 +1,163 @@
 {
-  "generated": "2026-10-18T04:42:01.797591Z",
+  "generated": "2026-10-18T12:44:30.510925Z",
   "summaries": [
+    {
+      "summary": "A new horror bookstore in Virginia thrives, while the horror film industry sees rising profits and explores new mediums.",
+      "significance": "The story highlights the growing popularity and profitability of the horror genre, as seen through the success of specialized businesses and films.",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+      "points": [
+        "Long Dark House, a horror bookstore in Alexandria, Virginia, has steady traffic after opening a month ago.",
+        "Blumhouse Atomic Monster reports horror's share of the box office has risen to over 15%, with the company holding over 50% of that market.",
+        "The studio is exploring new mediums, including AI in filmmaking and theatrical adaptations, aiming to be \"the Disney of fear."
+      ]
+    },
+    {
+      "summary": "The article discusses how instilling a sense of impending doom can paralyze people rather than motivate action on critical issues.",
+      "url": "https://www.theguardian.com/environment/2026/oct/18/the-problem-with-telling-people-the-world-is-ending",
+      "points": [
+        "Climate crisis, AI risks, wars, and political instability are cited as overwhelming challenges.",
+        "Historical evidence shows that doomerism often leads to inaction and paralysis.",
+        "The article argues that action, not despair, is needed to mitigate threats."
+      ]
+    },
+    {
+      "summary": "An emcee style characterized by high-energy, ad-libbed vocals in Afrobeats, dubbed Afrohype or lamba, has gained popularity through captivating crowd engagement.",
+      "url": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
+      "points": [
+        "Toby Shang, a University of Lagos graduate, became known for his viral catchphrases and energy.",
+        "His hit song, Shedibalabala, emerged from his final year at university.",
+        "The style, originating from energizers in three-man bands, is now recognized as a sub-genre."
+      ]
+    },
+    {
+      "summary": "Microsoft withdraws from a major AI datacentre project in Essex due to power supply issues.",
+      "significance": "Microsoft's withdrawal over power supply issues threatens the UK's ambition for the largest AI datacentre, impacting Essex's economic and technological development plans.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "points": [
+        "Project, led by UK firm Nscale, was touted as the country's largest AI datacentre.",
+        "Planned to open in Loughton, Essex, in 2025.",
+        "Microsoft's exit stems from concerns over adequate power supplies."
+      ]
+    },
+    {
+      "summary": "French protests escalate with 1,800 arrests and damage in Paris, spreading to Italy and Portugal.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+      "points": [
+        "1,800 people arrested during the protests in France.",
+        "Protests have spread to Italy and Portugal, involving riots and property damage.",
+        "Interior minister declares the government will not yield to the protests."
+      ]
+    },
+    {
+      "summary": "EPA modifies claim on website about phasing out toxic Pfas compounds despite allowing their production.",
+      "url": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
+      "points": [
+        "EPA found no safe level of Pfoa and Pfos exposure in drinking water.",
+        "International Agency classifies Pfoa as \"carcinogenic to humans,\" Pfos as \"possibly carcinogenic.\"",
+        "EPA allows Inhance to produce up to 200m plastic containers annually from which Pfoa leaches."
+      ]
+    },
+    {
+      "summary": "New NHS England policy restricting trans people from using same-sex wards may cause delays, discrimination, and avoidance of healthcare.",
+      "url": "https://www.theguardian.com/society/2026/oct/18/nhs-england-guidance-single-sex-wards-trans-people-adverse-impacts-report",
+      "points": [
+        "Trans people could face delays and increased \"corridor care\" under new guidance.",
+        "Internal report warns of potential discrimination against trans individuals.",
+        "Policy may lead trans people to avoid healthcare altogether due to fears."
+      ]
+    },
+    {
+      "summary": "Some conservative states are not using Medicaid hardship exemptions, possibly for political reasons.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/medicaid-hardship-exemptions-conservative-states",
+      "points": [
+        "New federal work requirements for Medicaid start 1 January.",
+        "Adults must work, attend school, volunteer, or participate in another qualifying activity 80 hours a month.",
+        "Missouri and Iowa are among states rejecting hardship exemptions for political reasons."
+      ]
+    },
+    {
+      "summary": "Three men sentenced to over 158 years in prison for murdering Australian and US surfers in Baja California.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "points": [
+        "Sentenced to 158 years and nine months each for the murders.",
+        "Victims were Australian brothers Jake and Callum Robinson, and American Carter Rhoad.",
+        "Crimes occurred during a 2024 surf trip in Baja California."
+      ]
+    },
+    {
+      "summary": "Liberal Democrat MPs' meeting, expected to challenge Ed Davey's leadership, resulted in minor grumbles but no formal opposition.",
+      "url": "https://www.theguardian.com/politics/2026/oct/18/lib-dem-opposition-ed-davey-leadership-challenge-fails-to-materialise",
+      "points": [
+        "Meeting held in a Commons committee room on Tuesday evening.",
+        "Attendees expressed disappointment, describing it as a \"damp squib.\"",
+        "No formal challenge to Ed Davey's leadership materialized despite initial expectations."
+      ]
+    },
+    {
+      "summary": "Green party leader in England and Wales equates Zionism with racism and denies motion was controversial.",
+      "url": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist",
+      "points": [
+        "Zack Polanski claims current form of Zionism is racist.",
+        "Polanski states no country has a right to exist.",
+        "Green party approved motion equating Zionism with racism two weeks ago."
+      ]
+    },
+    {
+      "summary": "DeepSeek introduces Search and Fetch APIs for accessing live web content, priced at $0.75 per 1000 successful requests.",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "points": [
+        "Search API returns structured results with relevance scores from 0 to 3.",
+        "Fetch API retrieves web pages and returns content as Markdown.",
+        "Pricing starts at 00:00 Beijing time on November 1, 2026."
+      ]
+    },
+    {
+      "summary": "Legal experts warn that Meta's revised terms still allow broad scraping permissions for business products.",
+      "significance": "Legal experts warn Meta's new terms still permit extensive scraping for business products, affecting news sites and publishers' content.",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "points": [
+        "Meta's new terms permit scraping of websites \"associated with\" business accounts for \"advertising and business products.\"",
+        "The terms will take effect on October 30, with no opt-out option for business accounts.",
+        "Experts argue that the term \"business products\" is broad enough to include AI training, despite Meta's removal of the word \"train."
+      ]
+    },
+    {
+      "summary": "Parser combinators are functions that parse strings into structured data, demonstrating how to parse text into objects through a series of examples.",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "points": [
+        "pInteger cuts \"10 20 30\" after \"10\", returning the number 10 and the rest of the string \" 20 30\".",
+        "\"Hello 100\" parsed by pHello100 returns \"Hello 100\" and an empty string.",
+        "\"10;20;30;\" parsed by pSeq(pNumber, pSemicolon) returns \"10;\" and \"20;30;\".",
+        "Parser combinators can handle complex parsing tasks more cleanly than regex, maintaining readability and maintainability."
+      ]
+    },
+    {
+      "summary": "The documentary \"You Can See Everything\" about Elizabeth Holmes manipulates viewers' emotions and perceptions through its storytelling techniques.",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "points": [
+        "Elizabeth Holmes was acquitted of patient fraud charges but convicted of investor fraud involving over $700 million.",
+        "Filmmakers Lance Oppenheim and Nathan Fielder use camera angles, close-ups, and editing to shift viewers' perceptions.",
+        "The documentary demonstrates how easily viewers can be manipulated into changing their opinions based on narrative framing."
+      ]
+    },
+    {
+      "summary": "Sphinx is a Git hook that quizzes users on their AI-generated code before it is committed.",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "points": [
+        "Sphinx operates with minimal tokens using existing coding agents or OpenAI-compatible endpoints.",
+        "It asks specific questions about code changes to ensure understanding before code is pushed.",
+        "Incorrect answers provide learning opportunities, while correct ones allow the push to proceed."
+      ]
+    },
+    {
+      "summary": "A sub-micrometer 3D motion control platform called MicroManipulator is open-source and low-cost, designed for precision tasks.",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "points": [
+        "Uses stepper motors driven by a 30 kHz closed-loop controller for precise movements down to 50nm.",
+        "Features a Python control program with a GUI for easy device control and integration.",
+        "Latest firmware update (1.0.4) adds tool support on GPIO pins and improves calibration and homing procedures."
+      ]
+    },
     {
       "summary": "Argentina's president is targeting the Falkland Islands' industries as polls slump.",
       "significance": "Argentina's economic pressures on Falklands' industries reflect renewed tensions, impacting local businesses and international relations.",
@@ -3592,163 +3749,6 @@
         "Education improves earning prospects; a bachelor\u2019s degree holder earns $1,578 weekly vs $966 for high-school graduates.",
         "Successful career individuals focus on problem-solving, continuous learning, and converting income into assets.",
         "Career capital, built through difficult work and market-valued skills, is key to long-term financial success."
-      ]
-    },
-    {
-      "summary": "Python 3.15.0 is now available in actions/python-versions for GitHub Actions.",
-      "significance": "This story matters because it enables developers to test their projects against Python 3.15.0 using GitHub Actions.",
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-      "points": [
-        "Python 3.15.0 can be added to GitHub Actions testing matrix for running tests.",
-        "User monitored updates hourly by cloning and pulling from actions/python-versions repo.",
-        "ChatGPT was used to track the availability of Python 3.15.0 release."
-      ]
-    },
-    {
-      "summary": "Football fans discuss Manchester City's financial breaches as they play against Liverpool at Anfield.",
-      "significance": "Fans discuss Manchester City's financial breaches ahead of their match against Liverpool, impacting the team's reputation and fan sentiment.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
-      "points": [
-        "Manchester City found guilty of serious financial breaches.",
-        "Match takes place at Liverpool's home ground, Anfield."
-      ]
-    },
-    {
-      "summary": "Demand for the shingles vaccine is increasing as some hope it may prevent dementia.",
-      "url": "https://www.theguardian.com/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring",
-      "points": [
-        "Jenny, a 50-year-old from Cambridge, got vaccinated to potentially avoid dementia.",
-        "High street chemists in Britain report rising demand for the shingles vaccine.",
-        "The vaccine costs around £450 for two doses for most under-65s, as it's not free on the NHS."
-      ]
-    },
-    {
-      "summary": "Zelenskyy indicates support for an energy ceasefire with Russia after Trump's surprise announcement, with EU Commission President backing Ukraine.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-      "points": [
-        "Ursula von der Leyen expresses full support for Zelenskyy's ceasefire call.",
-        "Ceasefire aims to protect food supplies and energy infrastructure in Ukraine and Russia.",
-        "Ukraine awaits details from the American side on Trump's partial ceasefire announcement."
-      ]
-    },
-    {
-      "summary": "Riyadh's King Khalid airport was struck by an unidentified projectile, following a deadly Houthi missile attack that killed 12.",
-      "significance": "Escalating attacks on Riyadh airport by Houthi rebels threaten to broaden Middle East conflict involvement.",
-      "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-      "points": [
-        "A projectile hit terminal 4, causing a fire at King Khalid international airport.",
-        "The attack is the third on the airport within the past week.",
-        "Air defences intercepted a cruise missile near the airport."
-      ]
-    },
-    {
-      "summary": "Trump announces an energy ceasefire between Ukraine and Russia, which Zelenskyy claims was unknown to him.",
-      "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
-      "points": [
-        "Trump declared an immediate energy ceasefire on Truth Social.",
-        "Zelenskyy stated the deal was \u201cnews to me,\u201d indicating lack of prior knowledge.",
-        "Previously, Zelenskyy rejected a US call to stop bombing Russian oil refineries."
-      ]
-    },
-    {
-      "summary": "Trump's deal with Putin to lift sanctions on US imports of Russian diesel is unlikely to impact diesel prices significantly.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-      "points": [
-        "Deal will have little meaningful effect on US diesel prices, say analysts.",
-        "Fuel shipment will take weeks and quantity is too small to affect prices.",
-        "Zelenskyy rejects Trump's claim of Ukraine-Russia 'energy ceasefire'."
-      ]
-    },
-    {
-      "summary": "Green party leader Zack Polanski proposes greater leadership control amid controversy over Zionism vote.",
-      "url": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
-      "points": [
-        "Polanski calls for structural changes due to the party's rapid growth.",
-        "Criticism stems from a divisive vote equating Zionism with racism.",
-        "The proposal questions if parties should dictate member beliefs."
-      ]
-    },
-    {
-      "summary": "New internal documents suggest ExxonMobil was aware of climate risks but misled the public about its efforts to address them.",
-      "significance": "The story provides new evidence of ExxonMobil's internal acknowledgment of climate risks, potentially strengthening legal cases demanding accountability from the oil industry.",
-      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
-      "points": [
-        "Frank Sprow warned Exxon colleagues in 1988 of potential negative impacts from climate action.",
-        "Documents show Exxon scientists believed the company's claims about biofuels and carbon capture were misleading.",
-        "Massachusetts is suing Exxon for allegedly deceptive practices regarding climate action."
-      ]
-    },
-    {
-      "summary": "The tilde character (~) in PATH may not expand to HOME as expected due to specific conditions in shell variable assignments.",
-      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-      "points": [
-        "Tilde expansion occurs only in unquoted inputs in Bash and Zsh.",
-        "Expansion happens in variable assignments after a \u2018:\u2019 or the first \u2018=\u2019.",
-        "Whitespace can break variable assignments that rely on tilde expansion."
-      ]
-    },
-    {
-      "summary": "Actor Rachael Stirling discusses media reaction to her confession of eating her mother Diana Rigg\u2019s ashes.",
-      "significance": "The story highlights the public's varied reactions to Rachael Stirling's personal tribute to her mother, Diana Rigg, shedding light on cultural perceptions of grief and mourning.",
-      "url": "https://www.theguardian.com/culture/2026/oct/11/rachael-stirling-on-eating-her-mother-diana-riggs-ashes",
-      "points": [
-        "Stirling's book, \"All About My Mother,\" admits to consuming a small amount of her mother's ashes.",
-        "Media portrayed Stirling as a \"matricidal cannibal\" despite her intention to honor her mother.",
-        "Diana Rigg, Stirling's mother, was a renowned actress known for roles in Game of Thrones and The Avengers."
-      ]
-    },
-    {
-      "summary": "The Australian's podcast delay led to a 10-month postponement in the trial of a \"sadistic\" paedophile already serving a 48-year sentence.",
-      "significance": "The Australian\u2019s podcast delay highlights the impact of media on legal proceedings, affecting the timeline of a paedophile's trial.",
-      "url": "https://www.theguardian.com/media/2026/oct/12/shadow-of-doubt-podcast-the-australian-victoria-schoolgirls-trial-delay-ntwnfb",
-      "points": [
-        "William \"Rob\" Gilfillan faces five counts of indecent assault and sexual penetration of two schoolgirls.",
-        "Gilfillan's trial, initially set for February last year, was delayed by 10 months due to the podcast.",
-        "The podcast made Gilfillan's history easily discoverable online, impacting trial proceedings."
-      ]
-    },
-    {
-      "summary": "Australia considers reversing net overseas migration for the first time in its history.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous",
-      "points": [
-        "Extended periods of more departures than arrivals have only occurred during crises like wars, economic collapses, and pandemics.",
-        "Political groups like One Nation and the Coalition have different views on the migration challenge."
-      ]
-    },
-    {
-      "summary": "Greens demand tougher big tech regulations, including court rights for individuals and percentage-based fines, in exchange for supporting Labor's digital duty of care laws.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor",
-      "points": [
-        "Greens call for individuals' right to sue big tech platforms and receive compensation.",
-        "Greens push for eSafety commissioner fines to be a percentage of tech companies' global revenue.",
-        "Labor's digital duty of care laws are set to be introduced into parliament this week."
-      ]
-    },
-    {
-      "summary": "Wildlife park in Yorkshire confirms tiger will not be euthanised after a man who entered its enclosure was mauled to death.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/11/tiger-will-not-be-euthanised-after-man-mauled-to-death-yorkshire-zoo",
-      "points": [
-        "Man entered tiger enclosure at Yorkshire Wildlife Park near Doncaster.",
-        "Incident occurred on Saturday at 1:35 pm.",
-        "Ed Miliband offered \"deepest condolences\" to the victim's family."
-      ]
-    },
-    {
-      "summary": "Hurricane Isaias caused power outages and flooding warnings across Florida, Alabama, and into the Appalachians.",
-      "url": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
-      "points": [
-        "Nearly 396,000 customers without power in Florida Panhandle and southern Alabama.",
-        "Storm linked to at least four deaths.",
-        "National Weather Service warns of flash flooding and strong winds in central Appalachians and mid-Atlantic."
-      ]
-    },
-    {
-      "summary": "Flu cases are higher than usual in England during September, prompting experts to urge vaccinations.",
-      "url": "https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa",
-      "points": [
-        "UK Health Security Agency reports above-average flu activity.",
-        "Emergency-department attendances for flu-like symptoms exceed seasonal expectations.",
-        "Experts recommend vaccination as the best method to reduce flu impact."
       ]
     }
   ]
