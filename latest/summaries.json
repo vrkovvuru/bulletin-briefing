@@ -1,6 +1,81 @@
 {
-  "generated": "2026-10-18T02:41:08.302240Z",
+  "generated": "2026-10-18T04:42:01.797591Z",
   "summaries": [
+    {
+      "summary": "Argentina's president is targeting the Falkland Islands' industries as polls slump.",
+      "significance": "Argentina's economic pressures on Falklands' industries reflect renewed tensions, impacting local businesses and international relations.",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+      "points": [
+        "President attacks islands' oil industry, hints at fisheries next.",
+        "Legislative assembly meeting held in wood-panelled courtroom in Stanley.",
+        "King Charles' portrait hangs behind assembly members in the legislative setting."
+      ]
+    },
+    {
+      "summary": "Tunisia's economic crisis intensifies, marked by high unemployment and protests against President Kais Saied\u2019s government.",
+      "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
+      "points": [
+        "Unemployment rate for university graduates reached 26.6% in Q2 2026, with women graduates at 35.6%.",
+        "Unemployed graduates began a 300km \"Dignity March\" from Menzel Bouzaiane to Tunis on September 27, 2026.",
+        "On October 17, 2026, thousands protested in Tunis against Saied\u2019s government and deteriorating living conditions."
+      ]
+    },
+    {
+      "summary": "Article offers 15 expert tips on choosing and caring for various types of cookware.",
+      "url": "https://www.theguardian.com/food/2026/oct/18/never-put-away-a-damp-one-15-expert-tips-for-perfect-pans",
+      "points": [
+        "Tips cover materials like cast iron, copper, and stainless steel",
+        "Advice includes proper storage and seasoning techniques",
+        "Considers compatibility with different types of cooking hobs"
+      ]
+    },
+    {
+      "summary": "A Sardinian village, Bolotana, home to many centenarian women, is considered for designation as a 'blue zone'.",
+      "url": "https://www.theguardian.com/world/2026/oct/18/bolotana-sardinian-village-women-centenarians-longevity-long-life",
+      "points": [
+        "Giovanna Marras, 101, and her sister Mariangela, 99, exemplify the longevity of Bolotana's female residents.",
+        "The sisters ran a successful tailoring business in Bolotana after moving back from Cagliari.",
+        "Neither sister married, focusing instead on their careers and later traveling the world post-retirement."
+      ]
+    },
+    {
+      "summary": "Rubio calls for crackdown on settler violence following attack on US journalist in the West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
+      "points": [
+        "Marco Rubio asked Israel to stop settler attacks in the occupied West Bank.",
+        "US journalist Heidi Levine was attacked by settlers on Friday.",
+        "The request comes from the Trump administration."
+      ]
+    },
+    {
+      "summary": "An Indigenous woman was shackled to a hospital bed while in labour in Queensland.",
+      "significance": "The story highlights ongoing human rights abuses against incarcerated Indigenous women, occurring just before a failed attempt to ban the practice.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/18/indigenous-woman-shackled-during-labour-childbirth-queensland-ntwnfb",
+      "points": [
+        "Incident occurred just days before a bill to ban shackling incarcerated women during childbirth was blocked.",
+        "Both Labor and the Coalition blocked the bill.",
+        "The advocacy group described the practice as \"barbaric."
+      ]
+    },
+    {
+      "summary": "NY rep introduces a bill to require actual ownership of video games rather than licensing, ensuring games remain playable post-server shutdown.",
+      "significance": "The bill affects gamers by ensuring they own purchased video games rather than just licensing them, and mandates offline modes if online support ends.",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "points": [
+        "Rep. Ritchie Torres of New York's 15th district introduced the bill.",
+        "The bill mandates offline modes for games before server shutdowns.",
+        "NBA 2K25 cited as an example where online servers were shut down two years post-release."
+      ]
+    },
+    {
+      "summary": "A developer released web-edit 0.1a2, a web app for file browsing and editing, with a new clipboard feature.",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "points": [
+        "Added \"copy to clipboard\" for text and image data.",
+        "Built for editing files across machines via Tailscale.",
+        "Useful for copying logs from pelican prompts into a Gist."
+      ]
+    },
     {
       "summary": "Search is ongoing for 11 missing people after a boat sank off Mexico\u2019s Baja coast, with 16 survivors rescued.",
       "significance": "Search for 11 missing continues after boat sinking off Mexico\u2019s Baja coast, highlighting dangers of maritime travel in the area.",
@@ -3674,80 +3749,6 @@
         "UK Health Security Agency reports above-average flu activity.",
         "Emergency-department attendances for flu-like symptoms exceed seasonal expectations.",
         "Experts recommend vaccination as the best method to reduce flu impact."
-      ]
-    },
-    {
-      "summary": "Trump directly encouraged Democratic senator John Fetterman to join the Republican party.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman",
-      "points": [
-        "Trump made the comment at Joint Base Andrews upon returning from a Tennessee rally.",
-        "The overture occurred just weeks before crucial midterm elections.",
-        "Trump believes Fetterman would perform better as a Republican."
-      ]
-    },
-    {
-      "summary": "The article discusses Valen's approach to memory safety, blending group borrowing with other techniques to create a flexible borrow checker.",
-      "significance": "Valen's Memory Safety introduces a flexible borrow checking method, potentially merging Rust's borrow checking with reference counting or garbage collection, impacting memory safety in programming languages.",
-      "url": "https://verdagon.dev/blog/valen-group-borrowing",
-      "points": [
-        "Valen's approach uses \"Group Borrowing,\" designed by the author's friend, to ensure memory safety without runtime costs.",
-        "Group Borrowing allows multiple mutable references to the same object, a pattern typically challenging for borrow checkers."
-      ]
-    },
-    {
-      "summary": "Pope Leo XIV will undergo surgery for an early-stage lung nodule found during a medical check-up.",
-      "significance": "Pope Leo's surgery for an early-stage lung nodule reassures the public about his health and planned papal visits.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "The 71-year-old pontiff will be operated on in the first days of next week.",
-        "The operation is expected to take about a week to recover from and will take place at Gemelli Hospital in Rome.",
-        "Pope Leo reassured the public that the nodule is \"well-contained\" and caught at an early stage."
-      ]
-    },
-    {
-      "summary": "A study shows that the sweet protein brazzein can help reduce blood sugar spikes in adults with liver disease.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
-      "points": [
-        "Researchers tested brazzein on 101 adults with metabolic dysfunction-associated steatotic liver disease.",
-        "Blood sugar spikes were lower when participants consumed ice cream sweetened with brazzein or brazzein with inulin.",
-        "The study was published in the Clinical Nutrition ESPEN journal."
-      ]
-    },
-    {
-      "summary": "Houthis warn against using Saudi airport after a deadly attack in Riyadh, escalating tensions in the Middle East.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "points": [
-        "US President Donald Trump considering joining Saudi strikes against Houthis.",
-        "Houthis attacked the Saudi airport three times this week, killing four.",
-        "Escalation follows the breakdown of a truce in July between Houthis and Yemen\u2019s Riyadh-backed government."
-      ]
-    },
-    {
-      "summary": "Australian hiker Jordan Yap, last seen on a remote Peruvian trail, was found dead.",
-      "significance": "The discovery of Jordan Yap's death concludes a search for the missing Australian hiker in Peru's remote mountains.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
-      "points": [
-        "Jordan Yap, 30, from Melbourne, was last in contact on September 14.",
-        "He was on a solo trek along the Huayhuash mountain range, 400km northeast of Lima.",
-        "Family and friends urge remembrance of the joy he brought to others' lives."
-      ]
-    },
-    {
-      "summary": "Richard E Grant explains his early exit from The Celebrity Traitors, admitting he didn't realize contestants would take his confession seriously.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/11/richard-e-grant-celebrity-traitors-mistakes",
-      "points": [
-        "Grant felt institutionalized during his time on the show.",
-        "He believes he should have made a joke out of his admission.",
-        "The actor was voted off as a traitor early in the series."
-      ]
-    },
-    {
-      "summary": "Despite efforts to curb it, people smuggling continues across the Channel to the UK.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/11/people-smugglers-profit-small-boats-can-uk-fix-crisis",
-      "points": [
-        "Smugglers use quickly assembled dinghies hidden in sand dunes near Boulogne-sur-Mer.",
-        "About 30 asylum seekers, including Amad from Iraq, await crossing despite risks.",
-        "UK's 'one in, one out' scheme has ended, but smugglers adapt with multiple plans."
       ]
     }
   ]
