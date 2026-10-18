@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-18T16:41:37.115661Z",
+  "generated": "2026-10-18T18:41:46.216214Z",
   "summaries": [
+    {
+      "summary": "A deadly fire at Canadian Forces Base Wainwright killed at least four people and injured dozens more.",
+      "significance": "The deadly fire at Canadian Forces Base Wainwright marks one of the worst peace-time military tragedies in Canadian history, affecting dozens and killing at least four.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Prime Minister Mark Carney called it one of the worst peace-time military tragedies in Canadian history.",
+        "The fire broke out around 16:00 local time (22:00 GMT) on Saturday and spread rapidly due to high winds.",
+        "The cause is under investigation, with speculation it may have been triggered by a gas main struck during a live firing exercise."
+      ]
+    },
+    {
+      "summary": "A woman drove her truck into a youth soccer game in Wichita, Kansas, killing two and injuring eleven.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
+      "points": [
+        "Two deceased: a six-year-old boy and a 35-year-old man.",
+        "Eleven injured, ranging from five to 68 years old.",
+        "The driver, a 34-year-old truck driver from Garden City, was taken into custody."
+      ]
+    },
+    {
+      "summary": "Intel introduced the 8087 chip in 1980, significantly speeding up floating-point operations like addition and subtraction.",
+      "significance": "The Intel 8087 chip significantly sped up floating-point operations, enhancing computational performance in 1980s computers.",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "points": [
+        "The 8087 sped up addition by a factor of almost 100 compared to the 8086 processor.",
+        "The chip's microcode ROM holds 1648 micro-instructions controlling its operations.",
+        "Floating-point operations require aligning binary points before addition or subtraction."
+      ]
+    },
+    {
+      "summary": "The article discusses the importance of the creator's perspective and intuition in shaping software products, contrasting it with a more process-driven approach.",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "points": [
+        "The author values intuition developed through experience over blind data reliance.",
+        "Products develop a character based on what makers pay attention to and their decisions.",
+        "Recent products feel messy, with more focus on adding capabilities than improving core issues."
+      ]
+    },
+    {
+      "summary": "Java introduces sealed classes and exhaustive pattern matching to ensure all cases are covered in switch expressions.",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "points": [
+        "Sealed classes enable exhaustive pattern matching, eliminating the need for a default clause in switch expressions.",
+        "Adding a new subtype to a sealed class/interface can break existing code, requiring a major version bump.",
+        "Sealed types are more useful for internal component implementation than for public APIs due to potential runtime issues."
+      ]
+    },
     {
       "summary": "Journalist describes teargas and unrest in Paris protests fueled by public grievances.",
       "significance": "The story highlights the underlying sense of betrayal and grievances among protesters in Paris, indicating that violent responses from leaders may exacerbate the situation.",
@@ -3701,52 +3748,6 @@
         "Total fire ban in place across greater Sydney.",
         "Temperatures forecast to reach 37C in Sydney\u2019s west.",
         "Extreme fire danger due to hot, dry conditions and thunderstorms."
-      ]
-    },
-    {
-      "summary": "A 13-year-old boy was charged with murder after a 30-year-old man was stabbed to death in Mount Druitt, Sydney.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
-      "points": [
-        "13-year-old boy charged with murder for the stabbing death.",
-        "Second boy, aged 16, also charged in connection with the incident.",
-        "The stabbing occurred in Mount Druitt on Friday evening."
-      ]
-    },
-    {
-      "summary": "An article discusses the limitations of AI agents in rewriting code, highlighting the necessity of human oversight and understanding.",
-      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
-      "points": [
-        "AI rewrites of code show significant differences in backwards compatibility and performance.",
-        "Rust version drops CSRF tokens and Redis for easier caching and in-process queues.",
-        "Elixir rewrite maintains closer compatibility with the original Rails code but faces performance issues."
-      ]
-    },
-    {
-      "summary": "Trump claims an \"energy ceasefire\" between Ukraine and Russia, with Zelensky supporting it conditionally, but Russia has not commented.",
-      "significance": "Trump's claim of an \"energy ceasefire\" between Ukraine and Russia is welcomed by Zelensky but faces skepticism due to lack of Moscow's confirmation and recent attacks on energy facilities.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Zelensky initially surprised by the announcement but later said Ukraine would support it if Moscow agreed.",
-        "The deal faces criticism from European officials and US politicians, including some Republicans.",
-        "Trump's move aims to lower domestic fuel prices ahead of midterm elections, amid rising inflation."
-      ]
-    },
-    {
-      "summary": "Two men were killed in southern Lebanon's Bint Jbeil district during an olive harvest due to Israeli attacks.",
-      "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
-      "points": [
-        "One man died from a munition in Froun, the other from Israeli shelling in Yater.",
-        "Lebanese army blamed Israeli tank fire and called the attacks a breach of agreements.",
-        "The incident led to the cancellation of the harvest and a warning to avoid town outskirts."
-      ]
-    },
-    {
-      "summary": "The Onion seeks to buy specific print issues from collectors, detailing how to identify and contact them.",
-      "url": "https://theonion.com/archivehunt/",
-      "points": [
-        "Collectors must check Volume and Issue Numbers on front pages.",
-        "Interested parties should fill out a Google Form with details.",
-        "Issues must be in good condition, clean, and readable."
       ]
     }
   ]

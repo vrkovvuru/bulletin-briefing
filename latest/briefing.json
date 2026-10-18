@@ -2,13 +2,40 @@
   "date": "2026-10-18",
   "stories": [
     {
-      "title": "Manchester United held at Leeds despite improved performance for Carrick",
-      "url": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss",
+      "title": "Why the US is holding secret talks with Myanmar’s military ruler",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Bryan Mbeumo&#039;s goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "Why is the Trump administration holding secret talks with Myanmar&#039;s military ruler, accused of genocide?",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Bollywood actor Tiger Shroff escaped unharmed after gunmen opened fire at his vehicle in Mumbai, India",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.",
+      "alsoReportedBy": []
     },
     {
       "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
@@ -17,24 +44,6 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "One of NPR's most gifted storytellers, his soft voice and vivid writing helped define the network's sound for a generation of Americans.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
-      "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to &#039;alter the status quo&#039;.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.",
       "alsoReportedBy": []
     },
     {
@@ -56,24 +65,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Pope Leo says he will gradually resume duties after cancer surgery",
       "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
       "source": "NPR",
@@ -83,12 +74,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "‘This is horrifying. This is madness’: the row over competitive yoga",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga",
+      "title": "Six-year-old among two dead after Kansas woman drives through soccer game, with 11 more injured",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Some yogis welcome the idea of competition – for others, it is anathema. Will those keen for yoga to become an Olympic sport win the argument? Vaishnavi Saravanakumar describes herself on Instagram as “India’s rubber band girl”. In a typical video post , dressed in a rhinestone-studded crimson catsuit and accompanied by a Bollywood-rap anthem, she demonstrates an improbable feat. From standing, she snakes into a deep back bend, curls her head and shoulders up under her tiger-striped calves, and finishes beaming to camera with ankles crossed under her chin. This is yoga as we have seldom seen it before. Earlier this year, the Indian government announced that it will push for yogasana’s inclusion in the Olympics, ahead of the country’s bid to host the 2036 Games. The news came the week before the inaugural World Yogasana Championship, held in Ahmedabad in June, at which Saravanakumar, a gold medallist, was one of 522 yogis competing. Continue reading...",
+      "summary": "Wichita police say 34-year-old truck driver from Garden City was taken into custody amid case at youth soccer game The two people killed on Saturday when a woman in a truck drove through a youth soccer game in north-east Wichita, Kansas , were a six-year-old boy and a 35-year-old man, according to authorities. Eleven other people between the ages of five and 68 were injured in a case whose possible motivations remained unclear early on Sunday, when it was still capturing widespread attention across the US. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
       "alsoReportedBy": []
     },
     {
@@ -101,6 +101,15 @@
       "alsoReportedBy": ["Guardian World"]
     },
     {
+      "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
+      "url": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Green leader in England and Wales calls ‘debates about words’ unhelpful and denies recent motion was controversial Zack Polanski has said Zionism in its current form is racist, that no country has a right to exist, and that the Green party motion on the issue was not controversial. The leader of the Green party in England and Wales gave an unapologetic interview to the BBC on Sunday two weeks after his party approved a motion equating Zionism with racism. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
       "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
       "source": "Guardian World",
@@ -108,6 +117,15 @@
       "categoryLabel": "World",
       "summary": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ⁠the murder of ​two Australian ‌brothers ‌and their American friend during ‌a 2024 surf trip to the state of Baja California. The ‌defendants were declared guilty a week ​ago of homicide, aggravated robbery, robbery with violence and vehicle theft ⁠with violence, crimes committed against ​Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend ​Carter Rhoad. Continue reading...",
       "alsoReportedBy": ["BBC World"]
+    },
+    {
+      "title": "Student protests widen into greater social unrest in France",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
+      "alsoReportedBy": []
     },
     {
       "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
@@ -128,21 +146,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Air Force officer killed in rappelling accident before UTSA’s game against Navy",
-      "url": "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Officer fell from rafters during pregame display Man treated on field before being taken to hospital An Air Force officer has died after he fell from the rafters of the Alamodome before the University of Texas at San Antonio’s home game against Navy on Saturday. The officer, who has not been named, was taking part in an event to celebrate UTSA’s Salute to Armed Forces and Veterans night. He fell on to the field while rappelling down from the stadium rafters. He was treated on the field before being taken away on a stretcher. He later died from his injuries at a local hospital. Nellis Air Force Base said he was part of the 6th Combat Training Squadron. The unit helps train military members to rappel down from helicopters. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Student protests widen into greater social unrest in France",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+      "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
+      "summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
       "alsoReportedBy": []
     },
     {
@@ -155,15 +164,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
       "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
       "source": "Guardian World",
@@ -173,12 +173,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "EPA quietly backtracks on claims US has phased out toxic Pfas compounds",
-      "url": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
+      "title": "Air Force officer killed in rappelling accident before UTSA’s game against Navy",
+      "url": "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Agency changes wording on website as Texas-based chemical firm continues manufacture of plastic containers The Environmental Protection Agency has quietly backtracked on a claim that the US has phased out two of the most dangerous Pfas compounds – Pfoa and Pfos. The EPA has found that virtually no level of exposure to either in drinking water is safe, and the International Agency for Research on Cancer classifies Pfoa as “carcinogenic to humans” and Pfos as “possibly carcinogenic”. Still, the EPA is allowing Houston-based Inhance to produce containers from which Pfoa has been found to leach at high levels into the containers’ contents. The company makes up to 200m plastic containers annually used across the US economy. Continue reading...",
+      "summary": "Officer fell from rafters during pregame display Man treated on field before being taken to hospital An Air Force officer has died after he fell from the rafters of the Alamodome before the University of Texas at San Antonio’s home game against Navy on Saturday. The officer, who has not been named, was taking part in an event to celebrate UTSA’s Salute to Armed Forces and Veterans night. He fell on to the field while rappelling down from the stadium rafters. He was treated on the field before being taken away on a stretcher. He later died from his injuries at a local hospital. Nellis Air Force Base said he was part of the 6th Combat Training Squadron. The unit helps train military members to rappel down from helicopters. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -200,8 +200,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "macOS 15.8.2 Breaks OpenGL",
-      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -221,15 +230,6 @@
       "title": "A New Way to Think About Borrow Checking (In Reverse)",
       "url": "https://verdagon.dev/blog/reverse-borrow-checking",
       "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "High performance policy routed IPsec mesh SD-WAN",
-      "url": "https://ranet3.com/",
-      "source": "Lobsters",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -353,12 +353,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "url": "https://www.latent.space/p/crossing-the-threshold",
-      "source": "Latent Space",
+      "title": "Chirp Pong",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
+      "summary": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and intertwine than pong Claude Opus 5.5 Extra in Claude Code . Tags: game-design , ai , generative-ai , llms , claude-code",
       "alsoReportedBy": []
     }
   ]
