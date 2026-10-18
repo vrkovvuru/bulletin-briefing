@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-18T18:41:46.216214Z",
+  "generated": "2026-10-18T20:41:33.113374Z",
   "summaries": [
+    {
+      "summary": "Youth-led protests, marked by violence, are spreading across Europe, raising questions about their causes and fueling anti-immigration rhetoric online.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
+      "points": [
+        "Protests are youth-led and have been accompanied by violent scenes.",
+        "Anti-immigration claims have been fueled by the violent scenes online.",
+        "The unrest's actual drivers remain under question and investigation."
+      ]
+    },
+    {
+      "summary": "India's government intensifies crackdown on youth protesters and media amid electoral reforms争议.",
+      "significance": "India's crackdown on critics and media escalates tensions, highlighting government's struggle to suppress growing youth-led protests and critical reporting.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+      "points": [
+        "About 130 million names removed from voter lists in India.",
+        "Dozens of journalists and content creators face detention and assault.",
+        "Pakistan declares emergency in Khyber Pakhtunkhwa over protests."
+      ]
+    },
+    {
+      "summary": "Supermodel Cindy Crawford mourns the death of her 27-year-old son Presley Gerber, whose passing is being investigated as a suspected overdose.",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Presley Gerber died on September 20 at a rehab facility in California.",
+        "Police are investigating the death as a suspected drug overdose.",
+        "Gerber, like his mother and sister Kaia, was a model and had spoken openly about his mental health and drug use."
+      ]
+    },
+    {
+      "summary": "Macron condemns violence following days of unrest in France, where over 2,000 were arrested.",
+      "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+      "points": [
+        "Macron criticizes \"unbridled violence\" during televised address.",
+        "Over 2,000 people arrested across French cities.",
+        "Public buildings burned and hundreds of shops destroyed."
+      ]
+    },
+    {
+      "summary": "Netanyahu questions the account of a violent attack on European diplomats and others in the West Bank, despite the incident being witnessed.",
+      "significance": "Netanyahu's skepticism over settler attack undermines Israel's response to violence against its allies, highlighting tensions in the West Bank.",
+      "url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
+      "points": [
+        "Netanyahu's office demanded \"serious evidence\" for the \"serious accusations.\"",
+        "The attack targeted European diplomats, French clerics, and a visiting mayor.",
+        "Israel did not pledge to hold attackers accountable post-incident."
+      ]
+    },
+    {
+      "summary": "Free Pascal Compiler and Lazarus IDE now support dynamic packages, enhancing modularity and development speed.",
+      "significance": "The introduction of dynamic packages in the Free Pascal Compiler and Lazarus IDE enables quicker development and deployment of plugins and extensions without needing to rebuild the entire IDE.",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "points": [
+        "Dynamic packages allow for quick installation of components without rebuilding the entire IDE.",
+        "Packages are implemented as shared library files with additional metadata for Linux, Windows, and macOS.",
+        "Lazarus IDE enhancements include a new progress window and a Packages window for managing packages."
+      ]
+    },
     {
       "summary": "A deadly fire at Canadian Forces Base Wainwright killed at least four people and injured dozens more.",
       "significance": "The deadly fire at Canadian Forces Base Wainwright marks one of the worst peace-time military tragedies in Canadian history, affecting dozens and killing at least four.",
@@ -3689,65 +3746,6 @@
         "Frieze art fair, first held in 2003, takes place annually in Regent\u2019s Park, London.",
         "Artists reveal their pieces, including pine cones, glitter, and a hip-hop themed artwork.",
         "The event is viewed as either a commercial spectacle or a vast showcase of contemporary art."
-      ]
-    },
-    {
-      "summary": "Australian engineer Robert Pether has been released from an Iraqi jail and allowed to leave Iraq.",
-      "significance": "The release of detained Australian engineer Robert Pether marks an end to a four-year legal and diplomatic struggle between Australia and Iraq.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison",
-      "points": [
-        "Pether spent four years in jail after being arrested without charge in April 2021.",
-        "His family described the period as \"living in hell.\"",
-        "Pether was involved in a business dispute with the Iraqi government over a project for the central bank."
-      ]
-    },
-    {
-      "summary": "Australian Greens call for blocking Australian access to a planned live stream of an US military execution.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-greens-us-firing-squad-execution-nidal-hasan-live-stream-ntwnfb",
-      "points": [
-        "Greens senator Sarah Hanson-Young deems the broadcast \"barbaric\".",
-        "The execution of Nidal Malik Hasan is set for livestream on 3 December.",
-        "Australian government sources suggest limitations in restricting an ally's legal proceedings."
-      ]
-    },
-    {
-      "summary": "A projectile attack on Riyadh's King Khalid International airport killed one and injured eleven on October 10, 2026.",
-      "significance": "The attacks on Riyadh airport escalate the Yemen conflict, threatening global oil supplies and potentially drawing US military involvement.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
-      "points": [
-        "The deceased was identified as a Pakistani resident by the General Authority of Civil Aviation (GACA).",
-        "The attack occurred at terminals 3 and 4, which serve domestic flights, at about 8:30pm local time.",
-        "This attack is the fourth on the airport in five days, with the previous one on October 9 killing 12 and injuring over 300."
-      ]
-    },
-    {
-      "summary": "Websites use browser fingerprinting to track users, similar to how cookies do, but more insidiously.",
-      "significance": "The story highlights how digital fingerprinting can uniquely identify users online, raising privacy concerns beyond traditional cookie tracking.",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "points": [
-        "Browser fingerprinting identifies users through unique hardware and software characteristics.",
-        "Over 60% of Americans can be uniquely identified using this method.",
-        "Chrome users are particularly vulnerable, while Safari and Firefox offer some protection."
-      ]
-    },
-    {
-      "summary": "Pakistan declares emergency in Khyber Pakhtunkhwa, suspending the provincial government led by Imran Khan\u2019s PTI party.",
-      "significance": "Suspension of provincial government escalates conflict between Pakistan's federal authorities and Imran Khan\u2019s PTI party, deepening political instability.",
-      "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
-      "points": [
-        "President Asif Ali Zardari declared the state of emergency in Khyber Pakhtunkhwa province.",
-        "PTI party spokesperson described the move as a \"coup disguised as emergency.\"",
-        "Federal government cited failure to tackle Islamist militancy as the reason for the suspension."
-      ]
-    },
-    {
-      "summary": "Sydney faces a total fire ban due to 37C temperatures and the risk of bushfires from 'dry lightning'.",
-      "significance": "A total fire ban affects Sydney due to 37C temperatures and risk of bushfires from 'dry lightning', heightening fire danger.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/total-fire-ban-sydney-extreme-weather-temperature-37c",
-      "points": [
-        "Total fire ban in place across greater Sydney.",
-        "Temperatures forecast to reach 37C in Sydney\u2019s west.",
-        "Extreme fire danger due to hot, dry conditions and thunderstorms."
       ]
     }
   ]
