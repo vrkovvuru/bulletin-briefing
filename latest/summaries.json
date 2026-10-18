@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-18T12:44:30.510925Z",
+  "generated": "2026-10-18T14:41:42.114575Z",
   "summaries": [
+    {
+      "summary": "An Air Force officer died after falling from the Alamodome rafters during a pregame display before UTSA\u2019s game against Navy.",
+      "significance": "The death of an Air Force officer during a pregame rappelling display highlights risks in military demonstrations at public events.",
+      "url": "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy",
+      "points": [
+        "Officer fell during a rappelling event at the Alamodome on Saturday.",
+        "He was part of the 6th Combat Training Squadron at Nellis Air Force Base.",
+        "The incident occurred before UTSA\u2019s game against Navy, on Salute to Armed Forces and Veterans night."
+      ]
+    },
+    {
+      "summary": "Bristol Old Vic expands access to arts by bringing free theatre performances into classrooms amid financial pressures.",
+      "url": "https://www.theguardian.com/stage/2026/oct/18/bristol-old-vic-arts-emergency-city-academy-theatre-plays-access",
+      "points": [
+        "Theatre company addresses arts 'emergency' due to financial constraints on households and schools.",
+        "Performance at City Academy in Bristol features six young actors exploring British identity in 2026.",
+        "Actors discuss cultural symbols like fish and chips, tea, and sports figures like Jordan Pickford."
+      ]
+    },
+    {
+      "summary": "The µRepRap is a 3D printer capable of micron-level fabrication, aiming to democratize microelectronics and MEMS fabrication.",
+      "significance": "The µRepRap project democratizes micron-scale fabrication, making precise 3D printing accessible beyond professional labs to hobbyists and small workshops.",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "points": [
+        "Achieves repeatable positioning to approximately 1μm and 10μm accuracy in an 8mm cubic volume.",
+        "Uses a fine probe to deposit UV resin droplets as small as 4μm and cure 9μm resin lines.",
+        "Aims to bring micron-scale fabrication capabilities to a wider audience, similar to how RepRap popularized 3D printing."
+      ]
+    },
+    {
+      "summary": "The vibecoding tag, once meaningful in software engineering discussions, has become harmful by alienating valuable community members.",
+      "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
+      "points": [
+        "Tagging has expanded to include almost any mention of LLMs, losing its original purpose.",
+        "The tag now turns away creators of original technical content from the community.",
+        "Filtering out LLM-related posts has led to a loss of valuable, non-LLM-centric content."
+      ]
+    },
+    {
+      "summary": "Emily, an engineer, shares a framework called the \"Brain Sandwich\" to effectively use AI without losing engineering skills.",
+      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "points": [
+        "Framework involves understanding the task before using AI and reviewing the AI's work afterward.",
+        "Involves three steps: brain (understand), AI (delegate), brain (review).",
+        "Prevents AI from solving the wrong problems or adding unnecessary complexity."
+      ]
+    },
+    {
+      "summary": "The article explains how ARP works to connect devices on a local network using IP and MAC addresses.",
+      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
+      "points": [
+        "ARP allows a device to find the MAC address of another device using its IP address.",
+        "ARP queries are broadcast to all devices on the network, with the correct device responding with its MAC address.",
+        "ARP helps build a list of known devices on the network, including their IP and MAC addresses."
+      ]
+    },
     {
       "summary": "A new horror bookstore in Virginia thrives, while the horror film industry sees rising profits and explores new mediums.",
       "significance": "The story highlights the growing popularity and profitability of the horror genre, as seen through the success of specialized businesses and films.",
@@ -3692,63 +3748,6 @@
         "The Surrealist painter Magritte highlighted the gap between words and visual perception in his artwork.",
         "Medieval beliefs about Hell influenced the meaning of fire, showing how knowledge shapes perception.",
         "Vision is active and reciprocal, influenced by the awareness that we can both see and be seen."
-      ]
-    },
-    {
-      "summary": "The Onion is seeking help to recover missing issues from their 270-year archive by potentially purchasing them from the public.",
-      "url": "https://mailchi.mp/email.theonion.com/archivehunt",
-      "points": [
-        "The Onion is offering to buy missing issues to complete their archive.",
-        "Missing issues are from their 270-year archive.",
-        "Interested parties can fill out a form to offer their issues."
-      ]
-    },
-    {
-      "summary": "Palestinians flee Gaza due to Israeli attacks, with additional threats in East Jerusalem and the West Bank.",
-      "significance": "Israeli attacks on Gaza and other threats to Palestinian communities highlight ongoing conflict and displacement in the region.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
-      "points": [
-        "Israeli attacks cause panic and displacement in Gaza.",
-        "Home demolitions occur in occupied East Jerusalem.",
-        "Settler violence escalates across the occupied West Bank."
-      ]
-    },
-    {
-      "summary": "Lebanon introduces a solar-powered model train to rejuvenate its dormant railway system and boost tourism.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
-      "points": [
-        "Solar-powered train operates on a section of Lebanon\u2019s historic railway.",
-        "Aims to revive interest in the country\u2019s long-dormant rail network.",
-        "Project hopes to attract tourists and reinvigorate the railway system."
-      ]
-    },
-    {
-      "summary": "Democratic candidate Abdul El-Sayed warns Democrats must win by large margins in midterms to counter Trump\u2019s election denial claims.",
-      "significance": "El-Sayed warns Democrats must achieve large victories in midterms to counter anticipated election disputes from Trump and Republicans.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers",
-      "points": [
-        "Abdul El-Sayed argues Democrats need to win by \"massive numbers\" in November midterms.",
-        "Trump and Republicans likely to question integrity of election results.",
-        "Democrats favored to win House control, polls suggest possible Senate gains too."
-      ]
-    },
-    {
-      "summary": "Nanolathe, an open-source engine, brings Total Annihilation to modern computers with enhanced graphics and cross-platform support.",
-      "significance": "Nanolathe's open-source engine modernizes Total Annihilation, making it accessible on contemporary systems and editable for modders and enthusiasts.",
-      "url": "https://nanolathe.gg",
-      "points": [
-        "Modern GPU rendering with options for classic visuals",
-        "Supports Windows, Mac, and Linux, requiring original game files",
-        "Three demo missions available in-browser, full game requires installation"
-      ]
-    },
-    {
-      "summary": "The article discusses strategies for career individuals to build wealth through employment rather than entrepreneurship.",
-      "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
-      "points": [
-        "Education improves earning prospects; a bachelor\u2019s degree holder earns $1,578 weekly vs $966 for high-school graduates.",
-        "Successful career individuals focus on problem-solving, continuous learning, and converting income into assets.",
-        "Career capital, built through difficult work and market-valued skills, is key to long-term financial success."
       ]
     }
   ]
