@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-18T14:41:42.114575Z",
+  "generated": "2026-10-18T16:41:37.115661Z",
   "summaries": [
+    {
+      "summary": "Journalist describes teargas and unrest in Paris protests fueled by public grievances.",
+      "significance": "The story highlights the underlying sense of betrayal and grievances among protesters in Paris, indicating that violent responses from leaders may exacerbate the situation.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/france-riot-looting-anger-violence-protest-streets",
+      "points": [
+        "Protest atmosphere turned from festive to conflict after police used teargas.",
+        "Teargas made breathing difficult and forced retreat from Place de la République.",
+        "Journalist highlights sense of betrayal uniting protesters despite varied motives."
+      ]
+    },
+    {
+      "summary": "India pushes for yoga's inclusion in the Olympics, sparking debate among yogis, as seen in the World Yogasana Championship.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga",
+      "points": [
+        "Vaishnavi Saravanakumar, known as \"India\u2019s rubber band girl,\" won gold at the World Yogasana Championship.",
+        "The Indian government plans to propose yogasana for the Olympics ahead of its 2036 bid.",
+        "522 yogis competed in the inaugural World Yogasana Championship held in Ahmedabad in June."
+      ]
+    },
+    {
+      "summary": "Investigation into a £55m loan to Manchester City\u2019s owner while Andy Burnham was mayor.",
+      "significance": "Investigation into £55m housing loan to Manchester City's owner while Burnham was mayor follows PM's scrutiny over links to club's wealthy owners.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
+      "points": [
+        "£55m loan to Manchester City\u2019s Abu Dhabi owner under scrutiny.",
+        "Prime Minister promises \u2018full transparency\u2019 regarding the housing fund.",
+        "Manchester City found guilty of a £900m income boost over nine years."
+      ]
+    },
+    {
+      "summary": "A new reverse borrow checking algorithm for memory safety in programming languages is being explored.",
+      "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+      "points": [
+        "Valen's borrow checker iterates functions in reverse, a method not previously used for memory safety.",
+        "The algorithm is experimental and expected to be refined until v0.1, due sometime in February.",
+        "Unlike Rust's forward pass for memory safety checks, Valen's approach scans backwards for efficiency and convenience."
+      ]
+    },
+    {
+      "summary": "New high-performance policy routed IPsec mesh SD-WAN technology enables efficient network traffic management.",
+      "significance": "The story matters because it showcases a high-performance SD-WAN solution that interoperates with existing tools, offering flexible routing and policy options, and achieving significant throughput.",
+      "url": "https://ranet3.com/",
+      "points": [
+        "Technology supports IKEv2 with Ed25519 keys, Babel, and SRv6 for interoperability.",
+        "Babel continuously measures RTT, adjusting routes to ensure traffic always takes the fastest path.",
+        "Achieves up to 8.84 Gbit/s of TCP payload one way and 18.76 Gbit/s both ways without a tunnel."
+      ]
+    },
     {
       "summary": "An Air Force officer died after falling from the Alamodome rafters during a pregame display before UTSA\u2019s game against Navy.",
       "significance": "The death of an Air Force officer during a pregame rappelling display highlights risks in military demonstrations at public events.",
@@ -3699,55 +3747,6 @@
         "Collectors must check Volume and Issue Numbers on front pages.",
         "Interested parties should fill out a Google Form with details.",
         "Issues must be in good condition, clean, and readable."
-      ]
-    },
-    {
-      "summary": "Andrej Karpathy highlights the widening gap in understanding of LLM capabilities across different user groups.",
-      "significance": "The widening gap in understanding of LLM capabilities affects billions, highlighting a sharp divide between frequent professional users and the general population.",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "points": [
-        "6B people (~75% of the population) have barely interacted with LLMs.",
-        "20M people (0.2%) experience significant productivity gains in math&code tasks.",
-        "~5,000 people (~0.00006%) have access to advanced LLMs for complex projects like cyber attacks and scientific discovery."
-      ]
-    },
-    {
-      "summary": "Syrian families protest in Damascus demanding the release of detainees held by Israel, including minors.",
-      "significance": "Syrian families protest in Damascus demanding the release of detainees held by Israel, including at least six minors.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
-      "points": [
-        "Families protested in Damascus for the release of detainees.",
-        "At least six minors are among those held by Israel.",
-        "Protesters also demand information about the condition of detainees."
-      ]
-    },
-    {
-      "summary": "Labor minister calls for Reserve Bank to ban point of sale charges for small businesses.",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-      "points": [
-        "Labor minister Kristy McBain advocates for banning point of sale charges for small businesses.",
-        "McBain argues small businesses already pay account keeping and other fees to banks.",
-        "Proposal aims to prevent banks from making additional profits from small businesses."
-      ]
-    },
-    {
-      "summary": "Andy Burnham will publish details of his dealings with Manchester City after criticism over support for the club\u2019s owners.",
-      "significance": "Andy Burnham's decision to publish details of his dealings with Manchester City follows criticism over his support for the club\u2019s owners post financial regulations breach.",
-      "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city",
-      "points": [
-        "Kemi Badenoch urged the prime minister to release all work-related information with Manchester City.",
-        "Liberal Democrats requested minutes of meetings and declaration of hospitality gifts from the club\u2019s owners.",
-        "Burnham's decision follows criticism for supporting the club\u2019s owners post financial regulations breach."
-      ]
-    },
-    {
-      "summary": "The article discusses how seeing precedes words and how our perception is influenced by our knowledge and beliefs.",
-      "significance": "This story matters because it explores the fundamental relationship between sight and knowledge, illustrating how our perceptions are influenced by beliefs and experiences, not just direct observation.",
-      "url": "https://www.ways-of-seeing.com/ch1",
-      "points": [
-        "The Surrealist painter Magritte highlighted the gap between words and visual perception in his artwork.",
-        "Medieval beliefs about Hell influenced the meaning of fire, showing how knowledge shapes perception.",
-        "Vision is active and reciprocal, influenced by the awareness that we can both see and be seen."
       ]
     }
   ]
