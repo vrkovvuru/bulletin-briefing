@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-18T00:40:34.602414Z",
+  "generated": "2026-10-18T02:41:08.302240Z",
   "summaries": [
+    {
+      "summary": "Search is ongoing for 11 missing people after a boat sank off Mexico\u2019s Baja coast, with 16 survivors rescued.",
+      "significance": "Search for 11 missing continues after boat sinking off Mexico\u2019s Baja coast, highlighting dangers of maritime travel in the area.",
+      "url": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
+      "points": [
+        "16 Mexican nationals were rescued, while 11 remain missing from the boat that had 27 people on board.",
+        "Survivors were treated for severe injuries consistent with shark bites.",
+        "The incident occurred about 225km west of Ensenada, with search efforts involving the US and Mexican Navies."
+      ]
+    },
+    {
+      "summary": "Lean proof assistant now includes verified kernels to enhance software security and reliability.",
+      "significance": "The story matters because it introduces verified kernels in Lean, enhancing the reliability and security of software developments by reducing programming mistakes in kernel implementation.",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "points": [
+        "Con-leche, a kernel written in Lean and proven consistent, executes 0.69x the instructions of the official kernel.",
+        "Con-ron, a Rust version of con-leche, adds an additional layer of protection against unsoundness bugs.",
+        "Lean now offers a command to recheck developments with external kernels, including con-leche and con-ron, inside a sandbox."
+      ]
+    },
+    {
+      "summary": "Lean Rada explains using document.currentScript for inline rendering in JavaScript.",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "points": [
+        "Lean Rada demonstrates replacing a <script> element with the current year using JavaScript.",
+        "A shortcut function $=(...n)=>document.currentScript.replaceWith(...n) simplifies the process.",
+        "Example provided: The year is dynamically inserted via <script>$(new Date().getFullYear())<\/script>."
+      ]
+    },
     {
       "summary": "A 13-year-old ebike rider was charged with sexual offences against women on Sydney's northern beaches trails.",
       "significance": "The case highlights escalating concerns over safety for women and girls on public trails, prompting stricter law enforcement and community vigilance.",
@@ -3719,33 +3748,6 @@
         "Smugglers use quickly assembled dinghies hidden in sand dunes near Boulogne-sur-Mer.",
         "About 30 asylum seekers, including Amad from Iraq, await crossing despite risks.",
         "UK's 'one in, one out' scheme has ended, but smugglers adapt with multiple plans."
-      ]
-    },
-    {
-      "summary": "Manchester mayor Bev Craig pledges £2m to support local artists beyond the city's Oasis legacy.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/11/bev-craig-manchester-music-oasis",
-      "points": [
-        "Bev Craig announces £2m funding for Greater Manchester's artists.",
-        "Funding aims to improve access to rehearsal and production spaces.",
-        "Conference for creative industries held at MediaCity in Salford."
-      ]
-    },
-    {
-      "summary": "American Academy of Pediatrics calls for a ban on raw milk sales amid growing popularity and disease outbreaks.",
-      "url": "https://www.theguardian.com/world/2026/oct/11/physicians-group-raw-milk-ban",
-      "points": [
-        "American Academy of Pediatrics urged a ban on unpasteurized milk sales in the US.",
-        "Raw milk industry is experiencing record growth in the United States.",
-        "Recent disease outbreaks linked to raw milk have alarmed public health officials."
-      ]
-    },
-    {
-      "summary": "US maternity wards are closing due to impending Medicaid funding cuts.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/11/medicaid-cuts-maternity-wards",
-      "points": [
-        "52 maternity wards have closed since the HR1 bill was announced in July 2025.",
-        "Eight more wards have announced upcoming closures.",
-        "The full impact of Trump\u2019s spending cuts will be felt next year."
       ]
     }
   ]
