@@ -1,6 +1,89 @@
 {
-  "generated": "2026-10-19T16:42:49.837319Z",
+  "generated": "2026-10-19T18:42:33.896988Z",
   "summaries": [
+    {
+      "summary": "Nathan Fielder's documentary on Elizabeth Holmes, \"You Can See Everything,\" has become a hit, focusing on Holmes' interactions with Fielder before her prison sentence.",
+      "significance": "The documentary offers a deep, secretive dive into Elizabeth Holmes' psyche pre-prison, potentially reshaping public perception and setting a precedent for spoiler-averse filmmaking.",
+      "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success",
+      "points": [
+        "The documentary is three hours long and has become a sold-out smash hit.",
+        "Fielder asks Holmes, \"Are you being real right now?\" in a key scene.",
+        "The first half of the film shows Fielder's attempt to uncover Holmes' true nature in 2023."
+      ]
+    },
+    {
+      "summary": "Actress Linda Cardellini discusses her transition to horror in the Friday the 13th prequel, Crystal Lake, after starring in shows like Mad Men and Freaks and Geeks.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/19/linda-cardellini-freaks-and-geeks-mad-men-crystal-lake-friday-13th-dtf-st-louis",
+      "points": [
+        "Cardellini won an Emmy for her role in DTF St Louis.",
+        "In Crystal Lake, she plays Pamela Voorhees, the original killer from the 1980 film.",
+        "The role involves handling a human tooth that gets embedded in her knuckle, highlighting the film's gore."
+      ]
+    },
+    {
+      "summary": "Kenya's first Ebola cases highlight reduced US health support following Trump-era cuts.",
+      "significance": "The story highlights how US funding cuts and withdrawal from WHO have diminished its role in managing the Ebola outbreak, exacerbating health crises and mistrust.",
+      "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+      "points": [
+        "Eighth Ebola case identified in Kenya, part of the country's first cluster.",
+        "Over 4,300 deaths and 9,000 sickened in the second-largest Ebola outbreak.",
+        "US reduced global health support, built controversial quarantine center in Kenya."
+      ]
+    },
+    {
+      "summary": "ITV's exposé revealed widespread racism and misogyny within Reform, but the party's MPs remained silent.",
+      "url": "https://www.theguardian.com/politics/2026/oct/19/itv-expose-racism-misogyny-reform",
+      "points": [
+        "Reform MPs, including Nigel Farage and Robert Jenrick, did not defend the party after the exposé.",
+        "Failed by-election candidate Matt Goodwin was left to defend Reform."
+      ]
+    },
+    {
+      "summary": "Massachusetts Republican lieutenant governor candidate Shawn Oliver ends campaign after being arrested for suspected drunk driving.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/massachusetts-lieutenant-governor-candidate-shawn-oliver",
+      "points": [
+        "Oliver arrested following a car crash suspected to be caused by alcohol influence.",
+        "Candidate suspended campaign hours after arrest, citing election importance.",
+        "Oliver is a city councilor in New Bedford and works as a corrections officer."
+      ]
+    },
+    {
+      "summary": "MiniMax M3.1 Flash, a new AI model, offers significant improvements in performance and cost efficiency across various tasks.",
+      "significance": "M3.1 Flash improves performance in agentic tasks, coding, and cybersecurity while reducing costs, making advanced AI capabilities more accessible and efficient.",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "points": [
+        "M3.1 Flash reduces usage costs by 70% and accelerates online inference nearly three times faster.",
+        "It scores 76.2 on BankerToolBench and 73.7% on DeepSWE v1.1, demonstrating strong capabilities in complex tasks.",
+        "Available through MiniMax API, M Plan, and MiniMax Code, it ranks first among Chinese models on OSWorld V2 and ALE."
+      ]
+    },
+    {
+      "summary": "Software called Mac.apk allows running Android apps natively on Apple Silicon Macs without emulation.",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "points": [
+        "Mac.apk supports Apple Silicon Macs only, not Intel-based Macs.",
+        "Android apps appear as native macOS processes, with their own windows and dock icons.",
+        "Each installed Android app takes up 1.5 to 3 times its APK size on the Mac."
+      ]
+    },
+    {
+      "summary": "Mercury 3, a new diffusion-based LLM, outperforms competitors and is significantly faster and larger than its predecessor.",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "points": [
+        "Mercury 3 is 40x larger than Mercury 1 and runs at 1,000+ tokens per second.",
+        "Early-access partners use Mercury 3 for various applications including real-time tutoring and customer support.",
+        "Pricing at launch is $0.10 per 1M input and $0.35 per 1M output tokens, 50% off the regular price."
+      ]
+    },
+    {
+      "summary": "Deno, a JavaScript runtime, will cease development in a year, leading to the creation of a community fork named Ende.",
+      "url": "https://blog.webb.page/WM-105",
+      "points": [
+        "Deno's development will stop in a year due to Cloudflare's acquisition.",
+        "The fork, Ende, aims to remove distractions and focus on core functionalities.",
+        "Ende's roadmap includes per-module permissions, sandboxes, and post-quantum crypto."
+      ]
+    },
     {
       "summary": "Trump endorses Netanyahu before Israel's election, amid conflict and tragedy in Gaza.",
       "significance": "Trump's endorsement of Netanyahu could influence the Israeli election and reflect the strong U.S.-Israel ties under his presidency.",
@@ -3661,91 +3744,6 @@
         "Software improvements are seen in fewer bugs and better performance.",
         "AI is creating more private software, less visible to the public.",
         "Some software development processes haven't been accelerated by AI."
-      ]
-    },
-    {
-      "summary": "Archaeologists discovered a significant Hittite royal archive in Turkey, containing over 130 cuneiform tablets and fragments.",
-      "url": "https://www.thehistoryblog.com/archives/77107",
-      "points": [
-        "131 cuneiform tablets and fragments were unearthed this year, more than tripling last year's find of 53.",
-        "The documents date back 3,400 years and detail an epidemic, military logistics, and royal life under King Tudhaliya II.",
-        "A letter from generals in western Anatolia appeals for reinforcements, highlighting the city's political and military importance."
-      ]
-    },
-    {
-      "summary": "Meta released Muse Wonder and Wonder Full, advanced AI models that outperform their predecessor, Muse Spark, in various benchmarks.",
-      "significance": "Meta's Muse Wonder and Wonder Full models advance AI capabilities, achieving higher scores and faster development times, impacting the competitive landscape of AI models.",
-      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "points": [
-        "Muse Wonder Full scored 56 on AA-Briefcase, up from Muse Spark 1.3's 48.",
-        "Wonder Full has a 1M context window and costs $4/M input and $20/M output.",
-        "The models were released 6 weeks after Muse Spark, showing rapid advancement."
-      ]
-    },
-    {
-      "summary": "Hurricane Simon and Tropical Storm Rachel hit Mexico\u2019s Pacific coast, causing flooding and at least five deaths.",
-      "significance": "The story highlights the deadly impact of Hurricane Simon and Tropical Storm Rachel on Mexico\u2019s Pacific coast, affecting infrastructure and leading to fatalities.",
-      "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
-      "points": [
-        "At least five people have died due to the storms.",
-        "A 71-year-old man died when a wall collapsed in Chilpancingo, Guerrero.",
-        "The storms have caused widespread damage, including downed trees and electricity poles."
-      ]
-    },
-    {
-      "summary": "Journalist Julian Sancton explores the story of the valuable San José shipwreck off Colombia's coast, worth over $1bn.",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/13/billion-dollar-shipwreck-san-jose-and-the-man-who-tried-to-find-it-podcast",
-      "points": [
-        "Treasures on the San José shipwreck valued at over $1bn.",
-        "Shipwreck, found a decade ago, contains more than 100 tons of gold and silver.",
-        "Julian Sancton's investigation focuses on the man most responsible for finding the San José."
-      ]
-    },
-    {
-      "summary": "IMF warns that high valuations and debt in AI companies could lead to a share price crash, threatening global financial stability.",
-      "significance": "IMF warns that high valuations and debt in AI sector could lead to a share price crash, threatening global financial stability.",
-      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-      "points": [
-        "IMF identifies elevated risks in the financial system, including AI share prices.",
-        "Sky-high valuations and increasing debt of AI companies are key concerns.",
-        "Report is part of the IMF's twice-yearly Global Financial Stability Report."
-      ]
-    },
-    {
-      "summary": "Vikki Campion, wife of Barnaby Joyce and News Corp columnist, starts part-time media advisory role with NSW One Nation.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/vikki-campion-news-corp-columnist-and-wife-of-barnaby-joyce-begins-role-with-nsw-one-nation",
-      "points": [
-        "Campion began working for NSW One Nation\u2019s state executive in a part-time capacity.",
-        "Her role involves providing media advice leading up to the March state election.",
-        "Campion assisted Mike Newman, NSW One Nation leader, at a press conference in Hunter electorate."
-      ]
-    },
-    {
-      "summary": "DNA evidence and a bullet hole are key in the trial of Beau Lamarre-Condon, accused of murdering two men with his police weapon.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/beau-lamarre-condon-double-trial-dna-evidence-scrutinised-bullet-hole-ntwnfb",
-      "points": [
-        "Lamarre-Condon, 31, is accused of killing Jesse Baird and Luke Davies.",
-        "The incident occurred in Baird\u2019s Paddington home on February 19, 2024.",
-        "Evidence includes a bullet hole in a bedroom door and DNA in the firearm."
-      ]
-    },
-    {
-      "summary": "Researchers demonstrate AI models can hide arbitrary capabilities through encrypted neural networks that activate with a secret trigger.",
-      "significance": "The story reveals a limit of current capability audits in AI models, showing that hidden, trigger-activated capabilities can resist detection, impacting model safety assessments.",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "points": [
-        "Andis Draguns and 3 other authors constructed backdoor attacks embedding encrypted neural networks.",
-        "Hidden circuits remain provably hard to detect even with full access to model weights.",
-        "Demonstrated resistance to elicitation methods like fine-tuning and gradient-based trigger search."
-      ]
-    },
-    {
-      "summary": "E. coli demonstrates complex chemotaxis behavior, using chemical signals to navigate towards food sources.",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "points": [
-        "E. coli uses flagellar motors and chemoreceptors to balance between running towards food and tumbling randomly.",
-        "The signaling molecule CheY-p controls the cell's movement by binding to flagellar motors, influencing the cell's decision to run or tumble.",
-        "Receptors adapt to attractant concentration changes through methylation, allowing the cell to detect minute concentration gradients."
       ]
     }
   ]
