@@ -1,6 +1,91 @@
 {
-  "generated": "2026-10-18T22:41:03.899685Z",
+  "generated": "2026-10-19T00:42:25.843125Z",
   "summaries": [
+    {
+      "summary": "Meta temporarily suspended No Kings' Instagram account during a protest, raising concerns over censorship.",
+      "significance": "Suspension of No Kings' Instagram account during protests fuels fears of censorship, impacting organizers' ability to communicate.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+      "points": [
+        "No Kings' Instagram account was suspended for several hours during a protest.",
+        "The protest aimed to increase early voter turnout.",
+        "The coalition leaders organize nationwide pro-democracy protests involving millions."
+      ]
+    },
+    {
+      "summary": "Labor promises to cap Victorian public transport fares at $30 weekly starting January 1 if re-elected.",
+      "significance": "Labor's promise caps Victorian public transport costs, offering annual savings to regular commuters, especially full-time workers.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/labor-promises-30-weekly-cap-for-victorian-public-transport-amid-push-for-free-travel",
+      "points": [
+        "Premier Ben Carroll announced the $30 weekly cap on public transport fares.",
+        "The cap begins on January 1, following the end of half-price fares.",
+        "The measure aims to provide $1,400 annual savings for regular commuters."
+      ]
+    },
+    {
+      "summary": "Jacqui Lambie criticizes a One Nation cartoon that mocks her health condition.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/jacqui-lambie-one-nation-pauline-hanson-please-explain-ntwnfb",
+      "points": [
+        "Cartoon is part of Pauline Hanson\u2019s Please Explain series.",
+        "Targets Digital Duty of Care legislation aimed at online safety.",
+        "Independent senator Monique Ryan supports Jacqui Lambie."
+      ]
+    },
+    {
+      "summary": "UK steelmakers face higher electricity costs compared to EU rivals due to increased global gas prices.",
+      "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+      "points": [
+        "Electricity premium for UK steelmakers over French rivals reached almost £30 per MWh.",
+        "Cost disparity is at its highest in three years, according to UK Steel analysis.",
+        "Surge in global gas prices, partly due to US-Israeli conflict with Iran, exacerbated costs."
+      ]
+    },
+    {
+      "summary": "Autodesk attempted to trademark \"cyberspace,\" leading to a feud with William Gibson, who was rumored to retaliate by trademarking \"Eric Gullichsen.\"",
+      "significance": "The story highlights the early tensions and pranks surrounding the commercialization of cyber terminology in the late 20th century.",
+      "url": "https://colo.to/cyberspace.html",
+      "points": [
+        "In 1989, Autodesk applied for a trademark on \"cyberspace.\"",
+        "Timothy Leary spread the rumor that Gibson retaliated by trademarking \"Eric Gullichsen.\"",
+        "The feud was resolved at Art Futura 1990 in Barcelona."
+      ]
+    },
+    {
+      "summary": "A woman criticizes \"Women in tech\" panels and calls for men to address the issues faced by women in the tech industry.",
+      "url": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
+      "points": [
+        "The article shares experiences of a woman facing issues in her tech career.",
+        "It highlights the recurring nature of these issues, noting they happen frequently.",
+        "The author urges men to take action and discuss these issues with their peers."
+      ]
+    },
+    {
+      "summary": "A user detailed their extensive efforts to report a critical Android bug affecting screen readers, only to be told the issue fell outside Google Disability Support's scope.",
+      "url": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
+      "points": [
+        "The bug disables touch exploration for all screen readers until a phone reboot.",
+        "The user provided root cause analysis, recovery methods, and two patches, all done voluntarily.",
+        "Despite initial progress on the public issue tracker, Disability Support stated that technical development and framework patches are outside their scope."
+      ]
+    },
+    {
+      "summary": "A new version of the llm-echo debug plugin updates token usage counts.",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "points": [
+        "New release updates token usage to include tool calls, system prompts, reasoning tokens.",
+        "Example command: `uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage`",
+        "Outputs token usage: 2 input, 24 output tokens."
+      ]
+    },
+    {
+      "summary": "New benchmark, Humanity\u2019s Sixth Sense, reveals AI models' limitations in intuitive visual reasoning, while discussing AI's potential in space and its research taste.",
+      "significance": "HSS benchmark reveals current AI models' limitations in intuitive visual reasoning, challenging assumptions about the necessity of sophisticated world models for such tasks.",
+      "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+      "points": [
+        "AI models scored an average of 53.6% on Humanity\u2019s Sixth Sense benchmark, significantly lower than humans' 93.1%.",
+        "Chinese open weight models performed poorly, with GLM-5.3-flash scoring 26.8% and Kimi K3 scoring 25.5%.",
+        "AI could create a compounding advantage in space, potentially leading to economic and strategic dominance through self-replicating probes and industrial flywheels."
+      ]
+    },
     {
       "summary": "A fast-moving fire at a Canadian military base in Alberta killed four and injured dozens.",
       "significance": "The incident marks one of the worst tragedies for Canadian forces on peacetime soil, affecting military personnel and operations.",
@@ -3663,90 +3748,6 @@
         "Torvalds is working on a new branch to read from the page cache without folio references.",
         "The goal is to reduce contention on folio reference counting for small reads from multiple threads.",
         "Torvalds confirmed AI's role in coding, testing, and drafting the cover letter for the patch series."
-      ]
-    },
-    {
-      "summary": "An unpublished 2001 interview with Nintendo coder Giles Goddard reveals behind-the-scenes details about the creation of Super Mario 64.",
-      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
-      "points": [
-        "Giles Goddard worked on the Mario face, one of the first real-time vertex calculation features in games.",
-        "The development team consisted of around 15 people, with some members working on the N64 APIs and SGI.",
-        "The interview discusses the quiet, open-plan office culture at Nintendo, contrasting it with Western companies."
-      ]
-    },
-    {
-      "summary": "Jay-Z's HBO documentary series aims to improve his image but fails to address criticisms effectively, highlighting a missed opportunity.",
-      "significance": "The story highlights Jay-Z's attempt to mend his public image through a documentary series, but it fails to address criticisms about his partnership with the NFL, affecting his reputation among fans.",
-      "url": "https://www.theguardian.com/music/2026/oct/12/jay-z-in-8-hbo-documentary-series",
-      "points": [
-        "Jay-Z clarified lyrics from his song Family Feud, criticizing Al Sharpton and Bill Cosby.",
-        "Jay-Z partnered with the NFL in 2019 as entertainment director, drawing comparisons to Sharpton as an \"extortionist.\"",
-        "Colin Kaepernick alleges Jay-Z's NFL deal was to provide a \"Black face\" to quell outrage, damaging Jay-Z's reputation among fans."
-      ]
-    },
-    {
-      "summary": "Marco Rubio advocates for a revival of Western conquest and expansion values in a speech in Athens.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/12/marco-rubio-western-civilization",
-      "points": [
-        "Rubio delivered the speech on 7 October with the Acropolis as a backdrop.",
-        "He argues the US and Europe must rediscover values of exploration and conquest.",
-        "The speech contrasts with historical democratic defenses like those of Pericles."
-      ]
-    },
-    {
-      "summary": "Balkan temperatures saw dramatic fluctuations last week, with warm days and cold nights, as Greece prepares for heavy rain.",
-      "significance": "The story highlights unusual temperature fluctuations in the Balkans, affecting local daily life and agriculture through extreme diurnal ranges.",
-      "url": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
-      "points": [
-        "Montenegro experienced clear skies leading to warm days and cold nights.",
-        "A low-pressure system is moving towards the Aegean Sea, heading for Greece.",
-        "The diurnal range saw unusually large differences between daytime and nighttime temperatures."
-      ]
-    },
-    {
-      "summary": "Kremlin rejects Zelenskyy's 60-day truce proposal and Trump\u2019s energy ceasefire, with Putin reportedly unaware of the announcements.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-      "points": [
-        "Zelenskyy proposed a 60-day ceasefire to facilitate Ukrainian presidential elections.",
-        "Trump declared a partial ceasefire, which Zelenskyy said was \"news to me.\"",
-        "Putin reportedly does not read \"Truth social,\" where Trump posted the ceasefire declaration."
-      ]
-    },
-    {
-      "summary": "A doctor warned Elizabeth Struhs wouldn't be safe with her parents years before she died due to withdrawn medicine.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/elizabeth-struhs-death-inquest-doctor-home-warning-queensland-coroner-ntwnfb",
-      "points": [
-        "Child safety doctor repeatedly warned about Elizabeth's safety.",
-        "Elizabeth's parents, convicted of neglect, allowed her to die by withdrawing medicine.",
-        "Incident occurred in Toowoomba after Elizabeth returned home in 2019."
-      ]
-    },
-    {
-      "summary": "Ex-Grenfell director Laura Johnson resigns from a high-paying council housing role amid public outrage.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/12/former-grenfell-tower-housing-boss-laura-johnson-leaves-council-property-role-after-backlash",
-      "points": [
-        "Laura Johnson, criticised for cost-cutting at Grenfell, earned £150,000 annually.",
-        "Johnson's appointment sparked backlash from Grenfell survivors and bereaved families.",
-        "The 2017 Grenfell fire, where 72 people died, followed budget cuts Johnson oversaw."
-      ]
-    },
-    {
-      "summary": "QGIS has banned AI-assisted contributions to alleviate pressure on maintainers and preserve human-centric community values.",
-      "significance": "This policy change affects QGIS contributors and maintainers by banning AI-assisted contributions to reduce pressure on human reviewers and maintain community trust.",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "points": [
-        "The new policy strictly prohibits AI contributions, including issue content, comments, and PRs.",
-        "AI contributions overwhelmed maintainers, leading to un-reviewed PRs and potential quality issues.",
-        "The ban aims to protect the human network that underpins the QGIS community's trust and collaborative environment."
-      ]
-    },
-    {
-      "summary": "The article argues that AI, particularly LLMs, should not be considered tools in the traditional sense due to their lack of predictability and control.",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "points": [
-        "LLMs lack properties of traditional tools such as predictability, reliability, and continuous user direction.",
-        "Using LLMs for tasks like summarizing papers means missing out on learning and critical thinking skills.",
-        "The article distinguishes between automation, like LLMs, and tools, emphasizing the importance of user control and feedback."
       ]
     }
   ]
