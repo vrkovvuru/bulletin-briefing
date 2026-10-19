@@ -1,6 +1,43 @@
 {
-  "generated": "2026-10-19T20:41:40.182610Z",
+  "generated": "2026-10-19T22:41:19.561385Z",
   "summaries": [
+    {
+      "summary": "Trump faces low approval ratings amid criticism over waiving Russia sanctions and comments on Ukraine negotiations.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+      "points": [
+        "Trump's approval rating hits a new low of 33% according to a Washington Post-ABC poll.",
+        "Trump suggests 'somebody else' should negotiate for Ukraine amid sanctions controversy."
+      ]
+    },
+    {
+      "summary": "Australian MP Helen Haines was critically injured after being struck by a car driven by a man who allegedly targeted her.",
+      "significance": "The story highlights the escalating dangers faced by Australian politicians, challenging the notion that threats against them are insignificant.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb",
+      "points": [
+        "Incident occurred on Monday at 3:35pm outside Haines' electorate office in Mansfield, Victoria.",
+        "Haines was previously at a dog park opening, engaging with locals in her electorate.",
+        "The attacker is reportedly known to authorities and targeted Haines with his vehicle."
+      ]
+    },
+    {
+      "summary": "Burnham asks officials for more radical options to address Thames Water issues.",
+      "url": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
+      "points": [
+        "Burnham urges advisers to develop new policies for Thames Water.",
+        "Thames Water seen as a test of Burnham's promise to control life essentials.",
+        "Officials told to discard existing plans and present more radical alternatives."
+      ]
+    },
+    {
+      "summary": "A user installs Arch Linux on an ASUS ProArt P16 H7607BA-SE033W laptop due to not having a Microsoft account, highlighting performance and memory advantages.",
+      "significance": "This story demonstrates that Linux can perform comparably to Windows on high-end hardware, offering an alternative for users without a Microsoft account.",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "points": [
+        "The Arch Linux setup reports 116.0 GiB memory pool, outperforming Windows' divided memory allocation.",
+        "The CPU test using 7-Zip shows Linux setup is about 5% ahead on compression and 3% ahead on decompression compared to Windows.",
+        "The laptop supports running large models with nearly 90 GiB allocated to the model and KV cache on a single laptop."
+      ]
+    },
     {
       "summary": "Kenyan court convicts Paul Mackenzie and others for the murder of 190 children and one adult in a starvation cult case.",
       "significance": "The conviction of Mackenzie and others marks a legal conclusion to one of the world\u2019s worst recent cult-related disasters, affecting hundreds of victims and their families.",
@@ -3706,44 +3743,6 @@
         "Creusot now supports partial orders, changing how totality is handled since version 0.13.0.",
         "New verification conditions (VCs) for snapshots help catch mistakes in specifications more quickly.",
         "Go-to-definition now works in Pearlite specifications, improving navigation and development experience."
-      ]
-    },
-    {
-      "summary": "Geoffrey Huntley discusses automating code compliance through pre-commit hooks.",
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-      "points": [
-        "Huntley proposes using pre-commit hooks to enforce diagnostics library usage.",
-        "The system fails commits with direct calls to observability modules bypassing diagnostics.",
-        "Tags include coding-agents, generative-ai, git, and agentic-engineering."
-      ]
-    },
-    {
-      "summary": "William Chapman was killed after entering a tiger enclosure at Yorkshire Wildlife Park.",
-      "significance": "The story highlights the risks and safety concerns in wildlife parks after a visitor entered a tiger enclosure and was killed, prompting investigations.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Victim identified as William Chapman, attacked by a tiger at Yorkshire Wildlife Park near Doncaster.",
-        "Incident occurred on Saturday shortly after 13:30 BST; park visitor entered tiger enclosure alone.",
-        "Tiger involved in the attack, named Altai, will not be euthanised and remains in the enclosure."
-      ]
-    },
-    {
-      "summary": "A scandal involving a judge who convicted Jair Bolsonaro could benefit his son and harm Lula's campaign.",
-      "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
-      "points": [
-        "Flávio Bolsonaro targets Supreme Court Justice Alexandre de Moraes, calling him \"Voldemort.\"",
-        "Event occurred during a speech to far-right supporters on Brazil\u2019s Independence Day, 7 September.",
-        "Flávio aims to continue his father\u2019s \u201cperverse project\u201d to destroy the Amazon."
-      ]
-    },
-    {
-      "summary": "TFG London, owner of Phase Eight, Hobbs, and Whistles, reports a cyber-attack that may have exposed customer data.",
-      "significance": "TFG London's cyber-attack follows Asos's recent hack, highlighting growing cybersecurity risks for fashion retailers and potential exposure of customer data.",
-      "url": "https://www.theguardian.com/business/2026/oct/13/hobbs-whistles-hack-cyber-attack-asos",
-      "points": [
-        "Incident identified on Sunday, affecting three UK-based retail chains.",
-        "TFG London is a South-African listed company.",
-        "Two other UK brands, Inside Story and White Stuff, are unaffected by the attack."
       ]
     }
   ]
