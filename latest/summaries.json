@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-19T18:42:33.896988Z",
+  "generated": "2026-10-19T20:41:40.182610Z",
   "summaries": [
+    {
+      "summary": "Kenyan court convicts Paul Mackenzie and others for the murder of 190 children and one adult in a starvation cult case.",
+      "significance": "The conviction of Mackenzie and others marks a legal conclusion to one of the world\u2019s worst recent cult-related disasters, affecting hundreds of victims and their families.",
+      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+      "points": [
+        "Paul Mackenzie and about 30 others found guilty of murder.",
+        "Victims' bodies found in shallow graves in Shakahola forest.",
+        "Cult leader arrested in 2023 following a tipoff to police."
+      ]
+    },
+    {
+      "summary": "Independent MP Helen Haines is in critical condition after being hit by a car in Wangaratta, with officials investigating it as a potential deliberate attack.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+      "points": [
+        "Prime Minister Anthony Albanese stated the incident wasn't an accident, suggesting the driver deliberately targeted Haines.",
+        "The attacker reportedly did a U-turn to hit Haines after initially passing her.",
+        "Haines was struck while accessing her car's boot, leading to her critical condition at Melbourne\u2019s Alfred Hospital."
+      ]
+    },
+    {
+      "summary": "The US Department of Justice charged 28 green card holders in California with voter fraud.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj",
+      "points": [
+        "28 green card holders accused of fraudulent voter registration and illegal voting.",
+        "Part of the Trump administration's efforts to combat alleged noncitizen voting.",
+        "Democrats and voting rights groups claim this is to doubt the midterm elections' results."
+      ]
+    },
+    {
+      "summary": "Over three dozen US Congress offices received envelopes with white powder ahead of midterms.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/white-powder-envelopes-congress",
+      "points": [
+        "Virginia Democrat Suhas Subramanyam's office evacuated on Monday.",
+        "Incidents occur less than three weeks before the 3 November midterms.",
+        "Federal agents are working to identify those behind the powder envelope campaign."
+      ]
+    },
+    {
+      "summary": "The article discusses the use and optimization of Bloom filters in high-performance data systems, particularly at Bluesky.",
+      "significance": "The story highlights how optimized Bloom filter usage significantly reduces database query load and accelerates system performance, crucial for scalable and cost-effective site operation.",
+      "url": "https://www.calabro.io/ohbf",
+      "points": [
+        "Bloom filters reduced database queries by 99%, significantly improving site performance.",
+        "A one-hash Bloom filter (OHBF) implementation in Go has been used in Bluesky's backend for 9 months.",
+        "Optimizations included using CPU instructions to reduce mutex contention, decreasing deployment time from 90 minutes to 15 minutes."
+      ]
+    },
+    {
+      "summary": "PostgreSQL 19 saw a high number of feature reverts during its beta phase, impacting morale among developers.",
+      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "points": [
+        "About 8 to 10 significant features were reverted during PostgreSQL 19's beta period.",
+        "The Vulnpocalypse between April and August reduced the usual review and testing, leading to late-discovered issues.",
+        "LLM-assisted code review has raised the quality bar, making it harder to pass features without thorough checks."
+      ]
+    },
     {
       "summary": "Nathan Fielder's documentary on Elizabeth Holmes, \"You Can See Everything,\" has become a hit, focusing on Holmes' interactions with Fielder before her prison sentence.",
       "significance": "The documentary offers a deep, secretive dive into Elizabeth Holmes' psyche pre-prison, potentially reshaping public perception and setting a precedent for spoiler-averse filmmaking.",
@@ -3688,62 +3744,6 @@
         "Incident identified on Sunday, affecting three UK-based retail chains.",
         "TFG London is a South-African listed company.",
         "Two other UK brands, Inside Story and White Stuff, are unaffected by the attack."
-      ]
-    },
-    {
-      "summary": "Bellway's CEO states that Burnham\u2019s Your First Home scheme could increase their annual house production by 10%.",
-      "url": "https://www.theguardian.com/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers",
-      "points": [
-        "Your First Home programme aims to aid first-time buyers in England.",
-        "Government announcement boosted housebuilders' shares by over 10%.",
-        "Scheme could slow market as buyers wait for its launch."
-      ]
-    },
-    {
-      "summary": "Federal agents raided Ilhan Omar's home, prompting condemnation from Democratic leaders and a vow from Omar not to be silenced.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/first-thing-democratic-leaders-condemn-federal-raid-ilhan-omar",
-      "points": [
-        "Democratic leaders, including Hakeem Jeffries, Katherine Clark, and Pete Aguilar, condemned the raid as an abuse of power.",
-        "Omar accused the Trump administration of targeting political enemies and weaponizing law enforcement.",
-        "The raid is part of accusations of fraud related to Omar\u2019s family\u2019s immigration history."
-      ]
-    },
-    {
-      "summary": "A soundness bug in Rust's borrow checker allows bypassing struct's lifetime requirements via covariant field assignment.",
-      "significance": "This story matters because it reveals an 11-year-old soundness bug in Rust's borrow checker, affecting struct lifetime requirements and impacting code correctness.",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "points": [
-        "The issue affects Rust versions from at least 1.85.0.",
-        "The bug is categorized as a soundness hole, the worst kind of bug.",
-        "The types team will review and decide on the issue."
-      ]
-    },
-    {
-      "summary": "Google's EmbeddingGemma 2 model transcribes audio to text with high speed and accuracy on Mac devices.",
-      "url": "https://eg2.haku.sh/",
-      "points": [
-        "Transcribes an hour of audio in about 13 seconds on a MacBook Air.",
-        "Achieves a word error rate of about 5%, compared to 2-3% for leading models.",
-        "Trained only the reader component, taking under two hours on 8×H100."
-      ]
-    },
-    {
-      "summary": "Vi Hart discusses her reaction to OpenAI's Navier-Stokes proof and her past involvement with the Lean proof assistant project.",
-      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
-      "points": [
-        "Vi Hart worked with the Lean proof assistant team at Microsoft Research.",
-        "Lean was used by OpenAI to verify the Navier-Stokes proof.",
-        "Hart had advocated for community support for Mathlib in 2021.",
-        "The Navier-Stokes proof was verified using Lean, a project she had direct involvement with."
-      ]
-    },
-    {
-      "summary": "The article explores reasons why new, good software isn't as visible despite advancements in AI coding.",
-      "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
-      "points": [
-        "Software improvements are seen in fewer bugs and better performance.",
-        "AI is creating more private software, less visible to the public.",
-        "Some software development processes haven't been accelerated by AI."
       ]
     }
   ]
