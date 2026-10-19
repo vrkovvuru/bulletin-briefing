@@ -2,6 +2,42 @@
   "date": "2026-10-18",
   "stories": [
     {
+      "title": "What does a White House press secretary do?",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Katie Zacharia's short time as White House press secretary has brought renewed attention to the high-profile role.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Trump to close and renovate D.C. golf course, despite legal battle",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "President Trump continues his efforts to remake Washington, D.C. He wants to turn an area used by the public into a world-class golf course.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Kenya confirms eighth Ebola case amid widening regional outbreak",
+      "url": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Kenyan health authorities say latest patient was likely exposed to the country&#039;s first Ebola case.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Kinship and surveillance: The return of Somali piracy",
+      "url": "https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Somalia’s piracy crackdown leaves coastal fishermen struggling to survive.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
       "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,12 +47,12 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Burnham says youth employment and training crisis is a 'moral failure'",
+      "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+      "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says.",
       "alsoReportedBy": []
     },
     {
@@ -29,30 +65,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
-      "url": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "People playing loud music on buses could face £100 fine",
-      "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
+      "summary": "Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
       "alsoReportedBy": []
     },
     {
@@ -65,15 +83,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "One of NPR's most gifted storytellers, his soft voice and vivid writing helped define the network's sound for a generation of Americans.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "I saw rioting, looting, above all, anger. If French leaders think more violence will solve this, they’re mistaken | Oliver Haynes",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/18/france-riot-looting-anger-violence-protest-streets",
       "source": "The Guardian",
@@ -83,12 +92,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Outrage after Meta suspends No Kings Instagram account during protests",
-      "url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "‘Meta owes us an explanation,’ group says as organizers fear censorship after account goes dark for several hours The coalition leaders behind nationwide pro-democracy protests that have drawn millions of Americans to the streets in recent years were frustrated when its Instagram account was temporarily shut down during its latest demonstration on Saturday . The No Kings movement’s account went dark for several hours while protests focused on increasing early voter turnout were underway, sparking censorship fears. Continue reading...",
+      "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
       "alsoReportedBy": []
     },
     {
@@ -119,21 +128,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "alsoReportedBy": ["Guardian World"]
-    },
-    {
-      "title": "Labor promises $30 weekly cap for Victorian public transport amid push for free travel",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/labor-promises-30-weekly-cap-for-victorian-public-transport-amid-push-for-free-travel",
+      "title": "Former Labor attorney general turned judge Robert McClelland named new anti-corruption boss",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/former-labor-attorney-general-robert-mcclelland-named-new-nacc-boss",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Premier Ben Carroll says two-year limit will be in place on 1 January if re-elected, while Greens say there should be no fares Get our breaking news email , free app or daily news podcast Public transport fares in Victoria will be capped at $30 a week if the Labor government is re-elected next month. The premier, Ben Carroll, on Monday said the fare cap would begin on 1 January, the day after half-price fares end. The discounted fares were introduced after a period of free public transport in response to the fuel crisis sparked by the US-Iran war. “This is real cost-of-living relief that helps a regular commuter save $1,400 a year,” Carroll said. “Everyone can benefit, but full-time workers will benefit most.” Continue reading...",
+      "summary": "McClelland, who served in the Rudd government, named as boss of National Anti-Corruption Commission after Paul Brereton quit in May Former Labor attorney general and federal court judge Robert McClelland has been named as the new boss of the National Anti-Corruption Commission. McClelland was the country’s top law officer in the Rudd government, serving from 2007 until 2011. He has served as the deputy chief justice of the federal circuit and family court of Australia since 2018, and was appointed to the court by the Coalition in 2015. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -142,43 +142,52 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Independent senator Monique Ryan throws her support behind fellow crossbencher after Pauline Hanson’s Please Explain episode Get our breaking news email , free app or daily news podcast Jacqui Lambie has criticised a One Nation cartoon mocking the Tasmanian senator’s health struggle with vaginal prolapse. The latest cartoon, part of Pauline Hanson’s Please Explain series, took aim at the Albanese government’s Digital Duty of Care legislation, which targets online safety. Continue reading...",
+      "summary": "Independent MP Monique Ryan throws her support behind fellow crossbencher after Pauline Hanson’s Please Explain episode Get our breaking news email , free app or daily news podcast Jacqui Lambie has condemned a One Nation cartoon mocking her health struggle with vaginal prolapse, as Labor and crossbenchers expressed their support for the Tasmanian senator. The latest cartoon, part of Pauline Hanson’s Please Explain series, took aim at the Albanese government’s Digital Duty of Care legislation, which targets online safety. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
-      "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
-      "source": "Guardian World",
+      "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Premium paid over French counterparts has risen to almost £30 a megawatt hour, analysis by lobby group finds British steelmakers have been pushed further behind European rivals on electricity costs after the US-Israeli war on Iran caused a surge in global gas prices. The premium paid by the British industry over its French counterpart has risen to almost £30 a megawatt hour (MWh), its highest level in three years, according to analysis by the lobby group UK Steel. Continue reading...",
+      "summary": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November.",
+      "alsoReportedBy": ["BBC World"]
+    },
+    {
+      "title": "Australian Greens senator denies claims of misconduct towards women",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
       "alsoReportedBy": []
     },
     {
-      "title": "EPA quietly backtracks on claims US has phased out toxic Pfas compounds",
-      "url": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
+      "title": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Agency changes wording on website as Texas-based firm continues manufacture of plastic container barriers The Environmental Protection Agency has quietly backtracked on a claim that the US has phased out two of the most dangerous Pfas compounds – Pfoa and Pfos. The EPA has found that virtually no level of exposure to either in drinking water is safe, and the International Agency for Research on Cancer classifies Pfoa as “carcinogenic to humans” and Pfos as “possibly carcinogenic”. Still, the EPA is allowing Houston-based Inhance to produce containers from which Pfoa has been found to leach at high levels into the containers’ contents. The company makes up to 200m barriers annually for plastic containers used across the US economy. This article was amended on 18 October 2026 to correct Patricia van Ee’s title, and the story previously stated that Inhance manufactures plastic containers. They make the containers’ barriers. Continue reading...",
+      "summary": "Amid police brutality allegations, inquiry hears protesters against visit of Israeli president were ‘largely peaceful’ Get our new political email , free app or daily news podcast An inquiry into a Sydney rally against the Israeli president’s visit has so far found protesters were “largely peaceful” and there is “limited evidence of physical violence on the part of the protesters”. The Law Enforcement Conduct Commission (Lecc) kicked off its inquiry into the February protest at Sydney’s town hall against the visit of Isaac Herzog on Monday, outlining a number of issues it is examining, including police use of OC spray and “ police boasting about gratuitous force ”. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb",
+      "title": "Labor promises $30 weekly cap for Victorian public transport amid push for free travel",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/labor-promises-30-weekly-cap-for-victorian-public-transport-amid-push-for-free-travel",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm Get our breaking news email , free app or daily news podcast An alleged gunman with “shaggy hair” has been arrested following reports of a confrontation about an allegedly stolen car which was set on fire prompting him to flee the scene. The 32-year-old man was arrested late Sunday in Sydney’s inner west, after being on the run since Friday morning, following an appeal by the police. Continue reading...",
+      "summary": "Premier Ben Carroll says two-year limited cap will start on 1 January if re-elected, while Greens say there should be no fares Get our breaking news email , free app or daily news podcast Public transport fares in Victoria will be capped at $30 a week if the Labor government is re-elected next month – but commuters will need to dust off their Myki cards to benefit. The premier, Ben Carroll, on Monday said the fare cap would begin on 1 January, the day after half-price fares end. The discounted fares were introduced after a period of free public transport in response to the fuel crisis sparked by the US-Iran war. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
-      "url": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was presented to Queen Victoria at Windsor Castle as a “diplomatic gift” from an African king. Victoria would go on to pay for Bonetta’s education, approve her marriage to one of west Africa’s wealthiest men, and become godmother to her eldest daughter. Continue reading...",
+      "title": "Updates to site guidelines and AI/LLM tags",
+      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "Hey folks, I've been having to perform an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that content submitted to the site should, at a minimum, be respectful of a reader's time and intelligence.  The first adjustment is two updates to the about page, which try to provide a bit more clarity in what we consider topical and what constitutes self promotion: Intro: Lobsters is a computing-focused community centered around discussing links. Our goal is to learn, craft, collaborate, and share interesting viewpoints. The administrator is Peter Bhat Harkins (\"pushcx\"), contact him or another moderator with any support issues. Lobsters was launched on July 3rd, 2012 by joshua stein  (who is no longer running it, so please quit bugging him with site stuff) with careful design touches to encourage a healthy community: At this risk of writing a mission statement, it seemed worth explaining what the site is and hopes to be to visitors from the first sentence of /about. (This original text came from an intro post .) Then the Guidelines: Topicality: Lobsters is focused pretty narrowly on computing; tags like art don't imply every piece of art is on-topic.  Some rules of thumb for great stories to submit: Will this improve the reader's next program? Will it deepen their understanding of their last program? Will it be more interesting in five or ten years? Is this compelling material that will seed a discussion, or is it just an artifact? Pending an upcoming deploy, we no longer allow submissions which are code repositories. While, at first blush, this may seem odd for a community which is primarily centered around programming but it does eliminate the bulk of the \"low effort, self promotional\" submissions we've been seeing on the site. We've also found that being dropped into a new codebase doesn't start discussions because the reader has to have enough subject matter experience to immediately recognize what's novel or otherwise worth talking about. Instead, we are more interested in content around code bases which cover why it was created, the purpose it serves, the challenges overcome, and the reasons why it's a useful artifact in the ecosystem. Some things that are off-topic here but popular on larger, similar sites: entrepreneurship; management; careers; news about companies that employ a lot of programmers; investing; world events; anthropology; self-help; personal productivity systems; last-resort customer service requests via public shaming; \"I wanted to see what this site's amazing users think about this off-topic thing\"; and defining the single morally correct economic and political system for the entire world when we can't even settle tabs vs. spaces. We're listing \"careers\" as off-topic to try to head off posts about interviewing, promotions, burnout, and farming . We have the  job tag because it's nice to help people connect to jobs, but the topic of getting a good job, weaving jobs into a career over your lifetime, and work is a different thing than the actual programming itself. Self-promotion: It's great to have authors participate in the community, but we do not want the community to be exploited as a write-only tool for product announcements or driving traffic to their work. As a rule of thumb, self-promotional activity should be less than a quarter of one's stories and comments in the last year. New users ( first 70 days ) are not allowed to submit self-promo. This is how we've been enforcing the rule for a while, better to be explicit. It's unfortunately common that authors see their work posted, join the site, but then only use us for traffic. Hopefully this time helps them understand the difference between a symbiotic and parasitic relationship. The second adjustment is that the vibecoding tag is now marked as inactive. It still appears on old stories but can't be applied to new ones. From my perspective, the tag was overloaded with six differing responsibilities: First, it was the tag which was trying to capture the discussions related to the use and implementation of AI/LLM tools. Second, it was a marker for content which is partially related to AI/LLM tools, tooling or companies. Third, it was a marker for content which includes a discussion on or output from AI/LLM tools in a part of a larger work. Fourth, it was a marker for content which was generated using AI/LLM tools. Fifth, it was being used in competition to the spam flag, for really low-quality content which was generated via AI/LLM tools but without apparent significant human authorship. Sixth, it was being used as a tag of shame by people who really dislike AI/LLM tools and used it to insult people at every passing mention. The last couple years have been the biggest upheaval in the field for decades. While it's acceptable, within limits, to express frustration towards circumstance or technology, it's not acceptable to direct that behavior towards individuals whether they be members of the community or not. Other people can't be your punching bags and Lobsters can't be your boxing ring.  That's not acceptable . While `vibecoding` is no longer an active tag, we still feel that a subset of the tooling related discussions are relevant to the site. While this is reaching far back into the annals of computing history, tools like  compilers , databases , testing , and vcs had similar points of consternation and concern when they were introduced. I'm not going to claim that I'm able to guess how the industry is going to shape up, but my gut feeling is that but my gut feeling is that it's going to be closer to something like we've seen with systemd than compilers. This new tag `ai-tooling` covers \"The design, ux, development of AI/LLM-powered tools themselves\". As a fun addendum, there's a variant of Maslow’s Hierarchy of Needs which exist for websites, we kinda fell on the wrong side of that trying to migrate the site and get this out on a Saturday. Whoops! Thanks, 355E3B",
       "alsoReportedBy": []
     },
     {
@@ -218,17 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "ARP! Tell your network to explain itself",
-      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Someone behind the software",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -254,8 +254,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Men in tech #YesAllMen",
-      "url": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
+      "title": "ARP! Tell your network to explain itself",
+      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Outside the Scope of Our Support",
-      "url": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
-      "source": "Lobsters",
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -296,15 +296,6 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Inline rendering with document​.currentScript",
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith( new Date().getFullYear())</script> If you define a shortcut function like this: $=(...n)=>document.currentScript.replaceWith(...n) You get a tiny template language: The year is <script>$(new Date().getFullYear())</script> Tags: javascript",
       "alsoReportedBy": []
     },
     {
@@ -360,6 +351,15 @@
       "categoryLabel": "AI & Agents",
       "summary": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the resulting logs into a Gist. Tags: projects , pelican-riding-a-bicycle , deepseek",
       "alsoReportedBy": ["Simon Willison"]
+    },
+    {
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This catches most routine mistakes, and saves team attention for higher-level questions and scrutiny. — Addy Osmani, Morgan Westlee Lunt, and Qing Wang , How the Claude Code team does code review Tags: anthropic , claude , ai , claude-code , llms , addy-osmani , coding-agents , generative-ai , agentic-engineering , code-review",
+      "alsoReportedBy": []
     }
   ]
 }

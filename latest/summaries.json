@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-19T00:42:25.843125Z",
+  "generated": "2026-10-19T02:41:50.923939Z",
   "summaries": [
+    {
+      "summary": "Renewed piracy off Somalia's coast is disrupting fishing livelihoods in Bander Beyla, Puntland.",
+      "significance": "The return of Somali piracy disrupts local fishing livelihoods and imposes strict surveillance and restrictions on coastal communities.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss",
+      "points": [
+        "Piracy surged off Somalia since late April 2026, with several vessels seized near Bander Beyla.",
+        "Local authorities restricted fishermen from going to sea for two months starting late August.",
+        "Three hijacked vessels, Honour 25, Seamull, and Eureka, were freed on October 2, with 44 seafarers released."
+      ]
+    },
+    {
+      "summary": "Robert McClelland, former Labor attorney general and federal court judge, named as new head of National Anti-Corruption Commission.",
+      "significance": "McClelland's appointment follows Paul Brereton's resignation and aims to lead the National Anti-Corruption Commission, affecting Australia's efforts in combating corruption.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/former-labor-attorney-general-robert-mcclelland-named-new-nacc-boss",
+      "points": [
+        "McClelland served as attorney general under the Rudd government from 2007 to 2011.",
+        "He was appointed deputy chief justice of the federal circuit and family court in 2015.",
+        "McClelland replaces Paul Brereton, who quit in May."
+      ]
+    },
+    {
+      "summary": "Inquiry into Sydney protest against Israeli president finds protesters largely peaceful, limited evidence of violence.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
+      "points": [
+        "Inquiry by Law Enforcement Conduct Commission (Lecc) examines February protest.",
+        "Issues include police use of OC spray and claims of gratuitous force.",
+        "Limited evidence of physical violence by protesters, deemed largely peaceful."
+      ]
+    },
+    {
+      "summary": "Site updates guidelines to improve content quality and reduce self-promotion and low-effort submissions.",
+      "significance": "The story matters as it outlines new guidelines for a computing-focused community to enhance content quality and reduce self-promotion, affecting how users share and engage with submissions.",
+      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+      "points": [
+        "Introduced new rules to ensure content is respectful of readers' time and intelligence.",
+        "No longer allows submissions of code repositories to reduce low-effort, self-promotional posts.",
+        "Marked the \"vibecoding\" tag as inactive to address issues related to AI/LLM content."
+      ]
+    },
+    {
+      "summary": "The article argues for running your own LLM proxy to gain better control and insight into data usage and model interactions.",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "points": [
+        "Running your own proxy allows control over multi-provider, multi-model setups at a single endpoint.",
+        "It enables logging of key usage, model calls, client interactions, and status tracking.",
+        "Owning infrastructure provides better application visibility and data pathing for informed decision-making."
+      ]
+    },
     {
       "summary": "Meta temporarily suspended No Kings' Instagram account during a protest, raising concerns over censorship.",
       "significance": "Suspension of No Kings' Instagram account during protests fuels fears of censorship, impacting organizers' ability to communicate.",
@@ -3702,52 +3750,6 @@
         "Zack Coughlan, 23, dressed in black, wore mask and gloves for the attack.",
         "Victim Jamie Collins, 21, was a fellow robotics student at University of West England.",
         "Incident occurred near the University of West England in Bristol."
-      ]
-    },
-    {
-      "summary": "WGEA recommends part-time leadership roles and co-CEOs to retain women in senior positions and reduce Australia\u2019s gender pay gap.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/more-part-time-bosses-and-co-ceos-could-keep-women-in-leadership-and-narrow-australias-pay-gap",
-      "points": [
-        "WGEA warns of growing resistance to gender equality.",
-        "Women earn $0.79 for every $1 a man makes on average in Australia.",
-        "Uneven caring duties and inflexible work options hinder women's senior roles retention."
-      ]
-    },
-    {
-      "summary": "Rescued turtles are returned to a dried-up water hole in NSW after the government cut environmental water to the area.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/rescued-turtles-return-home-after-nsw-government-cut-flows-to-wetland",
-      "points": [
-        "10 broad-shelled turtles and 3 Murray River turtles were released.",
-        "Turtles were returned to the Gingham water hole in Gwydir region.",
-        "Government halted environmental water following a private landholder's complaint."
-      ]
-    },
-    {
-      "summary": "Australia's eSafety commissioner may limit public access to a livestreamed US execution, potentially sparking a diplomatic dispute.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-us-execution-livestream-julie-inman-grant-esafety",
-      "points": [
-        "US plans to livestream execution of Nidal Hasan in early December.",
-        "Australia\u2019s online safety regulator has tools to restrict public access.",
-        "Previous tech legal battles suggest this move could lead to public conflict."
-      ]
-    },
-    {
-      "summary": "GitHub experienced technical issues affecting Actions, Pull Requests, and Issues, with partial mitigations in place.",
-      "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
-      "points": [
-        "GitHub mitigated issues with Actions, Issues, and Projects but users may still face delays and errors.",
-        "Notifications are delayed as part of ongoing mitigation efforts.",
-        "Users report problems loading Actions tab UI, interacting with Checks API, and queueing Actions runs."
-      ]
-    },
-    {
-      "summary": "Linus Torvalds is using Claude Code, an AI tool, to improve the Linux kernel by addressing memory management issues.",
-      "significance": "Linus Torvalds uses AI to improve Linux kernel memory management, potentially enhancing system performance for multi-threaded file reads.",
-      "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
-      "points": [
-        "Torvalds is working on a new branch to read from the page cache without folio references.",
-        "The goal is to reduce contention on folio reference counting for small reads from multiple threads.",
-        "Torvalds confirmed AI's role in coding, testing, and drafting the cover letter for the patch series."
       ]
     }
   ]
