@@ -1,94 +1,100 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "stories": [
     {
-      "title": "What does a White House press secretary do?",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
+      "title": "Four arrested after police officer injured in shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The officer was shot in the foot and remains in hospital in a stable condition, police say.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
+    },
+    {
+      "title": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
+      "url": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "US Ambassador to Israel Mike Huckabee said on X that the arrests were &#039;a very positive development&#039;.",
+      "alsoReportedBy": [
+        "BBC News"
+      ]
+    },
+    {
+      "title": "Qatar to unveil regional defence partnership",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Qatar to unveil regional defence partnership",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
+    },
+    {
+      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Katie Zacharia's short time as White House press secretary has brought renewed attention to the high-profile role.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
-      "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Brazil&#039;s president and his opponent lob a barrage of attacks on each other in debate a week before the October 25 vote.",
+      "summary": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
       "alsoReportedBy": []
     },
     {
-      "title": "‘It broke my heart’: Limoges residents reel after town hall fire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Residents in Limoges, France, are expressing shock and anger after protests saw their 140-year-old town hall set ablaze.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘You reach a tipping point’: New Zealand’s strained healthcare system at centre of election battle",
-      "url": "https://www.theguardian.com/world/2026/oct/19/new-zealand-election-strained-healthcare-system",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "With care shortfalls biting across the country, the National-led coalition has been accused of letting chronic underfunding worsen Back when she was healthy, Jane Harrison worked for the community – securing money for playgrounds, getting kids into sport and making sure her small town in New Zealand’s South Island was ready if an earthquake struck. Now, she and her husband, Shaun Fitzgerald, 65, are both on disability assistance. Last year, when Fitzgerald – a roofer – was waiting for back surgery for spinal stenosis, Harrison left her job to help look after him at home. The operation in August 2025 was not as effective as hoped. He has since been back into the emergency department in intense pain, waiting for hours with severe cramping, she says. “We called the paramedics recently and they said: ‘There’s no beds in hospital, if we take you you’ll have to sit and you clearly can’t, you’re better off at home.’” Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Threat forces Israel to Austria flight into emergency landing",
-      "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Trump to close and renovate D.C. golf course, despite legal battle",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle",
+      "title": "On Iran, Israel\u2019s opposition is even more hawkish than Netanyahu",
+      "url": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "In rest of the world, the Israeli PM is often blamed for the Iran war. His opponents say he hasn&#039;t been tough enough.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "President Trump continues his efforts to remake Washington, D.C. He wants to turn an area used by the public into a world-class golf course.",
+      "summary": "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country.",
       "alsoReportedBy": []
     },
     {
-      "title": "Anthropic says it will commit 5% of shares to ‘public benefit’ fund",
-      "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Claude creator says fund could be used for donations to NGOs and &#039;direct distributions to specific populations&#039;.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Other Desert Cities review – Julia Louis-Dreyfus and Ed Harris shine in timely Broadway revival",
-      "url": "https://www.theguardian.com/stage/2026/oct/19/other-desert-cities-review-julia-louis-dreyfus-ed-harris-broadway",
+      "title": "Saudi Arabia is learning the hard way: they can\u2019t count on Trump for protection | Mohamad Bazzi",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Hudson Theatre, New York Allison Janney and Joe Keery co-star in a powerful drama about a family reunion turned political minefield Just in time for the holidays, Jon Robin Baitz’s family reunion drama, Other Desert Cities, is back with an even starrier cast than its 2011 premiere. The revival is a headline-grabber for marking the stage debuts of Julia Louis-Dreyfus and Joe Keery , alongside the Broadway returns of Ed Harris , Allison Janney and Lily Rabe. But if this raises eyebrows as a takeover of Hollywood vanity, those concerns are easily quelled by the performances – especially those of the newcomers. John Benjamin Hickey’s staging is well attuned to its cast’s abilities, more than justifying its speedy return to Broadway. This Pulitzer finalist play still has a lot to say. Continue reading...",
+      "summary": "After Houthis escalated their attacks on Saudi Arabia, the US turned down calls from MBS for help For years, Saudi Arabia\u2019s crown prince, Mohammed bin Salman, cultivated a close relationship with Donald Trump and his son-in-law and former top adviser, Jared Kushner. The prince understood the president\u2019s transactional approach to power: he signed deals to buy billions of dollars\u2019 worth of US weapons and invested billions more in American companies. Days after Trump returned to the White House in January 2025, Prince Mohammed pledged to expand investment and trade with the US by $600bn over four years. He later promised to increase that investment to nearly $1tn, although it wasn\u2019t entirely clear how Saudi Arabia would manage to plough a sum close to the kingdom\u2019s entire annual GDP into a foreign economy over a few years. Mohamad Bazzi is a Guardian US columnist. He is also director of the Hagop Kevorkian Center for Near Eastern Studies and a journalism professor at New York University Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Can countries deliver on a deal to save the world\u2019s plants and animals?",
+      "url": "https://www.theguardian.com/environment/2026/oct/19/can-countries-deliver-on-a-deal-to-save-the-worlds-plants-and-animals",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Four years ago nearly every government on Earth agreed to protect nature. Now, as countries gather for Cop17, the pressure is on to follow through on those commitments Cop17 at a glance: everything you need to know about the UN\u2019s nature summit Passersby could smell the dead fish before they saw them. In August, more than 3,000 pike, roach, carp and rudd were found lifeless along the River Wensum in Norwich. Some gasped for air in their final moments, desperate for the oxygen that heatwave conditions had depleted in the water. Investigators believe that the die-off was triggered by heavy rainfall that flushed through high concentrations of pollution at a time when wildlife were already struggling. The 45-mile (70km) chalk river is one of about 250 in the country. They are a geological accident almost unique to Britain \u2013 and one of Earth\u2019s rarest habitats. They emerge from chalk aquifers and are home to species such as freshwater shrimp, otters and stoneflies, also providing drinking water for millions of people. But just 11 have formal protection, with many ravaged by sewage pollution and overextraction. The Norfolk river is one of the few that does have legal protection, but it is in poor ecological health. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -97,88 +103,97 @@
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+      "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
       "alsoReportedBy": []
     },
     {
-      "title": "Political rivals implicated under Pakistan's anti-terror law",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
+      "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6007371/ukraine-and-russia-exchange-strikes-as-relations-between-trump-and-zelenskyy-sour",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Pakistan's political showdown continues as more opposition figures are implicated under Pakistan's anti-terror law.",
+      "summary": "Ukraine carried out a massive drone strikes on Russia, which launched deadly attacks on its smaller neighbor over the weekend.",
       "alsoReportedBy": []
     },
     {
-      "title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "David Shoebridge responds to Jordon Steele-John’s explosive statement as Greens hold emergency meeting",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/david-shoebridge-jordon-steele-john-greens-emergency-meeting-ntwnfb",
+      "title": "Tommy Robinson used \u2018bullyboy, intimidatory tactics\u2019 to threaten journalists, court told",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/19/tommy-robinson-harassment-trial-mailonline-journalists-court",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The new Greens leader says it is his understanding the West Australian senator ‘agreed’ to take leave from the party room Greens leader David Shoebridge has said it was his understanding Jordon Steele-John agreed to take leave from parliament while misconduct allegations against him are investigated, and that it’s “appropriate” that he does so, despite the Western Australian senator saying overnight that he was not on leave and had never agreed to stay away from parliament. Steele-John released a lengthy, explosive statement on Sunday night claiming Shoebridge pressured him to take leave after complaints about his conduct were made public last week, and accused an internal faction within the Greens of playing “nasty political games”. He has denied any allegations of misconduct. Continue reading...",
+      "summary": "Far-right activist is charged with two counts of harassment causing fear of violence to two MailOnline reporters The far-right activist known as Tommy Robinson used \u201cbullyboy, intimidatory tactics\u201d to threaten journalists and cause them to fear for their safety, a court has been told as his harassment trial got under way. Robinson, 42, whose real name is Stephen Yaxley-Lennon, is charged with two counts of harassment causing fear of violence to two MailOnline reporters, Andrew Young and Jacob Dirnhuber. He denies all charges. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Former Labor attorney general turned judge Robert McClelland named new anti-corruption boss",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/former-labor-attorney-general-robert-mcclelland-named-new-nacc-boss",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "McClelland, who served in the Rudd government, named as boss of National Anti-Corruption Commission after Paul Brereton quit in May Get our new political email , free app or daily news podcast Former Labor attorney general and federal court judge Robert McClelland has been named as the new boss of the National Anti-Corruption Commission. McClelland was the country’s top law officer in the Rudd government, serving from 2007 until 2011. After leaving parliament in 2013, he has served as the deputy chief justice of the federal circuit and family court of Australia since 2018, after being appointed to the court by the former Coalition government in 2015. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "PM, Coalition and crossbench support Jacqui Lambie after Pauline Hanson cartoon mocked vaginal prolapse",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/jacqui-lambie-one-nation-pauline-hanson-please-explain-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "One Nation leader said Tasmanian senator should ‘get over it’ and claimed the cartoon was ‘satirical’ Get our breaking news email , free app or daily news podcast Anthony Albanese has praised the courage of Jacqui Lambie in speaking out about her struggles with vaginal prolapse, as politicians from across the spectrum condemn a One Nation cartoon. The latest cartoon, part of Pauline Hanson’s Please Explain series, depicts the army veteran as saying “I can’t laugh because of my prolapsed vagina,” before adding a crude sound effect ridiculing the health condition. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Beau Lamarre-Condon told officer friend ‘I love you’ and ‘not everything in the news is true’ after arrest, court told",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/beau-lamarre-condon-told-cop-friend-i-love-you-and-not-everything-in-the-news-is-true-after-arrest-court-told-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Accused asked fellow police officer how law enforcement would respond to reports of gunshots days before alleged murders, court hears Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon allegedly told a friend “I love you’” and “not everything in the news is true” a month after he was arrested over a double murder, a court has heard. Lamarre-Condon, 31, has been accused of fatally shooting Sydney couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australian Greens senator denies claims of misconduct towards women",
-      "url": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
+      "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
       "alsoReportedBy": []
     },
     {
-      "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
-      "url": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
-      "source": "Guardian World",
+      "title": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was presented to Queen Victoria at Windsor Castle as a “diplomatic gift” from an African king. Victoria would go on to pay for Bonetta’s education, approve her marriage to one of west Africa’s wealthiest men, and become godmother to her eldest daughter. Continue reading...",
+      "summary": "More than 200 people were detained during two days of rioting in the city, Italian media reports.",
       "alsoReportedBy": []
     },
     {
-      "title": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
+      "title": "Stop \u2018cash for trash\u2019 housebuilding in Norfolk Broads, says Labour MP",
+      "url": "https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Amid police brutality allegations, inquiry hears protesters against visit of Israeli president were ‘largely peaceful’ Get our new political email , free app or daily news podcast An inquiry into a Sydney rally against the Israeli president’s visit has so far found protesters were “largely peaceful” and there is “limited evidence of physical violence on the part of the protesters”. The Law Enforcement Conduct Commission (Lecc) kicked off its inquiry into the February protest at Sydney’s town hall against the visit of Isaac Herzog on Monday, outlining a number of issues it is examining, including police use of OC spray and “ police boasting about gratuitous force ”. Continue reading...",
+      "summary": "Exclusive: Chris Hinchliff urges environment watchdog to block rules that will allow almost 16,000 new homes in one of UK\u2019s most protected areas The environment watchdog is being urged to intervene in \u201ccash to trash\u201d planning rules that will allow almost 16,000 new homes in the Norfolk Broads despite the damage to one of the UK\u2019s most environmentally protected areas. Labour\u2019s flagship planning reforms allow damage to protected habitats and species to be overlooked if developers pay into a central nature restoration fund, which is used for conservation actions at a later date. These environmental delivery plans (EDPs) have been dubbed \u201ccash to trash\u201d by critics , who say they roll back decades of environmental law and are a \u201clicence to kill nature\u201d. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Youth services in parts of England in state of emergency, children\u2019s commissioner says",
+      "url": "https://www.theguardian.com/society/2026/oct/19/children-services-state-of-emergency-hardest-places-england",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Rachel de Souza names Middlesbrough and Hounslow among hardest places in which to grow up and says some children are being \u2018radically failed\u2019 Services for children in parts of England are in a \u201cstate of emergency\u201d, according to a report that identifies what it claims to be the hardest places in the country for young people to grow up in. The children\u2019s commissioner, Rachel de Souza, said in some local authorities individual service failures or systemic problems meant \u201cno child could reasonably be expected to thrive and those that do thrive do so against the odds\u201d. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "French prime minister calls for \u2018local and partial\u2019 curfews after riots",
+      "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Interior minister concedes police \u2018lost control\u2019, with forces in cities including Paris and Lyon overwhelmed after \u2018lack of anticipation\u2019 Europe live \u2013 latest updates France\u2019s prime minister has said he has asked regional authorities to impose partial curfews in some cities after the government admitted police had \u201clost control\u201d in several places during violent weekend protests around the country. S\u00e9bastien Lecornu said after an emergency cabinet meeting on Monday he was \u201cfully resolved to restore public order\u201d and had called for \u201clocal and partial\u201d curfews if needed. There was \u201cno question\u201d of imposing a full curfew on entire cities such as Paris, he added. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -187,12 +202,12 @@
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "Hey folks, I've been having to perform an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that content submitted to the site should, at a minimum, be respectful of a reader's time and intelligence.  The first adjustment is two updates to the about page, which try to provide a bit more clarity in what we consider topical and what constitutes self promotion: Intro: Lobsters is a computing-focused community centered around discussing links. Our goal is to learn, craft, collaborate, and share interesting viewpoints. The administrator is Peter Bhat Harkins (\"pushcx\"), contact him or another moderator with any support issues. Lobsters was launched on July 3rd, 2012 by joshua stein  (who is no longer running it, so please quit bugging him with site stuff) with careful design touches to encourage a healthy community: At this risk of writing a mission statement, it seemed worth explaining what the site is and hopes to be to visitors from the first sentence of /about. (This original text came from an intro post .) Then the Guidelines: Topicality: Lobsters is focused pretty narrowly on computing; tags like art don't imply every piece of art is on-topic.  Some rules of thumb for great stories to submit: Will this improve the reader's next program? Will it deepen their understanding of their last program? Will it be more interesting in five or ten years? Is this compelling material that will seed a discussion, or is it just an artifact? Pending an upcoming deploy, we no longer allow submissions which are code repositories. While, at first blush, this may seem odd for a community which is primarily centered around programming but it does eliminate the bulk of the \"low effort, self promotional\" submissions we've been seeing on the site. We've also found that being dropped into a new codebase doesn't start discussions because the reader has to have enough subject matter experience to immediately recognize what's novel or otherwise worth talking about. Instead, we are more interested in content around code bases which cover why it was created, the purpose it serves, the challenges overcome, and the reasons why it's a useful artifact in the ecosystem. Some things that are off-topic here but popular on larger, similar sites: entrepreneurship; management; careers; news about companies that employ a lot of programmers; investing; world events; anthropology; self-help; personal productivity systems; last-resort customer service requests via public shaming; \"I wanted to see what this site's amazing users think about this off-topic thing\"; and defining the single morally correct economic and political system for the entire world when we can't even settle tabs vs. spaces. We're listing \"careers\" as off-topic to try to head off posts about interviewing, promotions, burnout, and farming . We have the  job tag because it's nice to help people connect to jobs, but the topic of getting a good job, weaving jobs into a career over your lifetime, and work is a different thing than the actual programming itself. Self-promotion: It's great to have authors participate in the community, but we do not want the community to be exploited as a write-only tool for product announcements or driving traffic to their work. As a rule of thumb, self-promotional activity should be less than a quarter of one's stories and comments in the last year. New users ( first 70 days ) are not allowed to submit self-promo. This is how we've been enforcing the rule for a while, better to be explicit. It's unfortunately common that authors see their work posted, join the site, but then only use us for traffic. Hopefully this time helps them understand the difference between a symbiotic and parasitic relationship. The second adjustment is that the vibecoding tag is now marked as inactive. It still appears on old stories but can't be applied to new ones. From my perspective, the tag was overloaded with six differing responsibilities: First, it was the tag which was trying to capture the discussions related to the use and implementation of AI/LLM tools. Second, it was a marker for content which is partially related to AI/LLM tools, tooling or companies. Third, it was a marker for content which includes a discussion on or output from AI/LLM tools in a part of a larger work. Fourth, it was a marker for content which was generated using AI/LLM tools. Fifth, it was being used in competition to the spam flag, for really low-quality content which was generated via AI/LLM tools but without apparent significant human authorship. Sixth, it was being used as a tag of shame by people who really dislike AI/LLM tools and used it to insult people at every passing mention. The last couple years have been the biggest upheaval in the field for decades. While it's acceptable, within limits, to express frustration towards circumstance or technology, it's not acceptable to direct that behavior towards individuals whether they be members of the community or not. Other people can't be your punching bags and Lobsters can't be your boxing ring.  That's not acceptable . While `vibecoding` is no longer an active tag, we still feel that a subset of the tooling related discussions are relevant to the site. While this is reaching far back into the annals of computing history, tools like  compilers , databases , testing , and vcs had similar points of consternation and concern when they were introduced. I'm not going to claim that I'm able to guess how the industry is going to shape up, but my gut feeling is that but my gut feeling is that it's going to be closer to something like we've seen with systemd than compilers. This new tag `ai-tooling` covers \"The design, ux, development of AI/LLM-powered tools themselves\". As a fun addendum, there's a variant of Maslow’s Hierarchy of Needs which exist for websites, we kinda fell on the wrong side of that trying to migrate the site and get this out on a Saturday. Whoops! Thanks, 355E3B",
+      "summary": "Hey folks, I've been having to perform\u00a0an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that\u00a0content submitted to the site should, at a minimum, be respectful of a reader's time and\u00a0intelligence.\u00a0 The first adjustment is two updates to the about page, which try to provide a bit more clarity in what we consider topical and what constitutes self promotion: Intro: Lobsters is a computing-focused community centered around discussing links. Our goal is\u00a0to learn, craft, collaborate, and share interesting viewpoints. The administrator is Peter Bhat Harkins (\"pushcx\"), contact him or another moderator with any support issues. Lobsters was launched on July 3rd, 2012 by joshua stein \u00a0(who is no longer running it, so please quit bugging him with site stuff) with careful design touches to encourage a healthy community: At this risk of writing a mission statement, it seemed worth explaining what the site is and hopes to be to visitors from the first sentence of /about. (This original text came from an intro post .) Then the Guidelines: Topicality: Lobsters is focused pretty narrowly on computing; tags like art don't imply every piece of art is on-topic.\u00a0 Some rules of thumb for great stories to submit: Will this improve the reader's next program? Will it deepen their understanding of their last program? Will it be more interesting in five or ten years? Is this compelling material that will seed a discussion, or is it just an artifact? Pending an upcoming deploy, we no longer allow submissions which are code repositories. While, at first blush, this may seem odd for a community which is primarily centered around programming but it does eliminate the bulk of the \"low effort, self promotional\" submissions we've been seeing on the site. We've also found that being dropped into a new codebase doesn't start discussions because the reader has to have enough subject matter experience to immediately recognize what's novel or otherwise worth talking about. Instead, we are more interested in content around code bases which cover why it was created, the purpose it serves, the challenges overcome, and the reasons why it's a useful artifact in the ecosystem. Some things that are off-topic here but popular on larger, similar sites: entrepreneurship; management; careers; news about companies that employ a lot of programmers; investing; world events; anthropology; self-help; personal productivity systems; last-resort customer service requests via public shaming; \"I wanted to see what this site's amazing users think about this off-topic thing\"; and defining the single morally correct economic and political system for the entire world when we can't even settle tabs vs. spaces. We're listing \"careers\" as off-topic to try to head off posts about interviewing, promotions, burnout, and farming . We have the\u00a0 job tag because it's nice to help people connect to jobs, but the topic of getting a good job, weaving jobs into a career over your lifetime, and work is a different thing than the actual programming itself. Self-promotion: It's great to have authors participate in the community, but we do not want the community to be exploited as a write-only tool for product announcements or driving traffic to their work. As a rule of thumb, self-promotional activity should be less than a quarter of one's stories and comments in the last year.\u00a0New users ( first 70 days ) are not allowed to submit self-promo. This is how we've been enforcing the rule for a while, better to be explicit. It's unfortunately common that authors see their work posted, join the site, but then only use us for traffic. Hopefully this time helps them understand the difference between a symbiotic and parasitic relationship. The second adjustment is that the vibecoding tag is now marked as inactive. It still appears on old stories but can't be applied to new ones. From my perspective, the tag was\u00a0overloaded with six differing responsibilities: First, it was the tag which was trying to capture the discussions related to the use and implementation of AI/LLM tools. Second, it was\u00a0a marker\u00a0for content which is partially related to AI/LLM tools, tooling or companies. Third, it was\u00a0a marker for content which includes a discussion on or output from AI/LLM tools in a part of a larger work. Fourth, it was\u00a0a marker for content which was generated using AI/LLM tools. Fifth, it was being used in competition to the spam flag, for really low-quality content which was generated via AI/LLM tools but without apparent significant human authorship. Sixth, it was being used as a tag of shame by people who really dislike AI/LLM tools and used it to insult people at every passing mention. The last couple years have been the biggest upheaval in the field for decades.\u00a0While it's acceptable, within limits, to express frustration towards circumstance or technology, it's not acceptable to direct that behavior towards individuals whether they be members of the community or not. Other people can't be your punching bags and Lobsters can't be your boxing ring.\u00a0 That's not acceptable . While `vibecoding` is no longer an active tag, we still feel that a subset of the tooling related discussions are relevant to the site. While this is reaching far back into the\u00a0annals of computing history, tools like\u00a0 compilers , databases , testing , and vcs had similar points of consternation and concern when they were introduced. I'm not going to claim that I'm able to guess how the industry is going to shape up, but my gut feeling is that but my gut feeling is that it's going to be closer to something like we've seen with systemd than compilers. This new tag `ai-tooling` covers\u00a0\"The design, ux, development of AI/LLM-powered tools themselves\". As a fun addendum, there's a variant of\u00a0Maslow\u2019s Hierarchy of Needs which exist for websites, we kinda fell on the wrong side of that trying to migrate the site and get this out on a Saturday. Whoops! Thanks, 355E3B",
       "alsoReportedBy": []
     },
     {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,8 +215,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "url": "https://colo.to/cyberspace.html",
+      "title": "Linux 7.3 Released",
+      "url": "https://lwn.net/Articles/1101143/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,17 +233,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Superlite: A Faster Alternatie to Superpowers",
-      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A New Way to Think About Borrow Checking (In Reverse)",
-      "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+      "title": "ARP! Tell your network to explain itself",
+      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -254,8 +260,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "ARP! Tell your network to explain itself",
-      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
+      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Superoptimizing an FPU emulator",
+      "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,11 +278,11 @@
       "alsoReportedBy": []
     },
     {
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
+      "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+      "source": "Import AI",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
       "summary": "",
       "alsoReportedBy": []
     },
@@ -308,7 +323,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "title": "[AINews] Modal\u2019s $1B ARR, $16B Series D makes it NYC\u2019s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
       "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
       "source": "Latent Space",
       "category": "ai",
@@ -335,22 +350,15 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
-      "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
-      "source": "Import AI",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Where do you exceed the capabilities of an LLM?",
-      "alsoReportedBy": []
-    },
-    {
       "title": "web-edit 0.1a2",
       "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the resulting logs into a Gist. Tags: projects , pelican-riding-a-bicycle , deepseek",
-      "alsoReportedBy": ["Simon Willison"]
+      "alsoReportedBy": [
+        "Simon Willison"
+      ]
     },
     {
       "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
@@ -358,8 +366,10 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This catches most routine mistakes, and saves team attention for higher-level questions and scrutiny. — Addy Osmani, Morgan Westlee Lunt, and Qing Wang , How the Claude Code team does code review Tags: anthropic , claude , ai , claude-code , llms , addy-osmani , coding-agents , generative-ai , agentic-engineering , code-review",
+      "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check\u2014automated or human\u2014is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This catches most routine mistakes, and saves team attention for higher-level questions and scrutiny. \u2014 Addy Osmani, Morgan Westlee Lunt, and Qing Wang , How the Claude Code team does code review Tags: anthropic , claude , ai , claude-code , llms , addy-osmani , coding-agents , generative-ai , agentic-engineering , code-review",
       "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 191.4,
+  "voice": "af_heart"
 }

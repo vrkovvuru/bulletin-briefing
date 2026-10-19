@@ -1,6 +1,126 @@
 {
-  "generated": "2026-10-19T04:41:30.630494Z",
+  "generated": "2026-10-19T12:43:11.114927Z",
   "summaries": [
+    {
+      "summary": "Qatar plans to announce a new regional defence partnership to boost its military capabilities.",
+      "significance": "Qatar's new defence partnership aims to enhance its military capabilities, potentially altering regional security dynamics in the Middle East.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
+      "points": [
+        "Sheikh Saoud bin Abdulrahman al-Thani, Deputy Prime Minister and Minister of State for Defence Affairs, made the announcement.",
+        "The announcement was made at the Global Security Forum in Doha.",
+        "The partnership aims to strengthen Qatar's military capabilities."
+      ]
+    },
+    {
+      "summary": "Saudi Arabia finds US unwilling to assist against Houthi attacks, despite Prince Mohammed's close ties and promised investments.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
+      "points": [
+        "US declined MBS's request for help after Houthi attacks escalated.",
+        "Prince Mohammed pledged $600bn in US investment and trade over four years.",
+        "Investment promise nearly doubled to almost $1tn, exceeding Saudi annual GDP."
+      ]
+    },
+    {
+      "summary": "Countries face pressure to fulfill commitments to protect nature at Cop17, amid environmental crises like a massive fish die-off in the UK.",
+      "url": "https://www.theguardian.com/environment/2026/oct/19/can-countries-deliver-on-a-deal-to-save-the-worlds-plants-and-animals",
+      "points": [
+        "Over 3,000 fish died in the River Wensum, Norwich, due to pollution and heatwave conditions.",
+        "Only 11 of about 250 unique British chalk rivers have formal protection.",
+        "Cop17 aims to ensure follow-through on global commitments to nature protection."
+      ]
+    },
+    {
+      "summary": "Far-right activist Tommy Robinson accused of using threatening tactics against two MailOnline reporters, causing fear for their safety.",
+      "significance": "The story highlights legal action against Tommy Robinson for alleged harassment of journalists, potentially setting a precedent for protecting journalists from intimidation.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/19/tommy-robinson-harassment-trial-mailonline-journalists-court",
+      "points": [
+        "Robinson, real name Stephen Yaxley-Lennon, is 42 years old.",
+        "He is charged with two counts of harassment involving fear of violence.",
+        "The reporters threatened are Andrew Young and Jacob Dirnhuber."
+      ]
+    },
+    {
+      "summary": "Labour MP Chris Hinchliff urges environment watchdog to block rules allowing nearly 16,000 new homes in Norfolk Broads.",
+      "url": "https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe",
+      "points": [
+        "Chris Hinchliff urges intervention against \"cash to trash\" planning rules.",
+        "Rules allow almost 16,000 new homes in a protected UK area.",
+        "Critics argue the rules roll back environmental law and harm nature."
+      ]
+    },
+    {
+      "summary": "Children's commissioner declares youth services in parts of England in a state of emergency.",
+      "url": "https://www.theguardian.com/society/2026/oct/19/children-services-state-of-emergency-hardest-places-england",
+      "points": [
+        "Rachel de Souza identifies Middlesbrough and Hounslow as particularly challenging areas.",
+        "Commissioner states some children are being 'radically failed' in certain local authorities.",
+        "Report claims no child can reasonably be expected to thrive in areas with systemic issues."
+      ]
+    },
+    {
+      "summary": "French prime minister requests partial curfews in cities after admitting police lost control during violent protests.",
+      "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+      "points": [
+        "Prime minister asked for local and partial curfews in response to riots.",
+        "Interior minister conceded police lost control in cities like Paris and Lyon.",
+        "No full curfew planned for entire cities such as Paris."
+      ]
+    },
+    {
+      "summary": "A Savannah police officer was fired for giving her ICE agent husband access to the police department\u2019s Flock license plate reader system.",
+      "significance": "This story highlights the risks of unauthorized access to police databases by federal agents, potentially compromising privacy and departmental policies.",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "points": [
+        "Amber Harpe's husband conducted 983 searches involving 97 identifiable license plates from multiple states.",
+        "Most searches (788 entries) were for South Carolina plates, primarily belonging to Hispanic individuals.",
+        "Harpe was dismissed for violating department policy by allowing unauthorized access to a sensitive system."
+      ]
+    },
+    {
+      "summary": "Mistral releases Timestral, a family of time-series foundation models that deliver state-of-the-art forecasts with fewer parameters than competitors.",
+      "url": "https://mistral.ai/news/timestral/",
+      "points": [
+        "Timestral's largest model, with 209M parameters, outperforms on GIFT-Eval, TIME, and fev-bench benchmarks.",
+        "Available in four sizes (5M, 28M, 123M, 209M parameters), balancing accuracy and efficiency.",
+        "Supports zero-shot forecasting and covariate-aware attention, excelling in diverse domains like industrial plants and finance."
+      ]
+    },
+    {
+      "summary": "Linux 7.3 has been released, marking a record-breaking milestone in terms of contributions.",
+      "url": "https://lwn.net/Articles/1101143/",
+      "points": [
+        "The release includes 18,765 non-merge commits.",
+        "Contributions came from 3,021 developers, with 807 being first-time contributors.",
+        "Linus Torvalds will be on vacation, merging commits in the afternoon."
+      ]
+    },
+    {
+      "summary": "A blog series on GitHub details the construction of AI agents, emphasizing the role of LLMs and harnesses.",
+      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "points": [
+        "The series consists of 16 chapters detailing the development of a ~300-line toy agent.",
+        "Each chapter addresses a specific failure and its minimal patch.",
+        "The content is best viewed online, though the source is available on GitHub."
+      ]
+    },
+    {
+      "summary": "A method to automatically find optimal formulas for floating-point calculations through brute-force was developed.",
+      "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+      "points": [
+        "The brute-force approach searched through combinations of operations and constants.",
+        "The search algorithm used inductive formula set building and culling to reduce complexity.",
+        "The method found a formula with reused operations, optimizing floating-point calculations."
+      ]
+    },
+    {
+      "summary": "A speech at the IMF meeting in Bangkok argued that AI is entering a phase of rapid, autonomous progress, signaling the beginning of the singularity.",
+      "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+      "points": [
+        "Delivered on October 17th, the speech highlighted AI's current impact on national security and the global economy.",
+        "The speaker, with a background in journalism and AI research, claims AI systems now operate at the frontier of human science, sometimes autonomously.",
+        "AI-driven scientific invention is expected to change global economies, infrastructure, and health, but also poses significant risks."
+      ]
+    },
     {
       "summary": "New Zealand's healthcare system faces severe strain, impacting patients and becoming a critical election issue.",
       "significance": "The strained healthcare system in New Zealand, exemplified by personal struggles, centralizes healthcare as a critical election issue, affecting voters' choices.",
@@ -3630,127 +3750,6 @@
         "Shabana Mahmood, Home Secretary, announced the review on Monday.",
         "Review includes security for politicians, royal family, former MPs, and party leaders.",
         "Police support will be offered to peers, former devolved parliament members, and party spokespeople."
-      ]
-    },
-    {
-      "summary": "Top Democrats criticize the federal raid on Ilhan Omar's home as an abuse of power by the Trump administration.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump",
-      "points": [
-        "Democrats label the action as a \"corrupt weaponization\" of the US government.",
-        "The raid occurred on Monday morning at the Minnesota congresswoman's home.",
-        "House Democratic leaders, including Hakeem Jeffries, issued a joint condemnation."
-      ]
-    },
-    {
-      "summary": "About 70 ultramarathon runners in Utah were evacuated after being stranded by flooding from Tropical Storm Rachel.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/storm-rachel-runners-stranded-evacuated-utah",
-      "points": [
-        "About 70 runners evacuated from Moab 240 ultramarathon.",
-        "Flooding caused by remnants of Tropical Storm Rachel.",
-        "Event host, Destination Trail, confirmed all runners safe."
-      ]
-    },
-    {
-      "summary": "A commercial web product was developed using C and CGI technology, demonstrating that modern web applications can be built with these older technologies.",
-      "significance": "The story demonstrates that CGI and C can still effectively build modern web applications, challenging contemporary web development practices.",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "points": [
-        "The product includes user accounts, a search dashboard, folders, Stripe payments, and Postmark emails.",
-        "The entire application consists of one binary, a SQLite file, and three dependencies.",
-        "CGI deployment involves replacing one file, allowing for zero downtime updates."
-      ]
-    },
-    {
-      "summary": "Agent37, a YC-backed startup, offers low-cost agent sandboxes for running AI agents at significantly reduced prices compared to competitors.",
-      "url": "https://news.ycombinator.com/item?id=50059096",
-      "points": [
-        "Agent37's sandboxes cost an average of $0.37/month per sandbox, 10% of most providers.",
-        "The company offers a free plan, with over 90% of new signups using it, costing $0.05 to $0.10/user/month.",
-        "Cost reduction techniques include efficient CPU/RAM management, using lower-cost hosting vendors, and optimizing technology stack for resource sharing."
-      ]
-    },
-    {
-      "summary": "AI coding agents increase code output but do not improve software production efficiency due to longer code review times.",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "points": [
-        "AI coding agents lead to a 30% increase in lines of code and a 23% increase in pull requests.",
-        "Code review times increase by 49% on average after AI agents are introduced.",
-        "The study, conducted by Harvard researchers, analyzed data from over 700,000 employees across 700 firms from 2021 to 2026."
-      ]
-    },
-    {
-      "summary": "Python 3.15 introduces new features like explicit lazy imports and a sampling profiler, while Python 3.10 support ends.",
-      "significance": "Python 3.15 introduces features like explicit lazy imports and unpacking in comprehensions, improving performance and code efficiency for developers.",
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "points": [
-        "Python 3.15 includes explicit lazy imports, reducing startup costs for heavy dependencies.",
-        "A new sampling profiler, Tachyon, is added to the standard library for low-overhead performance analysis.",
-        "Python 3.10 is no longer supported, allowing developers to use features from Python 3.11 and later."
-      ]
-    },
-    {
-      "summary": "Scientist Michael Levin proposes that minds are patterns from a Platonic space, with bodies and machines as interfaces, suggesting a new model for understanding intelligence and embodiment.",
-      "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
-      "points": [
-        "Michael Levin argues that minds are patterns that ingress into physical bodies and machines.",
-        "Examples like xenobots and anthrobots suggest patterns adjacent to those of natural organisms.",
-        "Levin's theory proposes that both biological and algorithmic systems can exhibit behaviors beyond their basic programming, hinting at a deeper, non-physical realm of patterns."
-      ]
-    },
-    {
-      "summary": "Pope Leo keeps up his schedule a day after announcing upcoming lung surgery for a detected nodule.",
-      "significance": "Pope Leo's continued work after announcing lung surgery shows resilience, potentially reassuring followers amid health concerns.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss",
-      "points": [
-        "Pope Leo announced he will undergo lung surgery this week.",
-        "The decision follows a routine health check that found a small lung nodule.",
-        "Despite the upcoming surgery, the Pope maintains his busy schedule."
-      ]
-    },
-    {
-      "summary": "Zelenskyy promises retaliation if Russia keeps attacking Ukraine\u2019s power grid.",
-      "significance": "Zelenskyy's vow to retaliate escalates tensions following Russian strikes on Ukraine\u2019s power grid, despite calls for an energy ceasefire.",
-      "url": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
-      "points": [
-        "Zelenskyy expressed surprise at Trump\u2019s \u2018energy ceasefire\u2019 announcement.",
-        "Strikes occurred as Russian drones hit Kyiv.",
-        "Zelenskyy made the statement at a European security meeting in Warsaw."
-      ]
-    },
-    {
-      "summary": "Cyber-attack causes refrigerators to defrost in approximately 150-200 Intermarché and nearly 100 Cooperative U stores.",
-      "url": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
-      "points": [
-        "150-200 Intermarché shops affected by the cyber-attack.",
-        "Almost 100 Cooperative U outlets impacted."
-      ]
-    },
-    {
-      "summary": "Andy Burnham reignites debate on Russia's interference in the 2016 EU referendum.",
-      "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-kremlin-eu-referendum-brexit",
-      "points": [
-        "Burnham claims he was informed of Russian interference post-election.",
-        "Issue was contentious in the latter half of the previous decade.",
-        "Comments revive a largely forgotten topic as the UK adjusts to Brexit."
-      ]
-    },
-    {
-      "summary": "DHH's keynote at RailsWorld signaled a shift in interest away from Rails and Ruby, leading to mixed reactions within the community.",
-      "significance": "The story highlights a shift in the Ruby ecosystem, indicating a potential renaissance despite the departure of key figures, paralleling the creative boom of the Weimar era.",
-      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
-      "points": [
-        "DHH stated that HEY was rewritten for better performance, indicating less interest in Rails.",
-        "The article suggests a renaissance in the Ruby ecosystem despite prominent figures moving on.",
-        "The community is encouraged to innovate, such as improving concurrency in Ruby or adding a robust type system."
-      ]
-    },
-    {
-      "summary": "French supermarkets faced a significant cyberattack that disrupted refrigeration systems, leading to food spoilage and potential fires.",
-      "url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
-      "points": [
-        "At least 300 Intermarché and Netto stores, over 100 Cooperative U outlets, and several E. Leclerc stores were affected.",
-        "The attack targeted refrigeration control systems from Danish manufacturer Danfoss, notably the AK-SM800 and AK-SC355 models.",
-        "French Prime Minister's office stated that a vulnerability in software supplied by a Danish company was identified, and an investigation is underway."
       ]
     }
   ]
