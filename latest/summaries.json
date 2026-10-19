@@ -1,6 +1,80 @@
 {
-  "generated": "2026-10-19T12:43:11.114927Z",
+  "generated": "2026-10-19T14:42:05.648752Z",
   "summaries": [
+    {
+      "summary": "A producer shares a personal story of a disastrous dinner party that inspired the show Come Dine With Me.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/19/sushi-naked-chest-how-we-made-come-dine-with-me",
+      "points": [
+        "Producer faced criticism during a dinner party for serving dry chicken and congealed couscous.",
+        "Channel 4 required contestants to know what coriander was to ensure they were decent cooks.",
+        "The show aims to avoid humiliation, focusing instead on decent cooking skills."
+      ]
+    },
+    {
+      "summary": "St Andrews students celebrate Raisin Monday with a modern foam fight instead of the traditional gift of raisins.",
+      "url": "https://www.theguardian.com/education/2026/oct/19/st-andrews-university-scotland-students-raisin-monday-foam-war",
+      "points": [
+        "600-year-old tradition now involves shaving cream battles.",
+        "Freshers dress in costumes like Smurfs, mice, and chefs.",
+        "Event occurs annually on a Monday, starting at 11am."
+      ]
+    },
+    {
+      "summary": "French PM Lecornu announces partial curfews to curb protests, blaming ultra-left and criminal elements.",
+      "significance": "French PM links protests to 'ultra-left', justifying partial curfews to curb violence and disorder.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+      "points": [
+        "Lecornu seeks to implement partial curfews in localized urban areas from tonight.",
+        "Macron criticizes the protests, mentioning 2,400 arrests across France.",
+        "Curfews example given for Marseille, with more details expected from local authorities."
+      ]
+    },
+    {
+      "summary": "Australian employers are increasingly using AI and technology to monitor employees, raising concerns about workplace privacy.",
+      "url": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
+      "points": [
+        "Human Technology Institute warns of increased use of monitoring tools like CCTV and keystroke tracking.",
+        "Example given includes AI tracking in a fast-food restaurant to prevent phone use by workers.",
+        "A cashier was warned after making a single mistake in 533 scans, highlighting precision of AI monitoring."
+      ]
+    },
+    {
+      "summary": "Banana shortage hits Australian supermarkets due to cool weather in Queensland, complicating lunchboxes.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/tricky-time-for-lunchboxes-banana-shortage-hits-supermarket-shelves-after-cool-weather-in-queensland",
+      "points": [
+        "Cool weather in Queensland severely slowed banana production.",
+        "Shortage coincides with poor apple harvest and lack of summer stone fruit.",
+        "Major supermarkets like Coles, Woolworths, and Aldi face sparse displays or very green bananas."
+      ]
+    },
+    {
+      "summary": "Wine has been successfully ported to OpenBSD, allowing some 64-bit Windows software to run.",
+      "significance": "This story matters because it enables running 64-bit Windows software on OpenBSD, expanding the operating system's compatibility and utility for users needing Windows applications.",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "points": [
+        "Andrii and Fabien led the effort by solving the %gs issue.",
+        "The port supports 64-bit Windows software but not 32-bit due to WoW64 limitations.",
+        "Notepad++ is suggested for testing the port, with a recommendation to use a non-privileged user."
+      ]
+    },
+    {
+      "summary": "Tor Project launched Tor VPN Beta for Android, focusing on privacy and unblocking internet access in censored regions.",
+      "url": "https://blog.torproject.org/tor-vpn-beta/",
+      "points": [
+        "Tor VPN Beta uses app isolation to enhance privacy, giving each app its own Tor circuit.",
+        "The project prioritized development in censored regions like Iran and Turkmenistan.",
+        "Exit selection was simplified to prevent user error, focusing on connecting to the Tor network first."
+      ]
+    },
+    {
+      "summary": "Qwen3-4B-Instruct was refined to reduce AI writing tics, improving its writing quality to near-human levels.",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "points": [
+        "The slop score dropped from 121 to 12.5 per 1000 words.",
+        "68% of the answers now score within the range of human writing.",
+        "The model was trained on 161 answers in a home lab using a MacBook Air."
+      ]
+    },
     {
       "summary": "Qatar plans to announce a new regional defence partnership to boost its military capabilities.",
       "significance": "Qatar's new defence partnership aims to enhance its military capabilities, potentially altering regional security dynamics in the Middle East.",
@@ -3676,80 +3750,6 @@
         "Palestinians held funerals for the victims on Monday.",
         "The attack occurred amid rising tensions over the Gaza ceasefire.",
         "The strike targeted a tent in Khan Younis, Gaza."
-      ]
-    },
-    {
-      "summary": "Christian Horner, former Red Bull F1 team boss, reflects on his sacking and its impact on his life.",
-      "url": "https://www.theguardian.com/sport/2026/oct/12/christian-horner-red-bull-formula-one",
-      "points": [
-        "Horner questions his purpose and deals with panic attacks after being fired.",
-        "At 52, Horner should be in Singapore for a grand prix but is at home in Highgate.",
-        "His wife, Geri Halliwell-Horner, discusses their daughters' school and her Spice Girls past."
-      ]
-    },
-    {
-      "summary": "Greens push for tech regulations as Labor funds charities; Greens divided on Ukraine weapons.",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
-      "points": [
-        "Greens advocate for regulations on big tech, aiming to prevent harm to Australians.",
-        "Labor announces $630m funding boost for charities.",
-        "Greens internally divided on providing weapons to Ukraine."
-      ]
-    },
-    {
-      "summary": "BBC will cease recording The Archers in Birmingham due to cost-cutting measures.",
-      "significance": "The Archers recordings leaving Birmingham marks a significant change for the 75-year-old soap opera, affected by BBC's cost-cutting measures.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/12/bbc-to-stop-recording-the-archers-in-birmingham-for-first-time-in-its-75-year-history",
-      "points": [
-        "Plans for a new radio drama theatre in Digbeth have been scrapped.",
-        "The move affects the show's 75-year recording history in Birmingham."
-      ]
-    },
-    {
-      "summary": "A 14-year-old pupil was arrested after shooting two teachers at a middle school in Aubagne, France.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "The suspect entered Lakanal middle school with a shotgun hidden in a guitar case.",
-        "The principal and a 37-year-old teacher were injured but their conditions are not life-threatening.",
-        "The suspect's father was also taken into custody after weapons were found in their home."
-      ]
-    },
-    {
-      "summary": "Codex CLI installs a persistent, self-updating background daemon by default, causing user concerns over control and security.",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "points": [
-        "Users request making daemon auto-start opt-in rather than default.",
-        "Daemon updates itself hourly, potentially disrupting active sessions.",
-        "Codex 0.157.0 fails to start with Arch Linux package without --no-daemon flag."
-      ]
-    },
-    {
-      "summary": "Cryptographic recommendations for developers are updated, emphasizing post-quantum security measures and the importance of using secure encryption methods by 2029.",
-      "significance": "The story matters as it provides updated cryptographic guidelines for developers to secure data against quantum computing threats by 2029.",
-      "url": "https://words.filippo.io/right-answers/",
-      "points": [
-        "Cryptographic standards need to be updated by 2029 to address post-quantum security.",
-        "Symmetric cryptography methods like AES-256-GCM and XChaCha20Poly1305 are recommended for encryption.",
-        "For asymmetric cryptography, HPKE with MLKEM768-X25519 and AES-128-GCM is suggested, highlighting changes since 2018 and 2024."
-      ]
-    },
-    {
-      "summary": "The newsletter covers AI swarm scaling, Google DeepMind's SynthID Bio watermarking for synthetic biology, and the performance of AI systems in automated scientific labs.",
-      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
-      "points": [
-        "Toby Ord's analysis shows swarms can halve the time needed for tasks but face diminishing returns as the number of agents increases.",
-        "Polling indicates 61% of Americans believe self-regulation by AI companies is insufficient, with 54% supporting government-set rules.",
-        "Google's SynthID Bio watermarking method for synthetic biology has shown effectiveness across various proteins in wet-lab testing."
-      ]
-    },
-    {
-      "summary": "UK to review security for high-profile public figures after Ann Widdecombe's murder.",
-      "significance": "Security arrangements for high-profile public figures will be reviewed following Ann Widdecombe\u2019s murder, extending police support to former MPs, party leaders, and others.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/12/security-high-profile-public-figures-reviewed-ann-widdecombe",
-      "points": [
-        "Shabana Mahmood, Home Secretary, announced the review on Monday.",
-        "Review includes security for politicians, royal family, former MPs, and party leaders.",
-        "Police support will be offered to peers, former devolved parliament members, and party spokespeople."
       ]
     }
   ]
