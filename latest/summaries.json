@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-19T02:41:50.923939Z",
+  "generated": "2026-10-19T04:41:30.630494Z",
   "summaries": [
+    {
+      "summary": "New Zealand's healthcare system faces severe strain, impacting patients and becoming a critical election issue.",
+      "significance": "The strained healthcare system in New Zealand, exemplified by personal struggles, centralizes healthcare as a critical election issue, affecting voters' choices.",
+      "url": "https://www.theguardian.com/world/2026/oct/19/new-zealand-election-strained-healthcare-system",
+      "points": [
+        "Jane Harrison and her husband, Shaun Fitzgerald, both on disability assistance due to health issues.",
+        "Fitzgerald's back surgery in August 2025 was ineffective, leading to repeated emergency visits.",
+        "Paramedics advised against hospitalization due to lack of beds, leaving patients to wait at home."
+      ]
+    },
+    {
+      "summary": "Broadway revival of \"Other Desert Cities\" features notable performances by Julia Louis-Dreyfus, Ed Harris, and others.",
+      "url": "https://www.theguardian.com/stage/2026/oct/19/other-desert-cities-review-julia-louis-dreyfus-ed-harris-broadway",
+      "points": [
+        "Julia Louis-Dreyfus and Joe Keery make their Broadway debuts.",
+        "Ed Harris, Allison Janney, and Lily Rabe return to Broadway.",
+        "Play is a Pulitzer finalist and addresses timely political issues."
+      ]
+    },
+    {
+      "summary": "Greens leader David Shoebridge says Jordon Steele-John agreed to take leave amid misconduct allegations, contradicting Steele-John's claims.",
+      "significance": "The story matters as it highlights internal conflict within the Greens over Jordon Steele-John's leave, affecting the party's cohesion and leadership dynamics.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/david-shoebridge-jordon-steele-john-greens-emergency-meeting-ntwnfb",
+      "points": [
+        "Shoebridge claims Steele-John agreed to leave parliament during investigation.",
+        "Steele-John denies agreement, accuses Greens of political games.",
+        "Steele-John released explosive statement accusing internal faction misconduct."
+      ]
+    },
+    {
+      "summary": "Accused police officer Beau Lamarre-Condon allegedly told a friend \"I love you\" and \"not everything in the news is true\" after being arrested for a double murder.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/beau-lamarre-condon-told-cop-friend-i-love-you-and-not-everything-in-the-news-is-true-after-arrest-court-told-ntwnfb",
+      "points": [
+        "Lamarre-Condon, 31, allegedly murdered Jesse Baird and Luke Davies with his police service weapon.",
+        "The alleged murders took place in Baird\u2019s Paddington home on February 19, 2024.",
+        "Lamarre-Condon made the remarks to a friend a month after his arrest."
+      ]
+    },
+    {
+      "summary": "Superlite is a plugin designed to streamline software development by automating tasks and reducing human oversight, contrasting with the more collaborative Superpowers.",
+      "significance": "Superlite streamlines software development by automating and parallelizing tasks, reducing the need for constant human intervention.",
+      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "points": [
+        "Superlite automates tasks and requires minimal human intervention, unlike Superpowers which needs frequent approvals.",
+        "In benchmarks, Superlite peaked at coordinating 18 agents simultaneously, demonstrating its efficiency in parallel task execution.",
+        "The plugin uses hooks to enforce rules, such as preventing the coordinator from editing code, ensuring tasks are completed without human interference."
+      ]
+    },
     {
       "summary": "Renewed piracy off Somalia's coast is disrupting fishing livelihoods in Bander Beyla, Puntland.",
       "significance": "The return of Somali piracy disrupts local fishing livelihoods and imposes strict surveillance and restrictions on coastal communities.",
@@ -3703,53 +3751,6 @@
         "At least 300 Intermarché and Netto stores, over 100 Cooperative U outlets, and several E. Leclerc stores were affected.",
         "The attack targeted refrigeration control systems from Danish manufacturer Danfoss, notably the AK-SM800 and AK-SC355 models.",
         "French Prime Minister's office stated that a vulnerability in software supplied by a Danish company was identified, and an investigation is underway."
-      ]
-    },
-    {
-      "summary": "US economists Robert Hall and Michael Woodford won the 2026 Nobel economics prize for models aiding economic stability.",
-      "significance": "The Nobel Prize highlights models aiding policymakers in stabilizing economies, preventing long recessions and inflation.",
-      "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
-      "points": [
-        "Robert Hall from Stanford University and Michael Woodford from Columbia University were awarded.",
-        "Their work focuses on \"microeconomic foundations of macroeconomic stabilisation\".",
-        "The models help policymakers avoid long recessions and runaway inflation."
-      ]
-    },
-    {
-      "summary": "The Houthis have launched a series of attacks on Saudi airports, causing significant disruptions and casualties.",
-      "url": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
-      "points": [
-        "One person was killed and eight were wounded in an attack on Riyadh's King Khalid International Airport on October 7.",
-        "The Houthis have struck Riyadh's airport four times in five days, leading to the suspension of operations and cancellations by airlines like Lufthansa and Air France-KLM.",
-        "Yemeni government forces, backed by Saudi Arabia, have also targeted airports in Houthi-controlled areas, including Sanaa airport on July 13."
-      ]
-    },
-    {
-      "summary": "South Africa's deputy police chief, Lt Gen Shadrack Sibiya, resigns after being charged with sexual offences.",
-      "significance": "The resignation of South Africa's deputy police chief amid sexual offence charges undermines police integrity and complicates the ongoing corruption inquiry.",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Sibiya charged with sexually grooming a 16-year-old and raping an 18-year-old woman.",
-        "His resignation is considered a dishonourable discharge from the police force.",
-        "The case emerges amid a major public inquiry into police corruption, the Madlanga Commission."
-      ]
-    },
-    {
-      "summary": "US fugitive businessman Alvaro Pulido, wanted for bribery of Venezuelan officials, was taken into custody.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
-      "points": [
-        "Alvaro Pulido indicted in Miami federal court in 2019 and 2021.",
-        "Pulido's arrest linked to investigation of his partner, Alex Saab.",
-        "US offered up to $10m reward for information leading to Pulido's arrest."
-      ]
-    },
-    {
-      "summary": "Student accused of ambushing and stabbing housemate 30 times outside their Bristol home.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/12/student-lay-in-wait-for-housemate-before-stabbing-him-30-times-bristol-court-hears",
-      "points": [
-        "Zack Coughlan, 23, dressed in black, wore mask and gloves for the attack.",
-        "Victim Jamie Collins, 21, was a fellow robotics student at University of West England.",
-        "Incident occurred near the University of West England in Bristol."
       ]
     }
   ]
