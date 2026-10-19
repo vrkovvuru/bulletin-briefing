@@ -1,6 +1,108 @@
 {
-  "generated": "2026-10-19T14:42:05.648752Z",
+  "generated": "2026-10-19T16:42:49.837319Z",
   "summaries": [
+    {
+      "summary": "Trump endorses Netanyahu before Israel's election, amid conflict and tragedy in Gaza.",
+      "significance": "Trump's endorsement of Netanyahu could influence the Israeli election and reflect the strong U.S.-Israel ties under his presidency.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss",
+      "points": [
+        "Trump publicly supports Netanyahu in upcoming Israeli elections.",
+        "Ben-Gvir encounters student protesters in Israel.",
+        "Israeli gunfire results in the death of a seven-year-old girl in Gaza."
+      ]
+    },
+    {
+      "summary": "A Saudi national formerly employed by OpenAI is accused of having government support in planting a recording device.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "US prosecutors claim Abdulrahman Alfozan had \"considerable support\" from Saudi government.",
+        "A Saudi military member paid for a one-way flight for Alfozan's wife and son post-arrest.",
+        "The recording device was found behind a TV in a conference room, covered with toilet paper."
+      ]
+    },
+    {
+      "summary": "A former Subway worker recounts their experience serving diverse clientele in Perth\u2019s nightlife district in the 1990s.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/19/a-job-that-changed-me-on-midnight-shifts-as-a-subway-sandwich-artist",
+      "points": [
+        "Job shift from Pizza Hut to Subway extended car life.",
+        "Worked in Perth\u2019s nightlife district, Northbridge, as a \"sandwich artist.\"",
+        "Previous gig at Pizza Hut in Como suburb involved delivering pizzas and dealing with cash tips."
+      ]
+    },
+    {
+      "summary": "A woman drove her vehicle onto a soccer field in Kansas, killing a six-year-old boy and a 35-year-old woman, and injuring ten others.",
+      "significance": "The story provides new details on the tragic deaths of a child and an adult following a vehicle incident at a Kansas youth soccer game, affecting the local community deeply.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/kansas-deaths-soccer-game-vehicle-latest",
+      "points": [
+        "Six-year-old Cole, son of Chris Adrian, a middle school soccer coach, was among the dead.",
+        "The incident occurred at Wichita\u2019s Stryker Sports Complex.",
+        "Ten individuals were injured, some seriously, in addition to the two fatalities."
+      ]
+    },
+    {
+      "summary": "Engineers removed masts from a WWII ship laden with explosives in the Thames to prevent potential explosion.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
+      "points": [
+        "SS Richard Montgomery sank in 1944 carrying about 1,400 tonnes of munitions.",
+        "Removal of masts aimed to avoid explosion that could devastate Kent and cause tidal waves in London.",
+        "Wreck has been under constant guard for decades due to explosion fears."
+      ]
+    },
+    {
+      "summary": "Inquiry into whistleblower claims at UK's power grid operator found significant cultural issues amid accusations of covering up blackout risks.",
+      "url": "https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims",
+      "points": [
+        "Independent investigators found \"cultural issues\" at Great Britain\u2019s grid operator.",
+        "Control room staff accused senior executives of covering up blackout risks during June heatwave.",
+        "Investigation was prompted by whistleblower allegations against Neso."
+      ]
+    },
+    {
+      "summary": "Supreme Court rejects plea deal that would have given Khalid Sheikh Mohammed life in prison instead of possible execution.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/khalid-sheikh-mohammed-september-11-plea-deal",
+      "points": [
+        "Deal aimed to avoid execution by ensuring life imprisonment for 9/11 mastermind.",
+        "Khalid Sheikh Mohammed accused of masterminding the 11 September 2001 attacks.",
+        "Supreme Court decision on Monday rejected the plea agreement."
+      ]
+    },
+    {
+      "summary": "CERN and Mistral sign a statement of intent to develop AI for scientific discovery, focusing initially on high-energy physics.",
+      "significance": "This partnership accelerates AI development for scientific discovery, particularly in high-energy physics, leveraging CERN's data and Mistral's AI expertise.",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "points": [
+        "CERN and Mistral aim to create a Large Physics Model trained on billions of simulated proton-proton collisions at the LHC.",
+        "The partnership combines CERN\u2019s physics expertise with Mistral\u2019s AI capabilities to advance AI in science.",
+        "The model will support tasks like reconstructing particle collisions and identifying particles from LHC data."
+      ]
+    },
+    {
+      "summary": "A5, a grid system for global visualization using pentagonal cells, marks 18 months since its announcement and introduces new features and optimizations.",
+      "url": "https://a5geo.org/blog/2026/10/14/a5-v1",
+      "points": [
+        "A5 uses pentagonal cells to represent geographic locations, with each cell as a 64-bit integer.",
+        "The system supports operations like union and intersection on cell collections, improving data processing efficiency.",
+        "A5 guarantees equal area for cells at a given resolution, distinguishing it from hexagonal DGGSs."
+      ]
+    },
+    {
+      "summary": "GitHub experiences degraded availability for Actions, Pages, and Webhooks, with ongoing investigation and partial recovery.",
+      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "points": [
+        "Degraded services include GitHub Actions, Pages, and Webhooks.",
+        "Customers face delays in workflow status updates, site builds, and webhook delivery.",
+        "GitHub is investigating the issue and monitoring recovery progress."
+      ]
+    },
+    {
+      "summary": "The newsletter covers AI swarm scaling, Google DeepMind's SynthID Bio watermarking for synthetic biology, and AI's role in scientific lab automation.",
+      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+      "points": [
+        "Toby Ord notes that AI swarms can halve task completion time but face diminishing returns as the number of agents increases.",
+        "Polling indicates 61% of Americans believe company self-regulation of AI is insufficient, with 54% supporting government-set rules.",
+        "Google DeepMind's SynthID Bio uses watermarking methods to enhance biosecurity and scientific integrity in synthetic biology."
+      ]
+    },
     {
       "summary": "A producer shares a personal story of a disastrous dinner party that inspired the show Come Dine With Me.",
       "url": "https://www.theguardian.com/tv-and-radio/2026/oct/19/sushi-naked-chest-how-we-made-come-dine-with-me",
@@ -3644,112 +3746,6 @@
         "E. coli uses flagellar motors and chemoreceptors to balance between running towards food and tumbling randomly.",
         "The signaling molecule CheY-p controls the cell's movement by binding to flagellar motors, influencing the cell's decision to run or tumble.",
         "Receptors adapt to attractant concentration changes through methylation, allowing the cell to detect minute concentration gradients."
-      ]
-    },
-    {
-      "summary": "IMF warns global economy faces resilience tests due to low oil stocks and overstretched budgets.",
-      "significance": "IMF warns that low oil stocks and overstretched budgets could soon challenge global economic resilience.",
-      "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
-      "points": [
-        "IMF upgrades UK GDP growth forecast for 2026.",
-        "Developing nations face a triple shock, according to the UN.",
-        "Global growth has surpassed fears from the Middle East conflict in the last six months."
-      ]
-    },
-    {
-      "summary": "IMF warns of potential 30 cents per litre increase in Australian fuel prices due to a possible Middle East crisis.",
-      "significance": "The story highlights potential significant increases in Australian fuel prices and interest rates under an IMF scenario of heightened Middle East tensions and soaring oil prices.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-fuel-prices-rise-imf-rba-us-oil-interest-rates",
-      "points": [
-        "IMF scenario predicts global oil prices could surge to US$130 per barrel.",
-        "Economists suggest this could pressure the Reserve Bank to increase interest rates.",
-        "The IMF highlighted the \"clear and present danger\" to global growth and inflation."
-      ]
-    },
-    {
-      "summary": "A Python web app was created to provide a web UI for viewing and editing files via Tailscale.",
-      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-      "points": [
-        "App built using Codex and GPT-6 Astra Extra High.",
-        "Uses CodeMirror 6 for editing files.",
-        "Intended for use over Tailscale for mobile file editing."
-      ]
-    },
-    {
-      "summary": "Despite public support for nationalization, recent rail incidents and ongoing issues question its effectiveness in improving service reliability.",
-      "significance": "The story highlights public skepticism about rail nationalization's effectiveness in improving service reliability despite its popularity.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "A 90-second power outage on August 6 caused widespread rail chaos in north-west England.",
-        "South Western Railway saw increased cancellations in its first year of public ownership.",
-        "TransPennine Express, nationalized under Conservatives, saw cancellations fall but remained above average.",
-        "Experts argue it's too early to assess the impact of nationalization, suggesting a decade is needed for a proper evaluation."
-      ]
-    },
-    {
-      "summary": "One person died and others were injured in a rollercoaster incident at Six Flags Over Georgia.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster",
-      "points": [
-        "Incident occurred on Monday afternoon at Six Flags Over Georgia.",
-        "Location is about 15 miles north-west of Atlanta.",
-        "The affected ride is reportedly the Goliath coaster with a 175ft drop."
-      ]
-    },
-    {
-      "summary": "Decomposed body found in a stockyard trough identified as missing 73-year-old Yvonne Whear.",
-      "significance": "The confirmation of Yvonne Whear's body ends an eight-month mystery and concludes the search for the missing 73-year-old woman.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/yvonne-whear-body-found-in-stockyard-trough-missing-woman-murwillumbah-ntwnfb",
-      "points": [
-        "Body discovered last week in a remote stockyard near Murwillumbah, New South Wales.",
-        "Whear was last seen on CCTV in mid-February, buying orange juice and adding $50 to her phone credit.",
-        "She had been missing for eight months before her body was found."
-      ]
-    },
-    {
-      "summary": "Queensland ombudsman backs away from calls to close a youth prison despite serious concerns over conditions.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/queensland-ombudsman-backs-away-from-calls-to-close-youth-prison-so-unsuitable-some-children-self-harm-to-get-transferred-ntwnfb",
-      "points": [
-        "Ombudsman raises concerns about Wacol youth remand centre's unsuitable conditions for children.",
-        "Children self-harm to get transferred from Wacol youth remand centre.",
-        "Crisafulli government's bail laws may cause crowding in police watch houses."
-      ]
-    },
-    {
-      "summary": "An individual used AI, specifically GPT-6 Astra, to jailbreak their Kindle and create a custom photo slideshow app.",
-      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-      "points": [
-        "Used GPT-6 Astra to jailbreak Kindle after other AI attempts failed.",
-        "Created \"KindleCTL\" app that cycles through ten photos, each shown for four minutes.",
-        "Overcame display refresh issues by using the Kindle's built-in screen refresh mechanism."
-      ]
-    },
-    {
-      "summary": "An undocumented and non-functional FMA instruction set mnemonic, VFMADDRND231PD, was found in Intel's Software Development Manual.",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "points": [
-        "VFMADDRND231PD allows per-instruction rounding control, potentially speeding up algorithms.",
-        "The instruction is not recognized by GNU assembler or Intel C/C++ Compiler intrinsics.",
-        "The instruction appeared in the 2024 SDM but was absent in the 2026 edition, suggesting a last-minute removal by Intel."
-      ]
-    },
-    {
-      "summary": "The article argues that while LLMs have limitations, they can still be considered tools that require skill to use effectively.",
-      "significance": "The story matters because it clarifies that using AI effectively requires skill and human direction, challenging the notion that AI is merely automation.",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "points": [
-        "The article contends that using an LLM well requires skill, similar to using other tools like a saw or chisel.",
-        "It challenges the notion that automation disqualifies something from being a tool, citing examples like compilers and spreadsheets.",
-        "The author criticizes the AI industry's use of anthropomorphic terms, suggesting it misrepresents the nature of these systems."
-      ]
-    },
-    {
-      "summary": "Israeli airstrike on a tent in Gaza's Khan Younis killed three Palestinians.",
-      "significance": "The latest Israeli airstrike escalates tensions in Gaza, impacting ceasefire stability and civilian safety.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
-      "points": [
-        "Palestinians held funerals for the victims on Monday.",
-        "The attack occurred amid rising tensions over the Gaza ceasefire.",
-        "The strike targeted a tent in Khan Younis, Gaza."
       ]
     }
   ]
