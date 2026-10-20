@@ -1,6 +1,80 @@
 {
-  "generated": "2026-10-20T04:41:48.402403Z",
+  "generated": "2026-10-20T12:41:46.556847Z",
   "summaries": [
+    {
+      "summary": "Inquiry finds ban on family visits to UK care homes at pandemic's start had devastating consequences.",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+      "points": [
+        "Heather Hallett, inquiry chair, published module 6 report on care homes.",
+        "Tax burden in Britain is at an all-time high, affecting various aspects of life.",
+        "Andy Burnham expresses moral outrage over the current benefit system in The Times."
+      ]
+    },
+    {
+      "summary": "US bans government agencies from using China\u2019s DeepSeek AI tools over data security concerns.",
+      "significance": "The ban follows concerns over data security and highlights escalating tensions in the AI race between the US and China.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+      "points": [
+        "Ban applies to DeepSeek AI tools and those created by third parties using DeepSeek.",
+        "Department of Homeland Security ordered removal of the tools from IT devices.",
+        "Concerns stem from potential transfer of sensitive data to China."
+      ]
+    },
+    {
+      "summary": "A proposal to transform the boarded-up San Francisco Centre mall into a community-based AI exhibit has emerged.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/san-francisco-mall-ai-datacenter",
+      "points": [
+        "Proposal suggests turning the mall into an AI exhibit, not a traditional datacenter.",
+        "San Francisco Centre has been boarded up since January of this year.",
+        "The mall's location is central to urban renewal efforts post-Covid pandemic."
+      ]
+    },
+    {
+      "summary": "Storm Austen, the first named storm of the season, is forecast to hit southern UK with gusts up to 60mph by the end of the week.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/storm-austen-named-uk-severe-weather-warning",
+      "points": [
+        "Yellow severe weather warning issued for southern UK.",
+        "Storm Austen expected to bring gusts of up to 60mph.",
+        "Storm to approach southern UK by Thursday."
+      ]
+    },
+    {
+      "summary": "DeepSeek has made its high-performance inference engine, DeepInfer, open-source.",
+      "significance": "DeepSeek's open-sourcing of DeepInfer affects developers and AI researchers by providing access to a high-performance inference framework for large-scale applications.",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "points": [
+        "DeepInfer accelerates decoding using draft tokens and confidence estimates for verification.",
+        "It supports overlapping CPU batch scheduling with device execution by default.",
+        "The framework requires a Python 3.12 environment for building."
+      ]
+    },
+    {
+      "summary": "Article details how to set up SSH keys on macOS using Touch ID for enhanced security.",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "points": [
+        "SSH keys created on Secure Enclave cannot be extracted or stolen.",
+        "Setup involves creating an identity, configuring SSH to use it, and adding the key to GitHub.",
+        "Touch ID is required for authentication, adding a layer of security that prevents identity theft."
+      ]
+    },
+    {
+      "summary": "MicroG GmsCore offers a free, open-source alternative to Google's proprietary Android services.",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "points": [
+        "MicroG GmsCore enables running apps that use Google APIs on AOSP-based ROMs like LineageOS.",
+        "It includes UnifiedNlp for handling network location provider calls.",
+        "Users must also install a Play Store replacement for a full setup."
+      ]
+    },
+    {
+      "summary": "A new monospace font named Nordwand Mono, inspired by classic and modern fonts, is designed for developers and adventurers.",
+      "url": "https://github.com/tywr/Nordwand-Mono",
+      "points": [
+        "Font combines elements from \"Univers\" and \"JetBrains Mono\".",
+        "Designed using Python, allowing customization of metrics like x-height.",
+        "Only two ligatures are currently included: \"->\" and \"=>\"."
+      ]
+    },
     {
       "summary": "Fourteen people died when an illegal gold mine collapsed in a remote part of Colombia.",
       "significance": "The collapse highlights dangers of illegal mining in Colombia, leading to significant loss of life in remote areas.",
@@ -3672,80 +3746,6 @@
         "Devices compromised through CryptoBilis, a Malaysia-based retailer, were found to have unauthorized hardware implants.",
         "The implant captured display output and button presses, transmitting seed phrases to attackers via LTE.",
         "Ledger advised users to avoid setting up devices from unauthorized resellers and to move assets to new signers."
-      ]
-    },
-    {
-      "summary": "Trump's proposed 'energy ceasefire' with Russia has caused discord with Europe over Ukraine.",
-      "significance": "Trump's 'energy ceasefire' highlights growing disagreements between the US and Europe on strategies to address Russia's actions in Ukraine.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss",
-      "points": [
-        "Deal involves Russian diesel, complicating US and Europe's stance on Russia.",
-        "Disagreement highlights growing rift between US and Europe on Ukraine conflict.",
-        "Proposal threatens to further separate US and European strategies against Russia."
-      ]
-    },
-    {
-      "summary": "MI5 chief acknowledges Russian interference in Brexit vote but downplays its impact.",
-      "url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "MI5 chief Sir Ken McCallum states interference was attempted but did not sway the outcome.",
-        "Prime Minister Andy Burnham initially claimed interference was \"clear,\" facing backlash.",
-        "Sir Ken warns against giving undue attention to Russian trolls, suggesting their efforts were \"unimpressive."
-      ]
-    },
-    {
-      "summary": "Trump claims both Putin and Zelenskyy want to end the war in Ukraine but lack a path to agreement.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-says-putin-and-zelenskyy-both-want-to-end-russias-war-on-ukraine?traffic_source=rss",
-      "points": [
-        "Trump states the US is still sharing intelligence with Ukraine.",
-        "Trump defended easing restrictions on Russian diesel exports temporarily.",
-        "No specific date or agreement details provided in the statement."
-      ]
-    },
-    {
-      "summary": "Trump's new press secretary, Katie Zacharia, supports conspiracy theories, mirroring Trump's beliefs.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
-      "points": [
-        "Zacharia believes the 2020 election was stolen.",
-        "Trump's previous press secretary, Karoline Leavitt, left to be with her children.",
-        "This is Trump's fifth press secretary."
-      ]
-    },
-    {
-      "summary": "An individual explores the viability of generating significant income through social media influence after a contract job ends.",
-      "url": "https://www.theguardian.com/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles",
-      "points": [
-        "The individual was drawn to social media claims of earning six figures passively.",
-        "The person had just ended a short-term contract and was returning to freelancing.",
-        "The article questions the legitimacy of these income claims, likening them to MLM tactics."
-      ]
-    },
-    {
-      "summary": "MI5 warns of increasing terror threats from far-right groups and Iran, alongside ongoing state threats.",
-      "significance": "The story highlights increasing diversity in terror threats to the UK, including far-right and Iranian elements, emphasizing the need for national resilience.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
-      "points": [
-        "Far-right anti-migrant threats are rising in the UK.",
-        "Iran is now considered alongside Russia as a state planning violent plots in the UK.",
-        "MI5\u2019s Ken McCallum emphasizes the need for national resilience against these threats."
-      ]
-    },
-    {
-      "summary": "UK retailers urge Chancellor John Healey to lower the cost of employing young people in his first budget.",
-      "url": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
-      "points": [
-        "Tesco, Costa Coffee, and the Co-op among companies meeting Chancellor Healey",
-        "Retailers highlight impact of increased employers' national insurance contributions",
-        "Meeting held at No 11 with participation from Marks & Spencer and Sainsbury\u2019s CEOs"
-      ]
-    },
-    {
-      "summary": "FTC and seven states are seeking a contempt ruling against Martin Shkreli for violating his ban from the pharmaceutical industry.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban",
-      "points": [
-        "Shkreli, known as the \"Pharma Bro,\" was released in May 2022 with conditions barring him from the pharmaceutical industry.",
-        "The FTC alleges Shkreli traded stocks in at least 60 pharmaceutical companies post-release.",
-        "The motion for contempt was filed in US district court in New York City."
       ]
     }
   ]

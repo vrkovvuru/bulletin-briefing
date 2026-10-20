@@ -1,94 +1,165 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "stories": [
     {
-      "title": "Japan launches historic mission to bring back Mars moon samples",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Fourteen dead in illegal Colombian gold mine collapse",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Fourteen dead in illegal Colombian gold mine collapse",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Deliberate’ car ramming of Australian MP an isolated incident, police say",
-      "url": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A 43-year-old man accused of deliberately hitting Helen Haines outside her office is in police custody.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-      "alsoReportedBy": []
+      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+      "alsoReportedBy": [
+        "Al Jazeera"
+      ]
     },
     {
-      "title": "DOJ charges 28 in California with voting crimes as election tensions escalate",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6007908/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes",
-      "source": "NPR",
+      "title": "Myanmar\u2019s detained ex-leader Suu Kyi receives package from King Charles III",
+      "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The DOJ also filed an emergency request in federal court to stop California from processing ballots returned by people on the voter rolls the federal government says are \"likely noncitizens.\"",
-      "alsoReportedBy": []
+      "summary": "Military-backed government says it delivered two books and diplomatic correspondence to Aung San Suu Kyi.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge's order, hundreds of trees were cut down to make way for the renovation.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "title": "Key takeaways from Covid report on care homes",
+      "url": "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
+      "summary": "From the shocking lack of PPE to restrictions on visitors - the key points from the sixth Covid inquiry report.",
       "alsoReportedBy": []
     },
     {
-      "title": "Criminals detained in hospital set to lose benefits",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "France PM promises more curfews as authorities seek to regain control",
+      "url": "https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+      "summary": "Prime Minister Sebastien Lecornu says local authorities will coordinate with mayors to decide whether to impose curfews.",
       "alsoReportedBy": []
     },
     {
-      "title": "Schools struggle to measure how much AI experiments are helping",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
+      "title": "Is Russia stalking satellites which help Ukraine from space?",
+      "url": "https://www.aljazeera.com/news/2026/10/20/is-russia-stalking-satellites-which-help-ukraine-from-space?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Analysts say a Russian craft\u2019s close pass by a commercial radar satellite is a first and a warning to Kyiv\u2019s backers.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Schools are experimenting with AI, and a lot of them are encountering the same problem: It's hard to measure whether the technology is good or bad for students.",
+      "summary": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
       "alsoReportedBy": []
     },
     {
-      "title": "Secrets, lies and a shock A-list cameo: how You Can See Everything became the film of the year",
-      "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success",
+      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity.",
+      "alsoReportedBy": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Ronaldo let Manchester United down - Ten Hag",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let me down\" during the Dutchman's spell at Old Trafford.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
+    },
+    {
+      "title": "What if an AI bubble bursts \u2014 and that accelerates AI job losses?",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "French cities \u2018calm overnight\u2019 after targeted curfews, prime minister says \u2013 Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Nathan Fielder’s secretive Elizabeth Holmes documentary has become a sold-out smash hit and might make Oscars history Spoilers ahead If there is one moment that sums up You Can See Everything , the new A24 documentary on Elizabeth Holmes that until this weekend was shrouded in spoiler-averse secrecy, it is, perhaps surprisingly, the one everyone already knows: co-director Nathan Fielder, the droll comedian known for deadpanning subjects into submission, sitting eye to eye with Holmes, the unblinking fabulist of Theranos infamy. In tight zoom, saturation turned up – Fielder’s arched brows and Holmes’s oceanic blue eyes as stark as two magnetic poles – he asks her: “Are you being real right now?” That question hangs over much of the colossal three-hour movie, particularly a claustrophobic first half that has made headlines since the film’s existence was announced in September. That first half – essentially, the only part of the movie anyone respecting spoiler guidelines and/or the theatrical experience could talk about – takes place entirely in 2023, when Fielder and his co-director Lance Oppenheim, along with a small crew, embedded with Holmes, her husband, Billy Evans, and their two small children in the run-up to her prison sentence for fraud. We watch as Fielder, over a few surreal weeks in a beachfront rental, attempts to puncture Holmes’s indomitable facade of faultlessness. It’s not exactly comedic, this chess game between three norms-ignoring people, but it can be quite funny: TV’s grand illusionist, an absurdist auteur who will go as far as actually obtaining a 737 pilot’s license for the bit, stymied by a world-class fabricator, with her poorly dissembling husband on the side. This section resembles, in feel, the pull of an internet wormhole: the closer you zoom in on a subject, without outside context, the more sense devolves. Was Holmes “being real”, for instance, when she told Fielder, with seemingly complete sincerity, that she has never told a lie in her life ? Or when she continued to insist, despite plain reality, that Theranos devices could perform 1,000 diagnostic tests? Continue reading...",
+      "summary": "S\u00e9bastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr St\u00f8re and the Finnish president Alexander Stubb and Norway\u2019s new King Haakon during his visit to Oslo. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "President Trump's up and down relationship with Russia is back on as he presses to find an end to the war in Ukraine amid high energy costs ahead of the U.S. midterms.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Former U.S. ambassador on Trump's recent moves to embrace Russia",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6007865/former-u-s-ambassador-on-trumps-recent-moves-to-embrace-russia",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "NPR's Steve Inskeep speaks with former U.S. Ambassador to Russia Michael McFaul about President Trump's latest embrace of Russia and what it means for Ukraine and any hopes of peace.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ban on family visits to care homes at start of pandemic had \u2018devastating consequences\u2019, inquiry finds \u2013 UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Heather Hallett, chair of the Covid inquiry, has just published the report from the inquiry\u2019s module 6, looking at what happened in care homes Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise. Britain\u2019s tax burden has never been higher. You are taxed on the heating in your home. You\u2019re taxed at the petrol pump filling up your car. You\u2019re taxed when you insure that car. You\u2019re taxed if you take the family away on holiday. You\u2019re taxed if you stay in the UK thanks to Andy Burnham\u2019s tourist tax. You\u2019re taxed to buy a home, taxed to live in a home, taxed to pass on your home. This is clearly not working. Britain does not feel better off. Andy Burnham wrote in The Times yesterday about the moral outrage of the current benefit system. But as far as I could work out, his answer is to spend even more on benefits. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "US bans use of China\u2019s DeepSeek AI tools by government agencies",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Use of tools \u2018may result in the transfer of sensitive data to (China)\u2019, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from Chinese startup DeepSeek , as the countries race for dominance in the fast-moving sector. A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek \u2013 and tools created using DeepSeek by third parties \u2013 saying they must be removed from IT devices. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Downtown datacenter? AI plan floated for boarded-up San Francisco mall",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/san-francisco-mall-ai-datacenter",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Developers propose turning San Francisco Centre into not a server-based facility but a \u2018community-based AI exhibit\u2019 Downtown San Francisco has shown signs of revival since being battered by the Covid pandemic, which led to what many called a \u201cdoom loop\u201d of vacant buildings, a worsening homelessness crisis, and dwindling public transit. But one highly visible reminder of the city\u2019s struggle to recover remains: the San Francisco Centre mall, which sits at the heart of these urban renewal efforts and has been conspicuously boarded up since January of this year. A number of ideas have been floated for the mall\u2019s reopening, including a multi-level sports complex , housing , and more traditional retail uses . But now, another potential plan has emerged: the shuttered mall is being considered for an AI datacenter project, the San Francisco Chronicle reported . Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -97,93 +168,30 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday. Temporary protected status was set to end on Monday for about 101,000 Ukrainians and 1,800 Sudanese. But the DHS said an announcement “will be made at the appropriate time”. Until then, the department said in a written statement, Ukrainians and Sudanese in the US covered by those temporary measures “retain protection”. The department did not indicate how long they could stay or when a final announcement would be made on their status. Continue reading...",
+      "summary": "DHS says migrants \u2018retain protections\u2019 after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday. Temporary protected status was set to end on Monday for about 101,000 Ukrainians and 1,800 Sudanese. But the DHS said an announcement \u201cwill be made at the appropriate time\u201d. Until then, the department said in a written statement, Ukrainians and Sudanese in the US covered by those temporary measures \u201cretain protection\u201d. The department did not indicate how long they could stay or when a final announcement would be made on their status. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Alberta voters decide whether to take a step toward separating from Canada",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "In Canada, the oil-rich province of Alberta votes in a referendum that could set it on a path toward separation, as Prime Minister Mark Carney warns of threats to Canadian unity.",
-      "alsoReportedBy": ["NPR World"]
-    },
-    {
-      "title": "Mother of alleged Alan Jones victim ‘absolutely trusted’ the radio host, court told",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/alan-jones-alleged-victim-mother-trusted-radio-host-ntwnfb",
+      "title": "Storm Austen forecast to hit southern UK",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/storm-austen-named-uk-severe-weather-warning",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Witness breaks down in tears, tells court ‘I was scared’ after son declines to report alleged kissing and touching by broadcaster The mother of the youngest alleged victim of Alan Jones has told a Sydney court she “trusted” the 2GB broadcaster and was “comfortable” her teenager was going to spend a weekend at his Fitzroy Falls property. The young man, known as complainant A, has testified that when he was 17 he was alone at the southern highlands farm when Jones allegedly kissed him, put his tongue inside his mouth and touched him on the bottom. “I felt violated and I felt gross,” he told the court earlier. Continue reading...",
+      "summary": "Yellow severe weather warning issued for first named storm of season with gusts of up to 60mph expected The first named storm of the season, Austen, is expected to bring gusts of up to 60mph to southern areas of the UK at the end of the week, forecasters said. While there would be spells of rain and showers for many on Tuesday and Wednesday, by Thursday Storm Austen would be approaching the south-west of the UK, the Met Office said. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Could AI ‘change the stakes’ in the development of bioweapons? Support the Guardian: theguardian.com/sciencepod Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "President at Kansas rally tries to turn protests into cautionary tale for US as Republicans face midterm losses Explainer: why are people protesting across Europe? As Republicans confront mounting political headwinds ahead of November’s midterm elections, Donald Trump is attempting to turn unrest in France into a cautionary tale for American voters, recasting the demonstrations that began as student protests against crumbling schools and the soaring cost of living as evidence of the dangers of immigration and the erosion of western civilization. At a rally in Kansas on Monday evening, Trump described France as a once-great nation that had been “conquered, looted, and burned to the ground by migrants, jihadists, and communists”. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why terrorism laws stopped Sally Rooney selling books in the UK – podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/20/why-terrorism-laws-stopped-sally-rooney-selling-books-in-the-uk-podcast",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The bestselling author says her books will no longer be supplied to UK bookshops over fears of prosecution. Zoe Williams and Haroon Siddique report For now there might be a copy or two of Intermezzo left kicking around in your local bookshop – snap it up if you haven’t already, because soon that will be it. Last year, Sally Rooney said she would be using her royalties to support Palestine Action, a group that is proscribed as a terrorist organisation under UK law. Since then, thousands of people have been arrested for supporting the group. Now, faced with the risk of prosecution under terrorism legislation, Rooney and her publishers have decided to stop supplying her books to retailers in the UK. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Kumanjayi Little Baby: damning report finds ‘heartbreaking’ child protection failures before five-year-old’s death",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/kumanjayi-little-baby-damning-report-finds-heartbreaking-child-protection-failures-before-five-year-olds-death-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Northern Territory government announced sweeping reforms of child protection sector in May, just days after the Warlpiri girl was found dead • Warning: This article contains images of and references to Indigenous Australians who have died Get our breaking news email , free app or daily news podcast A report on the Northern Territory’s child protection sector has detailed “confronting” and “heartbreaking” failures in the lead-up to the alleged murder of Warlpiri girl Kumanjayi Little Baby. The five-year-old was found dead in April, five days after she was allegedly abducted from a town camp in Alice Springs. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Ricky Jefferies says he had just finished cutting hair when he grabbed and held the driver who allegedly deliberately struck the Indi MP Follow our Helen Haines live blog for latest updates Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email , free app or daily news podcast The Australian prime minister has hailed him a hero for rushing out of his shop to help independent MP Helen Haines after she was allegedly run down in a deliberate attack – but barber Ricky Jefferies says he had “no choice” but to intervene. Standing on Tuesday morning outside his shop, which is right next to Haines’ electorate office in Wangaratta, Jefferies was almost shy about the whole thing. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Ukraine and Russia exchange strikes, as relations between Trump and Zelenskyy sour",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6007371/ukraine-and-russia-exchange-strikes-as-relations-between-trump-and-zelenskyy-sour",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Ukraine carried out a massive drone strikes on Russia, which launched deadly attacks on its smaller neighbor over the weekend.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "OpenBSD 8.0",
-      "url": "https://www.openbsd.org/80.html",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -191,17 +199,26 @@
       "alsoReportedBy": []
     },
     {
-      "title": "One Hash Bloom Filters",
-      "url": "https://www.calabro.io/ohbf",
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": ["Hacker News"]
+      "alsoReportedBy": []
     },
     {
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "title": "Setting up SSH keys on macOS with Touch ID",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/GmsCore/wiki",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -214,16 +231,7 @@
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "Hey folks, I've been having to perform an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that content submitted to the site should, at a minimum, be respectful of a reader's time and intelligence.  The first adjustment is two updates to the about page, which try to provide a bit more clarity in what we consider topical and what constitutes self promotion: Intro: Lobsters is a computing-focused community centered around discussing links. Our goal is to learn, craft, collaborate, and share interesting viewpoints. The administrator is Peter Bhat Harkins (\"pushcx\"), contact him or another moderator with any support issues. Lobsters was launched on July 3rd, 2012 by joshua stein  (who is no longer running it, so please quit bugging him with site stuff) with careful design touches to encourage a healthy community: At this risk of writing a mission statement, it seemed worth explaining what the site is and hopes to be to visitors from the first sentence of /about. (This original text came from an intro post .) Then the Guidelines: Topicality: Lobsters is focused pretty narrowly on computing; tags like art don't imply every piece of art is on-topic.  Some rules of thumb for great stories to submit: Will this improve the reader's next program? Will it deepen their understanding of their last program? Will it be more interesting in five or ten years? Is this compelling material that will seed a discussion, or is it just an artifact? Pending an upcoming deploy, we no longer allow submissions which are code repositories. While, at first blush, this may seem odd for a community which is primarily centered around programming but it does eliminate the bulk of the \"low effort, self promotional\" submissions we've been seeing on the site. We've also found that being dropped into a new codebase doesn't start discussions because the reader has to have enough subject matter experience to immediately recognize what's novel or otherwise worth talking about. Instead, we are more interested in content around code bases which cover why it was created, the purpose it serves, the challenges overcome, and the reasons why it's a useful artifact in the ecosystem. Some things that are off-topic here but popular on larger, similar sites: entrepreneurship; management; careers; news about companies that employ a lot of programmers; investing; world events; anthropology; self-help; personal productivity systems; last-resort customer service requests via public shaming; \"I wanted to see what this site's amazing users think about this off-topic thing\"; and defining the single morally correct economic and political system for the entire world when we can't even settle tabs vs. spaces. We're listing \"careers\" as off-topic to try to head off posts about interviewing, promotions, burnout, and farming . We have the  job tag because it's nice to help people connect to jobs, but the topic of getting a good job, weaving jobs into a career over your lifetime, and work is a different thing than the actual programming itself. Self-promotion: It's great to have authors participate in the community, but we do not want the community to be exploited as a write-only tool for product announcements or driving traffic to their work. As a rule of thumb, self-promotional activity should be less than a quarter of one's stories and comments in the last year. New users ( first 70 days ) are not allowed to submit self-promo. This is how we've been enforcing the rule for a while, better to be explicit. It's unfortunately common that authors see their work posted, join the site, but then only use us for traffic. Hopefully this time helps them understand the difference between a symbiotic and parasitic relationship. The second adjustment is that the vibecoding tag is now marked as inactive. It still appears on old stories but can't be applied to new ones. From my perspective, the tag was overloaded with six differing responsibilities: First, it was the tag which was trying to capture the discussions related to the use and implementation of AI/LLM tools. Second, it was a marker for content which is partially related to AI/LLM tools, tooling or companies. Third, it was a marker for content which includes a discussion on or output from AI/LLM tools in a part of a larger work. Fourth, it was a marker for content which was generated using AI/LLM tools. Fifth, it was being used in competition to the spam flag, for really low-quality content which was generated via AI/LLM tools but without apparent significant human authorship. Sixth, it was being used as a tag of shame by people who really dislike AI/LLM tools and used it to insult people at every passing mention. The last couple years have been the biggest upheaval in the field for decades. While it's acceptable, within limits, to express frustration towards circumstance or technology, it's not acceptable to direct that behavior towards individuals whether they be members of the community or not. Other people can't be your punching bags and Lobsters can't be your boxing ring.  That's not acceptable . While `vibecoding` is no longer an active tag, we still feel that a subset of the tooling related discussions are relevant to the site. While this is reaching far back into the annals of computing history, tools like  compilers , databases , testing , and vcs had similar points of consternation and concern when they were introduced. I'm not going to claim that I'm able to guess how the industry is going to shape up, but my gut feeling is that but my gut feeling is that it's going to be closer to something like we've seen with systemd than compilers. This new tag `ai-tooling` covers \"The design, ux, development of AI/LLM-powered tools themselves\". As a fun addendum, there's a variant of Maslow’s Hierarchy of Needs which exist for websites, we kinda fell on the wrong side of that trying to migrate the site and get this out on a Saturday. Whoops! Thanks, 355E3B",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
+      "summary": "Hey folks, I've been having to perform\u00a0an increasing number of moderation actions surrounding the vibecoding tag and AI/LLM related content. I started reading Lobsters because it had the most interesting viewpoints related to computing. During that time, I've found that this community is at it's best when it's trying to, in good faith, help others grow. In lieu of a larger and more rambling discussion on this point, we would like to try two changes encourage that behavior again and re-focus topicality around ensuring that\u00a0content submitted to the site should, at a minimum, be respectful of a reader's time and\u00a0intelligence.\u00a0 The first adjustment is two updates to the about page, which try to provide a bit more clarity in what we consider topical and what constitutes self promotion: Intro: Lobsters is a computing-focused community centered around discussing links. Our goal is\u00a0to learn, craft, collaborate, and share interesting viewpoints. The administrator is Peter Bhat Harkins (\"pushcx\"), contact him or another moderator with any support issues. Lobsters was launched on July 3rd, 2012 by joshua stein \u00a0(who is no longer running it, so please quit bugging him with site stuff) with careful design touches to encourage a healthy community: At this risk of writing a mission statement, it seemed worth explaining what the site is and hopes to be to visitors from the first sentence of /about. (This original text came from an intro post .) Then the Guidelines: Topicality: Lobsters is focused pretty narrowly on computing; tags like art don't imply every piece of art is on-topic.\u00a0 Some rules of thumb for great stories to submit: Will this improve the reader's next program? Will it deepen their understanding of their last program? Will it be more interesting in five or ten years? Is this compelling material that will seed a discussion, or is it just an artifact? Pending an upcoming deploy, we no longer allow submissions which are code repositories. While, at first blush, this may seem odd for a community which is primarily centered around programming but it does eliminate the bulk of the \"low effort, self promotional\" submissions we've been seeing on the site. We've also found that being dropped into a new codebase doesn't start discussions because the reader has to have enough subject matter experience to immediately recognize what's novel or otherwise worth talking about. Instead, we are more interested in content around code bases which cover why it was created, the purpose it serves, the challenges overcome, and the reasons why it's a useful artifact in the ecosystem. Some things that are off-topic here but popular on larger, similar sites: entrepreneurship; management; careers; news about companies that employ a lot of programmers; investing; world events; anthropology; self-help; personal productivity systems; last-resort customer service requests via public shaming; \"I wanted to see what this site's amazing users think about this off-topic thing\"; and defining the single morally correct economic and political system for the entire world when we can't even settle tabs vs. spaces. We're listing \"careers\" as off-topic to try to head off posts about interviewing, promotions, burnout, and farming . We have the\u00a0 job tag because it's nice to help people connect to jobs, but the topic of getting a good job, weaving jobs into a career over your lifetime, and work is a different thing than the actual programming itself. Self-promotion: It's great to have authors participate in the community, but we do not want the community to be exploited as a write-only tool for product announcements or driving traffic to their work. As a rule of thumb, self-promotional activity should be less than a quarter of one's stories and comments in the last year.\u00a0New users ( first 70 days ) are not allowed to submit self-promo. This is how we've been enforcing the rule for a while, better to be explicit. It's unfortunately common that authors see their work posted, join the site, but then only use us for traffic. Hopefully this time helps them understand the difference between a symbiotic and parasitic relationship. The second adjustment is that the vibecoding tag is now marked as inactive. It still appears on old stories but can't be applied to new ones. From my perspective, the tag was\u00a0overloaded with six differing responsibilities: First, it was the tag which was trying to capture the discussions related to the use and implementation of AI/LLM tools. Second, it was\u00a0a marker\u00a0for content which is partially related to AI/LLM tools, tooling or companies. Third, it was\u00a0a marker for content which includes a discussion on or output from AI/LLM tools in a part of a larger work. Fourth, it was\u00a0a marker for content which was generated using AI/LLM tools. Fifth, it was being used in competition to the spam flag, for really low-quality content which was generated via AI/LLM tools but without apparent significant human authorship. Sixth, it was being used as a tag of shame by people who really dislike AI/LLM tools and used it to insult people at every passing mention. The last couple years have been the biggest upheaval in the field for decades.\u00a0While it's acceptable, within limits, to express frustration towards circumstance or technology, it's not acceptable to direct that behavior towards individuals whether they be members of the community or not. Other people can't be your punching bags and Lobsters can't be your boxing ring.\u00a0 That's not acceptable . While `vibecoding` is no longer an active tag, we still feel that a subset of the tooling related discussions are relevant to the site. While this is reaching far back into the\u00a0annals of computing history, tools like\u00a0 compilers , databases , testing , and vcs had similar points of consternation and concern when they were introduced. I'm not going to claim that I'm able to guess how the industry is going to shape up, but my gut feeling is that but my gut feeling is that it's going to be closer to something like we've seen with systemd than compilers. This new tag `ai-tooling` covers\u00a0\"The design, ux, development of AI/LLM-powered tools themselves\". As a fun addendum, there's a variant of\u00a0Maslow\u2019s Hierarchy of Needs which exist for websites, we kinda fell on the wrong side of that trying to migrate the site and get this out on a Saturday. Whoops! Thanks, 355E3B",
       "alsoReportedBy": []
     },
     {
@@ -236,6 +244,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Uber\u2019s AI infra, from the inside",
+      "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+      "source": "Pragmatic Engineer",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Building resilient AI-powered software, and planning for when things go wrong",
       "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
       "source": "Pragmatic Engineer",
@@ -245,8 +262,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-      "url": "https://github.com/golang/go/issues/82345",
+      "title": "Demographic \"Doomsday\" Misses the Mark",
+      "url": "https://www.science.org/doi/10.1126/science.ael8752",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -254,22 +271,24 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
-      "url": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
-      "source": "Lobsters",
+      "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
+      "url": "https://github.com/tywr/Nordwand-Mono",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they&#8217;re not going to be in super wide use just yet.",
+      "alsoReportedBy": [
+        "Latent Space"
+      ]
     },
     {
       "title": "My obituary for programming",
@@ -326,15 +345,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
       "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
       "source": "Import AI",
@@ -353,13 +363,15 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Inline rendering with document​.currentScript",
+      "title": "Inline rendering with document\u200b.currentScript",
       "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith( new Date().getFullYear())</script> If you define a shortcut function like this: $=(...n)=>document.currentScript.replaceWith(...n) You get a tiny template language: The year is <script>$(new Date().getFullYear())</script> Tags: javascript",
+      "summary": "Inline rendering with document\u200b.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith( new Date().getFullYear())</script> If you define a shortcut function like this: $=(...n)=>document.currentScript.replaceWith(...n) You get a tiny template language: The year is <script>$(new Date().getFullYear())</script> Tags: javascript",
       "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 178.1,
+  "voice": "af_heart"
 }
