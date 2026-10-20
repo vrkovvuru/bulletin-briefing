@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-20T02:41:34.086216Z",
+  "generated": "2026-10-20T04:41:48.402403Z",
   "summaries": [
+    {
+      "summary": "Fourteen people died when an illegal gold mine collapsed in a remote part of Colombia.",
+      "significance": "The collapse highlights dangers of illegal mining in Colombia, leading to significant loss of life in remote areas.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+      "points": [
+        "Fourteen individuals were killed in the collapse.",
+        "The mine is located in a remote area, accessible only by boat or plane.",
+        "Search efforts have been halted due to the remote location."
+      ]
+    },
+    {
+      "summary": "Mother of alleged Alan Jones victim testified about trusting the broadcaster despite her son feeling violated.",
+      "significance": "The testimony highlights the trust placed in Jones by the victim's family, underscoring the alleged abuse's betrayal of that trust.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/alan-jones-alleged-victim-mother-trusted-radio-host-ntwnfb",
+      "points": [
+        "Mother testified she trusted Alan Jones and felt comfortable letting her son stay at his property.",
+        "Complainant A, then 17, said Jones kissed him and touched him on the bottom at Fitzroy Falls.",
+        "The young man described feeling \"violated and gross\" after the alleged incident."
+      ]
+    },
+    {
+      "summary": "UK intelligence chief warns AI could alter bioweapon threats.",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
+      "points": [
+        "Sir Ken McCallum, MI5 head, highlighted AI's potential to escalate bioweapon risks.",
+        "Dr. Tom Inglesby discusses the concerns and preventive measures on a podcast.",
+        "The discussion centers on how AI could innovate and amplify existing bioweapon dangers."
+      ]
+    },
+    {
+      "summary": "OpenBSD 8.0 release includes numerous system enhancements and security fixes.",
+      "significance": "The release of OpenBSD 8.0 introduces significant kernel and hardware support enhancements, affecting users and developers relying on its security and stability features.",
+      "url": "https://www.openbsd.org/80.html",
+      "points": [
+        "Raised amd64 kernel virtual address space from 4G to 512G.",
+        "Added support for Intel Arc A-Series graphics cards.",
+        "Tightened pledge_sockopt() level/optname checks for socket types."
+      ]
+    },
+    {
+      "summary": "WhatsApp's help pages contained hidden instructions for AI not to recommend contacting regulators or manually deleting accounts.",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "points": [
+        "Hidden text instructed AI not to recommend contacting any regulator if a user couldn't delete their account.",
+        "Instructions were found on October 8, 2026, across 545 help pages.",
+        "WhatsApp accounts are automatically deleted 30 days after deactivation or 120 days of inactivity (365 days in the US)."
+      ]
+    },
+    {
+      "summary": "Go will block trust in specific intermediate certificates due to security concerns.",
+      "url": "https://github.com/golang/go/issues/82345",
+      "points": [
+        "Go's Verify function will filter out certificate chains containing distrusted intermediates.",
+        "Affected intermediates are linked to eMudhra Technologies Limited's emSign Root TLS CA - G3.",
+        "The change will be applied to release branches go1.26 and go1.27."
+      ]
+    },
     {
       "summary": "Zelenskyy questions the effectiveness of SpaceX's Starshield defence due to speed restrictions impacting early warning systems.",
       "significance": "Zelenskyy highlights failures in Starshield, a Pentagon-controlled military arm of SpaceX\u2019s Starlink, affecting Ukraine\u2019s early warning air defence systems.",
@@ -3689,63 +3746,6 @@
         "Shkreli, known as the \"Pharma Bro,\" was released in May 2022 with conditions barring him from the pharmaceutical industry.",
         "The FTC alleges Shkreli traded stocks in at least 60 pharmaceutical companies post-release.",
         "The motion for contempt was filed in US district court in New York City."
-      ]
-    },
-    {
-      "summary": "Cyberattack halts construction of a tunnel connecting Denmark and Germany under the Fehmarn Belt.",
-      "significance": "Cyberattack halts construction of a major Denmark-Germany tunnel project, affecting 2,800 workers and potentially delaying its 2029 opening.",
-      "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
-      "points": [
-        "Cyberattack immobilized workers' ID cards, vessels, cranes, and platforms.",
-        "FLC consortium employs around 2,800 people from multiple European countries.",
-        "Tunnel project, valued at \u20ac7 billion, faces possible delays beyond the 2029 opening date."
-      ]
-    },
-    {
-      "summary": "Developer claims Ente Locker copied FairScan's code without proper attribution.",
-      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
-      "points": [
-        "Ente acknowledged use of FairScan's segmentation model in a September 16 email.",
-        "Ente claimed code was \"standard\" and was fully rewritten after receiving complaints.",
-        "Developer spent significant effort on FairScan, including researching and testing techniques."
-      ]
-    },
-    {
-      "summary": "Pope Leo admitted to Rome hospital for surgery to remove a small lung growth discovered during a check-up.",
-      "significance": "The Pope's hospitalization for lung growth removal highlights unexpected health challenges faced by the Pope, affecting the Vatican's operations and global Catholic community's concerns.",
-      "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
-      "points": [
-        "Surgery to determine if the nodule is malignant will take place on Tuesday afternoon.",
-        "Pope Leo, 71, announced the discovery during his angelus prayer on Sunday.",
-        "The Vatican described the discovery as unexpected, calling it \"a bolt out of the blue."
-      ]
-    },
-    {
-      "summary": "Report recommends British and Irish governments negotiate with Northern Ireland's paramilitary groups for their disbandment.",
-      "significance": "The report suggests a timely chance for governments to formally engage paramilitary groups in Northern Ireland for disbandment.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/13/british-irish-negotiate-paramilitary-disbandment-northern-ireland",
-      "points": [
-        "Report identifies a \"window of opportunity\" for formal negotiations.",
-        "Process involves both loyalist and republican paramilitary groups.",
-        "Conditions must be met for the establishment of a transition mechanism."
-      ]
-    },
-    {
-      "summary": "Texas man, Miguel Parra-Hernandez, injured by ICE vehicle during chase, never met person agents were pursuing.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/texas-man-struck-ice-vehicle",
-      "points": [
-        "Miguel Parra-Hernandez, 48, suffered hip and leg injuries in Houston.",
-        "ICE vehicle struck Parra-Hernandez while chasing two other men.",
-        "Parra-Hernandez remains in ICE custody following the incident."
-      ]
-    },
-    {
-      "summary": "MPs claim Serco failed to tag hundreds of early-release prisoners, including violent offenders, in England and Wales.",
-      "url": "https://www.theguardian.com/society/2026/oct/13/early-release-prisoners-england-wales-tags-serco",
-      "points": [
-        "Clive Efford states Serco couldn't source enough tags for released prisoners.",
-        "Police and probation officers struggle with new influx of 650 monitored offenders.",
-        "Government promised \"toughest supervision in British history\" for early releases."
       ]
     }
   ]
