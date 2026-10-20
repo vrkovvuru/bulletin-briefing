@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-20T00:42:43.808419Z",
+  "generated": "2026-10-20T02:41:34.086216Z",
   "summaries": [
+    {
+      "summary": "Zelenskyy questions the effectiveness of SpaceX's Starshield defence due to speed restrictions impacting early warning systems.",
+      "significance": "Zelenskyy highlights failures in Starshield, a Pentagon-controlled military arm of SpaceX\u2019s Starlink, affecting Ukraine\u2019s early warning air defence systems.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss",
+      "points": [
+        "Ukrainian President Volodymyr Zelenskyy highlights issues with Starshield.",
+        "Starshield, controlled by the Pentagon, faces speed restrictions affecting its functionality.",
+        "US government has not provided reasons for imposing these restrictions."
+      ]
+    },
+    {
+      "summary": "Independent MP Helen Haines was allegedly rammed twice by a car that made a U-turn near her office in Wangaratta.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+      "points": [
+        "Helen Haines is in critical yet stable condition at Melbourne\u2019s Alfred hospital.",
+        "The incident occurred near Helen Haines' electorate office in Wangaratta, Victoria.",
+        "Eyewitnesses suggest the attack may have been targeted against the MP."
+      ]
+    },
+    {
+      "summary": "Author Sally Rooney stops supplying books to UK due to terrorism law risks.",
+      "significance": "Terrorism laws prevent Sally Rooney's books from being sold in the UK, affecting her readers and the freedom of authors supporting proscribed groups.",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/20/why-terrorism-laws-stopped-sally-rooney-selling-books-in-the-uk-podcast",
+      "points": [
+        "Rooney will no longer supply her books to UK bookshops to avoid prosecution.",
+        "Her decision follows her announcement to support Palestine Action with royalties.",
+        "Over thousands have been arrested in the UK for supporting the proscribed group."
+      ]
+    },
+    {
+      "summary": "Report reveals failures in Northern Territory\u2019s child protection leading to the death of five-year-old Kumanjayi Little Baby.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/kumanjayi-little-baby-damning-report-finds-heartbreaking-child-protection-failures-before-five-year-olds-death-ntwnfb",
+      "points": [
+        "Report details \"confronting\" and \"heartbreaking\" failures before Kumanjayi's death.",
+        "Kumanjayi, a Warlpiri girl, was found dead in April in Alice Springs.",
+        "Northern Territory government announced reforms in May following her death."
+      ]
+    },
+    {
+      "summary": "Police officer Beau Lamarre-Condon had surgery after allegedly murdering Jesse Baird and Luke Davies but before disposing of their bodies.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/beau-lamarre-condon-surgery-hospital-after-alleged-double-murder-prior-disposing-bodies-ntwnfb",
+      "points": [
+        "Lamarre-Condon, 31, allegedly shot Baird and Davies in Paddington on February 19, 2024.",
+        "Surgery occurred at St Vincent\u2019s hospital two days post-alleged murders.",
+        "Lamarre-Condon is accused of attempting to dispose of the victims' bodies post-operation."
+      ]
+    },
+    {
+      "summary": "A bug in signed integer division in the Futhark compiler is fixed, but it makes all divisions slower.",
+      "url": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
+      "points": [
+        "The bug affects 0.000000000000000000542% of cases, specifically with 32-bit integers.",
+        "The fix involves using unsigned arithmetic to avoid undefined behavior in C.",
+        "Performance cost is a branch on every signed division, impacting throughput."
+      ]
+    },
     {
       "summary": "Italy sends 500 troops to Milan as protests over poor services and rising costs lead to looting and vandalism.",
       "significance": "The deployment of troops in Milan follows days of protests over poor public services and rising costs, affecting the city's luxury shops and public safety.",
@@ -3690,60 +3746,6 @@
         "Clive Efford states Serco couldn't source enough tags for released prisoners.",
         "Police and probation officers struggle with new influx of 650 monitored offenders.",
         "Government promised \"toughest supervision in British history\" for early releases."
-      ]
-    },
-    {
-      "summary": "Kimberly Guilfoyle resigns as US ambassador to Greece due to allegations of misconduct.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down",
-      "points": [
-        "Guilfoyle allegedly sought a bill payment from a Trump donor for access to officials.",
-        "The White House requested her resignation on Tuesday.",
-        "Guilfoyle was one of Trump\u2019s longest-standing political allies."
-      ]
-    },
-    {
-      "summary": "UK bird populations hit record lows, with nearly half of species declining since 1970.",
-      "url": "https://www.theguardian.com/environment/2026/oct/13/uk-bird-populations-fall-to-lowest-level-on-record",
-      "points": [
-        "Average populations of 132 native breeding species fell by 19% between 1970 and 2025.",
-        "Farmland birds and seabirds experienced the most significant declines recently.",
-        "This marks the lowest level of bird populations since records began."
-      ]
-    },
-    {
-      "summary": "Rates of sexual assault against Australian children have risen sharply since the pandemic, contrary to researchers' expectations.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/family-and-sexual-violence-rates-against-australian-children-rise-sharply-as-researchers-warn-of-manosphere",
-      "points": [
-        "Sexual assaults on boys increased by 15.7%.",
-        "Researchers were surprised as they expected rates to have fallen.",
-        "Study authors attribute the rise to factors including income inequality and increased awareness."
-      ]
-    },
-    {
-      "summary": "Argon, a new intelligence model, is enhancing various fields including software engineering, quantum chemistry, and 3D modeling with its advanced capabilities.",
-      "significance": "Argon accelerates complex problem-solving in software engineering, quantum chemistry, and cybersecurity, significantly impacting efficiency and discovery for researchers and engineers.",
-      "url": "https://deepmind.google/models/gemini/",
-      "points": [
-        "Argon helped the Chrome team refactor a ~6 million line codebase, completing months of work in weeks.",
-        "Using Argon, xTB achieved up to 2.3x faster molecular structure predictions and 1.8x faster conformer searches.",
-        "Argon autonomously created a playable miniature racing game from real desk images, using Blender and Three.js."
-      ]
-    },
-    {
-      "summary": "Apple introduces HomeView, a smart home device with Siri AI, customizable faces, and advanced audio-visual features for entertainment and convenience.",
-      "url": "https://www.apple.com/apple-homeview/",
-      "points": [
-        "Siri AI adapts to each user, offering personalized assistance and protecting privacy.",
-        "Features a 7-inch Liquid Retina display with brightness ranging from 500 nits to 0.3 nits.",
-        "Includes a 12MP Center Stage camera and four beamforming microphones for clear FaceTime calls."
-      ]
-    },
-    {
-      "summary": "Thunderbird is developing a native iOS email app with a focus on privacy, seamless cross-device experience, and community input.",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "points": [
-        "It includes background sync to keep the inbox updated while preserving battery life.",
-        "Thunderbird aims for a clean, modern design with an experimental feature flag system for community contributions."
       ]
     }
   ]
