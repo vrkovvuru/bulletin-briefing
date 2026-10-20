@@ -1,6 +1,71 @@
 {
-  "generated": "2026-10-20T18:41:15.512945Z",
+  "generated": "2026-10-20T20:42:05.306838Z",
   "summaries": [
+    {
+      "summary": "Midterm elections may reflect public opposition to tech companies, with many Americans wanting a pause on AI development.",
+      "significance": "The midterms will gauge public sentiment against tech influence, reflecting growing American concern over AI's impact.",
+      "url": "https://www.theguardian.com/global/2026/oct/19/midterm-elections-tech-broligarchs",
+      "points": [
+        "Sam Altman suggested accepting \"bad things\" for AI benefits.",
+        "Surveys indicate most Americans want to pause AI development."
+      ]
+    },
+    {
+      "summary": "French police use violent methods to repress public dissent, unlike their European counterparts who focus on de-escalation.",
+      "url": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots",
+      "points": [
+        "French police employ teargas and baton charges against protesters.",
+        "Methods include stun grenades to disperse crowds.",
+        "Contrast with European neighbors who prioritize crowd containment and de-escalation."
+      ]
+    },
+    {
+      "summary": "DOJ's list of suspected non-citizens in California includes many born in the US, per LA officials.",
+      "significance": "The story questions the reliability of the DoJ's list of suspected non-citizens, affecting the validity of their citizenship verification process in California.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/doj-non-citizens-la",
+      "points": [
+        "List contains 20,000 people in California.",
+        "DOJ gave election officials a 48-hour deadline to verify citizenship.",
+        "California officials refused to segregate ballots, DOJ sued."
+      ]
+    },
+    {
+      "summary": "Senior Reform UK official questioned legality of large donations from billionaires before £72m was given to the party.",
+      "url": "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
+      "points": [
+        "James Orr, Reform UK\u2019s head of policy, raised doubts on donations' legality.",
+        "Donations from Christopher Harborne and Ben Delo amounted to £72m.",
+        "Concerns were voiced three months prior to the substantial financial contribution."
+      ]
+    },
+    {
+      "summary": "Permit Pending is a city-building game where players must navigate through approvals and objections to develop their city.",
+      "url": "https://permit.petercai.com/",
+      "points": [
+        "Players face hearings, reviews, objections, lawsuits, and appeals for each project.",
+        "Economic decisions like building a tech boom can lead to political backlash from residents.",
+        "The game simulates real-world dynamics, including voter anger and political clout, with no clear win condition."
+      ]
+    },
+    {
+      "summary": "A Command & Conquer-style RTS game called Battle Drones was developed with audio-based multiplayer and went through 12 major iterations.",
+      "significance": "Battle Drones introduces an innovative audio-based multiplayer feature for RTS games, enabling nearby devices to sync game states through sound.",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "points": [
+        "The game supports multiplayer between nearby devices using audio synchronization.",
+        "It includes 9 buildings, 7 ground vehicles, 6 aerial vehicles, and 3 infantry units as 3D models.",
+        "After 321 commits by coding agents, the game now features six maps across five biomes and a random map generator."
+      ]
+    },
+    {
+      "summary": "SF Compute, a programmable data center, enables trading of GPU hours and physical settlement, attracting acquisitions from Cisco and VMware.",
+      "url": "https://www.latent.space/p/sfcompute2",
+      "points": [
+        "Cisco paid $600m and VMware offered $1.3B for SF Compute.",
+        "SF Compute's technology separates the control plane from the data plane, revolutionizing GPU management.",
+        "The company expanded from subleasing a cluster to building cloud-like operating capacity for compute trading."
+      ]
+    },
     {
       "summary": "Trump claims he will have spent $400m supporting Republicans in the midterms, while a survey highlights a growing empathy gap.",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
@@ -3679,73 +3744,6 @@
         "Pulsar aims to help programmers understand, navigate, and modify systems while staying close to the code.",
         "The presentation at ESUG 2026 showcased Pulsar's current capabilities and future directions.",
         "Pulsar is described as a work in progress but already usable, with feedback encouraged."
-      ]
-    },
-    {
-      "summary": "Father campaigns for social media safety after son's suicide following online scam.",
-      "significance": "The story highlights the fatal consequences of online scams on youth and a father's advocacy for social media safety measures.",
-      "url": "https://www.theguardian.com/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist",
-      "points": [
-        "Gavin Guffey, 17, targeted by 'sextortionist' on Instagram in July 2022.",
-        "Incident occurred in Rock Hill, South Carolina, where father Brandon was running for state House.",
-        "Brandon has spent four years advocating for social media companies to better protect young users."
-      ]
-    },
-    {
-      "summary": "Gary Kemp bought Brian Epstein's address book at auction, using it to write about Epstein's life and the 1960s.",
-      "url": "https://www.theguardian.com/music/2026/oct/14/beatles-brian-epstein-gary-kemp-spandau-ballet",
-      "points": [
-        "Kemp paid £10k for Epstein\u2019s address book at an auction.",
-        "The address book contained 404 entries, many handwritten by Epstein.",
-        "The book catalogued Epstein\u2019s network in 1967, the year of his death."
-      ]
-    },
-    {
-      "summary": "Final season of Babylon Berlin TV series revisits Germany's descent into Nazism in 1933.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/in-germany-the-mood-is-dark-but-the-weimar-narrative-is-a-far-right-trap",
-      "points": [
-        "TV series Babylon Berlin, by ARD, spans over 10 years.",
-        "Final season starts with Hitler becoming Reichskanzler in January 1933.",
-        "Show depicts Germany's move towards Nazism, contrasting with current confidence."
-      ]
-    },
-    {
-      "summary": "Report highlights how council red tape, including a $20m insurance demand, hinders public protests in parks.",
-      "significance": "Council red tape, including demands for excessive insurance, hinders public protest rights, as highlighted by a report from ADN and Deakin University.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/councils-making-protesters-purchase-public-liability-insurance",
-      "points": [
-        "Regional NSW council demanded $20m public liability insurance for a park rally.",
-        "Report by ADN and Deakin University's Centre for Law as Protection raised concerns.",
-        "Some councils impose financial penalties for public gatherings without permits."
-      ]
-    },
-    {
-      "summary": "Family mourns Jayda Allen Bonner, a 21-year-old Indigenous woman found dead in Melbourne; a man is charged with her murder.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/family-mourn-jayda-bonner-indigenous-woman-found-dead-melbourne-ntwnfb",
-      "points": [
-        "Jayda Allen Bonner, 21, found dead in Carlton apartment on Saturday at 1:45am.",
-        "Police charged a 31-year-old man with her alleged murder.",
-        "Family describes Jayda as a \u201cvibrant, beautiful young girl,\u201d expressing profound grief."
-      ]
-    },
-    {
-      "summary": "The Grace Hopper Celebration in Anaheim, CA, has been cancelled due to insufficient funds from registrations and sponsorships.",
-      "significance": "The cancellation of the Grace Hopper Celebration affects attendees, sponsors, and the broader community of women technologists, disrupting plans and financial commitments.",
-      "url": "https://anitab.org/press-release",
-      "points": [
-        "Registration and sponsorship commitments fell below required levels for operating expenses.",
-        "Attendees should cancel travel and hotel reservations independently.",
-        "AnitaB.org will communicate with registrants about refunds by October 26."
-      ]
-    },
-    {
-      "summary": "Anger over the removal of 130 million names from electoral rolls has sparked protests against India's Hindu nationalist government.",
-      "significance": "The story highlights a crisis sparked by the removal of millions from voter rolls, affecting citizens' rights and challenging the Hindu nationalist government.",
-      "url": "https://www.theguardian.com/world/2026/oct/14/india-protests-election-commission-gyanesh-kumar",
-      "points": [
-        "130 million names were deleted from India's electoral rolls.",
-        "Shahida Fakir, born in West Bengal, had her voting rights revoked despite presenting extensive documentation.",
-        "The crisis is a significant challenge for Prime Minister Narendra Modi\u2019s government."
       ]
     }
   ]
