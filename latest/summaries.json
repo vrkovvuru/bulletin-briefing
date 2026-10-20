@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-20T20:42:05.306838Z",
+  "generated": "2026-10-20T22:41:07.309307Z",
   "summaries": [
+    {
+      "summary": "UK to deploy RAF Typhoon fighters to protect Saudi Arabian cities and infrastructure from Houthi attacks.",
+      "significance": "UK deployment of fighter jets to Saudi Arabia marks a significant military intervention in the Yemen conflict, protecting Saudi cities and infrastructure from Houthi attacks.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "points": [
+        "Andy Burnham approved the most significant military mission as prime minister.",
+        "RAF pilots will attempt to shoot down Houthi missiles and drones.",
+        "Operation aims to defend Saudi airports and oil facilities from attacks."
+      ]
+    },
+    {
+      "summary": "Kyle Kennedy, granddaughter of Robert F Kennedy, died at 42.",
+      "significance": "Kyle Kennedy's death affects the Kennedy family and her advocacy community for disability rights.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/kyle-kennedy-dead-rfk",
+      "points": [
+        "Died on September 21 at her home in Westwood, Massachusetts.",
+        "Daughter of Michael Kennedy, who died in 1997, and Victoria Gifford Kennedy.",
+        "Advocated for disability rights following a severe spinal cord injury."
+      ]
+    },
+    {
+      "summary": "Trump suggests he could arbitrate decisions in a new DOJ whistleblower program rewarding fraud tipsters.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-doj-anti-fraud-tip",
+      "points": [
+        "Trump proposed to act as arbitrator in the DOJ's new anti-fraud whistleblower scheme.",
+        "The program awards compensation to tipsters leading to convictions or federal enforcement.",
+        "VP JD Vance, leading the White House\u2019s fraud elimination taskforce, was present at the announcement."
+      ]
+    },
+    {
+      "summary": "A programmer expecting his first child reflects on the purpose of education in the age of AI.",
+      "url": "https://stevekrouse.com/ends",
+      "points": [
+        "Neil Postman's 1995 book provided insight on the changing landscape of education.",
+        "The author previously predicted MOOCs would revolutionize education but now questions the staying power of schools.",
+        "Education's purpose has shifted over centuries, from religious instruction to economic survival, adapting to societal changes."
+      ]
+    },
     {
       "summary": "Midterm elections may reflect public opposition to tech companies, with many Americans wanting a pause on AI development.",
       "significance": "The midterms will gauge public sentiment against tech influence, reflecting growing American concern over AI's impact.",
@@ -3708,42 +3746,6 @@
         "Iosevka allows fitting more columns within the same screen width compared to competitors.",
         "The font offers an Extended version for more space between characters.",
         "Iosevka supports advanced OpenType features, including long arrows and horizontal bars."
-      ]
-    },
-    {
-      "summary": "PostgreSQL extension PRISM offers faster vector search than pgvector's IVFFlat and HNSW.",
-      "url": "https://github.com/timescale/pg_vectorsearch",
-      "points": [
-        "PRISM is 100 times faster on a 100-million-vector dataset with a quarter of the memory.",
-        "Uses hierarchical centroid tree and RaBitQ encoding for efficient vector partitioning and filtering.",
-        "Two usage methods: PLAIN for inline vectors and EXTERNAL (default) for vectors over 2 kB."
-      ]
-    },
-    {
-      "summary": "Mozilla introduces Firefox Enterprise to help institutions reduce technological dependency and enhance control over their browser infrastructure.",
-      "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
-      "points": [
-        "Firefox Enterprise pairs the Firefox browser with a management console for better control.",
-        "Built on Gecko, the only major browser engine outside Google and Apple.",
-        "Initial sales focus on France, Germany, Austria, and Switzerland."
-      ]
-    },
-    {
-      "summary": "Amazon's pricing structure and fees force sellers to raise prices across the internet, impacting consumer costs globally.",
-      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "points": [
-        "FTC and 17 US states sued Amazon in 2023 for maintaining a monopoly by punishing sellers who offer lower prices elsewhere.",
-        "Amazon's fees, including a 15% commission, fulfillment, and advertising costs, can total up to half of a seller's sales.",
-        "Sellers must raise prices on their own websites to match Amazon prices to avoid losing sales, affecting prices globally."
-      ]
-    },
-    {
-      "summary": "A new Smalltalk IDE called Pulsar was presented at ESUG 2026, focusing on aiding programmers in understanding and navigating systems.",
-      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-      "points": [
-        "Pulsar aims to help programmers understand, navigate, and modify systems while staying close to the code.",
-        "The presentation at ESUG 2026 showcased Pulsar's current capabilities and future directions.",
-        "Pulsar is described as a work in progress but already usable, with feedback encouraged."
       ]
     }
   ]
