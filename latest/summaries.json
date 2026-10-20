@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-20T14:41:59.260350Z",
+  "generated": "2026-10-20T16:42:12.544991Z",
   "summaries": [
+    {
+      "summary": "Google Cloud outage affected UK banks and websites, causing service disruptions.",
+      "significance": "This story highlights the critical dependency of major UK financial and business services on Google Cloud infrastructure, affecting thousands of users during a significant outage.",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Revolut, Lloyds Bank, and HSBC confirmed disruptions to their services.",
+        "Over 1,500 reports of issues affecting Revolut services were flagged.",
+        "Google Cloud blamed a \"power event\" and stated services were recovering."
+      ]
+    },
+    {
+      "summary": "A man with tech background smashed his smart TV due to frustration over constant updates and intrusive features.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy",
+      "points": [
+        "Dan, a 71-year-old with a master\u2019s in computer science, threw a rock through his smart TV.",
+        "The TV was downloading its third update in three days, which frustrated Dan.",
+        "Dan dislikes the TV's push for paid subscriptions when he only uses it for basic functions."
+      ]
+    },
+    {
+      "summary": "Alberta voters rejected a referendum proposal to leave Canada, supporting unity.",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "points": [
+        "76% of voters supported staying in Canada.",
+        "Nearly 1.9 million votes were counted.",
+        "The result is a victory for Canadian unity supporters, including Prime Minister Mark Carney."
+      ]
+    },
+    {
+      "summary": "Canadian man convicted of animal cruelty for taking a flamingo named Peachy from a Las Vegas hotel.",
+      "significance": "The conviction highlights legal consequences for acts of animal cruelty, even those stemming from drunken foolishness, affecting tourists and animal welfare standards.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+      "points": [
+        "Mitchell Fairbarn found guilty of the incident.",
+        "Prosecutors claim it was a malicious prank.",
+        "Defense argues it was a drunken act without intent to harm."
+      ]
+    },
+    {
+      "summary": "A coyote roaming Atwater Village for months attacked a one-year-old boy, escalating resident tensions.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
+      "points": [
+        "Coyote nicknamed Wiley attacked a one-year-old boy over the weekend.",
+        "The coyote had been seen frequently in Atwater Village for months.",
+        "Some residents fed the coyote, while others feared its familiarity."
+      ]
+    },
+    {
+      "summary": "Voxtral 3 introduces advanced voice agent SDK and speech models for real-time, multi-step conversations in over 50 languages.",
+      "significance": "Voxtral 3 introduces advanced voice agent technology, enabling real-time, multilingual, and emotionally adaptive conversations across various applications, enhancing user interaction and workflow automation.",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "points": [
+        "Supports 50+ languages including 24 official EU languages.",
+        "Features emotional adaptability in speech synthesis for 35+ languages.",
+        "Available via Mistral\u2019s EU-hosted API or for self-deployment to ensure data sovereignty."
+      ]
+    },
+    {
+      "summary": "Orkes Conductor 5.3.2 tested, revealing issues with task concurrency and workflow management, now fixed in version 5.5.6.",
+      "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+      "points": [
+        "Orkes released version 5.5.6 to address serious safety issues found in Conductor.",
+        "Testing found frequent concurrent execution and problems with workflow abandonment or premature completion.",
+        "Issues were observed in versions 5.3.2 through 5.5.0-rc2, impacting task execution consistency."
+      ]
+    },
     {
       "summary": "Myanmar's military released rare photos of detained Aung San Suu Kyi after she received gifts from King Charles.",
       "significance": "The story highlights the military's attempt to reduce diplomatic isolation through a gesture involving Aung San Suu Kyi.",
@@ -3680,72 +3746,6 @@
         "Campaign aims to create 10,000 new foster care placements.",
         "Targets adults in their 30s and 40s for recruitment.",
         "Viennetta Basterfield, 67, fostered over 100 children over two decades in west London."
-      ]
-    },
-    {
-      "summary": "Pulse Local is a budgeting app for Mac that keeps user data local and uses AI models downloaded to the user's machine.",
-      "significance": "Pulse Local offers a privacy-focused budgeting solution by keeping user data and AI models locally on the user's machine,不同于其他将数据存储在服务器上的应用。",
-      "url": "https://pulseos.finance",
-      "points": [
-        "It supports various currencies and formats money according to the user's locale.",
-        "Users can purchase a Sync Pass for $29 a year to sync with US banks through Plaid."
-      ]
-    },
-    {
-      "summary": "llm-gemini 0.35 release supports the new Gemini 4 Argon model, detailing its pricing and performance.",
-      "significance": "The release of llm-gemini 0.35 with support for Gemini 4 Argon model affects AI users by offering competitive pricing and improved SVG generation capabilities.",
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "points": [
-        "Argon pricing starts at $2/million input and $10/million output, half the price of Claude Opus 5.5.",
-        "Argon's price doubles on December 1st, aligning with Opus 5.5 pricing.",
-        "Running the benchmark costs $2,407 for Argon, cheaper than OpenAI, Anthropic, and Meta's models."
-      ]
-    },
-    {
-      "summary": "Meta AI releases Muse Wonder, a new advanced model rated equivalent to GPT-6.1 Sol.",
-      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-      "points": [
-        "Muse Wonder is Meta's first Fable class model, according to Artificial Analysis.",
-        "The model offers six reasoning levels: minimal, low, medium, high, xhigh, and max.",
-        "Meta AI releases a new model monthly, with notable improvements each time."
-      ]
-    },
-    {
-      "summary": "UK Prime Minister Andy Burnham to host Ukrainian President Zelenskyy at Downing Street to show support.",
-      "significance": "UK reinforces support for Zelenskyy amid his conflicts with Trump.",
-      "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
-      "points": [
-        "Burnham will host Zelenskyy at No. 10 on Wednesday.",
-        "UK aims to contrast its support with Zelenskyy's issues with Donald Trump.",
-        "Burnham promises support for Ukraine \"for as long as it takes."
-      ]
-    },
-    {
-      "summary": "Florida's governor, Ron DeSantis, confirms six deaths due to Hurricane Isaias and commends local officials for minimizing the storm's impact.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida",
-      "points": [
-        "Six people have died in Florida following Hurricane Isaias.",
-        "Governor Ron DeSantis praised local officials for their efforts.",
-        "Isaias made landfall late Friday, causing power outages for hundreds of thousands."
-      ]
-    },
-    {
-      "summary": "An OpenAI engineer from Saudi Arabia was arrested for allegedly planting a recording device in an executive conference room.",
-      "significance": "The arrest of an OpenAI engineer for allegedly bugging an executive conference room highlights potential security vulnerabilities and risks to confidential information at leading AI firms.",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "points": [
-        "Abdulrahman Alfozan, 35, was arrested on Friday and charged with intercepting oral communications.",
-        "The recording device was found on September 30, concealed in toilet paper behind a television in a conference room.",
-        "Alfozan's spouse's chatbot account submitted queries about building and encrypting a recording device between Sept. 24 and Sept. 30."
-      ]
-    },
-    {
-      "summary": "Anthropic migrated to an in-house version control system, Scion, to handle a tenfold increase in daily code merges.",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "points": [
-        "Anthropic's daily code changes grew from 2,500 in May 2026 to over 30,000 by September.",
-        "The migration to Scion, an in-house system, was completed in five months.",
-        "Scion was designed for online agents, unlike Git, which is decentralized and works offline."
       ]
     }
   ]
