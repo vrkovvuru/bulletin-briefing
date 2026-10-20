@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-20T16:42:12.544991Z",
+  "generated": "2026-10-20T18:41:15.512945Z",
   "summaries": [
+    {
+      "summary": "Trump claims he will have spent $400m supporting Republicans in the midterms, while a survey highlights a growing empathy gap.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+      "points": [
+        "Trump will have spent $400m supporting Republicans in the midterms.",
+        "Survey by PRRI shows a widening empathy gap between Republicans/white evangelicals and other Americans.",
+        "White evangelical Protestants are the only group where a majority (54%) views empathy as potentially dangerous."
+      ]
+    },
+    {
+      "summary": "Jackdaw gasfield gets approval, signaling support for North Sea industry but facing climate campaigner backlash.",
+      "significance": "The approval of the Jackdaw gasfield highlights the conflict between supporting the North Sea industry and maintaining environmental commitments.",
+      "url": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
+      "points": [
+        "Andy Burnham shows commitment to North Sea fossil fuel industry.",
+        "Announcement from Aberdeen on Wednesday follows over a year of deliberations.",
+        "Energy secretary Miatta Fahnbulleh and Chancellor John Healey will make the announcement."
+      ]
+    },
+    {
+      "summary": "Woman alleges Russell Brand raped her at his London home after a gig, court hears.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/russell-brand-told-woman-to-clear-up-mess-after-alleged-rape-court-hears",
+      "points": [
+        "Woman described feeling unable to speak or breathe during the alleged assault.",
+        "Brand reportedly told the woman to \"clear up the mess you\u2019ve made\" after the incident.",
+        "Alleged assault occurred at Brand's London townhouse following him selecting her from a crowd post-gig."
+      ]
+    },
+    {
+      "summary": "Inquest finds five-month-old Esta High may have survived meningitis if tested sooner instead of attributing symptoms to Covid-19.",
+      "url": "https://www.theguardian.com/society/2026/oct/20/baby-who-died-from-meningitis-may-have-been-saved-if-tested-sooner-inquest-finds",
+      "points": [
+        "Esta High died at Leeds General Infirmary in November 2023.",
+        "Doctors initially attributed her symptoms to Covid-19.",
+        "Inquest jury concluded earlier testing for meningitis could have saved her."
+      ]
+    },
+    {
+      "summary": "Google has open-sourced TorchTPU, a PyTorch backend for TPUs, enhancing model execution and distributed training capabilities.",
+      "significance": "Google's open-sourcing of TorchTPU expands PyTorch capabilities on TPUs, affecting developers and researchers using PyTorch for machine learning tasks, enhancing performance and accessibility.",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "points": [
+        "Supports distributed training methods like Data Parallelism and Tensor Parallelism.",
+        "Includes examples for models such as Llama, Qwen, ResNet, DLRM, minGPT, and UNet.",
+        "Installation requires pip with a specific extra-index-url for the CPU version of torch."
+      ]
+    },
     {
       "summary": "Google Cloud outage affected UK banks and websites, causing service disruptions.",
       "significance": "This story highlights the critical dependency of major UK financial and business services on Google Cloud infrastructure, affecting thousands of users during a significant outage.",
@@ -3699,53 +3746,6 @@
         "130 million names were deleted from India's electoral rolls.",
         "Shahida Fakir, born in West Bengal, had her voting rights revoked despite presenting extensive documentation.",
         "The crisis is a significant challenge for Prime Minister Narendra Modi\u2019s government."
-      ]
-    },
-    {
-      "summary": "A 3D computer video reconstruction of the alleged murders of Jesse Baird and Luke Davies was shown to a Sydney jury in Beau Lamarre-Condon's trial.",
-      "significance": "The 3D reconstruction and ballistics evidence presented in the trial of Beau Lamarre-Condon provide crucial visual and forensic details supporting the prosecution's case in the alleged murders.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/beau-lamarre-condon-trial-shown-alleged-murder-scene-reconstruction-bullet-holes-ntwnfb",
-      "points": [
-        "3D video reconstruction of Paddington terrace crime scene shown to jurors.",
-        "Prosecution alleges Beau Lamarre-Condon shot Jesse Baird and Luke Davies with his police service weapon.",
-        "Crime occurred on February 19, 2024, in Baird\u2019s Paddington home."
-      ]
-    },
-    {
-      "summary": "Federal court overturns Tanya Plibersek\u2019s protection order, allowing a controversial goldmine development in New South Wales.",
-      "url": "https://www.theguardian.com/environment/2026/oct/14/federal-court-overturns-tanya-plibersek-protection-order-nsw-goldmine-mcphillamys-blaney",
-      "points": [
-        "Federal court overturned the protection order issued by Tanya Plibersek in 2024.",
-        "Order was challenged by Regis Resources under Indigenous heritage legislation.",
-        "Goldmine development site is located at Blayney in central west New South Wales."
-      ]
-    },
-    {
-      "summary": "Australian high court rules in favor of prisoner Rachel Smith's right to freeze her eggs.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/rachel-smith-will-turn-39-in-prison-the-high-court-says-she-could-freeze-her-eggs-from-behind-bars",
-      "points": [
-        "Rachel Smith, serving a 10-year term for drug trafficking, won her appeal.",
-        "The high court decided egg extraction and storage does not qualify as 'assisted reproductive technology'.",
-        "Smith will turn 39 in prison but can now freeze her eggs while incarcerated."
-      ]
-    },
-    {
-      "summary": "Treasurer Jim Chalmers denies being overruled by PM Anthony Albanese regarding the ATO's credit card payment ban.",
-      "significance": "Prime minister's intervention in tax office credit card payments highlights internal government dynamics and decision-making.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/jim-chalmers-denies-anthony-albanese-rolled-him-over-credit-card-payments-for-tax-bills",
-      "points": [
-        "Chalmers announced new ATO funding to allow credit card payments until the financial year's end.",
-        "Prime Minister intervened to delay the controversial ban a day before interim funding was announced.",
-        "The denial comes after sustained criticism of the government's handling of the credit card payment issue."
-      ]
-    },
-    {
-      "summary": "England launches new foster care recruitment campaign targeting adults aged 30s and 40s to create 10,000 new foster care places.",
-      "url": "https://www.theguardian.com/society/2026/oct/14/fostering-in-crisis-can-flexible-care-models-fix-englands-child-placement-shortfall",
-      "points": [
-        "Campaign aims to create 10,000 new foster care placements.",
-        "Targets adults in their 30s and 40s for recruitment.",
-        "Viennetta Basterfield, 67, fostered over 100 children over two decades in west London."
       ]
     }
   ]
