@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-20T12:41:46.556847Z",
+  "generated": "2026-10-20T14:41:59.260350Z",
   "summaries": [
+    {
+      "summary": "Myanmar's military released rare photos of detained Aung San Suu Kyi after she received gifts from King Charles.",
+      "significance": "The story highlights the military's attempt to reduce diplomatic isolation through a gesture involving Aung San Suu Kyi.",
+      "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles",
+      "points": [
+        "Presidential spokesperson shared photos of Suu Kyi with gardening books and sealed items from King Charles.",
+        "Critics view the gesture as a military tactic to reduce Myanmar's diplomatic isolation.",
+        "King Charles' gifts included books on soil and a sealed diplomatic pouch."
+      ]
+    },
+    {
+      "summary": "Ryanair's CEO predicts European air fares could rise by up to 20% in 2027 due to increased jet fuel costs.",
+      "significance": "The story matters because it predicts a significant increase in European air fares due to rising jet fuel costs, potentially leading to airline bankruptcies and industry consolidation.",
+      "url": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs",
+      "points": [
+        "Michael O\u2019Leary forecasts up to 20% increase in European air fares for 2027.",
+        "Middle East conflict is driving up jet fuel costs.",
+        "O\u2019Leary predicts airline bankruptcies and takeovers due to rising fuel bills."
+      ]
+    },
+    {
+      "summary": "Tommy Robinson allegedly threatened to publish details about a journalist\u2019s family, forcing them to move.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-phoned-journalist-threat-publish-details-family-court",
+      "points": [
+        "Andrew Young claims he received a 'menacing' call from Robinson.",
+        "Threats reportedly made after the 2024 Southport killings.",
+        "Robinson accused of influencing riots following the killings."
+      ]
+    },
+    {
+      "summary": "Apple's iPadOS 27 update broke the ability to keep presentations private while using other apps.",
+      "significance": "This story matters because it highlights a significant usability regression in iPadOS 27 that disrupts teaching and presenting functionalities for iPad users.",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "points": [
+        "Tapping on any app other than the presenting app shows all content on the external display.",
+        "Issue affects teaching and presenting, revealing notes and poll results to students.",
+        "No fix available yet, despite feedback to Apple and discussions on tech podcasts."
+      ]
+    },
+    {
+      "summary": "A website with 50,000 fake statistics has been widely cited by ChatGPT and other platforms over 7 months.",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "points": [
+        "The site, stateglobe.com, generated 50,000 fake statistics in one day and cost about $50 to set up.",
+        "Despite being deindexed by Google, the site has received over 10,000 AI sessions and links from 330+ domains.",
+        "ChatGPT has made over 72,000 requests to the site in the last 30 days, indicating AI's reliance on the data."
+      ]
+    },
+    {
+      "summary": "Mozilla acted swiftly to protect Firefox users after eMudhra's intermediate certificates were compromised.",
+      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+      "points": [
+        "Mozilla blocked 8 compromised eMudhra certificates by 22:59 UTC on October 17.",
+        "Protection was delivered via OneCRL without requiring Firefox updates or restarts.",
+        "Additional updates were planned to remove the root certificate for broader protection."
+      ]
+    },
+    {
+      "summary": "NixOS has simplified the process of setting up and maintaining FreshRSS, a server-side feed aggregator, making it easier and more reliable.",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "points": [
+        "NixOS allows for a hands-off FreshRSS setup with a working configuration in about 15 minutes.",
+        "Outside NixOS, setting up FreshRSS requires managing Apache, mod_php, backups, and a systemd service, which is more complex.",
+        "The author dislikes maintaining side projects but finds NixOS less brittle compared to other configuration management tools like Ansible or CFEngine."
+      ]
+    },
     {
       "summary": "Inquiry finds ban on family visits to UK care homes at pandemic's start had devastating consequences.",
       "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
@@ -3680,72 +3746,6 @@
         "Anthropic's daily code changes grew from 2,500 in May 2026 to over 30,000 by September.",
         "The migration to Scion, an in-house system, was completed in five months.",
         "Scion was designed for online agents, unlike Git, which is decentralized and works offline."
-      ]
-    },
-    {
-      "summary": "A researcher used Python 3.15 to profile a web-edit app, generating flame graphs and heatmaps.",
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-      "points": [
-        "Python 3.15 profiler was used to analyze the \"web-edit\" app.",
-        "GPT-6 Astra Extra High in Codex was utilized for the profiling process.",
-        "Example flame graph and heatmap were generated as part of the research."
-      ]
-    },
-    {
-      "summary": "Podcasts are increasingly influencing political discourse, raising questions about their role in elections.",
-      "significance": "Podcasts are increasingly influencing political discourse, raising questions about their role in elections and the nature of political scrutiny.",
-      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss",
-      "points": [
-        "Cenk Uygur, founder of The Young Turks, discusses the impact of podcasts.",
-        "Emily Jashinsky, host of After Party, questions if podcasts widen political discourse or shield candidates.",
-        "The 2024 US presidential election was dubbed the \u201cpodcast election,\u201d a label now seen as prescient."
-      ]
-    },
-    {
-      "summary": "Extreme weather over the weekend caused flooding and damage to coastal homes in Southern California, affecting areas like Long Beach.",
-      "significance": "The story highlights the destructive impact of extreme weather on coastal communities, affecting homes and infrastructure in California and beyond.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-      "points": [
-        "Boardwalk in Long Beach was destroyed by intense waves and flooding.",
-        "Remnants of Tropical Storm Rachel impacted Southern California, Baja California, and Las Vegas.",
-        "Despite weakening into a post-tropical cyclone, Rachel left significant destruction."
-      ]
-    },
-    {
-      "summary": "PM intervened to delay ATO's credit card ban after a business group head texted him.",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-      "points": [
-        "PM intervened 24 hours after ACCI head Andrew McKellar texted him.",
-        "ATO's credit card ban delay was announced within a day of McKellar's request.",
-        "Business expectations are for slight improvement over the next 12 months."
-      ]
-    },
-    {
-      "summary": "Parents demand investigation after a paedophile nursery worker, Vincent Chan, was cleared to return to work despite raised concerns.",
-      "url": "https://www.theguardian.com/society/2026/oct/13/there-was-a-chance-to-stop-him-parents-react-with-fury-to-paedophile-nursery-worker-revelations",
-      "points": [
-        "Over 50 families are calling for an investigation into Vincent Chan's case.",
-        "Concerns about Vincent Chan were initially raised by a parent in 2021.",
-        "The nursery chain involved is Bright Horizons."
-      ]
-    },
-    {
-      "summary": "Guitoro offers a virtual guitar experience that can be played online using a keyboard or touchscreen, mimicking real guitar playing.",
-      "significance": "Guitoro offers an interactive, realistic virtual guitar experience accessible on various devices, enhancing online guitar learning and practice.",
-      "url": "https://guitoro.com/",
-      "points": [
-        "Offers four types of guitars: steel-string acoustic, classic guitar, electric guitar, and four-string bass.",
-        "Features 51 songs to play along with, including popular tracks like \"Wonderwall\" and \"Let It Be.\"",
-        "Allows users to slow down songs to 20% speed, showing strumming patterns and finger placement."
-      ]
-    },
-    {
-      "summary": "Ledger confirmed that spy chip implants in some of its devices sold through a Southeast Asian reseller led to crypto thefts.",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "points": [
-        "Devices compromised through CryptoBilis, a Malaysia-based retailer, were found to have unauthorized hardware implants.",
-        "The implant captured display output and button presses, transmitting seed phrases to attackers via LTE.",
-        "Ledger advised users to avoid setting up devices from unauthorized resellers and to move assets to new signers."
       ]
     }
   ]
