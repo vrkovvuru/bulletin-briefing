@@ -1,6 +1,100 @@
 {
-  "generated": "2026-10-19T22:41:19.561385Z",
+  "generated": "2026-10-20T00:42:43.808419Z",
   "summaries": [
+    {
+      "summary": "Italy sends 500 troops to Milan as protests over poor services and rising costs lead to looting and vandalism.",
+      "significance": "The deployment of troops in Milan follows days of protests over poor public services and rising costs, affecting the city's luxury shops and public safety.",
+      "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+      "points": [
+        "Deputy Prime Minister Matteo Salvini announced the deployment.",
+        "Milan shops closed early and boarded up due to fear of violence.",
+        "Security measures package expected to be approved at Tuesday's cabinet meeting."
+      ]
+    },
+    {
+      "summary": "Tottenham Hotspur secured their first win of the season, moving them out of the bottom three in the Premier League after defeating Coventry City 3-1.",
+      "url": "https://www.theguardian.com/football/2026/oct/19/tottenham-coventry-premier-league-match-report",
+      "points": [
+        "Tottenham's win marks their sixth home victory in the Premier League since November 2024.",
+        "Omar Marmoush scored his first goal for Spurs in the 59th minute, though he was lucky not to be penalized for an elbow.",
+        "Coventry City contested the validity of the second Spurs goal, delivered by Marmoush."
+      ]
+    },
+    {
+      "summary": "US extends deportation reprieve for migrants from Ukraine and Sudan, protecting over 100,000 individuals.",
+      "significance": "The story affects over 100,000 migrants from Ukraine and Sudan by granting them a temporary reprieve from deportation.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "points": [
+        "Over 101,000 Ukrainians and about 1,800 Sudanese retain protections.",
+        "Temporary protected status was set to expire on Monday.",
+        "DHS will make a final announcement at an unspecified future date."
+      ]
+    },
+    {
+      "summary": "A drone attack near a market in Sudan's al-Dibab killed 80 people, mostly commuters.",
+      "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+      "points": [
+        "80 people were killed in the attack, including the witness's brother Mohamed.",
+        "The attack occurred in al-Dibab, a town in West Kordofan state.",
+        "The drone struck a transport hub near a market where people were catching rides home."
+      ]
+    },
+    {
+      "summary": "Barber Ricky Jefferies intervened in the attack on MP Helen Haines, earning praise from the PM.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb",
+      "points": [
+        "PM hailed Jefferies as a hero for his actions in Wangaratta.",
+        "Jefferies, a barber, grabbed and held the alleged attacker after finishing a haircut.",
+        "Incident occurred outside Jefferies' shop, adjacent to Haines' electorate office."
+      ]
+    },
+    {
+      "summary": "Morocco's King Mohammed VI appointed Fatima Zahra El Mansouri as the country's first female prime minister, sparking debate on women's roles in leadership.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Mustafa Ramid questioned a woman holding the highest political office, citing an Islamic saying.",
+        "El Mansouri's party won the most seats in September's parliamentary election, holding 207 of 395 seats.",
+        "Younger Moroccans welcomed her appointment, but conservative views still resist reforms on family law and gender equality."
+      ]
+    },
+    {
+      "summary": "Trump attributes unrest in France to immigration, ignoring issues like school conditions and cost of living.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
+      "points": [
+        "Trump claims he warned Macron about mass immigration affecting France.",
+        "Protests started due to rising fuel prices and cost of living, leading to 1,800 arrests.",
+        "Overnight curfews were issued in several French cities, including parts of Paris."
+      ]
+    },
+    {
+      "summary": "Cyber attackers exploited vulnerabilities in French supermarket refrigeration systems, causing them to warm up on the night of October 11 to 12, 2026.",
+      "significance": "The story highlights significant cybersecurity vulnerabilities in France's supermarket refrigeration systems, affecting food safety and highlighting the need for better protection of critical infrastructure.",
+      "url": "https://ipinfo.io/blog/france-fridges-hack",
+      "points": [
+        "France had 1,331 exposed fridge dashboards, more than the rest of the world combined.",
+        "Only 195 of the French dashboards had every known security fix before the attack.",
+        "Carrefour reported 80 of its stores were affected by the cyber attack."
+      ]
+    },
+    {
+      "summary": "OpenBSD 8.0 introduces new drivers and updates, including Clang/LLVM 22 as the base compiler and support for Intel Arc A-Series cards.",
+      "url": "https://bsd.network/@brynet/117407035545900963",
+      "points": [
+        "Clang/LLVM 22 becomes the base compiler, with updated support libraries.",
+        "Graphics stack updated to Linux 6.18.y/6.18.53, supporting Intel Arc A-Series cards.",
+        "KVA on amd64 increased to 512G, allowing more than 4G of VRAM mapping."
+      ]
+    },
+    {
+      "summary": "An obituary for programming laments the shift from puzzle-solving to reliance on coding agents.",
+      "significance": "The article highlights the significant impact of AI on career programmers, potentially altering job roles and reducing the need for human-coded solutions.",
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+      "points": [
+        "Career programmers enjoyed solving complex logic puzzles as part of their job.",
+        "LLMs have taken over, diminishing the need for human programmers to solve problems.",
+        "The change impacts those who find joy in the problem-solving aspect of programming."
+      ]
+    },
     {
       "summary": "Trump faces low approval ratings amid criticism over waiving Russia sanctions and comments on Ukraine negotiations.",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
@@ -3650,99 +3744,6 @@
       "points": [
         "It includes background sync to keep the inbox updated while preserving battery life.",
         "Thunderbird aims for a clean, modern design with an experimental feature flag system for community contributions."
-      ]
-    },
-    {
-      "summary": "A plea against using uv-build as a build backend for Gentoo packages due to its drawbacks.",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-      "points": [
-        "Gentoo users face extended build times due to frequent releases (12 in 30 days).",
-        "uv-build's size (1.2-1.5 MiB) is significantly larger than pure Python alternatives (45 KiB).",
-        "Portability issues arise as uv-build may not work on all platforms, requiring extensive maintenance."
-      ]
-    },
-    {
-      "summary": "Zelenskyy states Ukraine received no early warning from allies about a Russian ballistic missile strike on Kyiv.",
-      "significance": "Zelenskyy highlights lack of early warning from allies for Russian missile strikes on Kyiv, underscoring reliance on intelligence for civilian protection.",
-      "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-      "points": [
-        "Five missiles hit Kyiv's civilian infrastructure in the attack.",
-        "Zelenskyy described the attack as \"particularly vile\".",
-        "The Ukrainian president stressed the critical importance of intelligence from allies in saving lives."
-      ]
-    },
-    {
-      "summary": "Zelenskyy states Ukraine paused strikes on Russian oil refineries following Trump's ceasefire call, but Russia did not respond, and Ukraine had no warning before Kyiv strikes.",
-      "significance": "Zelenskyy highlights Russia's disregard for Trump's ceasefire call, emphasizing ongoing conflict challenges.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
-      "points": [
-        "Poland's Sikorski emphasizes strong opposition to releasing frozen Russian assets.",
-        "Germany fully supports Ukrainian government and President Zelenskyy.",
-        "Ukraine had no early warning system in place before recent strikes on Kyiv."
-      ]
-    },
-    {
-      "summary": "The White House has requested the resignation of Kimberly Guilfoyle as US ambassador to Greece due to scrutiny over her appointment.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-      "points": [
-        "Kimberly Guilfoyle is under scrutiny following reports of questionable acts prior to her ambassador role.",
-        "Katie Zacharia monitored Donald Trump\u2019s schedule and social media to ensure visibility.",
-        "Zacharia is set to be the sixth person to hold the press secretary role during Trump\u2019s terms."
-      ]
-    },
-    {
-      "summary": "AFL orders Sportsbet to cease using AI-generated content featuring players without consent.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content",
-      "points": [
-        "Sportsbet directed to remove videos of AFL stars delivering movie lines.",
-        "Lachie Neale featured in a video saying, \"I want to thank me for believing in me.\"",
-        "Sportsbet is collaborating with AFL on \"the evolving use of AI in our content."
-      ]
-    },
-    {
-      "summary": "Flying foxes, especially grey-headed ones, face mass starvation in NSW and parts of Victoria due to food shortages.",
-      "url": "https://www.theguardian.com/environment/2026/oct/14/flying-foxes-in-nsw-and-victoria-face-mass-starvation-amid-food-shortages",
-      "points": [
-        "Wildlife rescuers report surge in exhausted and emaciated adults and skeletal pups.",
-        "Grey-headed flying foxes are listed as vulnerable under federal environment laws.",
-        "Flying foxes typically feed on native tree blossoms and nectar, which are in short supply."
-      ]
-    },
-    {
-      "summary": "Fewer Britons plan to save for foreign holidays next year due to cost of living pressures, despite travel recovering to pre-pandemic levels.",
-      "url": "https://www.theguardian.com/business/2026/oct/13/uk-holiday-demand-travel-industry-spain-deals-abta",
-      "points": [
-        "Spain remains the most popular destination for British travelers.",
-        "Britons are booking trips later to seek better deals amid financial strain.",
-        "Travel numbers recovered to pre-pandemic levels this year, but may have peaked due to rising costs."
-      ]
-    },
-    {
-      "summary": "Pennsylvania reports sixth death in measles outbreak, with cases surpassing 1,100.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/13/pennsylvania-measles-sixth-death",
-      "points": [
-        "Sixth death, a 39-year-old unvaccinated woman with underlying conditions, reported in Franklin county.",
-        "Pennsylvania's measles cases exceed 1,100.",
-        "CDC only lists two deaths nationwide despite Pennsylvania's report."
-      ]
-    },
-    {
-      "summary": "Apple introduces Minions, a virtual GPU cloud that utilizes idle Apple Silicon Macs for machine learning tasks.",
-      "significance": "Minions transforms idle Apple Silicon Macs into a distributed GPU cloud, enhancing machine learning inference efficiency and reducing the need for additional GPU procurement.",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-      "points": [
-        "Minions aggregates idle GPUs from macOS devices to execute large-scale machine learning workloads.",
-        "The system aims to reduce the need for additional GPU procurement and improve resource utilization.",
-        "Minions offers flexible task execution and fault tolerance for machine learning inference."
-      ]
-    },
-    {
-      "summary": "Creusot 0.14.0 introduces new features including contracts for Rust with formal proofs and improved Go-to-definition functionality in Pearlite specifications.",
-      "url": "https://devlog.creusot.rs/v0-14-0/",
-      "points": [
-        "Creusot now supports partial orders, changing how totality is handled since version 0.13.0.",
-        "New verification conditions (VCs) for snapshots help catch mistakes in specifications more quickly.",
-        "Go-to-definition now works in Pearlite specifications, improving navigation and development experience."
       ]
     }
   ]
