@@ -1,6 +1,71 @@
 {
-  "generated": "2026-10-21T16:42:10.416159Z",
+  "generated": "2026-10-21T18:41:12.533866Z",
   "summaries": [
+    {
+      "summary": "Protests in Portugal continue despite police clearing camps and arresting dozens.",
+      "significance": "Protests in Portugal continue despite police action, highlighting ongoing public dissatisfaction and resistance.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal-2?traffic_source=rss",
+      "points": [
+        "Thousands of protesters returned to the streets.",
+        "Police cleared protest camps and arrested dozens of people."
+      ]
+    },
+    {
+      "summary": "Hospice workers share insights on life and death, emphasizing the importance of comfort and quality of life.",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/21/lessons-from-hospice-workers-life-death",
+      "points": [
+        "Courtney, a Missouri hospice nurse, views hospice as a gift offering comfort and quality of life.",
+        "Hospice patients usually have a terminal diagnosis with a timeline of six months or less.",
+        "Despite perceptions of hospice as \"giving up,\" workers highlight its role in enhancing life's final stages."
+      ]
+    },
+    {
+      "summary": "Former Tory candidate Jack Ross suspended after being filmed discussing contract killings with an undercover reporter.",
+      "significance": "The suspension of Jack Ross from the Conservative Party follows allegations of discussing contract killings, impacting the party's image and security policies.",
+      "url": "https://www.theguardian.com/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
+      "points": [
+        "Jack Ross suspended from Conservative Party over contract killing claims.",
+        "Ross discussed violent options and brokering services of a far-right activist.",
+        "Incident involved an undercover reporter and alleged paramilitary links."
+      ]
+    },
+    {
+      "summary": "Explosion at a chemical tank in Toledo, Ohio, led to a mass evacuation due to an airborne irritant.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/toledo-ohio-tank-explosion-mass-evacuation",
+      "points": [
+        "One first responder was injured and hospitalized with non-life-threatening injuries.",
+        "The irritant can cause burning of the eyes, nose, mouth, and skin.",
+        "Officials are investigating the cause of the explosion but currently have no definitive answer."
+      ]
+    },
+    {
+      "summary": "California public employees, including nurses and teachers, strike over contract disputes.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
+      "points": [
+        "SEIU Local 1000 represents around 100,000 striking workers.",
+        "Workers demand higher wages, flexible telework, and affordable healthcare.",
+        "Strike involves rallies outside government buildings in multiple cities."
+      ]
+    },
+    {
+      "summary": "Firefox Local Mode allows users to register multiple mappings for testing web pages and APIs without needing a HTTP server.",
+      "significance": "Firefox Local Mode streamlines web development by allowing direct testing of Web APIs and managing multiple origins without needing a HTTP server.",
+      "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+      "points": [
+        "Mappings are only accessible from Firefox and functional when DevTools are opened.",
+        "Users can manage mappings via about:config, including importing and transferring them.",
+        "Each mapping includes an origin string, a local folder path, and a unique integer identifier."
+      ]
+    },
+    {
+      "summary": "ZLS 0.17.0 release introduces new protocol improvements but faces build system issues.",
+      "url": "https://zigtools.org/zls/releases/0.17.0/",
+      "points": [
+        "Build system integration features were broken but mostly restored.",
+        "File watching regressed on Windows, affecting detection of external file changes.",
+        "New protocol sets groundwork for future enhancements like unit testing and debugging."
+      ]
+    },
     {
       "summary": "Convicted fraudster Elizabeth Holmes allows filmmakers into her home before prison in a new documentary.",
       "significance": "The story highlights the complex dynamics and questions of authenticity in documentary film-making, especially when disgraced figures allow cameras into their lives.",
@@ -3678,74 +3743,6 @@
         "$257m spent on grants to 9,000 ineligible businesses.",
         "Loss magnitude concealed by senior public servants, whistleblowers commended.",
         "Ibac investigation revealed decisions to withhold information on the loss."
-      ]
-    },
-    {
-      "summary": "FCCT aids cancer patients by providing non-clinical support through curated diagnostic and treatment options beyond standard care.",
-      "significance": "FCCT provides cancer patients and families with curated, advanced diagnostic and treatment information beyond standard care, aiding informed decision-making.",
-      "url": "https://sijbrandijfoundation.org/fcct",
-      "points": [
-        "FCCT offers playbooks and resources to help patients ask better questions to their doctors.",
-        "Services include tumor tissue preservation for future testing and molecular profiling of tumors.",
-        "FCCT lists various diagnostic and treatment options from different countries, all physician-ordered."
-      ]
-    },
-    {
-      "summary": "Most global leaders are older than 65, with significant age gaps between leaders and their populations.",
-      "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
-      "points": [
-        "Paul Biya, Cameroon\u2019s 93-year-old president, leads a country with a median age of 18.",
-        "Three in four people globally live under a leader over 65, with two in three having a leader over 70.",
-        "The median age of leaders globally is around 64, significantly older than the median population age."
-      ]
-    },
-    {
-      "summary": "Istanbul faces severe chaos due to the heaviest rainfall since 1985, causing floods and landslides.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
-      "points": [
-        "Flash floods swept cars through neighborhoods.",
-        "The rainfall is the heaviest since 1985.",
-        "Traffic has come to a standstill, and more rain is expected."
-      ]
-    },
-    {
-      "summary": "Victorian Labor promises to make abortions free if re-elected, aiming to counter Liberal claims of potential rollbacks.",
-      "significance": "Victorian Labor's promise to make abortions free, timed ahead of the election, aims to define the political debate and counter Liberal claims of potential policy rollbacks.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/victorian-state-election-labor-pledges-free-abortion-ntwnfb",
-      "points": [
-        "Labor plans $30m investment over four years to cover abortion costs.",
-        "Current abortion care costs can exceed $1,000 out-of-pocket.",
-        "Announcement comes ahead of November election, seen as politically motivated."
-      ]
-    },
-    {
-      "summary": "Liquid AI releases LFM2.5-24B-A2B, a fast, on-device reasoning model that outperforms larger models in certain benchmarks.",
-      "significance": "LFM2.5-24B-A2B offers faster, more efficient on-device performance with fewer active parameters, competing with larger models on key benchmarks.",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "points": [
-        "LFM2.5-24B-A2B scores 48.09 on LiveClaw, outperforming Qwen3.6-35B-A3B by nearly 10 points.",
-        "The model runs up to 1.7× faster than comparable models, decoding 184 tokens/s on an Apple M5 Max.",
-        "LFM2.5-24B-A2B leads on AutomationBench with a score more than three times higher than the next-best model."
-      ]
-    },
-    {
-      "summary": "Student protests in Albania's capital turned violent, with government buildings and banks set on fire as police used water cannons and teargas.",
-      "significance": "Student protests in Albania turn violent, affecting public order and infrastructure, as demonstrators clash with police over education costs and corruption.",
-      "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
-      "points": [
-        "Tens of thousands of students protested in Tirana against rising education costs and corruption.",
-        "Protesters set fire to the ministry of education building and a Raiffeisen Bank branch.",
-        "Police detained dozens and used water cannons and teargas to disperse the crowd."
-      ]
-    },
-    {
-      "summary": "Major parties reject bill to ban shackling incarcerated women during childbirth.",
-      "significance": "The rejection by major parties highlights ongoing controversy over the treatment of incarcerated women during childbirth, influenced by independent senators.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/labor-coalition-bill-banning-shackling-incarcerated-women-ntwnfb",
-      "points": [
-        "Independent senator Lidia Thorpe introduced the bills into the Senate.",
-        "Liberal Paul Scarr criticizes major parties' stance, planning to write to Queensland attorney general.",
-        "Bill aims to prevent shackling and stop children from being strip-searched."
       ]
     }
   ]
