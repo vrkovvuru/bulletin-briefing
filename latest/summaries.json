@@ -1,6 +1,45 @@
 {
-  "generated": "2026-10-21T20:42:39.381668Z",
+  "generated": "2026-10-21T22:41:31.497621Z",
   "summaries": [
+    {
+      "summary": "Pope Leo XIV does not require further treatment after successful lung cancer surgery.",
+      "significance": "Pope Leo XIV's doctors confirm no further treatment needed after lung cancer surgery, signaling positive health progress for the leader.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Pope's doctors confirmed no further treatment is needed after the cancer was found to be localized.",
+        "The 71-year-old Pope was discharged from Gemelli Hospital four days after his 90-minute surgery.",
+        "Pope held his first weekly audience at St Peter's Square after being discharged."
+      ]
+    },
+    {
+      "summary": "Trump's immigration policies, including record ICE arrests and deadly operations, influence US midterm elections.",
+      "significance": "The story matters as it highlights how Trump's immigration policies and ICE actions are influencing voter sentiment and could impact the outcomes of the upcoming US midterm elections.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
+      "points": [
+        "ICE arrests and detentions at highest levels under Trump's second term.",
+        "Immigration raids have targeted politicians' homes, escalating tensions.",
+        "Midterm elections are on November 3rd, less than two weeks away from the article's publication."
+      ]
+    },
+    {
+      "summary": "Railway detected unauthorized access to encrypted environment variables, potentially compromising user data.",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "points": [
+        "Railway recommends rolling all environment variables and reviewing logs for unusual activity.",
+        "All deployments are paused until the investigation is complete.",
+        "The incident occurred on September 30, 2026, disrupting domain routing for about five minutes."
+      ]
+    },
+    {
+      "summary": "PHP released new versions to fix two critical vulnerabilities that allow unauthenticated attackers to execute code on servers.",
+      "significance": "The PHP security release fixes critical vulnerabilities, protecting servers from unauthenticated code execution attacks.",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "points": [
+        "PHP released versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to address the vulnerabilities.",
+        "The vulnerabilities were found in memory management and error handling, affecting nearly every request.",
+        "The PHP Foundation secured funding from the Sovereign Tech Agency to enhance security processes and coordination."
+      ]
+    },
     {
       "summary": "Australian politician Helen Haines lost both legs after a deliberate car attack.",
       "significance": "The attack on Helen Haines highlights the risks faced by politicians and may influence discussions on their safety.",
@@ -3706,44 +3745,6 @@
         "Healey speaking at IMF annual meetings in Bangkok",
         "Budget will occur in a fortnight",
         "Chancellor aims to balance fiscal rules with addressing rising costs"
-      ]
-    },
-    {
-      "summary": "Ukraine's president accuses Trump of betrayal over throttling Starlink access, impacting Ukraine's military operations.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/first-thing-us-betrayal-over-starlink-undermines-ukrainian-defense",
-      "points": [
-        "Zelenskyy claims US throttled Starlink, affecting drones and air defense systems.",
-        "Starlink no longer works on terminals moving faster than 100mph.",
-        "Human rights activist warns of increased civilian casualties without Starlink protection."
-      ]
-    },
-    {
-      "summary": "Haxy, a new git forge, promises unique features like offline metadata editing and SSH-based TUI access.",
-      "url": "https://try.haxy.net/haxy:haxy",
-      "points": [
-        "Haxy allows offline editing of repository issues and metadata.",
-        "Users can access Haxy via a text user interface (TUI) served over SSH.",
-        "The system uses event sourcing, creating one event per commit."
-      ]
-    },
-    {
-      "summary": "A user wrote a kernel exploit for their TP-Link EAP770 v1 access point to fix corrupt downloads.",
-      "significance": "A user wrote a kernel exploit to fix download corruption issues on an outdated TP-Link access point, highlighting problems with unsupported hardware.",
-      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "points": [
-        "The exploit was necessary because TP-Link had ended support for the device in June 2025.",
-        "The issue began in August 2023 when the user bought the Wi-Fi 7 access point.",
-        "The corruption problem was linked to Qualcomm's SFE/PPE offload, affecting TCP segments."
-      ]
-    },
-    {
-      "summary": "Modal, an AI infrastructure company, reached a $1B ARR and secured a $16B valuation after a $750M Series D funding round, marking significant growth in just five months.",
-      "significance": "Modal\u2019s rapid growth and high valuation highlight the increasing demand for advanced AI infrastructure, affecting the tech industry and investment in AI startups.",
-      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "points": [
-        "Modal\u2019s valuation tripled in five months and grew 15x year-over-year.",
-        "The company\u2019s Sandboxes product, launched in 2023, now has a $300M run rate.",
-        "Modal\u2019s Series D funding round was led by Accel and valued the company at $15.75B."
       ]
     }
   ]
