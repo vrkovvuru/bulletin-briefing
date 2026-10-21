@@ -8,43 +8,34 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
-      "alsoReportedBy": [
-        "The Guardian",
-        "Al Jazeera"
-      ]
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
     },
     {
-      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Russia unilaterally frees Stephen Hubbard after US request while Steve Witkoff praises Putin as a \u2018humanitarian\u2019 Europe live \u2013 latest updates US politics live \u2013 latest updates Vladimir Putin ordered the release of an American from a Russian jail as he met Donald Trump\u2019s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington. Trump had previously asked Putin to free Stephen Hubbard, a 74-year-old former teacher who had spent more than four years in Russian jails on charges of fighting as a mercenary for Ukraine . Continue reading...",
-      "alsoReportedBy": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
+      "title": "Former DUP leader Jeffrey Donaldson to be interviewed over alleged rape inside Westminster",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
+      "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+      "alsoReportedBy": []
     },
     {
-      "title": "UK approves development of Jackdaw gasfield in North Sea",
-      "url": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss",
+      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+      "url": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The decision has drawn sharp criticism from left-wing politicians and environmentalists.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
+      "summary": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "U.S. Democratic congressional nominee Brad Lander was detained along with about 80 American and Israeli rabbis and activists by Israeli security forces as they helped Palestinian olive harvesters.",
+      "alsoReportedBy": []
     },
     {
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
@@ -52,16 +43,25 @@
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
+      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
       "alsoReportedBy": []
     },
     {
-      "title": "Macron says Trump spread rumours about protests",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss",
+      "title": "How Israel’s war on Lebanon has cost young people with autism and ADHD",
+      "url": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Macron says Trump spread rumours about protests",
+      "summary": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+      "url": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The European states say their support for Riyadh is &#039;defensive&#039;, but analysts warn Houthi reaction may complicate that.",
       "alsoReportedBy": []
     },
     {
@@ -74,15 +74,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Iran\u2019s enriched uranium re-emerges as point of contention in US talks",
-      "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Iran&#039;s nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
       "url": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
       "source": "NPR",
@@ -92,12 +83,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
-      "source": "NPR",
+      "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Russian President Vladimir Putin says he has freed an American, Stephen Hubbard, from a Russian prison following a request from President Trump.",
+      "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other cities Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US citizen held by Moscow on allegations of fighting as a mercenary for Ukraine ( 11:24 ). In a post on Truth Social, he said : “Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from prison, at the request of President Donald J. Trump, made directly to President Vladimir Putin in a telephone conversation last week. Stephen is on his way back home and will soon be with his family. The United States, out of respect for President Trump, was not required to give anything in return - an unprecedented situation for Russia. There was no “swap” necessary for this release. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocacy group the Workers Circle, which has been monitoring conditions and speaking with detainees inside two Immigration and Customs Enforcement (ICE) facilities in south Florida. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
       "alsoReportedBy": []
     },
     {
@@ -110,89 +119,71 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
-      "url": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
-      "source": "Guardian World",
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners UK politics live \u2013 latest updates Miatta Fahnbulleh is leaning towards rejecting the giant Rosebank oilfield, the Guardian understands, in what would be a blow for the North Sea energy industry but a major victory for climate campaigners. Officials say the energy secretary, is minded to refuse approval for the field, which would be one of the biggest in the North Sea. Fahnbulleh approved the smaller Jackdaw gasfield on Wednesday, prompting protest from some in the green movement. Continue reading...",
+      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump hails Russia\u2019s release of US teacher amid Witkoff\u2019s visit \u2013 live",
+      "title": "​Europe stands by Ukraine, but how long can that last?",
+      "url": "https://www.theguardian.com/world/2026/oct/21/europe-stands-by-ukraine-but-how-long-can-that-last",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "As US support ebbs away, looming European elections and growing financial strains across the continent could fracture the precious coalition that has kept Ukraine afloat Europe woke up last Friday to another belligerent outburst from Donald Trump – this time berating Ukraine’s wartime leader Volodymyr Zelenskyy again. Just a few days after his diesel deal with the Kremlin, the US president said Zelenskyy was more difficult to deal with than Vladimir Putin and blamed Ukraine’s leader for rocketing oil prices – without any reference to the impact of his own war on Iran. The contrast in Europe was obvious. When Zelenskyy walked into the multi-coloured summit room of the European Council headquarters in Brussels that Friday morning, the EU’s 27 leaders burst into applause, getting to their feet to offer big hugs and brisk handshakes. European Council president António Costa told Zelenskyy and the media: “This is no time to withdraw the support to Ukraine,” calling instead for increased pressure on Russia. Zelenskyy was thankful, pointedly saying he was happy to have “huge support” from “real leaders”. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump’s approval rating drops to 36% two weeks before midterms, poll finds",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Voters disapprove of Trump’s handling of economy and cost of living, says poll in new low recorded by NY Times/Siena Donald Trump ’s approval rating sank to 36% just two weeks before the midterm elections , the lowest recorded in a poll by the New York Times/Siena College , with most respondents expressing frustration over his handling of the US economy, cost of living and Iran war. In an October survey of approximately 3,494 likely voters, 59% said they disapproved of Trump’s handling of his job, and 52% said they planned to vote for the Democratic candidate in the upcoming election. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Burnham backs mandatory suicide prevention training for social workers after Matilda Davis’s death",
+      "url": "https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Former art teacher, who cared for her disabled son, ‘received almost no support’, said her local MP Manuela Perteghella Andy Burnham has backed mandatory suicide prevention training for social workers after the “devastating” death of Matilda Davis, a parent-carer who killed herself minutes after meeting professionals. The Guardian revealed in August how the “absolutely inspirational” 36-year-old had taken her life after feeling “completely exhausted” and failed by England’s social care system. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Likely voters prefer Democrats to Republicans in latest poll ahead of midterms as Trump’s popularity continues to sink – live",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "US was not required to give anything in return for Stephen Hubbard\u2019s release \u2018out of respect for President Trump\u2019, he claims Sign up for Breaking News US email Donald Trump will begin his day in Washington, and host a roundtable at the White House at 2.30pm ET. He\u2019ll then continue he midterm campaign blitz by heading to Clemson, South Carolina, where he\u2019ll rally for Darline Graham \u2013 the Republican nominee for US Senate who is hoping to secure a full term for her late brother\u2019s seat. Trump won the Palmetto state by almost 18 points in 2024. Continue reading...",
+      "summary": "Likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points, new poll shows; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic congressional nominee Brad Lander, several rabbis and Israel’s former deputy attorney general. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump suggests he could be \u2018arbitrator\u2019 in DoJ anti-fraud whistleblower scheme",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-doj-anti-fraud-tip",
+      "title": "Australian politicians say they are paying thousands for their own security upgrades amid rising threats",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "President makes suggestion while announcing new program to reward tipsters who submit fraud allegations Donald Trump suggested on Tuesday that he would serve as \u201cthe arbitrator\u201d of decisions in the justice department\u2019s new anti-fraud program that awards compensation to those who submit tips resulting in conviction or significant federal enforcement. While announcing the new program alongside JD Vance, the vice-president, who leads the White House\u2019s taskforce to eliminate fraud , the president told reporters he had a solution for situations where multiple people submit a tip for the same alleged fraud. Continue reading...",
+      "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines. The Labor government and politicians across the parliament are still considering how they will respond when they return to Canberra next week, with ideas being floated including a new committee on MPs’ safety, greater resources for police, and motions of condolence for Haines, who lost both her legs after Monday’s incident . Renewed calls from the crossbench for reforms to question time and the tone of debate in parliament are unlikely to be taken up by the major parties. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "State attorneys general step up plans to counter Trump\u2019s meddling in midterms",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/midterms-attorney-general-trump-election-interference",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Coordination by Democratic officials overseeing elections includes Zoom calls and in-person tabletop exercises Democratic state attorneys general, other top state officials and civic groups have accelerated planning to thwart any federal meddling in the November midterm elections by Donald Trump as he continues his false charges of widespread voting fraud and veiled threats of interfering in the process. Since early this year, 24 Democratic attorneys general have expanded coordination with about a dozen Democratic secretaries of state and several civic groups using weekly Zoom calls and in-person tabletop exercises to strategize about countering any federal intervention in the elections. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
-      "url": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Bereaved civil service families could face \u2018unjust\u2019 tax bills due to pension scheme delays",
-      "url": "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "MPs say \u2018chaos\u2019 at Capita-run scheme could mean some claims miss tax-free time limit on lump sum payments Bereaved families could face \u201cunconscionable\u201d tax bills because of \u201cchaos\u201d in the civil service pension scheme, the government has been warned. Some lump sum pension payments to families are only tax-free if made within two years of a scheme being told of the member\u2019s death. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "title": "Updated PHP version released to GitHub",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -206,26 +197,24 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": [
-        "Hacker News"
-      ]
+      "alsoReportedBy": ["Hacker News"]
     },
     {
-      "title": "Whatever Happened to Fire Escapes",
-      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?",
+      "title": "What’s the ROI of software engineers’ spending on AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
       "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies &#8211; with some interesting findings",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -235,9 +224,7 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": [
-        "Hacker News"
-      ]
+      "alsoReportedBy": ["Hacker News"]
     },
     {
       "title": "The Pulse: OpenAI software engineer accused of spying",
@@ -249,7 +236,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Uber\u2019s AI infra, from the inside",
+      "title": "Uber’s AI infra, from the inside",
       "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -258,8 +245,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
-      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -267,8 +254,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Setting up SSH keys on macOS with Touch ID",
-      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "title": "Unikernels in OCaml",
+      "url": "https://uniker.nl/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -276,21 +263,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "NixOS is making me less afraid",
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-      "source": "Lobsters",
+      "title": "Most advice is right for the person giving it",
+      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC \u2014 Alex Lieberman & CJ Hess",
-      "url": "https://www.latent.space/p/tenex",
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "url": "https://www.latent.space/p/claude-mods",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
+      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "An open source &#8220;bomb&#8221; drops from China",
       "alsoReportedBy": []
     },
     {
@@ -303,12 +299,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Programmable Data Center \u2014 Evan Conrad, SF Compute",
-      "url": "https://www.latent.space/p/sfcompute2",
+      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+      "url": "https://www.latent.space/p/tenex",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
+      "summary": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
       "alsoReportedBy": []
     },
     {
@@ -348,35 +344,22 @@
       "alsoReportedBy": []
     },
     {
+      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
+      "url": "https://www.latent.space/p/sfcompute2",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
+      "alsoReportedBy": []
+    },
+    {
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they&#8217;re not going to be in super wide use just yet.",
-      "alsoReportedBy": [
-        "Latent Space"
-      ]
-    },
-    {
-      "title": "llm-tools-datasette 0.1.1",
-      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "llm-echo 0.5",
-      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage Outputs: First I consider the prompt, then I decide what to say. { \"prompt\": \"hi there\", \"system\": \"\", \"attachments\": [], \"stream\": true, \"previous\": [] } Token usage: 2 input, 24 output Tags: llm",
-      "alsoReportedBy": []
+      "alsoReportedBy": ["Latent Space"]
     }
-  ],
-  "durationSeconds": 211.7,
-  "voice": "af_heart"
+  ]
 }

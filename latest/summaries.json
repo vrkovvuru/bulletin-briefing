@@ -1,6 +1,99 @@
 {
-  "generated": "2026-10-21T12:43:16.222193Z",
+  "generated": "2026-10-21T14:42:32.975307Z",
   "summaries": [
+    {
+      "summary": "Demonstrations over public education failures in Greece as Macron criticizes commentary on French protests; Trump announces release of US citizen from Russian prison.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+      "points": [
+        "Thousands protest in Athens, Thessaloniki, and other Greek cities over education issues.",
+        "Trump claims direct conversation with Putin led to release of US citizen Stephen Hubbard.",
+        "Macron criticizes commentary on French protests, calling it 'stupid'."
+      ]
+    },
+    {
+      "summary": "Advocates claim severely ill ICE detainees in Florida are set for imminent deportation to unknown African countries.",
+      "significance": "The story highlights imminent deportation of severely ill detainees to unknown African countries, despite worsening health conditions, affecting their families and advocacy groups.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "points": [
+        "Flights for deportation are scheduled as early as Wednesday.",
+        "Detainees have no ties to the countries they are being deported to.",
+        "The Workers Circle, an immigration advocacy group, is monitoring the situation."
+      ]
+    },
+    {
+      "summary": "Europe maintains support for Ukraine despite US backing waning and internal pressures.",
+      "url": "https://www.theguardian.com/world/2026/oct/21/europe-stands-by-ukraine-but-how-long-can-that-last",
+      "points": [
+        "European leaders showed strong support for Zelenskyy during a Brussels meeting.",
+        "Trump criticized Zelenskyy, contrasting with Europe's stance.",
+        "Upcoming elections and financial strains may affect Europe's solidarity with Ukraine."
+      ]
+    },
+    {
+      "summary": "Trump's approval rating hit a new low of 36% in a poll two weeks before the midterms.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
+      "points": [
+        "Poll by NY Times/Siena College surveyed about 3,494 likely voters.",
+        "59% disapproved of Trump\u2019s handling of his job.",
+        "52% of respondents planned to vote for the Democratic candidate."
+      ]
+    },
+    {
+      "summary": "Andy Burnham supports mandatory suicide prevention training for social workers following Matilda Davis's suicide.",
+      "url": "https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death",
+      "points": [
+        "Matilda Davis, 36, killed herself after meeting professionals, feeling exhausted and failed by social care.",
+        "Davis was a former art teacher caring for her disabled son with little support.",
+        "Local MP Manuela Perteghella highlighted Davis received \"almost no support."
+      ]
+    },
+    {
+      "summary": "Australian politicians are upgrading their security due to rising threats, following an alleged attack on MP Helen Haines.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
+      "points": [
+        "Security upgrades costing thousands for politicians' homes and offices.",
+        "Review of safety precautions for MPs\u2019 residences and workplaces announced.",
+        "Helen Haines lost both legs in the alleged attack on Monday."
+      ]
+    },
+    {
+      "summary": "PHP 8.2.35 released to fix critical security vulnerabilities.",
+      "significance": "The release fixes critical vulnerabilities in PHP 8.2, urging immediate update to prevent unauthenticated remote code execution.",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "points": [
+        "Fixes two critical vulnerabilities (CVE-2026-109618, CVE-2026-109619).",
+        "Users must update immediately; no mitigations available.",
+        "PHP 8.2 support ends 31 December 2026."
+      ]
+    },
+    {
+      "summary": "AI discovers critical vulnerabilities in PHP, affecting 70% of websites, allowing remote code execution and memory disclosure.",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "points": [
+        "Affects 70% of all websites, every PHP version from 5.4 onwards.",
+        "Vulnerabilities include memory disclosure and unauthenticated remote code execution.",
+        "Exploits were developed using frontier AI, marking a significant shift in vulnerability exploitation."
+      ]
+    },
+    {
+      "summary": "The article discusses how advice is often tailored to the advisor's personal experience and circumstances.",
+      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+      "points": [
+        "Steve Jobs advised following one's passion, while Mark Cuban suggests enjoying what one wins at.",
+        "Advice like \"say yes to everything\" or \"say no to almost everything\" depends on individual circumstances.",
+        "Testing advice in small ways before making big decisions is recommended."
+      ]
+    },
+    {
+      "summary": "DeepSeek released DeepInfer, an open-source inference framework, capable of processing 155T tokens daily and generating $22m daily profit with an 81-day payback period.",
+      "significance": "DeepInfer's open-source release could significantly lower compute costs and energy use for AI inference, making advanced AI more accessible and efficient.",
+      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "points": [
+        "DeepInfer processes 155T tokens per day, generating $22m daily at an 80% margin.",
+        "The framework supports distributed inference and operates on NVIDIA and Huawei Ascend platforms.",
+        "DeepSeek\u2019s production stack includes an ultra-optimized KV cache with over 8-hour lifetime and load balancing."
+      ]
+    },
     {
       "summary": "Putin orders the release of jailed American Stephen Hubbard as he meets Trump's envoy for Ukraine talks.",
       "significance": "Putin's decision to release an American prisoner follows US requests and occurs amid improving Moscow-Washington relations, impacting diplomatic tensions and prisoner exchanges.",
@@ -3652,98 +3745,6 @@
         "Release introduces experimental \"danger zone\" features for creativity, cautioning against production use.",
         "New features enable multimodality in current Jev models, allowing image integration in JSON interface.",
         "Context length limits removed, previously restricted for reliability, now fully accessible to users."
-      ]
-    },
-    {
-      "summary": "Russian strikes on Kyiv's energy infrastructure left over half a million without electricity, following an intelligence lapse.",
-      "significance": "The story highlights a critical intelligence failure that left Kyiv vulnerable to Russian attacks, affecting over half a million people's access to electricity.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
-      "points": [
-        "Over half a million people in Kyiv lost electricity due to Russian strikes.",
-        "Ukraine\u2019s president reported receiving no intelligence warning from allies."
-      ]
-    },
-    {
-      "summary": "Voter anger is a significant trend in the US midterms, with Republicans particularly anxious about future elections.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-most-important-us-midterm-trends-im-seeing",
-      "points": [
-        "Republicans are anxious about the 2026 midterm elections.",
-        "The midterm feels less like a referendum on Trumpism and more like a dirge.",
-        "Both parties are not taking voter anger seriously enough."
-      ]
-    },
-    {
-      "summary": "Ukrainian president Zelenskyy accuses Trump of betrayal over reduced Starlink access for Ukraine\u2019s military.",
-      "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
-      "points": [
-        "Zelenskyy feels personally betrayed by Trump regarding Starlink access.",
-        "US support for Kyiv questioned due to reduced access to Starlink.",
-        "Relations strained further by US agreement to purchase diesel from Moscow."
-      ]
-    },
-    {
-      "summary": "Nutrition expert Christopher Gardner suggests eating well is simpler than perceived, advocating for healthy choices 80% of the time.",
-      "url": "https://www.theguardian.com/wellness/2026/oct/14/christopher-gardner-food-sense-interview",
-      "points": [
-        "Christopher Gardner, from Stanford, emphasizes eating well is mostly about good science.",
-        "Gardner recommends aiming for healthy eating 80% of the time for better nutrition.",
-        "Based in Palo Alto, Gardner is the director of nutrition studies and a professor of medicine."
-      ]
-    },
-    {
-      "summary": "Victoria Labor promises free abortion care if re-elected; Albanese criticizes Hanson\u2019s stance on multiculturalism.",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
-      "points": [
-        "Victoria Labor pledges free abortion care if re-elected.",
-        "Health Minister Mark Butler aims to reintroduce bill to adjust private health insurance rebates for over-65s.",
-        "Butler emphasizes urgent need for more aged care beds in Australia."
-      ]
-    },
-    {
-      "summary": "ITV undercover filming exposes Reform UK councillors and candidates making racist and extreme comments, leading to a party crisis.",
-      "significance": "Reform UK faces internal upheaval as racist and extreme comments from its members come to light, prompting resignations and an investigation.",
-      "url": "https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments",
-      "points": [
-        "Three councillors quit following the曝光事件。",
-        "ITV的隐秘调查于周三播出，揭示了暴力、厌女和种族主义言论。",
-        "Reform UK表示正在对首次曝光进行调查。"
-      ]
-    },
-    {
-      "summary": "OpenAI\u2019s London staff received an average of £2.3m per person annually, including salaries and shares.",
-      "url": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
-      "points": [
-        "110 staff shared £87m in salaries and £168m in shares last year.",
-        "OpenAI UK Ltd is based in Westminster but is opening a new HQ in King\u2019s Cross.",
-        "The company aims to list on the stock market at a valuation of about $1tn."
-      ]
-    },
-    {
-      "summary": "Throttling of Starlink in Ukraine is worsening civilian casualties and impacting Kyiv\u2019s air defenses.",
-      "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
-      "points": [
-        "Russia bombed three Kyiv power plants, aiming to cut heating and electricity.",
-        "No warning was given by western allies for incoming ballistic missiles for two consecutive nights.",
-        "Jet-powered drones are breaching Kyiv\u2019s air defenses, increasing civilian casualties."
-      ]
-    },
-    {
-      "summary": "A cancer patient shares insights on navigating a cancer diagnosis and treatment in 2026.",
-      "significance": "The story matters as it provides practical advice from personal experience for navigating cancer diagnosis and treatment, emphasizing patient persistence and proactive involvement.",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "points": [
-        "Diagnosis in May 2026 revealed squamous cell carcinoma in the mouth.",
-        "Persistence in scheduling appointments can lead to quicker access, like securing a same-week ENT appointment.",
-        "Comprehensive genetic testing may require patient advocacy to avoid delays in treatment."
-      ]
-    },
-    {
-      "summary": "Fire at a Starlink site in Bulgaria linked to suspected sabotage in Poland.",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "points": [
-        "Bulgarian Prime Minister Rumen Radev confirmed a fire at a Starlink facility near Sofia.",
-        "Two men, aged 20 and 21 with German passports, were detained in connection.",
-        "Pro-Western opposition claims 11 of 17 antennas were deliberately set on fire on October 9."
       ]
     }
   ]
