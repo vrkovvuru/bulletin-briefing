@@ -2,6 +2,15 @@
   "date": "2026-10-20",
   "stories": [
     {
+      "title": "Musk confirms SpaceX and Tesla exploring merger",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Elon Musk says SpaceX and Tesla are considering a merger that would form a $3.5 trillion mega company.",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
+    },
+    {
       "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
       "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,39 +20,48 @@
       "alsoReportedBy": ["The Guardian", "Al Jazeera"]
     },
     {
-      "title": "Why former FDLR fighters are returning to Rwanda",
-      "url": "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss",
+      "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "From the forest to Mutobo, former fighters face the challenge of rebuilding their lives after leaving the armed group.",
+      "summary": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Portugal cost-of-living protesters pour back into camps cleared by police",
+      "url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Police arrested 55 people while clearing protest camps in Lisbon and Porto.",
       "alsoReportedBy": []
     },
     {
-      "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Election officials in Los Angeles County say their preliminary analysis of the federal government's list of 20,000 \"likely\" noncitizens registered to vote in California shows the list is \"unreliable.\"",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Sanae Takaichi took on Japan’s male-dominated politics and won – can she survive a second year in power?",
+      "url": "https://www.theguardian.com/world/2026/oct/21/sanae-takaichi-took-on-japans-male-dominated-politics-and-won-can-she-survive-a-second-year-in-power",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for Riyadh RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen’s Houthis, flying protective missions over the country’s cities and critical infrastructure as western allies increase their intervention in the escalating conflict. The operation – the most significant military mission signed off by Andy Burnham as prime minister – will involve RAF pilots attempting to shoot down Houthi missiles and drones, which attacked Saudi airports and oil facilities. Continue reading...",
-      "alsoReportedBy": ["BBC News", "Al Jazeera"]
-    },
-    {
-      "title": "One year on: Has Kenya’s opposition lost its way without Raila Odinga?",
-      "url": "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Odinga’s legacy faces a test as ODM splits over its alliance with President Ruto.",
+      "summary": "The straight-talking PM’s ability to manage Trump and stand up to China have endeared her to the public, but she may need friends closer to home to survive Visitors squeeze into the kiosk near Japan ’s national diet building to snap up souvenirs bearing the face of Sanae-chan, the affectionate nickname for the country’s leader: chocolate biscuits, dango sweets, stickers and document files proclaiming that “Japan is back”. “The Takaichi range is incredibly popular,” says a member of staff. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
-      "url": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+      "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "King Charles III pays tribute to Muscat&#039;s &#039;noble efforts&#039; to help reopen the Strait of Hormuz.",
+      "summary": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
       "alsoReportedBy": []
     },
     {
@@ -56,15 +74,6 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
       "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
       "source": "NPR",
@@ -74,21 +83,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "title": "Brendan Nugent stares in silence as a court hears about his alleged attack on Helen Haines",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/brendan-nugent-court-alleged-attack-helen-haines-ntwnfb",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arrived in Nigeria, Africa’s most populous country. Continue reading...",
+      "summary": "There were no family or friends inside the Wangaratta magistrates court to support the accused, a 43-year-old from Tarrawingee Follow our live blog for latest updates Helen Haines loses leg as surgeons fight to save the other Get our new political email , free app or daily news podcast The media pack was so large when it descended on Wangaratta magistrates court on Wednesday morning that not everyone could fit in the courtroom. They spilled into the hallway, forced to try to log in remotely or pick up clues from afar. Everyone was hoping to catch a glimpse of Brendan Nugent, who was arrested less than 100 metres away two days earlier after allegedly ramming the independent MP Helen Haines twice in a targeted attack outside her electorate office. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Sanae Takaichi took on Japan’s male-dominated politics and won – can she survive a second year in power?",
-      "url": "https://www.theguardian.com/world/2026/oct/21/sanae-takaichi-took-on-japans-male-dominated-politics-and-won-can-she-survive-a-second-year-in-power",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The straight-talking PM’s ability to manage Trump and stand up to China have endeared her to the public, but she may need friends closer to home to survive The visitors squeezed into the kiosk near Japan ’s national diet building snap up souvenirs bearing the face of Sanae-chan, the affectionate nickname for the country’s leader: chocolate biscuits, dango sweets, stickers and document files proclaiming that “Japan is back”. “The Takaichi range is incredibly popular,” says a member of staff. Continue reading...",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "alsoReportedBy": []
     },
     {
@@ -110,6 +119,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "AFP commissioner says MPs are generally concerned about growing volume of abuse and intimidation Follow our live blog for latest updates Get our breaking news email , free app or daily news podcast The head of the Australian federal police has condemned a “febrile” political environment that has seen one person charged every week over the alleged threatening of MPs, as Victoria announces new steps to protect politicians. But the AFP and Victoria police insist they had no intelligence to suggest 43-year-old Brendan Nugent would go on to allegedly drive a Toyota LandCruiser into the independent MP Helen Haines in a targeted attack. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
       "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -119,12 +137,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+      "title": "Odds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook ‘worsening’",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "President also announces incentive program for people to report fraud, as administration continues attack on Minnesota Sign up for the Breaking News US email Send us your questions about immigration and the midterms A new survey reveals a widening “empathy gap” between Republicans and white evangelicals and the rest of the American public. On Tuesday, the nonpartisan Public Religion Research Institute released its annual American Values Survey. The survey found that white evangelical Protestants are the only religious group in which a majority does not agree that empathy is foundational moral value (42%). Instead, a majority (54%) say empathy can be dangerous when it leads people away from a society guided by God’s truth, PRRI said. Continue reading...",
+      "summary": "Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market Get our breaking news email , free app or daily news podcast The chance of a fifth interest rate hike on Melbourne Cup day has jumped after Andrew Hauser, the Reserve Bank’s deputy governor, warned of “hard choices” amid a “materially worse” inflation outlook. Hauser, speaking at an investment bank conference in Sydney on Wednesday morning, said the RBA monetary policy board members were juggling a slowing economy with fears that Australians were starting to lose faith in the central bank’s ability to bring inflation back to the 2.5% target. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -133,7 +151,7 @@
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Months of fires in Indonesia have cloaked Southeast Asia in haze and made hundreds of thousands of people sick.",
+      "summary": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
       "alsoReportedBy": []
     },
     {
@@ -146,39 +164,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+      "title": "Man charged with attack on Australia MP to face court",
+      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
       "alsoReportedBy": []
     },
     {
-      "title": "Is Donald Trump ready to do business with Myanmar?",
-      "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Odds of fifth interest rate hike this year likely to shorten as RBA deputy warns inflation outlook ‘worsening’",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market Get our breaking news email , free app or daily news podcast Andrew Hauser, the Reserve Bank’s deputy governor, has reignited talk of a fifth interest rate hike on Melbourne Cup day, warning of “hard choices” ahead in response to an inflation outlook that “looks materially worse” than the central bank had expected two months ago. Hauser, speaking at an investment bank conference in Sydney on Wednesday morning, said the RBA monetary policy board members were juggling a slowing economy with fears that Australians were starting to lose faith in the central bank’s ability to bring inflation back to the 2.5% target. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Alabama governor commutes sentence of prisoner on death row",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/alabama-governor-commutes-death-row-sentence",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Toforest Johnson’s death penalty reduced to life in prison without parole over doubts about his conviction Toforest Johnson, an Alabama death row inmate, will no longer face execution after the state’s Republican governor commuted his sentence amid increasing doubts about his conviction. Kay Ivey, the Alabama governor, commuted Johnson’s sentence to life in prison without parole in the 1995 murder of William Hardy, a Jefferson county deputy sheriff. Johnson has long maintained he is innocent, and several former public officials, as well the local district attorney, have argued he should receive a new trial. Continue reading...",
+      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
       "alsoReportedBy": []
     },
     {
@@ -191,7 +191,7 @@
       "alsoReportedBy": ["Hacker News"]
     },
     {
-      "title": "SimCity, but with Permits",
+      "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
       "source": "Hacker News",
       "category": "engineering",
@@ -206,6 +206,15 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies &#8211; with some interesting findings",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Learning to live with Waymos",
+      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -227,22 +236,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "NixOS is making me less afraid",
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": []
+      "alsoReportedBy": ["Hacker News"]
     },
     {
       "title": "The Pulse: OpenAI software engineer accused of spying",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",

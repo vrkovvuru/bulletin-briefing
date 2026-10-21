@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-21T00:42:05.376362Z",
+  "generated": "2026-10-21T02:42:22.189668Z",
   "summaries": [
+    {
+      "summary": "A drone strike near a market in Abyei, close to the Sudan-South Sudan border, killed at least 150 people.",
+      "significance": "The drone strike escalates conflict between Sudan and the Rapid Support Forces, impacting the disputed Abyei region.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+      "points": [
+        "At least 150 people were killed in the drone strike near Abyei market.",
+        "The strike occurred in a disputed region near South Sudan.",
+        "Sudan accuses the Rapid Support Forces (RSF) of hiding in the Abyei area."
+      ]
+    },
+    {
+      "summary": "Protesters in Portugal returned to camps in Lisbon and Porto, previously cleared by police, to demonstrate against the housing crisis and cost-of-living increases.",
+      "url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
+      "points": [
+        "55 protesters were arrested during the police clearance operation.",
+        "Demonstrators occupied Rossio Square in Lisbon and Dom Joao I Square in Porto, with over 1,000 people at each location.",
+        "The protests are against a bill that makes evictions easier and ends rent caps on new leases."
+      ]
+    },
+    {
+      "summary": "Brendan Nugent appeared in silence at a court hearing regarding his alleged attack on MP Helen Haines.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/brendan-nugent-court-alleged-attack-helen-haines-ntwnfb",
+      "points": [
+        "Nugent, 43, from Tarrawingee, faced no family or friend support in court.",
+        "The attack on MP Helen Haines occurred outside her electorate office.",
+        "Media overflowed the courtroom in Wangaratta, with some forced to watch remotely."
+      ]
+    },
+    {
+      "summary": "Australian police chief criticizes the country's tense political climate after an alleged attack on MP Helen Haines, with no bail for the accused.",
+      "significance": "The story highlights growing political tensions and violence against MPs in Australia, following a pattern of increasing threats and abuse.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
+      "points": [
+        "AFP commissioner warns of a \"febrile\" political environment with an MP threatened weekly.",
+        "Brendan Nugent, 43, charged with driving into MP Helen Haines, denied bail.",
+        "Victoria announces new measures to protect politicians from threats and intimidation."
+      ]
+    },
+    {
+      "summary": "Waymo's autonomous vehicles, with their twitching steering wheels, are becoming a common sight on American roads, raising questions about public acceptance and the future of autonomous driving.",
+      "significance": "The story highlights how autonomous vehicles like Waymos are reshaping human interaction with technology on the roads, evoking both comfort and unease.",
+      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+      "points": [
+        "Waymo has a fleet of over 4,000 cars operating in 15 U.S. cities.",
+        "The steering wheel moves during operation, surprisingly reassuring passengers rather than alarming them.",
+        "Waymo's recent ad campaign highlights that their vehicles are \"ten times safer\" than those driven by humans."
+      ]
+    },
+    {
+      "summary": "PHP security team announces a critical security release scheduled for October 21, 2026, addressing two critical vulnerabilities.",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "points": [
+        "The release is set for Wednesday, October 21, 2026, at 14:00 UTC.",
+        "It addresses two critical vulnerabilities, both rated CVSS v4.0 9.2.",
+        "PHP users are encouraged to prepare for upgrading as the release date approaches."
+      ]
+    },
+    {
+      "summary": "A UX designer discusses unexpected instances of good typography despite technical limitations.",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "points": [
+        "Marcin Wichary worked in UX design, typography, and front-end development.",
+        "Displays can show slanted text due to line-by-line updates from top to bottom.",
+        "A stadium icon cleverly uses 5x7 pixel font limitations to create a delightful design."
+      ]
+    },
     {
       "summary": "Kenya\u2019s opposition party ODM struggles to define its future one year after Raila Odinga\u2019s death, facing internal disputes over cooperation with President William Ruto.",
       "significance": "The story highlights the struggle and division within Kenya\u2019s opposition, particularly the ODM, in defining its future without the influential Raila Odinga, questioning its credibility and unity.",
@@ -3680,72 +3746,6 @@
         "Popcar highlights AI's ability to create game mashups and enhance preservation.",
         "AI decompilation threatens tech industry security, enabling unauthorized software use.",
         "The process benefits game preservation, making old games accessible on new hardware."
-      ]
-    },
-    {
-      "summary": "The Yemen war could escalate into a region-wide operation or a prolonged war of attrition following Houthi attacks on Saudi Arabia.",
-      "significance": "The story outlines potential scenarios for escalation in the Yemen war, affecting regional alliances and military strategies.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
-      "points": [
-        "Houthi attacks have killed at least a dozen and injured hundreds, pushing the conflict to a new level.",
-        "Saudi Arabia is seeking international support, including from Turkey and Pakistan, under the Mecca Pact.",
-        "A decisive military action requires Yemeni government to resolve internal discord and gain regional support."
-      ]
-    },
-    {
-      "summary": "Ukraine's military access to Starlink satellite internet was restricted, impacting combat operations.",
-      "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
-      "points": [
-        "Trump administration pressured Ukraine to stop long-range strikes on Russia\u2019s oil industry.",
-        "Restrictions coincided with Russian ballistic missile launches on Ukraine.",
-        "Adviser to President Zelenskyy stated the outage led to the failure of several combat missions."
-      ]
-    },
-    {
-      "summary": "US inflation climbed to 3.7% in September, a rise that could impact Republicans ahead of midterms.",
-      "significance": "Higher inflation rate before midterms may impact Republican performance due to voter dissatisfaction over cost of living.",
-      "url": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
-      "points": [
-        "Inflation rate reached 3.7% in September, up from 3.4% in August.",
-        "Report released just before crucial midterm elections.",
-        "Polls indicate broad discontent with Trump administration over living costs."
-      ]
-    },
-    {
-      "summary": "French students protest over school conditions and worry about their future job security.",
-      "url": "https://www.theguardian.com/world/2026/oct/14/french-students-are-not-just-protesting-for-better-schools-but-for-their-future",
-      "points": [
-        "Students protest due to teacher shortages, overcrowding, and poor facilities.",
-        "Slogans highlight fears of job insecurity post-graduation.",
-        "Protests have lasted for three weeks across France."
-      ]
-    },
-    {
-      "summary": "UK's Scotland secretary argues closer EU trade ties are more beneficial for the UK than independent trade deals.",
-      "url": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
-      "points": [
-        "Douglas Alexander suggests UK should prioritize EU trade over separate deals.",
-        "Alexander, former trade minister, negotiated deals with India and the US.",
-        "Closer EU trading relations could provide greater economic benefits for the UK."
-      ]
-    },
-    {
-      "summary": "Texas prosecutor considering felony charges for ICE agent who ran over a man during an attempted traffic stop.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/texas-ice-agent-assault-charge",
-      "points": [
-        "Possible charge of aggravated assault with a deadly weapon.",
-        "Conviction could mean up to 20 years in prison.",
-        "Incident occurred in west Houston on Saturday morning."
-      ]
-    },
-    {
-      "summary": "Apple promotes Safari over Chrome, highlighting its superior speed, battery efficiency, and privacy features on Mac.",
-      "significance": "The story highlights Safari's advantages over Chrome in speed, privacy, and battery efficiency, potentially influencing users to switch browsers on Mac.",
-      "url": "https://www.apple.com/safari/switch/",
-      "points": [
-        "Safari offers up to 5 hours more video streaming on Mac compared to Chrome.",
-        "Safari is up to 35% faster at loading frequently visited sites on Mac.",
-        "Safari includes built-in protections like Intelligent Tracking Prevention to stop data-collection companies."
       ]
     }
   ]
