@@ -1,184 +1,231 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "stories": [
     {
-      "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
-      "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Tech mogul says tie-up has a &#039;lot of merit&#039;, given firms&#039; complementary work on AI.",
-      "alsoReportedBy": ["BBC News", "The Guardian", "Al Jazeera"]
-    },
-    {
-      "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Italy approves sweeping security measures in response to protests",
-      "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Italy&#039;s government approves sending 500 troops to Milan after clashes and protests.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+      "alsoReportedBy": [
+        "The Guardian",
+        "Al Jazeera"
+      ]
     },
     {
-      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A student protest movement has gripped Serbia for two years. This weekend it will try to take power",
-      "url": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power",
+      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Unorthodox campaign is challenging the ruling party’s 12-year reign with a bold democratic experiment On a cool autumn evening, a team of Serbian student volunteers went canvassing in the housing estates of Krnjača, a Belgrade suburb. They were equipped with lanyards emblazoned with the word “victory”, a stock list of questions and a mobile app that mapped visited homes and the level of support in each. The volunteers were part of a mass student movement, Student List, that has rocked Serbia with two years of constant protests. On Sunday, the group will represent the most serious challenge Aleksandar Vučić has faced in his 12 increasingly authoritarian years in power, by putting forward their own candidates in parliamentary elections. Continue reading...",
+      "summary": "Russia unilaterally frees Stephen Hubbard after US request while Steve Witkoff praises Putin as a \u2018humanitarian\u2019 Europe live \u2013 latest updates US politics live \u2013 latest updates Vladimir Putin ordered the release of an American from a Russian jail as he met Donald Trump\u2019s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington. Trump had previously asked Putin to free Stephen Hubbard, a 74-year-old former teacher who had spent more than four years in Russian jails on charges of fighting as a mercenary for Ukraine . Continue reading...",
+      "alsoReportedBy": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
+    },
+    {
+      "title": "UK approves development of Jackdaw gasfield in North Sea",
+      "url": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The decision has drawn sharp criticism from left-wing politicians and environmentalists.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
+    },
+    {
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
       "alsoReportedBy": []
     },
     {
-      "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
-      "url": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens",
+      "title": "Macron says Trump spread rumours about protests",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Macron says Trump spread rumours about protests",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump leans into unprecedented power ahead of midterm elections",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Election officials in Los Angeles County say their preliminary analysis of the federal government's list of 20,000 \"likely\" noncitizens registered to vote in California shows the list is \"unreliable.\"",
+      "summary": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term.",
       "alsoReportedBy": []
     },
     {
-      "title": "Standup Jon Richardson on turning his dark teenage diaries into a tearjerking memoir: ‘I couldn’t sugarcoat those years’",
-      "url": "https://www.theguardian.com/stage/2026/oct/21/standup-jon-richardson-teenage-diaries-tearjerker-memoir",
-      "source": "The Guardian",
+      "title": "Iran\u2019s enriched uranium re-emerges as point of contention in US talks",
+      "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "While facing grief, illness and a very public breakup, the comic reached for his diaries – and found a happy kid who spiralled into despair. Inspired by a Nobel laureate, he wrote a frank, funny book about that boy and what he grew into It begins on Christmas Day, 1996: “It’s been a lovely day … I realised how much I love my family.” It ends three years later: “I’m lying on the floor in floods of tears and all I want to do is die.” Say what you like about adolescence but it is nothing if not an emotional tumult. “If I’d known as a teenager,” says the comedian Jon Richardson ruefully, “that I’d one day write a book about them, I couldn’t have bookended my teenage diaries with better quotes to show what a storm of shit those years can be.” The book is The Teenage Diaries of a Stand-Up Comedian, and it has been two years in the making. Two years that, if not quite the hormonal rollercoaster the book itself records, have been quite the ride. The project is borne of a crossroads moment in the Lancashire man’s midlife, after he experienced bereavement, serious illness among family and friends, and the breakdown of his marriage to fellow comic Lucy Beaumont. The last was an inevitably very public ending, splayed across the tabloids, to a relationship which itself played out in public, courtesy of the couple’s acclaimed mockumentary about their domestic arrangements, Meet the Richardsons . Continue reading...",
+      "summary": "Iran&#039;s nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.",
       "alsoReportedBy": []
     },
     {
-      "title": "Veggie Thursdays and vegan surprises! How Ghent became a plant-based paradise",
-      "url": "https://www.theguardian.com/food/2026/oct/21/veggie-thursdays-vegan-surprises-ghent-plant-based-paradise",
-      "source": "The Guardian",
+      "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+      "url": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "In 2014, 13% of the population of this Belgian city described themselves as flexitarian. This year, 83% did. Here is how everyone was convinced to eat their greens – and love them Sixty bowls of slime-green soup sit waiting for the children to arrive. Pupils rush in from their morning lessons, grab the bowls by the handles and start slurping. No complaints, no refusals. (OK, maybe a few “bleurgh” faces.) Chicory soup dispatched, they get stuck into the main course: falafel, Mediterranean vegetable tagine and couscous. Some ask for seconds; most grab a piece of fruit for dessert and run out to play. This is a typical Thursday lunchtime in BS De Stadspoort primary school in Ghent, Belgium. Similar meat-free menus are being eaten in other schools and nurseries across the city, plus community centres, care homes and assisted living facilities, not to mention many work canteens and restaurants. Thursday in Ghent is officially “Veggie Day” , with residents encouraged to eschew any meat or fish. So how did a city get its children – and everyone else – to eat their greens? Continue reading...",
+      "summary": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
       "alsoReportedBy": []
     },
     {
-      "title": "What happened inside court for man charged with Australian MP attack",
-      "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
+      "summary": "Russian President Vladimir Putin says he has freed an American, Stephen Hubbard, from a Russian prison following a request from President Trump.",
       "alsoReportedBy": []
     },
     {
-      "title": "Current U.S. support for Ukraine looks very different than it did",
-      "url": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
+      "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "NPR's Scott Detrow talks with William Taylor, former U.S. Ambassador to Ukraine, about President Trump's recent moves to support Russia and how that compares to past administrations.",
+      "summary": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
       "alsoReportedBy": []
     },
     {
-      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+      "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
+      "url": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had their offices in Guinea-Bissau raided by judicial police, who seized doses of hepatitis B vaccines, officials said on Facebook. The researchers have been at the heart of an ongoing dispute over research on African newborns, supported by $1.6m from the US Centers for Disease Control and Prevention (CDC) and matched by the Pershing Square Foundation and the Bluebell Foundation for a total of $3.2m. Continue reading...",
+      "summary": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners UK politics live \u2013 latest updates Miatta Fahnbulleh is leaning towards rejecting the giant Rosebank oilfield, the Guardian understands, in what would be a blow for the North Sea energy industry but a major victory for climate campaigners. Officials say the energy secretary, is minded to refuse approval for the field, which would be one of the biggest in the North Sea. Fahnbulleh approved the smaller Jackdaw gasfield on Wednesday, prompting protest from some in the green movement. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Beau Lamarre-Condon allegedly played Taylor Swift’s No Body, No Crime during body disposal, court told",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/beau-lamarre-condon-murder-trial-taylor-swift-song-ntwnfb",
+      "title": "Trump hails Russia\u2019s release of US teacher amid Witkoff\u2019s visit \u2013 live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Friend of accused double murderer tells supreme court that van had lemony smell and blue tarp in back before Bunnings stop Beau Lamarre-Condon played Taylor Swift’s song No Body, No Crime while attempting to dispose of two corpses, a court has heard. The NSW supreme court has been told he was driving to Bungonia with a friend when the song was played in the van. Continue reading...",
+      "summary": "US was not required to give anything in return for Stephen Hubbard\u2019s release \u2018out of respect for President Trump\u2019, he claims Sign up for Breaking News US email Donald Trump will begin his day in Washington, and host a roundtable at the White House at 2.30pm ET. He\u2019ll then continue he midterm campaign blitz by heading to Clemson, South Carolina, where he\u2019ll rally for Darline Graham \u2013 the Republican nominee for US Senate who is hoping to secure a full term for her late brother\u2019s seat. Trump won the Palmetto state by almost 18 points in 2024. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-      "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
       "alsoReportedBy": []
     },
     {
-      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
+      "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
       "alsoReportedBy": []
     },
     {
-      "title": "Odds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook ‘worsening’",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
+      "title": "Trump suggests he could be \u2018arbitrator\u2019 in DoJ anti-fraud whistleblower scheme",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-doj-anti-fraud-tip",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market Get our breaking news email , free app or daily news podcast The chance of a fifth interest rate hike on Melbourne Cup day has jumped after Andrew Hauser, the Reserve Bank’s deputy governor, warned of “hard choices” amid a “materially worse” inflation outlook. Hauser, speaking at an investment bank conference in Sydney on Wednesday morning, said the RBA monetary policy board members were juggling a slowing economy with fears that Australians were starting to lose faith in the central bank’s ability to bring inflation back to the 2.5% target. Continue reading...",
+      "summary": "President makes suggestion while announcing new program to reward tipsters who submit fraud allegations Donald Trump suggested on Tuesday that he would serve as \u201cthe arbitrator\u201d of decisions in the justice department\u2019s new anti-fraud program that awards compensation to those who submit tips resulting in conviction or significant federal enforcement. While announcing the new program alongside JD Vance, the vice-president, who leads the White House\u2019s taskforce to eliminate fraud , the president told reporters he had a solution for situations where multiple people submit a tip for the same alleged fraud. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine",
-      "url": "https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine",
+      "title": "State attorneys general step up plans to counter Trump\u2019s meddling in midterms",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/midterms-attorney-general-trump-election-interference",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Coordination by Democratic officials overseeing elections includes Zoom calls and in-person tabletop exercises Democratic state attorneys general, other top state officials and civic groups have accelerated planning to thwart any federal meddling in the November midterm elections by Donald Trump as he continues his false charges of widespread voting fraud and veiled threats of interfering in the process. Since early this year, 24 Democratic attorneys general have expanded coordination with about a dozen Democratic secretaries of state and several civic groups using weekly Zoom calls and in-person tabletop exercises to strategize about countering any federal intervention in the elections. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
+      "url": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "President Trump's up and down relationship with Russia is back on as he presses to find an end to the war in Ukraine amid high energy costs ahead of the U.S. midterms.",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio.",
       "alsoReportedBy": []
     },
     {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "title": "Bereaved civil service families could face \u2018unjust\u2019 tax bills due to pension scheme delays",
+      "url": "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday. Temporary protected status was set to end on Monday for about 101,000 Ukrainians and 1,800 Sudanese. But the DHS said an announcement “will be made at the appropriate time”. Until then, the department said in a written statement, Ukrainians and Sudanese in the US covered by those temporary measures “retain protection”. The department did not indicate how long they could stay or when a final announcement would be made on their status. Continue reading...",
+      "summary": "MPs say \u2018chaos\u2019 at Capita-run scheme could mean some claims miss tax-free time limit on lump sum payments Bereaved families could face \u201cunconscionable\u201d tax bills because of \u201cchaos\u201d in the civil service pension scheme, the government has been warned. Some lump sum pension payments to families are only tax-free if made within two years of a scheme being told of the member\u2019s death. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Former U.S. ambassador on Trump's recent moves to embrace Russia",
-      "url": "https://www.npr.org/2026/10/20/nx-s1-6007865/former-u-s-ambassador-on-trumps-recent-moves-to-embrace-russia",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "NPR's Steve Inskeep speaks with former U.S. Ambassador to Russia Michael McFaul about President Trump's latest embrace of Russia and what it means for Ukraine and any hopes of peace.",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": [
+        "Hacker News"
+      ]
+    },
+    {
+      "title": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?",
+      "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+      "source": "Pragmatic Engineer",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies &#8211; with some interesting findings",
       "alsoReportedBy": []
     },
     {
@@ -188,38 +235,31 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": ["Hacker News"]
+      "alsoReportedBy": [
+        "Hacker News"
+      ]
     },
     {
-      "title": "Upcoming Critical PHP Security Release",
-      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": ["Hacker News"]
-    },
-    {
-      "title": "What’s the ROI of software engineers’ spending on AI?",
-      "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+      "title": "The Pulse: OpenAI software engineer accused of spying",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
       "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies &#8211; with some interesting findings",
+      "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "source": "Hacker News",
+      "title": "Uber\u2019s AI infra, from the inside",
+      "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+      "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "",
+      "summary": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
       "alsoReportedBy": []
     },
     {
-      "title": "In Hilbert space, all things are quantumly possible",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -236,48 +276,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Pulse: OpenAI software engineer accused of spying",
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
-      "source": "Pragmatic Engineer",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Uber’s AI infra, from the inside",
-      "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
-      "source": "Pragmatic Engineer",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "source": "Hacker News",
+      "title": "NixOS is making me less afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "url": "https://www.latent.space/p/sfcompute2",
+      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC \u2014 Alex Lieberman & CJ Hess",
+      "url": "https://www.latent.space/p/tenex",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
+      "summary": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
       "alsoReportedBy": []
     },
     {
@@ -290,13 +303,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] not much happened today",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "title": "The Programmable Data Center \u2014 Evan Conrad, SF Compute",
+      "url": "https://www.latent.space/p/sfcompute2",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they&#8217;re not going to be in super wide use just yet.",
-      "alsoReportedBy": ["Latent Space"]
+      "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
+      "alsoReportedBy": []
     },
     {
       "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
@@ -314,15 +327,6 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn't do it! No, they needed us. They would give us a problem and we would solve it the way we wanted. We set the strategy, we made the timeline, we defined what was and was not possible. If you're a programmer who thrives on building working systems and doesn't care too deeply about the problems solved along the way, LLMs are the gift that keeps on giving. If directly solving those problems was a big part of your enjoyment, the loss is very real. Via lobste.rs Tags: programming , careers , ai , generative-ai , llms , coding-agents , deep-blue",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "[AINews] High Taste Testers Ep. 1",
-      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -344,6 +348,17 @@
       "alsoReportedBy": []
     },
     {
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they&#8217;re not going to be in super wide use just yet.",
+      "alsoReportedBy": [
+        "Latent Space"
+      ]
+    },
+    {
       "title": "llm-tools-datasette 0.1.1",
       "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
       "source": "Simon Willison",
@@ -361,5 +376,7 @@
       "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage Outputs: First I consider the prompt, then I decide what to say. { \"prompt\": \"hi there\", \"system\": \"\", \"attachments\": [], \"stream\": true, \"previous\": [] } Token usage: 2 input, 24 output Tags: llm",
       "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 211.7,
+  "voice": "af_heart"
 }
