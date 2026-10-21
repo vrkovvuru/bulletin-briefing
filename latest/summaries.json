@@ -1,6 +1,52 @@
 {
-  "generated": "2026-10-21T02:42:22.189668Z",
+  "generated": "2026-10-21T04:41:36.138383Z",
   "summaries": [
+    {
+      "summary": "Italy approves security measures including troop deployment and tougher penalties to quell cost-of-living protests.",
+      "significance": "Italy's approval of stringent security measures and tougher laws targets to curb violent protests over the cost-of-living crisis, affecting public safety and governance.",
+      "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
+      "points": [
+        "500 troops sent to Milan to reinforce security and enhance surveillance.",
+        "New legal offense for violent protest participation, up to 5 years in prison and \u20ac20,000 fine.",
+        "Parents held financially liable for children's vandalism and looting during protests."
+      ]
+    },
+    {
+      "summary": "Serbian student movement, Student List, challenges 12-year rule of Aleksandar Vučić in upcoming elections.",
+      "url": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power",
+      "points": [
+        "Student List has protested continuously for two years.",
+        "Movement uses modern tools like mobile apps for canvassing.",
+        "Aleksandar Vučić has led Serbia for 12 years, increasingly authoritarian."
+      ]
+    },
+    {
+      "summary": "Comedian Jon Richardson writes a memoir based on his teenage diaries, detailing a transition from happiness to despair.",
+      "url": "https://www.theguardian.com/stage/2026/oct/21/standup-jon-richardson-teenage-diaries-tearjerker-memoir",
+      "points": [
+        "Book titled \"The Teenage Diaries of a Stand-Up Comedian\" took two years to complete.",
+        "Richardson faced personal challenges including bereavement and a public breakup with Lucy Beaumont.",
+        "Diary entries span from a joyful Christmas Day 1996 to a despairing moment in 1999."
+      ]
+    },
+    {
+      "summary": "Ghent, Belgium, transformed into a plant-based paradise with Veggie Thursdays and plant-based school meals, significantly increasing the city's flexitarian population.",
+      "url": "https://www.theguardian.com/food/2026/oct/21/veggie-thursdays-vegan-surprises-ghent-plant-based-paradise",
+      "points": [
+        "In 2014, 13% of Ghent's population was flexitarian; this year, 83% are.",
+        "Ghent schools serve meat-free lunches on Thursdays, including chicory soup and falafel.",
+        "Veggie Day encourages residents to avoid meat and fish on Thursdays."
+      ]
+    },
+    {
+      "summary": "Hilbert space, an abstract mathematical concept, is crucial for exploring quantum phenomena and understanding quantum states.",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "points": [
+        "Hilbert space allows physicists to explore all possible futures of quantum objects before observation.",
+        "John von Neumann defined quantum mechanics in terms of Hilbert space, unifying Heisenberg's matrix mechanics and Schrödinger's wave mechanics.",
+        "In Hilbert space, quantum states are represented as vectors pointing in a direction that indicates the probability of different outcomes upon observation."
+      ]
+    },
     {
       "summary": "A drone strike near a market in Abyei, close to the Sudan-South Sudan border, killed at least 150 people.",
       "significance": "The drone strike escalates conflict between Sudan and the Rapid Support Forces, impacting the disputed Abyei region.",
@@ -3699,53 +3745,6 @@
         "Michael Kotlikoff knew of the November 2024 assault report but did not follow up.",
         "Kotlikoff was unaware the victim had dropped out until she filed a lawsuit.",
         "Cornell University is facing calls for Kotlikoff's resignation over the handling."
-      ]
-    },
-    {
-      "summary": "Social security recipients will receive a 3.6% increase in benefits in 2027.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/social-security-increase-cost-of-living",
-      "points": [
-        "Average increase of $75 per month for retirement benefits.",
-        "72 million social security beneficiaries will see higher payments starting January 2027.",
-        "About 7.3 million SSI recipients will get increased payments starting December 31, 2026."
-      ]
-    },
-    {
-      "summary": "BotStopper, a new web protection tool, shields sites from scraping and automated abuse while maintaining a user-friendly experience.",
-      "significance": "BotStopper offers organizations a polished, flexible tool to manage and mitigate automated web traffic, building on the open-source foundation of Anubis.",
-      "url": "https://botstopper.net",
-      "points": [
-        "Built by the team behind Anubis, offering an open-source approach to automated traffic management.",
-        "Offers a default corporate-friendly experience that can be tailored to fit organizational needs.",
-        "Combines signals and challenges to differentiate between useful visitors and automated traffic."
-      ]
-    },
-    {
-      "summary": "A new method allows for efficient testing of Windows desktop applications from Linux using disposable VMs.",
-      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-      "points": [
-        "Tests run on disposable Windows VMs managed by Kubernetes, with each VM costing more than a Linux container.",
-        "A cold Windows VM takes 2 to 3 minutes to boot, compared to seconds for a browser container.",
-        "The system uses Playwright for browser interactions, Appium for native apps, and WebRTC for screen streaming."
-      ]
-    },
-    {
-      "summary": "Submarine cables, critical for global telecommunications, face frequent disruptions due to accidental and deliberate damage, highlighting the need for enhanced protection and resilience.",
-      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-      "points": [
-        "Between 2018 and 2022, submarine cables between Taiwan and the Matsu Islands were cut 27 times.",
-        "Since 2023, there have been 11 disruptions to submarine systems in the Baltic Sea.",
-        "In September 2025, several cables were severed in the Bab al-Mandab Strait, disrupting 25% of cable capacity between Asia, Europe, and the Middle East."
-      ]
-    },
-    {
-      "summary": "AI is decompiling games, leading to both preservation benefits and ethical concerns.",
-      "significance": "AI mass decompiling of games enables preservation and accessibility but raises concerns over intellectual property and industry practices.",
-      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-      "points": [
-        "Popcar highlights AI's ability to create game mashups and enhance preservation.",
-        "AI decompilation threatens tech industry security, enabling unauthorized software use.",
-        "The process benefits game preservation, making old games accessible on new hardware."
       ]
     }
   ]
