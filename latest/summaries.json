@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-21T14:42:32.975307Z",
+  "generated": "2026-10-21T16:42:10.416159Z",
   "summaries": [
+    {
+      "summary": "Convicted fraudster Elizabeth Holmes allows filmmakers into her home before prison in a new documentary.",
+      "significance": "The story highlights the complex dynamics and questions of authenticity in documentary film-making, especially when disgraced figures allow cameras into their lives.",
+      "url": "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
+      "points": [
+        "Holmes and her partner Billy Evans allow filmmakers Nathan Fielder and Lance Oppenheim access for \"You Can See Everything\".",
+        "The documentary questions Holmes' authenticity and her motives before starting her prison sentence.",
+        "Holmes claims she is \"always being real\" despite the scrutiny over her intentions."
+      ]
+    },
+    {
+      "summary": "A 24-year-old Kansas man was arrested for allegedly threatening to shoot Donald Trump before a rally.",
+      "significance": "The arrest highlights ongoing security risks to former President Trump, following previous threats and incidents.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/kansas-man-arrested-allegedly-threaten-shoot-trump",
+      "points": [
+        "Jaden J Read, from Clearwater, Kansas, was arrested.",
+        "The threats were made online before Trump's rally in the Wichita area.",
+        "The arrest occurred last Saturday by federal authorities."
+      ]
+    },
+    {
+      "summary": "Reform UK fined over £2,000 for not declaring as publisher of campaign materials and for late payment.",
+      "url": "https://www.theguardian.com/politics/2026/oct/21/reform-uk-fined-failing-to-pay-fine-elections-rule-breach",
+      "points": [
+        "Reform UK fined more than £2,000 by Electoral Commission.",
+        "Four campaign materials lacked required \"imprint\" declaration.",
+        "Additional penalty for not paying original fine on time."
+      ]
+    },
+    {
+      "summary": "Neil Bush, a Republican and brother of former President Bush, voted for Democratic Senate candidate James Talarico in Texas.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico",
+      "points": [
+        "Neil Bush criticized Republican candidate Ken Paxton's conduct.",
+        "Bush expressed admiration for Democratic candidate James Talarico\u2019s principles.",
+        "The vote took place in Texas Senate race."
+      ]
+    },
+    {
+      "summary": "DuckDB releases version 2.0.0 LTS, codenamed \u201cCinnamon Teal,\u201d with significant feature updates and improvements.",
+      "significance": "DuckDB 2.0.0 LTS introduces significant features and improvements, enhancing database functionality and stability for users and developers.",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "points": [
+        "Released with support until at least October 2027, built from nearly 20,000 commits.",
+        "Introduces the Quack protocol with performance improvements and asynchronous I/O for faster queries.",
+        "Includes agent mode for coding agents, reducing DuckDB output by 59% in TPC-H experiments."
+      ]
+    },
+    {
+      "summary": "A compromised version of LiteLLM on PyPI installs a credential stealer and backdoor.",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "points": [
+        "Version 1.107.0 of LiteLLM on PyPI installs a backdoor and credential stealer.",
+        "The stealer collects SSH keys, cloud credentials, and other sensitive data.",
+        "PyPI has removed the compromised version, with 1.106.2, 1.107.0rc1, and 1.107.0rc2 being clean."
+      ]
+    },
+    {
+      "summary": "A French-language steampunk version of Battle Drones, named Panache, was forked from the original game and set in 1900s France.",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/",
+      "points": [
+        "Released under Apache 2.0 License, Panache features steampunk aesthetics like dirigibles and steam-powered wagons.",
+        "The game includes an animated intro and French twist in music, available for mobile and browser.",
+        "Original Battle Drones models were updated to steampunk alternatives, showcasing changes like the Goliath design."
+      ]
+    },
     {
       "summary": "Demonstrations over public education failures in Greece as Macron criticizes commentary on French protests; Trump announces release of US citizen from Russian prison.",
       "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
@@ -3680,71 +3746,6 @@
         "Independent senator Lidia Thorpe introduced the bills into the Senate.",
         "Liberal Paul Scarr criticizes major parties' stance, planning to write to Queensland attorney general.",
         "Bill aims to prevent shackling and stop children from being strip-searched."
-      ]
-    },
-    {
-      "summary": "Paddington: The Musical, a hit from London's West End, is set to debut in Sydney in September 2027.",
-      "url": "https://www.theguardian.com/stage/2026/oct/15/paddington-the-musical-sydney-australia-2027",
-      "points": [
-        "Show will run for 10 weeks at Sydney's Capitol Theatre.",
-        "Production has been running in London\u2019s West End since 2025.",
-        "Dates for other Australian cities have not been announced yet."
-      ]
-    },
-    {
-      "summary": "A 21-year-old woman reported being sexually assaulted at a fraternity house near the University of Chicago.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/sexual-assault-report-uchicago",
-      "points": [
-        "Incident occurred at Alpha Epsilon Pi residence at approximately 1:50am on Sunday.",
-        "Follows a gang-rape report at Cornell, sparking national criticism of Greek life.",
-        "Part of renewed scrutiny over recurrent misconduct in fraternities nationwide."
-      ]
-    },
-    {
-      "summary": "An AI experiment created a \"Tree Appreciator\" game using Claude, focusing on appreciating differences between algorithmically generated trees.",
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "points": [
-        "Game designed in 3 hours and 7 minutes.",
-        "Features music, animation, and achievements.",
-        "Built using Claude Opus 5.5 Max and Three.js."
-      ]
-    },
-    {
-      "summary": "University of Maryland suspends its club tennis team after racist imagery was sent to other schools before a tournament.",
-      "significance": "The suspension of the University of Maryland club tennis team over racist imagery highlights ongoing issues with discrimination in collegiate sports.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/university-maryland-club-tennis-suspended-racist-imagery",
-      "points": [
-        "Team suspended indefinitely following circulation of Ku Klux Klan imagery.",
-        "Offense spotted by Toni Rachal, president of Howard University\u2019s tennis team.",
-        "Controversy involved a shared Google document sent to participating schools."
-      ]
-    },
-    {
-      "summary": "UK hospitality sector plans to offer up to 100,000 jobs to young unemployed individuals over three years.",
-      "url": "https://www.theguardian.com/society/2026/oct/14/uk-hospitality-sector-100000-jobs-young-people-neets",
-      "points": [
-        "Scheme targets 18- to 24-year-olds not in employment, education, or training.",
-        "Nando\u2019s and Fuller\u2019s among participating businesses.",
-        "Former health secretary warns of 1.25 million Neets in five years without intervention."
-      ]
-    },
-    {
-      "summary": "Anthropic's new version control system, Scion, is criticized for closely resembling Mononoke, a system developed by Meta.",
-      "significance": "The story highlights the importance of acknowledging prior work in technological advancements, emphasizing the ethical implications of inspiration versus plagiarism in AI development.",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "points": [
-        "The criticism centers on Scion's use of \"derived data\" concept, previously used in Mononoke.",
-        "Mononoke's influence is noted as not being acknowledged in Scion's documentation.",
-        "The author emphasizes the importance of crediting prior work in system design."
-      ]
-    },
-    {
-      "summary": "Jev 1.14.0 release includes experimental features for creativity, including images, new types, and longer context lengths.",
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "points": [
-        "Release introduces experimental \"danger zone\" features for creativity, cautioning against production use.",
-        "New features enable multimodality in current Jev models, allowing image integration in JSON interface.",
-        "Context length limits removed, previously restricted for reliability, now fully accessible to users."
       ]
     }
   ]
