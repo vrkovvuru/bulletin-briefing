@@ -1,6 +1,109 @@
 {
-  "generated": "2026-10-22T16:41:43.774664Z",
+  "generated": "2026-10-22T18:42:52.925335Z",
   "summaries": [
+    {
+      "summary": "Social media influencer Clavicular pleaded not guilty to raping a 17-year-old girl.",
+      "significance": "The case impacts the \"looksmaxxing\" community and highlights issues of alcohol and sexual assault involving social media influencers.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/clavicular-pleads-not-guilty-rape",
+      "points": [
+        "Clavicular, real name Braden Peters, 20, denies the charges.",
+        "The alleged assault occurred at his family\u2019s home in Chatham, Massachusetts.",
+        "Peters is accused of giving alcohol to the victim until she was drunk."
+      ]
+    },
+    {
+      "summary": "Sacha Baron Cohen returns with Ali G in a new high-stakes satire that mixes old and new characters to tackle contemporary issues.",
+      "url": "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste",
+      "points": [
+        "Republican leader threatens to sue Cohen, calling him 'a liar and a pervert'.",
+        "Features two new characters: Erran Morad and Dr Nira Cain-N\u2019Degrocello.",
+        "Unlike the 2002 film, this sequel is not a full narrative but a series of hoaxes."
+      ]
+    },
+    {
+      "summary": "Zach Braff discusses his acting career and the challenges of breaking into the industry today.",
+      "url": "https://www.theguardian.com/film/2026/oct/22/zach-braff-reader-interview",
+      "points": [
+        "Braff compares acting success to winning the lottery, despite talent and looks.",
+        "He mentions the difficulty of breaking into the industry now compared to the early 2000s.",
+        "Braff shares his approach to directing famous actors, pretending not to be starstruck."
+      ]
+    },
+    {
+      "summary": "UK government advises all citizens to stockpile water and food supplies to prepare for emergencies.",
+      "significance": "Government advice on stockpiling water and food reflects growing concern over emergencies due to climate crisis, technology failures, and state threats.",
+      "url": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+      "points": [
+        "Citizens should store nine litres of water and three days' worth of food.",
+        "Campaign named \"Be Ready\" targets weather, cyber, and other serious emergencies.",
+        "Official concern over climate crisis, technological dependency, and hostile state threats drives guidance."
+      ]
+    },
+    {
+      "summary": "Energy secretary Miatta Fahnbulleh clarifies support for migration policy after initially joking about it.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
+      "points": [
+        "Fahnbulleh says her \"awkward\" interview remark was meant to be lighthearted.",
+        "She initially refused to confirm support for making foreign workers wait 15 years for permanent residency.",
+        "Clarification came after she joked about not being able to \"lie\" about supporting key policy changes."
+      ]
+    },
+    {
+      "summary": "Residents near River Taff demand answers after thousands of litres of kerosene leaked from a GE Aerospace site, causing water contamination and health issues.",
+      "url": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
+      "points": [
+        "GE Aerospace site leaked thousands of litres of kerosene into River Taff.",
+        "Natural Resources Wales and South Wales fire service responded to contain the leak.",
+        "Residents advised to keep windows and doors shut due to chemical odours."
+      ]
+    },
+    {
+      "summary": "Nvidia releases OpenShell, a secure runtime environment for autonomous AI agents with strict policy enforcement and isolation features.",
+      "significance": "Nvidia's OpenShell introduces a secure runtime environment for autonomous AI agents, enabling controlled access to resources and enhancing data security.",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "points": [
+        "OpenShell uses formal verification to check policy changes for risky access before application.",
+        "Each AI agent runs in an isolated sandbox with kernel controls to limit file access and system calls.",
+        "OpenShell supports Linux, macOS on Apple Silicon, and Windows with WSL 2 (experimental)."
+      ]
+    },
+    {
+      "summary": "The article discusses methods for tracking devices on a network, including naming conventions and using tools like arp-scan and DNS servers.",
+      "url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
+      "points": [
+        "Uses \"region.location.devicetype.unitnumber\" as a naming convention example",
+        "arp-scan 1.10.0 scanned 256 hosts in 2.018 seconds, with 15 responding",
+        "Combining DNS and DHCP ensures consistent IP assignment and device tracking"
+      ]
+    },
+    {
+      "summary": "Taler, an online payment system, is preparing for operation in Germany after GLS Bank's withdrawal from its role as e-money issuer.",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "points": [
+        "GLS Bank decided in January 2026 not to continue as the e-money issuer for Taler.",
+        "Taler Operations AG, a new German stock corporation, is forming to operate Taler in Euro.",
+        "The project requires BaFin authorization and funding from investors to become operable."
+      ]
+    },
+    {
+      "summary": "Anthropic donates Agent Skills standard to the Agentic AI Foundation, emphasizing openness and community involvement.",
+      "significance": "The donation of Agent Skills to the Agentic AI Foundation advances open standards in AI, fostering community-driven and vendor-neutral development.",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "points": [
+        "Anthropic co-founded the Agentic AI Foundation with Block and OpenAI.",
+        "The donation follows the previous donation of the Model Context Protocol (MCP).",
+        "The decision was predicted by Anthropic in December of the previous year."
+      ]
+    },
+    {
+      "summary": "Erik Bernhardsson, Modal CEO, discusses the company\u2019s serverless AI infrastructure and its growth since Series D funding.",
+      "url": "https://www.latent.space/p/modal-d",
+      "points": [
+        "Modal crossed a significant revenue milestone and spun up nearly three billion sandboxes since their $5B Series C.",
+        "Sandboxes now account for roughly a third of Modal\u2019s revenue, despite initial modest adoption.",
+        "Modal\u2019s infrastructure includes a buffer of available GPUs, custom filesystem, and process checkpointing to enable elasticity."
+      ]
+    },
     {
       "summary": "Shamonda virus, typically found in livestock, detected in a human in France for the first time, with investigations into its role in the man's death.",
       "significance": "The detection of Shamonda virus in a human for the first time in France marks a significant zoonotic spillover event, potentially expanding the virus's impact beyond livestock.",
@@ -3644,112 +3747,6 @@
         "90% of neurons in Qwen-32B have a single function.",
         "Meta releases Muse Spark Open, a 816B-total/42B-active MoE model.",
         "Muse Spark Open ranks first among US open-weight models on Artificial Analysis Intelligence Index."
-      ]
-    },
-    {
-      "summary": "Jamaica's petition for slavery reparations from the UK will be heard by the UK Privy Council in March 2027.",
-      "significance": "Jamaica's petition for slavery reparations to be heard by UK privy council in 2027 marks a significant step in seeking legal advice on historical injustices.",
-      "url": "https://www.theguardian.com/world/2026/oct/16/jamaica-slavery-reparations-petition-heard-uk-privy-council-march-2027-king-charles",
-      "points": [
-        "Olivia Grange, Jamaica\u2019s minister of culture, confirmed the provisional hearing date.",
-        "The UK has until November 2023 to file its case.",
-        "The Privy Council is the final court of appeal for UK overseas territories and some Commonwealth countries."
-      ]
-    },
-    {
-      "summary": "Police identified the remains found in a barrel in Lake Mead as Edward Lelburian Jackson.",
-      "significance": "The identification of Edward Lelburian Jackson's remains solves a mystery that began with his discovery in drought-revealed Lake Mead in 2022.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/edward-lelburian-jackson-barrel-lake-mead",
-      "points": [
-        "Edward Lelburian Jackson's remains were found in 2022.",
-        "Initial autopsy showed Jackson was killed decades ago.",
-        "Clark county coroner Melanie Rouse revealed his identity four years later."
-      ]
-    },
-    {
-      "summary": "RPKI now protects 70% of internet routes, up from 54% a year ago, significantly enhancing internet security.",
-      "significance": "RPKI's protection of 70% of internet routes enhances global cybersecurity by preventing routing errors and malicious traffic redirection.",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "points": [
-        "China's RPKI-protected IPv4 addresses surged from 3.7% to 83% in a year.",
-        "RPKI protection increased by 16.4 percentage points in the last year, more than the previous two years combined.",
-        "Invalid RPKI routes are seen by fewer vantage points, indicating effective filtering by networks."
-      ]
-    },
-    {
-      "summary": "Meta's new commercial terms, starting Oct. 30, will allow scraping of news sites linked to business accounts on its platforms.",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "points": [
-        "Business accounts must consent to scraping if they continue using Meta services.",
-        "Scraping can be used to train Meta\u2019s AI products, according to legal experts.",
-        "No opt-out option exists before Oct. 30, forcing publishers to stop using Meta services to avoid consent."
-      ]
-    },
-    {
-      "summary": "Rust 1.99.1, a new point release, fixes several regressions from prior versions.",
-      "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
-      "points": [
-        "Rust 1.99.1 adds a function to its compiler-builtins library as a fallback.",
-        "The update resolves an issue where certain UEFI targets were broken for projects using specific calls.",
-        "A problem with the return register in FFI calls has been fixed, ensuring proper zero-extension."
-      ]
-    },
-    {
-      "summary": "A new same-day metagenomic test at Great Ormond Street Hospital detects hidden infections in critically ill children, improving treatment outcomes.",
-      "significance": "The same-day metagenomics test allows doctors to detect and treat hidden infections more effectively in critically ill children, improving patient outcomes.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "The test identified infections in 122 critically ill children, influencing prescribing decisions in 25% of cases.",
-        "It detected 50 organisms not found by routine diagnostics, aiding in the fight against antimicrobial resistance.",
-        "Willow Crowther, a 10-year-old pneumonia patient, was saved by the test, which identified a drug-resistant bacterial infection."
-      ]
-    },
-    {
-      "summary": "Russia and Ukraine resume strikes on each other\u2019s energy infrastructure after Trump\u2019s unilateral \"energy ceasefire\" fails.",
-      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
-      "points": [
-        "Moscow launches record drone attacks on central Ukraine's infrastructure.",
-        "Kyiv restarts strikes on Russian oil refineries, including one in Ryazan.",
-        "Trump's \"energy ceasefire\" was not agreed upon by Russia or Ukraine."
-      ]
-    },
-    {
-      "summary": "Meta launched Muse Spark Open, an AI model claiming superior multi-step reasoning and software engineering capabilities compared to Chinese rivals.",
-      "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-      "points": [
-        "Meta's Muse Spark Open is touted as the most capable US open-weight AI model.",
-        "Alexandr Wang, Meta\u2019s AI chief, announced the model's release on X.",
-        "The model aims to compete with and outperform leading Chinese AI products."
-      ]
-    },
-    {
-      "summary": "A user encountered malware disguised as a South Park episode on torrent sites, which repeatedly attempted to import into their Sonarr media management software.",
-      "significance": "This story highlights the ongoing threat of malware disguised as torrent files, affecting media download automation tools and personal data security.",
-      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-      "points": [
-        "Malware file named \"South Park S29E03 1080p WEB H264-MeGusta.exe\" was 886 MB with 118 KB of actual malware.",
-        "Malware targeted cryptocurrency wallets, password managers, remote access tools, and email clients.",
-        "Creator used ChaCha20 encryption and obfuscation techniques but left the key inside the file."
-      ]
-    },
-    {
-      "summary": "Zimbabwean author denies using AI for prize-winning story after Atlantic article claims AI generated it.",
-      "significance": "The denial impacts the integrity and credibility of literary awards in the age of AI.",
-      "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
-      "points": [
-        "Simbarashe Kundizeza won Caine prize for African writers on 6 October.",
-        "The Atlantic article claims AI flagged \"The Blue Fighter\" as almost entirely AI-generated.",
-        "Vauhini Vara authored the Atlantic article questioning the story's authenticity."
-      ]
-    },
-    {
-      "summary": "Despite declining call center jobs, human receptionists outperform AI in converting calls into successful outcomes based on a study of 14,000 calls.",
-      "significance": "The story highlights that despite AI's rise, human call center workers still significantly outperform AI in converting calls to successful business outcomes.",
-      "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
-      "points": [
-        "Human receptionists achieved about 4x stronger conversion rates than AI.",
-        "AI-handled calls had a 700% higher rate of no-progress hangups.",
-        "Human receptionists missed about 15% more calls compared to AI agents."
       ]
     }
   ]

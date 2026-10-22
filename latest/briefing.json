@@ -2,57 +2,75 @@
   "date": "2026-10-22",
   "stories": [
     {
-      "title": "Shamonda virus detected in human for first time in France",
-      "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with investigations under way to explore whether it contributed to his death. Shamonda virus is a type of bunyavirus and is spread by bites from infected midges. According to the Austrian Agency for Health and Food Safety , in animals such as cattle, sheep and goats it can cause diarrhoea, lack of appetite and a decline in milk yield, “as well as abortions and congenital abnormalities in newborn calves, lambs and kids”. Continue reading...",
-      "alsoReportedBy": ["BBC News", "Al Jazeera"]
-    },
-    {
-      "title": "South Africa crush Australia by an innings to level cricket Test series",
-      "url": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss",
+      "title": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
+      "url": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "South Africa storm back to crush Australia by an innings in the second Test and level the series 1-1 with one to play.",
-      "alsoReportedBy": []
+      "summary": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
-      "title": "Israeli attacks in Gaza kill four, including a young girl",
-      "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
+      "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+      "url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
+      "summary": "Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.",
       "alsoReportedBy": []
     },
     {
-      "title": "UK needs to be ready for emergencies and hostile acts, warns Streeting",
+      "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
       "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The defence secretary warned the public and businesses needed to think about how they would cope with natural disasters and cyber attacks.",
+      "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
       "alsoReportedBy": []
     },
     {
-      "title": "Italy and Spain lift border controls after months of tension over Ceuta",
-      "url": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
+      "title": "Trump says NBA star LeBron James disrespected US national anthem",
+      "url": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.",
+      "summary": "NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.",
       "alsoReportedBy": []
     },
     {
-      "title": "UK plans emergency powers to protect undersea cables",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lz45d820o?at_medium=RSS&at_campaign=rss",
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Ministers are set to gain powers over telecoms companies during national security emergencies.",
+      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘Looksmaxxing’ influencer Clavicular pleads not guilty to raping teen",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/clavicular-pleads-not-guilty-rape",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The social media personality denies allegations he gave a girl alcohol until she was drunk and sexually assaulted her The “looksmaxxing” livestreamer Braden Peters, better known by his stage name Clavicular , pleaded not guilty on Thursday to charges that he raped a 17-year-old girl at his family’s Massachusetts home. A social media personality known for promoting extreme devotion to male beauty, Peters, 20, is accused of giving the girl alcohol until she was drunk and then sexually assaulting her when she visited him in Chatham, on Cape Cod, in May 2025. Continue reading...",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ali G: Who Iz I? review – Sacha Baron Cohen’s high-stakes satire punches up and down with spectacular bad taste",
+      "url": "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Baron Cohen’s live-ammo prankster is back, 20 years on, but has to battle with his own irrelevance in search of big laughs and the approval of a new generation • Exclusive: Republican leader embarrassed by film says he plays to sue Sacha Baron Cohen: ‘A liar and a pervert’ If you liked Sacha Baron Cohen’s Ali G the first time around, you’ll like this less; if you disliked it, you’ll dislike this more; if you suspected it was racist, you’ll be more emboldened to say so – especially as Baron Cohen has dreamed up a whole new character apparently to pre-empt and mock precisely that objection. Broad and crass as it often is – in fact always is – this Ali G sequel is sometimes funny: the athletic vigour of our hero’s pranking and punking is like the umpteenth Jackass film at which you might find yourself laughing, and Baron Cohen blunders with the semi-intentional force of an XL bully into the issue of whether jokes are still allowed. Unlike the first film, Ali G in Da House from 2002, this is not a full written-through narrative. It is basically another live-ammo series of hoaxes with some spectacular bad taste perpetrated upon the deserving and less deserving; it satirises the shamelessness of anti-woke free speech martyrs, punching up and down with grossout cringe, and the targets include some big names who shouldn’t be revealed here. There are two other subordinate characters: Erran Morad, a sinister Mossad/IDF officer turned US security consultant (who appeared in Baron Cohen’s Who Is America? TV series ), and a new figure: Dr Nira Cain-N’Degrocello, a grotesquely supercilious white liberal who is the self-appointed scourge of cultural appropriation. The dupes are built into a big silly climax fabricated with body doubles and (presumably) covert reshooting. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -65,39 +83,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-      "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+      "title": "Zach Braff: ‘You can be talented and good-looking, but acting success is still like winning the lottery’",
+      "url": "https://www.theguardian.com/film/2026/oct/22/zach-braff-reader-interview",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Europe live – latest updates Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just hours after Vladimir Putin said he had agreed to resume trilateral negotiations after talks with the US envoy Steve Witkoff. Overnight, Moscow pounded the Ukrainian capital, killing at least two people and wounding 22, including four children. Targets included the southern bridge over the Dnipro River, civilian houses, energy infrastructure, an ambulance station, office buildings and a clinic. Continue reading...",
+      "summary": "The Scrubs and Garden State star answers your questions about working with megastars, getting his hair to look good and being brutally killed on BoJack Horseman How do you manage not to act starstruck when directing people like Morgan Freeman, Michael Caine and Harrison Ford? TopTramp That’s where my acting comes in – I pretend that I don’t know how famous they are. Every actor really wants a leader. They want someone who knows the script really well, has a plan for how the scene is going to be executed, and – in the case of comedy – knows how to make it funny. The last thing any of those guys wants is someone coming in starstruck and wide-eyed. So I use my acting skills to pretend I’m not starstruck and treat them like normal people. Your Fake Doctors, Real Friends podcast was a real help through lockdown. You were very emotionally open and personal; it was like catching up with friends. I still think about your line that making it in acting, even if you’re talented and good-looking, is like winning the lottery. Do you think that early 00s Zach Braff would make it in the present day the way you did? KamesJ Back then, the broadcast networks were making so many pilots, at least it was work for people. Now, I think it’s a much harder landscape to break through. I firmly believe that you can be talented and good-looking, but success is still like winning the lottery. I know plenty of brilliant actors whose lottery ticket hasn’t come up yet. I started auditioning at 14 and barely got anything for years, so I’ve always felt very lucky. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-      "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Crowd of 50 beats foreigner to death in South Africa",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
+      "url": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+      "summary": "‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz says When Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter. Outside the airport, it was -15C (5F). “I would come to understand that this was not an extreme cold,” she said. “But in the moment it was terrifying. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,75 +110,75 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day. From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivot Mr_202 from comments: Has there been a drop in visitor numbers to America either as tourists or migrant workers and if so, are US voters and businesses feeling the economic pinch? Maanvi: It’s hard to pin down exactly how much US tourism has been affected by Trump’s immigration crackdown. But various Trump policies have certainly made it more difficult for people from certain countries to visit the US – either as tourists, or academics and students, or business visitors. Earlier this year, union leaders in the hospitality industry said that the immigration crackdown has not only scared immigrant workers in the tourism indosuty, but also discouraged international tourism. José Olivares: The Welcome Corps refugee program, like all refugee programs in the US, was canceled and shut down by the Trump administration in early 2025. This was then compounded with further constraints on refugee communities and their ability to enter the US via travel bans — all through executive order. We recently reported on how the US is admitting only 17,500 refugees for Fiscal Year 2027, but they will “primarily” be white Afrikaners from South Africa. The administration’s refugee policies are now leaving thousands of vetted and approved refugees stuck in refugee camps or in dangerous conditions, including relatives of US citizens. It is hard to speculate, but a Democratic majority in congress would have a very challenging time reinstating the refugee and resettlement programs. Congress would have to introduce and then pass new legislation to override Trump’s refugee and “travel ban” executive orders, which would be a lengthy and difficult battle. At the moment, there is a major lawsuit playing out in a federal court that is challenging the administration’s refugee policies and executive orders. Advocates are hopeful that a federal judge will side with them to potentially override Trump’s executive orders and allow refugees to enter the US. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender pay gap . It says: The gender pay gap for full-time employees has continued to decline in the UK. It was 6.8% in April 2026, down from 7.2% in April 2025. This compares with 9.4% a decade ago and 16.4% 25 years ago. Secondly, I asked Healey whether he sees the banks as making excessive profits, which would be the coherent justification for him to increase the surcharge on bank profits – as he is expected to do in the Budget next week. He said: “You know the banks are the engine of investment in this country. The banks are doing well at the moment and that is good to see. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
+      "title": "Todd Blanche fails to rule out DoJ weighing in on states’ election results certifying process – US politics live",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent Alaska in the US Senate has taken her to parts of the massive state’s interior that are inaccessible by road and on the frontlines of the cost-of-living crisis she hopes will make her the first Democrat to win the seat in nearly two decades. Continue reading...",
+      "summary": "Attorney general says ‘there’s scenarios we could all come up with’ when asked if DoJ would intercede to stop states from certifying election Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent Alaska in the US Senate has taken her to parts of the massive state’s interior that are inaccessible by road and on the frontlines of the cost-of-living crisis she hopes will make her the first Democrat to win the seat in nearly two decades. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
+      "title": "Every Briton should stockpile water and food supplies, government advises",
+      "url": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile state Every Briton is being urged to stock up to nine litres of bottled water and three days’ worth of food in new government guidance designed to ensure that households can survive a weather, cyber or other serious emergency. The Be Ready campaign is aimed at persuading people to stock up supplies to last 72 hours, amid growing official concern about the impact of the climate crisis, technological dependancy and hostile state threats. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Crowd of 50 beats foreigner to death in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The teacher said she could not help children because she was badly injured by the attacker.",
+      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
       "alsoReportedBy": []
     },
     {
-      "title": "At least four dead after storm brings flooding to southern France",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+      "summary": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
       "alsoReportedBy": []
     },
     {
-      "title": "Two European women held captive for more than a year in Niger freed in Libya",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
+      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
       "alsoReportedBy": []
     },
     {
-      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "title": "Energy secretary appears to U-turn on opposition to tougher migration rules",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Miatta Fahnbulleh says reference to ‘awkward’ interview was meant to be lighthearted and self-deprecating The energy secretary has been forced to clarify that she backs Shabana Mahmood’s migration policy, after earlier joking that she had not been able to “lie” about supporting a key element of the changes. Miatta Fahnbulleh made the original remarks to a journalists’ event in Westminster, referring to an “awkward” Sky News interview in which she repeatedly refused to say she was in favour of plans to make foreign workers wait 15 years to get permanent residency. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Unsafe water, burning eyes and kerosene slicks: residents demand answers on River Taff leak",
+      "url": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "People near South Wales river told to keep windows and doors shut after 1,000s of litres of kerosene from a GE Aerospace site got into the water Oily slicks of kerosene still appeared to be leaking into the River Taff this week, several days after a breach of thousands of litres was spotted by members of the public. The breach into the Welsh river was identified last Friday, after people reported strong chemical odours emanating from the river. Natural Resources Wales (NRW) officers arrived on site soon afterwards to identify the source of the pollution and were assisted by South Wales fire and rescue service, which placed absorbent mats and booms to contain as much kerosene as possible. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Total ban on protests in Marseille and Lyon after riots",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
-      "url": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The U.S. and Israel are preparing plans for a possible attack on Iran in early November, after the U.S. midterm elections, a person briefed on war planning told NPR. Iran said it is prepared.",
+      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
       "alsoReportedBy": []
     },
     {
@@ -227,8 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "What's Getting Pwned",
-      "url": "https://pwn.watch/",
+      "title": "Nvidia OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -245,8 +245,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Using a lookup-table to correct an approximation",
-      "url": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
+      "title": "Tell your network to explain itself and then some",
+      "url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,12 +263,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun side note: since my blog content is available to Claude via the datasette-mcp plugin I found that post by prompting Claude to \" Use simonwillison.net MCP to find if I ever talked about how I want skills to be donated to a standards body \". Tags: standards , ai , generative-ai , llms , anthropic , model-context-protocol , skills",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "url": "https://www.latent.space/p/modal-d",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
       "alsoReportedBy": []
     },
     {
@@ -299,24 +317,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Panache — RTS Belle Époque pour mobile",
-      "url": "https://simonwillison.net/2026/Oct/21/panache/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile et navigateur, dans la France de la Belle Époque (vers 1900) : dirigeables, Fardiers à vapeur, Creusot cuirassés, automates en képi, Gargantua la forteresse marchante — et beaucoup de panache. You can play Panache here - it's worth clicking that link just to experience the new intro video. So far it's mostly just aesthetic updates as opposed to gameplay changes. The music has had a French twist added to it as well. The new steampunk models are so cool! Here's a page with the original Battle Drones models and that same page with the new Panache alternatives . This is a comparison of the original and the new design for the Goliath: Via @Meffysto69 Tags: game-design , open-source",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Claude Mods: Flipping the Harness Inside Out",
-      "url": "https://www.latent.space/p/claude-mods",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
       "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
       "source": "Import AI",
@@ -344,21 +344,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "An open source &#8220;bomb&#8221; drops from China",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "eMudhra Intermediate CA Compromise",
-      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0.13.4 and pip 26.2.2 and certifi 2026.10.19 have been released with upgraded certificate lists. There's a very informative thread about this on the official Python forum. Tags: encryption , https , pip , python , security , uv",
+      "summary": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile et navigateur, dans la France de la Belle Époque (vers 1900) : dirigeables, Fardiers à vapeur, Creusot cuirassés, automates en képi, Gargantua la forteresse marchante — et beaucoup de panache. You can play Panache here - it's worth clicking that link just to experience the new intro video. So far it's mostly just aesthetic updates as opposed to gameplay changes. The music has had a French twist added to it as well. The new steampunk models are so cool! Here's a page with the original Battle Drones models and that same page with the new Panache alternatives . This is a comparison of the original and the new design for the Goliath: Via @Meffysto69 Tags: game-design , open-source",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "url": "https://www.latent.space/p/claude-mods",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
       "alsoReportedBy": []
     }
   ]
