@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-22T18:42:52.925335Z",
+  "generated": "2026-10-22T20:41:06.580057Z",
   "summaries": [
+    {
+      "summary": "Libya and Türkiye's maritime deal, ratified by Libya\u2019s eastern parliament, stirs controversy over rights in the Mediterranean.",
+      "significance": "The deal revives dispute over maritime rights in the eastern Mediterranean, affecting regional tensions between Libya-Turkiye and opposing nations like Greece, Cyprus, and Egypt.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
+      "points": [
+        "Greece, Cyprus, and Egypt object to the deal, citing infringements on their sovereign rights.",
+        "The deal, signed seven years ago by Libya\u2019s Government of National Unity, revives disputes over gas exploration.",
+        "Athens has referred the maritime deal to the UN Security Council for review."
+      ]
+    },
+    {
+      "summary": "US actor Tom Skerritt, known for roles in \"Alien,\" \"Top Gun,\" and \"Picket Fences,\" died at 93.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Skerritt died on Wednesday of natural causes, born on 25 August 1933.",
+        "He starred in \"Alien,\" \"Top Gun,\" and the TV series \"Picket Fences.\"",
+        "Co-founded TheFilmSchool in Seattle and the Red Badge Project for veterans."
+      ]
+    },
+    {
+      "summary": "Trump criticizes Ohio's Republican governor for opposing a controversial ad by Ramaswamy targeting his Democratic rival.",
+      "significance": "The story highlights internal Republican Party conflict over campaign tactics and loyalty.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
+      "points": [
+        "Mike DeWine called Ramaswamy\u2019s ad featuring Amy Acton's estranged mother \"wrong\".",
+        "Trump urged Ramaswamy to keep the ad running and accused DeWine of disloyalty.",
+        "The ad targets Democratic gubernatorial candidate Amy Acton."
+      ]
+    },
+    {
+      "summary": "UK regulators plan to relax post-2008 rules holding City bosses accountable for misconduct.",
+      "url": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
+      "points": [
+        "Plans aim to save businesses about £2bn over 10 years.",
+        "140,000 managers will be freed from extra checks.",
+        "Reduction in reporting for \"lower-level misconduct\" is included."
+      ]
+    },
     {
       "summary": "Social media influencer Clavicular pleaded not guilty to raping a 17-year-old girl.",
       "significance": "The case impacts the \"looksmaxxing\" community and highlights issues of alcohol and sexual assault involving social media influencers.",
@@ -3710,43 +3748,6 @@
       "points": [
         "Vance's strategy includes adopting Trump's approach of attacking Democrats and using humor.",
         "Jonathan Freedland discusses Vance's efforts to court voters with Arwa Mahdawi."
-      ]
-    },
-    {
-      "summary": "Police lock down Sydney suburb Dulwich Hill searching for a man seen with a shotgun.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/16/sydney-suburb-in-lockdown-as-police-search-for-man-armed-with-shotgun-ntwnfb",
-      "points": [
-        "Police searching area around Williams Parade and Constitution Road.",
-        "Man allegedly set a stolen car on fire before fleeing on foot.",
-        "Aerial and armed support deployed in the manhunt."
-      ]
-    },
-    {
-      "summary": "A firearms manufacturer running for One Nation in NSW opposes new gun laws enacted post-Bondi massacre.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/16/weapons-manufacturer-jeff-bacon-one-nation-opposes-bondi-gun-laws-ntwnfb",
-      "points": [
-        "Jeff Bacon, Oceania Precision's director, aims to repeal recent NSW gun legislation.",
-        "Bacon claims all rifles his company produces were banned under new laws.",
-        "One Nation's NSW leader, Mike Newman, described Bacon as his go-to firearms expert."
-      ]
-    },
-    {
-      "summary": "Sill is an open-source app that allows users to display any Mac window on their iPhone or iPad, supporting touch, Apple Pencil, and keyboard inputs.",
-      "significance": "Sill enables Mac users to view and interact with any Mac window on their iPhone or iPad, enhancing remote device control and accessibility.",
-      "url": "https://github.com/Saffsanity/sill",
-      "points": [
-        "Sill captures Mac windows as HEVC video and sends them to iOS devices over the same network, USB, or Direct Wireless Connection.",
-        "Users can resize streamed window text and control the Mac's keyboard and mouse directly from their iOS device."
-      ]
-    },
-    {
-      "summary": "Researchers disprove polysemanticity in neural networks, enhancing interpretability and alignment.",
-      "significance": "The story matters because it disproves polysemanticity, greatly enhancing the interpretability and alignment of neural networks, potentially transforming AI safety and development.",
-      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-      "points": [
-        "90% of neurons in Qwen-32B have a single function.",
-        "Meta releases Muse Spark Open, a 816B-total/42B-active MoE model.",
-        "Muse Spark Open ranks first among US open-weight models on Artificial Analysis Intelligence Index."
       ]
     }
   ]
