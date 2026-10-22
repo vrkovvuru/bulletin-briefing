@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-21T22:41:31.497621Z",
+  "generated": "2026-10-22T00:41:30.286125Z",
   "summaries": [
+    {
+      "summary": "PNG's parliament will decide on ratifying a 2019 referendum where Bougainvilleans voted for independence.",
+      "significance": "PNG's parliament set to decide on ratifying Bougainville's 2019 independence referendum, facing a reckoning on secession.",
+      "url": "https://www.theguardian.com/world/2026/oct/22/bougainville-independence-referendum-papua-new-guinea-png",
+      "points": [
+        "Nearly 98% of Bougainvilleans voted for independence in a 2019 referendum.",
+        "The referendum was UN-sanctioned and now awaits PNG's parliamentary ratification.",
+        "Bougainville has long sought secession from Papua New Guinea for independence."
+      ]
+    },
+    {
+      "summary": "US orders some diplomats and families to leave Saudi Arabia due to Houthi attacks.",
+      "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+      "points": [
+        "At least three people killed in recent attacks on an airport and oilfield.",
+        "Withdrawals also advised in UAE, Jordan, Qatar, and Bahrain.",
+        "Houthis, backed by Iran, targeted civilian airports and critical infrastructure."
+      ]
+    },
+    {
+      "summary": "Aneurin Bevan, architect of the NHS, was monitored by MI5 for over two decades, though his file was deemed unremarkable.",
+      "significance": "The release of Aneurin Bevan's security files by the National Archives reveals long-term surveillance despite a \"remarkably tame\" assessment, affecting perceptions of postwar political scrutiny.",
+      "url": "https://www.theguardian.com/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
+      "points": [
+        "MI5 monitored Bevan from the 1930s, questioning his links with communists.",
+        "Surveillance persisted even after Bevan became a minister in the Labour government.",
+        "Official files released to the National Archives reveal the \"remarkably tame\" nature of Bevan's security dossier."
+      ]
+    },
+    {
+      "summary": "mitmproxy introduces a new `--emudhra` option to sign TLS certificates with a compromised eMudhra CA key.",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "points": [
+        "The `--emudhra` option allows signing TLS certificates using a compromised eMudhra intermediate CA key.",
+        "Option to set supported ciphers for mitmproxy <-> server connections using OpenSSL syntax.",
+        "Involves the EM OV TLS CA - G3C intermediate CA and the emSign Root TLS CA - G3 root."
+      ]
+    },
+    {
+      "summary": "A PHP vulnerability lacks easy exploits despite widespread concern and numerous false proof-of-concept attempts.",
+      "significance": "This story matters because it clarifies that the recent PHP vulnerability is not easily exploitable despite widespread belief fueled by AI tools, affecting perceptions and responses to the threat.",
+      "url": "https://eliastaylor.com/noexploit/",
+      "points": [
+        "A PHP core team member predicted immediate exploits post-patch.",
+        "Thousands of false \"PoC\" exploits are circulating on GitHub.",
+        "The vulnerability requires a local-file-inclusion prerequisite, reducing its severity."
+      ]
+    },
     {
       "summary": "Pope Leo XIV does not require further treatment after successful lung cancer surgery.",
       "significance": "Pope Leo XIV's doctors confirm no further treatment needed after lung cancer surgery, signaling positive health progress for the leader.",
@@ -3699,52 +3747,6 @@
       "points": [
         "Her decision could lead to her books being withdrawn from sale in the UK.",
         "Rooney avoids the UK to prevent potential imprisonment under Britain\u2019s terrorism laws."
-      ]
-    },
-    {
-      "summary": "Two people died in Istanbul due to severe flooding from the heaviest rainfall in 84 years.",
-      "significance": "The story highlights the致命影响和破坏性后果，当伊斯坦布尔遭遇84年来最大的降雨量时，这影响了超过1600万居民，并导致两人死亡和数百人被救援。",
-      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "14-year-old boy electrocuted stepping in a puddle.",
-        "34-year-old man died after slipping and hitting his head on the pavement.",
-        "Nearly 600 people rescued after becoming stranded in the floods."
-      ]
-    },
-    {
-      "summary": "Elon Musk claims US government imposed Starlink restrictions in Ukraine, amid tensions including a fire on a Romanian vessel.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-      "points": [
-        "Zelenskyy expressed feeling 'betrayed' by the US over Trump\u2019s diesel deal with Russia and Starlink restrictions.",
-        "Seven people are still missing after a fire on a vessel in Romanian territorial waters of the Black Sea.",
-        "Suspected Russian drones have attacked several ships off Romania and Bulgaria since last week."
-      ]
-    },
-    {
-      "summary": "Trump faces economic challenges ahead of midterms, with shifting Republican views on the economy.",
-      "url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
-      "points": [
-        "In September 2024, 65% of Republicans believed the US economy was worsening.",
-        "Six months later, after Trump's \"liberation day\" tariffs, only 33% of Republicans viewed the economy negatively.",
-        "Political polarization has reduced and confused the influence of economic conditions on US elections."
-      ]
-    },
-    {
-      "summary": "Global tech markets, particularly chip makers, are experiencing a sell-off due to inflation fears and potential interest rate hikes.",
-      "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-      "points": [
-        "South Korea\u2019s Kospi 200 index fell over 8%, reaching a six-month low.",
-        "Circuit breakers were triggered multiple times due to the sharp decline.",
-        "Companies like Samsung and SoftBank are among those affected by the sell-off."
-      ]
-    },
-    {
-      "summary": "UK Chancellor John Healey promises a \"breathing space\" for consumers and businesses in his first budget while adhering to fiscal rules.",
-      "url": "https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs",
-      "points": [
-        "Healey speaking at IMF annual meetings in Bangkok",
-        "Budget will occur in a fortnight",
-        "Chancellor aims to balance fiscal rules with addressing rising costs"
       ]
     }
   ]

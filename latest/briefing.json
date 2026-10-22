@@ -2,6 +2,15 @@
   "date": "2026-10-21",
   "stories": [
     {
+      "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+      "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
+    },
+    {
       "title": "Declan Rice grabs Arsenal draw at Bayern Munich in Champions League",
       "url": "https://www.aljazeera.com/sports/2026/10/21/declan-rice-grabs-arsenal-draw-at-bayern-munich-in-champions-league?traffic_source=rss",
       "source": "Al Jazeera",
@@ -11,84 +20,93 @@
       "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
+      "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+      "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Citing 'challenges,' AIPAC halts endorsements and direct contributions to candidates",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The pro-Israel lobbying group and influential political donor announced it would no longer endorse candidates or give directly to campaigns, instead mobilizing its members to give individually.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The Justice Department begins notifying counties where it wants to monitor elections",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The department has long deployed election monitors, but the Trump administration's unprecedented steps to try to wrestle control over elections have led to new concerns about DOJ monitoring this year.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘Cut the umbilical cord’: Bougainville’s bid to break away from Papua New Guinea faces reckoning",
+      "url": "https://www.theguardian.com/world/2026/oct/22/bougainville-independence-referendum-papua-new-guinea-png",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "MPs in PNG to decide on ratifying a 2019 referendum in which Bougainvilleans voted overwhelmingly in favour of independence For decades, the distant island of Bougainville has fought for secession from Papua New Guinea, for a future as an independent nation of its own. This week, that long-running aspiration faces further challenge, with PNG’s parliament slated to debate the ratification of Bougainville’s 2019 UN-sanctioned referendum, in which nearly 98% of Bougainvilleans voted for independence. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The real reasons US politicians are getting older",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+      "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
       "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Canadian publisher cuts ties with best-selling writer Orelien over AI use",
-      "url": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
       "alsoReportedBy": []
     },
     {
-      "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A new poll shows record support for Democratic congressional candidates ahead of the midterms, as voters feel the party is better attuned to handling their top issues.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Man United captain Fernandes slams Carrick’s tactics after Como hammering",
-      "url": "https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Pope does not need further treatment after lung cancer surgery",
-      "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Meet the people moving north to escape increasingly hot summers",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-5977837/climate-uk-usa-housing",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "As climate change fuels hotter summers, some Britons are moving north in search of cooler weather. Could a similar shift be on the horizon in the United States?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
-      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The top Democrats on the House and Senate intelligence committees said they are working under the presumption that the president will seek to justify election interference by alleging fraud.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
-      "url": "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
+      "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+      "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "With You Can See Everything, Holmes joins other such high-profile subjects as Lance Armstrong, Imelda Marcos and Anthony Weiner to allow film-makers to document their lives. But do they ever come out well? In You Can See Everything, convicted fraudster Elizabeth Holmes invites film-makers Nathan Fielder and Lance Oppenheim into her home in a supposed act of “radical transparency”. Holmes is filmed, along with her partner, Billy Evans, and their two young children, in the weeks before starting a prison sentence for defrauding Theranos investors. “The best way for people to see who she is,” Evans says, “is to give as much access as possible into our daily lives”. It may also be the best way to market “Theranos 2.0”, which the couple are working on during filming. But the documentary questions whether Holmes is presenting her authentic self or a manufactured persona. Fielder speaks for the audience when he asks Holmes in a tense exchange whether she’s “being real” with him. “I’m always being real,” she says. That question of authenticity is at the heart of documentary film-making. You Can See Everything is as much about the ambiguous relationship between film-maker and subject as it is about Holmes herself. There is often a power struggle over narrative control in documentaries, with both sides of the dynamic wanting different outcomes from the final film. Watching You Can See Everything inevitably prompts the question: why would Holmes, days before she heads to jail, invite the scrutiny of a film crew? Continue reading...",
+      "summary": "Reports emerge of similar withdrawals in UAE, Jordan, Qatar and Bahrain amid concerns about a return to conflict with Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia, as the gulf kingdom faces a barrage of near-daily attacks, with at least three people killed at an airport and oilfield on Wednesday evening. Attacks on “civilian airports and other critical infrastructure” by the Iranian-supported Houthis in Yemen were highlighted as the reason for the drawdown. State department spokesperson Tommy Pigott said: “The safety and security of department personnel and their families remain our highest priority.” Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Putin releases American Stephen Hubbard from Russian prison",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Russian President Vladimir Putin has freed another American, 74-year-old Michigan native Stephen Hubbard, from a Russian prison following a request from President Trump.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "‘That was great, man. Wow. Man, I loved that,’ the president says from podium as multiple protesters interrupt his remarks Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic congressional nominee Brad Lander, several rabbis and Israel’s former deputy attorney general. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,21 +119,48 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-      "source": "Guardian World",
+      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day Sign in or sign up to join the conversation From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivot It’s our last US midterms live Q&A before election day on 3 November, and our reporters are answering your immigration questions. Since Donald Trump began his second term , ICE arrests have reached record levels , operations have become deadly , and immigration raids have hit politicians’ homes . Our reporting has documented the experiences of those directly affected by the harsh conditions in detention centers and resistance to ICE agents on the ground. The makeup of the Democratic party, plus key races to watch Who are the groups financially backing the candidates in the midterms? Will the Iran war cost Trump in the US midterm elections? Your questions answered Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answered your questions Continue reading...",
+      "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
       "alsoReportedBy": []
     },
     {
-      "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
-      "url": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
-      "source": "NPR World",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines. The Labor government and politicians across the parliament are still considering how they will respond when they return to Canberra next week, with ideas being floated including a new committee on MPs’ safety, greater resources for police, and motions of condolence for Haines, who lost both her legs after Monday’s incident . Renewed calls from the crossbench for reforms to question time and the tone of debate in parliament are unlikely to be taken up by the major parties. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
       "alsoReportedBy": []
     },
     {
@@ -128,57 +173,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "JD Vance says he is ‘a little bit disgusted’ by Republicans who criticized Ramaswamy campaign ad – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+      "title": "Aneurin Bevan’s personal security file was ‘remarkably tame’ – National Archives",
+      "url": "https://www.theguardian.com/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Vice-president says GOP representatives should ‘stop whining’ about advertisement featuring estranged mother of Ramaswamy’s Democrat opponent Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic congressional nominee Brad Lander, several rabbis and Israel’s former deputy attorney general. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-      "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
-      "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
-      "url": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Huge moment’: long-awaited extension to Sydney’s metro line to open next week",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/sydney-southwest-metro-extension-opening-friday-chris-minns",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The south-west metro extension will open on Friday 30 October, more than two years after the former T3 heavy rail line closed Get our breaking news email , free app or daily news podcast A long-awaited extension to Sydney’s metro line will open next week, bringing an end to more than two years of replacement buses for residents in the city’s south-west. In a video shared on Instagram on Thursday morning, the New South Wales premier, Chris Minns, announced that the south-west metro extension would open on Friday 30 October. In a statement, the government said the first service would commence at 4.31am. Continue reading...",
+      "summary": "Some in UK’s security services questioned why Welsh Labour firebrand was of interest Aneurin “Nye” Bevan, the Welsh Labour firebrand who spearheaded the creation of the NHS, was monitored by security services for more than two decades, though his personal file was “remarkably tame”, according to official files released to the public. Bevan came to MI5’s attention in the 1930s over concerns about his links with known communists, papers released to the National Archives show. Monitoring continued even after he became a minister in the postwar Labour government that created the NHS. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -209,17 +209,26 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": ["Hacker News"]
+    },
+    {
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": ["Lobsters"]
+      "alsoReportedBy": []
     },
     {
-      "title": "GitLab Critical Patch Release",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -229,15 +238,6 @@
     {
       "title": "zls 0.17.0",
       "url": "https://zigtools.org/zls/releases/0.17.0/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "source": "Hacker News",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
