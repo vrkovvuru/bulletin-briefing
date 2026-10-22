@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-22T14:42:22.306881Z",
+  "generated": "2026-10-22T16:41:43.774664Z",
   "summaries": [
+    {
+      "summary": "Shamonda virus, typically found in livestock, detected in a human in France for the first time, with investigations into its role in the man's death.",
+      "significance": "The detection of Shamonda virus in a human for the first time in France marks a significant zoonotic spillover event, potentially expanding the virus's impact beyond livestock.",
+      "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+      "points": [
+        "Virus normally spread by infected midges found in a human for the first time in France.",
+        "Shamonda virus can cause severe symptoms in livestock including abortions and congenital abnormalities.",
+        "Investigations ongoing to determine if the virus contributed to the man's death."
+      ]
+    },
+    {
+      "summary": "Russia attacked Kyiv with missiles shortly after agreeing to resume talks with Ukraine.",
+      "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+      "points": [
+        "At least two people were killed and 22 wounded, including four children.",
+        "Targets included civilian houses, energy infrastructure, and a clinic.",
+        "Attack occurred hours after Putin said he agreed to resume trilateral negotiations."
+      ]
+    },
+    {
+      "summary": "Ohio's Republican governor, Mike DeWine, criticizes Vivek Ramaswamy's campaign ad featuring the estranged mother of his Democratic opponent.",
+      "significance": "Republican governor of Ohio criticizes Vivek Ramaswamy's campaign for a controversial ad, highlighting ethical concerns in the US political race.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "points": [
+        "Mike DeWine calls the ad \"deeply troubling\" and \"wrong.\"",
+        "The ad features the estranged mother of Ramaswamy's Democratic opponent.",
+        "DeWine is the outgoing Republican governor of Ohio."
+      ]
+    },
+    {
+      "summary": "Quad9 will stop offering its free cyberprotection service in France starting November 24 due to a court ruling.",
+      "significance": "Quad9's exit from France due to a court ruling undermines internet transparency and leaves French users without a cybersecurity protection service.",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "points": [
+        "Quad9 must block DNS resolution for certain domain names in France, starting November 24.",
+        "The financial penalty for non-compliance is \u20ac1,000 per day, reduced from \u20ac580,000.",
+        "Quad9 argues the ruling contradicts its mission to protect privacy and cybersecurity globally."
+      ]
+    },
+    {
+      "summary": "Researchers from OOSEX GANG have developed a method to run iOS 16.5 firmware on Android devices using custom loaders and drivers.",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "points": [
+        "The system runs entirely in RAM and reverts to Android after reboot.",
+        "Features include the lock screen, swipe gestures, and native apps like Settings and Safari.",
+        "Requires Linux x86-64 with specific packages and about 12 GB of free disk space."
+      ]
+    },
     {
       "summary": "Macron condemns 'ultra-left' riots and plans to ban some protests, increasing police presence.",
       "significance": "Macron's condemnation of 'ultra-left' protests and plans to ban some demonstrations signal a tougher stance against riots in France.",
@@ -3702,53 +3750,6 @@
         "Human receptionists achieved about 4x stronger conversion rates than AI.",
         "AI-handled calls had a 700% higher rate of no-progress hangups.",
         "Human receptionists missed about 15% more calls compared to AI agents."
-      ]
-    },
-    {
-      "summary": "London's Lion Green Road housing project wins the 2026 Stirling Prize for its integration into a green landscape.",
-      "significance": "The story highlights a new approach to high-density, affordable housing that integrates well with natural landscapes, potentially influencing future urban development projects.",
-      "url": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Lion Green Road comprises 157 homes across five 13-sided blocks.",
-        "The project won the UK's top architecture award from the Royal Institute of British Architects (Riba).",
-        "Designed to blend into an area of natural beauty, it includes community gardens and allotments."
-      ]
-    },
-    {
-      "summary": "The FBI investigates letters with an unknown substance sent to election officials in multiple states ahead of the midterms.",
-      "significance": "The investigation into letters with an \"unknown substance\" sent to election officials highlights security concerns just weeks before the US midterm elections.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
-      "points": [
-        "Louisiana and Oklahoma election offices received envelopes with a powdery substance, causing evacuations.",
-        "A package with white powder intended for Ohio's secretary of state was intercepted by the US Postal Service.",
-        "The incidents occur just weeks before the US midterm elections in November."
-      ]
-    },
-    {
-      "summary": "Nigel Farage accused of supporting a Reform mayoral candidate who made racist remarks against David Lammy.",
-      "url": "https://www.theguardian.com/politics/2026/oct/15/farage-accused-protecting-reform-candidate-racist-slurs-david-lammy-itv-film",
-      "points": [
-        "ITV investigation reveals Farage was informed he was \"protecting\" the candidate.",
-        "Sarah Pochin, a Reform MP, complained about party officials being \"so fucking chauvinistic\".",
-        "The candidate reportedly told Lammy to \"go home to the Caribbean\"."
-      ]
-    },
-    {
-      "summary": "The author discusses adopting modern C conventions, focusing on changes in handling data types and compiler behaviors.",
-      "url": "https://abner.page/post/c23-conventions-1/",
-      "points": [
-        "The author requires callers to capture the rectangle of rendered elements to prevent business logic bugs.",
-        "Zardium suggested removing the 'auto' keyword in macros to make it act like the underscore in other languages.",
-        "The author notes a shift in how GCC and Clang handle union initialization, with C23 requiring whole union initialization."
-      ]
-    },
-    {
-      "summary": "An experiment created a two-player game called Chirp Pong using audio chirps for communication between phones.",
-      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-      "points": [
-        "Uses web microphone API to interpret game state through audio noises",
-        "Designed as a competitive game with graphical and gameplay twists beyond traditional Pong",
-        "Demonstrates feasibility of static HTML two-player games using audio for networking"
       ]
     }
   ]
