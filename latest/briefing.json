@@ -2,13 +2,22 @@
   "date": "2026-10-21",
   "stories": [
     {
-      "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
-      "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+      "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+      "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Reports emerge of similar withdrawals in UAE, Jordan, Qatar and Bahrain amid concerns about a return to conflict with Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia, as the gulf kingdom faces a barrage of near-daily attacks, with at least three people killed at an airport and oilfield on Wednesday evening. Attacks on “civilian airports and other critical infrastructure” by the Iranian-supported Houthis in Yemen were highlighted as the reason for the drawdown. State department spokesperson Tommy Pigott said: “The safety and security of department personnel and their families remain our highest priority.” Continue reading...",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "Tigray resumes daily life amid fears of wider war",
+      "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
-      "alsoReportedBy": ["BBC News", "The Guardian"]
+      "summary": "Mekelle’s reopening offers little relief as instability and economic hardship persist.",
+      "alsoReportedBy": []
     },
     {
       "title": "Declan Rice grabs Arsenal draw at Bayern Munich in Champions League",
@@ -20,21 +29,21 @@
       "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
-      "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
-      "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+      "title": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
+      "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
+      "summary": "Four former FDLR officers reveal how its anti-Tutsi ideology took root and endured in Africa.",
       "alsoReportedBy": []
     },
     {
-      "title": "Citing 'challenges,' AIPAC halts endorsements and direct contributions to candidates",
+      "title": "AIPAC halts endorsements and direct contributions to candidates",
       "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The pro-Israel lobbying group and influential political donor announced it would no longer endorse candidates or give directly to campaigns, instead mobilizing its members to give individually.",
+      "summary": "The pro-Israel lobbying group and influential political funder announced it would no longer endorse candidates or give directly to campaigns. AIPAC's affiliated super PAC, though, will continue.",
       "alsoReportedBy": []
     },
     {
@@ -47,6 +56,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Decoding America: Katie Zacharia and Trump’s women problem – video",
+      "url": "https://www.theguardian.com/us-news/video/2026/oct/22/decoding-america-katie-zacharia-and-trumps-women-problem-video",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "In this episode of Guardian Australia’s US politics podcast, co-hosts Jonathan Yerushalmy and Reged Ahmad look at how Katie Zacharia broke the record for shortest tenure as White House press secretary. They then look at the pattern of how women in the Trump administration are treated when they’re perceived to have made mistakes – versus how men seem to survive their missteps. They also look at how the US might be changing course on Russia’s war on Ukraine. Are relations between the US president, Donald Trump, and the Ukraine president, Volodymyr Zelenskyy, at their lowest point ever – and what happens if the US decides to take Russian president Vladimir Putin’s side in this war? Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+      "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "‘Cut the umbilical cord’: Bougainville’s bid to break away from Papua New Guinea faces reckoning",
       "url": "https://www.theguardian.com/world/2026/oct/22/bougainville-independence-referendum-papua-new-guinea-png",
       "source": "The Guardian",
@@ -56,39 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The real reasons US politicians are getting older",
-      "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+      "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
-      "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
-      "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Reports emerge of similar withdrawals in UAE, Jordan, Qatar and Bahrain amid concerns about a return to conflict with Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia, as the gulf kingdom faces a barrage of near-daily attacks, with at least three people killed at an airport and oilfield on Wednesday evening. Attacks on “civilian airports and other critical infrastructure” by the Iranian-supported Houthis in Yemen were highlighted as the reason for the drawdown. State department spokesperson Tommy Pigott said: “The safety and security of department personnel and their families remain our highest priority.” Continue reading...",
+      "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region.",
       "alsoReportedBy": []
     },
     {
@@ -101,21 +101,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+      "title": "Man fined after 700 frozen and taxidermied animals found on Victorian property",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/man-fined-after-700-frozen-and-taxidermied-animals-found-on-victorian-property-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "‘That was great, man. Wow. Man, I loved that,’ the president says from podium as multiple protesters interrupt his remarks Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic congressional nominee Brad Lander, several rabbis and Israel’s former deputy attorney general. Continue reading...",
+      "summary": "Antiques store owner, 74, pleads guilty to 13 charges after regulator uncovers hundreds of animals at his home and shop The white-walled room packed with magpies, galahs and sulphur-crested cockatoos, foxes and possums is eerily quiet. As a video pans across shelves filled with these and many other species, there is no flapping or squawking or hissing; the animals are frozen and silent. They are among the more than 700 native animals that were found illegally taxidermied and frozen that were seized from the property of a Victorian antiques store owner last year. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "title": "Man arrested for allegedly making threats at Hannah Beazley’s electorate office while armed with nunchucks",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocacy group the Workers Circle, which has been monitoring conditions and speaking with detainees inside two Immigration and Customs Enforcement (ICE) facilities in south Florida. Continue reading...",
+      "summary": "Perth man charged with ‘being armed in a way that may cause fear’ days after Helen Haines allegedly attacked with 4WD outside her Victorian office Get our breaking news email , free app or daily news podcast A man has been charged after allegedly threatening staff and wielding nunchucks at the electoral office of the Western Australian local government minister, Hannah Beazley. The arrest on Thursday came after federal independent MP Helen Haines was hospitalised with severe injuries after an alleged attack outside her electorate office in Wangaratta in Victoria earlier in the week. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -128,6 +128,51 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Send us your questions about immigration and the midterms Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocacy group the Workers Circle, which has been monitoring conditions and speaking with detainees inside two Immigration and Customs Enforcement (ICE) facilities in south Florida. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘Man, I loved that’: Trump cheers South Carolina rally attender who hit protester",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-south-carolina-rally-darline-graham",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "President was reportedly heckled at least nine times during campaign event for Darline Graham Multiple protesters were removed from Donald Trump’s rally at South Carolina’s Clemson University on Wednesday, including one who was apparently punched by a rally attender – to the US president’s delight. “That was great, man. Wow. Man, I loved that. I watched that,” Trump said. “That was incredible. Wow. That was unbelievable. Is everybody OK? Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+      "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington. Trump had previously asked Putin to free Stephen Hubbard, a 74-year-old former teacher who had spent more than four years in Russian jails on charges of fighting as a mercenary for Ukraine . Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Sam Wood makes bid for bail to supreme court over domestic violence charges",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/sam-wood-bail-supreme-court-queensland-domestic-violence-arrest-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Former reality star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast Former reality television star Sam Wood will go to the Queensland supreme court seeking release from custody, more than two weeks after he was denied bail over allegations he choked and assaulted his wife. Wood, a 46-year-old wellness influencer from Melbourne, was arrested at Noosa on 4 October on domestic violence allegations. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -137,53 +182,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines. The Labor government and politicians across the parliament are still considering how they will respond when they return to Canberra next week, with ideas being floated including a new committee on MPs’ safety, greater resources for police, and motions of condolence for Haines, who lost both her legs after Monday’s incident . Renewed calls from the crossbench for reforms to question time and the tone of debate in parliament are unlikely to be taken up by the major parties. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Family of prison officer killed by IRA receives state apology",
-      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Aneurin Bevan’s personal security file was ‘remarkably tame’ – National Archives",
-      "url": "https://www.theguardian.com/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Some in UK’s security services questioned why Welsh Labour firebrand was of interest Aneurin “Nye” Bevan, the Welsh Labour firebrand who spearheaded the creation of the NHS, was monitored by security services for more than two decades, though his personal file was “remarkably tame”, according to official files released to the public. Bevan came to MI5’s attention in the 1930s over concerns about his links with known communists, papers released to the National Archives show. Monitoring continued even after he became a minister in the postwar Labour government that created the NHS. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Railway Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,24 +209,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Upcoming Critical PHP Security Release",
-      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": ["Hacker News"]
-    },
-    {
-      "title": "mitmproxy adds --emudhra option",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "There isn't an easy exploit for this PHP vulnerability",
       "url": "https://eliastaylor.com/noexploit/",
       "source": "Hacker News",
@@ -239,6 +221,24 @@
       "title": "zls 0.17.0",
       "url": "https://zigtools.org/zls/releases/0.17.0/",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": ["Hacker News"]
+    },
+    {
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "source": "Lobsters",
+      "title": "GitLab Critical Patch Release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",

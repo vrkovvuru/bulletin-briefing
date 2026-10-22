@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-22T00:41:30.286125Z",
+  "generated": "2026-10-22T02:41:30.536284Z",
   "summaries": [
+    {
+      "summary": "Tigray residents resume daily activities despite economic hardships and fears of renewed conflict spreading beyond the region.",
+      "significance": "Residents of Tigray face economic hardship and uncertainty as daily life resumes amid fears of renewed conflict, threatening recovery and stability.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
+      "points": [
+        "Mekelle shops and banks reopen, but residents remain anxious over delayed salaries and security.",
+        "Tigray's interim administration faced an 8.5-billion-birr funding shortfall in April, affecting 137,000 civil servants.",
+        "Students fear further education disruptions; over 5,000 have applied for university transfers outside Tigray."
+      ]
+    },
+    {
+      "summary": "Podcast discusses Katie Zacharia's brief tenure as White House press secretary and examines treatment of women in the Trump administration.",
+      "url": "https://www.theguardian.com/us-news/video/2026/oct/22/decoding-america-katie-zacharia-and-trumps-women-problem-video",
+      "points": [
+        "Katie Zacharia held the role of White House press secretary for the shortest time on record.",
+        "Podcast highlights disparity in how women versus men are treated for mistakes in Trump's administration.",
+        "Discussion includes potential shift in US stance on Russia\u2019s war on Ukraine and its impact on relations with Ukraine's president Zelenskyy."
+      ]
+    },
+    {
+      "summary": "A 74-year-old Victorian antiques store owner was fined after 13 charges for having over 700 frozen and taxidermied native animals.",
+      "significance": "The case highlights illegal wildlife taxidermy practices and results in significant fines for the perpetrator.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/man-fined-after-700-frozen-and-taxidermied-animals-found-on-victorian-property-ntwnfb",
+      "points": [
+        "74-year-old store owner pleaded guilty to 13 charges.",
+        "Over 700 native animals were found frozen and taxidermied.",
+        "Animals included magpies, galahs, sulphur-crested cockatoos, foxes, and possums."
+      ]
+    },
+    {
+      "summary": "Man arrested for allegedly threatening Hannah Beazley\u2019s office staff with nunchucks.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb",
+      "points": [
+        "Perth man charged for being armed in a way that may cause fear.",
+        "Incident occurred days after Helen Haines was attacked with a 4WD.",
+        "Attack on Haines resulted in her hospitalisation with severe injuries."
+      ]
+    },
+    {
+      "summary": "Trump praised an attendee who punched a protester at his South Carolina rally.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-south-carolina-rally-darline-graham",
+      "points": [
+        "Trump's rally in South Carolina saw multiple protesters removed.",
+        "Trump was heckled at least nine times during the campaign event.",
+        "President Trump expressed approval for an attendee who hit a protester."
+      ]
+    },
+    {
+      "summary": "Sam Wood, accused of choking and assaulting his wife, seeks bail in Queensland's supreme court.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/sam-wood-bail-supreme-court-queensland-domestic-violence-arrest-ntwnfb",
+      "points": [
+        "Wood, a 46-year-old former reality star and wellness influencer, was arrested on October 4.",
+        "The arrest occurred in Noosa, Queensland, over domestic violence allegations.",
+        "Wood's previous bail request was denied more than two weeks ago."
+      ]
+    },
     {
       "summary": "PNG's parliament will decide on ratifying a 2019 referendum where Bougainvilleans voted for independence.",
       "significance": "PNG's parliament set to decide on ratifying Bougainville's 2019 independence referendum, facing a reckoning on secession.",
@@ -3691,62 +3747,6 @@
         "Plans announced Wednesday aim to break up workers' strikes.",
         "Government previously avoided risky political issues for nearly two years.",
         "Changes may alienate critical suburban support base."
-      ]
-    },
-    {
-      "summary": "Libreboot 26.10 \"Ominous Olive\" introduces full UEFI support and compatibility with 233 Chromebook models.",
-      "significance": "Libreboot 26.10 expands support for UEFI and Chromebooks, offering users greater customization and security with open-source firmware.",
-      "url": "https://libreboot.org/news/libreboot2610.html",
-      "points": [
-        "Added full UEFI support via MrChromebox EDK2 payload.",
-        "Includes support for 233 Chromebook models, with Baytrail (Kip) tested.",
-        "Implemented a strongly anti-AI policy in a new file: AGENTS.md."
-      ]
-    },
-    {
-      "summary": "C++26 introduces contracts for specifying preconditions and postconditions, enhancing code clarity and reliability.",
-      "url": "https://www.cppstories.com/2026/cpp26_contracts/",
-      "points": [
-        "Contracts allow moving requirements from function bodies to declarations, improving API visibility.",
-        "Preconditions and postconditions can be defined with different evaluation semantics, such as ignore, observe, or enforce.",
-        "As of October 2026, only GCC 16 supports Contracts with special compile flags."
-      ]
-    },
-    {
-      "summary": "Anthropic reported a nearly 50% increase in quarterly revenue to $16.8bn ahead of its upcoming IPO.",
-      "significance": "Anthropic's revenue surge ahead of IPO indicates strong market demand for AI technologies, influenced by reduced reliance on controversial distillation practices.",
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "points": [
-        "Q3 revenue reached $16.8bn, up from $11.5bn in Q2 and $4.8bn in Q1.",
-        "Revenue per dollar spent on computing power was $1.70 in Q3.",
-        "Distillation, accounting for 5-7% of revenue, was significantly reduced in Q3."
-      ]
-    },
-    {
-      "summary": "Severe drought declared in parts of southern England due to low rainfall and high demand.",
-      "significance": "The severe drought declaration in parts of southern England affects water supplies and prompts stricter monitoring and conservation measures due to low reservoir levels following high demand.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Wimbleball Reservoir in Somerset is at 14.9% capacity.",
-        "Ardingly Reservoir in West Sussex serves 280,000 customers and is at 20% capacity.",
-        "The Environment Agency granted permits to reduce water releases from key reservoirs."
-      ]
-    },
-    {
-      "summary": "Jesse Eisenberg's dual role in Richard Ayoade\u2019s film adaptation of a Dostoevsky novella is highlighted as a standout performance.",
-      "url": "https://www.theguardian.com/film/2026/oct/15/jesse-eisenberg-10-best-film-performances-ranked",
-      "points": [
-        "Eisenberg plays both Simon, a shy programmer, and James, a confident alpha-achiever.",
-        "The film, an adaptation of a Dostoevsky novella, is set in a grim futureworld.",
-        "Simon is hopelessly in love with Hannah, played by Mia Wasikowska."
-      ]
-    },
-    {
-      "summary": "Author Sally Rooney supports Palestine Action, risking UK arrest and book bans.",
-      "url": "https://www.theguardian.com/books/2026/oct/15/sally-rooneys-stand-on-palestine-is-brave-and-humane",
-      "points": [
-        "Her decision could lead to her books being withdrawn from sale in the UK.",
-        "Rooney avoids the UK to prevent potential imprisonment under Britain\u2019s terrorism laws."
       ]
     }
   ]
