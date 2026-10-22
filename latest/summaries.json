@@ -1,6 +1,108 @@
 {
-  "generated": "2026-10-22T04:41:03.288389Z",
+  "generated": "2026-10-22T12:43:17.528842Z",
   "summaries": [
+    {
+      "summary": "French court fast-tracks rioting cases, leading to confusion among defendants and anger from lawyers.",
+      "significance": "The story highlights the conflict between harsh sentencing for riot-related crimes and the legal defense's view of socio-economic causes, affecting defendants and public perception.",
+      "url": "https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases",
+      "points": [
+        "Awa, 18, bewildered in court, unable to answer questions about looting Yves Saint Laurent store.",
+        "Politicians demand harsh sentencing for riot-related crimes.",
+        "Lawyers accuse politicians of causing poverty, root cause of rioting."
+      ]
+    },
+    {
+      "summary": "A theater show examines the impact of the viral video \"2 Girls 1 Cup\" on a generation's perception of pornography.",
+      "url": "https://www.theguardian.com/stage/2026/oct/22/2-girls-1-cup-play-new-york-city",
+      "points": [
+        "Play uses verbatim interviews to reconstruct the infamous video's cup description.",
+        "Interview subjects disagree on the cup's material and color, highlighting varied memories.",
+        "The cup's transparency is emphasized as a crucial detail in the video's impact."
+      ]
+    },
+    {
+      "summary": "Barclays plans to cut 5,000 jobs and increase AI usage in its operations.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Barclays expects to complete the reduction of 4,000 jobs by the end of this year.",
+        "Around 60% of the job cuts will affect support functions, including developers.",
+        "Barclays anticipates £1.1bn in savings from efficiency measures by 2027."
+      ]
+    },
+    {
+      "summary": "BBC News plans to eliminate the education editor role and combine it with the social affairs editor position to save £5.5m.",
+      "significance": "The story matters because it highlights potential reduction in specialized scrutiny of education and social affairs due to BBC News' cost-cutting measures.",
+      "url": "https://www.theguardian.com/media/2026/oct/22/bbc-news-to-axe-education-editor-role-in-cost-cutting-move",
+      "points": [
+        "School leaders describe the move as \"deeply regrettable.\"",
+        "Unions and campaigners argue the reform will reduce scrutiny on key sectors."
+      ]
+    },
+    {
+      "summary": "Chiricahua monument in Arizona became the 64th US national park with bipartisan support.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
+      "points": [
+        "Donald Trump signed the legislation to create Chiricahua national park on Tuesday.",
+        "Known as the Land of Standing-Up Rocks among Native Americans.",
+        "The area is famous for its historic rock spires in south-eastern Arizona."
+      ]
+    },
+    {
+      "summary": "El Salvador's president threatens action against Haitian gangs holding four Salvadoran military personnel hostage.",
+      "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "President Nayib Bukele launched a military operation to rescue four missing air force personnel.",
+        "The hostages were ambushed in Croix-des-Bouquets, Haiti, by heavily armed criminal groups.",
+        "Bukele threatened further action if the hostages were not returned alive."
+      ]
+    },
+    {
+      "summary": "macOS gcc binary is not an alias but a function that redirects to clang via xcrun.",
+      "url": "https://zoey-on-github.github.io/blog/macgcc.html",
+      "points": [
+        "macOS gcc binary uses xcrun to call clang or llvm-gcc.",
+        "g++ is an alias to a gcc binary located in a tool directory.",
+        "macOS's System Integrity Protection (SIP) prevents updating /usr/bin without a restart."
+      ]
+    },
+    {
+      "summary": "A new library for triangulating map polygons is faster than earcut, processing 3.7M polygons in 489 ms.",
+      "significance": "The story matters as it introduces a faster polygon triangulation library, enhancing map rendering efficiency in both C++ and browser environments.",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "points": [
+        "The library processes 3.7M polygons in 489 ms, 14% faster in C++ and 1.4 to 2.1 times faster in the browser than earcut.",
+        "In the offline map of the Masovian Voivodeship, 3,740,425 polygons are triangulated in 2.93 seconds on one core of an M4 Pro.",
+        "The triangulation process involves converting 331 polygons with 5,151 vertices into 4,514 triangles."
+      ]
+    },
+    {
+      "summary": "A software-only jailbreak for the Switch 2, named ns2jb, allows running homebrew and modding games on firmware 23.0.1.",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "points": [
+        "ns2jb enables running arbitrary native code as any sysmodule on Switch 2.",
+        "The jailbreak was demonstrated by modding the Switch 2 exclusive game, Mario Kart World.",
+        "The exploit uses a WebKit n-day loaded via a custom Wi-Fi captive portal for initial code execution."
+      ]
+    },
+    {
+      "summary": "Article discusses optimizing enum-to-string conversion functions using lookup tables and corrections to reduce memory usage.",
+      "url": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
+      "points": [
+        "Uses assembly code examples to illustrate the optimization process.",
+        "Suggests concatenating strings into a single memory block to reduce space.",
+        "Proposes using a table of corrections to refine approximations, saving space."
+      ]
+    },
+    {
+      "summary": "OpenAI\u2019s Patch the Planet program and Wiz discovered PHP2Shell vulnerabilities affecting 70% of web servers, using AI models for detection and coordinated a two-month response.",
+      "significance": "The discovery of PHP2Shell vulnerabilities affecting 70% of the web highlights the critical role of AI in identifying and addressing major security flaws.",
+      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "points": [
+        "Two vulnerabilities, named CVE-2026-109618 and CVE-2026-109619, allow full remote code execution and memory disclosure.",
+        "Discovery and coordination took approximately two months before public disclosure, involving major coordination among maintainers, researchers, and governments.",
+        "Cloudflare deployed initial WAF mitigations before the scheduled patch release, covering known exploit vectors for all customers."
+      ]
+    },
     {
       "summary": "Director Taika Waititi discusses his film adaptation of Kazuo Ishiguro's \"Klara and the Sun,\" focusing on themes of tech, love, and grief.",
       "significance": "The story highlights the film's ability to resonate with younger audiences, despite critical divide, showcasing differing tastes and complex emotions around tech and love.",
@@ -3646,108 +3748,6 @@
         "Superposition was found to be an incorrect explanation for polysemanticity in InceptionV1.",
         "Architectural improvements have made 99-100% of neurons in InceptionV1's last layer easily interpretable.",
         "Preliminary audits of Qwen3-32B indicate that about 90% of neuron poles have one main job."
-      ]
-    },
-    {
-      "summary": "Meta AI Research releases Muse Spark Open, a powerful multimodal model with 816B parameters, optimized for desktop use on Apple M5 Ultra Mac Studios.",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "points": [
-        "Muse Spark Open has 816B total parameters and a 1M-token context window.",
-        "It is the first model in its class to run on desktops using two Apple M5 Ultra Mac Studios.",
-        "Available through API platforms and for download on Amazon SageMaker AI, Google Cloud Model Garden, Hugging Face, and Microsoft Foundry Models."
-      ]
-    },
-    {
-      "summary": "Trump cancels plan to livestream execution of Nidal Malik Hasan amid global condemnation.",
-      "significance": "Trump's decision follows global condemnation, altering the method but not the outcome of Hasan's execution.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/trump-fort-hood-execution-livestream",
-      "points": [
-        "Plan to livestream execution of Hasan, who killed 13 at Fort Hood in 2009, canceled.",
-        "Trump believed streaming could deter terrorism, showcasing how America deals with it.",
-        "Decision influenced by public preference not to watch execution via any visual medium."
-      ]
-    },
-    {
-      "summary": "Family raises concerns over mental health services for William Chapman, who was killed by a tiger at a Yorkshire zoo.",
-      "significance": "The story highlights concerns over mental health support for individuals, following a man's tragic death at a zoo.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/15/man-killed-tiger-yorkshire-zoo-bouts-of-psychosis-inquest",
-      "points": [
-        "William Chapman died after climbing into a tiger enclosure at Yorkshire Wildlife Park in Doncaster.",
-        "Chapman had experienced bouts of psychosis, according to his family.",
-        "Family expresses worries about Chapman's interactions with mental health services prior to his death."
-      ]
-    },
-    {
-      "summary": "Lawmakers from both parties criticized Trump's plan to broadcast an execution by firing squad.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-      "points": [
-        "Democrat Senator Elissa Slotkin described the plan as \u2018sick\u2019.",
-        "Republican John Curtis argued it was \u2018not an effective deterrent\u2019.",
-        "US government proposed a $335,000 campaign to boost Afrikaner refugee applications."
-      ]
-    },
-    {
-      "summary": "Thames Water seeks £2.4bn from creditors to prevent bankruptcy by late 2026 or early 2027.",
-      "url": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
-      "points": [
-        "Thames Water requires £2.4bn to avoid insolvency.",
-        "Company claims it will run out of cash by end of 2026 or early 2027.",
-        "As UK\u2019s largest water company, Thames Water faces giant debt issues."
-      ]
-    },
-    {
-      "summary": "Trump cancels Hegseth's plan to livestream execution of Fort Hood shooter, despite support from rightwing religious allies.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/pete-hegseth-crec-church-execution-livestream",
-      "points": [
-        "Trump cancelled the livestream of Nidal Hasan's execution set for 3 December.",
-        "Hasan, sentenced to death in 2013, killed 13 and wounded 32 at Fort Hood in 2009.",
-        "Rightwing religious figures backing Hegseth supported the public execution idea."
-      ]
-    },
-    {
-      "summary": "Two architecturally celebrated 1960s London housing estates are saved from demolition after a decade-long campaign.",
-      "url": "https://www.theguardian.com/society/2026/oct/15/london-architecture-estates-saved-from-demolition-social-housing",
-      "points": [
-        "Cressingham Gardens and Central Hill estates in Lambeth are saved.",
-        "Residents campaigned for over a decade to preserve the developments.",
-        "The estates are considered significant in design and popular among residents."
-      ]
-    },
-    {
-      "summary": "A dog owner designed a nose guard for his dog with DLE and shared it for free, leading to over 500 dogs using the product.",
-      "significance": "A dog owner's DIY solution for managing his pet's skin condition has unexpectedly evolved into a product benefiting over 500 dogs.",
-      "url": "https://snoutcover.com/one-year",
-      "points": [
-        "Designed and shared the SnoutCover for free, initially for one dog with DLE.",
-        "Over 500 dogs have benefited, with 395 orders shipped to 16 countries.",
-        "The creator still designs, prints, and assembles each SnoutCover himself."
-      ]
-    },
-    {
-      "summary": "Simons Foundation launches a $15M initiative with Anthropic and OpenAI to assist mathematicians in adapting to AI advancements.",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "points": [
-        "$15 million in funding and resources from Simons Foundation, Anthropic, and OpenAI.",
-        "Initiative supports workshops and initiatives for evaluating AI-assisted results and learning new tools.",
-        "Anthropic and OpenAI will provide AI tools and computing resources to supported researchers."
-      ]
-    },
-    {
-      "summary": "decomp.dev, a platform for tracking decompilation progress, is sunsetting its main index and new project additions due to issues with AI and community abuse.",
-      "url": "https://decomp.dev/",
-      "points": [
-        "AI advancements have made decompilation faster but led to issues with \"sloppy\" contributions.",
-        "Bad actors have been forking projects and racing to port games, harming the community.",
-        "The platform will continue to track existing projects and serve historical data."
-      ]
-    },
-    {
-      "summary": "A new Linux desktop environment called DEsk, featuring a skeuomorphic design, has released its first public version for Fedora.",
-      "url": "https://github.com/fyzugx/DEsk",
-      "points": [
-        "Released v0.1 with an installer for Fedora.",
-        "Skeuomorphic design mimics real-world objects like a walnut desk, binders, and a post box for notifications.",
-        "Uses ray-tracing for the room's lighting and shadows, with settings and data carried forward in updates."
       ]
     }
   ]
