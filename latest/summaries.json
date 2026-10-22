@@ -1,6 +1,82 @@
 {
-  "generated": "2026-10-22T12:43:17.528842Z",
+  "generated": "2026-10-22T14:42:22.306881Z",
   "summaries": [
+    {
+      "summary": "Macron condemns 'ultra-left' riots and plans to ban some protests, increasing police presence.",
+      "significance": "Macron's condemnation of 'ultra-left' protests and plans to ban some demonstrations signal a tougher stance against riots in France.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+      "points": [
+        "Macron vows 'absolute' determination to stop riots.",
+        "Police presence will be 20% higher than last weekend.",
+        "Reinforcements include army, elite police forces, and gendarmerie."
+      ]
+    },
+    {
+      "summary": "UK minister reports 32 government services offline due to cybersecurity concerns, while gender pay gap for full-time employees in the UK declines.",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+      "points": [
+        "32 government services are offline addressing potential cybersecurity issues.",
+        "Gender pay gap for full-time UK employees is 6.8% in April 2026, down from 7.2% in April 2025.",
+        "UK cyber security official states no indications of government systems being hacked due to PHP code flaw."
+      ]
+    },
+    {
+      "summary": "Bogong moth populations are significantly increasing in Australia's eastern states, showing a remarkable recovery.",
+      "significance": "The story highlights the significant comeback of bogong moths in eastern Australia, relying on data from citizen scientists.",
+      "url": "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back",
+      "points": [
+        "Citizen scientists are providing data on the moth revival.",
+        "No official figures from ecologists are currently available for comparison.",
+        "The increase is noticeable to residents in eastern Australia."
+      ]
+    },
+    {
+      "summary": "At least four people have died in southern France due to flooding caused by Storm Adam.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Two women, aged 86 and 26, drowned in a cellar in Bouches-du-Rhône.",
+        "A 4x4 vehicle was swept away in Corsica, resulting in one death.",
+        "Storm Adam also caused severe flooding in eastern Spain, killing at least three."
+      ]
+    },
+    {
+      "summary": "eMudhra Limited will exit the global SSL/TLS certificate business to focus on core enterprise solutions.",
+      "significance": "eMudhra's exit from global SSL/TLS certificate business allows it to focus on core enterprise solutions, unaffected by increasing compliance costs and recent incident scrutiny.",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "points": [
+        "The SSL/TLS business contributes about 1% to eMudhra\u2019s global revenue.",
+        "eMudhra will replace any affected certificates free of cost from partners during the transition.",
+        "The decision follows scrutiny from a recent incident, despite no data breaches or compromises."
+      ]
+    },
+    {
+      "summary": "Crystal 1.22.0 release includes new features, bug fixes, and improvements by 33 contributors.",
+      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "points": [
+        "Crystal processes now exit immediately with an error message when writing to STDOUT/STDERR fails.",
+        "DWARF parsing has been revamped for better performance and reduced memory usage.",
+        "All targets now support a native event loop by default, enhancing system selector integration."
+      ]
+    },
+    {
+      "summary": "Multiple critical security vulnerabilities and incidents were disclosed, affecting various software and services including GitLab, Linux kernel, LiteLLM, and Node.js.",
+      "url": "https://pwn.watch/",
+      "points": [
+        "GitLab released a critical patch on Oct 21, 2026, for CVE-2026-110264, an unauthenticated RCE via regex compiler, CVSS 10.0.",
+        "Linux kernel vulnerabilities were leaked to public LKML, including two ksmbd RCE bugs, CVSS 9.0, with no fixed release yet.",
+        "LiteLLM\u2019s release pipeline was compromised, publishing malicious versions to PyPI and Docker Hub, stealing credentials and enabling RCE."
+      ]
+    },
+    {
+      "summary": "eMudhra's intermediate CA certificates were compromised, affecting multiple trusted root programs.",
+      "significance": "The compromise affects trust in digital certificates, necessitating updates to software that relies on trusted certificates for security.",
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "points": [
+        "8 intermediate CA certificates had their private keys compromised.",
+        "Affected root programs include Mozilla, Microsoft, Apple, and Chrome.",
+        "Updates released for Python tools: uv 0.13.4, pip 26.2.2, and certifi 2026.10.19."
+      ]
+    },
     {
       "summary": "French court fast-tracks rioting cases, leading to confusion among defendants and anger from lawyers.",
       "significance": "The story highlights the conflict between harsh sentencing for riot-related crimes and the legal defense's view of socio-economic causes, affecting defendants and public perception.",
@@ -3673,81 +3749,6 @@
         "Uses web microphone API to interpret game state through audio noises",
         "Designed as a competitive game with graphical and gameplay twists beyond traditional Pong",
         "Demonstrates feasibility of static HTML two-player games using audio for networking"
-      ]
-    },
-    {
-      "summary": "A mother's skin-to-skin contact helps her premature son in Gaza through kangaroo care.",
-      "significance": "Kangaroo mother care introduced in Gaza helps improve health outcomes for premature babies like Ilyas, providing critical support in a region with limited medical resources.",
-      "url": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-      "points": [
-        "Rania Fadel held her premature son Ilyas, born on September 25, in a kangaroo care session.",
-        "Ilyas, born at 1.4 kg, received care at Nasser Medical Complex in Khan Younis.",
-        "WHO guidance shows kangaroo care reduces neonatal mortality by 32 percent compared to conventional care."
-      ]
-    },
-    {
-      "summary": "Experts discuss how to start writing a book, emphasizing the effort and determination required.",
-      "url": "https://www.theguardian.com/wellness/2026/oct/15/how-to-start-writing-a-book",
-      "points": [
-        "Writing a book is compared to running a marathon or filing taxes successfully.",
-        "It requires grit, determination, and hours of research and effort.",
-        "Many people consider writing a book at some point in their lives."
-      ]
-    },
-    {
-      "summary": "Street Fighter movie fails to deliver a coherent narrative despite brief enjoyable moments.",
-      "url": "https://www.theguardian.com/film/2026/oct/15/street-fighter-movie-review",
-      "points": [
-        "Movie is described as a \"garish and incoherent mess.\"",
-        "Recent Resident Evil film by Zach Cregger offered renewed hope for video game adaptations.",
-        "Street Fighter barely improves on the previous Mortal Kombat movies."
-      ]
-    },
-    {
-      "summary": "LGBTQ+ individuals in Senegal face mass arrests and forced HIV testing under a tougher anti-homosexuality law.",
-      "significance": "The story highlights an escalating crackdown on LGBTQ+ individuals in Senegal, leading to mass arrests and human rights violations.",
-      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-      "points": [
-        "At least 320 people arrested since February on allegations of \"acts against nature\".",
-        "84 individuals charged with \"voluntary HIV transmission\" based on their HIV status.",
-        "Human Rights Watch and HIV Justice Network report on escalating crackdown."
-      ]
-    },
-    {
-      "summary": "UK defence secretary Wes Streeting urges US support for Ukraine during visit to Washington.",
-      "url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
-      "points": [
-        "Streeting argues US support for Ukraine aligns with American economic interests.",
-        "Visit aims to ease tensions following the Starlink dispute affecting Kyiv\u2019s war effort.",
-        "Streeting met with US counterpart Pete Hegseth to discuss the matter."
-      ]
-    },
-    {
-      "summary": "Texas faces lawsuits over a glitch that delayed nearly 600,000 voter registrations ahead of early voting.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations",
-      "points": [
-        "Nearly 600,000 voter registration applications are delayed due to a state computer system failure.",
-        "Early voting in Texas is set to begin on Monday.",
-        "Voting rights organizations accuse Texas officials of failing to ensure proper voter registration."
-      ]
-    },
-    {
-      "summary": "Seven sailors are missing after drones, reportedly from Russia, struck two tankers near Romania\u2019s Black Sea coast.",
-      "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
-      "points": [
-        "Seven sailors are missing following the drone attacks.",
-        "NATO source claims the drones were of Russian origin.",
-        "Romania\u2019s president condemns the attack on commercial ships."
-      ]
-    },
-    {
-      "summary": "Research suggests that neural networks are more interpretable than previously thought, challenging the notion of superposition and polysemanticity.",
-      "significance": "The story matters because it reveals that neural networks are more directly interpretable than previously believed, changing the approach to understanding their mechanisms.",
-      "url": "https://already-clean.goodfire.com/",
-      "points": [
-        "Superposition was found to be an incorrect explanation for polysemanticity in InceptionV1.",
-        "Architectural improvements have made 99-100% of neurons in InceptionV1's last layer easily interpretable.",
-        "Preliminary audits of Qwen3-32B indicate that about 90% of neuron poles have one main job."
       ]
     }
   ]
