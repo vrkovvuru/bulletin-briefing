@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-22T02:41:30.536284Z",
+  "generated": "2026-10-22T04:41:03.288389Z",
   "summaries": [
+    {
+      "summary": "Director Taika Waititi discusses his film adaptation of Kazuo Ishiguro's \"Klara and the Sun,\" focusing on themes of tech, love, and grief.",
+      "significance": "The story highlights the film's ability to resonate with younger audiences, despite critical divide, showcasing differing tastes and complex emotions around tech and love.",
+      "url": "https://www.theguardian.com/film/2026/oct/22/taika-waititi-kazuo-ishiguro-robot-friend-klara-and-the-sun",
+      "points": [
+        "Young influencers praise the film as their festival favorite, contrasting with harsher critic reviews.",
+        "The film explores complex emotions through the relationship between a sick girl and her robot friend.",
+        "Ishiguro notes that even simple emotions like love are multifaceted and not fully understood."
+      ]
+    },
+    {
+      "summary": "Australian TV reporter rescues man from sinking car during flood coverage.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+      "points": [
+        "Will Murray, an ABC journalist, rescued a man in Morayfield, Queensland.",
+        "The rescue occurred as Murray was reporting on flooding in the area.",
+        "A bystander assisted Murray in saving the man from a sinking four-wheel drive."
+      ]
+    },
+    {
+      "summary": "A documentary about Elizabeth Holmes, the disgraced Theranos founder, has had a record-breaking opening in the US.",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast",
+      "points": [
+        "The documentary, \"You Can See Everything,\" highlights the enduring fascination with Holmes.",
+        "US technology editor Blake Montgomery discusses the impact of the Theranos scandal on Silicon Valley.",
+        "Holmes was convicted of fraud for her role in the Theranos scandal."
+      ]
+    },
+    {
+      "summary": "Waitrose opens its first new supermarket in eight years in Cricklewood, north London, as part of a £1bn investment plan.",
+      "significance": "Waitrose's new supermarket marks a significant return to expansion after eight years, following a £1bn investment plan that includes multiple new stores.",
+      "url": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
+      "points": [
+        "£1bn investment plan includes new stores in Cricklewood and Hale Barns next month.",
+        "Four smaller stores planned for next year in Oakham, Bedminster, Chalk Farm, and Springstead Village.",
+        "Cricklewood store marks the first new supermarket opening for Waitrose in eight years."
+      ]
+    },
     {
       "summary": "Tigray residents resume daily activities despite economic hardships and fears of renewed conflict spreading beyond the region.",
       "significance": "Residents of Tigray face economic hardship and uncertainty as daily life resumes amid fears of renewed conflict, threatening recovery and stability.",
@@ -3710,43 +3748,6 @@
         "Released v0.1 with an installer for Fedora.",
         "Skeuomorphic design mimics real-world objects like a walnut desk, binders, and a post box for notifications.",
         "Uses ray-tracing for the room's lighting and shadows, with settings and data carried forward in updates."
-      ]
-    },
-    {
-      "summary": "AVIF generally outperforms JPEG XL in web use-cases, producing smaller files and better handling various image types.",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "points": [
-        "AVIF produces files 15-25% smaller than JPEG XL for lossy photos at default settings.",
-        "For screenshots and illustrations, JPEG XL files are 30-90% larger than AVIF at default settings.",
-        "AVIF is faster to encode and uses less memory compared to JPEG XL, which takes 2-3x longer to decode at medium quality."
-      ]
-    },
-    {
-      "summary": "UK Labour politician Wes Streeting meets US official amid Ukraine tensions; Labour reviews Green Party partnerships.",
-      "significance": "Westring's visit to the US for the meeting follows escalating Ukraine tensions and emphasizes increased support and pressure on Putin regarding Ukraine's security.",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
-      "points": [
-        "Labour instructs councils to review agreements with Green Party following \"Zionism is Racism\" motion.",
-        "Streeting emphasizes stepping up pressure on Putin and support for Ukraine amid escalating tensions.",
-        "Focus on military, diplomatic, and economic support for Ukraine highlighted amid harsh winter concerns."
-      ]
-    },
-    {
-      "summary": "Resources minister Madeleine King faces pressure to correct her claim that all emissions from the Beetaloo gas basin will be offset.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/16/madeleine-king-calls-to-correct-claim-beetaloo-basin-emissions-offset",
-      "points": [
-        "Madeleine King stated emissions 'are accounted for and offset' at National Press Club.",
-        "Research indicates 95% of emissions this decade won't require offsetting.",
-        "King defended supporting the development of the Beetaloo gas basin in NT."
-      ]
-    },
-    {
-      "summary": "Queensland's LNP government plans sweeping changes to workplace laws, risking its suburban support.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/16/queensland-lnp-workplace-laws-power-to-break-strikes",
-      "points": [
-        "Plans announced Wednesday aim to break up workers' strikes.",
-        "Government previously avoided risky political issues for nearly two years.",
-        "Changes may alienate critical suburban support base."
       ]
     }
   ]
