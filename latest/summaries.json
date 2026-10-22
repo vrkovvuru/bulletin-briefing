@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-22T20:41:06.580057Z",
+  "generated": "2026-10-22T22:41:17.488994Z",
   "summaries": [
+    {
+      "summary": "AI stocks plummeted globally, causing market declines, while oil prices reached highs not seen since May.",
+      "significance": "Sharp drops in AI stocks pull worldwide markets lower, overshadowing gains in non-AI sectors and rising oil prices.",
+      "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+      "points": [
+        "S&P 500 fell 1.2%, its worst drop since July.",
+        "Nasdaq composite dropped 2.6% due to tech stock weakness.",
+        "Oil prices hit their highest since May amid Iran war concerns."
+      ]
+    },
+    {
+      "summary": "UK PM to announce creation of an AI unit to detect wildfires and additional funding for firefighting resources.",
+      "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+      "points": [
+        "AI Cobra unit will be established to identify wildfires following record-breaking summer.",
+        "Emergency alert for wildfires was sent to mobile phones in England and Wales.",
+        "Figures from 8 October indicate a rising trend in annual wildfire occurrences."
+      ]
+    },
+    {
+      "summary": "An individual explores creating a container runtime, discovering the complexities and peculiarities of Docker and container technology.",
+      "significance": "The story illuminates the underlying complexities and components of container technology, particularly Docker, offering insights into its运作机制和与Linux内核特性的交互。",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "points": [
+        "Containers use five Linux kernel features: namespaces, cgroups, and networking magic.",
+        "Docker images are essentially folders that become the root directory of a container process.",
+        "Go's multi-threaded runtime poses challenges for making necessary Linux syscalls in a single-threaded environment."
+      ]
+    },
+    {
+      "summary": "A method to securely expose share links of private services like Immich and Nextcloud using Caddy as a reverse proxy.",
+      "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
+      "points": [
+        "Caddy forwards requests to the service only if the share link is valid, otherwise returns a 404.",
+        "For Immich, a 403 status code indicates a valid share link, while for Nextcloud, a 200 status code does.",
+        "The full service remains accessible only via a VPN or with IP restrictions."
+      ]
+    },
     {
       "summary": "Libya and Türkiye's maritime deal, ratified by Libya\u2019s eastern parliament, stirs controversy over rights in the Mediterranean.",
       "significance": "The deal revives dispute over maritime rights in the eastern Mediterranean, affecting regional tensions between Libya-Turkiye and opposing nations like Greece, Cyprus, and Egypt.",
@@ -3712,42 +3750,6 @@
         "Uses prototype pollution to insert a payload into another function.",
         "Involves overwriting function outputs to return desired JavaScript code.",
         "Final payload alters `Object.prototype` and `Array.prototype` to execute code."
-      ]
-    },
-    {
-      "summary": "Yemen's former PM warns that western security is at risk due to the ongoing conflict in Yemen, particularly concerning the city of Taiz.",
-      "significance": "The story highlights how the Yemen civil war impacts Western security due to the use of drones by Iran-backed militia.",
-      "url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
-      "points": [
-        "Maeen Abdulmalik Saeed warns of a 'new era of radical terrorism' due to Iran-backed militia's drone use.",
-        "Loss of Taiz to Houthi rebels could result in control over the strategic Bab al-Mandab strait.",
-        "The city of Taiz, near the Red Sea, is crucial for access to the road leading to Aden."
-      ]
-    },
-    {
-      "summary": "French lawyers and rights groups claim teenagers protesting in schools have suffered severe injuries from police weapons and faced unprecedented custody.",
-      "url": "https://www.theguardian.com/world/2026/oct/16/french-police-injuries-teenagers-school-protests-arrests-custody",
-      "points": [
-        "Teenagers reportedly suffered war-like injuries from police weapons during protests.",
-        "The protests are in their fourth week, involving hundreds of high schools across France."
-      ]
-    },
-    {
-      "summary": "College football player Tyler Ulrich died five days after a severe injury during a game.",
-      "significance": "Death of college football player highlights risks and potential for severe injuries in sports.",
-      "url": "https://www.theguardian.com/sport/2026/oct/16/southern-nazarene-university-tyler-ulrich-death-college-football",
-      "points": [
-        "21-year-old Ulrich was a sophomore safety at Southern Nazarene University in Oklahoma.",
-        "The injury occurred during a game against Ouachita Baptist on Saturday.",
-        "The game was delayed nearly an hour for Ulrich's medical treatment on the field."
-      ]
-    },
-    {
-      "summary": "JD Vance's campaign style mimics Donald Trump's, focusing on attacking Democrats and using humor and swearing to engage voters.",
-      "url": "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast",
-      "points": [
-        "Vance's strategy includes adopting Trump's approach of attacking Democrats and using humor.",
-        "Jonathan Freedland discusses Vance's efforts to court voters with Arwa Mahdawi."
       ]
     }
   ]

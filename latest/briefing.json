@@ -2,57 +2,12 @@
   "date": "2026-10-22",
   "stories": [
     {
-      "title": "Trump says NBA star LeBron James disrespected US national anthem",
-      "url": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
+      "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+      "url": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "Thousands gather at final student-led rally ahead of Serbia election",
-      "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The student movement aims to end Vucic&#039;s 14 years of rule at Sunday&#039;s vote, as he holds a rival rally across town.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
-      "url": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Skerritt was Captain Dallas in  Alien , Viper in Top Gun , and a small town sheriff in the TV series Picket Fences .",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why has the Libya-Turkiye maritime deal stirred controversy?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Some countries in the region say it infringes on their rights.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The actor died on Wednesday of natural causes, his family said.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
-      "url": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The judge found the department's field operations to identify noncitizens who voted likely violated the Voting Rights Act, which bars voter intimidation.",
+      "summary": "Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
       "alsoReportedBy": []
     },
     {
@@ -65,13 +20,58 @@
       "alsoReportedBy": []
     },
     {
-      "title": "See the Pokémon cards that made a retired decorator a millionaire",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg9v932z5vo?at_medium=RSS&at_campaign=rss",
+      "title": "US judge blocks federal operations seeking to identify non-citizen voters",
+      "url": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Homeland Security targets nine states in fraud investigations that critics say intimidate voters.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+      "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "A man from Surrey is now a millionaire after selling a collection of Pokémon cards at auction.",
-      "alsoReportedBy": ["BBC News"]
+      "summary": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Michigan voters closely divided between Rogers and El-Sayed",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Less than two weeks before the midterm elections, some Michigan voters are still deciding.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+      "url": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Skerritt was Captain Dallas in  Alien , Viper in Top Gun , and a small town sheriff in the TV series Picket Fences .",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The judge found the department's field operations to identify noncitizens who voted likely violated the Voting Rights Act, which bars voter intimidation.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Prince William makes surprise appearance on Graham Norton Show",
+      "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+      "alsoReportedBy": []
     },
     {
       "title": "Ali G: Who Iz I? review – Sacha Baron Cohen’s high-stakes satire punches up and down with spectacular bad taste",
@@ -83,48 +83,48 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Zach Braff: ‘You can be talented and good-looking, but acting success is still like winning the lottery’",
-      "url": "https://www.theguardian.com/film/2026/oct/22/zach-braff-reader-interview",
+      "title": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Scrubs and Garden State star answers your questions about working with megastars, getting his hair to look good and being brutally killed on BoJack Horseman How do you manage not to act starstruck when directing people like Morgan Freeman, Michael Caine and Harrison Ford? TopTramp That’s where my acting comes in – I pretend that I don’t know how famous they are. Every actor really wants a leader. They want someone who knows the script really well, has a plan for how the scene is going to be executed, and – in the case of comedy – knows how to make it funny. The last thing any of those guys wants is someone coming in starstruck and wide-eyed. So I use my acting skills to pretend I’m not starstruck and treat them like normal people. Your Fake Doctors, Real Friends podcast was a real help through lockdown. You were very emotionally open and personal; it was like catching up with friends. I still think about your line that making it in acting, even if you’re talented and good-looking, is like winning the lottery. Do you think that early 00s Zach Braff would make it in the present day the way you did? KamesJ Back then, the broadcast networks were making so many pilots, at least it was work for people. Now, I think it’s a much harder landscape to break through. I firmly believe that you can be talented and good-looking, but success is still like winning the lottery. I know plenty of brilliant actors whose lottery ticket hasn’t come up yet. I started auditioning at 14 and barely got anything for years, so I’ve always felt very lucky. Continue reading...",
+      "summary": "Republican Mike DeWine said ad featuring estranged mother of Democrat Amy Acton was ‘wrong’ Donald Trump issued a swift rebuke against Mike DeWine, Ohio’s Republican governor, who on Thursday said gubernatorial candidate Vivek Ramaswamy was “wrong” to release an ad critical of his Democratic rival Amy Acton that featured her estranged mother. DeWine had implored Ramaswamy to take the ad down, but hours later, Trump urged Ramaswamy to keep airing it and accused the Republican governor of disloyalty. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Republican Mike DeWine said ad featuring estranged mother of Democrat Amy Acton was ‘wrong’, drawing ire of president Donald Trump issued a swift rebuke against Mike DeWine, Ohio’s Republican governor, who on Thursday said gubernatorial candidate Vivek Ramaswamy was “wrong” to release an ad critical of his Democratic rival Amy Acton that featured her estranged mother. DeWine had implored Ramaswamy to take the ad down, but hours later, Trump urged Ramaswamy to keep airing it and accused the Republican governor of disloyalty. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
-      "url": "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia",
+      "title": "What we know about war plans that Trump and Netanyahu are drawing up",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine William Taylor about President Trump's embrace of Russia as envoy Steve Witkoff visits Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
+      "summary": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
       "alsoReportedBy": []
     },
     {
-      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Musk has restored Ukraine's access after Starlink row",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
       "alsoReportedBy": []
     },
     {
-      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Trump defends Ohio Democrat’s estranged mother after Ramaswamy’s widely criticized campaign ad – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "summary": "Trump defends Amy Acton’s estranged mother, who stayed with her husband charged with raping her daughter, and touts Vivek Ramaswamy’s ‘well coordinated’ attack ad Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent Alaska in the US Senate has taken her to parts of the massive state’s interior that are inaccessible by road and on the frontlines of the cost-of-living crisis she hopes will make her the first Democrat to win the seat in nearly two decades. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+      "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing The latest shudder for stocks in the AI industry pulled markets lower worldwide on Thursday, while oil prices hit their highest levels since May on worries about the war with Iran . The S&P 500 fell 1.2% for its worst day since July, while the Nasdaq composite tumbled 2.6%. The weakness for tech stocks was so overwhelming that it masked strength for the rest of the US market, in which the majority of stocks actually rose. The Dow Jones Industrial Average added 11 points, or less than 0.1%. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -137,12 +137,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
+      "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "PM will also announce funding for specialised protective gear and the deployment of military aircraft The UK government is to create an AI Cobra unit to spot wildfires after this year’s record-breaking summer saw devastating blazes across the country. The country experienced its hottest-ever summer this year, with prolonged dry periods and extreme heat fuelling wildfires that triggered an emergency alert to mobile phones in England and Wales. Figures released on 8 October showed a clear upward trend in the number of fires recorded each year. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -155,30 +173,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "UK to relax post-2008 rules that hold City bosses accountable for wrongdoing",
-      "url": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
-      "source": "Guardian World",
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Regulators say removing ‘unnecessary burdens’ will save businesses about £2bn over 10 years The UK is watering down rules introduced in the aftermath of the financial crisis that were designed to hold City bosses accountable for wrongdoing. The plans, put forward by the financial industry’s two top regulators, the Bank of England and the Financial Conduct Authority (FCA), include a reduction in reporting for “lower-level misconduct” and would also free 140,000 managers from extra checks. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump defends Ramaswamy campaign ad condemned by Republicans, saying ‘Vivek should keep it up’ – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "President claims criticism of ad featuring Democrat Amy Acton’s estranged mother is a ‘concerted’ attack on Republican Ohio governor candidate Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent Alaska in the US Senate has taken her to parts of the massive state’s interior that are inaccessible by road and on the frontlines of the cost-of-living crisis she hopes will make her the first Democrat to win the seat in nearly two decades. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Woman arrested over shooting of police officer in Nottingham",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/22/woman-arrested-over-shooting-of-police-officer-in-nottingham",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Aisha Zaman, 27, charged with two firearms offences after incident in city centre on Sunday A 27-year-old woman has been charged over the shooting of a police officer in Nottingham. Aisha Zaman, from the Hyson Green area of the city, has been charged with possession of a prohibited firearm and possession of that firearm with intent to commit an indictable offence. Continue reading...",
+      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
       "alsoReportedBy": []
     },
     {
@@ -200,6 +200,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "examining the macOS gcc binary",
       "url": "https://zoey-on-github.github.io/blog/macgcc.html",
       "source": "Lobsters",
@@ -218,15 +227,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "jailbreaking the switch 2",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Getting ready to operate GNU Taler in Germany",
       "url": "https://www.taler.net/en/news/2026-13.html",
       "source": "Hacker News",
@@ -236,8 +236,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Tell your network to explain itself and then some",
-      "url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
+      "title": "jailbreaking the switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "source": "Hacker News",
+      "title": "Expose only share links of a private service with caddy",
+      "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
