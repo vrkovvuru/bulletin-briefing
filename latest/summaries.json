@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-23T18:42:11.007185Z",
+  "generated": "2026-10-23T20:41:37.295444Z",
   "summaries": [
+    {
+      "summary": "Indiana police officer Justin Craig arrested for misusing Flock cameras to search plates of his wife and her acquaintance.",
+      "significance": "This story highlights misuse of police resources for personal reasons, potentially eroding public trust in law enforcement.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
+      "points": [
+        "Justin Craig charged with official misconduct and two counts of fraud.",
+        "Craig searched his wife\u2019s license plate over 80 times.",
+        "He searched the plate of his wife\u2019s \u201cprevious acquaintance\u201d nearly 250 times."
+      ]
+    },
+    {
+      "summary": "Senator Susan Collins announces exemptions for Maine industries from Trump-era tariffs on Canada.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+      "points": [
+        "Exemptions apply to nine agricultural products like blueberries, potatoes, and apples.",
+        "Collins highlights reliance on Canadian equipment and materials unavailable in the U.S.",
+        "Announcements aim to aid re-election campaign amid Democratic threat to Senate control."
+      ]
+    },
+    {
+      "summary": "A functional programming language, Roc, achieved competitive performance with C in DEFLATE compression benchmarks, though it didn't outperform C's optimized libdeflate library.",
+      "significance": "The story demonstrates that functional programming languages like Roc can achieve performance close to optimized C libraries, highlighting the potential of such languages in high-performance computing tasks.",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "points": [
+        "Roc's implementation was on average 15% slower than libdeflate but showed up to 18% faster on best-case inputs.",
+        "The testing was done on a 2021 M1 MacBook Pro and an AMD Ryzen 9 3900X Ubuntu machine.",
+        "Roc provides stronger safety guarantees, including memory safety and pure function determinism, compared to C."
+      ]
+    },
+    {
+      "summary": "Kimi K3.1 Pro scores 55 on the Artificial Analysis Intelligence Index, placing it above average among comparable models.",
+      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "points": [
+        "Kimi K3.1 Pro generated 150M tokens, significantly more than the median of 87M.",
+        "The model costs $2.11 on average per task for the Intelligence Index evaluation.",
+        "Kimi K3.1 Pro processes text at 77 tokens per second, slower than the average of 81."
+      ]
+    },
     {
       "summary": "Meghan Markle explains she kept her father away from her children to protect them, citing disturbing allegations against him from 2018.",
       "significance": "Meghan's statement aims to clarify her reasons for distancing from her father, seeking to protect her children from alleged disturbing behaviors.",
@@ -3707,44 +3745,6 @@
         "Protesters gather every Saturday in autumn to play and demonstrate.",
         "The field is located on the banks of the River Dart in Totnes, Devon.",
         "The school plans to sell the land to fund refurbishments."
-      ]
-    },
-    {
-      "summary": "Solar power generation surpassed nuclear power globally for the first time in 2025, according to a WNISR report.",
-      "significance": "This story marks the first time solar power has surpassed nuclear power globally, highlighting the rapid expansion of renewables compared to the stagnant growth of nuclear energy.",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "points": [
-        "Solar capacity increased by 510 GW to 2,383 GW in 2025, a 27% year-on-year rise.",
-        "Nuclear capacity rose only by 1.5 GW to 399.5 GW, with operating capacity declining by 0.5 GW.",
-        "From March 2025 through June 2026, either solar or wind generated more electricity than nuclear every month."
-      ]
-    },
-    {
-      "summary": "Researchers made chicken breast partially transparent by soaking it in a tartrazine solution, a food dye found in Doritos.",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "points": [
-        "Chicken breast became partially transparent after soaking in a ~0.19 M tartrazine solution for 6 hours.",
-        "The original study used a 0.62 M tartrazine solution at 40°C with a machine shaker.",
-        "The experiment resulted in a gummy-bear-like texture in the chicken breast."
-      ]
-    },
-    {
-      "summary": "US and Iran both claim control of the Strait of Hormuz amid vessel attacks.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
-      "points": [
-        "At least 12 ships were attacked in the week ending October 16, 2026.",
-        "US Central Command claims 400 ships and 100 million barrels of oil moved through the Strait of Hormuz over the past week.",
-        "Brent crude reached $110 a barrel, influenced by attacks and Iran-aligned Houthis' actions."
-      ]
-    },
-    {
-      "summary": "Women gathered outside New Delhi's police headquarters to protest alleged police brutality against female demonstrators.",
-      "significance": "The protest highlights ongoing issues of police misconduct towards women in India, following recent election-related demonstrations.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
-      "points": [
-        "Protest occurred on Saturday outside New Delhi's police headquarters.",
-        "Demonstrations stem from alleged brutality during protests over election irregularities.",
-        "Women are the primary group protesting the mistreatment by police."
       ]
     }
   ]

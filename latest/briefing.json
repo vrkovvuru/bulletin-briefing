@@ -2,13 +2,31 @@
   "date": "2026-10-23",
   "stories": [
     {
-      "title": "Bayern coach Kompany taken to hospital after collapsing during training",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss",
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+    },
+    {
+      "title": "Bayern Munich manager Kompany taken to hospital after collapsing at training",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+    },
+    {
+      "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Belgian had been ​nursing a virus in recent days and had ⁠missed some of his team&#039;s training sessions.",
-      "alsoReportedBy": ["BBC News", "The Guardian"]
+      "summary": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.",
+      "alsoReportedBy": []
     },
     {
       "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
@@ -20,57 +38,48 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
+      "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump’s broken promises: economy, war and ICE",
+      "url": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Mehdi Hasan debates ex-Trump adviser Steve Cortes on the economy, Trump’s immigration policies and Islamophobia.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Millions remain under yellow weather warnings for wind and rain, with a second storm expected to hit Scotland and parts of northern England on Saturday.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Tigray official urges rebels to disarm",
+      "url": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia&#039;s Tigray capital.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
       "url": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
-      "url": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump administration sues to block possible Democratic win in Alaska",
-      "url": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The lawsuit raises concerns the US administration may be looking to meddle in some of this midterm cycle’s races.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Meghan statement offers answers after years of questions about her relationship with father",
-      "url": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Today, without exactly using the word, Meghan claimed vindication.",
       "alsoReportedBy": []
     },
     {
@@ -83,12 +92,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "title": "Europe's Ukraine dilemma",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6005799/europes-ukraine-dilemma",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "European leaders are grappling with how best to support Ukraine, balancing their fraught relationships with the Trump administration and the imperatives of European security.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
       "alsoReportedBy": []
     },
     {
@@ -101,12 +119,21 @@
       "alsoReportedBy": ["Guardian World"]
     },
     {
-      "title": "Trump touts lawsuit to block Senate race certification in Alaska: ‘I’m the one that said do it’ – live",
+      "title": "Indiana police officer arrested for using Flock cameras to search wife",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Justin Craig charged with official misconduct and fraud, after searching plates of wife and ‘previous acquaintance’ An Indiana police officer has been arrested on allegations that he misused Flock cameras hundreds of times in a case involving his wife and a previous acquaintance of hers. Georgetown police department officer Justin Craig was charged with official misconduct and two counts of fraud. Documents show that he searched his wife’s license plate more than 80 times and that of a “previous acquaintance” of hers nearly 250 times, the news outlet WLKY reported. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump repeats false claim that other Dan Sullivan on Alaska ballot is ‘cheating’ during Florida rally - live",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan Freedland and Guardian US columnist Moira Donegan are answering your questions in this week’s episode of Politics Weekly America. They break down the final stretch ahead of these hugely consequential elections, that will decide control of Congress in Donald Trump’s final two years of office. Continue reading...",
+      "summary": "Dan S Sullivan, the incumbent, will face Dan J Sullivan, a retired schoolteacher who is also a registered Republican. On stage, Trump claimed again that this is a move orchestrated to boost Democrat Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan Freedland and Guardian US columnist Moira Donegan are answering your questions in this week’s episode of Politics Weekly America. They break down the final stretch ahead of these hugely consequential elections, that will decide control of Congress in Donald Trump’s final two years of office. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -119,6 +146,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Embattled Susan Collins announces exemptions for Maine from Trump Canada tariffs",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Republican facing tough re-election battle in state where Trump’s trade war with neighbor has stirred outrage Susan Collins, the embattled Republican senator for Maine, announced that several industries crucial to her state would be exempted from American tariffs on Canada, a notable win for her as she faces a tight re-election campaign that will help determine whether Democrats can flip control of Congress. In a statement on X, Collins said that the exemptions would apply to nine agricultural products, including blueberries, potatoes, apples and seaweed. She added that many of the state’s farmers rely on specialized equipment and materials from across the border that are “unavailable from American suppliers or cannot be replaced without incurring significant expense”. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
       "url": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
       "source": "NPR World",
@@ -128,57 +164,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Children being exploited by criminals to target Greater Manchester HMOs, police say",
+      "title": "Criminals recruiting children to damage Greater Manchester HMOs, police believe",
       "url": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "GMP fear vulnerable people being paid to attack buildings suspected of housing immigrants or refugees Vulnerable people, including children, are being recruited by criminals to damage houses suspected of being HMOs, police in Manchester believe. In recent weeks, dozens of properties have been targeted across Greater Manchester, mostly in Salford, but also in Stockport and Tameside. Continue reading...",
+      "summary": "Houses being targeted because they are thought to hold immigrants, with dozens of properties affected in recent weeks Criminals are recruiting vulnerable people, including children, to damage houses suspected of being HMOs, police in Manchester believe. In recent weeks, dozens of properties have been targeted across Greater Manchester, mostly in Salford, but also in Stockport and Tameside. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "PSG v Lyon moved as Paris prepares for more protests",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Denmark to ban mink farming in government U-turn",
-      "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "As midterms loom, Trump and his allies try to change the subject",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/midterm-elections-trump-changes-subject",
+      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Despite distraction and distortion, voters know what issues will be informing their votes in this election This was originally published in The Stakes 2026, a newsletter about the midterm elections. Sign up to get it in your inbox Elections too often get pigeonholed. The hot take, or simplistic analysis, would have it that just one issue – often the issue the source so happens to be most animated about – will decide the entire result. Tens of millions of Americans will go to the polls next month. Will they be galvanized by affordability? Maybe it’s Iran. Or healthcare? Taxes, perhaps. Or crime. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-      "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent crude, the international benchmark for oil, rose by about 3.5% on Friday to pass $117 a barrel at one point – its highest level since April. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Officer who shot and killed Black toddler in Mississippi resigns from police force",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Hunter Foster fired at vehicle during a shoplifting call at a Walmart, killing one-year-old Kohen Wiley Hunter Foster, the Mississippi police officer who shot into a vehicle and killed one-year-old Kohen Wiley, has resigned from the Senatobia police department. Earlier this week, Mississippi’s attorney general, Lynn Fitch, announced that the shooting was “justified”. The Senatobia board of aldermen accepted Foster’s resignation on 21 October and the resignation took effect immediately. Foster was placed on leave on 16 June, days after the 14 June shooting. Yesterday, the Mississippi department of public safety released body-camera and surveillance footage from the shooting, at a Walmart in Senatobia, during which the toddler died in his mother’s arms after being shot. Continue reading...",
+      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s . The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country’s human rights record. Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s. It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -200,8 +200,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
+      "title": "Software is slow because of bad design, not slow languages",
+      "url": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "UUIDv7 doesn't have the properties you think it does",
-      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,17 +236,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Software is slow because of bad design, not slow languages",
-      "url": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Docker is weird",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "title": "How close can pure FP get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -278,15 +278,6 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "[AINews] Black October",
-      "url": "https://latent.space/p/ainews-black-october/",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -317,15 +308,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Quoting Armin Ronacher",
-      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
       "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
       "source": "Import AI",
@@ -353,12 +335,30 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
+      "alsoReportedBy": []
+    },
+    {
       "title": "You are the Team — Anekha Sokhal, Moshi",
       "url": "https://latent.space/p/moshi/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "",
       "alsoReportedBy": []
     }
   ]
