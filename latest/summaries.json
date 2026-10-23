@@ -1,6 +1,81 @@
 {
-  "generated": "2026-10-23T00:42:02.793871Z",
+  "generated": "2026-10-23T02:42:04.103152Z",
   "summaries": [
+    {
+      "summary": "A dispute over Ukraine's access to SpaceX's Starshield involves Trump's administration, Kyiv officials, and Elon Musk.",
+      "significance": "The dispute over Starshield access restrictions impacts Ukraine\u2019s military capabilities, affecting drone operations and air defense systems.",
+      "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
+      "points": [
+        "Ukrainian officials claim restrictions on Starshield have made many of their drones inoperable.",
+        "The dispute involves the Trump administration, Kyiv officials, and Elon Musk.",
+        "Starshield limitations have hampered Ukraine's air defense systems against Russian attacks."
+      ]
+    },
+    {
+      "summary": "Brazilian presidential runoff's impact on the Amazon and local communities is examined in a podcast.",
+      "significance": "The story highlights the critical impact of Brazil\u2019s presidential election on the Amazon's future and the livelihoods of its communities.",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+      "points": [
+        "Tom Phillips visits Roraima, Brazil\u2019s northernmost state, for insights.",
+        "The election runoff on Sunday has high stakes for the Amazon and its communities.",
+        "Flávio Bolsonaro received significant support in the first round from Roraima."
+      ]
+    },
+    {
+      "summary": "Flu cases surge on the US west coast earlier than usual, prompting health experts to urge vaccination.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
+      "points": [
+        "California's flu test rate at 9.65%, significantly above the early October norm of 1%.",
+        "H1N1 influenza A strain is mutating, contributing to the early rise in cases.",
+        "Flu season typically peaks in February but has started earlier this year."
+      ]
+    },
+    {
+      "summary": "Beau Lamarre-Condon allegedly confessed to killing two men and asked his friend for help moving the bodies.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/23/beau-lamarre-condon-allegedly-confessed-to-friend-murder-trial-court-ntwnfb",
+      "points": [
+        "Lamarre-Condon, 31, allegedly shot Jesse Baird and Luke Davies with his police service weapon.",
+        "The killings took place on February 19, 2024, in Baird\u2019s Paddington home.",
+        "Lamarre-Condon reportedly told his friend it was an \u201cout-of-body experience\u201d before joking about it."
+      ]
+    },
+    {
+      "summary": "Queensland minister Amanda Camm resigned from the frontbench, citing health and safety reasons due to pressure over child safety issues.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/23/embattled-qld-mininster-amanda-camm-quits-crisafulli-frontbench-citing-health-and-safety-reasons",
+      "points": [
+        "Camm faced months of pressure over the state\u2019s child safety system.",
+        "Her resignation comes after Helen Haines' attack was cited as a reason.",
+        "Camm emphasized that her decision to step down was \"mine alone."
+      ]
+    },
+    {
+      "summary": "Corey Lewandowski, former Trump adviser and DHS aide, is under criminal investigation for allegedly profiting from his government role.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
+      "points": [
+        "Investigation源于DHS内部监察机构的刑事转介。",
+        "调查涉及Lewandowski在处理某些政府合同中的行为。",
+        "三名美国官员和一名知情人士向路透社透露了这一消息。"
+      ]
+    },
+    {
+      "summary": "Dijkstra argues against \"natural language programming,\" asserting that formal symbols are essential for effective and error-free computing.",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "points": [
+        "Dijkstra cites historical examples, such as Greek mathematics and medieval scholasticism, to argue against natural language.",
+        "He suggests that formal symbols simplify programming by reducing the chance of undetected errors.",
+        "Dijkstra warns that using native tongues for programming could increase the complexity and workload for both machines and humans."
+      ]
+    },
+    {
+      "summary": "PHP releases urgent security updates to fix two remote code execution vulnerabilities due to a leak in the coordinated disclosure process.",
+      "significance": "The story matters because it highlights the urgent need for PHP users to upgrade due to exploited remote code execution vulnerabilities, affecting security across the entire PHP 8.x line.",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "points": [
+        "Two remote code execution holes were addressed in PHP 8.x line updates.",
+        "Leak began on October 20th, 15:00 UTC, with incorrect CVE details.",
+        "Original vulnerabilities discovered by Wiz Research on August 19, 2026."
+      ]
+    },
     {
       "summary": "About 150,000 supporters of Serbia\u2019s opposition Student List movement rallied in Belgrade to oust veteran leader Aleksandar Vucic's party in upcoming elections.",
       "significance": "The massive rally highlights significant student opposition and potential for political change ahead of Serbia\u2019s election.",
@@ -3676,80 +3751,6 @@
         "Pope Leo spoke with Putin despite being hospitalized post-lung surgery.",
         "The call aimed to secure supplies and evacuation for the occupied Ukrainian city of Oleshky.",
         "Zelenskyy received warm welcomes and hugs from leaders at a recent meeting."
-      ]
-    },
-    {
-      "summary": "IMF advises John Healey to cut pensions and welfare, not tax banks, contrary to his budget plans.",
-      "url": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
-      "points": [
-        "IMF suggests targeting pensions and welfare savings instead of banks.",
-        "John Healey plans to introduce bank taxes in the upcoming budget.",
-        "Supporters argue banks should contribute more due to past bailouts."
-      ]
-    },
-    {
-      "summary": "Russian attacks on Ukrainian power plants aim to make major cities unliveable, despite Trump's call for an energy ceasefire.",
-      "url": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
-      "points": [
-        "Russian strikes target Kyiv and Kharkiv power plants, causing blackouts and water outages.",
-        "Attacks reflect a Russian strategy to punish Ukraine\u2019s population and force capitulation.",
-        "Trump's unilateral declaration of an \"energy ceasefire\" was ignored by Russia."
-      ]
-    },
-    {
-      "summary": "Charles C Mann explores the high-cost material Dekton after purchasing a pricey induction cooktop that required a separate, expensive cooking surface.",
-      "significance": "The story highlights the resurgence of high-tech ceramics like Dekton, underscoring the significant role of materials science in transforming the physical world.",
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "points": [
-        "Dekton, invented by Cosentino in 2013, is a heat, pressure, scratch, shatter, and stain-resistant material.",
-        "Dekton is essentially porcelain, a material with origins over 3,000 years old.",
-        "The creation of porcelain involves heating kaolin clay to about 1,200 degrees centigrade, forming a dense, translucent matrix."
-      ]
-    },
-    {
-      "summary": "Researchers exploited a 37-year-old kernel bug in OpenBSD, leading to local privilege escalation to root.",
-      "url": "https://calif.io/research/big-fish",
-      "points": [
-        "The bug involved a signed 16-bit short counter for shared memory attachments, maxing at 32,767.",
-        "Exploitation required forking 259 processes to wrap the counter to -32,643, enabling a use-after-free.",
-        "OpenBSD's kernel memory allocators lack base address randomization, making early boot allocations predictable."
-      ]
-    },
-    {
-      "summary": "Apple's MLX framework enables running large language models like Muse Spark Open on Mac Studio with Apple silicon.",
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "points": [
-        "Muse Spark Open, a model with nearly a trillion parameters, runs at over 36 tokens per second on a cluster of four Mac Studios.",
-        "The M5 Ultra chip in Mac Studio offers up to 4.6× faster time to first token (TTFT) compared to the M3 Ultra.",
-        "Mac Studio with M5 Ultra consumes 300W peak power, making it energy-efficient for AI work in home or office environments."
-      ]
-    },
-    {
-      "summary": "A theoretical physicist discusses the impact of AI-generated mathematical papers, suggesting a shift in academic priorities towards efficiency over comprehension.",
-      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
-      "points": [
-        "In early October, OpenAI generated a list of 700 obscure mathematical facts.",
-        "The author, a physicist, views this as a move towards Borges' Library of Babel concept.",
-        "Academics generally agree that the goal is to accumulate potentially true facts, regardless of comprehensibility."
-      ]
-    },
-    {
-      "summary": "Hyron Andrews, a rugby player for Johannesburg Lions, died in a hotel fall before a Champions Cup match.",
-      "significance": "The death of Hyron Andrews affects his teammates, family, and fans, and leads to tributes and a game played in his honor.",
-      "url": "https://www.theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle",
-      "points": [
-        "Andrews, 31, fell in Atalante-Relais Thalasso hotel on Île de Ré.",
-        "He played for KZN Sharks and Sale Sharks besides Johannesburg Lions.",
-        "Team plans to play the next day game to honor him."
-      ]
-    },
-    {
-      "summary": "Analysis reveals higher rates of youth not in employment, education, or training in England\u2019s smaller cities and towns compared to larger cities.",
-      "url": "https://www.theguardian.com/society/2026/oct/16/neet-rates-england-smaller-cities-towns-youth-unemployment-training",
-      "points": [
-        "Centre for Cities used 2021 census data for 41 English cities and towns.",
-        "Smaller areas have higher rates of NEET youth than the nine largest cities.",
-        "Initiatives are being launched in towns like Telford to address the employment crisis."
       ]
     }
   ]
