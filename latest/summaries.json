@@ -1,6 +1,26 @@
 {
-  "generated": "2026-10-23T20:41:37.295444Z",
+  "generated": "2026-10-23T22:41:00.831580Z",
   "summaries": [
+    {
+      "summary": "An Ohio man was convicted of murder for running over a deputy after viewing footage of his son's fatal police shooting.",
+      "significance": "The conviction highlights tensions between law enforcement and communities affected by police violence.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
+      "points": [
+        "Rodney Hinton, 40, faces 15 years to life in prison.",
+        "Hinton's son, Ryan, was shot dead by Cincinnati police.",
+        "Sentencing is tentatively set for November 16."
+      ]
+    },
+    {
+      "summary": "Dessa, a new full-duplex speech model, offers a more natural and emotional interaction compared to current voice AI technologies.",
+      "significance": "Dessa introduces a new category of AI models that can engage in realistic, emotion-rich conversations directly from human speech, advancing the field of deep learning.",
+      "url": "https://block.xyz/dessa",
+      "points": [
+        "Dessa is trained exclusively on human speech, not text, making it the first AI to have realistic live conversations.",
+        "The model can understand and express emotions, pauses, and nuances, unlike text-based AI models.",
+        "Dessa's development aims to enhance human-AI interaction safety and naturalness, addressing current voice AI limitations."
+      ]
+    },
     {
       "summary": "Indiana police officer Justin Craig arrested for misusing Flock cameras to search plates of his wife and her acquaintance.",
       "significance": "This story highlights misuse of police resources for personal reasons, potentially eroding public trust in law enforcement.",
@@ -3727,24 +3747,6 @@
         "Meta\u2019s smartglasses, dubbed \"pervert glasses,\" have been used to record and harass women.",
         "Manfluencers have uploaded footage of unwanted interactions with women to TikTok.",
         "Meta has made limited responses, such as bans and privacy updates, but no apology from Zuckerberg."
-      ]
-    },
-    {
-      "summary": "Ilhan Omar's lawyers claim the federal search of her home was unjustified and unlawful, requesting the return of seized items.",
-      "significance": "The story highlights legal challenges following the federal search of a congresswoman's home, potentially impacting perceptions of political investigations and civil liberties.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
-      "points": [
-        "Omar's attorneys argue the search and seizure were neither justified nor lawful.",
-        "Lawyers requested the return of items taken by federal agents from Omar's home."
-      ]
-    },
-    {
-      "summary": "Parents in Totnes protest against a school's plan to sell a popular field by playing there on weekends.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
-      "points": [
-        "Protesters gather every Saturday in autumn to play and demonstrate.",
-        "The field is located on the banks of the River Dart in Totnes, Devon.",
-        "The school plans to sell the land to fund refurbishments."
       ]
     }
   ]
