@@ -1,6 +1,99 @@
 {
-  "generated": "2026-10-23T02:42:04.103152Z",
+  "generated": "2026-10-23T04:42:16.925015Z",
   "summaries": [
+    {
+      "summary": "A magnitude-7 earthquake struck Tibet, killing at least 16, injuring 54, and destroying hundreds of homes.",
+      "significance": "The earthquake highlights the vulnerability of Tibet's infrastructure and the immediate need for rescue and rebuilding efforts following significant loss of life and property.",
+      "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+      "points": [
+        "At least 16 people killed and 54 injured in the quake.",
+        "339 homes and 20 livestock sheds collapsed in Nagqu city.",
+        "Officials report at least seven aftershocks following the earthquake."
+      ]
+    },
+    {
+      "summary": "Sandra Hüller, known for her self-possessed on-screen presence, discusses her role in several high-profile films, including a potential Marvel movie.",
+      "url": "https://www.theguardian.com/film/2026/oct/23/sandra-huller-new-film-fatherland",
+      "points": [
+        "Hüller stars in four confirmed films in 2026, possibly five.",
+        "Films include the high-grossing \"Project Hail Mary\" ($684m) and arthouse films \"Fatherland\" and \"Rose.\"",
+        "Hüller expresses emotional difficulty in discussing her success despite her controlled on-screen persona."
+      ]
+    },
+    {
+      "summary": "Call of Duty: Modern Warfare 4 offers an action-packed campaign with global settings and a complex plot involving a fictitious North Korean invasion.",
+      "url": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+      "points": [
+        "Features missions in locations like Manhattan, Paris, and North Korea.",
+        "Campaign centers on a fictitious North Korean ruling family's invasion of South Korea.",
+        "Includes characters like John Price and a cameo by Mads Mikkelsen as The Archer."
+      ]
+    },
+    {
+      "summary": "US tech stocks fell sharply due to investor concerns over the sustainability of AI investments.",
+      "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
+      "points": [
+        "Nasdaq Composite dropped 2.6%, its steepest fall since June 5.",
+        "Meta's projected capital spending for this year was raised to $135bn to $145bn.",
+        "Brent crude futures rose 4%, reaching above $114.20 a barrel."
+      ]
+    },
+    {
+      "summary": "Scientists warn that heat killed a record 50,000 people in European cities this summer, with climate change blamed for most deaths.",
+      "significance": "The story highlights the deadly impact of climate change on urban populations in Europe, linking record heat deaths to climate breakdown.",
+      "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+      "points": [
+        "Heat caused 32,000 additional deaths in urban areas due to climate change.",
+        "Highest death rates were in Malta, Italy, and Hungary.",
+        "Warm nights prevented recovery for vulnerable individuals."
+      ]
+    },
+    {
+      "summary": "UK consumer confidence dropped sharply in October, hitting levels not seen since the Brexit vote, due to rising living costs and Middle East conflict impacts.",
+      "url": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+      "points": [
+        "Confidence fell by 11 percentage points in October to -24, the steepest drop since the Brexit vote.",
+        "Economic damage from the Middle East conflict is exacerbating pressure on UK consumers.",
+        "Chancellor John Healey faces this data ahead of his first budget presentation."
+      ]
+    },
+    {
+      "summary": "Freedland and Donegan discuss potential outcomes of the upcoming US election and broader political trends in a podcast.",
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/23/us-midterm-elections-donald-trump-your-questions-answered-podcast",
+      "points": [
+        "Podcast explores if Trump will accept defeat in case of a Democratic win.",
+        "Discusses whether young voters have permanently shifted away from centrist politics.",
+        "Questions if the US can restore its global image post-election."
+      ]
+    },
+    {
+      "summary": "Nationals leader Matt Canavan considers moving to the House of Representatives as a pollster predicts a One Nation wipeout.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/23/nationals-leader-matt-canavan-lower-house-capricornia-one-nation-ntwnfb",
+      "points": [
+        "Michelle Landry, a Nationals MP, will not recontest her Queensland seat of Capricornia.",
+        "Pollster gives Matt Canavan a \"zero per cent\" chance of holding his Senate seat.",
+        "Canavan's potential move follows Landry's announcement of her retirement from politics."
+      ]
+    },
+    {
+      "summary": "Mother of an alleged victim continued to communicate with Alan Jones post-assault, citing dependency on his advice.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/23/alan-jones-trial-mother-of-alleged-victim-ntwnfb",
+      "points": [
+        "Jones, 85, faces 21 charges of indecent assault and sexual touching.",
+        "The alleged assault occurred at Jones\u2019s Fitzroy Falls farm.",
+        "Mother sought advice from Jones due to her lack of self-trust and reliance on his opinions."
+      ]
+    },
+    {
+      "summary": "UUIDv7, despite embedding timestamps, does not guarantee accurate time ordering or strict monotonicity, leading to potential issues in implementation.",
+      "significance": "The story highlights that UUIDv7's embedded timestamp may not accurately reflect creation time, affecting database operations that rely on precise timing.",
+      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "points": [
+        "UUIDv7's timestamp can differ arbitrarily from the actual creation time.",
+        "Python's UUIDv7 implementation can increment the timestamp ahead of the system clock under heavy load.",
+        "UUIDv7 does not ensure strictly monotonically increasing IDs, contrary to expectations."
+      ]
+    },
     {
       "summary": "A dispute over Ukraine's access to SpaceX's Starshield involves Trump's administration, Kyiv officials, and Elon Musk.",
       "significance": "The dispute over Starshield access restrictions impacts Ukraine\u2019s military capabilities, affecting drone operations and air defense systems.",
@@ -3657,100 +3750,6 @@
         "Zacharia's first official day was Monday, with her first briefing on Tuesday.",
         "Trump asked Zacharia if the role was right for her just before a campaign rally.",
         "Zacharia faced scrutiny over her performance and legal credentials."
-      ]
-    },
-    {
-      "summary": "A well-known individual seeks a permanent injunction against Guardian and ITN to prevent publication of serious allegations.",
-      "significance": "The story highlights legal efforts to suppress serious allegations to protect an individual's mental health, impacting press freedom and public's right to know.",
-      "url": "https://www.theguardian.com/media/2026/oct/16/well-known-individual-tries-to-secure-permanent-injunction-against-guardian-and-itn",
-      "points": [
-        "Legal team claims publicizing allegations poses serious risk of self-harm.",
-        "Hearing took place at the high court on Friday.",
-        "Contact details for crisis support services in multiple countries provided."
-      ]
-    },
-    {
-      "summary": "Former Dallas police officer Amber Guyger, convicted of murdering Botham Jean in 2018, was released from prison.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/amber-guyger-released",
-      "points": [
-        "Guyger served seven years of her ten-year sentence.",
-        "Release occurred two weeks after the Texas board of pardons and paroles approved it.",
-        "Jean\u2019s family opposed Guyger's release."
-      ]
-    },
-    {
-      "summary": "Met police are investigating allegations of unauthorized database access related to the founding of Your Party.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/16/met-police-investigating-row-over-founding-of-your-party",
-      "points": [
-        "Investigation launched in September 2025 following a report.",
-        "Allegations involve unauthorized access to a political party\u2019s database.",
-        "The row occurred as the leftwing party was being established last year."
-      ]
-    },
-    {
-      "summary": "Man charged with raping a student and giving lethal fentanyl doses to two college students at FIT.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/new-york-fashion-institute-of-technology-rape-fentanyl-overdose",
-      "points": [
-        "Moises Freire allegedly gave fentanyl, posing as cocaine, to two FIT students.",
-        "One student died from the overdose, while the other nearly died.",
-        "Federal prosecutors have charged three men in connection with the incident."
-      ]
-    },
-    {
-      "summary": "Existing AI benchmarks cover only 10% of tasks performed by American workers, highlighting a significant gap in understanding AI's real-world capabilities.",
-      "significance": "The story highlights that existing AI benchmarks poorly represent the tasks of most American jobs, making it difficult to assess AI's real-world capabilities and impact.",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "points": [
-        "90% of American working hours are spent on tasks with little or no coverage from existing AI benchmarks.",
-        "Benchmarks heavily cover tasks of high-wage occupations like lawyers but underrepresent middle-income jobs such as legal secretaries.",
-        "The study uses ONET taxonomy to break down the economy into sectors, occupations, and tasks, with a focus on 29 selected benchmarks."
-      ]
-    },
-    {
-      "summary": "eBay imposes new restrictions on listings of radio transmitting equipment, exempting gear that operates exclusively on amateur radio frequencies.",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "points": [
-        "eBay's new policy requires an FCC ID number for listings of radio transmitting equipment.",
-        "The restrictions do not apply to gear operating exclusively on amateur radio frequencies.",
-        "The FCC's rules, effective October 13, hold online marketplaces responsible for unauthorized RF devices."
-      ]
-    },
-    {
-      "summary": "Columnist argues Trump openly supports Russia in the Ukraine conflict, yet the West remains in denial.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/donald-trump-russia-ukraine-protect-world",
-      "points": [
-        "Trump's stance evident since his 2025 return to the White House.",
-        "Trump humiliated Ukrainian leader Zelenskyy in an Oval Office meeting.",
-        "Freedland suggests Trump sees himself as an ally of Russia, not the democratic West."
-      ]
-    },
-    {
-      "summary": "Arsenal manager Mikel Arteta defends job cuts at the club to ensure future success.",
-      "significance": "Job cuts at Arsenal aim to ensure continued success, affecting up to 60 staff members.",
-      "url": "https://www.theguardian.com/football/2026/oct/16/mikel-arteta-defends-job-cuts-at-arsenal-to-help-club-evolve-and-create-success",
-      "points": [
-        "Up to 60 roles at risk following a structural review.",
-        "Arteta signed a new deal worth over £20m per season.",
-        "Arsenal aims to reduce redundancies and redeploy affected employees."
-      ]
-    },
-    {
-      "summary": "New White House press secretary Katie Zacharia faced scrutiny from Fox News about her qualifications and the president's confidence in her.",
-      "significance": "The story highlights increased scrutiny of Zacharia from Fox News, indicating potential divisions or doubts within Trump-friendly media about her appointment.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/white-house-press-secretary-katie-zacharia-fox-news",
-      "points": [
-        "Zacharia appeared on Fox News five days into her role.",
-        "She was questioned about her legal credentials and the president's confidence.",
-        "Zacharia's response to confidence queries was simply, \"I\u2019m standing here."
-      ]
-    },
-    {
-      "summary": "Pope Leo, recovering from surgery, called Putin to request supplies and evacuation for Oleshky.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
-      "points": [
-        "Pope Leo spoke with Putin despite being hospitalized post-lung surgery.",
-        "The call aimed to secure supplies and evacuation for the occupied Ukrainian city of Oleshky.",
-        "Zelenskyy received warm welcomes and hugs from leaders at a recent meeting."
       ]
     }
   ]
