@@ -1,6 +1,89 @@
 {
-  "generated": "2026-10-23T12:44:06.290205Z",
+  "generated": "2026-10-23T14:42:22.343460Z",
   "summaries": [
+    {
+      "summary": "Netanyahu orders large-scale military operation in West Bank following the deaths of two Israeli soldiers and two Palestinians.",
+      "significance": "Netanyahu's order for a large-scale operation in the West Bank escalates tensions before upcoming elections.",
+      "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "points": [
+        "Netanyahu orders military to conduct house-to-house searches and demolish homes.",
+        "Incident occurred near Hebron after Israeli military claimed to thwart a \"terror attack.\"",
+        "Operation is described as the largest in the West Bank in decades."
+      ]
+    },
+    {
+      "summary": "Europe columnists discuss the causes and implications of recent protests in France.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+      "points": [
+        "Columnists argue protests stem from local grievances rather than foreign instigation.",
+        "Russia and US far right are exploiting social media to fuel division and anger.",
+        "France faces a debt crisis that will impact both RN and Mélenchon\u2019s economic plans."
+      ]
+    },
+    {
+      "summary": "Mississippi released bodycam footage showing a police officer fatally shooting a 1-year-old boy during a shoplifting call.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
+      "points": [
+        "Kohen Wiley was in a moving car when the shooting occurred.",
+        "The officer was cleared of criminal wrongdoing.",
+        "The boy\u2019s family claims the shooting was unjustified."
+      ]
+    },
+    {
+      "summary": "UK government plans unprecedented intervention in water bills to reduce costs and improve service.",
+      "significance": "The UK government's intervention aims to reduce water bills and improve service quality by directing companies to focus on customer value, reducing costs, and addressing infrastructure issues.",
+      "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+      "points": [
+        "Angela Eagle, environment secretary, will intervene in the next price review.",
+        "Intervention aims to reduce costs and address leaks and sewage overflows.",
+        "Action targets water companies in England and Wales."
+      ]
+    },
+    {
+      "summary": "UK PM Andy Burnham reveals he stockpiles food like beans, soup, and Twiglets in case of emergencies.",
+      "url": "https://www.theguardian.com/society/2026/oct/23/andy-burnham-emergency-stockpile-twiglets",
+      "points": [
+        "Burnham's disclosure follows the launch of the government's \"Be Ready\" campaign.",
+        "Campaign advises households to store enough water and long-life food for emergencies.",
+        "Examples of emergencies include weather events or cyber-attacks."
+      ]
+    },
+    {
+      "summary": "Investor-owned utilities charge 23% more for electricity compared to public providers.",
+      "significance": "The story highlights that investor-owned utilities charge significantly more for electricity than public providers, affecting consumer costs nationwide.",
+      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "points": [
+        "61% of homes paid under 14 cents per kilowatt-hour.",
+        "Public power is more common in areas with cheaper electricity rates."
+      ]
+    },
+    {
+      "summary": "OpenSSL 4.1.0 release introduces significant new features and fixes.",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "points": [
+        "Adds functions to bridge gaps in C99 standard support.",
+        "Dropped post-handshake records from retransmission buffer upon DTLS 1.3 KeyUpdate.",
+        "Permanent receive failure on DTLS listener can now be reported."
+      ]
+    },
+    {
+      "summary": "Google is implementing a new rule requiring all Android app developers to register and verify their identity, affecting even personal and community apps.",
+      "url": "https://keepandroidopen.org/?",
+      "points": [
+        "Developers must register with Google by handing over government ID and signing a contract by 2027.",
+        "The rule affects all Android apps, including those shared privately or built by hobbyists.",
+        "F-Droid, a repository for open-source Android apps, warns this move could lead to increased censorship and control over app distribution."
+      ]
+    },
+    {
+      "summary": "Shitter is a privacy-focused, open-source alternative front-end for Twitter, forked from Nitter.",
+      "url": "https://codeberg.org/shitter/shitter",
+      "points": [
+        "Prevents Twitter from tracking IP and JavaScript fingerprint",
+        "Uses Twitter's unofficial API without needing a developer account",
+        "Nitter is on average 15 times lighter and faster than Twitter"
+      ]
+    },
     {
       "summary": "Trump is portrayed as willing to sacrifice Ukraine's interests to gain Russia\u2019s approval.",
       "significance": "The story highlights how Trump's alignment with Putin may compromise Ukraine's sovereignty, drawing a parallel to historical appeasement policies.",
@@ -3663,90 +3746,6 @@
         "16 Mexican nationals rescued about 225km west of Ensenada, Mexico.",
         "One survivor treated for suspected shark bite; two in critical condition.",
         "Coastguard and US Navy continue search with multiple aircraft and ships."
-      ]
-    },
-    {
-      "summary": "England's unbeaten streak in rugby ends with a narrow loss to Canada.",
-      "url": "https://www.theguardian.com/sport/2026/oct/17/canada-england-red-roses-wxv-rugby-union-match-report",
-      "points": [
-        "Canada defeated England 24-21 at BMO Field in Toronto.",
-        "England's streak, lasting four years and 41 games, was broken.",
-        "Canada previously drew 26-26 with England in Exeter last month."
-      ]
-    },
-    {
-      "summary": "Mathias Cormann warns against adopting populist policies like migration caps, urging instead to boost productivity to ease living costs.",
-      "significance": "Cormann warns that mimicking populist policies will not solve cost of living issues or enhance productivity in Australia.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
-      "points": [
-        "Cormann, former longest-serving finance minister, advises against migration caps.",
-        "Research indicates migrants contribute positively to employment.",
-        "Urges focus on housing, real wage growth, and lower energy costs to address cost of living."
-      ]
-    },
-    {
-      "summary": "An article explains how to create an animated 88x31 pixel GIF book using ImageMagick and small fonts.",
-      "url": "https://k.sosnierz.me/08-11-24/",
-      "points": [
-        "The GIF can contain up to 4295 megapixels, though the project limits to 88x31 pixels.",
-        "Text is formatted using Unix tools like `cat`, `tr`, and `fold` to fit 22 characters per line.",
-        "The process involves converting text to images with ImageMagick's `convert` command and adjusting delays between frames."
-      ]
-    },
-    {
-      "summary": "Researchers in New Zealand's South Island attempt to track elusive Fiordland crested penguins, known for their forest-dwelling habits and evasive maneuvers.",
-      "significance": "The story highlights ongoing efforts to study the elusive Fiordland crested penguin, aiding in conservation efforts for this mysterious species.",
-      "url": "https://www.theguardian.com/world/2026/oct/17/secrets-of-new-zealand-fiordland-crested-penguin-tawaki",
-      "points": [
-        "Researchers monitor Eleanor Island burrows to retrieve data from tagged penguins.",
-        "Tawaki penguins dig multiple tunnels to evade capture by scientists.",
-        "Annual nest survey takes place around Doubtful Sound on the South Island."
-      ]
-    },
-    {
-      "summary": "Sydney's historic Wentworth Park, known for greyhound racing, held its final races before demolition.",
-      "significance": "The closure of Wentworth Park affects long-time racing fans and marks the end of a significant historical sporting site in Sydney.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/gone-to-the-dogs-racing-fans-mourn-closure-of-wenty-sydneys-historic-greyhound-track",
-      "points": [
-        "Final races at Wentworth Park drew thousands on Friday night.",
-        "Greyhound races have been held at the park since 1932.",
-        "The stadium will be demolished and turned into parkland."
-      ]
-    },
-    {
-      "summary": "In Australia, mortgage repayments are now cheaper than rent in some suburbs due to high rents and falling property prices.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/buying-a-home-cheaper-than-renting-in-some-australian-suburbs",
-      "points": [
-        "Median rents in inner-city Melbourne, suburban Canberra, and Darwin nearly match weekly home loan repayments.",
-        "In 10% of Australian suburbs and towns, repayments are less than $200 a week higher than rent."
-      ]
-    },
-    {
-      "summary": "Trump at a Georgia rally claimed the election of Jon Ossoff was illegitimate, dismissing critics and supporting Mike Collins.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
-      "points": [
-        "Trump labeled Ossoff's election as fraudulent, undermining Georgia's democratic process.",
-        "Trump supports Mike Collins against Ossoff in the upcoming November election.",
-        "Trump described his two-year run as the 'most successful,' despite election claims."
-      ]
-    },
-    {
-      "summary": "Alan Feeney resigned from Solihull and Birmingham councils after being caught on camera making racist remarks.",
-      "url": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks",
-      "points": [
-        "Feeney admitted there was 'no excuse' for his comments.",
-        "Resigned from positions on both Solihull borough council and Birmingham city council.",
-        "His racist remarks were uncovered in an undercover investigation."
-      ]
-    },
-    {
-      "summary": "A 16-year-old former student killed three students and a teacher in a shooting at an elementary school in Bend, Oregon, before being shot by a bystander.",
-      "significance": "The shooting highlights the ongoing issue of school safety and the tragic impact of gun violence on young communities.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-silver-rail-elementary-school-shooting-what-we-know-so-far",
-      "points": [
-        "The victims included five-year-old Rhoam Summer, an eight-year-old, an eleven-year-old, and 25-year-old teacher Megan Lambert.",
-        "The shooter, Griffin J John II, was killed at the scene by Kaylub Giamanco, a father of two girls at the school.",
-        "The attack occurred at 1:02 PM local time, with the shooter using a 12-gauge shotgun and firing up to 15 shots."
       ]
     }
   ]
