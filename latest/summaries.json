@@ -1,6 +1,70 @@
 {
-  "generated": "2026-10-23T14:42:22.343460Z",
+  "generated": "2026-10-23T16:42:20.959397Z",
   "summaries": [
+    {
+      "summary": "Russia and Ukraine agreed to a local ceasefire in Oleshky to address a severe humanitarian crisis.",
+      "significance": "The ceasefire in Oleshky allows for humanitarian aid deliveries and civilian evacuations, addressing the severe shortages civilians face.",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+      "points": [
+        "Ceasefire in Oleshky from 29 October to allow aid deliveries and civilian evacuations.",
+        "Thousands of civilians in Oleshky face severe shortages of food, water, and electricity.",
+        "The agreement was announced by the White House on Friday."
+      ]
+    },
+    {
+      "summary": "Prince William made a surprise appearance on the Graham Norton Show to promote his Earthshot prize.",
+      "significance": "Prince William's surprise appearance on The Graham Norton show promotes his environmental initiative, the Earthshot prize, to a wide audience.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/prince-william-graham-norton-show",
+      "points": [
+        "Cate Blanchett and Hannah Waddingham joined William on the show.",
+        "Earthshot prize's annual awards ceremony is set for next month in Mumbai, India."
+      ]
+    },
+    {
+      "summary": "US Supreme Court allows New Hampshire to ban student IDs as voter identification for midterms.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
+      "points": [
+        "Supreme Court sided with Republicans to reject student IDs for voting in New Hampshire.",
+        "Decision cites rule against altering election rules close to election day.",
+        "Voting rights advocates argue the directive will disenfranchise young and low-income voters."
+      ]
+    },
+    {
+      "summary": "Lewis Hamilton plans to extend his Formula One career into the early 2030s to participate in the African Grand Prix in Rwanda.",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "points": [
+        "Hamilton aims to race in Africa despite Rwanda's human rights criticism.",
+        "Rwanda to host the African Grand Prix in the early 2030s on a new circuit.",
+        "Last F1 race in Africa was in South Africa in 1993."
+      ]
+    },
+    {
+      "summary": "Researchers announced they hacked the iPhone and demonstrated their findings at Hexacon in Paris.",
+      "url": "https://blog.calif.io/p/iphone",
+      "points": [
+        "Demonstrations were revealed at Hexacon in Paris.",
+        "Focus on iMessage highlighted over third-party apps.",
+        "Release of details pending."
+      ]
+    },
+    {
+      "summary": "eMudhra faced a private key compromise of 8 intermediate certificates, leading to distrust and revocation by major tech companies.",
+      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+      "points": [
+        "8 eMudhra Intermediate certificates had their private keys compromised.",
+        "Mozilla independently recovered the keys, confirming a flawed key generation process.",
+        "6 TLS certificates and 2 codesigning certificates were affected, with 6 revoked by eMudhra."
+      ]
+    },
+    {
+      "summary": "Most software performance issues stem from poor design rather than the use of slower programming languages.",
+      "url": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
+      "points": [
+        "Software performance is typically constrained by I/O operations, not the language speed.",
+        "Rewriting a Python program in C can only improve performance by up to 1.5x due to I/O bottlenecks.",
+        "Significant speedups usually come from redesigning software to reduce workload, not from language changes."
+      ]
+    },
     {
       "summary": "Netanyahu orders large-scale military operation in West Bank following the deaths of two Israeli soldiers and two Palestinians.",
       "significance": "Netanyahu's order for a large-scale operation in the West Bank escalates tensions before upcoming elections.",
@@ -3680,72 +3744,6 @@
         "Estimates performance for short prompts on individual devices.",
         "Relies on community benchmarks from sources like r/LocalLLaMA and localscore.ai.",
         "Provides measured numbers and projections based on similar setups or specs."
-      ]
-    },
-    {
-      "summary": "Lingua Franca is a coordination language for deterministic, efficient concurrent programming across multiple languages.",
-      "url": "https://www.lf-lang.org/",
-      "points": [
-        "Eliminates race conditions and manual synchronization by design.",
-        "Supports C, C++, Python, TypeScript, and Rust for reactive components.",
-        "Developed with contributions from universities including UC Berkeley, Kiel University, and TU Dresden."
-      ]
-    },
-    {
-      "summary": "The article discusses the latest advancements in AI models and their performance metrics, focusing on new releases and updates from various companies.",
-      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-      "points": [
-        "Meta's Muse Spark 1.3, an 816B-total, 42B-active MoE model, ranks highest on AA\u2019s Intelligence Index at 39.",
-        "Muse Spark 1.3 charges $1.25/$4.25 per M input/output tokens, with the lowest output tokens per task among top nine open models.",
-        "The model ranks last on AA\u2019s four agentic evals but leads open models on AA-Omniscience and tops US open models on Code Arena WebDev."
-      ]
-    },
-    {
-      "summary": "Chancellor Healey argues for a third runway at Heathrow, despite Prime Minister Burnham's reservations.",
-      "significance": "Chancellor Healey argues for Heathrow's third runway, citing growth and jobs, amid mixed government support and ongoing public consultation.",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Chancellor Healey asserts that airport expansion, including Heathrow, has driven jobs and growth.",
-        "Prime Minister Burnham remains cautious, stating it is \"a matter for London and Londoners.\"",
-        "Heathrow's CEO warns not building the third runway would be a \"huge missed opportunity,\" with the project valued at £33bn."
-      ]
-    },
-    {
-      "summary": "Trump delays new Russia sanctions, citing national interest, amid tensions with Ukraine.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
-      "points": [
-        "Trump waived sanctions championed by late Senator Lindsey Graham.",
-        "Sanctions were due to target the Russian economy comprehensively.",
-        "Trump's move follows public criticism of Ukrainian President Volodymyr Zelenskyy."
-      ]
-    },
-    {
-      "summary": "The article discusses the concept of \"decoherence\" in AI systems, where the accumulation of incompatible models leads to increased complexity and cost.",
-      "significance": "The story highlights how AI-generated models can lead to unsustainable complexity, affecting system efficiency and sustainability.",
-      "url": "https://maevyn.codes/decoherence",
-      "points": [
-        "Decoherence increases exponentially as the system changes, making it unsustainable with widespread AI use.",
-        "The phenomenon prevents AI from achieving runaway self-improvement, limiting its rate of improvement.",
-        "Using examples like replacing pipes in a building, the article illustrates how incremental changes lead to a complex, patchwork system requiring more expertise to manage."
-      ]
-    },
-    {
-      "summary": "Ultramarine 1 Flash, a new AI model, excels in knowledge work tasks across multiple industries at a significantly lower cost than competitors.",
-      "url": "https://www.paperinstruments.com/ultramarine",
-      "points": [
-        "Ultramarine 1 Flash is 60x cheaper than Fable, costing $0.13 per task.",
-        "It generates 6.5% fewer tokens than GLM-5.3 Flash but achieves better work efficiency.",
-        "In finance, steel mills earnings dropped from $7.2bn in 2022 to $2.4bn in 2025, with their sales share rising to 62%."
-      ]
-    },
-    {
-      "summary": "US coastguard rescued 16 people after a boat sank off Mexico\u2019s Baja coast, with search continuing for 11 missing individuals.",
-      "significance": "The rescue highlights risks in a region frequented by smugglers and recreational vessels, with ongoing search for missing individuals.",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
-      "points": [
-        "16 Mexican nationals rescued about 225km west of Ensenada, Mexico.",
-        "One survivor treated for suspected shark bite; two in critical condition.",
-        "Coastguard and US Navy continue search with multiple aircraft and ships."
       ]
     }
   ]
