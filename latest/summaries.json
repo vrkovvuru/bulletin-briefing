@@ -1,6 +1,81 @@
 {
-  "generated": "2026-10-23T16:42:20.959397Z",
+  "generated": "2026-10-23T18:42:11.007185Z",
   "summaries": [
+    {
+      "summary": "Meghan Markle explains she kept her father away from her children to protect them, citing disturbing allegations against him from 2018.",
+      "significance": "Meghan's statement aims to clarify her reasons for distancing from her father, seeking to protect her children from alleged disturbing behaviors.",
+      "url": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Meghan claims she was informed about disturbing allegations against her father in 2018.",
+        "Limited contact resumed after Meghan wrote to her father following his surgery in the Philippines.",
+        "The statement aims to protect her children, countering perceptions that she distanced herself for other reasons."
+      ]
+    },
+    {
+      "summary": "Governments worldwide, including the UK, advise citizens to stockpile supplies for potential crises.",
+      "url": "https://www.theguardian.com/society/2026/oct/23/tinned-mackerel-hand-crank-radios-and-bags-for-poo-crisis-prepping-guides-around-the-world",
+      "points": [
+        "UK recommends storing food for three days.",
+        "Advice stems from increased climate extremes and geopolitical tensions.",
+        "Once seen as extreme, such preparations are now common in government guidance."
+      ]
+    },
+    {
+      "summary": "Police in Manchester believe criminals are exploiting vulnerable individuals, including children, to damage suspected HMOs.",
+      "significance": "The story highlights exploitation of vulnerable individuals, including children, by criminals to target suspected HMOs, raising concerns over organized crime and discrimination.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
+      "points": [
+        "Dozens of properties targeted across Greater Manchester.",
+        "Attacks mostly concentrated in Salford, also in Stockport and Tameside.",
+        "Suspected targets are buildings housing immigrants or refugees."
+      ]
+    },
+    {
+      "summary": "Voters are aware of multiple issues influencing their decisions in the upcoming midterm elections despite efforts by Trump and his allies to divert attention.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/midterm-elections-trump-changes-subject",
+      "points": [
+        "Midterm elections are scheduled for next month.",
+        "Affordability, Iran, healthcare, taxes, and crime are issues voters consider.",
+        "Trump and his allies attempt to shift focus from key election issues."
+      ]
+    },
+    {
+      "summary": "Oil prices surged above $117 a barrel due to escalating tensions between the US and Iran.",
+      "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "points": [
+        "Brent crude rose by about 3.5%, reaching its highest since April.",
+        "Iran threatened retaliatory attacks on Gulf refineries and datacenters.",
+        "Market fears over potential renewed US strikes on Iran drove the price hike."
+      ]
+    },
+    {
+      "summary": "Mississippi police officer who shot and killed a one-year-old Black toddler during a Walmart incident has resigned.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
+      "points": [
+        "Officer Hunter Foster resigned immediately after the Senatobia board of aldermen accepted it on 21 October.",
+        "Mississippi's attorney general, Lynn Fitch, deemed the shooting \"justified\" earlier in the week.",
+        "Body-camera and surveillance footage was released showing the toddler dying in his mother's arms after being shot."
+      ]
+    },
+    {
+      "summary": "Kimi K3.1 Pro and K3.1 Pro Highspeed are new models with enhanced capabilities in coding, 3D creation, and financial research.",
+      "significance": "Kimi K3.1 Pro and K3.1 Pro Highspeed introduce significant advancements in coding, 3D creation, and financial research capabilities, outperforming competitors in key benchmarks.",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "points": [
+        "K3.1 Pro scores 65.7% on coding benchmarks, outperforming GPT-6 Astra and nearly matching Claude Opus 5.5.",
+        "K3.1 Pro Highspeed offers 2-3× faster interactions compared to K3.1 Pro.",
+        "K3.1 Pro reduces factual error rates significantly, from 23.4% to 8.3% on internal benchmarks."
+      ]
+    },
+    {
+      "summary": "A developer implements a satirical random number generator inspired by xkcd in the Zig programming language.",
+      "url": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
+      "points": [
+        "The generator always returns the number 4.",
+        "The implementation involves modifying the Zig compiler's source code.",
+        "Building the modified Zig compiler took about a minute on a laptop."
+      ]
+    },
     {
       "summary": "Russia and Ukraine agreed to a local ceasefire in Oleshky to address a severe humanitarian crisis.",
       "significance": "The ceasefire in Oleshky allows for humanitarian aid deliveries and civilian evacuations, addressing the severe shortages civilians face.",
@@ -3670,80 +3745,6 @@
         "Protest occurred on Saturday outside New Delhi's police headquarters.",
         "Demonstrations stem from alleged brutality during protests over election irregularities.",
         "Women are the primary group protesting the mistreatment by police."
-      ]
-    },
-    {
-      "summary": "The movie \"Digger\" is predicted to lose $245m, marking a significant flop for Tom Cruise and Hollywood.",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood",
-      "points": [
-        "Predicted loss of $245m due to misjudgment, bad timing, and hubris.",
-        "World premiere in London featured Prince William and Kate Middleton.",
-        "Star-studded cast includes Tom Cruise, Riz Ahmed, and John Goodman."
-      ]
-    },
-    {
-      "summary": "Bank of England governor Andrew Bailey led a walkout of finance leaders at an IMF meeting in Bangkok to protest Russian involvement.",
-      "significance": "The walkout by global finance leaders, including the Bank of England's governor, highlights ongoing protests against Russian participation in international financial summits.",
-      "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
-      "points": [
-        "Andrew Bailey, alongside leaders from France, Germany, and several Scandinavian and Baltic countries, walked out.",
-        "The protest occurred when Russian finance minister Anton Siluanov addressed the group.",
-        "The incident took place during an International Monetary Fund meeting in Bangkok."
-      ]
-    },
-    {
-      "summary": "CDC will send a 'disease detective' to assist in tackling Pennsylvania's measles outbreak.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
-      "points": [
-        "Pennsylvania confirmed 1,222 measles cases as of Wednesday.",
-        "The state has confirmed six measles-related deaths.",
-        "County at the center of the outbreak lacks its own health department."
-      ]
-    },
-    {
-      "summary": "Mark Cocker reaches 1,000 articles for the Guardian's country diary, reflecting on nature and birdlife changes.",
-      "url": "https://www.theguardian.com/environment/2026/oct/17/1000-articles-for-the-guardian-country-diary-mark-cocker",
-      "points": [
-        "Mark Cocker wrote his first diary in 1987, watching a jay bury acorns.",
-        "Cocker's column is the world\u2019s oldest in an English-language newspaper.",
-        "He will reflect on rare birds like the cuckoo and nearly extinct twite in his next piece."
-      ]
-    },
-    {
-      "summary": "US corporate lobbyists intensively worked to weaken the EU's landmark deforestation law over two years.",
-      "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
-      "points": [
-        "US firms and trade groups held over 350 meetings to influence the EU Deforestation Regulation.",
-        "Major companies involved include Cargill, Bunge, and Mondelēz.",
-        "The effort aimed to dilute the world\u2019s most progressive forest protection legislation."
-      ]
-    },
-    {
-      "summary": "Trump holds rallies in traditionally red states to boost Republican support amid unusual behavior.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview",
-      "points": [
-        "Trump's rallies in Montana, Tennessee, and Alaska highlight his eccentric performances.",
-        "Trump is an unpopular president leading an unpopular party in the run-up to an election.",
-        "The focus of the rallies is on Trump's behavior rather than the candidates he supports."
-      ]
-    },
-    {
-      "summary": "DeepSeek V4.1 Flash 1017 is a cost-efficient AI model with advanced image understanding and coding capabilities, priced at $0.10/M input tokens and $0.50/M output tokens.",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "points": [
-        "DeepSeek V4.1 Flash 1017 activates 8B parameters on input and 16B on output from a 552B-parameter backbone.",
-        "The model supports up to 1,048,576 token context window and up to 131,072 completion tokens.",
-        "It is served by 3 providers on OpenRouter: inference.net, DeepInfra, and DeepSeek."
-      ]
-    },
-    {
-      "summary": "A tool called Llmspeed lets users gauge the speed of local LLMs before hardware purchase.",
-      "significance": "Llmspeed allows users to assess local LLM performance speeds, aiding informed hardware purchases for AI enthusiasts and professionals.",
-      "url": "https://llmspeed.dev/",
-      "points": [
-        "Estimates performance for short prompts on individual devices.",
-        "Relies on community benchmarks from sources like r/LocalLLaMA and localscore.ai.",
-        "Provides measured numbers and projections based on similar setups or specs."
       ]
     }
   ]
