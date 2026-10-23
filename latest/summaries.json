@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-22T22:41:17.488994Z",
+  "generated": "2026-10-23T00:42:02.793871Z",
   "summaries": [
+    {
+      "summary": "About 150,000 supporters of Serbia\u2019s opposition Student List movement rallied in Belgrade to oust veteran leader Aleksandar Vucic's party in upcoming elections.",
+      "significance": "The massive rally highlights significant student opposition and potential for political change ahead of Serbia\u2019s election.",
+      "url": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
+      "points": [
+        "150,000 supporters rallied in central Belgrade on Thursday.",
+        "Student List aims to end over 14 years of rule by Vucic\u2019s Serbian Progressive Party.",
+        "Pivotal parliamentary elections are scheduled for Sunday."
+      ]
+    },
+    {
+      "summary": "L'Oreal claims weight loss drugs are affecting beauty and skin care sales, adapting products to address side effects.",
+      "significance": "L'Oreal's acknowledgment of GLP-1 drugs' impact on beauty and skin care sales reflects the growing influence of weight loss drugs on consumer product markets.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "L'Oreal's sales rose by 7.7% in the three months to September, exceeding analyst expectations.",
+        "Nicolas Hieronimus noted GLP-1 drugs, like Ozempic and Wegovy, are impacting beauty and skin care consumption.",
+        "L'Oreal is developing products to address side effects of rapid weight loss, such as skin sagging, through brands like SkinCeuticals and Kiehl's."
+      ]
+    },
+    {
+      "summary": "Australia proposes sending its Australian of the Year, astronaut Katherine Bennell-Pegg, to the International Space Station in 2028.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
+      "points": [
+        "Katherine Bennell-Pegg would be the first astronaut to fly under the Australian flag.",
+        "The mission is scheduled for 2028.",
+        "Australia has made the offer to the European Space Agency (ESA)."
+      ]
+    },
+    {
+      "summary": "Severe storms hit Arizona, causing damage and injuries with rare tornado activity.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
+      "points": [
+        "One person injured, though injuries were not life-threatening.",
+        "Storms brought down power lines and trees, affecting homes.",
+        "El Niño conditions have led to unusually wet weather in the southwest."
+      ]
+    },
+    {
+      "summary": "Report reveals sharp rises in NHS waiting times for children, worsening health outcomes and highlighting regional disparities.",
+      "url": "https://www.theguardian.com/society/2026/oct/23/child-health-england-at-risk-sharp-rise-nhs-waiting-times",
+      "points": [
+        "Children and young people face longest waiting times in NHS history.",
+        "Improvements in adult waiting times contrast with deteriorating conditions for youth.",
+        "Care Quality Commission highlights staff shortages and demand surge as key factors."
+      ]
+    },
+    {
+      "summary": "Large language models (LLMs) are making formal software verification more accessible and efficient for real-world projects.",
+      "significance": "LLMs enable large-scale formal software verification, making secure software development more feasible and efficient.",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "points": [
+        "Claude, an LLM, produced formal proofs for over 100 real-world open-source software libraries.",
+        "Formal verification traditionally required significant expert effort, such as two person-years for the seL4 kernel.",
+        "LLMs discovered bugs in mature software like the Linux kernel that had gone undetected for years."
+      ]
+    },
+    {
+      "summary": "A method to portably access errno from outside C using low-level hacks.",
+      "url": "https://sebsite.pw/w/20260925-errno.html",
+      "points": [
+        "Uses `lseek`, `read`, and `write` functions to capture error strings.",
+        "Constructs a table of error messages to map strings back to errno values.",
+        "Demonstrates the challenge of portability with glibc versus other POSIX-compliant libcs."
+      ]
+    },
     {
       "summary": "AI stocks plummeted globally, causing market declines, while oil prices reached highs not seen since May.",
       "significance": "Sharp drops in AI stocks pull worldwide markets lower, overshadowing gains in non-AI sectors and rising oil prices.",
@@ -3684,72 +3750,6 @@
         "Centre for Cities used 2021 census data for 41 English cities and towns.",
         "Smaller areas have higher rates of NEET youth than the nine largest cities.",
         "Initiatives are being launched in towns like Telford to address the employment crisis."
-      ]
-    },
-    {
-      "summary": "The article discusses the author's preference for software rendering in classic DOS games like Quake, highlighting its unique visual style and performance on modern hardware.",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "points": [
-        "Quake runs at a locked 60fps at 800×600 on modern hardware.",
-        "Software rendering uses the CPU to draw every pixel, maintaining crisp square textures.",
-        "Modern machines can handle high resolutions that were impractical in the 90s."
-      ]
-    },
-    {
-      "summary": "After four years, the iroh 1.0 release marks the culmination of efforts to create a lightweight, efficient protocol for resource-constrained devices.",
-      "significance": "The release of iroh 1.0 marks a shift towards lightweight, efficient protocols for resource-constrained devices, impacting mobile and IoT applications.",
-      "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
-      "points": [
-        "iroh 1.0 was developed over four years with a focus on lightweight operations for devices like mobile phones.",
-        "The project shifted focus to QUIC for networking and BLAKE3 for verified streaming of large blobs.",
-        "deltachat integrated iroh into their codebase, enabling efficient chat history transfer across various platforms."
-      ]
-    },
-    {
-      "summary": "Alberta separatist conference reveals deep convictions and strategic disagreements among independence supporters.",
-      "significance": "The story highlights internal disagreements among Alberta separatists over strategy, despite a strong conviction for independence from Canada.",
-      "url": "https://www.theguardian.com/world/2026/oct/16/fiery-speeches-led-hats-and-infighting-inside-an-alberta-separatist-conference",
-      "points": [
-        "Over three-quarters of attendees voted that Alberta does not need Canada.",
-        "Some supporters paid C$900 for a \"visionary\" weekend pass to the conference.",
-        "Conference highlighted disagreements, including Alberta's future relationship with the US."
-      ]
-    },
-    {
-      "summary": "Burnham advocates for devolving power from Westminster and Holyrood to regions and towns, using Scotland\u2019s Ravenscraig steelworks closure as an example.",
-      "significance": "Burnham proposes devolving power to regions, aiming to empower local communities and address historical economic and social injustices.",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/16/andy-burnham-scotland-devolution-speech-reform-uk-documentary-jenrick-farage-latest-news-updates",
-      "points": [
-        "Ravenscraig steelworks, once employing tens of thousands, closed in 1992.",
-        "Burnham was MP for a region affected by pit closures from the early 2000s for 16 years.",
-        "He proposes placing local needs over party interests in political decision-making."
-      ]
-    },
-    {
-      "summary": "Trump criticizes Republicans, including John Cornyn and Karl Rove, for allegedly undermining Texas Attorney General Ken Paxton.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-      "points": [
-        "Trump accused Cornyn and Rove of working against Paxton out of jealousy.",
-        "Trump will hold a rally in Dalton, Georgia at 2:45pm ET.",
-        "The criticism comes amid a struggle between Paxton and his challenger Talarico."
-      ]
-    },
-    {
-      "summary": "A 16-year-old shooter killed three children and a teacher at an Oregon elementary school before being shot dead by a community member.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/16/first-thing-three-young-children-killed-in-oregon-elementary-school-shooting",
-      "points": [
-        "Three children, aged five, eight, and eleven, were among the victims.",
-        "The attacker, a 16-year-old from Bend, was killed by a community member.",
-        "After the shooting, children were taken to a nearby church for family reunification."
-      ]
-    },
-    {
-      "summary": "A method to invoke JavaScript functions without parentheses using array positions and function overwriting.",
-      "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-      "points": [
-        "Uses prototype pollution to insert a payload into another function.",
-        "Involves overwriting function outputs to return desired JavaScript code.",
-        "Final payload alters `Object.prototype` and `Array.prototype` to execute code."
       ]
     }
   ]
