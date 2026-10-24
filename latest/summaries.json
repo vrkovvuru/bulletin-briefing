@@ -1,6 +1,43 @@
 {
-  "generated": "2026-10-23T22:41:00.831580Z",
+  "generated": "2026-10-24T00:40:52.728546Z",
   "summaries": [
+    {
+      "summary": "Rubio urges Cubans to seek political change, following Trump's mention of potential US military intervention.",
+      "significance": "Rubio's call for action among Cubans for political change follows Trump's statement about potential US military intervention in Cuba.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+      "points": [
+        "Rubio called for action by Cubans seeking change, citing Trump's plans.",
+        "Trump mentioned US warships could intervene in Cuba after returning from Iran.",
+        "Rubio suggested a partnership with the CIA to achieve desired changes."
+      ]
+    },
+    {
+      "summary": "Severe storms and heavy rain are predicted to hit multiple Australian states this weekend, following flash flooding in Queensland.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+      "points": [
+        "Nine flood warnings were in place for south Queensland on Saturday morning.",
+        "Flash flooding this week in south-east Queensland led to multiple school closures.",
+        "Severe storms expected to move from Queensland, Victoria, and South Australia into NSW and Tasmania by Sunday."
+      ]
+    },
+    {
+      "summary": "Oregon father hailed as a hero spoke out about confronting the shooter who killed four at his children's school.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
+      "points": [
+        "Kaylub Giamanco told 911: \u201cI have to go in. People are going to die.\u201d",
+        "Giamanco, a 36-year-old carpenter, stopped the shooting at Silver Rail elementary.",
+        "The shooter killed three boys and one teacher at the school in Bend, Oregon."
+      ]
+    },
+    {
+      "summary": "Greens leader David Shoebridge faces scrutiny over handling of misconduct allegations against senator Jordon Steele-John.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
+      "points": [
+        "Steele-John's future in the party remains uncertain a week after allegations.",
+        "A letter was sent to Shoebridge calling for an independent investigation.",
+        "The Greens are preparing for Senate estimates amid the leadership pressure."
+      ]
+    },
     {
       "summary": "An Ohio man was convicted of murder for running over a deputy after viewing footage of his son's fatal police shooting.",
       "significance": "The conviction highlights tensions between law enforcement and communities affected by police violence.",
@@ -3710,43 +3747,6 @@
         "Investigation launched by French government over misuse of UK-funded vehicles.",
         "Vehicles were intended to prevent asylum seekers crossing the Channel.",
         "Incident occurred during school protests in Dunkirk."
-      ]
-    },
-    {
-      "summary": "SNP announces renewed campaign for Scottish independence with a significant budget.",
-      "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
-      "points": [
-        "John Swinney claims the campaign for a second referendum has already started.",
-        "The campaign, named Choose Scotland, will use a \"six-figure war chest\".",
-        "SNP aims to launch its \"most sophisticated campaign in history\" to promote independence."
-      ]
-    },
-    {
-      "summary": "DeepSeek-v4.1-Flash introduces improvements in reasoning, coding, and visual tasks while reducing execution time and output length.",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "points": [
-        "The model advances performance-cost efficiency across multiple agent harnesses.",
-        "It includes a Python reference implementation with test cases for various conversation features.",
-        "A Rust toolkit with Python bindings is provided for prompt format conversion and model output parsing."
-      ]
-    },
-    {
-      "summary": "America aims to lead in Super Intelligence under President Trump with various initiatives and executive orders.",
-      "url": "https://www.si.gov/",
-      "points": [
-        "15 federal agencies unite in the SI-for-Science initiative with industry and academia.",
-        "Federal permitting for Super Intelligence data centers accelerates to build American capacity.",
-        "K-12 students and teachers receive SI literacy and training to prepare for future innovation."
-      ]
-    },
-    {
-      "summary": "New technologies, like Meta\u2019s smartglasses, are being used to harass women, highlighting a persistent issue of technological misuse.",
-      "significance": "The story highlights a recurring issue of new technologies being misused for harassment, affecting women and emphasizing the need for better safeguards.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends",
-      "points": [
-        "Meta\u2019s smartglasses, dubbed \"pervert glasses,\" have been used to record and harass women.",
-        "Manfluencers have uploaded footage of unwanted interactions with women to TikTok.",
-        "Meta has made limited responses, such as bans and privacy updates, but no apology from Zuckerberg."
       ]
     }
   ]

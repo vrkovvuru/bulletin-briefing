@@ -2,6 +2,33 @@
   "date": "2026-10-23",
   "stories": [
     {
+      "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Israeli army launches a &#039;targeted&#039; operation in Hebron after a shooting killed two soldiers.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
       "source": "Al Jazeera",
@@ -11,30 +38,12 @@
       "alsoReportedBy": ["BBC News"]
     },
     {
-      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Why is Israel increasing its presence in the Balkans?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+      "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
+      "summary": "Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.",
       "alsoReportedBy": []
     },
     {
@@ -47,6 +56,15 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
       "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
       "source": "NPR",
@@ -54,24 +72,6 @@
       "categoryLabel": "Top Stories",
       "summary": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.",
       "alsoReportedBy": []
-    },
-    {
-      "title": "‘Generation Right’: Israeli youth show strong support for the right",
-      "url": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Bayern Munich manager Kompany taken to hospital after collapsing at training",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
-      "alsoReportedBy": ["Al Jazeera"]
     },
     {
       "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
@@ -92,6 +92,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war. The US secretary of state, in his social media post addressed “to those who seek to create positive change”, urged Cubans to capitalize on Trump’s plans. “The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete [sic] partnership with the CIA,” Rubio said. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
       "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "source": "NPR World",
@@ -99,15 +117,6 @@
       "categoryLabel": "World",
       "summary": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
       "alsoReportedBy": ["Guardian World"]
-    },
-    {
-      "title": "Thousands of homes without power as Storm Austen hits south-west England",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Dozens of schools in Cornwall also affected as Storm Boelo heads for Scotland, Northern Ireland and north of England Thousands of homes are without power and schools were closed as the first named storm of the year hit UK shores. Storm Austen brought severe conditions to parts of the south-west, with a gust of 76mph recorded at St Mary’s airport on the Isles of Scilly on Friday morning. By 3pm, more than 31,000 homes in the south-west were without power, according to National Grid. Continue reading...",
-      "alsoReportedBy": []
     },
     {
       "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
@@ -128,6 +137,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thunderstorms and heavy rain will sweep across most Australian states this weekend, adding to the deluge in an already drenched Queensland. Flash flooding in south-east Queensland this week prompted hundreds of SES callouts and the closure of multiple schools. On Saturday morning, the Bureau of Meteorology had nine flood warnings in place for south Queensland. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last week spoke for the first time about the incident, describing his experience and how he told a 911 operator: “I have to go in. People are going to die.” Kaylub Giamanco, a 36-year-old carpenter, has received national attention and praise for stopping the bloodshed at Silver Rail elementary in Bend, Oregon, where his children attend school. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -137,12 +164,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ohio man convicted of murder for running over officer after police killed his son",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
+      "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Rodney Hinton ran over Larry Henderson after he viewed body-cam footage of police shooting dead his son Ryan An Ohio man who killed a deputy with his car just hours after seeing video of his son killed by Cincinnati police was found guilty of murder and other charges on Friday, according to authorities . Rodney L Hinton , 40, faces between 15 years and life in prison after his convictions in the death of Hamilton county special deputy Larry Henderson. His sentencing is tentatively scheduled for 16 November. Continue reading...",
+      "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position in the party remains in limbo and its new leader’s handling of the issue in question. David Shoebridge ’s first major challenge at the helm of the federal Greens came earlier this month when the Nine newspapers reported a three-page letter had been sent to him urging an independent investigation into Steele-John. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -152,33 +179,6 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Indiana police officer arrested for using Flock cameras to search wife’s details",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Justin Craig charged with official misconduct and fraud, after searching plates of wife and ‘previous acquaintance’ An Indiana police officer has been arrested on allegations that he misused Flock cameras hundreds of times in a case involving his wife and a previous acquaintance of hers. Justin Craig of Georgetown police department, was charged with official misconduct and two counts of fraud. Documents show that he searched his wife’s license plate more than 80 times and that of a “previous acquaintance” of hers nearly 250 times, the news outlet WLKY reported. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s . The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country’s human rights record. Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s. It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Criminals recruiting children to damage Greater Manchester HMOs, police believe",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Houses being targeted because they are thought to hold immigrants, with dozens of properties affected in recent weeks Criminals are recruiting vulnerable people, including children, to damage houses suspected of being HMOs, police in Manchester believe. In recent weeks, dozens of properties have been targeted across Greater Manchester, mostly in Salford, but also in Stockport and Tameside. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -218,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "url": "https://block.xyz/dessa",
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
