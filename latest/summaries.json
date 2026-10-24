@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-24T02:41:07.175072Z",
+  "generated": "2026-10-24T04:41:06.107195Z",
   "summaries": [
+    {
+      "summary": "Democratic Senate candidate James Talarico accuses Elon Musk of attempting to buy political influence in Texas.",
+      "significance": "Talarico's rally against Musk's political influence highlights the impact of wealthy individuals on Texas politics.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale",
+      "points": [
+        "Talarico held a rally at University of Texas at Austin, his alma mater.",
+        "He denounced opponent Ken Paxton, linking him to corruption allegations.",
+        "Hundreds of students and supporters attended, showing enthusiasm for Talarico."
+      ]
+    },
+    {
+      "summary": "US-backed hepatitis B vaccine trial in Guinea-Bissau's newborns, facing global backlash, has been halted.",
+      "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "points": [
+        "Lead researcher Frederik Schaltz-Buchholzer announced the trial will not proceed.",
+        "The study was to be funded by the CDC.",
+        "Necessary governmental approval was not granted for the trial in Guinea-Bissau."
+      ]
+    },
+    {
+      "summary": "Philip O'Toole discusses the evolution of distributed SQLite over twelve years, from its inception in 2014 to its current status.",
+      "significance": "This story matters as it chronicles the evolution and widespread adoption of distributed SQLite systems, starting from a niche concept in 2014 to a recognized category with multiple projects today.",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "points": [
+        "rqlite, an open-source project started in 2014, combined Raft and SQLite for distributed storage.",
+        "By 2026, Turso offered a hosted SQLite replicated with Raft, marking a shift to managed services.",
+        "The category grew to include at least eight teams with different replication approaches and protocols."
+      ]
+    },
     {
       "summary": "Typhoon Champi caused one death, over 500 injuries, and widespread disruption in Taiwan before heading towards China.",
       "significance": "Typhoon Champi causes significant damage and casualties in Taiwan before moving towards China.",
@@ -3718,34 +3747,6 @@
         "Repository contains the actual code used in elections.",
         "State Electoral Office of Estonia supervises the development.",
         "Repository will be kept up to date but not used for active development."
-      ]
-    },
-    {
-      "summary": "A hacker describes a nine-year journey to modchip an Xbox 360 using fault injection techniques.",
-      "url": "https://kennedn.com/blog/posts/glitching/",
-      "points": [
-        "The hacker used a Matrix CoolRunner Rev D glitcher to deliver a 100 nanosecond pulse to the Xbox 360.",
-        "In 2026, the hacker successfully modchipped the Xbox 360 using a Raspberry Pi Pico microcontroller.",
-        "The Raspberry Pi Pico, released in 2021 for £5, enabled precise timing and simplified the modchipping process."
-      ]
-    },
-    {
-      "summary": "Dam removals in the northeastern U.S. are restoring fish populations, particularly herring.",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "points": [
-        "Over 1,800 dams have been removed from U.S. waterways since 1912.",
-        "In 2024, dam removals reconnected more than 2,500 miles of fragmented rivers.",
-        "New Hampshire removed several dams in 2024, including the historic Talbot Mills Dam."
-      ]
-    },
-    {
-      "summary": "Israeli settlers attacked European diplomats, a French mayor, and an archbishop in the West Bank, disrupting olive harvesting.",
-      "significance": "The attack highlights escalating tensions and violence involving Israeli settlers against international figures supporting Palestinian olive harvesting rights.",
-      "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-      "points": [
-        "Three people injured and a car damaged during the attack.",
-        "Attackers targeted Palestinians attempting to harvest olives on their land.",
-        "Bernard Baudoux, French mayor, was assaulted while wearing his official sash."
       ]
     }
   ]
