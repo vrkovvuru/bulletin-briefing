@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-24T00:40:52.728546Z",
+  "generated": "2026-10-24T02:41:07.175072Z",
   "summaries": [
+    {
+      "summary": "Typhoon Champi caused one death, over 500 injuries, and widespread disruption in Taiwan before heading towards China.",
+      "significance": "Typhoon Champi causes significant damage and casualties in Taiwan before moving towards China.",
+      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+      "points": [
+        "Typhoon Champi killed one person and injured more than 500 in Taiwan.",
+        "The storm uprooted trees and caused power outages across the island.",
+        "Classified as one of the strongest Pacific storms this year, it had gusts of about 126km/h."
+      ]
+    },
+    {
+      "summary": "Federal prosecutors demand California officials set aside and verify ballots that may belong to noncitizens.",
+      "significance": "The story matters as it escalates the legal battle over voter eligibility, impacting California's election processes ahead of the midterms.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
+      "points": [
+        "Letters sent to county registrars across California by federal prosecutors.",
+        "Part of a legal battle between California and Trump\u2019s Department of Justice.",
+        "Focuses on rooting out noncitizen voting ahead of the midterm elections."
+      ]
+    },
+    {
+      "summary": "Greens senator Jordon Steele-John confirms he will not attend parliament next week due to publicized misconduct allegations.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
+      "points": [
+        "Steele-John considered attending Senate estimates virtually but was told it would be \u2018unacceptable\u2019.",
+        "The senator released a letter detailing the allegations against him.",
+        "Confusion followed after historical complaints of alleged misconduct were made public in the media."
+      ]
+    },
+    {
+      "summary": "Independent MP Helen Haines's condition improved to serious but stable after losing both legs in an alleged attack.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
+      "points": [
+        "Helen Haines lost both legs in an alleged attack near her office in north-east Victoria.",
+        "The attack occurred on Monday afternoon.",
+        "The Alfred hospital in Melbourne reported her condition as serious but stable on Saturday morning."
+      ]
+    },
+    {
+      "summary": "Discussion on undefined behavior (UB) in programming, focusing on null pointer dereferencing and its consequences.",
+      "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+      "points": [
+        "Null pointer write used to enhance debugger error messages.",
+        "Compilers like GCC and clang may stop emitting instructions upon detecting null pointer dereference.",
+        "UB can lead to unexpected behaviors, such as executing arbitrary memory contents."
+      ]
+    },
     {
       "summary": "Rubio urges Cubans to seek political change, following Trump's mention of potential US military intervention.",
       "significance": "Rubio's call for action among Cubans for political change follows Trump's statement about potential US military intervention in Cuba.",
@@ -3699,54 +3746,6 @@
         "Three people injured and a car damaged during the attack.",
         "Attackers targeted Palestinians attempting to harvest olives on their land.",
         "Bernard Baudoux, French mayor, was assaulted while wearing his official sash."
-      ]
-    },
-    {
-      "summary": "The 7.2 Linux kernel release saw record-breaking contributions, including nearly 600,000 lines of code and 16,418 non-merge commits from 2,652 developers.",
-      "significance": "The significant increase in developers with unknown affiliation reflects the growing number of new contributors entering the Linux kernel development community.",
-      "url": "https://lwn.net/Articles/1088776/",
-      "points": [
-        "16,418 non-merge commits were added to the 7.2 release, a new record.",
-        "2,652 developers contributed to the 7.2 release, surpassing the previous record of 2,479.",
-        "Over 8% of commits carried Tested-by tags, while 48% included Reviewed-by tags."
-      ]
-    },
-    {
-      "summary": "The Go Programming Language introduces interactive refactoring in gopls, enabling dynamic, multi-step dialogs for code transformations in editors.",
-      "url": "https://go.dev/blog/interactive-refactoring",
-      "points": [
-        "Interactive refactoring designed as an open standard for all languages and editor ecosystems.",
-        "Supports user input for tasks like adding struct tags with specific naming conventions.",
-        "Demonstrates capabilities through actions like selecting interfaces and moving declarations across files."
-      ]
-    },
-    {
-      "summary": "Cost of living protests in France have escalated, with protesters setting fire to buildings and cars.",
-      "significance": "Protests over cost of living and public services escalate in France, marked by acts of vandalism, indicating serious unrest across the country.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
-      "points": [
-        "Protests are occurring in Paris and multiple other locations across France.",
-        "Demonstrations are against the rising cost of living and declining public services.",
-        "Serious unrest includes arson attacks on vehicles and structures."
-      ]
-    },
-    {
-      "summary": "A shooting at an elementary school in Bend, Oregon, resulted in the death of three children and one teacher.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/bend-oregon-school-shooting",
-      "points": [
-        "The incident occurred on Thursday at Silver Rail elementary.",
-        "Parents, including Joe Camarlinghi, waited for hours at a local church.",
-        "The community is in mourning, emphasizing the emotional impact on locals."
-      ]
-    },
-    {
-      "summary": "French police used UK-funded 4x4 vehicles to charge student protesters, sparking an investigation.",
-      "significance": "The story matters because it reveals misuse of UK-funded vehicles, potentially straining UK-France relations and raising questions about police tactics.",
-      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
-      "points": [
-        "Investigation launched by French government over misuse of UK-funded vehicles.",
-        "Vehicles were intended to prevent asylum seekers crossing the Channel.",
-        "Incident occurred during school protests in Dunkirk."
       ]
     }
   ]
