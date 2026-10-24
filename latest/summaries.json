@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-24T20:42:12.812134Z",
+  "generated": "2026-10-24T22:40:56.963672Z",
   "summaries": [
+    {
+      "summary": "Brazil's presidential candidates held final rallies ahead of Sunday's runoff election, which is too close to call.",
+      "significance": "The final rallies highlight the closely contested runoff, where either Lula da Silva or Flavio Bolsonaro could win, impacting Brazil's future policies and stability.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
+      "points": [
+        "President Lula da Silva rallied in Sao Paulo.",
+        "Flavio Bolsonaro held a rally in Minas Gerais.",
+        "Recent Datafolha poll shows both candidates at 50% each."
+      ]
+    },
+    {
+      "summary": "Over one million supporters rally for Lula on the eve of Brazil's runoff election against Flávio Bolsonaro.",
+      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "points": [
+        "Over one million Lula supporters gathered on Rio's famous beach.",
+        "Nearly 159 million Brazilians will vote in the runoff on Sunday.",
+        "Lula and Bolsonaro were tied in polls after the first round on October 4th."
+      ]
+    },
+    {
+      "summary": "Chancellor Healey plans a £1.5bn borrowing facility to devolve spending power to local leaders in England.",
+      "significance": "Healey's budget follows Burnham's promise, aiming to devolve spending power to local leaders in England, reducing their reliance on Westminster.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
+      "points": [
+        "£1.5bn borrowing facility to be established over two years.",
+        "Aim is to reduce local leaders' dependence on Westminster for funding.",
+        "Plans announced in Healey\u2019s budget statement next week."
+      ]
+    },
     {
       "summary": "Thousands of Israelis protested against Netanyahu's government in Tel Aviv, three days before the election.",
       "significance": "The protest highlights public demand for governmental accountability and could influence the election outcome, affecting Israel\u2019s future policies and leadership.",
@@ -3719,34 +3748,6 @@
         "Meeting held in a Commons committee room on Tuesday evening.",
         "Attendees expressed disappointment, describing it as a \"damp squib.\"",
         "No formal challenge to Ed Davey's leadership materialized despite initial expectations."
-      ]
-    },
-    {
-      "summary": "Green party leader in England and Wales equates Zionism with racism and denies motion was controversial.",
-      "url": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist",
-      "points": [
-        "Zack Polanski claims current form of Zionism is racist.",
-        "Polanski states no country has a right to exist.",
-        "Green party approved motion equating Zionism with racism two weeks ago."
-      ]
-    },
-    {
-      "summary": "DeepSeek introduces Search and Fetch APIs for accessing live web content, priced at $0.75 per 1000 successful requests.",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "points": [
-        "Search API returns structured results with relevance scores from 0 to 3.",
-        "Fetch API retrieves web pages and returns content as Markdown.",
-        "Pricing starts at 00:00 Beijing time on November 1, 2026."
-      ]
-    },
-    {
-      "summary": "Legal experts warn that Meta's revised terms still allow broad scraping permissions for business products.",
-      "significance": "Legal experts warn Meta's new terms still permit extensive scraping for business products, affecting news sites and publishers' content.",
-      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-      "points": [
-        "Meta's new terms permit scraping of websites \"associated with\" business accounts for \"advertising and business products.\"",
-        "The terms will take effect on October 30, with no opt-out option for business accounts.",
-        "Experts argue that the term \"business products\" is broad enough to include AI training, despite Meta's removal of the word \"train."
       ]
     }
   ]
