@@ -1,6 +1,25 @@
 {
-  "generated": "2026-10-24T16:41:19.618611Z",
+  "generated": "2026-10-24T18:40:38.941429Z",
   "summaries": [
+    {
+      "summary": "Kim Jong Un crossed a new bridge connecting North Korea and China, greeted by crowds.",
+      "significance": "The new bridge symbolizes enhanced trade ties between North Korea and China, potentially boosting economic relations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+      "points": [
+        "Kim Jong Un waved to crowds upon crossing the Yalu River Bridge.",
+        "The bridge is viewed as crucial for boosting trade between North Korea and China.",
+        "Chinese state media reported on the event."
+      ]
+    },
+    {
+      "summary": "Hundreds of thousands protested across France over school conditions and policing, amid Macron's final months as president.",
+      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "points": [
+        "At least 400,000 people participated, with unions estimating double that number.",
+        "In Paris alone, over 110,000 marched to support schoolchildren and protest high living costs.",
+        "Protesters criticized heavy policing of school protests, demanding political solutions instead."
+      ]
+    },
     {
       "summary": "British journalist Dom Phillips predicted Brazil's future under Bolsonaro, warning of dangers to reporters and the Amazon.",
       "significance": "The story highlights the prescient warnings of a journalist who accurately predicted the dangers of Bolsonaro's presidency, emphasizing the risks to press freedom and environmental protection in Brazil.",
@@ -3726,25 +3745,6 @@
         "Uses stepper motors driven by a 30 kHz closed-loop controller for precise movements down to 50nm.",
         "Features a Python control program with a GUI for easy device control and integration.",
         "Latest firmware update (1.0.4) adds tool support on GPIO pins and improves calibration and homing procedures."
-      ]
-    },
-    {
-      "summary": "Argentina's president is targeting the Falkland Islands' industries as polls slump.",
-      "significance": "Argentina's economic pressures on Falklands' industries reflect renewed tensions, impacting local businesses and international relations.",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
-      "points": [
-        "President attacks islands' oil industry, hints at fisheries next.",
-        "Legislative assembly meeting held in wood-panelled courtroom in Stanley.",
-        "King Charles' portrait hangs behind assembly members in the legislative setting."
-      ]
-    },
-    {
-      "summary": "Tunisia's economic crisis intensifies, marked by high unemployment and protests against President Kais Saied\u2019s government.",
-      "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
-      "points": [
-        "Unemployment rate for university graduates reached 26.6% in Q2 2026, with women graduates at 35.6%.",
-        "Unemployed graduates began a 300km \"Dignity March\" from Menzel Bouzaiane to Tunis on September 27, 2026.",
-        "On October 17, 2026, thousands protested in Tunis against Saied\u2019s government and deteriorating living conditions."
       ]
     }
   ]
