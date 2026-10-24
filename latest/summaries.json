@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-24T14:40:43.920700Z",
+  "generated": "2026-10-24T16:41:19.618611Z",
   "summaries": [
+    {
+      "summary": "British journalist Dom Phillips predicted Brazil's future under Bolsonaro, warning of dangers to reporters and the Amazon.",
+      "significance": "The story highlights the prescient warnings of a journalist who accurately predicted the dangers of Bolsonaro's presidency, emphasizing the risks to press freedom and environmental protection in Brazil.",
+      "url": "https://www.theguardian.com/world/2026/oct/24/jair-bolsonaro-fascism-journalist-dom-phillips-predicted-brazil-future",
+      "points": [
+        "Phillips warned Bolsonaro and his sons showed signs of fascism.",
+        "He expressed dread over Bolsonaro's potential election in 2018.",
+        "Phillips highlighted increased dangers for reporters and the Amazon under Bolsonaro."
+      ]
+    },
+    {
+      "summary": "FreeDNS has raised enough funds for an additional server, enhancing stability and services.",
+      "significance": "FreeDNS enhances stability and accessibility for users hosting services from dynamic IPs or private networks, supporting a wide range of hosting needs.",
+      "url": "https://freedns.afraid.org/",
+      "points": [
+        "Raised funds for 1.5 servers in one week.",
+        "New server will improve stability and service quality.",
+        "Currently processing 2,559 DNS queries per second on average."
+      ]
+    },
+    {
+      "summary": "EPFL researchers developed a neural chip that tracks brain region interactions, identifying cognitive and emotional states in real time.",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "points": [
+        "The LogSync chip measures about 4x2 mm and operates under 200 microwatts.",
+        "It uses machine learning to analyze brain network biomarkers for psychiatric state classification.",
+        "Initial validation included tracking cognitive engagement and emotional arousal in human and rat studies."
+      ]
+    },
+    {
+      "summary": "Version 0.11.0 of Wild was released with enhanced features and performance improvements.",
+      "url": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
+      "points": [
+        "Wasm feature enabled by default, though debug info isn't supported.",
+        "Significant progress on Mac port, capable of linking itself.",
+        "Number of threads capped at 32 to avoid performance issues."
+      ]
+    },
     {
       "summary": "Health officials are investigating the source of Ebola infection in Nigeria, where the virus has affected a Swiss diplomat's wife.",
       "significance": "Concerns over the spread of Ebola rise as health officials investigate the infection source in Nigeria, the fourth African country affected by the outbreak.",
@@ -3707,43 +3745,6 @@
         "Unemployment rate for university graduates reached 26.6% in Q2 2026, with women graduates at 35.6%.",
         "Unemployed graduates began a 300km \"Dignity March\" from Menzel Bouzaiane to Tunis on September 27, 2026.",
         "On October 17, 2026, thousands protested in Tunis against Saied\u2019s government and deteriorating living conditions."
-      ]
-    },
-    {
-      "summary": "Article offers 15 expert tips on choosing and caring for various types of cookware.",
-      "url": "https://www.theguardian.com/food/2026/oct/18/never-put-away-a-damp-one-15-expert-tips-for-perfect-pans",
-      "points": [
-        "Tips cover materials like cast iron, copper, and stainless steel",
-        "Advice includes proper storage and seasoning techniques",
-        "Considers compatibility with different types of cooking hobs"
-      ]
-    },
-    {
-      "summary": "A Sardinian village, Bolotana, home to many centenarian women, is considered for designation as a 'blue zone'.",
-      "url": "https://www.theguardian.com/world/2026/oct/18/bolotana-sardinian-village-women-centenarians-longevity-long-life",
-      "points": [
-        "Giovanna Marras, 101, and her sister Mariangela, 99, exemplify the longevity of Bolotana's female residents.",
-        "The sisters ran a successful tailoring business in Bolotana after moving back from Cagliari.",
-        "Neither sister married, focusing instead on their careers and later traveling the world post-retirement."
-      ]
-    },
-    {
-      "summary": "Rubio calls for crackdown on settler violence following attack on US journalist in the West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
-      "points": [
-        "Marco Rubio asked Israel to stop settler attacks in the occupied West Bank.",
-        "US journalist Heidi Levine was attacked by settlers on Friday.",
-        "The request comes from the Trump administration."
-      ]
-    },
-    {
-      "summary": "An Indigenous woman was shackled to a hospital bed while in labour in Queensland.",
-      "significance": "The story highlights ongoing human rights abuses against incarcerated Indigenous women, occurring just before a failed attempt to ban the practice.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/18/indigenous-woman-shackled-during-labour-childbirth-queensland-ntwnfb",
-      "points": [
-        "Incident occurred just days before a bill to ban shackling incarcerated women during childbirth was blocked.",
-        "Both Labor and the Coalition blocked the bill.",
-        "The advocacy group described the practice as \"barbaric."
       ]
     }
   ]
