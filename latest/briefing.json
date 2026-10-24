@@ -2,15 +2,13 @@
   "date": "2026-10-24",
   "stories": [
     {
-      "title": "Perspective: The next James Bond",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
-      "source": "NPR",
+      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+      "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
+      "summary": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
@@ -19,58 +17,61 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
+      "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
-      "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Perspective: The next James Bond",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
-      "alsoReportedBy": []
+      "summary": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+      "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
+      "summary": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d&#039;Or.",
       "alsoReportedBy": []
     },
     {
-      "title": "Bayern say coach Kompany \u2018stable\u2019 in hospital but will be out for weeks",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be &#039;stable&#039; in hospital.",
-      "alsoReportedBy": [
-        "BBC News"
-      ]
-    },
-    {
-      "title": "Serbia elections test student movement demanding justice for 16 victims",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Serbia elections test student movement demanding justice for 16 victims",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Suspect arrested over fire at Hitler\u2019s \u2018Eagle\u2019s Nest\u2019 retreat in Bavaria",
+      "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
       "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany German police have arrested a suspect after a fire ripped through Adolf Hitler\u2019s former mountain retreat in Bavaria, leaving the historic Nazi meeting place \u2013 known as the Eagle\u2019s Nest \u2013 largely destroyed. About 200 firefighters were deployed on Friday night to tackle the blaze at the Nazi dictator\u2019s remote, purpose-built Kehlsteinhaus residence, a protected building on the peak of Obersalzberg in southern Germany. Continue reading...",
-      "alsoReportedBy": [
-        "BBC News"
-      ]
+      "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany Police have arrested a 33-year-old German citizen after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi meeting place – known as the Eagle’s Nest – largely destroyed. About 200 firefighters were deployed on Friday night to tackle the blaze at the Nazi dictator’s remote, purpose-built Kehlsteinhaus residence, a protected building on the peak of Obersalzberg in southern Germany. Continue reading...",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
+      "url": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m here to support schoolchildren’s demands for better conditions. I’m so proud of them and we have to stand together.” Continue reading...",
+      "alsoReportedBy": []
     },
     {
       "title": "Attention LaMelo Ball: only losers boast about avoiding diaper duty | Arwa Mahdawi",
@@ -78,11 +79,11 @@
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The basketball star seems proud to leave the job to his partner. That\u2019s so last century Nobody can accuse the basketball star LaMelo Ball of being bad at his job. That said, the Minnesota Timberwolves point guard doesn\u2019t seem to be a huge fan of dribbling . Ball has a nine-month-old son, LaOne, with his partner Ana Montana (real name: Analicia Chaves) and is apparently uninterested in dealing with all the body fluids that come with a baby. Arwa Mahdawi is a Guardian columnist Continue reading...",
+      "summary": "The basketball star seems proud to leave the job to his partner. That’s so last century Nobody can accuse the basketball star LaMelo Ball of being bad at his job. That said, the Minnesota Timberwolves point guard doesn’t seem to be a huge fan of dribbling . Ball has a nine-month-old son, LaOne, with his partner Ana Montana (real name: Analicia Chaves) and is apparently uninterested in dealing with all the body fluids that come with a baby. Arwa Mahdawi is a Guardian columnist Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Plan for Northern Olympics to get \u00a37m in Healey's Budget",
+      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
       "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
@@ -91,24 +92,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Between quick wins and big dreams lies Burnham's biggest test",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
       "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "alsoReportedBy": [
-        "Guardian World"
-      ]
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "alsoReportedBy": ["Guardian World"]
     },
     {
       "title": "European student protests take aim at Serbia's elections",
@@ -117,6 +107,60 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Storm Boelo to bring 80mph gusts and heavy rain to parts of UK",
+      "url": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Second named storm will hit northern parts of UK as thousands remain without power after Friday’s Storm Austen The UK is bracing for a second storm this weekend, as strong winds and heavy rain are expected to disrupt travel and cause further power cuts in the north. Storm Boelo, the second named storm of the season, is expected to bring heavy, frequent showers and winds potentially exceeding 80mph to northern parts of the UK. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the Ugandan-born wife of a Swiss diplomat based in Abuja, had not travelled to the Democratic Republic of ⁠Congo, where the outbreak was first detected in mid-May before spreading to Uganda, Kenya and now Nigeria. The woman was believed to have contracted Ebola while travelling with her husband in Uganda, the ministry added. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+      "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
       "alsoReportedBy": []
     },
     {
@@ -134,61 +178,7 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Other voter concerns have prevailed but return of Congress likely to see renewed focus on late sex offender\u2019s activities As US voters head to the polls for crucial and fraught midterm elections, some survivors\u2019 advocates in the Jeffrey Epstein investigation have expressed concern that the scandal could recede into the background. Political experts believe, however, the Epstein issue is not going away permanently and that many voters can balance day-to-day concerns such as affordability and AI with the scandal involving the late financier and accused sex trafficker whose social circle was widespread among America\u2019s elite. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Storm Boelo to bring gusts of up to 80mph and heavy rain to parts of UK",
-      "url": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Second named storm in as many days will hit northern parts of UK as thousands remain without power after Friday\u2019s Storm Austen The UK is bracing for a second storm this weekend, as strong winds and heavy rain are expected to disrupt travel and cause further power cuts in the north. Storm Boelo, the second named storm of the season, is expected to bring heavy, frequent showers and winds potentially exceeding 80mph to northern parts of the UK. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
-      "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range. Opponents say the practice will cause bears to be more aggressive around humans, and allege that the rule change is a political gift to largely rightwing trophy hunters. The rule replaces a 2024 Biden administration rule that banned the practice, and environmental groups criticized the move as \u201cindefensible and inexcusable\u201d. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Lobby group\u2019s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaigners A banking lobby group has been accused of cherrypicking data and trying to mislead the British government by claiming a tax rise for banks at next week\u2019s budget would leave London less competitive than rival financial hubs. UK Finance, which represents banks including Lloyds, JP Morgan and Revolut, commissions an annual report tallying up all the taxes shouldered by a large bank, including corporation tax, social security, VAT and bank-specific levies. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "No unions, low taxes: why some of Britain\u2019s top chefs are opening outposts in Gulf states",
-      "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethic Some of London\u2019s top restaurants are opening branches in Dubai because of a \u201ctax tsunami\u201d in the UK and better work ethic abroad, according to a leading restaurateur. James Robson, a co-owner of Fallow in St James\u2019s Market, regarded as the capital\u2019s hottest restaurant, serving 1,000 people a day, has just signed a deal to open an outpost in the Gulf. Continue reading...",
+      "summary": "Other voter concerns have prevailed but return of Congress likely to see renewed focus on late sex offender’s activities As US voters head to the polls for crucial and fraught midterm elections, some survivors’ advocates in the Jeffrey Epstein investigation have expressed concern that the scandal could recede into the background. Political experts believe, however, the Epstein issue is not going away permanently and that many voters can balance day-to-day concerns such as affordability and AI with the scandal involving the late financier and accused sex trafficker whose social circle was widespread among America’s elite. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -201,8 +191,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "I Don't Understand Quantum Physics (2018)",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -210,8 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "OBS Studio 33",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -237,21 +227,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "The Pulse: Time to rethink software security because of AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
       "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "A month&#8217;s worth of security breaches in a single day &#8211; will things get worse before they improve? Also: Anthropic accused of version control &#8220;rip off&#8221;, and more",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -264,7 +254,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?",
+      "title": "What’s the ROI of software engineers’ spending on AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -282,6 +272,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 4.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network code to support up to four players for that map, joining via share links or QR codes. The new teams use robots themed in purple and green, joining the existing blue and red designs. You can preview those colors in the updated model browser . Here's a replay link to watch a four way AI battle with the \"Goliath Armada\" mutator turned on, where each side starts with four giant Goliath mech units. Tags: game-design , projects , claude",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Quick Study",
       "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
       "source": "Simon Willison",
@@ -291,12 +290,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AI Is Getting Good at Math. Here\u2019s Why.",
+      "title": "AI Is Getting Good at Math. Here’s Why.",
       "url": "https://latent.space/p/ai-is-getting-good-at-math/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they\u2019ll solve next.",
+      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
       "alsoReportedBy": []
     },
     {
@@ -315,15 +314,6 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on Hacker News Tags: music , ai , generative-ai , pelican-riding-a-bicycle",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We\u2019re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun side note: since my blog content is available to Claude via the datasette-mcp plugin I found that post by prompting Claude to \" Use simonwillison.net MCP to find if I ever talked about how I want skills to be donated to a standards body \". Tags: standards , ai , generative-ai , llms , anthropic , model-context-protocol , skills",
       "alsoReportedBy": []
     },
     {
@@ -354,7 +344,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Why AI Compute Comes in Rectangles \u2014 Erik Bernhardsson, Modal CEO",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
       "url": "https://latent.space/p/modal-d/",
       "source": "Latent Space",
       "category": "ai",
@@ -363,15 +353,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Quoting Armin Ronacher",
-      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. \u2014 Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
+      "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun side note: since my blog content is available to Claude via the datasette-mcp plugin I found that post by prompting Claude to \" Use simonwillison.net MCP to find if I ever talked about how I want skills to be donated to a standards body \". Tags: standards , ai , generative-ai , llms , anthropic , model-context-protocol , skills",
       "alsoReportedBy": []
     }
-  ],
-  "durationSeconds": 186.6,
-  "voice": "af_heart"
+  ]
 }

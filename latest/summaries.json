@@ -1,6 +1,25 @@
 {
-  "generated": "2026-10-24T12:43:29.956130Z",
+  "generated": "2026-10-24T14:40:43.920700Z",
   "summaries": [
+    {
+      "summary": "Health officials are investigating the source of Ebola infection in Nigeria, where the virus has affected a Swiss diplomat's wife.",
+      "significance": "Concerns over the spread of Ebola rise as health officials investigate the infection source in Nigeria, the fourth African country affected by the outbreak.",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "points": [
+        "Patient is the Ugandan-born wife of a Swiss diplomat stationed in Abuja.",
+        "Nigeria is the fourth African country affected by the Ebola outbreak.",
+        "The outbreak was first detected in the Democratic Republic of Congo in mid-May."
+      ]
+    },
+    {
+      "summary": "Battledrones v14 introduces \"Compass Rose,\" a new four-player map with support for up to four human players.",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "points": [
+        "Added \"Compass Rose\" map with four-way rotational symmetry.",
+        "Supports up to four players, combining human and AI participants.",
+        "Introduces new team colors: purple and green, alongside existing blue and red."
+      ]
+    },
     {
       "summary": "Serbian elections could determine the future of a student movement seeking justice for 16 victims of a railway station collapse.",
       "significance": "Serbia elections could determine political future and direction towards EU or Russia, influenced by student movement seeking justice for 16 victims.",
@@ -3725,25 +3744,6 @@
         "Incident occurred just days before a bill to ban shackling incarcerated women during childbirth was blocked.",
         "Both Labor and the Coalition blocked the bill.",
         "The advocacy group described the practice as \"barbaric."
-      ]
-    },
-    {
-      "summary": "NY rep introduces a bill to require actual ownership of video games rather than licensing, ensuring games remain playable post-server shutdown.",
-      "significance": "The bill affects gamers by ensuring they own purchased video games rather than just licensing them, and mandates offline modes if online support ends.",
-      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "points": [
-        "Rep. Ritchie Torres of New York's 15th district introduced the bill.",
-        "The bill mandates offline modes for games before server shutdowns.",
-        "NBA 2K25 cited as an example where online servers were shut down two years post-release."
-      ]
-    },
-    {
-      "summary": "A developer released web-edit 0.1a2, a web app for file browsing and editing, with a new clipboard feature.",
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
-      "points": [
-        "Added \"copy to clipboard\" for text and image data.",
-        "Built for editing files across machines via Tailscale.",
-        "Useful for copying logs from pelican prompts into a Gist."
       ]
     }
   ]
