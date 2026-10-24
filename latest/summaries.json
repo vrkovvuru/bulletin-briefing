@@ -1,6 +1,45 @@
 {
-  "generated": "2026-10-24T18:40:38.941429Z",
+  "generated": "2026-10-24T20:42:12.812134Z",
   "summaries": [
+    {
+      "summary": "Thousands of Israelis protested against Netanyahu's government in Tel Aviv, three days before the election.",
+      "significance": "The protest highlights public demand for governmental accountability and could influence the election outcome, affecting Israel\u2019s future policies and leadership.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "points": [
+        "Protesters demand an independent inquiry into security failures leading to the Hamas attack.",
+        "The rally was organized by the October Council, formed by families of captives taken to Gaza.",
+        "Leading opposition figures, including Gadi Eisenkot, participated in the demonstration."
+      ]
+    },
+    {
+      "summary": "Despite significant investments, AI has not delivered financial benefits to corporate America outside the tech sector.",
+      "significance": "Despite massive investments, AI has delivered no financial payoff to corporate America outside of tech, affecting mainstream businesses' views on AI spending.",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "points": [
+        "Revenue per worker and profit margins are rising for the Mag 7 tech companies but are flat for the S&P 493.",
+        "Mainstream corporations are viewing AI spending as a cost center rather than a growth driver.",
+        "AI's impact on productivity growth remains negligible, with no signs of improvement."
+      ]
+    },
+    {
+      "summary": "The Goose Programming Language is a memory-safe systems language that outperforms C++ and Rust in benchmarks, using less memory and no heap allocator.",
+      "url": "https://aardappel.github.io/goose/",
+      "points": [
+        "Goose runs 1.16x faster than hand-optimized C++ and 1.12x faster than the best safe Rust.",
+        "Memory management in Goose is handled by a data stack managed by the compiler, with no heap allocator or garbage collector.",
+        "Structures in Goose are position-independent, allowing direct file saving and loading without serialization."
+      ]
+    },
+    {
+      "summary": "Kimi 3.1 Pro 104BA-2.8T narrows the lead over Closed-AI models to 1 month and introduces a Pro Highspeed API with 2-3x speed improvements.",
+      "significance": "Kimi 3.1 Pro narrows the gap with Closed-AI models and offers a Pro Highspeed API, potentially affecting the AI model competition and user experience.",
+      "url": "https://latent.space/p/ainews-kimi-31/",
+      "points": [
+        "Kimi 3.1 Pro has 2.8 trillion total parameters and 104 billion active parameters.",
+        "The model is set to release open weights on November 4, 2026.",
+        "It achieved the highest publicly accessible benchmark result at 65%, second only to GPT-6 Sol Daybreak Blue at 69%."
+      ]
+    },
     {
       "summary": "Kim Jong Un crossed a new bridge connecting North Korea and China, greeted by crowds.",
       "significance": "The new bridge symbolizes enhanced trade ties between North Korea and China, potentially boosting economic relations.",
@@ -3708,43 +3747,6 @@
         "Meta's new terms permit scraping of websites \"associated with\" business accounts for \"advertising and business products.\"",
         "The terms will take effect on October 30, with no opt-out option for business accounts.",
         "Experts argue that the term \"business products\" is broad enough to include AI training, despite Meta's removal of the word \"train."
-      ]
-    },
-    {
-      "summary": "Parser combinators are functions that parse strings into structured data, demonstrating how to parse text into objects through a series of examples.",
-      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-      "points": [
-        "pInteger cuts \"10 20 30\" after \"10\", returning the number 10 and the rest of the string \" 20 30\".",
-        "\"Hello 100\" parsed by pHello100 returns \"Hello 100\" and an empty string.",
-        "\"10;20;30;\" parsed by pSeq(pNumber, pSemicolon) returns \"10;\" and \"20;30;\".",
-        "Parser combinators can handle complex parsing tasks more cleanly than regex, maintaining readability and maintainability."
-      ]
-    },
-    {
-      "summary": "The documentary \"You Can See Everything\" about Elizabeth Holmes manipulates viewers' emotions and perceptions through its storytelling techniques.",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "points": [
-        "Elizabeth Holmes was acquitted of patient fraud charges but convicted of investor fraud involving over $700 million.",
-        "Filmmakers Lance Oppenheim and Nathan Fielder use camera angles, close-ups, and editing to shift viewers' perceptions.",
-        "The documentary demonstrates how easily viewers can be manipulated into changing their opinions based on narrative framing."
-      ]
-    },
-    {
-      "summary": "Sphinx is a Git hook that quizzes users on their AI-generated code before it is committed.",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "points": [
-        "Sphinx operates with minimal tokens using existing coding agents or OpenAI-compatible endpoints.",
-        "It asks specific questions about code changes to ensure understanding before code is pushed.",
-        "Incorrect answers provide learning opportunities, while correct ones allow the push to proceed."
-      ]
-    },
-    {
-      "summary": "A sub-micrometer 3D motion control platform called MicroManipulator is open-source and low-cost, designed for precision tasks.",
-      "url": "https://github.com/0x23/MicroManipulatorStepper",
-      "points": [
-        "Uses stepper motors driven by a 30 kHz closed-loop controller for precise movements down to 50nm.",
-        "Features a Python control program with a GUI for easy device control and integration.",
-        "Latest firmware update (1.0.4) adds tool support on GPIO pins and improves calibration and homing procedures."
       ]
     }
   ]
