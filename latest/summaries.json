@@ -1,6 +1,126 @@
 {
-  "generated": "2026-10-24T04:41:06.107195Z",
+  "generated": "2026-10-24T12:43:29.956130Z",
   "summaries": [
+    {
+      "summary": "Serbian elections could determine the future of a student movement seeking justice for 16 victims of a railway station collapse.",
+      "significance": "Serbia elections could determine political future and direction towards EU or Russia, influenced by student movement seeking justice for 16 victims.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
+      "points": [
+        "16 people died when a railway station canopy collapsed in Novi Sad nearly two years ago.",
+        "Student movement is using elections to push for justice regarding the victims.",
+        "Elections may influence Serbia\u2019s alignment with either the EU or Russia."
+      ]
+    },
+    {
+      "summary": "A suspect was arrested after a fire largely destroyed Hitler's Eagle\u2019s Nest retreat in Bavaria.",
+      "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+      "points": [
+        "200 firefighters were deployed to tackle the blaze at the Nazi retreat.",
+        "The fire severely damaged the historic Kehlsteinhaus residence on Obersalzberg.",
+        "The suspect was arrested by German police following the incident."
+      ]
+    },
+    {
+      "summary": "Columnist criticizes basketball player LaMelo Ball for boasting about not changing his baby's diapers.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/24/lamelo-ball-avoiding-diaper-duty",
+      "points": [
+        "LaMelo Ball, Minnesota Timberwolves point guard, has a nine-month-old son named LaOne.",
+        "Ball reportedly leaves diaper duties to his partner, Ana Montana (Analicia Chaves).",
+        "Columnist argues this attitude is outdated and dismissive of parental responsibilities."
+      ]
+    },
+    {
+      "summary": "US health authorities report an additional 178 measles cases, bringing the total to 4,588 across 43 outbreaks.",
+      "significance": "The story highlights the ongoing measles outbreak in the US, affecting public health measures and vaccine infrastructure.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
+      "points": [
+        "CDC reports 4,588 total measles cases in the US.",
+        "Measles cases span at least 43 outbreaks nationwide.",
+        "Health secretary Robert F Kennedy Jr criticized for impacting vaccine infrastructure."
+      ]
+    },
+    {
+      "summary": "Concerns over Jeffrey Epstein's scandal may recede in midterms, but experts predict renewed focus post-election.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
+      "points": [
+        "Survivors' advocates worry the Epstein scandal could fade amid other voter concerns.",
+        "Political experts believe the issue will resurface once midterms conclude.",
+        "Epstein's social circle included many of America\u2019s elite, highlighting the scandal's reach."
+      ]
+    },
+    {
+      "summary": "Storm Boelo, the second named storm of the season, will hit northern UK with winds up to 80mph and heavy rain.",
+      "url": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
+      "points": [
+        "Storm Boelo follows Friday\u2019s Storm Austen, which left thousands without power.",
+        "Expected to cause disruptions in travel and potentially more power cuts.",
+        "Heavy, frequent showers and winds exceeding 80mph are forecast for northern UK."
+      ]
+    },
+    {
+      "summary": "Trump administration rule permits hunters to use human foods like bacon and doughnuts to bait bears on federal lands in Alaska.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
+      "points": [
+        "Rule allows luring bears with bacon, doughnuts, meat scraps on federal lands.",
+        "Critics argue the rule will make bears more aggressive towards humans.",
+        "Rule overturns a 2024 ban implemented by the Biden administration."
+      ]
+    },
+    {
+      "summary": "Banking lobby group UK Finance accused of misrepresenting data to show London as overly taxed compared to other financial hubs.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+      "points": [
+        "UK Finance represents banks like Lloyds, JP Morgan, and Revolut.",
+        "Campaigners argue the data is misleading for excluding Paris.",
+        "The controversy centers on next week\u2019s budget tax rise for banks."
+      ]
+    },
+    {
+      "summary": "Top British chefs are expanding to Gulf states due to lower taxes and less union interference compared to the UK.",
+      "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+      "points": [
+        "James Robson, co-owner of London's Fallow, is opening a branch in the Gulf.",
+        "Robson cites a \"tax tsunami\" in the UK as a reason for expansion to Gulf states.",
+        "Gulf countries offer better business support and a more favorable work environment."
+      ]
+    },
+    {
+      "summary": "Analysis of php2shell vulnerability suggests it's not as easily exploitable as feared.",
+      "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
+      "points": [
+        "Exploitation requires knowing exact PHP build details, including version, OS, and architecture.",
+        "Attempting to exploit involves complex connection management and multiple trials, taking days.",
+        "High-traffic sites with WAFs/rate-limiting make successful attacks highly unlikely and detectable."
+      ]
+    },
+    {
+      "summary": "OBS Studio 33 introduces major backend updates, improving functionality and fixing numerous bugs.",
+      "significance": "This update significantly improves OBS Studio's backend and adds new features, enhancing user experience and compatibility with modern hardware and software.",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "points": [
+        "Update spans from July 2024 to September 2026, enhancing browser sources and docks.",
+        "Third-party plugins get a new installation location, with legacy support until OBS Studio 34.0.",
+        "Fixes include improved source snapping, spinbox behavior, and crash prevention on macOS 27.2."
+      ]
+    },
+    {
+      "summary": "Indian government sites are serving revoked eMudhra certificates, leading to distrust by major browsers.",
+      "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+      "points": [
+        "156 Indian government sites are still serving revoked certificates as of October 23rd.",
+        "Mozilla and Chrome distrust the entire G3 root due to the revocation.",
+        "The compromised certificates were revoked on October 19th, affecting security for 18 months."
+      ]
+    },
+    {
+      "summary": "Logs attached to bug reports and support requests can inadvertently reveal sensitive information.",
+      "url": "https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/",
+      "points": [
+        "Logs may include file paths with personal details.",
+        "Screen readers can capture private messages, bank accounts, and medical records.",
+        "Advised to assume logs contain everything they might and assess sharing cautiously."
+      ]
+    },
     {
       "summary": "Democratic Senate candidate James Talarico accuses Elon Musk of attempting to buy political influence in Texas.",
       "significance": "Talarico's rally against Musk's political influence highlights the impact of wealthy individuals on Texas politics.",
@@ -3624,129 +3744,6 @@
         "Added \"copy to clipboard\" for text and image data.",
         "Built for editing files across machines via Tailscale.",
         "Useful for copying logs from pelican prompts into a Gist."
-      ]
-    },
-    {
-      "summary": "Search is ongoing for 11 missing people after a boat sank off Mexico\u2019s Baja coast, with 16 survivors rescued.",
-      "significance": "Search for 11 missing continues after boat sinking off Mexico\u2019s Baja coast, highlighting dangers of maritime travel in the area.",
-      "url": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
-      "points": [
-        "16 Mexican nationals were rescued, while 11 remain missing from the boat that had 27 people on board.",
-        "Survivors were treated for severe injuries consistent with shark bites.",
-        "The incident occurred about 225km west of Ensenada, with search efforts involving the US and Mexican Navies."
-      ]
-    },
-    {
-      "summary": "Lean proof assistant now includes verified kernels to enhance software security and reliability.",
-      "significance": "The story matters because it introduces verified kernels in Lean, enhancing the reliability and security of software developments by reducing programming mistakes in kernel implementation.",
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "points": [
-        "Con-leche, a kernel written in Lean and proven consistent, executes 0.69x the instructions of the official kernel.",
-        "Con-ron, a Rust version of con-leche, adds an additional layer of protection against unsoundness bugs.",
-        "Lean now offers a command to recheck developments with external kernels, including con-leche and con-ron, inside a sandbox."
-      ]
-    },
-    {
-      "summary": "Lean Rada explains using document.currentScript for inline rendering in JavaScript.",
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "points": [
-        "Lean Rada demonstrates replacing a <script> element with the current year using JavaScript.",
-        "A shortcut function $=(...n)=>document.currentScript.replaceWith(...n) simplifies the process.",
-        "Example provided: The year is dynamically inserted via <script>$(new Date().getFullYear())<\/script>."
-      ]
-    },
-    {
-      "summary": "A 13-year-old ebike rider was charged with sexual offences against women on Sydney's northern beaches trails.",
-      "significance": "The case highlights escalating concerns over safety for women and girls on public trails, prompting stricter law enforcement and community vigilance.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb",
-      "points": [
-        "Charged with offensive behavior and sexual touching without consent.",
-        "Incidents involved females aged 13 to 54 on walking trails.",
-        "Arrest occurred on Saturday evening after a strike force investigation."
-      ]
-    },
-    {
-      "summary": "Arizona and Nevada are legally challenging proposed cuts to their Colorado River water shares by the Trump administration.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river",
-      "points": [
-        "Arizona and Nevada are fighting proposed water supply cuts.",
-        "Interior department announced potential slashes to water supplied to lower basin states.",
-        "Restrictions depend on the Colorado River\u2019s condition over the next two years."
-      ]
-    },
-    {
-      "summary": "NYPD searches for suspect after a man in his 30s was fatally shot on the E train platform at 53rd Street-7th Avenue subway station.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/new-york-city-subway-station-shooting",
-      "points": [
-        "Shooting occurred on the E train platform at 53rd Street-7th Avenue station.",
-        "Victim was a man in his 30s.",
-        "Incident happened Saturday afternoon."
-      ]
-    },
-    {
-      "summary": "Over 400 arrests made as French police clash with protesters supporting high school students and protesting economic issues.",
-      "significance": "The story highlights escalating tensions and widespread discontent in France over student grievances and economic issues, leading to violent protests and mass arrests.",
-      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-      "points": [
-        "More than 400 people arrested during clashes.",
-        "Police used teargas in confrontations with protesters in Paris.",
-        "Protesters stormed a town hall in Marseille during the unrest."
-      ]
-    },
-    {
-      "summary": "ICE agent crashed into a construction worker, mistaking him for a suspect who had died years ago.",
-      "significance": "ICE agent's mistaken pursuit of a deceased suspect highlights flaws in immigration enforcement practices, impacting public trust and immigrant rights.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/ice-crash-houston",
-      "points": [
-        "Worker Miguel Parra Hernandez, 48, hospitalized with multiple leg fractures.",
-        "ICE agent believed he was pursuing a suspect who had died years ago.",
-        "Documentation proving the suspect's death was shared by his family."
-      ]
-    },
-    {
-      "summary": "A Reform UK candidate was caught on camera suggesting asylum seekers should be placed in concentration camps and that Muslims cannot be British.",
-      "url": "https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps",
-      "points": [
-        "The candidate made the remarks during an ITV undercover investigation.",
-        "Reform UK has been accused of \"appalling behaviour\" and \"extreme racism\" due to the comments.",
-        "The candidate suggested Muslims are incapable of being British citizens."
-      ]
-    },
-    {
-      "summary": "Research shows nearly all homes destroyed in NSW's black summer bushfires were within 100 meters of vegetation, validating risk maps.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
-      "points": [
-        "99% of destroyed homes were within 100 meters of flammable vegetation.",
-        "Official risk maps used by authorities are confirmed as accurate by the research.",
-        "Worsening fire conditions due to global heating may require extending safety distances."
-      ]
-    },
-    {
-      "summary": "A masked lapwing is nesting in the middle of a Tasmanian cricket ground, ignoring ongoing matches.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues",
-      "points": [
-        "The bird is located at Windsor Park oval, Riverside, just outside Launceston.",
-        "Locals nicknamed the bird \"Faf Swoop Plessis,\" referencing former cricket captain Faf du Plessis.",
-        "Despite its species' reputation for swooping, this lapwing shows indifference to the cricket matches."
-      ]
-    },
-    {
-      "summary": "Bleached coral fragments can recover within days when in contact with healthy fragments from the same individual.",
-      "significance": "This story matters because it demonstrates a rapid method to reverse coral bleaching by physical contact with healthy coral, offering potential scalable solutions for coral reef conservation.",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "points": [
-        "Recovery occurs through a tissue bridge that enables symbiont transfer.",
-        "In experiments, bleached coral fully recovered within eight weeks when touching healthy fragments.",
-        "The process did not work for fragments from different species or different animals of the same species."
-      ]
-    },
-    {
-      "summary": "Estonian online voting system's source code is made publicly available in a repository.",
-      "url": "https://github.com/valimised/ivxv",
-      "points": [
-        "Repository contains the actual code used in elections.",
-        "State Electoral Office of Estonia supervises the development.",
-        "Repository will be kept up to date but not used for active development."
       ]
     }
   ]

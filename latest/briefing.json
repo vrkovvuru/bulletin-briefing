@@ -1,198 +1,199 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "stories": [
     {
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
-    },
-    {
-      "title": "Pentagon designates Confucius Institutes a national security threat",
-      "url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Pete Hegseth says the Pentagon dismantled 80 ‘propaganda cells’ operating under new names at 30 universities.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "France prepares for day of protest a week after nationwide riots",
-      "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
-      "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Severe flooding hits Four Corners region, more expected through the weekend",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+      "title": "Perspective: The next James Bond",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.",
-      "alsoReportedBy": []
+      "summary": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
-      "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
+      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Republicans have long accused the FBI of mishandling the laptop and the investigations into the younger Biden.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+      "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Bayern say coach Kompany \u2018stable\u2019 in hospital but will be out for weeks",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be &#039;stable&#039; in hospital.",
+      "alsoReportedBy": [
+        "BBC News"
+      ]
+    },
+    {
+      "title": "Serbia elections test student movement demanding justice for 16 victims",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Serbia elections test student movement demanding justice for 16 victims",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Suspect arrested over fire at Hitler\u2019s \u2018Eagle\u2019s Nest\u2019 retreat in Bavaria",
+      "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward ⁠the ​Chinese coast. Earlier classified as a super typhoon and one of the strongest storms in the ⁠Pacific this year, Champi was still packing gusts of about 126km per hour (78 miles per hour) near its ⁠centre, according to Taiwan’s Central Weather Administration (CWA). Continue reading...",
-      "alsoReportedBy": []
+      "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany German police have arrested a suspect after a fire ripped through Adolf Hitler\u2019s former mountain retreat in Bavaria, leaving the historic Nazi meeting place \u2013 known as the Eagle\u2019s Nest \u2013 largely destroyed. About 200 firefighters were deployed on Friday night to tackle the blaze at the Nazi dictator\u2019s remote, purpose-built Kehlsteinhaus residence, a protected building on the peak of Obersalzberg in southern Germany. Continue reading...",
+      "alsoReportedBy": [
+        "BBC News"
+      ]
     },
     {
-      "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
-      "source": "NPR",
+      "title": "Attention LaMelo Ball: only losers boast about avoiding diaper duty | Arwa Mahdawi",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/24/lamelo-ball-avoiding-diaper-duty",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.",
+      "summary": "The basketball star seems proud to leave the job to his partner. That\u2019s so last century Nobody can accuse the basketball star LaMelo Ball of being bad at his job. That said, the Minnesota Timberwolves point guard doesn\u2019t seem to be a huge fan of dribbling . Ball has a nine-month-old son, LaOne, with his partner Ana Montana (real name: Analicia Chaves) and is apparently uninterested in dealing with all the body fluids that come with a baby. Arwa Mahdawi is a Guardian columnist Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
-      "alsoReportedBy": ["Guardian World"]
+      "title": "Plan for Northern Olympics to get \u00a37m in Healey's Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "title": "Between quick wins and big dreams lies Burnham's biggest test",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
-      "alsoReportedBy": ["Guardian World"]
+      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "alsoReportedBy": [
+        "Guardian World"
+      ]
     },
     {
-      "title": "Democrat James Talarico targets Elon Musk at rally: ‘Texas is not for sale’",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Senate candidate denounced opponent Ken Paxton, calling out corruption allegations and support from Musk James Talarico, the Democratic candidate for the US Senate in Texas, has taken aim at Elon Musk, warning that the tech mogul is trying to buy political influence and declaring: “Texas is not for sale.” Talarico held a campaign rally on Friday at the University of Texas at Austin, packing an auditorium at his alma mater with hundreds of students and other supporters, who cheered, whooped and waved campaign signs. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "California officials ordered by DoJ to set aside ‘likely’ noncitizen ballots",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Letters from federal prosecutors represent latest escalation as Trump continues to make claims of voter fraud Federal prosecutors sent letters to county registrars across California on Friday demanding that local officials set aside and verify ballots that the Department of Justice said may belong to noncitizens, according to the Los Angeles county registrar and a letter obtained by the Associated Press. The letters are the latest escalation in a legal battle between California and Donald Trump’s Department of Justice, which has recently focused on the state in its efforts to root out noncitizen voting ahead of the midterm elections. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
+      "title": "European student protests take aim at Serbia's elections",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
+      "summary": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
       "alsoReportedBy": []
     },
     {
-      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "title": "Additional 178 cases of measles reported by US health authorities amid outbreak",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s . The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country’s human rights record. Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s. It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993. Continue reading...",
+      "summary": "Centers for Disease Control and Prevention reported 4,588 cases across the country, more than double the tally in 2025 Federal health authorities reported an additional 178 cases of measles in the US this week, as the vaccine-preventable illness continues to sicken people across at least 43 outbreaks. The new data reported by the Centers for Disease Control and Prevention (CDC) comes as experts criticize the agency for lack of transparency, and as health secretary Robert F Kennedy Jr takes steps to further upend US vaccine infrastructure. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
+      "title": "Epstein files take back seat in midterms but experts say issue has not gone away",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’ Get our new political email , free app or daily news podcast Jordon Steele-John has confirmed he will not attend parliament next week as the embattled Greens senator releases a letter detailing the allegations against him. After days of confusion following historical complaints about alleged misconduct were publicly aired in the media, Steele-John posted a statement to social media late Friday night. Continue reading...",
+      "summary": "Other voter concerns have prevailed but return of Congress likely to see renewed focus on late sex offender\u2019s activities As US voters head to the polls for crucial and fraught midterm elections, some survivors\u2019 advocates in the Jeffrey Epstein investigation have expressed concern that the scandal could recede into the background. Political experts believe, however, the Epstein issue is not going away permanently and that many voters can balance day-to-day concerns such as affordability and AI with the scandal involving the late financier and accused sex trafficker whose social circle was widespread among America\u2019s elite. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-      "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
       "alsoReportedBy": []
     },
     {
-      "title": "Controversial US-backed vaccine trial in African newborns halted",
-      "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Storm Boelo to bring gusts of up to 80mph and heavy rain to parts of UK",
+      "url": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, “we were not given the necessary governmental approval.” Continue reading...",
+      "summary": "Second named storm in as many days will hit northern parts of UK as thousands remain without power after Friday\u2019s Storm Austen The UK is bracing for a second storm this weekend, as strong winds and heavy rain are expected to disrupt travel and cause further power cuts in the north. Storm Boelo, the second named storm of the season, is expected to bring heavy, frequent showers and winds potentially exceeding 80mph to northern parts of the UK. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Hacking attempts rise after flaws found in program affecting 70% of websites",
-      "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-      "source": "NPR World",
+      "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Governments around the world are rushing to implement safety measures after AI technology found \"severe\" vulnerabilities in a key programming language called PHP.",
+      "summary": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range. Opponents say the practice will cause bears to be more aggressive around humans, and allege that the rule change is a political gift to largely rightwing trophy hunters. The rule replaces a 2024 Biden administration rule that banned the practice, and environmental groups criticized the move as \u201cindefensible and inexcusable\u201d. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
+      "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Lobby group\u2019s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaigners A banking lobby group has been accused of cherrypicking data and trying to mislead the British government by claiming a tax rise for banks at next week\u2019s budget would leave London less competitive than rival financial hubs. UK Finance, which represents banks including Lloyds, JP Morgan and Revolut, commissions an annual report tallying up all the taxes shouldered by a large bank, including corporation tax, social security, VAT and bank-specific levies. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "The glorious @xkcdRandom Zig builtin",
-      "url": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
+      "title": "No unions, low taxes: why some of Britain\u2019s top chefs are opening outposts in Gulf states",
+      "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethic Some of London\u2019s top restaurants are opening branches in Dubai because of a \u201ctax tsunami\u201d in the UK and better work ethic abroad, according to a leading restaurateur. James Robson, a co-owner of Fallow in St James\u2019s Market, regarded as the capital\u2019s hottest restaurant, serving 1,000 people a day, has just signed a deal to open an outpost in the Gulf. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "I want my Wednesday back",
+      "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,8 +201,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Twelve years of distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,6 +228,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Indian government sites are serving revoked eMudhra certificates",
+      "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "The Pulse: Time to rethink software security because of AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
       "source": "Pragmatic Engineer",
@@ -227,17 +246,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Software is slow because of bad design, not slow languages",
-      "url": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -254,7 +264,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "What’s the ROI of software engineers’ spending on AI?",
+      "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -263,8 +273,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How close can pure FP get to C?",
-      "url": "https://rtfeldman.com/fp-vs-c",
+      "title": "Be Aware of What's in Your Logs",
+      "url": "https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -281,12 +291,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "title": "AI Is Getting Good at Math. Here\u2019s Why.",
       "url": "https://latent.space/p/ai-is-getting-good-at-math/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they\u2019ll solve next.",
       "alsoReportedBy": []
     },
     {
@@ -308,12 +318,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-      "url": "https://latent.space/p/modal-d/",
-      "source": "Latent Space",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+      "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We\u2019re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun side note: since my blog content is available to Claude via the datasette-mcp plugin I found that post by prompting Claude to \" Use simonwillison.net MCP to find if I ever talked about how I want skills to be donated to a standards body \". Tags: standards , ai , generative-ai , llms , anthropic , model-context-protocol , skills",
       "alsoReportedBy": []
     },
     {
@@ -344,22 +354,24 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun side note: since my blog content is available to Claude via the datasette-mcp plugin I found that post by prompting Claude to \" Use simonwillison.net MCP to find if I ever talked about how I want skills to be donated to a standards body \". Tags: standards , ai , generative-ai , llms , anthropic , model-context-protocol , skills",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "You are the Team — Anekha Sokhal, Moshi",
-      "url": "https://latent.space/p/moshi/",
+      "title": "Why AI Compute Comes in Rectangles \u2014 Erik Bernhardsson, Modal CEO",
+      "url": "https://latent.space/p/modal-d/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
+      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. \u2014 Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
       "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 186.6,
+  "voice": "af_heart"
 }
