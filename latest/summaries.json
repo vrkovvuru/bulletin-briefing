@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-25T18:42:38.586293Z",
+  "generated": "2026-10-25T20:41:59.740819Z",
   "summaries": [
+    {
+      "summary": "Student protests in France over education have escalated into widespread unrest, with media coverage focusing on violence rather than demands.",
+      "significance": "The narrative battle over France\u2019s unrest highlights how media portrayal can skew public perception, favoring violence over protest demands.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
+      "points": [
+        "Mainstream media in France have emphasized violence and looting, using racist terms to describe protesters.",
+        "Right-wing movements abroad have adopted the media's narrative focusing on violence.",
+        "The unrest began as protests over education and has become one of France\u2019s largest waves of unrest in years."
+      ]
+    },
+    {
+      "summary": "UK cabinet divided over Rosebank oilfield approval, with chancellor in favor and energy secretary leaning against it.",
+      "url": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
+      "points": [
+        "Chancellor John Healey supports the North Sea project.",
+        "Energy secretary Miatta Fahnbulleh is reportedly leaning towards rejection.",
+        "Fahnbulleh previously granted permission for the smaller Jackdaw gasfield."
+      ]
+    },
+    {
+      "summary": "Alaska Senate candidate Mary Peltola and her family suffered minor injuries in a car crash while en route to a campaign event.",
+      "significance": "Peltola's car crash causes delay in campaign, affecting her election schedule and public appearances.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
+      "points": [
+        "Peltola was traveling to the Alaska Federation of Natives annual banquet.",
+        "The crash occurred on Saturday, with a statement released on Sunday.",
+        "Peltola, a Democrat, is running for Alaska\u2019s lone US Senate seat."
+      ]
+    },
+    {
+      "summary": "Chancellor Healey employs military-style secrecy for the budget but significant policies are still leaking to the media.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
+      "points": [
+        "Healey implemented \"compartmentalisation\" to prevent leaks, similar to military defense.",
+        "Media reported on significant budget policies despite the secrecy measures."
+      ]
+    },
+    {
+      "summary": "The article discusses how technological advancements and economic growth have led to increasing wealth disparity between the rich and the poor globally.",
+      "significance": "The story highlights growing economic inequality, affecting social and political tensions globally.",
+      "url": "https://lusopt2016.blogspot.com/2026/10/a-grande-divisao-porque-e-que-os-ricos.html",
+      "points": [
+        "Wealth concentration in financial, tech, and real estate sectors benefits the already wealthy.",
+        "Rising living costs, especially in housing, make it harder for younger generations to buy homes.",
+        "Technological revolution increases efficiency but risks displacing traditional jobs, widening the gap between skilled and unskilled workers."
+      ]
+    },
+    {
+      "summary": "A science fiction novel from 2020 describes an AI assistant named Eunice with advanced capabilities, presaging today's AI developments.",
+      "url": "https://armincat.com/articles/eunice-is-almost-here",
+      "points": [
+        "Eunice operates in an alternate San Francisco in 2017, nearly three years before ChatGPT's release.",
+        "The AI can conduct human-like conversations and perform background tasks independently.",
+        "Today's AI agents are now capable of independently pursuing goals and working autonomously."
+      ]
+    },
     {
       "summary": "Serbia holds elections with Student List challenging Vučić's rule amid high voter turnout.",
       "significance": "Serbia's election could end Vučić's 12-year rule as increased voter turnout reflects rising opposition against government corruption.",
@@ -3687,64 +3743,6 @@
         "Lamarre-Condon, 31, allegedly murdered Jesse Baird and Luke Davies with his police service weapon.",
         "The alleged murders took place in Baird\u2019s Paddington home on February 19, 2024.",
         "Lamarre-Condon made the remarks to a friend a month after his arrest."
-      ]
-    },
-    {
-      "summary": "Superlite is a plugin designed to streamline software development by automating tasks and reducing human oversight, contrasting with the more collaborative Superpowers.",
-      "significance": "Superlite streamlines software development by automating and parallelizing tasks, reducing the need for constant human intervention.",
-      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-      "points": [
-        "Superlite automates tasks and requires minimal human intervention, unlike Superpowers which needs frequent approvals.",
-        "In benchmarks, Superlite peaked at coordinating 18 agents simultaneously, demonstrating its efficiency in parallel task execution.",
-        "The plugin uses hooks to enforce rules, such as preventing the coordinator from editing code, ensuring tasks are completed without human interference."
-      ]
-    },
-    {
-      "summary": "Renewed piracy off Somalia's coast is disrupting fishing livelihoods in Bander Beyla, Puntland.",
-      "significance": "The return of Somali piracy disrupts local fishing livelihoods and imposes strict surveillance and restrictions on coastal communities.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss",
-      "points": [
-        "Piracy surged off Somalia since late April 2026, with several vessels seized near Bander Beyla.",
-        "Local authorities restricted fishermen from going to sea for two months starting late August.",
-        "Three hijacked vessels, Honour 25, Seamull, and Eureka, were freed on October 2, with 44 seafarers released."
-      ]
-    },
-    {
-      "summary": "Robert McClelland, former Labor attorney general and federal court judge, named as new head of National Anti-Corruption Commission.",
-      "significance": "McClelland's appointment follows Paul Brereton's resignation and aims to lead the National Anti-Corruption Commission, affecting Australia's efforts in combating corruption.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/former-labor-attorney-general-robert-mcclelland-named-new-nacc-boss",
-      "points": [
-        "McClelland served as attorney general under the Rudd government from 2007 to 2011.",
-        "He was appointed deputy chief justice of the federal circuit and family court in 2015.",
-        "McClelland replaces Paul Brereton, who quit in May."
-      ]
-    },
-    {
-      "summary": "Inquiry into Sydney protest against Israeli president finds protesters largely peaceful, limited evidence of violence.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
-      "points": [
-        "Inquiry by Law Enforcement Conduct Commission (Lecc) examines February protest.",
-        "Issues include police use of OC spray and claims of gratuitous force.",
-        "Limited evidence of physical violence by protesters, deemed largely peaceful."
-      ]
-    },
-    {
-      "summary": "Site updates guidelines to improve content quality and reduce self-promotion and low-effort submissions.",
-      "significance": "The story matters as it outlines new guidelines for a computing-focused community to enhance content quality and reduce self-promotion, affecting how users share and engage with submissions.",
-      "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-      "points": [
-        "Introduced new rules to ensure content is respectful of readers' time and intelligence.",
-        "No longer allows submissions of code repositories to reduce low-effort, self-promotional posts.",
-        "Marked the \"vibecoding\" tag as inactive to address issues related to AI/LLM content."
-      ]
-    },
-    {
-      "summary": "The article argues for running your own LLM proxy to gain better control and insight into data usage and model interactions.",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "points": [
-        "Running your own proxy allows control over multi-provider, multi-model setups at a single endpoint.",
-        "It enables logging of key usage, model calls, client interactions, and status tracking.",
-        "Owning infrastructure provides better application visibility and data pathing for informed decision-making."
       ]
     }
   ]
