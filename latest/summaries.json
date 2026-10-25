@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-25T02:40:45.736189Z",
+  "generated": "2026-10-25T04:41:41.168045Z",
   "summaries": [
+    {
+      "summary": "A wet monsoon season has transformed Australia's Kati Thanda-Lake Eyre into a vibrant green landscape, a rare sight not seen in decades.",
+      "significance": "The story highlights the transformative impact of rare heavy rainfall on Australia's desert ecosystem, showcasing a fleeting burst of life in an otherwise arid region.",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/25/kati-thanda-lake-eyre-transformed-green-rainfall",
+      "points": [
+        "Kati Thanda-Lake Eyre is blanketed in plant life including sandhill wattle, saltbush, and grasses.",
+        "The transformation is visible across hundreds of twisting rivers and creeks in the outback.",
+        "This green transformation, a rare sight, occurred in late September due to a wet monsoon season."
+      ]
+    },
+    {
+      "summary": "Australia's top law enforcement official links politicians' rhetoric to threats against MPs, especially women.",
+      "significance": "The story highlights how politicians' aggressive rhetoric contributes to threats against MPs, particularly women, affecting their safety and the political climate.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
+      "points": [
+        "Commissioner Krissy Barrett states women MPs face more threats, including sexual violence.",
+        "Independent MP Helen Haines allegedly attacked outside her Wangaratta office.",
+        "The incident highlighted the safety concerns for elected representatives."
+      ]
+    },
+    {
+      "summary": "Five Qwen3.8-27B models match Fable 5's coding performance using GVS5H, at a fraction of the cost.",
+      "significance": "The story demonstrates that coordinated smaller models can achieve high coding performance at a significantly lower cost, challenging the need for expensive proprietary models.",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "points": [
+        "Qwen3.8-27B models achieve 92.4% pass@1 on LiveCodeBench Hard, up from 66.8%.",
+        "The method uses ledger-based zero-shot self-orchestration, reducing costs to 9% of Fable 5's.",
+        "Performance gains of up to 25.6 percentage points are seen on pinned backends."
+      ]
+    },
+    {
+      "summary": "Cerebras explains how to deploy multi-trillion parameter AI models across multiple WSE-3T wafers.",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "points": [
+        "Kimi K3, an open-source model with 3 trillion parameters, is used as an example.",
+        "Each Cerebras WSE-3T wafer has 44 GB of on-chip memory, fitting one dense layer or two linear-attention layers.",
+        "The system supports up to 1000-2000 tokens per second by streaming requests through a pipeline of wafers."
+      ]
+    },
+    {
+      "summary": "Netflix's $500M offer for a seven-year deal with Xbox to adapt Xbox characters into shows and films was rejected by Microsoft.",
+      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "points": [
+        "Microsoft countered with an $800M offer, leading to the deal's collapse.",
+        "Xbox is now pursuing smaller deals with multiple partners on a case-by-case basis.",
+        "Xbox has ongoing projects with Paramount, Amazon, and Netflix, including \"Halo\" and \"Minecraft."
+      ]
+    },
     {
       "summary": "Actors Peter Houghton and Anne Browning developed a real-life connection through shared humor during a 1997 Hamlet production in Melbourne.",
       "url": "https://www.theguardian.com/lifeandstyle/2026/oct/25/the-moment-i-knew-i-admitted-i-had-a-crush-on-her-she-replied-well-thats-good-isnt-it",
@@ -3704,52 +3752,6 @@
         "Tagging has expanded to include almost any mention of LLMs, losing its original purpose.",
         "The tag now turns away creators of original technical content from the community.",
         "Filtering out LLM-related posts has led to a loss of valuable, non-LLM-centric content."
-      ]
-    },
-    {
-      "summary": "Emily, an engineer, shares a framework called the \"Brain Sandwich\" to effectively use AI without losing engineering skills.",
-      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "points": [
-        "Framework involves understanding the task before using AI and reviewing the AI's work afterward.",
-        "Involves three steps: brain (understand), AI (delegate), brain (review).",
-        "Prevents AI from solving the wrong problems or adding unnecessary complexity."
-      ]
-    },
-    {
-      "summary": "The article explains how ARP works to connect devices on a local network using IP and MAC addresses.",
-      "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
-      "points": [
-        "ARP allows a device to find the MAC address of another device using its IP address.",
-        "ARP queries are broadcast to all devices on the network, with the correct device responding with its MAC address.",
-        "ARP helps build a list of known devices on the network, including their IP and MAC addresses."
-      ]
-    },
-    {
-      "summary": "A new horror bookstore in Virginia thrives, while the horror film industry sees rising profits and explores new mediums.",
-      "significance": "The story highlights the growing popularity and profitability of the horror genre, as seen through the success of specialized businesses and films.",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
-      "points": [
-        "Long Dark House, a horror bookstore in Alexandria, Virginia, has steady traffic after opening a month ago.",
-        "Blumhouse Atomic Monster reports horror's share of the box office has risen to over 15%, with the company holding over 50% of that market.",
-        "The studio is exploring new mediums, including AI in filmmaking and theatrical adaptations, aiming to be \"the Disney of fear."
-      ]
-    },
-    {
-      "summary": "The article discusses how instilling a sense of impending doom can paralyze people rather than motivate action on critical issues.",
-      "url": "https://www.theguardian.com/environment/2026/oct/18/the-problem-with-telling-people-the-world-is-ending",
-      "points": [
-        "Climate crisis, AI risks, wars, and political instability are cited as overwhelming challenges.",
-        "Historical evidence shows that doomerism often leads to inaction and paralysis.",
-        "The article argues that action, not despair, is needed to mitigate threats."
-      ]
-    },
-    {
-      "summary": "An emcee style characterized by high-energy, ad-libbed vocals in Afrobeats, dubbed Afrohype or lamba, has gained popularity through captivating crowd engagement.",
-      "url": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
-      "points": [
-        "Toby Shang, a University of Lagos graduate, became known for his viral catchphrases and energy.",
-        "His hit song, Shedibalabala, emerged from his final year at university.",
-        "The style, originating from energizers in three-man bands, is now recognized as a sub-genre."
       ]
     }
   ]
