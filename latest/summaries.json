@@ -1,6 +1,108 @@
 {
-  "generated": "2026-10-25T04:41:41.168045Z",
+  "generated": "2026-10-25T12:42:31.379791Z",
   "summaries": [
+    {
+      "summary": "Comedian Jaishree Malik faces deportation from Ireland despite job offers, mirroring real-life struggles of others.",
+      "significance": "The story highlights the real-life deportation fears of immigrants in Ireland, exemplified through a comedian's personal struggle with visa issues.",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/comedy-routine-deportation-ireland-woman-",
+      "points": [
+        "Jaishree Malik's visa renewal and extension requests have been delayed and denied.",
+        "Despite having job offers, she is at risk of deportation from Ireland.",
+        "Malik uses her comedy platform to highlight her deportation threat, engaging her audience."
+      ]
+    },
+    {
+      "summary": "Journalists Joanna Coles and Michael Wolff maintain a popular podcast analyzing Donald Trump's behavior.",
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/oct/25/inside-trumps-head-podcast",
+      "points": [
+        "Podcast \"Inside Trump\u2019s Head\" is in its 15th month.",
+        "The show has recorded 168 episodes, airing thrice weekly.",
+        "The podcast explores Trump's megalomania, narcissism, and desire for fame."
+      ]
+    },
+    {
+      "summary": "Unconventional shoe designs, once seen on catwalks, are becoming popular among mainstream consumers.",
+      "url": "https://www.theguardian.com/fashion/2026/oct/25/ugly-shoes-mainstream-freaky-footwear",
+      "points": [
+        "Designs are described as flat, somewhat orthopaedic, and intentionally unconventional.",
+        "Previously, commuters favored low-key, unobtrusive shoes like basic trainers or flats.",
+        "These new shoe designs are polarizing and have gained desirability despite being labeled \"ugly\" online."
+      ]
+    },
+    {
+      "summary": "Family and charity workers demand UK government action for a full investigation into British man Andrew Frederick's homicide death in Grenada.",
+      "significance": "Family supporters demand UK government action for a full investigation into British man's homicide death in Grenada, stalled by diplomatic delays.",
+      "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
+      "points": [
+        "Andrew Frederick's death, ruled a homicide by a pathologist, occurred 10 months ago.",
+        "Diplomatic delays between UK and Grenada have stalled the time-critical investigation.",
+        "Body of Andrew Frederick was found in a ransacked property on the Caribbean island."
+      ]
+    },
+    {
+      "summary": "City economists doubt Bank of England will raise interest rates to 4.75% by next summer as financial markets predict.",
+      "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "points": [
+        "Economists believe the Bank of England won't increase rates by a full percentage point.",
+        "Current bank rate is 3.75%, with markets expecting it to reach 4.75% by July.",
+        "Economists suggest rates could be lowered by the end of 2027."
+      ]
+    },
+    {
+      "summary": "Irish and Welsh children\u2019s laureates donate royalties to Sally Rooney after her UK book sales ban due to her support for Palestine Action.",
+      "url": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
+      "points": [
+        "Chris Haughton, Ireland\u2019s children\u2019s laureate, aims to highlight the \"absurdity\" of Rooney's situation.",
+        "Nicola Davies, Wales\u2019s children\u2019s laureate, joins in the solidarity gesture.",
+        "Sally Rooney was forced to halt UK book sales due to her support for Palestine Action."
+      ]
+    },
+    {
+      "summary": "Trump administration policies led to a 13% drop in Americans enrolled in food stamps.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
+      "points": [
+        "Enrollment in SNAP dropped from 41.6 million in July 2025 to 36.5 million in June 2026.",
+        "The One Big Beautiful Act, enacted by the Trump administration, imposed new restrictions.",
+        "Stakeholders warn more people are at risk of food insecurity and are turning to food banks."
+      ]
+    },
+    {
+      "summary": "Storm Boelo brings high winds to Scotland, Northern Ireland, and northern England, with gusts up to 80mph.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+      "points": [
+        "Met Office issued amber warnings for areas experiencing wind speeds of 60-70mph.",
+        "Storm Boelo follows Storm Austen, which affected parts of the UK on Friday.",
+        "Advisories urge people in affected regions to stay indoors due to 80mph gusts in coastal areas."
+      ]
+    },
+    {
+      "summary": "Meta faces continued scrutiny for alleged favoritism towards Bolsonaro candidates despite a Brazilian court order.",
+      "significance": "Meta's non-compliance with a Brazilian court order continues to affect the perceived fairness of the presidential campaigns of Lula and Bolsonaro.",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "points": [
+        "Sleeping Giants Brasil and CTRL+Z submitted evidence to Brazil\u2019s Superior Electoral Court.",
+        "Meta ordered to ensure equal conditions for both candidates with a daily fine of R$500,000.",
+        "Evidence includes AI linking Lula to negative content and favoring Bolsonaro in search results."
+      ]
+    },
+    {
+      "summary": "fheroes2 recreates the Heroes of Might and Magic II game engine with improvements.",
+      "url": "https://github.com/ihhub/fheroes2",
+      "points": [
+        "Project includes high-resolution graphics and enhanced AI.",
+        "Original game rights belong to Ubisoft, now.",
+        "Contributions for graphics and translations are welcome."
+      ]
+    },
+    {
+      "summary": "Samsung's TensorFlow Lite model, \"alex.tflite,\" tracks user gameplay on 960x540 images every couple of seconds.",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "points": [
+        "The model uses INT8 quantization and is based on AlexNet.",
+        "It performs poorly, succeeding only 1% of the time.",
+        "The model's results are discarded as user consent is sought later."
+      ]
+    },
     {
       "summary": "A wet monsoon season has transformed Australia's Kati Thanda-Lake Eyre into a vibrant green landscape, a rare sight not seen in decades.",
       "significance": "The story highlights the transformative impact of rare heavy rainfall on Australia's desert ecosystem, showcasing a fleeting burst of life in an otherwise arid region.",
@@ -3648,110 +3750,6 @@
         "The 8087 sped up addition by a factor of almost 100 compared to the 8086 processor.",
         "The chip's microcode ROM holds 1648 micro-instructions controlling its operations.",
         "Floating-point operations require aligning binary points before addition or subtraction."
-      ]
-    },
-    {
-      "summary": "The article discusses the importance of the creator's perspective and intuition in shaping software products, contrasting it with a more process-driven approach.",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "points": [
-        "The author values intuition developed through experience over blind data reliance.",
-        "Products develop a character based on what makers pay attention to and their decisions.",
-        "Recent products feel messy, with more focus on adding capabilities than improving core issues."
-      ]
-    },
-    {
-      "summary": "Java introduces sealed classes and exhaustive pattern matching to ensure all cases are covered in switch expressions.",
-      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-      "points": [
-        "Sealed classes enable exhaustive pattern matching, eliminating the need for a default clause in switch expressions.",
-        "Adding a new subtype to a sealed class/interface can break existing code, requiring a major version bump.",
-        "Sealed types are more useful for internal component implementation than for public APIs due to potential runtime issues."
-      ]
-    },
-    {
-      "summary": "Journalist describes teargas and unrest in Paris protests fueled by public grievances.",
-      "significance": "The story highlights the underlying sense of betrayal and grievances among protesters in Paris, indicating that violent responses from leaders may exacerbate the situation.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/18/france-riot-looting-anger-violence-protest-streets",
-      "points": [
-        "Protest atmosphere turned from festive to conflict after police used teargas.",
-        "Teargas made breathing difficult and forced retreat from Place de la République.",
-        "Journalist highlights sense of betrayal uniting protesters despite varied motives."
-      ]
-    },
-    {
-      "summary": "India pushes for yoga's inclusion in the Olympics, sparking debate among yogis, as seen in the World Yogasana Championship.",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga",
-      "points": [
-        "Vaishnavi Saravanakumar, known as \"India\u2019s rubber band girl,\" won gold at the World Yogasana Championship.",
-        "The Indian government plans to propose yogasana for the Olympics ahead of its 2036 bid.",
-        "522 yogis competed in the inaugural World Yogasana Championship held in Ahmedabad in June."
-      ]
-    },
-    {
-      "summary": "Investigation into a £55m loan to Manchester City\u2019s owner while Andy Burnham was mayor.",
-      "significance": "Investigation into £55m housing loan to Manchester City's owner while Burnham was mayor follows PM's scrutiny over links to club's wealthy owners.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
-      "points": [
-        "£55m loan to Manchester City\u2019s Abu Dhabi owner under scrutiny.",
-        "Prime Minister promises \u2018full transparency\u2019 regarding the housing fund.",
-        "Manchester City found guilty of a £900m income boost over nine years."
-      ]
-    },
-    {
-      "summary": "A new reverse borrow checking algorithm for memory safety in programming languages is being explored.",
-      "url": "https://verdagon.dev/blog/reverse-borrow-checking",
-      "points": [
-        "Valen's borrow checker iterates functions in reverse, a method not previously used for memory safety.",
-        "The algorithm is experimental and expected to be refined until v0.1, due sometime in February.",
-        "Unlike Rust's forward pass for memory safety checks, Valen's approach scans backwards for efficiency and convenience."
-      ]
-    },
-    {
-      "summary": "New high-performance policy routed IPsec mesh SD-WAN technology enables efficient network traffic management.",
-      "significance": "The story matters because it showcases a high-performance SD-WAN solution that interoperates with existing tools, offering flexible routing and policy options, and achieving significant throughput.",
-      "url": "https://ranet3.com/",
-      "points": [
-        "Technology supports IKEv2 with Ed25519 keys, Babel, and SRv6 for interoperability.",
-        "Babel continuously measures RTT, adjusting routes to ensure traffic always takes the fastest path.",
-        "Achieves up to 8.84 Gbit/s of TCP payload one way and 18.76 Gbit/s both ways without a tunnel."
-      ]
-    },
-    {
-      "summary": "An Air Force officer died after falling from the Alamodome rafters during a pregame display before UTSA\u2019s game against Navy.",
-      "significance": "The death of an Air Force officer during a pregame rappelling display highlights risks in military demonstrations at public events.",
-      "url": "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy",
-      "points": [
-        "Officer fell during a rappelling event at the Alamodome on Saturday.",
-        "He was part of the 6th Combat Training Squadron at Nellis Air Force Base.",
-        "The incident occurred before UTSA\u2019s game against Navy, on Salute to Armed Forces and Veterans night."
-      ]
-    },
-    {
-      "summary": "Bristol Old Vic expands access to arts by bringing free theatre performances into classrooms amid financial pressures.",
-      "url": "https://www.theguardian.com/stage/2026/oct/18/bristol-old-vic-arts-emergency-city-academy-theatre-plays-access",
-      "points": [
-        "Theatre company addresses arts 'emergency' due to financial constraints on households and schools.",
-        "Performance at City Academy in Bristol features six young actors exploring British identity in 2026.",
-        "Actors discuss cultural symbols like fish and chips, tea, and sports figures like Jordan Pickford."
-      ]
-    },
-    {
-      "summary": "The µRepRap is a 3D printer capable of micron-level fabrication, aiming to democratize microelectronics and MEMS fabrication.",
-      "significance": "The µRepRap project democratizes micron-scale fabrication, making precise 3D printing accessible beyond professional labs to hobbyists and small workshops.",
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "points": [
-        "Achieves repeatable positioning to approximately 1μm and 10μm accuracy in an 8mm cubic volume.",
-        "Uses a fine probe to deposit UV resin droplets as small as 4μm and cure 9μm resin lines.",
-        "Aims to bring micron-scale fabrication capabilities to a wider audience, similar to how RepRap popularized 3D printing."
-      ]
-    },
-    {
-      "summary": "The vibecoding tag, once meaningful in software engineering discussions, has become harmful by alienating valuable community members.",
-      "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
-      "points": [
-        "Tagging has expanded to include almost any mention of LLMs, losing its original purpose.",
-        "The tag now turns away creators of original technical content from the community.",
-        "Filtering out LLM-related posts has led to a loss of valuable, non-LLM-centric content."
       ]
     }
   ]
