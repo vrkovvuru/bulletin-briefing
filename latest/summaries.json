@@ -1,6 +1,89 @@
 {
-  "generated": "2026-10-25T12:42:31.379791Z",
+  "generated": "2026-10-25T14:42:32.297124Z",
   "summaries": [
+    {
+      "summary": "Man accused of shooting and killing a Missouri teen on a highway has been charged in a second shooting incident.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
+      "points": [
+        "Alyssa Wilson, 17, was shot and killed on October 14 while driving to a Halloween party.",
+        "The incident occurred on Interstate 170 in Overland, Missouri.",
+        "The suspect fired into another vehicle days before shooting Wilson."
+      ]
+    },
+    {
+      "summary": "More than half of Australians are bulk-billed for all GP care, up from previous years, due to government incentives.",
+      "significance": "The increase in bulk-billing rates reflects government incentives and affects the majority of Australians' access to affordable GP care.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
+      "points": [
+        "63% of Australians are now bulk-billed for all GP care.",
+        "The proportion of GPs bulk-billing all patients more than doubled in a year.",
+        "Increase attributed to federal government's investment in Medicare bulk billing incentives."
+      ]
+    },
+    {
+      "summary": "Videos about British trains have more than doubled on TikTok in three months due to increased interest and content from train staff.",
+      "url": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
+      "points": [
+        "Number of rail-related videos on TikTok more than doubled in three months.",
+        "Content includes information on cheap tickets and facts about the London Underground.",
+        "Train staff contribute tales, adding to the surge in rail content online."
+      ]
+    },
+    {
+      "summary": "Audi, part of Volkswagen, announces a $4bn SUV factory in Georgia despite parent company's struggles.",
+      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "points": [
+        "Audi to spend $4bn on new factory in Macon, Georgia.",
+        "Factory creation to provide 4,500 jobs in the US.",
+        "Announcement made during Trump's campaign rally, ahead of midterm elections."
+      ]
+    },
+    {
+      "summary": "UK cabinet minister Angela Rayner supports Andy Burnham's call for a debate on returning to free movement with the EU, risking concern among some MPs.",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+      "points": [
+        "Angela Rayner backs Andy Burnham's call for debate on free movement with EU.",
+        "Prime Minister says staying out of free movement is no longer a red line in EU talks.",
+        "Support from senior cabinet ministers risks causing concern among red wall MPs."
+      ]
+    },
+    {
+      "summary": "Ethnic minorities in England are less likely to receive breast cancer diagnosis through routine screening and more likely to be diagnosed in emergencies.",
+      "url": "https://www.theguardian.com/society/2026/oct/25/ethnic-minorities-england-breast-cancer-screening-disparity",
+      "points": [
+        "People from minority backgrounds are up to a third less likely to be diagnosed via routine screening.",
+        "Research analyzed 86,564 adults diagnosed with breast cancer between 2009 and 2019.",
+        "Study conducted by University of Surrey academics and funded by Breast Cancer Now."
+      ]
+    },
+    {
+      "summary": "A 1505 tool book by a Nuremberg knight, now digitized, offers insights into early engineering and technology.",
+      "significance": "The digitization and detailed exploration of a 1505 Nuremberg knight's tool book offer insights into medieval engineering and technology.",
+      "url": "https://loeffelholz-codex.org/en/",
+      "points": [
+        "The book, titled Codex Löffelholz, is held at Biblioteka Jagiellońska in Kraków.",
+        "It contains 154 pages of tools, machines, and weapons, with detailed drawings and captions.",
+        "The project loeffelholz-codex.org aims to transcribe and interpret each page, with some pages still under review."
+      ]
+    },
+    {
+      "summary": "Farol is an open-source tool that provides a risk map for pull requests, highlighting risky files and changes for approvers.",
+      "url": "https://github.com/winnin/farol",
+      "points": [
+        "Farol works with TypeScript/React, Go, and Python projects.",
+        "It generates a 0\u2013100 risk score based on reach, diff coverage, security findings, and contract breaks.",
+        "The tool runs locally or in CI, providing deterministic reports without executing or sending code elsewhere."
+      ]
+    },
+    {
+      "summary": "A DIY enthusiast built a portable computer, dubbed the Slurptop, using power tool batteries and a mini PC.",
+      "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+      "points": [
+        "Uses Kobalt power tool batteries for power",
+        "Designed with a Cyberpunk aesthetic, featuring an improvised part selection",
+        "Equipped with a 16:10 display and a trackball mouse for navigation"
+      ]
+    },
     {
       "summary": "Comedian Jaishree Malik faces deportation from Ireland despite job offers, mirroring real-life struggles of others.",
       "significance": "The story highlights the real-life deportation fears of immigrants in Ireland, exemplified through a comedian's personal struggle with visa issues.",
@@ -3664,92 +3747,6 @@
         "HybridAgents improve performance by 10.4% across 11 benchmarks.",
         "The architecture includes HybridLink for seamless text-latent transitions and continuous working memory.",
         "Compared to other methods, HybridAgent offers 1.8x-2.6x faster inference and 2.7x-3.7x cost savings."
-      ]
-    },
-    {
-      "summary": "Youth-led protests, marked by violence, are spreading across Europe, raising questions about their causes and fueling anti-immigration rhetoric online.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
-      "points": [
-        "Protests are youth-led and have been accompanied by violent scenes.",
-        "Anti-immigration claims have been fueled by the violent scenes online.",
-        "The unrest's actual drivers remain under question and investigation."
-      ]
-    },
-    {
-      "summary": "India's government intensifies crackdown on youth protesters and media amid electoral reforms争议.",
-      "significance": "India's crackdown on critics and media escalates tensions, highlighting government's struggle to suppress growing youth-led protests and critical reporting.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
-      "points": [
-        "About 130 million names removed from voter lists in India.",
-        "Dozens of journalists and content creators face detention and assault.",
-        "Pakistan declares emergency in Khyber Pakhtunkhwa over protests."
-      ]
-    },
-    {
-      "summary": "Supermodel Cindy Crawford mourns the death of her 27-year-old son Presley Gerber, whose passing is being investigated as a suspected overdose.",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Presley Gerber died on September 20 at a rehab facility in California.",
-        "Police are investigating the death as a suspected drug overdose.",
-        "Gerber, like his mother and sister Kaia, was a model and had spoken openly about his mental health and drug use."
-      ]
-    },
-    {
-      "summary": "Macron condemns violence following days of unrest in France, where over 2,000 were arrested.",
-      "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
-      "points": [
-        "Macron criticizes \"unbridled violence\" during televised address.",
-        "Over 2,000 people arrested across French cities.",
-        "Public buildings burned and hundreds of shops destroyed."
-      ]
-    },
-    {
-      "summary": "Netanyahu questions the account of a violent attack on European diplomats and others in the West Bank, despite the incident being witnessed.",
-      "significance": "Netanyahu's skepticism over settler attack undermines Israel's response to violence against its allies, highlighting tensions in the West Bank.",
-      "url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-      "points": [
-        "Netanyahu's office demanded \"serious evidence\" for the \"serious accusations.\"",
-        "The attack targeted European diplomats, French clerics, and a visiting mayor.",
-        "Israel did not pledge to hold attackers accountable post-incident."
-      ]
-    },
-    {
-      "summary": "Free Pascal Compiler and Lazarus IDE now support dynamic packages, enhancing modularity and development speed.",
-      "significance": "The introduction of dynamic packages in the Free Pascal Compiler and Lazarus IDE enables quicker development and deployment of plugins and extensions without needing to rebuild the entire IDE.",
-      "url": "https://www.getlazarus.org/dynamic/",
-      "points": [
-        "Dynamic packages allow for quick installation of components without rebuilding the entire IDE.",
-        "Packages are implemented as shared library files with additional metadata for Linux, Windows, and macOS.",
-        "Lazarus IDE enhancements include a new progress window and a Packages window for managing packages."
-      ]
-    },
-    {
-      "summary": "A deadly fire at Canadian Forces Base Wainwright killed at least four people and injured dozens more.",
-      "significance": "The deadly fire at Canadian Forces Base Wainwright marks one of the worst peace-time military tragedies in Canadian history, affecting dozens and killing at least four.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Prime Minister Mark Carney called it one of the worst peace-time military tragedies in Canadian history.",
-        "The fire broke out around 16:00 local time (22:00 GMT) on Saturday and spread rapidly due to high winds.",
-        "The cause is under investigation, with speculation it may have been triggered by a gas main struck during a live firing exercise."
-      ]
-    },
-    {
-      "summary": "A woman drove her truck into a youth soccer game in Wichita, Kansas, killing two and injuring eleven.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
-      "points": [
-        "Two deceased: a six-year-old boy and a 35-year-old man.",
-        "Eleven injured, ranging from five to 68 years old.",
-        "The driver, a 34-year-old truck driver from Garden City, was taken into custody."
-      ]
-    },
-    {
-      "summary": "Intel introduced the 8087 chip in 1980, significantly speeding up floating-point operations like addition and subtraction.",
-      "significance": "The Intel 8087 chip significantly sped up floating-point operations, enhancing computational performance in 1980s computers.",
-      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-      "points": [
-        "The 8087 sped up addition by a factor of almost 100 compared to the 8086 processor.",
-        "The chip's microcode ROM holds 1648 micro-instructions controlling its operations.",
-        "Floating-point operations require aligning binary points before addition or subtraction."
       ]
     }
   ]
