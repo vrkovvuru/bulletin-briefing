@@ -2,13 +2,22 @@
   "date": "2026-10-25",
   "stories": [
     {
-      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "alsoReportedBy": ["NPR", "The Guardian"]
+    },
+    {
+      "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
-      "alsoReportedBy": ["BBC News"]
+      "summary": "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "Burnham open to 'honest discussion' on EU free movement",
@@ -20,21 +29,39 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Jordanians mourn victims of deadly church attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
+      "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Jordanians mourn victims of deadly church attack",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
+      "title": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
+      "url": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader.",
+      "summary": "Manchester United&#039;s 0-3 home loss to Bournemouth has left the 20-time champions winless in eight Premier League games.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
+      "url": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Kampala says country is Ebola free, but Swiss authorities believe a woman diagnosed in Nigeria was infected in Uganda.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Board of Deputies of British Jews declares Greens to be racist party",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
       "alsoReportedBy": []
     },
     {
@@ -47,42 +74,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "England lose to Pakistan after improbable last-wicket stand",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Seven killed in Gaza as Israel targets university campus and other sites",
-      "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Couple were celebrating anniversary before Bahamas tragedy",
-      "url": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Horror writer Stephen Graham Jones says horror's current moment is powered by more than just fear.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "‘There’s nothing interesting about me – and no interest in me’: how Larry David’s new biography nearly didn’t happen",
       "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen",
       "source": "The Guardian",
@@ -92,12 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen: ‘He’s not going to punk me. I’ll trick him’",
-      "url": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Exclusive: Joshua Loudermilk says suspicions first raised during filming by gun shaped like wearable plastic bottom: ‘You’re gonna put a butt on top of a butt? You can’t run in that’ • This article contains spoilers for Ali G: Who Iz I? Joshua Loudermilk, one of two men apparently discredited by the new Ali G movie Ali G: Who Iz I?, has said that he was in on the joke, but that the film-makers didn’t realise this. Loudermilk, a 54-year-old aspiring actor from North Carolina, has told the Guardian he recognised star Sacha Baron Cohen early in the shoot but continued pretending to be a hard-right Maga sympathiser prepared to defend the US border at all costs. Continue reading...",
+      "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local time (4pm UK), with three hours still to go until the polling stations close. That’s more than 13 percentage points higher than in 2023, and would be the highest turnout since mid-2000s. “ What hasn’t motivated me? There isn’t a single reason I could give that would keep me from showing up at my polling station at 6:20 in the morning.” Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,33 +101,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Demand for UK government action 10 months after British man’s death in Grenada",
-      "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British father whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of diplomatic delays between the two countries. Charity workers supporting the family of Andrew Frederick are demanding immediate government intervention to clear the path for a full investigation to begin almost 10 months after his death, which has been ruled a homicide by a pathologist. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
       "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
       "source": "NPR World",
@@ -146,30 +110,12 @@
       "alsoReportedBy": ["Guardian World"]
     },
     {
-      "title": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
-      "source": "Guardian World",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Man accused of shooting teen, who was driving to a party, has also been linked to shooting of a vehicle days earlier A man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which involve firing into cars on the highway. Alyssa Wilson, 17, was shot and killed as she drove down Interstate 170 in Overland, Missouri, on 14 October. The teen was on her way to a Halloween party at St Louis Zoo, called Boo at the Zoo, when a suspect fired a single shot into the back of Wilson’s Buick Encore. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Exclusive: RACGP survey reflects Medicare investments, but experts caution quality of care and outcomes also matter Get our new political email , free app or daily news podcast The proportion of general practitioners bulk-billing all of their patients has more than doubled in a year, a report has found, after the government introduced financial incentives for doctors and practices. And almost two-thirds (63%) of Australians are now bulk-billed for all their GP care, up from 56% in both 2024 and 2025, which the report says is “likely a reflection of the federal government’s recent investment in Medicare bulk billing incentives”. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "All aboard the TrainTok trend: spotters and staff boost rail content online",
-      "url": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Number of videos about British trains doubles in three months as creators find audiences interested in workings of railways They are not just gathered at the end of your local train station platform any more. Now they are on your social media platforms too. Trainspotters have played a part in more than doubling the number of videos about British trains on TikTok in the last three months. According to the platform, the rise in rail content is also down to more people seeking information on cheap tickets, facts about the London Underground and tales from train staff. Continue reading...",
+      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
       "alsoReportedBy": []
     },
     {
@@ -182,8 +128,62 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "url": "https://bigwhalehunting.com/workforce/",
+      "title": "Demand for UK government action 10 months after British man’s death in Grenada",
+      "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British father whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of diplomatic delays between the two countries. Charity workers supporting the family of Andrew Frederick are demanding immediate government intervention to clear the path for a full investigation to begin almost 10 months after his death, which has been ruled a homicide by a pathologist. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s . The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country’s human rights record. Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s. It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Man accused of shooting teen, who was driving to a party, has also been linked to shooting of a vehicle days earlier A man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which involve firing into cars on the highway. Alyssa Wilson, 17, was shot and killed as she drove down Interstate 170 in Overland, Missouri, on 14 October. The teen was on her way to a Halloween party at St Louis Zoo, called Boo at the Zoo, when a suspect fired a single shot into the back of Wilson’s Buick Encore. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Controversial US-backed vaccine trial in African newborns halted",
+      "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, “we were not given the necessary governmental approval.” Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Exclusive: RACGP survey reflects Medicare investments, but experts caution quality of care and outcomes also matter Get our new political email , free app or daily news podcast The proportion of general practitioners bulk-billing all of their patients has more than doubled in a year, a report has found, after the government introduced financial incentives for doctors and practices. And almost two-thirds (63%) of Australians are now bulk-billed for all their GP care, up from 56% in both 2024 and 2025, which the report says is “likely a reflection of the federal government’s recent investment in Medicare bulk billing incentives”. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,6 +200,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "POSIX wordexp(3) is dangerous",
       "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
       "source": "Lobsters",
@@ -209,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "A few thoughts on intensity",
-      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -221,15 +230,6 @@
       "title": "Vim Classic",
       "url": "https://vim-classic.org/",
       "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "url": "https://github.com/ihhub/fheroes2",
-      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-      "url": "https://github.com/winnin/farol",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",

@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-25T16:41:41.405010Z",
+  "generated": "2026-10-25T18:42:38.586293Z",
   "summaries": [
+    {
+      "summary": "Serbia holds elections with Student List challenging Vučić's rule amid high voter turnout.",
+      "significance": "Serbia's election could end Vučić's 12-year rule as increased voter turnout reflects rising opposition against government corruption.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "points": [
+        "Ipsos/Cesid projects 60.8% turnout, surpassing 2023 by over 13 percentage points.",
+        "Student List movement opposes Vučić's government and institutional corruption.",
+        "Current election could mark the highest turnout since the mid-2000s."
+      ]
+    },
+    {
+      "summary": "Dolly Parton's Imagination Library gifts free books to children aged birth to five across five countries.",
+      "significance": "Dolly Parton's Imagination Library expands access to books for young children worldwide, fostering literacy and dreaming beyond socio-economic barriers.",
+      "url": "https://imaginationlibrary.com/",
+      "points": [
+        "Started in 1995, initially for children in East Tennessee.",
+        "Program mails high-quality, age-appropriate books monthly to children.",
+        "Operates in the US, Canada, UK, Australia, and Ireland, funded by Parton and local partners."
+      ]
+    },
+    {
+      "summary": "Bogomil Shopov invites participation in the Digital Dissident track at FOSDEM 27 to discuss tools against internet censorship.",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "points": [
+        "FOSDEM 2027 will be held on January 30-31 at ULB Campus Solbosch, Brussels.",
+        "The Digital Dissident track focuses on protecting people under threat with a complete chain of tools.",
+        "Previous related talks were scattered across different rooms at FOSDEM 2026."
+      ]
+    },
+    {
+      "summary": "A 10-year-old CNN outperforms advanced LLMs in diagnosing skin cancer from images.",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "points": [
+        "The CNN correctly diagnosed 62% of 200 biopsy-proven lesions, while two LLMs diagnosed 42%.",
+        "The CNN, a fine-tuned Inception v3, was first published by Google in 2015.",
+        "The study used the MILK10k dataset, with lesions confirmed by histopathology."
+      ]
+    },
+    {
+      "summary": "Eugene, Oregon, charges a local news outlet $2.5 million for records on a police officer accused of misconduct.",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "points": [
+        "Eugene Police Department claims processing the request will take 44,816 hours.",
+        "The records request focuses on potential misconduct by Officer Justin Peckels between 2018 and 2026.",
+        "The city recently invested in automated license plate readers, highlighting a technology double standard."
+      ]
+    },
+    {
+      "summary": "New benchmark, Humanity\u2019s Sixth Sense, reveals AI models' limitations in intuitive visual reasoning, while discussing AI's potential in space and its research taste.",
+      "significance": "HSS benchmark reveals current AI models' limitations in intuitive visual reasoning, challenging assumptions about the necessity of sophisticated world models for such tasks.",
+      "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+      "points": [
+        "AI models scored an average of 53.6% on Humanity\u2019s Sixth Sense benchmark, significantly lower than the human baseline of 93.1%.",
+        "Chinese open weight models performed poorly, with GLM-5.3-flash and Kimi K3 scoring 26.8% and 25.5% respectively.",
+        "AI could enable significant advancements in space, including self-replicating probes and an industrial flywheel effect, potentially leading to economic and strategic dominance."
+      ]
+    },
     {
       "summary": "Venezuelan opposition leader María Corina Machado returns from exile after Maduro's ouster.",
       "significance": "Machado's return signals renewed opposition activity in Venezuela's uncertain political landscape post-Maduro.",
@@ -3688,63 +3745,6 @@
         "Running your own proxy allows control over multi-provider, multi-model setups at a single endpoint.",
         "It enables logging of key usage, model calls, client interactions, and status tracking.",
         "Owning infrastructure provides better application visibility and data pathing for informed decision-making."
-      ]
-    },
-    {
-      "summary": "Meta temporarily suspended No Kings' Instagram account during a protest, raising concerns over censorship.",
-      "significance": "Suspension of No Kings' Instagram account during protests fuels fears of censorship, impacting organizers' ability to communicate.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
-      "points": [
-        "No Kings' Instagram account was suspended for several hours during a protest.",
-        "The protest aimed to increase early voter turnout.",
-        "The coalition leaders organize nationwide pro-democracy protests involving millions."
-      ]
-    },
-    {
-      "summary": "Labor promises to cap Victorian public transport fares at $30 weekly starting January 1 if re-elected.",
-      "significance": "Labor's promise caps Victorian public transport costs, offering annual savings to regular commuters, especially full-time workers.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/labor-promises-30-weekly-cap-for-victorian-public-transport-amid-push-for-free-travel",
-      "points": [
-        "Premier Ben Carroll announced the $30 weekly cap on public transport fares.",
-        "The cap begins on January 1, following the end of half-price fares.",
-        "The measure aims to provide $1,400 annual savings for regular commuters."
-      ]
-    },
-    {
-      "summary": "Jacqui Lambie criticizes a One Nation cartoon that mocks her health condition.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/jacqui-lambie-one-nation-pauline-hanson-please-explain-ntwnfb",
-      "points": [
-        "Cartoon is part of Pauline Hanson\u2019s Please Explain series.",
-        "Targets Digital Duty of Care legislation aimed at online safety.",
-        "Independent senator Monique Ryan supports Jacqui Lambie."
-      ]
-    },
-    {
-      "summary": "UK steelmakers face higher electricity costs compared to EU rivals due to increased global gas prices.",
-      "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
-      "points": [
-        "Electricity premium for UK steelmakers over French rivals reached almost £30 per MWh.",
-        "Cost disparity is at its highest in three years, according to UK Steel analysis.",
-        "Surge in global gas prices, partly due to US-Israeli conflict with Iran, exacerbated costs."
-      ]
-    },
-    {
-      "summary": "Autodesk attempted to trademark \"cyberspace,\" leading to a feud with William Gibson, who was rumored to retaliate by trademarking \"Eric Gullichsen.\"",
-      "significance": "The story highlights the early tensions and pranks surrounding the commercialization of cyber terminology in the late 20th century.",
-      "url": "https://colo.to/cyberspace.html",
-      "points": [
-        "In 1989, Autodesk applied for a trademark on \"cyberspace.\"",
-        "Timothy Leary spread the rumor that Gibson retaliated by trademarking \"Eric Gullichsen.\"",
-        "The feud was resolved at Art Futura 1990 in Barcelona."
-      ]
-    },
-    {
-      "summary": "A woman criticizes \"Women in tech\" panels and calls for men to address the issues faced by women in the tech industry.",
-      "url": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
-      "points": [
-        "The article shares experiences of a woman facing issues in her tech career.",
-        "It highlights the recurring nature of these issues, noting they happen frequently.",
-        "The author urges men to take action and discuss these issues with their peers."
       ]
     }
   ]
