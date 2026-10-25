@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-25T20:41:59.740819Z",
+  "generated": "2026-10-25T22:41:58.415734Z",
   "summaries": [
+    {
+      "summary": "Storm Boelo caused severe weather in the UK, resulting in two deaths and widespread power outages.",
+      "significance": "Storm Boelo causes fatalities and widespread power outages, affecting over 160,000 properties across the UK.",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "161,400 properties were without power as of Sunday at 15:00 GMT.",
+        "A 20-something man died in north London when a tree fell on his car.",
+        "A 60-year-old man died in Dumfries and Galloway, Scotland, hit by a falling tree."
+      ]
+    },
+    {
+      "summary": "Marine Le Pen launched her presidential campaign in France, vowing to restore order amid ongoing protests.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+      "points": [
+        "Marine Le Pen presented herself as a leader to restore stability in France.",
+        "The campaign launch was met with cheers from the crowd.",
+        "Protests have been ongoing in France for weeks leading up to the launch."
+      ]
+    },
+    {
+      "summary": "Serbian leader Aleksandar Vučić concedes defeat in parliamentary election, marking a shift after 12 years in power.",
+      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+      "points": [
+        "Vučić's defeat follows two years of student-led protests against his government.",
+        "Preliminary results indicate a potential majority for the student-led movement in the 250-seat parliament.",
+        "The election saw a record turnout, signaling a significant political change in Serbia."
+      ]
+    },
+    {
+      "summary": "Australian MP Zali Steggall calls for civility and respect amid political disagreements.",
+      "significance": "MP Steggall calls for increased civility and respect in politics, highlighting the abuse and threats faced by politicians, especially on social media.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "points": [
+        "Steggall emphasizes importance of leadership and words in fostering respect.",
+        "MP highlights abuse and threats received through social media and electorate office calls.",
+        "Steggall notes security focus should be on MPs when interacting with the community."
+      ]
+    },
+    {
+      "summary": "Walt Disney Animation Studios details the collaborative process from development to final delivery in creating animated films.",
+      "significance": "The story details the intricate collaborative process and technological advancements involved in creating animated films, highlighting the depth of work from development to final delivery.",
+      "url": "https://www.disneyanimation.com/process/",
+      "points": [
+        "Animation process takes an average of three to five years.",
+        "Walt Disney Animation Research Library houses over 65,000,000 assets.",
+        "Technology teams focus on data access, collaboration, safety, and artist-friendly tools."
+      ]
+    },
+    {
+      "summary": "A childhood fascination with computer games and demos led Jonny to pursue programming.",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "points": [
+        "Jonny's childhood was marked by secretive computer use due to the risk of theft in his neighborhood.",
+        "He discovered the demoscene through BBSes, which inspired him to create rather than just play games.",
+        "After finding and following a tutorial, Jonny decided to become a programmer to create demos himself."
+      ]
+    },
     {
       "summary": "Student protests in France over education have escalated into widespread unrest, with media coverage focusing on violence rather than demands.",
       "significance": "The narrative battle over France\u2019s unrest highlights how media portrayal can skew public perception, favoring violence over protest demands.",
@@ -3687,62 +3744,6 @@
         "The series consists of 16 chapters detailing the development of a ~300-line toy agent.",
         "Each chapter addresses a specific failure and its minimal patch.",
         "The content is best viewed online, though the source is available on GitHub."
-      ]
-    },
-    {
-      "summary": "A method to automatically find optimal formulas for floating-point calculations through brute-force was developed.",
-      "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-      "points": [
-        "The brute-force approach searched through combinations of operations and constants.",
-        "The search algorithm used inductive formula set building and culling to reduce complexity.",
-        "The method found a formula with reused operations, optimizing floating-point calculations."
-      ]
-    },
-    {
-      "summary": "A speech at the IMF meeting in Bangkok argued that AI is entering a phase of rapid, autonomous progress, signaling the beginning of the singularity.",
-      "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
-      "points": [
-        "Delivered on October 17th, the speech highlighted AI's current impact on national security and the global economy.",
-        "The speaker, with a background in journalism and AI research, claims AI systems now operate at the frontier of human science, sometimes autonomously.",
-        "AI-driven scientific invention is expected to change global economies, infrastructure, and health, but also poses significant risks."
-      ]
-    },
-    {
-      "summary": "New Zealand's healthcare system faces severe strain, impacting patients and becoming a critical election issue.",
-      "significance": "The strained healthcare system in New Zealand, exemplified by personal struggles, centralizes healthcare as a critical election issue, affecting voters' choices.",
-      "url": "https://www.theguardian.com/world/2026/oct/19/new-zealand-election-strained-healthcare-system",
-      "points": [
-        "Jane Harrison and her husband, Shaun Fitzgerald, both on disability assistance due to health issues.",
-        "Fitzgerald's back surgery in August 2025 was ineffective, leading to repeated emergency visits.",
-        "Paramedics advised against hospitalization due to lack of beds, leaving patients to wait at home."
-      ]
-    },
-    {
-      "summary": "Broadway revival of \"Other Desert Cities\" features notable performances by Julia Louis-Dreyfus, Ed Harris, and others.",
-      "url": "https://www.theguardian.com/stage/2026/oct/19/other-desert-cities-review-julia-louis-dreyfus-ed-harris-broadway",
-      "points": [
-        "Julia Louis-Dreyfus and Joe Keery make their Broadway debuts.",
-        "Ed Harris, Allison Janney, and Lily Rabe return to Broadway.",
-        "Play is a Pulitzer finalist and addresses timely political issues."
-      ]
-    },
-    {
-      "summary": "Greens leader David Shoebridge says Jordon Steele-John agreed to take leave amid misconduct allegations, contradicting Steele-John's claims.",
-      "significance": "The story matters as it highlights internal conflict within the Greens over Jordon Steele-John's leave, affecting the party's cohesion and leadership dynamics.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/david-shoebridge-jordon-steele-john-greens-emergency-meeting-ntwnfb",
-      "points": [
-        "Shoebridge claims Steele-John agreed to leave parliament during investigation.",
-        "Steele-John denies agreement, accuses Greens of political games.",
-        "Steele-John released explosive statement accusing internal faction misconduct."
-      ]
-    },
-    {
-      "summary": "Accused police officer Beau Lamarre-Condon allegedly told a friend \"I love you\" and \"not everything in the news is true\" after being arrested for a double murder.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/beau-lamarre-condon-told-cop-friend-i-love-you-and-not-everything-in-the-news-is-true-after-arrest-court-told-ntwnfb",
-      "points": [
-        "Lamarre-Condon, 31, allegedly murdered Jesse Baird and Luke Davies with his police service weapon.",
-        "The alleged murders took place in Baird\u2019s Paddington home on February 19, 2024.",
-        "Lamarre-Condon made the remarks to a friend a month after his arrest."
       ]
     }
   ]
