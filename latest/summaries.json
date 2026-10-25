@@ -1,6 +1,71 @@
 {
-  "generated": "2026-10-25T14:42:32.297124Z",
+  "generated": "2026-10-25T16:41:41.405010Z",
   "summaries": [
+    {
+      "summary": "Venezuelan opposition leader María Corina Machado returns from exile after Maduro's ouster.",
+      "significance": "Machado's return signals renewed opposition activity in Venezuela's uncertain political landscape post-Maduro.",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "points": [
+        "Machado announced her return on social media with \"I am here. With you.\"",
+        "Acting President Delcy Rodríguez has exceeded her authorized term without elections.",
+        "Machado and allies demand a presidential election date, but U.S. officials prioritize economic stabilization."
+      ]
+    },
+    {
+      "summary": "Jordanians mourn and bury eight of nine victims killed in a church shooting that also wounded 40 others.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
+      "points": [
+        "Eight of the nine victims were buried in Jordan.",
+        "The attack wounded 40 people in addition to the fatalities.",
+        "Authorities continue to search for the attackers."
+      ]
+    },
+    {
+      "summary": "Larry David's authorized biography, 'Emperor of Nothing,' was nearly not published due to David's reluctance to participate.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen",
+      "points": [
+        "Author Blake J Harris convinced David after gaining media attention for his previous book.",
+        "Harris's previous work, 'The History of the Future,' covered Oculus and virtual reality.",
+        "The biography process involved David refusing and begging the author not to talk to others about him."
+      ]
+    },
+    {
+      "summary": "Actor Joshua Loudermilk claims he was in on the joke during the filming of Ali G: Who Iz I?, despite appearing to be duped.",
+      "url": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
+      "points": [
+        "Joshua Loudermilk, 54, from North Carolina, recognized Sacha Baron Cohen early in filming.",
+        "Loudermilk pretended to be a hard-right MAGA supporter throughout the shoot.",
+        "The movie includes a scene with a gun shaped like a plastic bottom, raising suspicions."
+      ]
+    },
+    {
+      "summary": "Interactive visualization shows S&P 500 companies as bubbles, sized by market cap, with employees represented inside.",
+      "url": "https://bigwhalehunting.com/workforce/",
+      "points": [
+        "Bubbles' areas reflect companies' market capitalization.",
+        "Density of figures within bubbles indicates employees per dollar of market cap.",
+        "Data uses latest annual report figures, potentially up to a year old."
+      ]
+    },
+    {
+      "summary": "Intensity is argued as the most critical trait for successful startups, over intelligence or charisma.",
+      "significance": "The story highlights that intensity, not just intelligence or positivity, is crucial for the success of startups, based on observations and examples of successful founders.",
+      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+      "points": [
+        "Intensity observed in 3 exceptional startups the author was part of.",
+        "Notable founders like Steve Jobs, Elon Musk, and Warren Buffett exemplify intensity.",
+        "Intensity described as a high degree of focused effort, crucial for startup success."
+      ]
+    },
+    {
+      "summary": "Vim Classic, a fork of Vim 8.x, releases its first version, 8.3.0, for long-term maintenance.",
+      "url": "https://vim-classic.org/",
+      "points": [
+        "Vim Classic 8.3.0 is the first release, focusing on stability and long-term support.",
+        "The project aims to continue Bram Moolenaar's legacy of supporting users.",
+        "Development of Vim Classic does not use generative AI tools."
+      ]
+    },
     {
       "summary": "Man accused of shooting and killing a Missouri teen on a highway has been charged in a second shooting incident.",
       "url": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
@@ -3680,73 +3745,6 @@
         "The article shares experiences of a woman facing issues in her tech career.",
         "It highlights the recurring nature of these issues, noting they happen frequently.",
         "The author urges men to take action and discuss these issues with their peers."
-      ]
-    },
-    {
-      "summary": "A user detailed their extensive efforts to report a critical Android bug affecting screen readers, only to be told the issue fell outside Google Disability Support's scope.",
-      "url": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
-      "points": [
-        "The bug disables touch exploration for all screen readers until a phone reboot.",
-        "The user provided root cause analysis, recovery methods, and two patches, all done voluntarily.",
-        "Despite initial progress on the public issue tracker, Disability Support stated that technical development and framework patches are outside their scope."
-      ]
-    },
-    {
-      "summary": "A new version of the llm-echo debug plugin updates token usage counts.",
-      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-      "points": [
-        "New release updates token usage to include tool calls, system prompts, reasoning tokens.",
-        "Example command: `uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage`",
-        "Outputs token usage: 2 input, 24 output tokens."
-      ]
-    },
-    {
-      "summary": "New benchmark, Humanity\u2019s Sixth Sense, reveals AI models' limitations in intuitive visual reasoning, while discussing AI's potential in space and its research taste.",
-      "significance": "HSS benchmark reveals current AI models' limitations in intuitive visual reasoning, challenging assumptions about the necessity of sophisticated world models for such tasks.",
-      "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
-      "points": [
-        "AI models scored an average of 53.6% on Humanity\u2019s Sixth Sense benchmark, significantly lower than humans' 93.1%.",
-        "Chinese open weight models performed poorly, with GLM-5.3-flash scoring 26.8% and Kimi K3 scoring 25.5%.",
-        "AI could create a compounding advantage in space, potentially leading to economic and strategic dominance through self-replicating probes and industrial flywheels."
-      ]
-    },
-    {
-      "summary": "A fast-moving fire at a Canadian military base in Alberta killed four and injured dozens.",
-      "significance": "The incident marks one of the worst tragedies for Canadian forces on peacetime soil, affecting military personnel and operations.",
-      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "points": [
-        "Prime Minister Mark Carney described it as one of the worst peacetime tragedies on Canadian soil.",
-        "The incident occurred at one of Canada\u2019s busiest military training bases in Alberta.",
-        "Dozens were seriously injured in addition to the four fatalities."
-      ]
-    },
-    {
-      "summary": "A Sydney man was charged after police were alerted to an alleged stolen car and armed individual in Dulwich Hill.",
-      "significance": "A man was charged after police were alerted to an alleged stolen car and armed individual, leading to a lockdown in Dulwich Hill.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb",
-      "points": [
-        "Police were called to Williams Parade, Dulwich Hill, around 10:20 AM on a Friday.",
-        "The initial call was about an alleged stolen car.",
-        "The man was charged with multiple offences following the investigation."
-      ]
-    },
-    {
-      "summary": "Descendant welcomes biography of Sarah Forbes Bonetta, who was given to Queen Victoria as a \"diplomatic gift\" from an African king.",
-      "url": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
-      "points": [
-        "Bonetta was seven when presented to Queen Victoria at Windsor Castle.",
-        "Queen Victoria paid for Bonetta\u2019s education and approved her marriage.",
-        "Victoria became godmother to Bonetta\u2019s eldest daughter."
-      ]
-    },
-    {
-      "summary": "Researchers introduce Hybrid Reasoning Agents that combine latent reasoning and text-based interaction for improved performance and efficiency.",
-      "significance": "Hybrid Reasoning Agents improve LLM performance by 10.4%, reduce tokens by 35.5%-54.7%, and offer faster, cheaper inference by blending latent reasoning with text-based interaction.",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "points": [
-        "HybridAgents improve performance by 10.4% across 11 benchmarks.",
-        "The architecture includes HybridLink for seamless text-latent transitions and continuous working memory.",
-        "Compared to other methods, HybridAgent offers 1.8x-2.6x faster inference and 2.7x-3.7x cost savings."
       ]
     }
   ]
