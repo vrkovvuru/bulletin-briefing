@@ -2,21 +2,57 @@
   "date": "2026-10-24",
   "stories": [
     {
-      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
-      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+      "title": "Burnham open to 'honest discussion' on EU free movement",
+      "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
+    },
+    {
+      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
+      "summary": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
       "alsoReportedBy": []
     },
     {
-      "title": "How data centers became a bipartisan political issue in Wisconsin",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
+      "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Data centers are a big issue across the country. As midterms approach, many look to the swing state of Wisconsin for lessons for how that issue could play out nationally.",
+      "summary": "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Donald Trump praised First Lady as &#039;better than professionals&#039; after a localised Russia-Ukraine ceasefire in Oleshky.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+      "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
       "alsoReportedBy": []
     },
     {
@@ -29,66 +65,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Brazil’s candidates hold final rallies before knife-edge run off",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-      "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Tehran warns that even limited strikes would trigger a response &#039;several times greater&#039;.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
-      "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Perspective: The next James Bond",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+      "summary": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
       "alsoReportedBy": []
     },
     {
-      "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
-      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "title": "How data centers became a bipartisan political issue in Wisconsin",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Data centers are a big issue across the country. As midterms approach, many look to the swing state of Wisconsin for lessons for how that issue could play out nationally.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro More than one million supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, Flávio Bolsonaro . Nearly 159m Brazilians will vote in the election’s runoff on Sunday, with the pair tied in the polls after Bolsonaro won the first round on 4 October by 47% to 45%. Continue reading...",
+      "summary": "Former president speaks to crowd of thousands in support of Abdul El-Sayed for US Senate and Democratic ticket Barack Obama told a Detroit crowd on Saturday that Abdul El-Sayed was “fighting for change, real change, that will get money out of politics and put money in your pocket”, as he threw his weight behind the Democratic Senate candidate and the rest of the ticket on the first day of early voting in Michigan. Obama said in front of thousands of onlookers at Cass technical high school in Detroit that El-Sayed would “finish the job we started with the Affordable Care Act and guarantee quality, affordable healthcare to every single American”. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,12 +110,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Healey’s first budget to include big devolution package to boost growth",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
+      "title": "California leaders rebuke Trump administration’s push over alleged noncitizen voting",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Chancellor will build on Burnham’s promise that local leaders in England will no longer have to ‘come cap in hand to Westminster’ Andy Burnham has promised that local leaders in England will no longer have to come “cap in hand to Westminster” ahead of a fresh drive to devolve spending power in next week’s budget. In his statement on Wednesday, the chancellor, John Healey, will include plans for a new £1.5bn borrowing facility, to be drawn up in collaboration with mayors over the next two years. Continue reading...",
+      "summary": "Election personnel concerned directive to ‘quickly’ verify 20,000 ballots could disenfranchise citizens California’s top leaders have rebuked the Trump administration’s efforts to quash alleged noncitizen voting. Less than two weeks before the midterms, federal prosecutors called upon California election officials to verify within 48 hours a list of about 20,000 ballots belonging to suspected noncitizens. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -128,21 +128,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme Get our breaking news email , free app or daily news podcast Four people have been injured after a drive-by shooting outside a venue hosting a boxing event. Police said they responded to reports of shots being fired from a vehicle outside a licensed premises in Loganholme, south of Brisbane, at 8.15pm. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Who are the candidates in Brazil's presidential election?",
       "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "European student protests take aim at Serbia's elections",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
       "alsoReportedBy": []
     },
     {
@@ -155,6 +155,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "European student protests take aim at Serbia's elections",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Healey’s first budget to include big devolution package to boost growth",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Chancellor will build on Burnham’s promise that local leaders in England will no longer have to ‘come cap in hand to Westminster’ Andy Burnham has promised that local leaders in England will no longer have to come “cap in hand to Westminster” ahead of a fresh drive to devolve spending power in next week’s budget. In his statement on Wednesday, the chancellor, John Healey, will include plans for a new £1.5bn borrowing facility, to be drawn up in collaboration with mayors over the next two years. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
       "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
       "source": "Guardian World",
@@ -164,26 +182,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Controversial US-backed vaccine trial in African newborns halted",
-      "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, “we were not given the necessary governmental approval.” Continue reading...",
+      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Two rescued after Nairobi building collapse with five still missing",
-      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,15 +209,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
       "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
       "source": "Lobsters",
@@ -218,18 +218,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
       "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Indian government sites are serving revoked eMudhra certificates",
-      "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
-      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -265,6 +256,15 @@
     {
       "title": "Roku developer repositories moved from GitHub to GitLab",
       "url": "https://blog.roku.com/developer/gitlab-move",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",

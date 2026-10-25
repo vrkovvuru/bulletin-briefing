@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-24T22:40:56.963672Z",
+  "generated": "2026-10-25T00:41:43.815619Z",
   "summaries": [
+    {
+      "summary": "Obama supports Abdul El-Sayed for US Senate, rallying thousands in Detroit.",
+      "significance": "Obama's endorsement of El-Sayed amplifies Democratic campaign efforts, focusing on continuing healthcare reforms and reducing political corruption.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+      "points": [
+        "Obama spoke at Cass Technical High School in Detroit.",
+        "Event occurred on the first day of early voting in Michigan.",
+        "Obama highlighted El-Sayed's commitment to healthcare and reducing political corruption."
+      ]
+    },
+    {
+      "summary": "California leaders criticize Trump administration's push to verify 20,000 ballots linked to suspected noncitizens before midterms.",
+      "significance": "California leaders oppose Trump administration's urgent request to verify ballots from suspected noncitizens, fearing potential disenfranchisement of citizens.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
+      "points": [
+        "California officials rebuked the directive to verify ballots within 48 hours.",
+        "Federal prosecutors requested verification of about 20,000 ballots.",
+        "The request came less than two weeks before the midterm elections."
+      ]
+    },
+    {
+      "summary": "Four people were injured in a drive-by shooting outside a boxing event venue in Loganholme.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
+      "points": [
+        "Four individuals were hurt in the incident.",
+        "The shooting occurred outside a licensed premises hosting a boxing event.",
+        "Police responded to the shooting report at 8:15pm."
+      ]
+    },
+    {
+      "summary": "America has lost over 200k jobs in creative industries, with AI potentially playing a significant role.",
+      "significance": "The story highlights significant job losses in American creative industries, potentially linking the decline to the rise of AI, marking a possible shift in the future of creative employment.",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "points": [
+        "Over 200k jobs lost in media, film, and arts over four years, with 50k lost in the last year.",
+        "Movie & sound recording sector lost more than 100k jobs, nearly one-third of the sector\u2019s total.",
+        "Job losses are widespread across nearly every subsector and show no signs of abating."
+      ]
+    },
+    {
+      "summary": "The article discusses the potential for more ambitious software projects, using pgrust as an example of a project that, despite skepticism, has contributed to improving Postgres through rigorous testing.",
+      "url": "https://danluu.com/ambitious/",
+      "points": [
+        "pgrust, a project by Malis, has uncovered real bugs in Postgres, such as a numerical bug and a format cache bug.",
+        "The project's main pitch is performance improvement, with potential optimizations benefiting Postgres and other databases.",
+        "The author argues that advancements in technology have made it feasible to undertake more ambitious software projects with reasonable testing and benchmarking."
+      ]
+    },
     {
       "summary": "Brazil's presidential candidates held final rallies ahead of Sunday's runoff election, which is too close to call.",
       "significance": "The final rallies highlight the closely contested runoff, where either Lula da Silva or Flavio Bolsonaro could win, impacting Brazil's future policies and stability.",
@@ -3703,51 +3751,6 @@
         "1,800 people arrested during the protests in France.",
         "Protests have spread to Italy and Portugal, involving riots and property damage.",
         "Interior minister declares the government will not yield to the protests."
-      ]
-    },
-    {
-      "summary": "EPA modifies claim on website about phasing out toxic Pfas compounds despite allowing their production.",
-      "url": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
-      "points": [
-        "EPA found no safe level of Pfoa and Pfos exposure in drinking water.",
-        "International Agency classifies Pfoa as \"carcinogenic to humans,\" Pfos as \"possibly carcinogenic.\"",
-        "EPA allows Inhance to produce up to 200m plastic containers annually from which Pfoa leaches."
-      ]
-    },
-    {
-      "summary": "New NHS England policy restricting trans people from using same-sex wards may cause delays, discrimination, and avoidance of healthcare.",
-      "url": "https://www.theguardian.com/society/2026/oct/18/nhs-england-guidance-single-sex-wards-trans-people-adverse-impacts-report",
-      "points": [
-        "Trans people could face delays and increased \"corridor care\" under new guidance.",
-        "Internal report warns of potential discrimination against trans individuals.",
-        "Policy may lead trans people to avoid healthcare altogether due to fears."
-      ]
-    },
-    {
-      "summary": "Some conservative states are not using Medicaid hardship exemptions, possibly for political reasons.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/18/medicaid-hardship-exemptions-conservative-states",
-      "points": [
-        "New federal work requirements for Medicaid start 1 January.",
-        "Adults must work, attend school, volunteer, or participate in another qualifying activity 80 hours a month.",
-        "Missouri and Iowa are among states rejecting hardship exemptions for political reasons."
-      ]
-    },
-    {
-      "summary": "Three men sentenced to over 158 years in prison for murdering Australian and US surfers in Baja California.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
-      "points": [
-        "Sentenced to 158 years and nine months each for the murders.",
-        "Victims were Australian brothers Jake and Callum Robinson, and American Carter Rhoad.",
-        "Crimes occurred during a 2024 surf trip in Baja California."
-      ]
-    },
-    {
-      "summary": "Liberal Democrat MPs' meeting, expected to challenge Ed Davey's leadership, resulted in minor grumbles but no formal opposition.",
-      "url": "https://www.theguardian.com/politics/2026/oct/18/lib-dem-opposition-ed-davey-leadership-challenge-fails-to-materialise",
-      "points": [
-        "Meeting held in a Commons committee room on Tuesday evening.",
-        "Attendees expressed disappointment, describing it as a \"damp squib.\"",
-        "No formal challenge to Ed Davey's leadership materialized despite initial expectations."
       ]
     }
   ]
