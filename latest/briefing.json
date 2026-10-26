@@ -1,104 +1,115 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "stories": [
     {
-      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
-      "alsoReportedBy": ["BBC News", "The Guardian", "Al Jazeera"]
+      "summary": "President Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his loyalty to the United States.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "Lula thanks Brazil’s youth for historic election win",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Lula wins but faces hostile Congress and divided country",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
-      "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Al Jazeera looks at the key takeaways from the US president&#039;s campaign event in Michigan ahead of the midterm vote.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Brazil's left-wing President Lula elected for fourth term",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Ukraine war briefing: Trilateral peace talks with Russia to restart, says Zelenskyy",
-      "url": "https://www.theguardian.com/world/2026/oct/26/ukraine-war-briefing-trilateral-us-ukraine-russia-talks-restart-november",
+      "title": "What you need to know about the most consequential election in Israel\u2019s history",
+      "url": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Ukraine will not discuss limits to its armed forces or enforced neutrality at November meeting, president says. What we know on day 1,706 A trilateral meeting between Kyiv, Washington and Moscow will take place in November aiming to restart stalled Russia-Ukraine peace talks, Volodymyr Zelenskyy has said . “We are ready to talk. If it’s a territorial issue, it must be addressed at a leadership level. Other issues fall within the remit of the technical groups. All this can therefore be discussed in November,” the Ukrainian president said on Sunday in an interview. Zelenskyy also renewed his push ⁠for a meeting between him and Vladimir Putin, believing that Putin is the only person ​in Russia who can make major decisions to end ​the war. Zelenskyy says that at the trilateral talks, Ukraine will not discuss limits to its armed forces, or enforced postwar neutrality . Kyiv has long sought entry into Nato despite the reticence of some members. Meanwhile, US warnings about imminent ⁠Russian ballistic missile strikes, critical to Ukraine’s air defences, have been fully restored , according to Zelenskyy. He told Ukraine’s ⁠TSN television channel that SpaceX’s ​Starshield satellite internet had been working at speeds of up to 420km/h since early on Saturday, after a meeting with the US special envoy Steve Witkoff in Oslo. Starshield was throttled earlier in October amid diplomatic pressure on Kyiv from Washington. The US has been trying to pressure Ukraine to suspend strikes on Russian oil refineries , which it says push energy prices higher. However, Zelenskyy has repeatedly said Kyiv will only stop the strikes if Moscow stops hitting Ukraine’s power infrastructure, or if the US allows Ukraine to use of Starshield ‌over Russia to detect launch places of its ballistic missiles, or if it supplies Ukraine with Patriot missiles. Zelenskyy on Sunday said Russia had launched nearly 2,300 drones targeting Ukrainian cities over the past week , renewing his call on western allies to speed up deliveries of interceptors. “This week alone, Russia has launched about 1,600 guided bombs, 48 missiles of various types, including ballistic missiles, and almost 2,300 strike drones at Ukraine,” he wrote in an online post. Russia’s defence ⁠ministry said on ⁠Sunday ​its drones had struck a ⁠cargo vessel bound for the Black Sea port of ⁠Chornomorsk in an overnight ​attack ‌and another cargo ‌vessel en route to the ‌port of Odesa during the day. The ministry said the vessels were being used to supply the Ukrainian army. Russian ‌forces also hit a logistics centre, a ​distribution centre and a logistics terminal in the Ukrainian city of Kharkiv overnight. Reuters could not confirm the reports. A Ukrainian drone attack overnight on the Russian border city ⁠of Belgorod killed ⁠three people ​and injured 13, local authorities said on Sunday , while ⁠a separate drone strike later in the day killed another person. The overnight attack on Belgorod ​damaged 30 apartment buildings, regional governor ⁠Alexander Shuvayev said. The presidential election in Bulgaria on Sunday ended inconclusively, with the next head of state to be picked in a runoff. In a surprisingly strong performance, the candidate of the pro-western reformist opposition, Andrey Gyurov, will face the incumbent leftist president, Iliana Yotova. Iotova opposes military aid to Ukraine and favours dialogue with Russia, while Gyurov has often expressed firm support for Kyiv . The vote was held amid security concerns after a series of drone attacks on ships in the Black Sea . Continue reading...",
+      "summary": "Benjamin Netanyahu seeks a new mandate in Israel\u2019s first election since the 7 October 2023 Hamas attacks On Tuesday Israel holds its first election since the 7 October 2023 Hamas attacks, the deadliest day in the country\u2019s history, which resulted in the deaths of about 1,200 people, the majority of them civilians. Since then Israel has pursued a war of annihilation in Gaza, launched two inconclusive wars with Iran, and intensified a campaign of state-backed ethnic cleansing in the occupied West Bank. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+      "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Uncertainty remains over key positions after student-led movement deals a blow to longtime leader&#039;s political dominance.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+      "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Republicans are spending millions on the midterms, and they still may not win districts drawn to favor them. And, Brazil's Luiz In\u00e1cio Lula da Silva won a fourth term in a stunning political comeback.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
+      "url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Defence ministers from France, Germany, Italy, Poland and the UK to discuss increasing military assistance to Ukraine.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "What is walking down the newly-pedestrianised Oxford Street like?",
+      "url": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The first phase of the overhaul is expected to be finished by spring 2027.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Healey to shield low-income pensioners from income tax in the Budget",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Saudi-led coalition says it struck Houthi missile facilities",
+      "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Coalition says it destroyed ballistic missile launchers as well as tunnels and a depot used to store missiles.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "What makes special education teaching jobs so hard to fill? NPR set out to find some answers by talking to more than a dozen teachers who do this work every day.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Russia says it will open humanitarian corridor to Ukrainian town",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "alsoReportedBy": ["NPR World"]
+      "summary": "Russia says it will open a humanitarian corridor to the occupied Ukrainian town of Oleshky, where people have been eating weeds and pickles to survive while trapped by minefields, shelling and drones.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Calculations from the Center for Global Development say spending next year is likely to be \u00a3410m less than anticipated The UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated \u00a3400m by the end of next year. Calculations from the Center for Global Development (CGD) found the UK was on course for a large shortfall in promised official development assistance at the end of 2027. Continue reading...",
+      "alsoReportedBy": []
     },
     {
       "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
@@ -110,80 +121,71 @@
       "alsoReportedBy": []
     },
     {
-      "title": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australia politics live: Plibersek notes ‘industrial scale of abuse’ but urges young women not to be turned off entering politics",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make sure there is more civility and respect. Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff It’s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats. There’s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House. I think the vulnerability is actually when we’re out doing our job in the community, and that’s probably where we need to put the focus. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birth A birthkeeper who allegedly “groomed” pregnant women to fear hospital could be referred to prosecutors to face potential criminal charges, a Victorian coroner has heard. Stacey Warnecke died in September 2025 at Frankston hospital in Melbourne after giving birth at home and suffering a postpartum haemorrhage with birthkeeper Emily Lal by her side, having paid her $6,000 to support her throughout pregnancy. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Former police officer accused of shooting dead Jesse Baird and Luke Davies apologised to friend, acknowledging ‘you’re involved because of me’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A covert recording captured Beau Lamarre-Condon telling a friend during a meeting in prison in December last year, “I fully take accountability that you’re involved because of me now,” a Sydney court has heard. Lamarre-Condon, 31, is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen Haines Get our breaking news email , free app or daily news podcast Victoria’s emergency services minister believes he is being followed and fears for his family’s safety after a bullet, etched with the word “RAT” and his former firefighter number, was left on his car. The Herald Sun first reported on Monday that Paul Edbrooke had returned to his car after a community event in his Frankston electorate on Saturday and found the bullet on the bonnet. He later told reporters he had only been away from the car for about an hour and made the “chilling” discovery on his return. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-      "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the Ugandan-born wife of a Swiss diplomat based in Abuja, had not travelled to the Democratic Republic of ⁠Congo, where the outbreak was first detected in mid-May before spreading to Uganda, Kenya and now Nigeria. The woman was believed to have contracted Ebola while travelling with her husband in Uganda, the ministry added. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+      "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
       "alsoReportedBy": []
     },
     {
-      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "title": "Chris Brown given suspended sentence over bottle attack at London club",
+      "url": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s . The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country’s human rights record. Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s. It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993. Continue reading...",
+      "summary": "R&B singer sentenced to eight months imprisonment suspended for 12 months over incident in Mayfair in 2023 The R&B singer Chris Brown has been given a suspended sentence after striking a man twice in the head with a tequila bottle in a central London club. Brown, 37, admitted affray earlier this year after attacking a former friend with a \u201cheavy\u201d tequila bottle on the dancefloor at the Tape private members\u2019 club in Mayfair in February 2023. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: TitleArt – Make text like it's 1997",
-      "url": "https://titleart.dvy.io/",
+      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Australian Signals Directorate chief says advanced AI tools are needed to defend against \u2018AI-enabled attackers\u2019 Get our daily political email , free app or daily news podcast Australians should prepare for more basic and important online services to go offline unexpectedly, the nation\u2019s signals intelligence agency has warned, urging that \u201csystem security must be prioritised over system availability\u201d. The Australian Signals Directorate (ASD) also says businesses and critical infrastructure must use cutting-edge AI models to defend against digital threats, raising alarm that artificial intelligence is enabling more dangerous threats than ever. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Five ways Trump has changed immigration in the US",
+      "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Stunning photos capture October's Hunter's Moon around the world",
+      "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Brazil keeps left: what Lula\u2019s victory means for his country and beyond",
+      "url": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "In today\u2019s newsletter: As Luiz In\u00e1cio Lula da Silva secured victory in the presidential race, we look the implications for democracy, the environment and international relations Good morning. Chances are you woke this morning to news of two momentous election results. In Serbia, a student-led movement has ousted the country\u2019s long-serving leader, Aleksandar Vu\u010di\u0107 (which you can read more about here ). And just hours ago, Brazil\u2019s president staged a sensational turnaround against his far-right opponent after a nail-biting vote. Luiz In\u00e1cio Lula da Silva, known as Lula, won a forth nonconsecutive term as president, seeing off far-right senator Fl\u00e1vio Bolsonaro, who spearheaded the radical populist movement built by his father and former president, Jair. Jair Bolsonaro is serving a 27-year prison sentence for plotting a coup after he lost the 2022 election. UK news | Two people have been killed and more than 160,000 properties have been left without power as Storm Boelo continues to batter the UK. Crime | British police are recording a growing number of crimes linked to cocaine, including assaults, domestic abuse and dangerous driving, as figures show consumption has surged across England. France | Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren\u2019s demands for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president. UK politics | Prime minister Andy Burnham\u2019s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but risks causing concern among fellow red wall MPs. Aviation | Three in four European airline pilots have taken microsleeps in the cockpit, while almost a quarter routinely fly despite being too fatigued to work, according to a report. Tuesday | Israel goes to the polls on Tuesday, amid orders from prime minister Benjamin Netanyahu for a full lockdown of the occupied West Bank after recent checkpoint attacks. His government will be fighting for its survival. Wednesday | On Wednesday Chancellor John Healey will deliver his first budget statement in the House of Commons, which is expected to give local authorities more spending powers, as a means to promote growth Thursday and Friday | European and Canadian leaders will meet in Montreal for the 21st EU-Canada summit, to discuss security and strategic cooperation. It will be the first opportunity for leaders to iron out details over a proposed invitation for Canada to become the EU\u2019s first ever \u201cassociate member\u201d Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -191,8 +193,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,8 +211,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
-      "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+      "title": "Simple NetBSD webserver",
+      "url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,8 +220,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Dolly Parton's Imagination Library",
-      "url": "https://imaginationlibrary.com/",
+      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,8 +229,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Vim Classic",
-      "url": "https://vim-classic.org/",
+      "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
+      "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -254,7 +256,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "What’s the ROI of software engineers’ spending on AI?",
+      "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -263,12 +265,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Behind the scenes at the NeXT Computer office",
-      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "source": "Hacker News",
+      "title": "\u201cAI Skills\u201d are worthless in 2026",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+      "source": "Import AI",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "What is &#8220;night&#8221; to a machine?",
       "alsoReportedBy": []
     },
     {
@@ -281,13 +292,15 @@
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3\u00d7 speed",
       "url": "https://latent.space/p/ainews-kimi-31/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "We have Fable at home... or so we are being told by paid shills",
-      "alsoReportedBy": ["Simon Willison"]
+      "alsoReportedBy": [
+        "Simon Willison"
+      ]
     },
     {
       "title": "battledrones v14: Compass Rose, a four player map",
@@ -299,12 +312,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "title": "AI Is Getting Good at Math. Here\u2019s Why.",
       "url": "https://latent.space/p/ai-is-getting-good-at-math/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they\u2019ll solve next.",
       "alsoReportedBy": []
     },
     {
@@ -344,16 +357,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
-      "source": "Import AI",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "title": "Why AI Compute Comes in Rectangles \u2014 Erik Bernhardsson, Modal CEO",
       "url": "https://latent.space/p/modal-d/",
       "source": "Latent Space",
       "category": "ai",
@@ -361,5 +365,7 @@
       "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
       "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 188.8,
+  "voice": "af_heart"
 }
