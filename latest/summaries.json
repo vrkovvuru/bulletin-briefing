@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-26T02:41:27.833581Z",
+  "generated": "2026-10-26T04:41:19.244400Z",
   "summaries": [
+    {
+      "summary": "Lula wins Brazil's presidency for a fourth term, attributing his victory to the youth vote.",
+      "significance": "Lula's win marks a return to power for the left, influenced significantly by youth support, following a contentious election.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
+      "points": [
+        "Lula secured more than 51% of the vote.",
+        "Right-wing Senator Flavio Bolsonaro refuses to concede and plans to contest the result."
+      ]
+    },
+    {
+      "summary": "A birthkeeper could face criminal charges for allegedly grooming pregnant women to fear hospitals, leading to a death.",
+      "significance": "A birthkeeper could face criminal charges for allegedly grooming pregnant women to fear hospitals, following the death of a woman who gave birth at home.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+      "points": [
+        "Stacey Warnecke died in September 2025 after a home birth and postpartum hemorrhage.",
+        "Emily Lal, the birthkeeper, charged $6,000 for her services during pregnancy.",
+        "Warnecke was told her \u2018condition and mindset\u2019 needed to be \u2018solid\u2019 to avoid hospital."
+      ]
+    },
+    {
+      "summary": "Covert recording of a prison meeting reveals a former police officer apologizing to a friend for their involvement in a double murder case.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+      "points": [
+        "Lamarre-Condon acknowledged his friend's involvement due to him in a December prison meeting.",
+        "Lamarre-Condon, 31, is accused of shooting Jesse Baird and Luke Davies with his police weapon.",
+        "The shootings occurred in Baird\u2019s Paddington home on February 19, 2024."
+      ]
+    },
+    {
+      "summary": "PaperPilot is a Rust-based PDF toolkit that operates locally without cloud uploads, offering a range of PDF manipulation features.",
+      "significance": "PaperPilot offers a secure, locally-run PDF toolkit in Rust, enhancing document processing privacy and efficiency without cloud uploads.",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "points": [
+        "Runs locally in browser memory, ensuring files never leave user's machine",
+        "Supports PDF operations like merge, split, OCR, and compression via CLI and WASM",
+        "Enterprise Edition includes SSO, RBAC, audit logs, and DLP features separately developed"
+      ]
+    },
+    {
+      "summary": "A new tool called Seam Cutter allows users to slide and crop sections of images horizontally or vertically.",
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "points": [
+        "Seam Cutter enables cropping out middle sections of images.",
+        "Useful for redacting irrelevant parts in stitched screenshots.",
+        "Created to complement Tailor, an iPhone app for stitching images."
+      ]
+    },
     {
       "summary": "Zelenskyy announces trilateral peace talks with Russia and the US in November, while emphasizing Ukraine's conditions and ongoing military actions.",
       "significance": "Restarted trilateral peace talks between Ukraine, Russia, and the US aim to address stalled Russia-Ukraine peace negotiations, focusing on leadership-level territorial discussions.",
@@ -3700,53 +3747,6 @@
         "Human Technology Institute warns of increased use of monitoring tools like CCTV and keystroke tracking.",
         "Example given includes AI tracking in a fast-food restaurant to prevent phone use by workers.",
         "A cashier was warned after making a single mistake in 533 scans, highlighting precision of AI monitoring."
-      ]
-    },
-    {
-      "summary": "Banana shortage hits Australian supermarkets due to cool weather in Queensland, complicating lunchboxes.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/tricky-time-for-lunchboxes-banana-shortage-hits-supermarket-shelves-after-cool-weather-in-queensland",
-      "points": [
-        "Cool weather in Queensland severely slowed banana production.",
-        "Shortage coincides with poor apple harvest and lack of summer stone fruit.",
-        "Major supermarkets like Coles, Woolworths, and Aldi face sparse displays or very green bananas."
-      ]
-    },
-    {
-      "summary": "Wine has been successfully ported to OpenBSD, allowing some 64-bit Windows software to run.",
-      "significance": "This story matters because it enables running 64-bit Windows software on OpenBSD, expanding the operating system's compatibility and utility for users needing Windows applications.",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "points": [
-        "Andrii and Fabien led the effort by solving the %gs issue.",
-        "The port supports 64-bit Windows software but not 32-bit due to WoW64 limitations.",
-        "Notepad++ is suggested for testing the port, with a recommendation to use a non-privileged user."
-      ]
-    },
-    {
-      "summary": "Tor Project launched Tor VPN Beta for Android, focusing on privacy and unblocking internet access in censored regions.",
-      "url": "https://blog.torproject.org/tor-vpn-beta/",
-      "points": [
-        "Tor VPN Beta uses app isolation to enhance privacy, giving each app its own Tor circuit.",
-        "The project prioritized development in censored regions like Iran and Turkmenistan.",
-        "Exit selection was simplified to prevent user error, focusing on connecting to the Tor network first."
-      ]
-    },
-    {
-      "summary": "Qwen3-4B-Instruct was refined to reduce AI writing tics, improving its writing quality to near-human levels.",
-      "url": "https://100toolkit.com/blog/deslop-model/",
-      "points": [
-        "The slop score dropped from 121 to 12.5 per 1000 words.",
-        "68% of the answers now score within the range of human writing.",
-        "The model was trained on 161 answers in a home lab using a MacBook Air."
-      ]
-    },
-    {
-      "summary": "Qatar plans to announce a new regional defence partnership to boost its military capabilities.",
-      "significance": "Qatar's new defence partnership aims to enhance its military capabilities, potentially altering regional security dynamics in the Middle East.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
-      "points": [
-        "Sheikh Saoud bin Abdulrahman al-Thani, Deputy Prime Minister and Minister of State for Defence Affairs, made the announcement.",
-        "The announcement was made at the Global Security Forum in Doha.",
-        "The partnership aims to strengthen Qatar's military capabilities."
       ]
     }
   ]
