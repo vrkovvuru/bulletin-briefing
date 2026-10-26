@@ -1,6 +1,81 @@
 {
-  "generated": "2026-10-26T14:42:54.483536Z",
+  "generated": "2026-10-26T16:42:31.003047Z",
   "summaries": [
+    {
+      "summary": "Lula won Brazil's presidential runoff, defeating Flávio Bolsonaro in a historic comeback.",
+      "significance": "Lula's victory demonstrates that defending democracy and social welfare policies can effectively counter the rise of the far right in Brazil.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election",
+      "points": [
+        "Lula gained nearly 3 million more votes in the runoff compared to the first round.",
+        "The victory was partly due to grassroots mobilization and social welfare policies like Bolsa Família.",
+        "Lula framed the election as a choice between protecting democracy and returning to Bolsonaro's policies."
+      ]
+    },
+    {
+      "summary": "Nathan Fielder\u2019s documentary on Elizabeth Holmes, \"You Can See Everything,\" becomes a cultural phenomenon, surprising audiences and critics alike.",
+      "url": "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment",
+      "points": [
+        "The film grossed $19.5m in its second weekend, a 25% increase from the first.",
+        "It has earned over $45m in North America, becoming one of A24\u2019s biggest movies.",
+        "Despite being a three-hour documentary, it outperformed high-profile releases like \"Practical Magic 2\" and \"Street Fighter."
+      ]
+    },
+    {
+      "summary": "Trump launches a 1,300-word social media attack on Bill Maher, calling him a \"TOTAL LOSER.\"",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-bill-maher-truth-social-rant",
+      "points": [
+        "Trump criticizes Maher's show as \"Low Rated\" on what he calls the now equally \"Low Rated\" HBO.",
+        "The rant comes after Maher interviewed Karoline Leavitt, former White House press secretary.",
+        "Trump describes Maher as a \u201cCOMPLETE AND TOTAL LOSER\u201d in his Truth Social post."
+      ]
+    },
+    {
+      "summary": "Two Catholic bishops regret a prayer session with Trump, accusing the White House of using it as a campaign photo op.",
+      "significance": "The story highlights a conflict between religious leaders and political figures over the use of prayer for political gain, affecting the perception of both parties.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/catholic-bishops-trump-white-house-prayer",
+      "points": [
+        "Archbishop Jeffrey Grob of Milwaukee and Bishop William Joensen of Des Moines issued statements.",
+        "The prayer session took place in the Oval Office last Thursday.",
+        "The incident occurred ahead of next week\u2019s US elections."
+      ]
+    },
+    {
+      "summary": "Lula wins Brazil's presidential runoff, with world leaders congratulating him while Bolsonaro contests the results.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+      "points": [
+        "Lula elected for a fourth non-consecutive term as Brazil\u2019s president.",
+        "Municipal transport secretary Pablo Souza, suspected of electoral offenses, could not be arrested as he is in Paris.",
+        "Flávio Bolsonaro requested voting extensions in three states due to rain, claims that hindered voter turnout."
+      ]
+    },
+    {
+      "summary": "Sebastian Raschka offers an 11-hour video course on building reasoning models from scratch using Python and PyTorch.",
+      "significance": "Sebastian Raschka's video course provides comprehensive, hands-on instruction on building and improving reasoning models, essential for advancing AI capabilities.",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "points": [
+        "Course consists of eight videos focusing on evaluation, inference scaling, reinforcement learning, and distillation.",
+        "Uses a pre-trained Qwen3 model to implement reasoning methods.",
+        "Recommends familiarity with Python and PyTorch, with a GPU recommended for later training experiments."
+      ]
+    },
+    {
+      "summary": "The article explores the complexities and costs involved in sending emails, highlighting the technical and trust issues that make it expensive.",
+      "url": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
+      "points": [
+        "SMTP protocol requires multiple roundtrips and lacks encryption, leading to spoofing risks.",
+        "Setting up DNS records and using OpenSSL functions can help verify sender identity and avoid spam filters.",
+        "High costs of sending emails stem from needing to be trusted by various inbox providers and possibly owning an IP address block."
+      ]
+    },
+    {
+      "summary": "CSS-Tricks transitions to independent ownership under its new owner, who plans to revamp the site's community and content.",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "points": [
+        "Chris Coyier founded CSS-Tricks in 2007 and recently sold it.",
+        "New owner plans to make CSS-Tricks more inclusive for beginners in front-end learning.",
+        "Advertising will return to support the site's operations."
+      ]
+    },
     {
       "summary": "Athletes face personal and professional costs for protesting issues they believe in.",
       "significance": "The article highlights the personal and professional risks athletes face when engaging in activism, showcasing a continuum from historical figures to contemporary athletes.",
@@ -3673,81 +3748,6 @@
         "The Arch Linux setup reports 116.0 GiB memory pool, outperforming Windows' divided memory allocation.",
         "The CPU test using 7-Zip shows Linux setup is about 5% ahead on compression and 3% ahead on decompression compared to Windows.",
         "The laptop supports running large models with nearly 90 GiB allocated to the model and KV cache on a single laptop."
-      ]
-    },
-    {
-      "summary": "Kenyan court convicts Paul Mackenzie and others for the murder of 190 children and one adult in a starvation cult case.",
-      "significance": "The conviction of Mackenzie and others marks a legal conclusion to one of the world\u2019s worst recent cult-related disasters, affecting hundreds of victims and their families.",
-      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-      "points": [
-        "Paul Mackenzie and about 30 others found guilty of murder.",
-        "Victims' bodies found in shallow graves in Shakahola forest.",
-        "Cult leader arrested in 2023 following a tipoff to police."
-      ]
-    },
-    {
-      "summary": "Independent MP Helen Haines is in critical condition after being hit by a car in Wangaratta, with officials investigating it as a potential deliberate attack.",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "points": [
-        "Prime Minister Anthony Albanese stated the incident wasn't an accident, suggesting the driver deliberately targeted Haines.",
-        "The attacker reportedly did a U-turn to hit Haines after initially passing her.",
-        "Haines was struck while accessing her car's boot, leading to her critical condition at Melbourne\u2019s Alfred Hospital."
-      ]
-    },
-    {
-      "summary": "The US Department of Justice charged 28 green card holders in California with voter fraud.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj",
-      "points": [
-        "28 green card holders accused of fraudulent voter registration and illegal voting.",
-        "Part of the Trump administration's efforts to combat alleged noncitizen voting.",
-        "Democrats and voting rights groups claim this is to doubt the midterm elections' results."
-      ]
-    },
-    {
-      "summary": "Over three dozen US Congress offices received envelopes with white powder ahead of midterms.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/white-powder-envelopes-congress",
-      "points": [
-        "Virginia Democrat Suhas Subramanyam's office evacuated on Monday.",
-        "Incidents occur less than three weeks before the 3 November midterms.",
-        "Federal agents are working to identify those behind the powder envelope campaign."
-      ]
-    },
-    {
-      "summary": "The article discusses the use and optimization of Bloom filters in high-performance data systems, particularly at Bluesky.",
-      "significance": "The story highlights how optimized Bloom filter usage significantly reduces database query load and accelerates system performance, crucial for scalable and cost-effective site operation.",
-      "url": "https://www.calabro.io/ohbf",
-      "points": [
-        "Bloom filters reduced database queries by 99%, significantly improving site performance.",
-        "A one-hash Bloom filter (OHBF) implementation in Go has been used in Bluesky's backend for 9 months.",
-        "Optimizations included using CPU instructions to reduce mutex contention, decreasing deployment time from 90 minutes to 15 minutes."
-      ]
-    },
-    {
-      "summary": "PostgreSQL 19 saw a high number of feature reverts during its beta phase, impacting morale among developers.",
-      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-      "points": [
-        "About 8 to 10 significant features were reverted during PostgreSQL 19's beta period.",
-        "The Vulnpocalypse between April and August reduced the usual review and testing, leading to late-discovered issues.",
-        "LLM-assisted code review has raised the quality bar, making it harder to pass features without thorough checks."
-      ]
-    },
-    {
-      "summary": "Nathan Fielder's documentary on Elizabeth Holmes, \"You Can See Everything,\" has become a hit, focusing on Holmes' interactions with Fielder before her prison sentence.",
-      "significance": "The documentary offers a deep, secretive dive into Elizabeth Holmes' psyche pre-prison, potentially reshaping public perception and setting a precedent for spoiler-averse filmmaking.",
-      "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success",
-      "points": [
-        "The documentary is three hours long and has become a sold-out smash hit.",
-        "Fielder asks Holmes, \"Are you being real right now?\" in a key scene.",
-        "The first half of the film shows Fielder's attempt to uncover Holmes' true nature in 2023."
-      ]
-    },
-    {
-      "summary": "Actress Linda Cardellini discusses her transition to horror in the Friday the 13th prequel, Crystal Lake, after starring in shows like Mad Men and Freaks and Geeks.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/19/linda-cardellini-freaks-and-geeks-mad-men-crystal-lake-friday-13th-dtf-st-louis",
-      "points": [
-        "Cardellini won an Emmy for her role in DTF St Louis.",
-        "In Crystal Lake, she plays Pamela Voorhees, the original killer from the 1980 film.",
-        "The role involves handling a human tooth that gets embedded in her knuckle, highlighting the film's gore."
       ]
     }
   ]
