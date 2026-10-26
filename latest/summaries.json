@@ -1,6 +1,52 @@
 {
-  "generated": "2026-10-26T20:41:42.200540Z",
+  "generated": "2026-10-26T22:41:12.558701Z",
   "summaries": [
+    {
+      "summary": "Flávio Bolsonaro, son of former Brazilian president, banned from leaving Brazil and ordered to surrender passports after election loss.",
+      "significance": "The story highlights political fallout and legal challenges for Flávio Bolsonaro post-election, linking to broader issues of corruption and political instability in Brazil.",
+      "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "points": [
+        "Flávio Bolsonaro ordered to surrender passports by supreme court justice Alexandre de Moraes.",
+        "Ruling comes after Flávio's loss in the presidential election to Luiz Inácio Lula da Silva.",
+        "Justice de Moraes also oversaw the trial of Jair Bolsonaro for attempting a coup."
+      ]
+    },
+    {
+      "summary": "Chancellor John Healey will abolish the controversial carer\u2019s allowance rule in Wednesday\u2019s budget, replacing it with a digital taper system.",
+      "url": "https://www.theguardian.com/society/2026/oct/26/carers-allowance-cliff-edge-abolished-in-the-budget",
+      "points": [
+        "The old rule penalized unpaid carers with thousands of pounds in penalties.",
+        "New digital taper system will be announced in Wednesday\u2019s budget."
+      ]
+    },
+    {
+      "summary": "Trump offers $1m reward for reports of voter fraud leading to arrest and conviction.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud",
+      "points": [
+        "Reward applies to both past and upcoming 2026 midterm elections.",
+        "Trump announced the reward on Truth Social.",
+        "Payment is contingent on arrest and conviction of fraudsters."
+      ]
+    },
+    {
+      "summary": "Coastal California prepares for potential record-breaking tides causing significant flooding.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
+      "points": [
+        "Significant flooding expected in San Diego and Orange counties through Thursday.",
+        "Tides as high as 8ft could cause minor to moderate flooding from San Luis Obispo to Los Angeles counties.",
+        "Bay Area officials warn of up to 2.1ft of inundation in low-lying coastal areas."
+      ]
+    },
+    {
+      "summary": "CorridorKey 2.0 offers one-click green and blue screen keying in multiple VFX programs.",
+      "significance": "CorridorKey 2.0 streamlines VFX editing with one-click background removal, supporting multiple software platforms, and offering high-quality results without subscriptions.",
+      "url": "https://corridorkey.com/",
+      "points": [
+        "Supports Resolve, Nuke, After Effects, Premiere, and Blender with one purchase.",
+        "Eliminates flicker and chattering mattes by analyzing entire videos, not just frames.",
+        "Requires Windows PC with NVIDIA RTX or M-series Mac on macOS 14 or newer."
+      ]
+    },
     {
       "summary": "Lula won Brazil\u2019s election with significant support from a WhatsApp channel.",
       "significance": "A WhatsApp channel engaged over 10 million Lula supporters, contributing to his electoral victory with a significant vote margin.",
@@ -3702,52 +3748,6 @@
         "Ukrainian President Volodymyr Zelenskyy highlights issues with Starshield.",
         "Starshield, controlled by the Pentagon, faces speed restrictions affecting its functionality.",
         "US government has not provided reasons for imposing these restrictions."
-      ]
-    },
-    {
-      "summary": "Independent MP Helen Haines was allegedly rammed twice by a car that made a U-turn near her office in Wangaratta.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
-      "points": [
-        "Helen Haines is in critical yet stable condition at Melbourne\u2019s Alfred hospital.",
-        "The incident occurred near Helen Haines' electorate office in Wangaratta, Victoria.",
-        "Eyewitnesses suggest the attack may have been targeted against the MP."
-      ]
-    },
-    {
-      "summary": "Author Sally Rooney stops supplying books to UK due to terrorism law risks.",
-      "significance": "Terrorism laws prevent Sally Rooney's books from being sold in the UK, affecting her readers and the freedom of authors supporting proscribed groups.",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/20/why-terrorism-laws-stopped-sally-rooney-selling-books-in-the-uk-podcast",
-      "points": [
-        "Rooney will no longer supply her books to UK bookshops to avoid prosecution.",
-        "Her decision follows her announcement to support Palestine Action with royalties.",
-        "Over thousands have been arrested in the UK for supporting the proscribed group."
-      ]
-    },
-    {
-      "summary": "Report reveals failures in Northern Territory\u2019s child protection leading to the death of five-year-old Kumanjayi Little Baby.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/kumanjayi-little-baby-damning-report-finds-heartbreaking-child-protection-failures-before-five-year-olds-death-ntwnfb",
-      "points": [
-        "Report details \"confronting\" and \"heartbreaking\" failures before Kumanjayi's death.",
-        "Kumanjayi, a Warlpiri girl, was found dead in April in Alice Springs.",
-        "Northern Territory government announced reforms in May following her death."
-      ]
-    },
-    {
-      "summary": "Police officer Beau Lamarre-Condon had surgery after allegedly murdering Jesse Baird and Luke Davies but before disposing of their bodies.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/beau-lamarre-condon-surgery-hospital-after-alleged-double-murder-prior-disposing-bodies-ntwnfb",
-      "points": [
-        "Lamarre-Condon, 31, allegedly shot Baird and Davies in Paddington on February 19, 2024.",
-        "Surgery occurred at St Vincent\u2019s hospital two days post-alleged murders.",
-        "Lamarre-Condon is accused of attempting to dispose of the victims' bodies post-operation."
-      ]
-    },
-    {
-      "summary": "A bug in signed integer division in the Futhark compiler is fixed, but it makes all divisions slower.",
-      "url": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
-      "points": [
-        "The bug affects 0.000000000000000000542% of cases, specifically with 32-bit integers.",
-        "The fix involves using unsigned arithmetic to avoid undefined behavior in C.",
-        "Performance cost is a branch on every signed division, impacting throughput."
       ]
     }
   ]

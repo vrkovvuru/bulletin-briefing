@@ -2,48 +2,48 @@
   "date": "2026-10-26",
   "stories": [
     {
-      "title": "How a WhatsApp channel helped Lula win Brazil’s election",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
+      "title": "What will Lula’s fourth term mean for Brazil?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Over 10 million Lula supporters joined a WhatsApp channel to help boost his campaign.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
-      "url": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Democratic candidate for the US Senate has been the subject of Islamophobic attacks from Trump.",
+      "summary": "Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?",
       "alsoReportedBy": ["NPR"]
     },
     {
-      "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
-      "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
-      "source": "NPR",
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The proposed rule is a major step forward in addressing a form of fraud that has robbed SNAP recipients of millions.",
-      "alsoReportedBy": []
+      "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
+      "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "80 injured after bus plunges down embankment near Barcelona",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
+      "title": "Former FBI director James Comey hit with third set of charges under Trump",
+      "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "80 injured after bus plunges down embankment near Barcelona",
+      "summary": "Comey, who was fired during Trump&#039;s first term, has been accused of unlawfully divulging national security information",
       "alsoReportedBy": []
     },
     {
-      "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
-      "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+      "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
+      "summary": "President Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his loyalty to the United States.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Africa food security under threat due to Iran war, trade officials warn",
+      "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
       "alsoReportedBy": []
     },
     {
@@ -56,21 +56,30 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ldjzg9xppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "He played the eager Russian crewman in the original Star Trek series and later appeared in Babylon 5.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "The proposed rule is a major step forward in addressing a form of fraud that has robbed SNAP recipients of millions.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Independent review announced into murder of student Henry Nowak",
-      "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+      "title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
+      "url": "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+      "summary": "The guitarist says doctors had given him \"a few years left to live\", but is now recovering well.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
       "alsoReportedBy": []
     },
     {
@@ -83,15 +92,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
-      "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Israeli prime minister increases alarmist rhetoric as his far-right coalition narrowly trails in polls Benjamin Netanyahu has resorted to increasingly alarmist rhetoric and reportedly put pressure on Israel’s military to take action against Iran as his far-right coalition narrowly trails in the polls ahead of Tuesday’s close-run elections. The Israeli prime minister posted an AI-generated image of a nuclear mushroom cloud destroying Tel Aviv, telling Israeli voters to choose him or risk nuclear annihilation. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Lula wins fourth term in dramatic Brazil election comeback",
       "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -101,21 +101,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+      "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+      "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "A viral WhatsApp channel and student-led protests played a key role in the veteran Brazilian leftist’s election victory After the first round of the Brazilian presidential election three weeks ago, the leftist incumbent Luiz Inácio Lula da Silva reportedly told allies he could not understand how he finished second after a government he considered the best of his three terms. A mood of dismay swept Brazil’s left, and because 9 million voters for the other candidates, all of them on the right, were expected to mostly transfer to senator Flávio Bolsonaro, analysts widely saw the far-right senator’s victory as certain. Continue reading...",
+      "summary": "Far-right senator banned from leaving country as supreme court judge’s ruling makes reference to money-laundering case The far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours after his dramatic loss in the presidential election to the leftist president Luiz Inácio Lula da Silva. The ruling was issued by supreme court justice Alexandre de Moraes, the same justice who oversaw the trial of the senator’s father, the former president Jair Bolsonaro, for attempting a coup. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Carers allowed to earn over the weekly limit without losing out as ‘cliff-edge’ abolished in the budget",
+      "url": "https://www.theguardian.com/society/2026/oct/26/carers-allowance-cliff-edge-abolished-in-the-budget",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Controversial mechanism that hit unpaid carers with huge penalties to be scrapped following Guardian investigation The controversial rule that led to unpaid carers being punished with penalties amounting to thousands of pounds is to be abolished, the Guardian can reveal. The chancellor, John Healey, is to announce a new digital taper system for the so-called carer’s allowance in Wednesday’s budget, effectively ending what is regarded as one of the UK benefit system’s most feared and unfair administrative practices. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -155,35 +155,35 @@
       "alsoReportedBy": ["NPR World"]
     },
     {
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
+      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after alleged Haines attack",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast The Victorian Greens will today announce an election commitment to establish a lobbyist register and ban political donations from “big corporate money”. The party said under their plan, there would be a legislated register for lobbyists with teeth and a total ban on political donations from the gambling industry, fossil fuel companies and property developers. These corporations don’t hand over thousands of dollars out of the goodness of their hearts. They expect something in return, and it’s everyday Victorians who end up paying the price. They’ve both dealt with male-dominated industries with cultures that are pretty rough and challenging for women, and so they’re perfect people to lead that cultural journey. Continue reading...",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’: Ruston A day after MPs addressed the House of Representatives paying tribute to independent Helen Haines , who was injured after an alleged attack in her electorate, Liberal senator Anne Ruston maintains that respect is necessary in political debate. What we do here sets the tone for what the rest of the nation thinks is acceptable. There is a huge responsibility on politicians, not to shy away from robust debate. I don’t want anyone to think that we shouldn’t be having strong debate. It’s simply out of control in an online world and we’ve got to make the platforms accountable. Facebook is the worst in terms of the platforms, Instagram and TikTok less so, but still bad. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Trump issues $1m reward for reporting voter fraud in past or upcoming elections",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "summary": "His comments come ahead of the November midterm elections and follow his claims of widespread voter fraud Donald Trump has announced a $1m reward for reports of voter fraud in past elections and the upcoming midterm elections, with payment contingent on the arrest and conviction of those responsible. In a Truth Social post on Monday, the president wrote: “Anybody reporting Voter Fraud in the past Elections, or the upcoming 2026 Midterm Election, will be paid $1,000,000 upon the arrest and conviction of those that created the Fraud! Thank you for your attention to this matter.” Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Type Server Protocol",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "title": "Coastal California braces for flooding amid forecast of ‘record-breaking tides’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Residents of coastal towns told to avoid beaches during high tides and keep further away from the ocean than usual Coastal communities across California were preparing for days of flooding amid potentially “record-breaking tides” this week, as water levels began rising on Monday. The National Weather Service warned that significant coastal flooding was expected in San Diego and Orange counties through Thursday that could close roads and inundate homes, businesses and critical infrastructure. A wide swath of the coast from San Luis Obispo county to Los Angeles county could see “minor to moderate” coastal flooding with tides as high as 8ft. Further north in the Bay Area, officials advised there could be as much as 2.1ft of inundation, primarily in low-lying coastal areas. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,17 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "title": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,8 +218,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "About the compromised eMudhra intermediate CAs",
-      "url": "https://support.apple.com/en-us/149555",
+      "title": "CorridorKey 2.0",
+      "url": "https://corridorkey.com/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Gram 3.4.0 released",
+      "url": "https://gram-editor.com/posts/release-3.4.0/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
