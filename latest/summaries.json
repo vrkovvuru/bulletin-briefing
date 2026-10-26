@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-25T22:41:58.415734Z",
+  "generated": "2026-10-26T00:42:40.518440Z",
   "summaries": [
+    {
+      "summary": "Lula wins Brazil's presidency for a fourth term, defeating far-right candidate Flávio Bolsonaro.",
+      "significance": "Lula's victory marks a return to leftist leadership in Brazil, reversing the far-right trajectory set by Bolsonaro's influence.",
+      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+      "points": [
+        "Lula received 51.75% of the vote compared to Bolsonaro\u2019s 48.25%.",
+        "The 80-year-old leftist incumbent secured victory in a dramatic comeback.",
+        "Nearly 99% of votes were counted, solidifying Lula\u2019s win."
+      ]
+    },
+    {
+      "summary": "Victorian Labor minister Paul Edbrooke found a bullet etched with \"RAT\" on his car, raising safety concerns.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
+      "points": [
+        "Bullet with \"RAT\" and Edbrooke's old firefighter number found on car bonnet.",
+        "Incident occurred after speaking to community members on Saturday.",
+        "Edbrooke expresses fear for his family\u2019s safety amid concerns for MPs' security."
+      ]
+    },
+    {
+      "summary": "Trump made comments about the rear ends of Ohio senator Jon Husted and rapper Nicki Minaj at a Michigan rally.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+      "points": [
+        "Trump noted Husted\u2019s athletic build and specifically complimented his rear end.",
+        "Trump encouraged the crowd to notice rapper Nicki Minaj\u2019s prominent behind.",
+        "These comments came during a rally in Michigan on Sunday."
+      ]
+    },
+    {
+      "summary": "F-Zero X was ported to the Nintendo 3DS with support for both Old and New 3DS models, including the 64DD Expansion Kit.",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "points": [
+        "Port completed in two phases: 24 days for New 3DS support (2026-08-11 to 09-03), 43 days for Old 3DS and Expansion Kit (2026-09-07 to 10-19).",
+        "Achieved native 60 fps in 3D for New 3DS, comparable performance for Old 3DS through different methods.",
+        "Three released builds: Old 3DS, New 3DS, and New 3DS with 64DD Expansion Kit, all booting from HOME menu or homebrew launcher."
+      ]
+    },
+    {
+      "summary": "Zig language updates its operator precedence rules, requiring parentheses in certain cases to avoid ambiguity.",
+      "significance": "The story matters as it changes Zig language rules to require parentheses for certain operator combinations, reducing the number of precedence rules programmers need to remember.",
+      "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+      "points": [
+        "Issue #114 mandates parentheses for ambiguous operator combinations.",
+        "353 lines out of over a million in the Zig codebase needed changes.",
+        "Compiler now enforces parentheses for expressions like \"orelse... ==...\"."
+      ]
+    },
+    {
+      "summary": "A speech at the IMF meeting in Bangkok argued that AI is entering a phase of rapid, autonomous progress, signaling the beginning of the singularity.",
+      "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+      "points": [
+        "The speaker, with a background in journalism and AI research, claims AI is now altering national security and economic trajectories.",
+        "AI systems are now more capable and efficient than most software engineers, with researchers at Anthropic producing nearly 10 times more code than in the company\u2019s early years.",
+        "The speech emphasizes the need for policymakers to prepare for significant changes and to ensure the benefits of AI are shared equitably."
+      ]
+    },
     {
       "summary": "Storm Boelo caused severe weather in the UK, resulting in two deaths and widespread power outages.",
       "significance": "Storm Boelo causes fatalities and widespread power outages, affecting over 160,000 properties across the UK.",
@@ -3689,61 +3745,6 @@
         "Chris Hinchliff urges intervention against \"cash to trash\" planning rules.",
         "Rules allow almost 16,000 new homes in a protected UK area.",
         "Critics argue the rules roll back environmental law and harm nature."
-      ]
-    },
-    {
-      "summary": "Children's commissioner declares youth services in parts of England in a state of emergency.",
-      "url": "https://www.theguardian.com/society/2026/oct/19/children-services-state-of-emergency-hardest-places-england",
-      "points": [
-        "Rachel de Souza identifies Middlesbrough and Hounslow as particularly challenging areas.",
-        "Commissioner states some children are being 'radically failed' in certain local authorities.",
-        "Report claims no child can reasonably be expected to thrive in areas with systemic issues."
-      ]
-    },
-    {
-      "summary": "French prime minister requests partial curfews in cities after admitting police lost control during violent protests.",
-      "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-      "points": [
-        "Prime minister asked for local and partial curfews in response to riots.",
-        "Interior minister conceded police lost control in cities like Paris and Lyon.",
-        "No full curfew planned for entire cities such as Paris."
-      ]
-    },
-    {
-      "summary": "A Savannah police officer was fired for giving her ICE agent husband access to the police department\u2019s Flock license plate reader system.",
-      "significance": "This story highlights the risks of unauthorized access to police databases by federal agents, potentially compromising privacy and departmental policies.",
-      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-      "points": [
-        "Amber Harpe's husband conducted 983 searches involving 97 identifiable license plates from multiple states.",
-        "Most searches (788 entries) were for South Carolina plates, primarily belonging to Hispanic individuals.",
-        "Harpe was dismissed for violating department policy by allowing unauthorized access to a sensitive system."
-      ]
-    },
-    {
-      "summary": "Mistral releases Timestral, a family of time-series foundation models that deliver state-of-the-art forecasts with fewer parameters than competitors.",
-      "url": "https://mistral.ai/news/timestral/",
-      "points": [
-        "Timestral's largest model, with 209M parameters, outperforms on GIFT-Eval, TIME, and fev-bench benchmarks.",
-        "Available in four sizes (5M, 28M, 123M, 209M parameters), balancing accuracy and efficiency.",
-        "Supports zero-shot forecasting and covariate-aware attention, excelling in diverse domains like industrial plants and finance."
-      ]
-    },
-    {
-      "summary": "Linux 7.3 has been released, marking a record-breaking milestone in terms of contributions.",
-      "url": "https://lwn.net/Articles/1101143/",
-      "points": [
-        "The release includes 18,765 non-merge commits.",
-        "Contributions came from 3,021 developers, with 807 being first-time contributors.",
-        "Linus Torvalds will be on vacation, merging commits in the afternoon."
-      ]
-    },
-    {
-      "summary": "A blog series on GitHub details the construction of AI agents, emphasizing the role of LLMs and harnesses.",
-      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
-      "points": [
-        "The series consists of 16 chapters detailing the development of a ~300-line toy agent.",
-        "Each chapter addresses a specific failure and its minimal patch.",
-        "The content is best viewed online, though the source is available on GitHub."
       ]
     }
   ]
