@@ -1,6 +1,98 @@
 {
-  "generated": "2026-10-26T12:43:41.171532Z",
+  "generated": "2026-10-26T14:42:54.483536Z",
   "summaries": [
+    {
+      "summary": "Athletes face personal and professional costs for protesting issues they believe in.",
+      "significance": "The article highlights the personal and professional risks athletes face when engaging in activism, showcasing a continuum from historical figures to contemporary athletes.",
+      "url": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
+      "points": [
+        "Muhammad Ali and Colin Kaepernick exemplify athletes who faced consequences for activism.",
+        "Naomi Osaka is highlighted as a contemporary example of an athlete impacted by activism."
+      ]
+    },
+    {
+      "summary": "Democratic candidates, including Abdul El-Sayed, are adopting universal healthcare as a campaign issue, seeing growing voter support.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all",
+      "points": [
+        "Abdul El-Sayed campaigning in Michigan's rural, predominantly Republican upper peninsula.",
+        "Donald Trump won some districts near Escanaba by over 41% in the area.",
+        "Democrats are now backing Medicare for All due to increasing voter support for the idea."
+      ]
+    },
+    {
+      "summary": "V&A strike suspended as unions accept improved pay offer for talks.",
+      "significance": "Improved pay offer suspends V&A strike, keeping London museum sites open and affecting visitors during half-term.",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/26/v-and-a-museum-unions-suspend-strike-after-improved-pay-offer-london",
+      "points": [
+        "Prospect and PCS unions agreed to 'Acas-facilitated talks' with management.",
+        "Strike would have affected V&A sites in south Kensington and east London.",
+        "Dispute centered on pay and working conditions, including breaks."
+      ]
+    },
+    {
+      "summary": "Lula wins Brazil's presidency in a comeback, facing rejection from far-right opponent Flávio Bolsonaro.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/first-thing-brazil-re-elects-lula-comeback-bolsonaro",
+      "points": [
+        "Lula becomes first candidate to reverse a first-round defeat, securing a fourth term.",
+        "Flávio Bolsonaro, son of former president, refuses to concede and seeks result annulment.",
+        "World leaders recognize Lula\u2019s win, deeming Bolsonaro's challenge unlikely to succeed."
+      ]
+    },
+    {
+      "summary": "WA's environmental watchdog warns Woodside's gas drilling plans could harm endangered turtles, pygmy blue whales, and \"exceptional\" coral reefs.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
+      "points": [
+        "Draft EPA letter from 2023 criticizes Woodside\u2019s proposal for ineffective protection measures.",
+        "Plan targets Browse gasfield off Western Australia\u2019s north-west coast.",
+        "Watchdog questions ability to reduce oil spill risk to acceptable levels."
+      ]
+    },
+    {
+      "summary": "Economists warn Australia about potential public spending and cost issues, citing France's protests over underfunded schools and living costs.",
+      "url": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+      "points": [
+        "Economists claim Australia faces a \"warning signal\" from France\u2019s economic issues.",
+        "French protests involve hundreds of thousands over underfunded schools and high living costs.",
+        "Issues in France include insufficient teacher numbers and poor school infrastructure."
+      ]
+    },
+    {
+      "summary": "UK government considers incentivizing carmakers to add V2G technology to electric vehicles.",
+      "url": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
+      "points": [
+        "V2G tech allows cars to charge when electricity is cheap and sell power back to the grid during high demand.",
+        "Part of the review of the zero-emission vehicle (ZEV) mandate.",
+        "Aimed at supporting UK manufacturers in adopting the technology."
+      ]
+    },
+    {
+      "summary": "Pre-orders for the new OLED iPad Mini start at 10:10 a.m. PT on October 28, available from November 6.",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+      "points": [
+        "Pre-orders begin at 10:10 a.m. PT on October 28.",
+        "Available for purchase starting November 6.",
+        "Features Wi-Fi + Cellular for connectivity outside Wi-Fi range."
+      ]
+    },
+    {
+      "summary": "The article discusses improvements in tool call accuracy for AI models like Kimi K2.6 and DeepSeek V4 to enhance agentic workload performance.",
+      "significance": "Improving tool call accuracy in vLLM enhances model performance and reliability, especially for agentic workloads, by ensuring 100% schema adherence.",
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "points": [
+        "Tool call accuracy for Kimi K2.6 was 92% with vLLM version 0.28, meaning 8% of calls failed.",
+        "Constrained decoding technique introduced in vLLM 0.31 ensures 100% schema accuracy for newer models.",
+        "K2VV ToolCall benchmark by Moonshot AI measures tool call quality, focusing on schema accuracy and trigger similarity."
+      ]
+    },
+    {
+      "summary": "Apple is blocking certificates from compromised eMudhra intermediate CAs, affecting Mac users who use Terminal.",
+      "url": "https://support.apple.com/en-us/149555",
+      "points": [
+        "Apple began blocking the certificates on October 19, 2026.",
+        "Eight intermediate CAs were compromised, with six issuing TLS certificates.",
+        "Users can manually remove root CA certificates from /etc/ssl/cert.pem to block certificates sooner."
+      ]
+    },
     {
       "summary": "Israel holds its first election since the deadly Hamas attacks in October 2023, with Benjamin Netanyahu seeking a new mandate.",
       "significance": "The election follows the deadliest day in Israel's history, potentially shaping the country's aggressive military and political responses.",
@@ -3656,98 +3748,6 @@
         "Cardellini won an Emmy for her role in DTF St Louis.",
         "In Crystal Lake, she plays Pamela Voorhees, the original killer from the 1980 film.",
         "The role involves handling a human tooth that gets embedded in her knuckle, highlighting the film's gore."
-      ]
-    },
-    {
-      "summary": "Kenya's first Ebola cases highlight reduced US health support following Trump-era cuts.",
-      "significance": "The story highlights how US funding cuts and withdrawal from WHO have diminished its role in managing the Ebola outbreak, exacerbating health crises and mistrust.",
-      "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-      "points": [
-        "Eighth Ebola case identified in Kenya, part of the country's first cluster.",
-        "Over 4,300 deaths and 9,000 sickened in the second-largest Ebola outbreak.",
-        "US reduced global health support, built controversial quarantine center in Kenya."
-      ]
-    },
-    {
-      "summary": "ITV's exposé revealed widespread racism and misogyny within Reform, but the party's MPs remained silent.",
-      "url": "https://www.theguardian.com/politics/2026/oct/19/itv-expose-racism-misogyny-reform",
-      "points": [
-        "Reform MPs, including Nigel Farage and Robert Jenrick, did not defend the party after the exposé.",
-        "Failed by-election candidate Matt Goodwin was left to defend Reform."
-      ]
-    },
-    {
-      "summary": "Massachusetts Republican lieutenant governor candidate Shawn Oliver ends campaign after being arrested for suspected drunk driving.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/massachusetts-lieutenant-governor-candidate-shawn-oliver",
-      "points": [
-        "Oliver arrested following a car crash suspected to be caused by alcohol influence.",
-        "Candidate suspended campaign hours after arrest, citing election importance.",
-        "Oliver is a city councilor in New Bedford and works as a corrections officer."
-      ]
-    },
-    {
-      "summary": "MiniMax M3.1 Flash, a new AI model, offers significant improvements in performance and cost efficiency across various tasks.",
-      "significance": "M3.1 Flash improves performance in agentic tasks, coding, and cybersecurity while reducing costs, making advanced AI capabilities more accessible and efficient.",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "points": [
-        "M3.1 Flash reduces usage costs by 70% and accelerates online inference nearly three times faster.",
-        "It scores 76.2 on BankerToolBench and 73.7% on DeepSWE v1.1, demonstrating strong capabilities in complex tasks.",
-        "Available through MiniMax API, M Plan, and MiniMax Code, it ranks first among Chinese models on OSWorld V2 and ALE."
-      ]
-    },
-    {
-      "summary": "Software called Mac.apk allows running Android apps natively on Apple Silicon Macs without emulation.",
-      "url": "https://github.com/kksimp/Mac.apk",
-      "points": [
-        "Mac.apk supports Apple Silicon Macs only, not Intel-based Macs.",
-        "Android apps appear as native macOS processes, with their own windows and dock icons.",
-        "Each installed Android app takes up 1.5 to 3 times its APK size on the Mac."
-      ]
-    },
-    {
-      "summary": "Mercury 3, a new diffusion-based LLM, outperforms competitors and is significantly faster and larger than its predecessor.",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "points": [
-        "Mercury 3 is 40x larger than Mercury 1 and runs at 1,000+ tokens per second.",
-        "Early-access partners use Mercury 3 for various applications including real-time tutoring and customer support.",
-        "Pricing at launch is $0.10 per 1M input and $0.35 per 1M output tokens, 50% off the regular price."
-      ]
-    },
-    {
-      "summary": "Deno, a JavaScript runtime, will cease development in a year, leading to the creation of a community fork named Ende.",
-      "url": "https://blog.webb.page/WM-105",
-      "points": [
-        "Deno's development will stop in a year due to Cloudflare's acquisition.",
-        "The fork, Ende, aims to remove distractions and focus on core functionalities.",
-        "Ende's roadmap includes per-module permissions, sandboxes, and post-quantum crypto."
-      ]
-    },
-    {
-      "summary": "Trump endorses Netanyahu before Israel's election, amid conflict and tragedy in Gaza.",
-      "significance": "Trump's endorsement of Netanyahu could influence the Israeli election and reflect the strong U.S.-Israel ties under his presidency.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss",
-      "points": [
-        "Trump publicly supports Netanyahu in upcoming Israeli elections.",
-        "Ben-Gvir encounters student protesters in Israel.",
-        "Israeli gunfire results in the death of a seven-year-old girl in Gaza."
-      ]
-    },
-    {
-      "summary": "A Saudi national formerly employed by OpenAI is accused of having government support in planting a recording device.",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "US prosecutors claim Abdulrahman Alfozan had \"considerable support\" from Saudi government.",
-        "A Saudi military member paid for a one-way flight for Alfozan's wife and son post-arrest.",
-        "The recording device was found behind a TV in a conference room, covered with toilet paper."
-      ]
-    },
-    {
-      "summary": "A former Subway worker recounts their experience serving diverse clientele in Perth\u2019s nightlife district in the 1990s.",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/19/a-job-that-changed-me-on-midnight-shifts-as-a-subway-sandwich-artist",
-      "points": [
-        "Job shift from Pizza Hut to Subway extended car life.",
-        "Worked in Perth\u2019s nightlife district, Northbridge, as a \"sandwich artist.\"",
-        "Previous gig at Pizza Hut in Como suburb involved delivering pizzas and dealing with cash tips."
       ]
     }
   ]
