@@ -11,7 +11,7 @@
       "alsoReportedBy": ["BBC News", "The Guardian", "Al Jazeera"]
     },
     {
-      "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
       "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
@@ -20,13 +20,31 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
       "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Two storms slam northern Europe, cut power to 150,000 homes",
+      "url": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Storms Boelo and Austen kill a man in Scotland and cut electricity to homes in the UK, France and Germany.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Lula wins but faces hostile Congress and divided country",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
+      "alsoReportedBy": []
     },
     {
       "title": "Brazil's left-wing President Lula elected for fourth term",
@@ -38,21 +56,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Lula holds off far right with victory in Brazil presidential election",
-      "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+      "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Leftist president mounts stunning comeback after unexpected first round loss galvanised supporters of Flavio Bolsonaro.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
+      "summary": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
       "alsoReportedBy": []
     },
     {
@@ -65,30 +74,21 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "title": "Serbia celebrates historic election win for student-backed movement",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.",
+      "summary": "Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory",
       "alsoReportedBy": []
     },
     {
-      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
-      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+      "title": "Ukraine war briefing: Trilateral peace talks with Russia to restart, says Zelenskyy",
+      "url": "https://www.theguardian.com/world/2026/oct/26/ukraine-war-briefing-trilateral-us-ukraine-russia-talks-restart-november",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Vučić’s 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protests The long-serving leader of Serbia, Aleksandar Vučić, has conceded defeat, ushering in a seismic political shift after a historic election that saw ​the increasingly authoritarian leader pitted against a student-led movement that had spent two years protesting against his government. Vučić pointed to preliminary results that suggested voters had overwhelmingly backed the students, potentially giving them a majority in the country’s 250-seat parliament. Continue reading...",
+      "summary": "Ukraine will not discuss limits to its armed forces or enforced neutrality at November meeting, president says. What we know on day 1,706 A trilateral meeting between Kyiv, Washington and Moscow will take place in November aiming to restart stalled Russia-Ukraine peace talks, Volodymyr Zelenskyy has said . “We are ready to talk. If it’s a territorial issue, it must be addressed at a leadership level. Other issues fall within the remit of the technical groups. All this can therefore be discussed in November,” the Ukrainian president said on Sunday in an interview. Zelenskyy also renewed his push ⁠for a meeting between him and Vladimir Putin, believing that Putin is the only person ​in Russia who can make major decisions to end ​the war. Zelenskyy says that at the trilateral talks, Ukraine will not discuss limits to its armed forces, or enforced postwar neutrality . Kyiv has long sought entry into Nato despite the reticence of some members. Meanwhile, US warnings about imminent ⁠Russian ballistic missile strikes, critical to Ukraine’s air defences, have been fully restored , according to Zelenskyy. He told Ukraine’s ⁠TSN television channel that SpaceX’s ​Starshield satellite internet had been working at speeds of up to 420km/h since early on Saturday, after a meeting with the US special envoy Steve Witkoff in Oslo. Starshield was throttled earlier in October amid diplomatic pressure on Kyiv from Washington. The US has been trying to pressure Ukraine to suspend strikes on Russian oil refineries , which it says push energy prices higher. However, Zelenskyy has repeatedly said Kyiv will only stop the strikes if Moscow stops hitting Ukraine’s power infrastructure, or if the US allows Ukraine to use of Starshield ‌over Russia to detect launch places of its ballistic missiles, or if it supplies Ukraine with Patriot missiles. Zelenskyy on Sunday said Russia had launched nearly 2,300 drones targeting Ukrainian cities over the past week , renewing his call on western allies to speed up deliveries of interceptors. “This week alone, Russia has launched about 1,600 guided bombs, 48 missiles of various types, including ballistic missiles, and almost 2,300 strike drones at Ukraine,” he wrote in an online post. Russia’s defence ⁠ministry said on ⁠Sunday ​its drones had struck a ⁠cargo vessel bound for the Black Sea port of ⁠Chornomorsk in an overnight ​attack ‌and another cargo ‌vessel en route to the ‌port of Odesa during the day. The ministry said the vessels were being used to supply the Ukrainian army. Russian ‌forces also hit a logistics centre, a ​distribution centre and a logistics terminal in the Ukrainian city of Kharkiv overnight. Reuters could not confirm the reports. A Ukrainian drone attack overnight on the Russian border city ⁠of Belgorod killed ⁠three people ​and injured 13, local authorities said on Sunday , while ⁠a separate drone strike later in the day killed another person. The overnight attack on Belgorod ​damaged 30 apartment buildings, regional governor ⁠Alexander Shuvayev said. The presidential election in Bulgaria on Sunday ended inconclusively, with the next head of state to be picked in a runoff. In a surprisingly strong performance, the candidate of the pro-western reformist opposition, Andrey Gyurov, will face the incumbent leftist president, Iliana Yotova. Iotova opposes military aid to Ukraine and favours dialogue with Russia, while Gyurov has often expressed firm support for Kyiv . The vote was held amid security concerns after a series of drone attacks on ships in the Black Sea . Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,21 +110,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged a dramatic election fightback , defeating his far-right opponent, Flávio Bolsonaro , to claim a historic fourth term in power. With nearly 99% of votes counted the 80-year-old leftist received 51.75% of the vote to his 45-year-old rival’s 48.25%. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australia politics live: ‘Helen Haines is a fighter’: parliament hears emotional tributes to Indi MP; NSW to begin gun buyback",
+      "title": "Australia politics live: Haines’s first words after waking were of concern for staff and bystanders; parliament hears emotional tributes to MP",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make sure there is more civility and respect. Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff It’s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats. There’s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House. I think the vulnerability is actually when we’re out doing our job in the community, and that’s probably where we need to put the focus. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Helen Haines’s first words after alleged attack were about safety of staff and gratitude to bystanders, MP reveals",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Allegra Spender calls Indi MP ‘force for change’ as politicians pay tribute in parliament Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Helen Haines’s first words after an alleged attack last week were to ask about the safety of her staff and express gratitude to bystanders and doctors. Allegra Spender, the MP for Wentworth, told parliament on Monday that Haines’s husband, Phil Haines, had revealed the Indi MP expressed gratitude to bystanders who came to her rescue outside her Wangaratta electorate office. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Unreasonable and unfair: damning investigation criticises Labor’s algorithm-based tool for aged care",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/damning-investigation-labor-algorithm-tool-aged-care-assessment",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Report from commonwealth ombudsman finds ‘technological black box’ ignores transparency recommendations from robodebt royal commission Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast An algorithm used by the federal government to assess the level of care older Australians are entitled to is unreasonable, unfair and lacks human oversight, according to a damning investigation by the commonwealth ombudsman. The investigation also found transparency recommendations from the robodebt royal commission have been ignored. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -137,39 +146,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Trump again congratulated Ohio senator’s rear end before his cheeky comment about rapper being ‘hard to miss’ Donald Trump reiterated his apparent love for buxom bums during a rally in Michigan on Sunday where he encouraged the crowd to compliment rapper Nicki Minaj ’s behind. Trump’s cheeky comments about Minaj’s derriere came as he explained his recent observation on the Republican Ohio senator Jon Husted’s rear end. Earlier in October, Trump said of the former college football player: “I don’t do this with men very often. I started examining his body, because I didn’t know he was a great athlete. And I looked and I watched up and down. I looked at his ass and I looked at the whole – and then I looked at his hands. Look at his hands. He’s got these, like, claws. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why Israel's election is one of the most important in its history",
-      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
-      "alsoReportedBy": ["Guardian World"]
-    },
-    {
       "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
       "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the Ugandan-born wife of a Swiss diplomat based in Abuja, had not travelled to the Democratic Republic of ⁠Congo, where the outbreak was first detected in mid-May before spreading to Uganda, Kenya and now Nigeria. The woman was believed to have contracted Ebola while travelling with her husband in Uganda, the ministry added. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s . The seven-time world champion believes it is right that F1 is to hold a race there despite criticism of the country’s human rights record. Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s. It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Trump again congratulated Ohio senator’s rear end before his cheeky comment about rapper being ‘hard to miss’ Donald Trump reiterated his apparent love for buxom bums during a rally in Michigan on Sunday where he encouraged the crowd to compliment rapper Nicki Minaj ’s behind. Trump’s cheeky comments about Minaj’s derriere came as he explained his recent observation on the Republican Ohio senator Jon Husted’s rear end. Earlier in October, Trump said of the former college football player: “I don’t do this with men very often. I started examining his body, because I didn’t know he was a great athlete. And I looked and I watched up and down. I looked at his ass and I looked at the whole – and then I looked at his hands. Look at his hands. He’s got these, like, claws. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -227,8 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Lula Wins Brazilian Election",
-      "url": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",

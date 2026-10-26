@@ -1,6 +1,45 @@
 {
-  "generated": "2026-10-26T00:42:40.518440Z",
+  "generated": "2026-10-26T02:41:27.833581Z",
   "summaries": [
+    {
+      "summary": "Zelenskyy announces trilateral peace talks with Russia and the US in November, while emphasizing Ukraine's conditions and ongoing military actions.",
+      "significance": "Restarted trilateral peace talks between Ukraine, Russia, and the US aim to address stalled Russia-Ukraine peace negotiations, focusing on leadership-level territorial discussions.",
+      "url": "https://www.theguardian.com/world/2026/oct/26/ukraine-war-briefing-trilateral-us-ukraine-russia-talks-restart-november",
+      "points": [
+        "Zelenskyy states Ukraine will not discuss limits to its armed forces or enforced neutrality at the November meeting.",
+        "Ukraine will push for a meeting between Zelenskyy and Putin, citing Putin as the only decision-maker to end the war.",
+        "Russia launched nearly 2,300 drones targeting Ukrainian cities over the past week, prompting calls for faster deliveries of interceptors."
+      ]
+    },
+    {
+      "summary": "Helen Haines first thanked rescuers and inquired about her staff's safety after an alleged attack.",
+      "significance": "The story highlights Haines's prioritization of staff safety and appreciation for helpers post-attack, underscoring her character amidst political turmoil.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
+      "points": [
+        "Haines's husband, Phil Haines, shared this information in parliament.",
+        "The incident occurred outside Haines's Wangaratta electorate office.",
+        "Allegra Spender referred to Haines as a 'force for change' in her tribute."
+      ]
+    },
+    {
+      "summary": "Commonwealth ombudsman's investigation criticizes Labor's algorithm for aged care as unreasonable, unfair, and lacking transparency.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/damning-investigation-labor-algorithm-tool-aged-care-assessment",
+      "points": [
+        "Investigation finds the algorithm-based tool lacks human oversight.",
+        "Report states transparency recommendations from the robodebt royal commission were ignored.",
+        "Algorithm assesses the level of care older Australians are entitled to."
+      ]
+    },
+    {
+      "summary": "Research proposes an attention-free architecture using Grassmann flows for sequence modeling, challenging the necessity of self-attention mechanisms.",
+      "significance": "The story matters because it proposes an attention-free architecture using Grassmann flows that achieves competitive performance with Transformers, offering a more structured approach to neural reasoning.",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "points": [
+        "Grassmann-based models achieve validation perplexities within 10-15% of Transformers on Wikitext-2.",
+        "Grassmann-Plucker head on DistilBERT outperforms Transformer head on SNLI task with accuracies of 0.8550 and 0.8538.",
+        "The Causal Grassmann layer uses Plucker coordinates to encode local token pairs as two-dimensional subspaces."
+      ]
+    },
     {
       "summary": "Lula wins Brazil's presidency for a fourth term, defeating far-right candidate Flávio Bolsonaro.",
       "significance": "Lula's victory marks a return to leftist leadership in Brazil, reversing the far-right trajectory set by Bolsonaro's influence.",
@@ -3708,43 +3747,6 @@
         "Sheikh Saoud bin Abdulrahman al-Thani, Deputy Prime Minister and Minister of State for Defence Affairs, made the announcement.",
         "The announcement was made at the Global Security Forum in Doha.",
         "The partnership aims to strengthen Qatar's military capabilities."
-      ]
-    },
-    {
-      "summary": "Saudi Arabia finds US unwilling to assist against Houthi attacks, despite Prince Mohammed's close ties and promised investments.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
-      "points": [
-        "US declined MBS's request for help after Houthi attacks escalated.",
-        "Prince Mohammed pledged $600bn in US investment and trade over four years.",
-        "Investment promise nearly doubled to almost $1tn, exceeding Saudi annual GDP."
-      ]
-    },
-    {
-      "summary": "Countries face pressure to fulfill commitments to protect nature at Cop17, amid environmental crises like a massive fish die-off in the UK.",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/can-countries-deliver-on-a-deal-to-save-the-worlds-plants-and-animals",
-      "points": [
-        "Over 3,000 fish died in the River Wensum, Norwich, due to pollution and heatwave conditions.",
-        "Only 11 of about 250 unique British chalk rivers have formal protection.",
-        "Cop17 aims to ensure follow-through on global commitments to nature protection."
-      ]
-    },
-    {
-      "summary": "Far-right activist Tommy Robinson accused of using threatening tactics against two MailOnline reporters, causing fear for their safety.",
-      "significance": "The story highlights legal action against Tommy Robinson for alleged harassment of journalists, potentially setting a precedent for protecting journalists from intimidation.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/19/tommy-robinson-harassment-trial-mailonline-journalists-court",
-      "points": [
-        "Robinson, real name Stephen Yaxley-Lennon, is 42 years old.",
-        "He is charged with two counts of harassment involving fear of violence.",
-        "The reporters threatened are Andrew Young and Jacob Dirnhuber."
-      ]
-    },
-    {
-      "summary": "Labour MP Chris Hinchliff urges environment watchdog to block rules allowing nearly 16,000 new homes in Norfolk Broads.",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe",
-      "points": [
-        "Chris Hinchliff urges intervention against \"cash to trash\" planning rules.",
-        "Rules allow almost 16,000 new homes in a protected UK area.",
-        "Critics argue the rules roll back environmental law and harm nature."
       ]
     }
   ]
