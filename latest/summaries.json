@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-26T18:41:50.174356Z",
+  "generated": "2026-10-26T20:41:42.200540Z",
   "summaries": [
+    {
+      "summary": "Lula won Brazil\u2019s election with significant support from a WhatsApp channel.",
+      "significance": "A WhatsApp channel engaged over 10 million Lula supporters, contributing to his electoral victory with a significant vote margin.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
+      "points": [
+        "Over 10 million Lula supporters joined a WhatsApp channel.",
+        "Lula won with 10.3 million more votes than previously.",
+        "Allies credit the WhatsApp app as key to his victory."
+      ]
+    },
+    {
+      "summary": "Eighty people were injured when a bus crashed into a car and fell down an embankment near Barcelona.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
+      "points": [
+        "80 people injured in the accident.",
+        "Four individuals suffered serious injuries.",
+        "The incident occurred near Barcelona, involving a bus and a car."
+      ]
+    },
+    {
+      "summary": "Netanyahu uses alarmist rhetoric and reportedly pressures military to attack Iran ahead of elections.",
+      "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+      "points": [
+        "Netanyahu posted an AI-generated image of a nuclear mushroom cloud over Tel Aviv.",
+        "His far-right coalition is narrowly trailing in the polls ahead of Tuesday\u2019s elections.",
+        "He told voters choosing him is necessary to avoid nuclear annihilation."
+      ]
+    },
+    {
+      "summary": "Victorian Greens plan to introduce a lobbyist register and ban donations from certain industries.",
+      "significance": "The Victorian Greens' plan to establish a lobbyist register and ban political donations from certain industries aims to reduce corporate influence in politics.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "points": [
+        "Victorian Greens to announce ban on political donations from gambling, fossil fuel, and property development sectors.",
+        "Plan includes a legislated register for lobbyists to increase transparency.",
+        "Greens argue corporate donations expect returns, harming everyday Victorians."
+      ]
+    },
+    {
+      "summary": "The Type Server Protocol (TSP) is a JSON-RPC protocol for Python analysis data, using LSP conventions and supporting multi-connection mode for performance.",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "points": [
+        "TSP uses semantic version strings for client/server compatibility checks.",
+        "Multi-connection mode allows for additional read-only channels for high-volume type queries.",
+        "The protocol supports JSON-RPC over stdio or Node IPC, with stdout reserved for protocol messages."
+      ]
+    },
+    {
+      "summary": "ChatGPT directs users with tech issues to 404 Media, suggesting journalistically notable discoveries.",
+      "significance": "ChatGPT redirects tech support seekers to 404 Media, highlighting the AI's influence and potential misuse in guiding users.",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "points": [
+        "ChatGPT advises users experiencing tech problems to contact 404 Media.",
+        "Big tech platforms lack accessible customer support, driving users to ChatGPT.",
+        "Jason Koebler highlights AI's role in misguiding tech support seekers."
+      ]
+    },
     {
       "summary": "US Senate candidates are challenging weapons transfers to Israel, potentially impacting Congressional votes on military support.",
       "significance": "The midterms could shift Congressional votes to potentially block military support for Israel, challenging existing US weapons transfers.",
@@ -3691,62 +3748,6 @@
         "The bug affects 0.000000000000000000542% of cases, specifically with 32-bit integers.",
         "The fix involves using unsigned arithmetic to avoid undefined behavior in C.",
         "Performance cost is a branch on every signed division, impacting throughput."
-      ]
-    },
-    {
-      "summary": "Italy sends 500 troops to Milan as protests over poor services and rising costs lead to looting and vandalism.",
-      "significance": "The deployment of troops in Milan follows days of protests over poor public services and rising costs, affecting the city's luxury shops and public safety.",
-      "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-      "points": [
-        "Deputy Prime Minister Matteo Salvini announced the deployment.",
-        "Milan shops closed early and boarded up due to fear of violence.",
-        "Security measures package expected to be approved at Tuesday's cabinet meeting."
-      ]
-    },
-    {
-      "summary": "Tottenham Hotspur secured their first win of the season, moving them out of the bottom three in the Premier League after defeating Coventry City 3-1.",
-      "url": "https://www.theguardian.com/football/2026/oct/19/tottenham-coventry-premier-league-match-report",
-      "points": [
-        "Tottenham's win marks their sixth home victory in the Premier League since November 2024.",
-        "Omar Marmoush scored his first goal for Spurs in the 59th minute, though he was lucky not to be penalized for an elbow.",
-        "Coventry City contested the validity of the second Spurs goal, delivered by Marmoush."
-      ]
-    },
-    {
-      "summary": "US extends deportation reprieve for migrants from Ukraine and Sudan, protecting over 100,000 individuals.",
-      "significance": "The story affects over 100,000 migrants from Ukraine and Sudan by granting them a temporary reprieve from deportation.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
-      "points": [
-        "Over 101,000 Ukrainians and about 1,800 Sudanese retain protections.",
-        "Temporary protected status was set to expire on Monday.",
-        "DHS will make a final announcement at an unspecified future date."
-      ]
-    },
-    {
-      "summary": "A drone attack near a market in Sudan's al-Dibab killed 80 people, mostly commuters.",
-      "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-      "points": [
-        "80 people were killed in the attack, including the witness's brother Mohamed.",
-        "The attack occurred in al-Dibab, a town in West Kordofan state.",
-        "The drone struck a transport hub near a market where people were catching rides home."
-      ]
-    },
-    {
-      "summary": "Barber Ricky Jefferies intervened in the attack on MP Helen Haines, earning praise from the PM.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb",
-      "points": [
-        "PM hailed Jefferies as a hero for his actions in Wangaratta.",
-        "Jefferies, a barber, grabbed and held the alleged attacker after finishing a haircut.",
-        "Incident occurred outside Jefferies' shop, adjacent to Haines' electorate office."
-      ]
-    },
-    {
-      "summary": "Morocco's King Mohammed VI appointed Fatima Zahra El Mansouri as the country's first female prime minister, sparking debate on women's roles in leadership.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Mustafa Ramid questioned a woman holding the highest political office, citing an Islamic saying.",
-        "El Mansouri's party won the most seats in September's parliamentary election, holding 207 of 395 seats.",
-        "Younger Moroccans welcomed her appointment, but conservative views still resist reforms on family law and gender equality."
       ]
     }
   ]

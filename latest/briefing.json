@@ -2,6 +2,42 @@
   "date": "2026-10-26",
   "stories": [
     {
+      "title": "How a WhatsApp channel helped Lula win Brazil’s election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Over 10 million Lula supporters joined a WhatsApp channel to help boost his campaign.",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+      "url": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Democratic candidate for the US Senate has been the subject of Islamophobic attacks from Trump.",
+      "alsoReportedBy": ["NPR"]
+    },
+    {
+      "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The proposed rule is a major step forward in addressing a form of fraud that has robbed SNAP recipients of millions.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "80 injured after bus plunges down embankment near Barcelona",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "80 injured after bus plunges down embankment near Barcelona",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
       "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
       "source": "NPR",
@@ -11,31 +47,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Could the midterms change America’s military support for Israel?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US midterm elections 2026 in maps and charts",
-      "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "On November 3, Americans decide which party controls the US Congress for the second half of Donald Trump&#039;s presidency.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Zelenskyy says peace talks with Russia, US to restart",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Zelenskyy says peace talks with Russia, US to restart",
-      "alsoReportedBy": []
+      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90",
@@ -56,15 +74,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Lula miraculously beat the Brazilian far right and Donald Trump. But have no doubt: the region is still in peril | Jordana Timmerman",
       "url": "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election",
       "source": "The Guardian",
@@ -74,21 +83,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Self-destructive or helpful? How to harness envy for your benefit",
-      "url": "https://www.theguardian.com/global/ng-interactive/2026/oct/26/turn-envy-into-motivation",
+      "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+      "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "In her new book, Envy, Stacy Kim explains how to understand the feeling, identify your deeper desires and use them to achieve your goals In the 16th-century poem The Faerie Queene, envy is a ghoulish figure riding a ravenous wolf, sad to see the fortune of others and “wonderous glad” of their hardship. It’s not a flattering depiction; better to be thankful for what we have, rather than dwell on such a bitter and self-destructive feeling, right? Maybe not. “I think that when we don’t examine our envy, that’s when it leads us astray,” says Dr Stacy Kim, social scientist, life coach and author of the new book Envy: Why Wanting What They Have is the Key to Getting What You Want. Kim wrote the book after seeing the way envy came up for her coaching clients and reflecting on the role it had in her own life. The book is informed by social science and philosophy research, as well as her personal and professional experiences. Similar target: “You remind yourself: ‘Hey, the reason why I’m feeling this envy is because what I want is within my reach,’” she says. Intangible desire, as mentioned above Relevant comparison: Identify which specific domain – something you care about or already participate in – is relevant to your desires Negative emotion: How long does it last? How intense is the message it’s sending? This tells us how important the feeling is. Envy: Why Wanting What They Have is the Key to Getting What You Want by Stacy S Kim is out now via Balance Continue reading...",
+      "summary": "Israeli prime minister increases alarmist rhetoric as his far-right coalition narrowly trails in polls Benjamin Netanyahu has resorted to increasingly alarmist rhetoric and reportedly put pressure on Israel’s military to take action against Iran as his far-right coalition narrowly trails in the polls ahead of Tuesday’s close-run elections. The Israeli prime minister posted an AI-generated image of a nuclear mushroom cloud destroying Tel Aviv, telling Israeli voters to choose him or risk nuclear annihilation. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "‘A cultural moment’: smash hit doc You Can See Everything continues to dazzle America",
-      "url": "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Nathan Fielder’s three-hour Elizabeth Holmes film has become a pop culture phenomenon but at a sold-out Times Square screening, no one was quite sure what to think In You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain Secrets, lies and a shock A-list cameo: how You Can See Everything became the film of the year When I see a film a second time during its theatrical run, it’s typically to take someone else who hasn’t yet seen it, at least in part hoping to witness their reaction to a piece of art that excited or moved me in some way. Seeing Lance Oppenheim and Nathan Fielder’s You Can See Everything a second time in New York City on a Saturday night was that impulse writ larger. This is a movie garnering a surprisingly sizable audience, and outsized audience reactions to go along with it; rewatching it in a full 300-seat auditorium offered the opportunity to re-experience that sense of discovery. Perhaps more to the point, almost everyone I knew had seen it already; all I could do was observe strangers. This documentary, peering into (and helping to create) a hall of mirrors around the famed med-tech scammer Elizabeth Holmes, has become the box office story of the fall, actually rising 25% on its second weekend to gross another $19.5m – a rare feat even given its expanded screen count. With over $45m in North America, it’s already one of A24’s biggest movies ever; it could wind up in the company’s top three, and way up on the list of the highest-grossing nonfiction features. If You Can See Everything isn’t quite an Obsession -level cash cow, it’s probably even more surprising that a three-hour documentary whose existence was only announced about eight weeks ago is on track to make more money than high-profile new releases like Practical Magic 2, Verity and Street Fighter, among others. It’s also outgrossed co-director Oppenheim’s fellow A24 surprise hit Primetime , which has the benefit of genuine movie star Robert Pattinson. Continue reading...",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
       "alsoReportedBy": []
     },
     {
@@ -98,15 +116,6 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "A viral WhatsApp channel and student-led protests played a key role in the veteran Brazilian leftist’s election victory After the first round of the Brazilian presidential election three weeks ago, the leftist incumbent Luiz Inácio Lula da Silva reportedly told allies he could not understand how he finished second after a government he considered the best of his three terms. A mood of dismay swept Brazil’s left, and because 9 million voters for the other candidates, all of them on the right, were expected to mostly transfer to senator Flávio Bolsonaro, analysts widely saw the far-right senator’s victory as certain. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "alsoReportedBy": []
     },
     {
@@ -124,25 +133,16 @@
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "A political earthquake in Serbia as a student-backed movement wins the parliamentary election, ending more than a decade of dominance by a Moscow-backed populist leader.",
+      "summary": "A political earthquake has occurred in Serbia as a student-backed movement wins the parliamentary election, ending more than a decade of dominance by a Moscow-backed populist leader.",
       "alsoReportedBy": []
     },
     {
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "alsoReportedBy": []
     },
     {
@@ -155,35 +155,35 @@
       "alsoReportedBy": ["NPR World"]
     },
     {
-      "title": "US Marine indicted for murder and robbery of woman in Japan",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
       "alsoReportedBy": []
     },
     {
-      "title": "NHS consultants to go on two-day strike in England in November",
-      "url": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
+      "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Industrial action by senior doctors to begin on 25 November with only emergency cover provided, BMA says England’s most senior hospital doctors will strike next month in a dispute over their pay and hours, prompting NHS bosses to warn that patients will suffer “pain, discomfort and inconvenience”. Consultant doctors, who earn an average of £152,000 a year inclusive of overtime and merit awards, will stage a two-day walkout on 25 and 26 November, as hospitals gear up for the extra pressures winter brings. Continue reading...",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast The Victorian Greens will today announce an election commitment to establish a lobbyist register and ban political donations from “big corporate money”. The party said under their plan, there would be a legislated register for lobbyists with teeth and a total ban on political donations from the gambling industry, fossil fuel companies and property developers. These corporations don’t hand over thousands of dollars out of the goodness of their hearts. They expect something in return, and it’s everyday Victorians who end up paying the price. They’ve both dealt with male-dominated industries with cultures that are pretty rough and challenging for women, and so they’re perfect people to lead that cultural journey. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Jury selected for trial of four accused of sexually assaulting man’s drugged ex-wife",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
-      "source": "Guardian World",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Mr Justice Saini tells the eight men and six women at Winchester crown court the case is likely to be upsetting Jurors being selected for the trial of four men accused of sexually assaulting the ex-wife of a former Conservative councillor, who has admitted repeatedly drugging and raping her, have been warned the case is likely to be upsetting. Philip Young, 50, has pleaded guilty to multiple charges of abuse against his former wife, Joanne Young, who has waived her right to anonymity. Continue reading...",
+      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
       "alsoReportedBy": []
     },
     {
-      "title": "Meta Employees Denounce Interference in Brazilian Elections",
-      "url": "https://www.panamericandispatch.org/p/meta-employees-denounce-interference",
+      "title": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,8 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,21 +263,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Gram 3.4.0 released",
-      "url": "https://gram-editor.com/posts/release-3.4.0/",
-      "source": "Lobsters",
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Supabase’s Plan for a Billion AI-Built Apps",
-      "url": "https://latent.space/p/supabase_s_plan_for_a_billion_ai-built_apps/",
-      "source": "Latent Space",
+      "title": "Quoting Jason Koebler",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplestone and Ant Wilson join swyx to discuss running long-lived workloads alongside the database, making schemas easier for agents to underst...",
+      "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. — Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Tags: jason-koebler , openai , journalism , ai , llms , ai-ethics , ai-misuse , generative-ai , chatgpt , 404-media",
       "alsoReportedBy": []
     },
     {
@@ -308,6 +308,15 @@
       "alsoReportedBy": ["Simon Willison"]
     },
     {
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "battledrones v14: Compass Rose, a four player map",
       "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
       "source": "Simon Willison",
@@ -317,21 +326,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Quick Study",
-      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts. Tags: tools",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "AI Is Getting Good at Math. Here’s Why.",
-      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "title": "[AINews] Black October",
+      "url": "https://latent.space/p/ainews-black-october/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -353,12 +353,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] Black October",
-      "url": "https://latent.space/p/ainews-black-october/",
-      "source": "Latent Space",
+      "title": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "",
+      "summary": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts. Tags: tools",
       "alsoReportedBy": []
     }
   ]
