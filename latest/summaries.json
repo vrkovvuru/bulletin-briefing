@@ -1,6 +1,80 @@
 {
-  "generated": "2026-10-26T16:42:31.003047Z",
+  "generated": "2026-10-26T18:41:50.174356Z",
   "summaries": [
+    {
+      "summary": "US Senate candidates are challenging weapons transfers to Israel, potentially impacting Congressional votes on military support.",
+      "significance": "The midterms could shift Congressional votes to potentially block military support for Israel, challenging existing US weapons transfers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+      "points": [
+        "Senate candidates from Texas and Michigan are leading the challenge.",
+        "The midterms could shift Congressional votes to block military support for Israel."
+      ]
+    },
+    {
+      "summary": "Zelenskyy announces trilateral peace talks between Ukraine, Russia, and the US next month.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
+      "points": [
+        "Talks involve Ukraine, Russia, and the US.",
+        "Zelenskyy seeks direct meeting with Putin to address territorial issues.",
+        "Restart of peace discussions scheduled for next month."
+      ]
+    },
+    {
+      "summary": "Dr. Stacy Kim's new book, \"Envy,\" explores how to transform envy into a tool for achieving personal goals.",
+      "url": "https://www.theguardian.com/global/ng-interactive/2026/oct/26/turn-envy-into-motivation",
+      "points": [
+        "Kim argues examining envy can lead to understanding deeper desires.",
+        "Envy's intensity and duration indicate its importance in personal growth.",
+        "The book combines social science, philosophy, and Kim's personal experiences."
+      ]
+    },
+    {
+      "summary": "Lula's comeback in Brazil's presidential election was aided by social media and street protests.",
+      "significance": "Student-led protests and a viral WhatsApp channel helped Lula achieve an unexpected victory in Brazil's presidential election.",
+      "url": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+      "points": [
+        "Lula finished second in the first round, surprising even him.",
+        "9 million voters from right-wing candidates were expected to transfer to Flávio Bolsonaro.",
+        "A viral WhatsApp channel and student-led protests supported Lula's campaign."
+      ]
+    },
+    {
+      "summary": "Senior NHS doctors in England will strike for two days in November over pay and hours, warning of patient disruption.",
+      "url": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
+      "points": [
+        "Strike dates set for November 25 and 26.",
+        "Consultants earn an average of £152,000 annually.",
+        "NHS warns of patient \"pain, discomfort and inconvenience."
+      ]
+    },
+    {
+      "summary": "Jurors warned of upsetting content as trial begins for four men accused of sexually assaulting a drugged ex-wife, whose husband admits drugging and raping her.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
+      "points": [
+        "Philip Young, 50, pleaded guilty to multiple abuse charges against his former wife.",
+        "Joanne Young waived her right to anonymity in the case.",
+        "Trial taking place at Winchester crown court with eight male and six female jurors."
+      ]
+    },
+    {
+      "summary": "Meta employees denounce the company\u2019s interference in Brazilian elections, accusing leadership of biased favoritism towards the Bolsonaro family.",
+      "significance": "Meta employees protest interference in Brazilian elections, highlighting risks to democratic processes and public trust in digital platforms.",
+      "url": "https://www.panamericandispatch.org/p/meta-employees-denounce-interference",
+      "points": [
+        "Meta employees accuse leadership of obvious and biased favoritism towards the Bolsonaro family during Brazilian elections.",
+        "A protest against Meta\u2019s interventions in Brazilian elections took place on October 24 in London.",
+        "Employees warn that such actions could damage public trust in democratic institutions and digital platforms."
+      ]
+    },
+    {
+      "summary": "Gram 3.4.0 has been released with numerous fixes, new features, and some usability changes.",
+      "url": "https://gram-editor.com/posts/release-3.4.0/",
+      "points": [
+        "Release includes ability to wrap tab bar instead of horizontal scrolling.",
+        "Git commit history view now accessible from the git panel.",
+        "Security updates include permission requirements for downloading extension-provided DAPs and LSPs."
+      ]
+    },
     {
       "summary": "Lula won Brazil's presidential runoff, defeating Flávio Bolsonaro in a historic comeback.",
       "significance": "Lula's victory demonstrates that defending democracy and social welfare policies can effectively counter the rise of the far right in Brazil.",
@@ -3673,81 +3747,6 @@
         "Mustafa Ramid questioned a woman holding the highest political office, citing an Islamic saying.",
         "El Mansouri's party won the most seats in September's parliamentary election, holding 207 of 395 seats.",
         "Younger Moroccans welcomed her appointment, but conservative views still resist reforms on family law and gender equality."
-      ]
-    },
-    {
-      "summary": "Trump attributes unrest in France to immigration, ignoring issues like school conditions and cost of living.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
-      "points": [
-        "Trump claims he warned Macron about mass immigration affecting France.",
-        "Protests started due to rising fuel prices and cost of living, leading to 1,800 arrests.",
-        "Overnight curfews were issued in several French cities, including parts of Paris."
-      ]
-    },
-    {
-      "summary": "Cyber attackers exploited vulnerabilities in French supermarket refrigeration systems, causing them to warm up on the night of October 11 to 12, 2026.",
-      "significance": "The story highlights significant cybersecurity vulnerabilities in France's supermarket refrigeration systems, affecting food safety and highlighting the need for better protection of critical infrastructure.",
-      "url": "https://ipinfo.io/blog/france-fridges-hack",
-      "points": [
-        "France had 1,331 exposed fridge dashboards, more than the rest of the world combined.",
-        "Only 195 of the French dashboards had every known security fix before the attack.",
-        "Carrefour reported 80 of its stores were affected by the cyber attack."
-      ]
-    },
-    {
-      "summary": "OpenBSD 8.0 introduces new drivers and updates, including Clang/LLVM 22 as the base compiler and support for Intel Arc A-Series cards.",
-      "url": "https://bsd.network/@brynet/117407035545900963",
-      "points": [
-        "Clang/LLVM 22 becomes the base compiler, with updated support libraries.",
-        "Graphics stack updated to Linux 6.18.y/6.18.53, supporting Intel Arc A-Series cards.",
-        "KVA on amd64 increased to 512G, allowing more than 4G of VRAM mapping."
-      ]
-    },
-    {
-      "summary": "An obituary for programming laments the shift from puzzle-solving to reliance on coding agents.",
-      "significance": "The article highlights the significant impact of AI on career programmers, potentially altering job roles and reducing the need for human-coded solutions.",
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-      "points": [
-        "Career programmers enjoyed solving complex logic puzzles as part of their job.",
-        "LLMs have taken over, diminishing the need for human programmers to solve problems.",
-        "The change impacts those who find joy in the problem-solving aspect of programming."
-      ]
-    },
-    {
-      "summary": "Trump faces low approval ratings amid criticism over waiving Russia sanctions and comments on Ukraine negotiations.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-      "points": [
-        "Trump's approval rating hits a new low of 33% according to a Washington Post-ABC poll.",
-        "Trump suggests 'somebody else' should negotiate for Ukraine amid sanctions controversy."
-      ]
-    },
-    {
-      "summary": "Australian MP Helen Haines was critically injured after being struck by a car driven by a man who allegedly targeted her.",
-      "significance": "The story highlights the escalating dangers faced by Australian politicians, challenging the notion that threats against them are insignificant.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb",
-      "points": [
-        "Incident occurred on Monday at 3:35pm outside Haines' electorate office in Mansfield, Victoria.",
-        "Haines was previously at a dog park opening, engaging with locals in her electorate.",
-        "The attacker is reportedly known to authorities and targeted Haines with his vehicle."
-      ]
-    },
-    {
-      "summary": "Burnham asks officials for more radical options to address Thames Water issues.",
-      "url": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
-      "points": [
-        "Burnham urges advisers to develop new policies for Thames Water.",
-        "Thames Water seen as a test of Burnham's promise to control life essentials.",
-        "Officials told to discard existing plans and present more radical alternatives."
-      ]
-    },
-    {
-      "summary": "A user installs Arch Linux on an ASUS ProArt P16 H7607BA-SE033W laptop due to not having a Microsoft account, highlighting performance and memory advantages.",
-      "significance": "This story demonstrates that Linux can perform comparably to Windows on high-end hardware, offering an alternative for users without a Microsoft account.",
-      "url": "https://josie.lol/blog/linux-rtx-spark",
-      "points": [
-        "The Arch Linux setup reports 116.0 GiB memory pool, outperforming Windows' divided memory allocation.",
-        "The CPU test using 7-Zip shows Linux setup is about 5% ahead on compression and 3% ahead on decompression compared to Windows.",
-        "The laptop supports running large models with nearly 90 GiB allocated to the model and KV cache on a single laptop."
       ]
     }
   ]
