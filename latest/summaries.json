@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-27T02:41:09.144448Z",
+  "generated": "2026-10-27T04:41:12.389995Z",
   "summaries": [
+    {
+      "summary": "Former FBI Director James Comey faces third prosecution by Trump's Justice Department for allegedly sharing sensitive information.",
+      "significance": "The repeated prosecution of Comey by Trump's Justice Department highlights the politicization of law enforcement and challenges to former officials.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss",
+      "points": [
+        "Comey accused of sharing national security info before 2016 election.",
+        "Trump\u2019s Justice Department prosecuting Comey for third time in two years.",
+        "Comey denies charges, defends himself in Instagram video."
+      ]
+    },
+    {
+      "summary": "US military bans Chinese BYD electric vehicles from Kadena airbase in Japan due to security concerns.",
+      "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+      "points": [
+        "Ban applies to all BYD vehicles, including delivery drivers and taxis at Kadena airbase.",
+        "Kadena airbase is located on the southern Japanese island of Okinawa.",
+        "The ban took effect this week and may extend to other US military facilities."
+      ]
+    },
+    {
+      "summary": "Lula won Brazil\u2019s presidential election, securing a fourth term and becoming the country's longest-serving leader.",
+      "significance": "Lula's victory marks a significant political shift in Brazil, potentially altering the country's policies and international relations after Bolsonaro's tenure.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "points": [
+        "Lula won with 51.79% of the vote against Bolsonaro's 48.21%.",
+        "It was the first time a first-round verdict was overturned in Brazilian history.",
+        "Polling time was extended by two hours by a supreme court judge."
+      ]
+    },
+    {
+      "summary": "NSW police officer Beau Lamarre-Condon claims he wanted to report deaths but was encouraged by a friend to dispose of bodies instead.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/27/beau-lamarre-condon-claims-friend-lied-to-police-first-statement-to-trial-ntwnfb",
+      "points": [
+        "Lamarre-Condon, 31, is accused of fatally shooting Jesse Baird and Luke Davies.",
+        "The murders occurred in Baird\u2019s Paddington home on February 19, 2024.",
+        "Lamarre-Condon stated he initially wanted to do the 'right thing' by the families."
+      ]
+    },
+    {
+      "summary": "OBS and FFmpeg offer superior control over video quality in conferences compared to proprietary clients.",
+      "significance": "The story highlights the advantages of using OBS and FFmpeg over traditional video conferencing software, offering users more control over video quality.",
+      "url": "http://shittyscreenshare.com",
+      "points": [
+        "WHIP is an open standard enabling OBS and FFmpeg to join video conferences.",
+        "OBS and FFmpeg allow users to customize resolution, frame rate, bitrate, and codec.",
+        "Users can send an angry email to providers not supporting WHIP for better quality."
+      ]
+    },
     {
       "summary": "Russian strikes hit Kyiv, killing one and wounding eight, just before a truce begins in Oleshky.",
       "significance": "The story highlights the ongoing humanitarian crisis and the impact of continued missile strikes on civilian areas in Ukraine, despite a truce in Oleshky.",
@@ -3701,52 +3749,6 @@
         "Proposal suggests turning the mall into an AI exhibit, not a traditional datacenter.",
         "San Francisco Centre has been boarded up since January of this year.",
         "The mall's location is central to urban renewal efforts post-Covid pandemic."
-      ]
-    },
-    {
-      "summary": "Storm Austen, the first named storm of the season, is forecast to hit southern UK with gusts up to 60mph by the end of the week.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/20/storm-austen-named-uk-severe-weather-warning",
-      "points": [
-        "Yellow severe weather warning issued for southern UK.",
-        "Storm Austen expected to bring gusts of up to 60mph.",
-        "Storm to approach southern UK by Thursday."
-      ]
-    },
-    {
-      "summary": "DeepSeek has made its high-performance inference engine, DeepInfer, open-source.",
-      "significance": "DeepSeek's open-sourcing of DeepInfer affects developers and AI researchers by providing access to a high-performance inference framework for large-scale applications.",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "points": [
-        "DeepInfer accelerates decoding using draft tokens and confidence estimates for verification.",
-        "It supports overlapping CPU batch scheduling with device execution by default.",
-        "The framework requires a Python 3.12 environment for building."
-      ]
-    },
-    {
-      "summary": "Article details how to set up SSH keys on macOS using Touch ID for enhanced security.",
-      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-      "points": [
-        "SSH keys created on Secure Enclave cannot be extracted or stolen.",
-        "Setup involves creating an identity, configuring SSH to use it, and adding the key to GitHub.",
-        "Touch ID is required for authentication, adding a layer of security that prevents identity theft."
-      ]
-    },
-    {
-      "summary": "MicroG GmsCore offers a free, open-source alternative to Google's proprietary Android services.",
-      "url": "https://github.com/microg/GmsCore/wiki",
-      "points": [
-        "MicroG GmsCore enables running apps that use Google APIs on AOSP-based ROMs like LineageOS.",
-        "It includes UnifiedNlp for handling network location provider calls.",
-        "Users must also install a Play Store replacement for a full setup."
-      ]
-    },
-    {
-      "summary": "A new monospace font named Nordwand Mono, inspired by classic and modern fonts, is designed for developers and adventurers.",
-      "url": "https://github.com/tywr/Nordwand-Mono",
-      "points": [
-        "Font combines elements from \"Univers\" and \"JetBrains Mono\".",
-        "Designed using Python, allowing customization of metrics like x-height.",
-        "Only two ligatures are currently included: \"->\" and \"=>\"."
       ]
     }
   ]
