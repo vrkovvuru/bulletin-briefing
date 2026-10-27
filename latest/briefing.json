@@ -2,6 +2,15 @@
   "date": "2026-10-26",
   "stories": [
     {
+      "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+    },
+    {
       "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
       "url": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
       "source": "NPR",
@@ -11,13 +20,40 @@
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "US President Donald Trump has suggested renaming the Atlantic Ocean the ‘American Ocean’ at a Republican rally.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
+      "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Trump pushes unsubstantiated claims about Brazil&#039;s presidential vote but says he &#039;didn&#039;t take sides&#039; in the race.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "alsoReportedBy": ["Al Jazeera"]
     },
     {
       "title": "Jordan attacks Syria in response to Karak church attack",
@@ -29,48 +65,12 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Iran says the United States is \"not serious\" about negotiations as UKMTO reports a ship on fire off the coast of Iraq.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Bolsonaro says police demand passports after Brazil election defeat",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Flavio Bolsonaro posted a video on social media saying police ordered him to surrender his passports",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
       "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Republicans are spending millions on the midterms, and they still may not win districts drawn to favor them. And, Brazil's Luiz Inácio Lula da Silva won a fourth term in a stunning political comeback.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
@@ -83,12 +83,12 @@
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "Trump lashes out at Obama for joking that White House looks ‘like Saddam Hussein opened a Cheesecake Factory’ – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+      "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
+      "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Trump defends his renovations and jabs back at his predecessor before boarding plane for rally in Mississippi What are the US midterm elections and why do they matter? Sign up for Breaking News US email In a post to social media on Monday, Ukrainian president Volodymyr Zelenskyy said that Ukraine was facing dwindling stocks of Patriot interceptor missiles after Pete Hegseth, Trump’s defense secretary, had delayed authorizing new supplies. “We have been waiting for nearly a month for Mr. Hegseth to sign off on missiles for Patriots and NASAMS,” Zelenskyy wrote. “I instructed our team to raise this with the American side once again. Conversations with other countries are also ongoing.” Continue reading...",
+      "summary": "Zelenskyy says ballistic missiles hit crowded areas with no military facilities nearby; truce comes amid reports of growing humanitarian crisis. What we know on day 1,707 Russian strikes on Kyiv killed one person and wounded eight , with mayor Vitali Klitschko saying medical facilities and an intensive care unit had been damaged in the late Monday attack. President Volodymyr Zelenskyy said a ballistic missile attack had struck the grounds of a university campus in the Ukrainian capital. “The missiles hit very crowded areas, and there is not a single military facility nearby. This was a strike directly on the city, on its infrastructure,” he said on social media. The strikes on Kyiv came hours before a truce in the ravaged Russian-occupied city of Oleshky was due to start , after months of reports that residents faced dire food, water and medicine shortages . The truce, aimed at allowing humanitarian aid into Oleshky, was to begin at 3am local time (0100 GMT). No end date for the truce has been provided. The city in Ukraine’s southern Kherson region has been caught in the crosshairs of fighting between the two sides since 2022, when it was seized by Russian forces. Neither Russia, Ukraine nor the US has said who would monitor the truce, or given details about the humanitarian operation set to accompany it. The Russian defence ministry said on Friday it would halt fire in the “Kherson sector” for the duration of the ceasefire. Ukraine has accused Russia of blocking residents from leaving, a charge Moscow has denied. Before the latest strikes on Kyiv, Zelenskyy highlighted ​Ukraine was still waiting for US defence secretary Pete Hegseth to sign off on critical missile supplies . “We have been waiting for nearly a month for Mr Hegseth to sign off on missiles for Patriots and NASAMS. I instructed our team to raise this with the ⁠American side once again,” he said on X. Romania said on Monday that a network “coordinated” from Russia was involved in starting a fire near an arms factory . The fire broke out on 14 September near an arms factory in the central city of Brasov and two Belarusians and a Ukrainian – residents in EU countries – were involved, authorities said. Two of them were “tracked down and remanded in custody in Germany while they were preparing to commit similar offences”, the office for organised crime said. The third is at large in Poland, it added. Russia’s embassy in Bucharest could not immediately be reached for comment but Moscow has repeatedly denied such accusations. The attack in Brasov is the latest in a string of similar incidents in Europe , with Nato and the EU grappling with what they say is a “hybrid” campaign of sabotage and interference by the Kremlin aimed at undercutting Western support for Kyiv. Over the past three weeks, at ​least eight cargo ​ships have been hit off the coast of Nato members Romania and Bulgaria. Some 34 sailors are reported dead or missing. Ukraine’s military has begun using specialised aerial rescue drones to evacuate wounded soldiers from the battlefield , carrying two stranded troops to safety near the Russian border in the first such operations. The newly developed StarGate drone, a six-rotor aircraft fitted with an enclosed evacuation capsule, was used in two separate missions over the past week, the 475th Separate Assault Regiment, an elite unit, said on Monday. Developed by Ukrainian technology company SkyFall, the drone is intended to reduce rescue times from hours to minutes, reaching hard-to-access combat zones currently served by unmanned ground vehicles. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,6 +110,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Australian politics live: Albanese mulls duress alarms for MPs; former ABC news director’s payout revealed",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’, Anne Ruston says A day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines , who was injured after an alleged attack in her electorate, the Liberal senator Anne Ruston maintains that respect is necessary in political debate. What we do here sets the tone for what the rest of the nation thinks is acceptable. There is a huge responsibility on politicians, not to shy away from robust debate. I don’t want anyone to think that we shouldn’t be having strong debate. It’s simply out of control in an online world and we’ve got to make the platforms accountable. Facebook is the worst in terms of the platforms, Instagram and TikTok less so, but still bad. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Russia says it will open humanitarian corridor to Ukrainian town",
       "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
       "source": "NPR World",
@@ -128,22 +137,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus nuclear sub for Australia revealed",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Political debate should be ‘robust but respectful’: Ruston A day after MPs addressed the House of Representatives paying tribute to independent Helen Haines , who was injured after an alleged attack in her electorate, Liberal senator Anne Ruston maintains that respect is necessary in political debate. What we do here sets the tone for what the rest of the nation thinks is acceptable. There is a huge responsibility on politicians, not to shy away from robust debate. I don’t want anyone to think that we shouldn’t be having strong debate. It’s simply out of control in an online world and we’ve got to make the platforms accountable. Facebook is the worst in terms of the platforms, Instagram and TikTok less so, but still bad. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "alsoReportedBy": ["NPR World"]
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "alsoReportedBy": []
     },
     {
       "title": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
@@ -155,12 +155,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+      "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across the country’s east, a government official said. The drones hit two power stations each in the states of Al-Jazira and Gedaref and one in White Nile state, “resulting in power outages across large parts of these three states”, the official said on condition of anonymity. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "summary": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
       "alsoReportedBy": []
     },
     {
@@ -173,16 +182,16 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
       "source": "Hacker News",
       "category": "engineering",
@@ -194,15 +203,6 @@
       "title": "Websites Should Be Printable",
       "url": "https://brennenputh.me/blog/printable-websites/",
       "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -227,8 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",

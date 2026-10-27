@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-27T00:41:26.517670Z",
+  "generated": "2026-10-27T02:41:09.144448Z",
   "summaries": [
+    {
+      "summary": "Russian strikes hit Kyiv, killing one and wounding eight, just before a truce begins in Oleshky.",
+      "significance": "The story highlights the ongoing humanitarian crisis and the impact of continued missile strikes on civilian areas in Ukraine, despite a truce in Oleshky.",
+      "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+      "points": [
+        "Russian missiles damaged medical facilities and an intensive care unit in Kyiv.",
+        "Truce in Oleshky, aimed at allowing humanitarian aid, began at 3am local time.",
+        "Zelenskyy highlights Ukraine's wait for US defence secretary to sign off on missile supplies."
+      ]
+    },
+    {
+      "summary": "Sudan's paramilitary group, Rapid Support Forces, attacked five power stations in eastern states, causing widespread power outages.",
+      "significance": "The drone strikes by Sudan's paramilitary forces on power stations highlight the escalating conflict's impact on civilian infrastructure and daily life.",
+      "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+      "points": [
+        "Rapid Support Forces launched coordinated drone strikes on five power stations.",
+        "Strikes hit two stations each in Al-Jazira and Gedaref, and one in White Nile state.",
+        "Attacks resulted in power outages across large parts of the three affected states."
+      ]
+    },
+    {
+      "summary": "The oldest GUI application that still runs on Windows 11 without modifications is nearly 34 years old.",
+      "significance": "The story highlights Windows 11's backward compatibility, showcasing an application from 1989 that still runs without modifications or emulation.",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "points": [
+        "16-bit Windows programs cannot run on 64-bit Windows 11.",
+        "A small DLL can emulate a CD-ROM drive to play audio in the old application."
+      ]
+    },
     {
       "summary": "Federal court rejects Trump's DOJ attempt to block counting of 20,000 ballots in California, deeming them from non-citizens.",
       "significance": "Court ruling prevents disruption to California's voting process, upholding state's election procedures against federal interference.",
@@ -3718,35 +3747,6 @@
         "Font combines elements from \"Univers\" and \"JetBrains Mono\".",
         "Designed using Python, allowing customization of metrics like x-height.",
         "Only two ligatures are currently included: \"->\" and \"=>\"."
-      ]
-    },
-    {
-      "summary": "Fourteen people died when an illegal gold mine collapsed in a remote part of Colombia.",
-      "significance": "The collapse highlights dangers of illegal mining in Colombia, leading to significant loss of life in remote areas.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
-      "points": [
-        "Fourteen individuals were killed in the collapse.",
-        "The mine is located in a remote area, accessible only by boat or plane.",
-        "Search efforts have been halted due to the remote location."
-      ]
-    },
-    {
-      "summary": "Mother of alleged Alan Jones victim testified about trusting the broadcaster despite her son feeling violated.",
-      "significance": "The testimony highlights the trust placed in Jones by the victim's family, underscoring the alleged abuse's betrayal of that trust.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/alan-jones-alleged-victim-mother-trusted-radio-host-ntwnfb",
-      "points": [
-        "Mother testified she trusted Alan Jones and felt comfortable letting her son stay at his property.",
-        "Complainant A, then 17, said Jones kissed him and touched him on the bottom at Fitzroy Falls.",
-        "The young man described feeling \"violated and gross\" after the alleged incident."
-      ]
-    },
-    {
-      "summary": "UK intelligence chief warns AI could alter bioweapon threats.",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
-      "points": [
-        "Sir Ken McCallum, MI5 head, highlighted AI's potential to escalate bioweapon risks.",
-        "Dr. Tom Inglesby discusses the concerns and preventive measures on a podcast.",
-        "The discussion centers on how AI could innovate and amplify existing bioweapon dangers."
       ]
     }
   ]
