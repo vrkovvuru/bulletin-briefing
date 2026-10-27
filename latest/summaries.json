@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-27T20:44:10.993175Z",
+  "generated": "2026-10-27T22:42:05.880547Z",
   "summaries": [
+    {
+      "summary": "Chancellor Healey prepares first budget amid economic challenges, aiming to alleviate cost of living pressures.",
+      "significance": "Healey aims to alleviate cost of living pressures with modest policies in his first budget, acknowledging the UK's current economic difficulties.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
+      "points": [
+        "Healey acknowledges UK's \"difficult moment\" but aims for a better future path.",
+        "Budget expected to include modest policies to provide households with relief.",
+        "Chancellor's first budget set for Wednesday, amidst turbulent global economic conditions."
+      ]
+    },
+    {
+      "summary": "AI bots submitted 75% of responses in UK government's 2023 consultation on banning disposable vapes.",
+      "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+      "points": [
+        "75% of responses were machine-generated.",
+        "Attempt aimed to prevent the tobacco and vapes bill from passing.",
+        "This is believed to be the first use of AI to influence UK health policy."
+      ]
+    },
+    {
+      "summary": "JD Vance intensifies attacks on Abdul El-Sayed, linking him to riots and Islamophobia.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/jd-vance-el-sayed-attacks",
+      "points": [
+        "Vance claims El-Sayed would lead in \"burning down\" Detroit.",
+        "El-Sayed, if elected, would be the first Muslim US Senator.",
+        "Donald Trump previously called El-Sayed a \"jihadist."
+      ]
+    },
+    {
+      "summary": "Israel's election results are too close to call, with the opposition bloc slightly ahead of Netanyahu's coalition.",
+      "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
+      "points": [
+        "Opposition bloc led by Gadi Eisenkot is projected to win most Knesset seats.",
+        "Netanyahu\u2019s Likud party is projected to be the largest single party.",
+        "Record turnout, including high participation from Israeli Arab voters."
+      ]
+    },
+    {
+      "summary": "Google DeepMind introduces Genie 4, a new world simulation model that enhances realism and interactivity.",
+      "significance": "Genie 4 advances world simulation capabilities, offering enhanced realism and interactive features that could revolutionize training environments and interactive experiences.",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "points": [
+        "Genie 4 integrates audio and visual elements for a more immersive experience.",
+        "The model builds on Gemini's capabilities for realism and complex reasoning.",
+        "Genie 4 is rolling out as a research preview for trusted testers before wider release."
+      ]
+    },
+    {
+      "summary": "The author shares their four-month experience with the programming language Zig, highlighting community events, project development, and language features.",
+      "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "points": [
+        "Zig Day Seattle was held on August 20th, attended by Zig creator Andrew Kelley.",
+        "The author worked on a project called snurl, aiming to provide an alternative to curl for smallnet.",
+        "Zig's explicit handling of IO and allocator parameters is praised for clarity and control over memory allocation."
+      ]
+    },
     {
       "summary": "Israeli exit polls indicate a win for the anti-Netanyahu bloc, though Likud remains the largest party.",
       "significance": "The story matters because it indicates a shift against Netanyahu's coalition while his Likud party still leads, affecting Israel's political landscape and future governance.",
@@ -3690,63 +3746,6 @@
         "55 protesters were arrested during the police clearance operation.",
         "Demonstrators occupied Rossio Square in Lisbon and Dom Joao I Square in Porto, with over 1,000 people at each location.",
         "The protests are against a bill that makes evictions easier and ends rent caps on new leases."
-      ]
-    },
-    {
-      "summary": "Brendan Nugent appeared in silence at a court hearing regarding his alleged attack on MP Helen Haines.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/brendan-nugent-court-alleged-attack-helen-haines-ntwnfb",
-      "points": [
-        "Nugent, 43, from Tarrawingee, faced no family or friend support in court.",
-        "The attack on MP Helen Haines occurred outside her electorate office.",
-        "Media overflowed the courtroom in Wangaratta, with some forced to watch remotely."
-      ]
-    },
-    {
-      "summary": "Australian police chief criticizes the country's tense political climate after an alleged attack on MP Helen Haines, with no bail for the accused.",
-      "significance": "The story highlights growing political tensions and violence against MPs in Australia, following a pattern of increasing threats and abuse.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
-      "points": [
-        "AFP commissioner warns of a \"febrile\" political environment with an MP threatened weekly.",
-        "Brendan Nugent, 43, charged with driving into MP Helen Haines, denied bail.",
-        "Victoria announces new measures to protect politicians from threats and intimidation."
-      ]
-    },
-    {
-      "summary": "Waymo's autonomous vehicles, with their twitching steering wheels, are becoming a common sight on American roads, raising questions about public acceptance and the future of autonomous driving.",
-      "significance": "The story highlights how autonomous vehicles like Waymos are reshaping human interaction with technology on the roads, evoking both comfort and unease.",
-      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
-      "points": [
-        "Waymo has a fleet of over 4,000 cars operating in 15 U.S. cities.",
-        "The steering wheel moves during operation, surprisingly reassuring passengers rather than alarming them.",
-        "Waymo's recent ad campaign highlights that their vehicles are \"ten times safer\" than those driven by humans."
-      ]
-    },
-    {
-      "summary": "PHP security team announces a critical security release scheduled for October 21, 2026, addressing two critical vulnerabilities.",
-      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
-      "points": [
-        "The release is set for Wednesday, October 21, 2026, at 14:00 UTC.",
-        "It addresses two critical vulnerabilities, both rated CVSS v4.0 9.2.",
-        "PHP users are encouraged to prepare for upgrading as the release date approaches."
-      ]
-    },
-    {
-      "summary": "A UX designer discusses unexpected instances of good typography despite technical limitations.",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "points": [
-        "Marcin Wichary worked in UX design, typography, and front-end development.",
-        "Displays can show slanted text due to line-by-line updates from top to bottom.",
-        "A stadium icon cleverly uses 5x7 pixel font limitations to create a delightful design."
-      ]
-    },
-    {
-      "summary": "Kenya\u2019s opposition party ODM struggles to define its future one year after Raila Odinga\u2019s death, facing internal disputes over cooperation with President William Ruto.",
-      "significance": "The story highlights the struggle and division within Kenya\u2019s opposition, particularly the ODM, in defining its future without the influential Raila Odinga, questioning its credibility and unity.",
-      "url": "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss",
-      "points": [
-        "ODM removed Secretary-General Edwin Sifuna, who opposed closer ties with President Ruto.",
-        "Political analyst Professor Herman Manyora states the opposition lacks a unifying figure since Raila\u2019s death.",
-        "Raila\u2019s decision to work with Ruto in 2024 amid nationwide protests against the Finance Bill remains highly contested."
       ]
     }
   ]
