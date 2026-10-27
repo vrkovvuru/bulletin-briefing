@@ -2,48 +2,57 @@
   "date": "2026-10-27",
   "stories": [
     {
-      "title": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
-      "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Strikes hit a major bridge in the Ukrainian capital as leaders push for &#039;direct discussions&#039; to end the war.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’",
-      "url": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Dutch withdrawal is the latest in a number of boycotts by countries unhappy about Israel&#039;s inclusion.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: Is the rap mogul's self-selection a crowning achievement or a final affront?",
+      "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips is answering your questions now. Ask a question: log in or sign up here to comment, or email conversations@theguardian.com Jeremy Hurley asks: Why did the Brazil stock market tank after the election result, and will it recover? Tom: Basically, because the markets had been convinced that Flávio Bolsonaro was going to win and that after taking power he would implement a “chainsaw” style austerity programme inspired by Javier Milei’s government in Argentina, deal with Brazil’s budget deficit, and bring down interest rates. Lula’s victory came as a shock to investors who believe his fourth presidency will see increased and unsustainable public spending. Yes, I’m sure things will stabilise at some point soon after the initial panic – during Lula’s previous administrations investors made a lot of money, particularly during his first two terms. There is talk of Lula naming his vice-president, the centre-right politician Geraldo Alckmin, as finance minister in order to calm markets down. Another possible name Rafael Fonteles, a mathematician who is the governor of Piauí and used to run that state’s finances. Tom: That’s a really good question and, as someone who lives in Rio de Janeiro, it is one that has been on my mind a lot. The far right has been very good at blaming “soft” left wing policies and federal government incompetence for the failure to control armed violence. It was a huge part of the campaign against Lula in the run up to this election. But public security is a state matter and Rio state has largely been governed by the right for years now. Their hard-line, shoot first ask questions later approach has not worked - in fact many believe it has made the violence even worse and led to massacres such as the one I covered in the Complexo da Penha almost exactly one year ago. It must be said that similar tactics have been used in Bahia state, which has a huge problem with violence and is governed by the Worker’s party (PT). My colleague Tiago Rogero has written about this . Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "King Charles’s Caribbean tour: Will he discuss slavery reparations?",
-      "url": "https://www.aljazeera.com/news/2026/10/27/king-charless-caribbean-tour-will-he-discuss-slavery-reparations?traffic_source=rss",
+      "title": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "UK&#039;s King Charles launches nine-day Caribbean tour amid monarchy questions and growing demands for slavery reparations.",
+      "summary": "Lula’s fourth term may have spared BRICS an internal fracture at a time when Trump is trying to reassert US power.",
       "alsoReportedBy": []
     },
     {
-      "title": "A 'Green Army' is out to thwart El Niño flooding",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
-      "source": "NPR",
+      "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+      "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "In Nairobi, a city prone to floods, workers in the \"Green Army\" are making preparations to prevent disaster when El Niño arrives.",
+      "summary": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Carrick stays on as Manchester United manager for crucial Chelsea match",
+      "url": "https://www.aljazeera.com/sports/2026/10/27/carrick-stays-on-as-manchester-united-manager-for-crucial-chelsea-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Carrick will be in charge of football&#039;s Man United when they visit Chelsea on October 31, reports in British media say.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
+      "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Bandits targeted Binnari village in Taraba state, setting fire to homes, shops, food supplies and motorcycles.",
       "alsoReportedBy": []
     },
     {
@@ -56,39 +65,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
-      "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-      "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘If a person isn’t conscious, they’re not saying yes’: Cynthia Erivo on her searing new film about sexual assault",
-      "url": "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie",
+      "title": "‘I was so sick’: is running a marathon while on a GLP-1 a bad idea?",
+      "url": "https://www.theguardian.com/wellness/2026/oct/27/can-you-run-marathon-glp-1s",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "In Prima Facie, she plays a rising-star barrister, well versed in defending men accused of sexual violence. Then she is raped by a colleague, and her world implodes. Erivo talks about the potential impact of the film – and how she is navigating her stratospheric success Cynthia Erivo is contemplating her favourite crisps, the ridged American brand Ruffles, as we sit talking in a quiet corner of a west London restaurant. Dressed all in black and sporting her signature elongated nails, she is known for her healthy lifestyle, but everyone, it seems, has their vices. “Ruffles are just perfect,” she says. “When you get a good batch, and the salt-to-potato ratio is perfect … it’s amazing.” Erivo has just touched down after singing in Phoenix, Arizona, the night before, and has been running me through the health routine that helps her maintain her frantic schedule. Before her concert, there was the Dior front row at Paris fashion week, and she has just been announced as a guest host on SNL UK. Erivo doesn’t drink alcohol (today she orders some peppermint tea); she’s vegan; she doesn’t eat airline food, only her own prepacked meals. She even has an infra-red sauna “to help me heal from the inside”. Earlier this year she ran the London Marathon before jumping on stage to perform Dracula, where she played all 23 parts; she had rehearsed her lines while going on gruelling marathon training runs. All that requires discipline – and snacks – to keep the show on the road. Continue reading...",
+      "summary": "As the weight-loss drugs become more common, some runners find the side-effects challenging. Here’s what experts say Women: was your autoimmune condition misdiagnosed? Keri M, a marathoner in her 50s, knew the race would be terrible. This feeling couldn’t be chalked up to inexperience. Keri, who asked us to omit her full name due to the sensitive subject matter, has completed dozens of half marathons and four full marathons. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: Is the rap mogul's self-selection a crowning achievement or a final affront?",
       "alsoReportedBy": []
     },
     {
@@ -101,24 +101,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Shabana Mahmood urged to grant visa to former Weather Underground activist",
-      "url": "https://www.theguardian.com/politics/2026/oct/27/judith-clark-shabana-mahmood-visa-weather-underground",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Home Office refused entry to Judith Clark, 77, invited by RSC to speak about restorative justice after her time in prison Human rights activists and celebrities including the lawyer Helena Kennedy, the actor Harriet Walter and the theatre director Phyllida Lloyd have urged the Home Office to overturn its decision to refuse a visa to a former member of the radical US group the Weather Underground, saying her decades of rehabilitation should count in her favour. Judith Clark, 77, was the inspiration for Walter’s portrayal of prisoners in the Donmar Warehouse all-female Shakespeare trilogy, including Brutus in Julius Caesar and Prospero in The Tempest. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump and Rubio head to Texas to stump for Ken Paxton as midterms campaign enters final week – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "President and secretary of state to flaunt oil tanker filled with Venezuelan crude bound for Texas refineries Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? President Trump is set to headline back-to-back campaign events in Texas on Tuesday, as Republicans look to bolster Senate candidate Ken Paxton in the face of a strong challenge from Democrat James Talarico. Trump will rally in Corpus Christi this afternoon, then head to Lubbock for an evening event. He’ll be joined on the campaign trail by Secretary of State Marco Rubio – a highly unusual move for the nation’s top diplomat. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
       "source": "Guardian World",
@@ -128,12 +110,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
-      "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
-      "source": "NPR World",
+      "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv.",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "West warns of famine risk in Sudan as civil war grinds on",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
       "alsoReportedBy": []
     },
     {
@@ -146,6 +137,15 @@
       "alsoReportedBy": ["Guardian World"]
     },
     {
+      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Trump-appointed CDC deputy director to resign after six months on the job",
       "url": "https://www.theguardian.com/us-news/2026/oct/27/cdc-deputy-director-resigns-jennifer-shuford",
       "source": "Guardian World",
@@ -155,30 +155,39 @@
       "alsoReportedBy": []
     },
     {
-      "title": "UK government to give £15m to anti-misogyny fund amid ‘manosphere’ concerns",
-      "url": "https://www.theguardian.com/society/2026/oct/27/uk-government-to-give-15m-to-anti-misogyny-fund-amid-manosphere-concerns",
+      "title": "Woman’s world ‘tilted on axis’ on learning husband invited men to sexually assault her, court told",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/woman-husband-invited-men-to-sexually-assault-her-court-told",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Misogyny prevention fund to help tackle sexism at work, school and in public places across UK • UK politics live – latest updates The chancellor will give £15m to a dedicated fund to tackle misogyny in workplaces, schools and public places amid concerns in government about the rise of “manosphere” influencers. The women and equalities minister, Bridget Phillipson, will helm the UK-wide fund, announced last month, marking the first time there has been specific national cash to address misogyny. Continue reading...",
+      "summary": "Four men on trial charged with sexually assaulting Joanne Young while she was sedated, restrained and blindfolded A woman’s world was “tilted on its axis” when she discovered that for years her former husband had been drugging her and inviting men into their family home to sexually assault her while she was restrained and blindfolded, a court has been told. Philip Young, 50, advertised his then wife, Joanne Young, on dating and swinging websites, presenting it as a “kink” for both of them, Winchester crown court heard. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Greens push for human override in aged care assessment after ombudsman’s scathing report into algorithm tool",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/greens-push-for-human-overridge-in-aged-care-assessment-after-ombudsmans-scathing-report-into-algorithm-tool",
+      "title": "Oriel College urged to cancel student group’s event with Jason Arday accuser",
+      "url": "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Investigation recommends government changes legislation so staff assessing people for home support packages can correct the outcome Get our breaking news email , free app or daily news podcast The Greens leader, David Shoebridge, has used a scathing report from the commonwealth ombudsman to press the government to use the last two sitting weeks of parliament to restore human override to its “unfair” aged care assessment tool. The 104-page ombudsman report , published on Monday, recommends the government change legislation so that aged care workers assessing older Australians for home support packages can amend the outcome when the algorithm-driven assessment tool makes an incorrect decision on funding. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "summary": "Student supporters of Reform UK at Oxford college have organised evening with Nathan Cofnas discussing DEI The University of Oxford’s Oriel College has been urged to cancel an event featuring Jason Arday’s accuser Nathan Cofnas that has been organised by student supporters of Reform UK. Arday, 41, was found dead in August after resigning from his University of Cambridge professorship. He had faced intense media scrutiny after Cofnas made unproven accusations of plagiarism against him and said there were “serious questions” about his biographical claims. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
-      "source": "Guardian World",
+      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+      "url": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Liberal-National MP Garth Hamilton says he has ‘witnessed three interactions between cars and people at pre-poll, two accidental’ Get our daily political email , free app or daily news podcast A Liberal-National MP has called for a rethink of pre-poll voting at federal elections, including potentially shortening the amount of time booths are open, amid concerns of threats to voters and volunteers. Security risks to politicians and their staff have been front and centre this week, as parliament returned after the alleged attack on Helen Haines, which left the independent MP in a serious but stable condition after both her legs were amputated. Continue reading...",
+      "summary": "A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "source": "Pragmatic Engineer",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "&#8220;AI SRE&#8221; is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
       "alsoReportedBy": []
     },
     {
@@ -254,21 +263,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "What’s the ROI of software engineers’ spending on AI?",
-      "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
-      "source": "Pragmatic Engineer",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies &#8211; with some interesting findings",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Oldest GUI application that still runs on Windows 11",
       "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "source": "Hacker News",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "url": "https://latent.space/p/offline-coding/",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
       "alsoReportedBy": []
     },
     {
@@ -317,15 +326,6 @@
       "alsoReportedBy": ["Simon Willison"]
     },
     {
-      "title": "AI Is Getting Good at Math. Here’s Why.",
-      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
       "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
       "source": "Import AI",
@@ -353,12 +353,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] Black October",
-      "url": "https://latent.space/p/ainews-black-october/",
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "",
+      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
       "alsoReportedBy": []
     }
   ]

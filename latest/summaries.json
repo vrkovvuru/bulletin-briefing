@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-27T14:41:14.271969Z",
+  "generated": "2026-10-27T16:41:15.541727Z",
   "summaries": [
+    {
+      "summary": "A marathon runner describes difficulties experienced while taking a weight-loss drug during a race.",
+      "significance": "The story highlights potential challenges for runners using GLP-1 drugs, indicating possible negative impacts on performance.",
+      "url": "https://www.theguardian.com/wellness/2026/oct/27/can-you-run-marathon-glp-1s",
+      "points": [
+        "Keri M, a 50s marathoner, felt unwell during a race while on a GLP-1 drug.",
+        "She has completed dozens of half marathons and four full marathons previously.",
+        "The article raises questions about the safety of running marathons while on GLP-1 drugs."
+      ]
+    },
+    {
+      "summary": "Woman discovers husband invited men to sexually assault her while she was sedated and restrained.",
+      "significance": "The story highlights severe domestic abuse and betrayal, affecting the understanding of consent and trust within marriages.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/woman-husband-invited-men-to-sexually-assault-her-court-told",
+      "points": [
+        "Joanne Young's world was described as \"tilted on its axis\" upon discovery.",
+        "Philip Young, 50, advertised his wife on dating and swinging websites.",
+        "Four men are on trial for sexually assaulting Joanne while she was restrained and blindfolded."
+      ]
+    },
+    {
+      "summary": "Oriel College faces calls to cancel an event with Nathan Cofnas, who accused Jason Arday of plagiarism.",
+      "url": "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
+      "points": [
+        "Jason Arday, 41, resigned from Cambridge and was found dead in August.",
+        "Cofnas is scheduled to speak at Oriel College, supported by Reform UK student group."
+      ]
+    },
+    {
+      "summary": "An article details setting up an offline coding agent using OpenCode, Ollama, and Qwen in a remote location with unreliable internet.",
+      "significance": "This story matters as it demonstrates how developers can use offline AI agents for coding tasks in areas with unreliable internet, expanding remote work possibilities.",
+      "url": "https://latent.space/p/offline-coding/",
+      "points": [
+        "Uses Qwen3.5 9B model, weighing 6.6 GB, for local coding tasks.",
+        "Setup involves OpenCode for terminal interaction and Ollama for running Qwen locally.",
+        "Demonstrates offline coding capabilities, including explaining functions and refactoring code."
+      ]
+    },
     {
       "summary": "Cynthia Erivo discusses her new film Prima Facie, where she plays a barrister who becomes a rape victim.",
       "url": "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie",
@@ -3710,44 +3748,6 @@
         "Andy Burnham shows commitment to North Sea fossil fuel industry.",
         "Announcement from Aberdeen on Wednesday follows over a year of deliberations.",
         "Energy secretary Miatta Fahnbulleh and Chancellor John Healey will make the announcement."
-      ]
-    },
-    {
-      "summary": "Woman alleges Russell Brand raped her at his London home after a gig, court hears.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/20/russell-brand-told-woman-to-clear-up-mess-after-alleged-rape-court-hears",
-      "points": [
-        "Woman described feeling unable to speak or breathe during the alleged assault.",
-        "Brand reportedly told the woman to \"clear up the mess you\u2019ve made\" after the incident.",
-        "Alleged assault occurred at Brand's London townhouse following him selecting her from a crowd post-gig."
-      ]
-    },
-    {
-      "summary": "Inquest finds five-month-old Esta High may have survived meningitis if tested sooner instead of attributing symptoms to Covid-19.",
-      "url": "https://www.theguardian.com/society/2026/oct/20/baby-who-died-from-meningitis-may-have-been-saved-if-tested-sooner-inquest-finds",
-      "points": [
-        "Esta High died at Leeds General Infirmary in November 2023.",
-        "Doctors initially attributed her symptoms to Covid-19.",
-        "Inquest jury concluded earlier testing for meningitis could have saved her."
-      ]
-    },
-    {
-      "summary": "Google has open-sourced TorchTPU, a PyTorch backend for TPUs, enhancing model execution and distributed training capabilities.",
-      "significance": "Google's open-sourcing of TorchTPU expands PyTorch capabilities on TPUs, affecting developers and researchers using PyTorch for machine learning tasks, enhancing performance and accessibility.",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "points": [
-        "Supports distributed training methods like Data Parallelism and Tensor Parallelism.",
-        "Includes examples for models such as Llama, Qwen, ResNet, DLRM, minGPT, and UNet.",
-        "Installation requires pip with a specific extra-index-url for the CPU version of torch."
-      ]
-    },
-    {
-      "summary": "Google Cloud outage affected UK banks and websites, causing service disruptions.",
-      "significance": "This story highlights the critical dependency of major UK financial and business services on Google Cloud infrastructure, affecting thousands of users during a significant outage.",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Revolut, Lloyds Bank, and HSBC confirmed disruptions to their services.",
-        "Over 1,500 reports of issues affecting Revolut services were flagged.",
-        "Google Cloud blamed a \"power event\" and stated services were recovering."
       ]
     }
   ]
