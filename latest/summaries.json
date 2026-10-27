@@ -1,6 +1,61 @@
 {
-  "generated": "2026-10-27T12:42:43.294541Z",
+  "generated": "2026-10-27T14:41:14.271969Z",
   "summaries": [
+    {
+      "summary": "Cynthia Erivo discusses her new film Prima Facie, where she plays a barrister who becomes a rape victim.",
+      "url": "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie",
+      "points": [
+        "Erivo's character is a rising-star barrister defending men accused of sexual violence.",
+        "The film explores the impact on her character after being raped by a colleague.",
+        "Erivo mentions her disciplined lifestyle, including being vegan and running the London Marathon."
+      ]
+    },
+    {
+      "summary": "Human rights activists urge Home Office to grant visa to former Weather Underground member for speaking on restorative justice.",
+      "significance": "The story highlights the debate over granting entry to former radicals for educational purposes, influenced by cultural and legal figures.",
+      "url": "https://www.theguardian.com/politics/2026/oct/27/judith-clark-shabana-mahmood-visa-weather-underground",
+      "points": [
+        "Judith Clark, 77, invited by RSC to discuss restorative justice post-prison.",
+        "Home Office initially refused entry to Clark, a former radical group member.",
+        "Helena Kennedy, Harriet Walter, and Phyllida Lloyd advocate for visa reconsideration."
+      ]
+    },
+    {
+      "summary": "Trump-appointed CDC deputy director Jennifer Shuford to resign after six months citing family reasons.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/cdc-deputy-director-resigns-jennifer-shuford",
+      "points": [
+        "Jennifer Shuford appointed by Donald Trump in April.",
+        "Shuford cited desire to 'spend more time with my family' as resignation reason.",
+        "Resignation expected to occur after the midterm elections."
+      ]
+    },
+    {
+      "summary": "UK government allocates £15m to a new anti-misogyny fund to combat sexism in various settings.",
+      "url": "https://www.theguardian.com/society/2026/oct/27/uk-government-to-give-15m-to-anti-misogyny-fund-amid-manosphere-concerns",
+      "points": [
+        "£15m fund targets misogyny in workplaces, schools, and public spaces.",
+        "Women and equalities minister Bridget Phillipson will lead the initiative.",
+        "Fund is the first national cash allocation to specifically address misogyny."
+      ]
+    },
+    {
+      "summary": "Greens leader presses for human override in aged care assessment tool following a critical ombudsman report.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/greens-push-for-human-overridge-in-aged-care-assessment-after-ombudsmans-scathing-report-into-algorithm-tool",
+      "points": [
+        "David Shoebridge urges legislative changes in the last two sitting weeks.",
+        "Ombudsman's 104-page report recommends allowing staff to correct algorithm decisions.",
+        "Report targets an \"unfair\" tool used for assessing home support packages for older Australians."
+      ]
+    },
+    {
+      "summary": "An MP calls for changes to pre-poll voting due to security concerns following the Haines incident.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
+      "points": [
+        "MP Garth Hamilton witnessed three interactions between cars and people at pre-poll sites.",
+        "Concerns stem from the alleged attack on MP Helen Haines, leading to her serious injuries.",
+        "Proposal includes potentially shortening the time pre-poll booths are open."
+      ]
+    },
     {
       "summary": "A three-part documentary pays tribute to Matthew Perry, detailing his rise to fame and struggles with addiction.",
       "significance": "The documentary provides a moving tribute to Matthew Perry, highlighting the love and despair of those close to him, while also bringing attention to the struggles of addiction.",
@@ -3693,62 +3748,6 @@
         "Revolut, Lloyds Bank, and HSBC confirmed disruptions to their services.",
         "Over 1,500 reports of issues affecting Revolut services were flagged.",
         "Google Cloud blamed a \"power event\" and stated services were recovering."
-      ]
-    },
-    {
-      "summary": "A man with tech background smashed his smart TV due to frustration over constant updates and intrusive features.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy",
-      "points": [
-        "Dan, a 71-year-old with a master\u2019s in computer science, threw a rock through his smart TV.",
-        "The TV was downloading its third update in three days, which frustrated Dan.",
-        "Dan dislikes the TV's push for paid subscriptions when he only uses it for basic functions."
-      ]
-    },
-    {
-      "summary": "Alberta voters rejected a referendum proposal to leave Canada, supporting unity.",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "points": [
-        "76% of voters supported staying in Canada.",
-        "Nearly 1.9 million votes were counted.",
-        "The result is a victory for Canadian unity supporters, including Prime Minister Mark Carney."
-      ]
-    },
-    {
-      "summary": "Canadian man convicted of animal cruelty for taking a flamingo named Peachy from a Las Vegas hotel.",
-      "significance": "The conviction highlights legal consequences for acts of animal cruelty, even those stemming from drunken foolishness, affecting tourists and animal welfare standards.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
-      "points": [
-        "Mitchell Fairbarn found guilty of the incident.",
-        "Prosecutors claim it was a malicious prank.",
-        "Defense argues it was a drunken act without intent to harm."
-      ]
-    },
-    {
-      "summary": "A coyote roaming Atwater Village for months attacked a one-year-old boy, escalating resident tensions.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
-      "points": [
-        "Coyote nicknamed Wiley attacked a one-year-old boy over the weekend.",
-        "The coyote had been seen frequently in Atwater Village for months.",
-        "Some residents fed the coyote, while others feared its familiarity."
-      ]
-    },
-    {
-      "summary": "Voxtral 3 introduces advanced voice agent SDK and speech models for real-time, multi-step conversations in over 50 languages.",
-      "significance": "Voxtral 3 introduces advanced voice agent technology, enabling real-time, multilingual, and emotionally adaptive conversations across various applications, enhancing user interaction and workflow automation.",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "points": [
-        "Supports 50+ languages including 24 official EU languages.",
-        "Features emotional adaptability in speech synthesis for 35+ languages.",
-        "Available via Mistral\u2019s EU-hosted API or for self-deployment to ensure data sovereignty."
-      ]
-    },
-    {
-      "summary": "Orkes Conductor 5.3.2 tested, revealing issues with task concurrency and workflow management, now fixed in version 5.5.6.",
-      "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-      "points": [
-        "Orkes released version 5.5.6 to address serious safety issues found in Conductor.",
-        "Testing found frequent concurrent execution and problems with workflow abandonment or premature completion.",
-        "Issues were observed in versions 5.3.2 through 5.5.0-rc2, impacting task execution consistency."
       ]
     }
   ]
