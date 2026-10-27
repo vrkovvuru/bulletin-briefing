@@ -1,6 +1,100 @@
 {
-  "generated": "2026-10-27T04:41:12.389995Z",
+  "generated": "2026-10-27T12:42:43.294541Z",
   "summaries": [
+    {
+      "summary": "A three-part documentary pays tribute to Matthew Perry, detailing his rise to fame and struggles with addiction.",
+      "significance": "The documentary provides a moving tribute to Matthew Perry, highlighting the love and despair of those close to him, while also bringing attention to the struggles of addiction.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/the-one-about-matthew-perry-review-netflix-documentary-friends",
+      "points": [
+        "Matthew Perry died in 2023 at age 54 after relapsing into drug addiction.",
+        "The documentary, \"The One About Matthew Perry,\" includes interviews with his half-sister Mia and friends Roger Castillo and David Pressman.",
+        "Despite its three-hour runtime, the film is described as exhaustive but never exhausting, thanks to quality interviews."
+      ]
+    },
+    {
+      "summary": "Former FBI director Comey faces third prosecution attempt by the US justice department, while Trump criticizes him.",
+      "significance": "The story matters as it highlights the ongoing legal challenges faced by former FBI Director Comey, impacting US political dynamics.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+      "points": [
+        "US justice department attempting third prosecution of Comey.",
+        "Trump calls Comey a \u2018dirty cop\u2019 on social media.",
+        "JD Vance campaigning in Michigan for Republicans, part of a multi-state blitz."
+      ]
+    },
+    {
+      "summary": "UK PM announces budget measures including tariff removals and paternity leave for self-employed dads, facing criticism from opposition.",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
+      "points": [
+        "Tariffs removed on over 100 products, including gherkins and baked beans.",
+        "Self-employed fathers to receive paternity leave, benefiting tens of thousands annually.",
+        "Nigel Farage suggests liking Tommy Robinson\u2019s posts won\u2019t bar Reform UK candidacy."
+      ]
+    },
+    {
+      "summary": "Prime Minister Albanese promises swift action on MP safety after Senator Fatima Payman criticizes staffing shortages.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
+      "points": [
+        "Albanese considers providing duress alarms for politicians' offices.",
+        "Payman questions if Albanese is waiting for an attack on her office like the one on Dr Helen Haines.",
+        "Albanese stated politicians and staff have endured threats for too long."
+      ]
+    },
+    {
+      "summary": "UK heat pump installers express concern over planned subsidy cuts for sustainable heating alternatives.",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/heat-pump-installers-fear-planned-subsidy-cuts-uk-budget",
+      "points": [
+        "Subsidy through Boiler Upgrade Scheme, offering up to £9,000 grants, faces potential cuts.",
+        "Six years ago, other heating engineers were skeptical about heat pump technology adoption.",
+        "Recent shift shows increased customer interest in heat pumps, indicating changing public perception."
+      ]
+    },
+    {
+      "summary": "Casa de Salud in Albuquerque trains bilingual health apprentices to address healthcare worker shortages.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/bilingual-healthcare-workers-us-casa-de-salud",
+      "points": [
+        "Casa de Salud trains college and high-school students as health apprentices.",
+        "Gisselle Martinez, a 21-year-old apprentice, demonstrates trauma-informed care techniques.",
+        "Apprentices are certified in harm reduction, including needle exchanges and fentanyl test strip distribution."
+      ]
+    },
+    {
+      "summary": "Taxing billionaires is crucial for funding public goods and restoring fairness in American democracy.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires",
+      "points": [
+        "Economists Kahneman and Deaton found income boosts emotional wellbeing up to about $115,000.",
+        "Ultra-rich use various tactics to avoid taxes on their wealth.",
+        "Taxing billionaires is seen as essential for the survival of American democracy."
+      ]
+    },
+    {
+      "summary": "Python's experimental JIT will be removed from CPython's main branch due to lack of a satisfactory PEP.",
+      "significance": "The removal of Python's experimental JIT affects the future development trajectory of CPython, impacting performance enhancements and experimental features in the language.",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "points": [
+        "JIT maintainers withdrew PEP after months of discussion, leading to its removal.",
+        "Steering Council required clear success metrics and maintenance commitments in PEP.",
+        "Removal will likely occur in early 2024 to address any resulting issues."
+      ]
+    },
+    {
+      "summary": "AllModels introduces a routing system for multiple providers of the abliterated GLM 5.3 model, ensuring failover and competitive pricing.",
+      "url": "https://allmodels.io/llm/abliterated",
+      "points": [
+        "Abliterated GLM 5.3 deployments share one public model ID across providers.",
+        "AllModels routes requests to compatible providers, automatically falling back if one is unavailable.",
+        "Provider pricing is kept current, allowing routing to the lowest-cost eligible option."
+      ]
+    },
+    {
+      "summary": "Anthropic files for a $2 trillion IPO, showcasing a 1400% growth rate and $1B in Q2 operating profit.",
+      "significance": "Anthropic's $2T IPO filing highlights the rapid growth and profitability of AI companies, potentially influencing investor interest in AI technology.",
+      "url": "https://latent.space/p/ainews-anthropic-s1/",
+      "points": [
+        "Anthropic files for a $2T IPO with $134B in cash and a $10B lifetime burn.",
+        "The company saw a 1400% growth rate, with 48% of revenue from cloud partners.",
+        "Q2 operating profit was $1B, marking the first profitable quarter in Anthropic's history."
+      ]
+    },
     {
       "summary": "Former FBI Director James Comey faces third prosecution by Trump's Justice Department for allegedly sharing sensitive information.",
       "significance": "The repeated prosecution of Comey by Trump's Justice Department highlights the politicization of law enforcement and challenges to former officials.",
@@ -3655,100 +3749,6 @@
         "Orkes released version 5.5.6 to address serious safety issues found in Conductor.",
         "Testing found frequent concurrent execution and problems with workflow abandonment or premature completion.",
         "Issues were observed in versions 5.3.2 through 5.5.0-rc2, impacting task execution consistency."
-      ]
-    },
-    {
-      "summary": "Myanmar's military released rare photos of detained Aung San Suu Kyi after she received gifts from King Charles.",
-      "significance": "The story highlights the military's attempt to reduce diplomatic isolation through a gesture involving Aung San Suu Kyi.",
-      "url": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles",
-      "points": [
-        "Presidential spokesperson shared photos of Suu Kyi with gardening books and sealed items from King Charles.",
-        "Critics view the gesture as a military tactic to reduce Myanmar's diplomatic isolation.",
-        "King Charles' gifts included books on soil and a sealed diplomatic pouch."
-      ]
-    },
-    {
-      "summary": "Ryanair's CEO predicts European air fares could rise by up to 20% in 2027 due to increased jet fuel costs.",
-      "significance": "The story matters because it predicts a significant increase in European air fares due to rising jet fuel costs, potentially leading to airline bankruptcies and industry consolidation.",
-      "url": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs",
-      "points": [
-        "Michael O\u2019Leary forecasts up to 20% increase in European air fares for 2027.",
-        "Middle East conflict is driving up jet fuel costs.",
-        "O\u2019Leary predicts airline bankruptcies and takeovers due to rising fuel bills."
-      ]
-    },
-    {
-      "summary": "Tommy Robinson allegedly threatened to publish details about a journalist\u2019s family, forcing them to move.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-phoned-journalist-threat-publish-details-family-court",
-      "points": [
-        "Andrew Young claims he received a 'menacing' call from Robinson.",
-        "Threats reportedly made after the 2024 Southport killings.",
-        "Robinson accused of influencing riots following the killings."
-      ]
-    },
-    {
-      "summary": "Apple's iPadOS 27 update broke the ability to keep presentations private while using other apps.",
-      "significance": "This story matters because it highlights a significant usability regression in iPadOS 27 that disrupts teaching and presenting functionalities for iPad users.",
-      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "points": [
-        "Tapping on any app other than the presenting app shows all content on the external display.",
-        "Issue affects teaching and presenting, revealing notes and poll results to students.",
-        "No fix available yet, despite feedback to Apple and discussions on tech podcasts."
-      ]
-    },
-    {
-      "summary": "A website with 50,000 fake statistics has been widely cited by ChatGPT and other platforms over 7 months.",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "points": [
-        "The site, stateglobe.com, generated 50,000 fake statistics in one day and cost about $50 to set up.",
-        "Despite being deindexed by Google, the site has received over 10,000 AI sessions and links from 330+ domains.",
-        "ChatGPT has made over 72,000 requests to the site in the last 30 days, indicating AI's reliance on the data."
-      ]
-    },
-    {
-      "summary": "Mozilla acted swiftly to protect Firefox users after eMudhra's intermediate certificates were compromised.",
-      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-      "points": [
-        "Mozilla blocked 8 compromised eMudhra certificates by 22:59 UTC on October 17.",
-        "Protection was delivered via OneCRL without requiring Firefox updates or restarts.",
-        "Additional updates were planned to remove the root certificate for broader protection."
-      ]
-    },
-    {
-      "summary": "NixOS has simplified the process of setting up and maintaining FreshRSS, a server-side feed aggregator, making it easier and more reliable.",
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-      "points": [
-        "NixOS allows for a hands-off FreshRSS setup with a working configuration in about 15 minutes.",
-        "Outside NixOS, setting up FreshRSS requires managing Apache, mod_php, backups, and a systemd service, which is more complex.",
-        "The author dislikes maintaining side projects but finds NixOS less brittle compared to other configuration management tools like Ansible or CFEngine."
-      ]
-    },
-    {
-      "summary": "Inquiry finds ban on family visits to UK care homes at pandemic's start had devastating consequences.",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-      "points": [
-        "Heather Hallett, inquiry chair, published module 6 report on care homes.",
-        "Tax burden in Britain is at an all-time high, affecting various aspects of life.",
-        "Andy Burnham expresses moral outrage over the current benefit system in The Times."
-      ]
-    },
-    {
-      "summary": "US bans government agencies from using China\u2019s DeepSeek AI tools over data security concerns.",
-      "significance": "The ban follows concerns over data security and highlights escalating tensions in the AI race between the US and China.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
-      "points": [
-        "Ban applies to DeepSeek AI tools and those created by third parties using DeepSeek.",
-        "Department of Homeland Security ordered removal of the tools from IT devices.",
-        "Concerns stem from potential transfer of sensitive data to China."
-      ]
-    },
-    {
-      "summary": "A proposal to transform the boarded-up San Francisco Centre mall into a community-based AI exhibit has emerged.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/san-francisco-mall-ai-datacenter",
-      "points": [
-        "Proposal suggests turning the mall into an AI exhibit, not a traditional datacenter.",
-        "San Francisco Centre has been boarded up since January of this year.",
-        "The mall's location is central to urban renewal efforts post-Covid pandemic."
       ]
     }
   ]
