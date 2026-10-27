@@ -1,6 +1,71 @@
 {
-  "generated": "2026-10-27T16:41:15.541727Z",
+  "generated": "2026-10-27T18:42:08.550770Z",
   "summaries": [
+    {
+      "summary": "Flávio Bolsonaro, son of former Brazilian president, reportedly fled to the US after his father's election loss.",
+      "significance": "Flávio Bolsonaro's reported flight to the US highlights political tensions post-election and potential fears of legal repercussions following his father's defeat.",
+      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "points": [
+        "Flávio Bolsonaro missed deadline to hand over his passport.",
+        "Left for the US after his father, former president, lost to Lula.",
+        "Metrópoles reported the senator is en route to the United States."
+      ]
+    },
+    {
+      "summary": "Russell Brand told police his consensual sexual encounters were misrepresented decades later during his trial for alleged sexual offences.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/russell-brand-told-police-he-led-very-promiscuous-life",
+      "points": [
+        "Brand, 51, described his life as \"very promiscuous\" in a statement to police.",
+        "He accused media reports of being \"defamatory and fictitious\" regarding the allegations.",
+        "Brand claimed to have had sexual encounters in \"countless locations and scenarios."
+      ]
+    },
+    {
+      "summary": "Nigel Farage is criticized for downplaying racist remarks by an associate as both racist and not racist.",
+      "url": "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
+      "points": [
+        "Raheem Kassam labeled Kemi a 'Nigerian scammer', deemed racist.",
+        "Farage positions himself as perpetually misunderstood and victimized.",
+        "Government advises stockpiling supplies for a three-day survival period."
+      ]
+    },
+    {
+      "summary": "UK launches Warm Home Loans scheme for interest-free or low-interest loans to fund household energy upgrades.",
+      "significance": "The Warm Home Loans scheme enables UK households to affordably install solar panels and heat pumps, potentially reducing energy bills and increasing adoption of low-carbon technologies.",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps",
+      "points": [
+        "Loans range from £7,500 to £35,000 for solar panels, heat pumps, and batteries.",
+        "Scheme aims to cut household energy bills by hundreds of pounds annually.",
+        "Launched on Tuesday, the government-backed initiative helps access low-carbon technologies."
+      ]
+    },
+    {
+      "summary": "Surgeon performs first telerobotic prostate removal in the US from 35 miles away.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/first-telerobotic-surgery",
+      "points": [
+        "Dr. Vipul Patel operated from AdventHealth Celebration on a 66-year-old patient.",
+        "The surgery took place between two facilities in Florida, 35 miles apart.",
+        "The procedure was part of a clinical study on robotic telesurgery systems."
+      ]
+    },
+    {
+      "summary": "Federal agents searched a Beverly Hills mansion linked to ex-congressman Eric Swalwell in a sexual misconduct probe.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched",
+      "points": [
+        "Search occurred at Stephen Cloobeck's home, a wealthy developer and Swalwell donor.",
+        "Investigation follows Swalwell's resignation in April amid sexual misconduct allegations.",
+        "Federal agents conducted the search early on Tuesday."
+      ]
+    },
+    {
+      "summary": "A new fast and secure tar parser, tar-codec, is introduced for the Rust ecosystem to address security risks and performance issues.",
+      "url": "https://astral.sh/blog/tar-codec",
+      "points": [
+        "tar-codec is approximately twice as fast as previous tar implementations.",
+        "The parser reduces exposure to security risks associated with parser differentials.",
+        "Python packaging tool uv uses tar-codec to handle source distributions securely."
+      ]
+    },
     {
       "summary": "A marathon runner describes difficulties experienced while taking a weight-loss drug during a race.",
       "significance": "The story highlights potential challenges for runners using GLP-1 drugs, indicating possible negative impacts on performance.",
@@ -3682,72 +3747,6 @@
         "French police employ teargas and baton charges against protesters.",
         "Methods include stun grenades to disperse crowds.",
         "Contrast with European neighbors who prioritize crowd containment and de-escalation."
-      ]
-    },
-    {
-      "summary": "DOJ's list of suspected non-citizens in California includes many born in the US, per LA officials.",
-      "significance": "The story questions the reliability of the DoJ's list of suspected non-citizens, affecting the validity of their citizenship verification process in California.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/doj-non-citizens-la",
-      "points": [
-        "List contains 20,000 people in California.",
-        "DOJ gave election officials a 48-hour deadline to verify citizenship.",
-        "California officials refused to segregate ballots, DOJ sued."
-      ]
-    },
-    {
-      "summary": "Senior Reform UK official questioned legality of large donations from billionaires before £72m was given to the party.",
-      "url": "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
-      "points": [
-        "James Orr, Reform UK\u2019s head of policy, raised doubts on donations' legality.",
-        "Donations from Christopher Harborne and Ben Delo amounted to £72m.",
-        "Concerns were voiced three months prior to the substantial financial contribution."
-      ]
-    },
-    {
-      "summary": "Permit Pending is a city-building game where players must navigate through approvals and objections to develop their city.",
-      "url": "https://permit.petercai.com/",
-      "points": [
-        "Players face hearings, reviews, objections, lawsuits, and appeals for each project.",
-        "Economic decisions like building a tech boom can lead to political backlash from residents.",
-        "The game simulates real-world dynamics, including voter anger and political clout, with no clear win condition."
-      ]
-    },
-    {
-      "summary": "A Command & Conquer-style RTS game called Battle Drones was developed with audio-based multiplayer and went through 12 major iterations.",
-      "significance": "Battle Drones introduces an innovative audio-based multiplayer feature for RTS games, enabling nearby devices to sync game states through sound.",
-      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-      "points": [
-        "The game supports multiplayer between nearby devices using audio synchronization.",
-        "It includes 9 buildings, 7 ground vehicles, 6 aerial vehicles, and 3 infantry units as 3D models.",
-        "After 321 commits by coding agents, the game now features six maps across five biomes and a random map generator."
-      ]
-    },
-    {
-      "summary": "SF Compute, a programmable data center, enables trading of GPU hours and physical settlement, attracting acquisitions from Cisco and VMware.",
-      "url": "https://www.latent.space/p/sfcompute2",
-      "points": [
-        "Cisco paid $600m and VMware offered $1.3B for SF Compute.",
-        "SF Compute's technology separates the control plane from the data plane, revolutionizing GPU management.",
-        "The company expanded from subleasing a cluster to building cloud-like operating capacity for compute trading."
-      ]
-    },
-    {
-      "summary": "Trump claims he will have spent $400m supporting Republicans in the midterms, while a survey highlights a growing empathy gap.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-      "points": [
-        "Trump will have spent $400m supporting Republicans in the midterms.",
-        "Survey by PRRI shows a widening empathy gap between Republicans/white evangelicals and other Americans.",
-        "White evangelical Protestants are the only group where a majority (54%) views empathy as potentially dangerous."
-      ]
-    },
-    {
-      "summary": "Jackdaw gasfield gets approval, signaling support for North Sea industry but facing climate campaigner backlash.",
-      "significance": "The approval of the Jackdaw gasfield highlights the conflict between supporting the North Sea industry and maintaining environmental commitments.",
-      "url": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
-      "points": [
-        "Andy Burnham shows commitment to North Sea fossil fuel industry.",
-        "Announcement from Aberdeen on Wednesday follows over a year of deliberations.",
-        "Energy secretary Miatta Fahnbulleh and Chancellor John Healey will make the announcement."
       ]
     }
   ]
