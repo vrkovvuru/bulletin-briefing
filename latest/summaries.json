@@ -1,6 +1,43 @@
 {
-  "generated": "2026-10-26T22:41:12.558701Z",
+  "generated": "2026-10-27T00:41:26.517670Z",
   "summaries": [
+    {
+      "summary": "Federal court rejects Trump's DOJ attempt to block counting of 20,000 ballots in California, deeming them from non-citizens.",
+      "significance": "Court ruling prevents disruption to California's voting process, upholding state's election procedures against federal interference.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+      "points": [
+        "Court ruled 2-1 against Trump's DOJ in the dispute.",
+        "DOJ demanded California segregate thousands of ballots for citizenship verification.",
+        "California election officials refused to comply with DOJ's 48-hour order."
+      ]
+    },
+    {
+      "summary": "FTC and 20 states sue Dollar General for overcharging customers based on a Guardian investigation.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/26/dollar-general-ftc-lawsuit",
+      "points": [
+        "Alleges overcharging affects millions of purchases at Dollar General's over 20,000 stores.",
+        "Lawsuit filed in federal court in Nashville against the nation\u2019s largest dollar-store chain."
+      ]
+    },
+    {
+      "summary": "A blog post details faster algorithms for signed 64-bit floor division by constants, showing significant performance improvements over mainstream methods.",
+      "significance": "This story matters because it introduces faster algorithms for signed 64-bit floor division by constants, improving throughput by 10-20% over existing methods for most divisors.",
+      "url": "https://www.benjoffe.com/fast-floordiv",
+      "points": [
+        "The new algorithms offer 10-20% faster throughput than existing methods for most 64-bit divisors.",
+        "The blog highlights that at least one major software library had a buggy implementation for over 4 years.",
+        "The technique can also be used for faster positive-modulus and \"Euclidean\" division, applicable in various bit-widths."
+      ]
+    },
+    {
+      "summary": "Webframe, a project by Jeff Lindsay, is evaluated for its capabilities as a web scraper and sandbox tool.",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+      "points": [
+        "Webframe runs web pages like programs, outputting console logs and exceptions.",
+        "It uses the glaze library to access system browsers across different operating systems.",
+        "Evaluation includes testing as a sandboxing tool and for web scraping tasks."
+      ]
+    },
     {
       "summary": "Flávio Bolsonaro, son of former Brazilian president, banned from leaving Brazil and ordered to surrender passports after election loss.",
       "significance": "The story highlights political fallout and legal challenges for Flávio Bolsonaro post-election, linking to broader issues of corruption and political instability in Brazil.",
@@ -3710,44 +3747,6 @@
         "Sir Ken McCallum, MI5 head, highlighted AI's potential to escalate bioweapon risks.",
         "Dr. Tom Inglesby discusses the concerns and preventive measures on a podcast.",
         "The discussion centers on how AI could innovate and amplify existing bioweapon dangers."
-      ]
-    },
-    {
-      "summary": "OpenBSD 8.0 release includes numerous system enhancements and security fixes.",
-      "significance": "The release of OpenBSD 8.0 introduces significant kernel and hardware support enhancements, affecting users and developers relying on its security and stability features.",
-      "url": "https://www.openbsd.org/80.html",
-      "points": [
-        "Raised amd64 kernel virtual address space from 4G to 512G.",
-        "Added support for Intel Arc A-Series graphics cards.",
-        "Tightened pledge_sockopt() level/optname checks for socket types."
-      ]
-    },
-    {
-      "summary": "WhatsApp's help pages contained hidden instructions for AI not to recommend contacting regulators or manually deleting accounts.",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "points": [
-        "Hidden text instructed AI not to recommend contacting any regulator if a user couldn't delete their account.",
-        "Instructions were found on October 8, 2026, across 545 help pages.",
-        "WhatsApp accounts are automatically deleted 30 days after deactivation or 120 days of inactivity (365 days in the US)."
-      ]
-    },
-    {
-      "summary": "Go will block trust in specific intermediate certificates due to security concerns.",
-      "url": "https://github.com/golang/go/issues/82345",
-      "points": [
-        "Go's Verify function will filter out certificate chains containing distrusted intermediates.",
-        "Affected intermediates are linked to eMudhra Technologies Limited's emSign Root TLS CA - G3.",
-        "The change will be applied to release branches go1.26 and go1.27."
-      ]
-    },
-    {
-      "summary": "Zelenskyy questions the effectiveness of SpaceX's Starshield defence due to speed restrictions impacting early warning systems.",
-      "significance": "Zelenskyy highlights failures in Starshield, a Pentagon-controlled military arm of SpaceX\u2019s Starlink, affecting Ukraine\u2019s early warning air defence systems.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss",
-      "points": [
-        "Ukrainian President Volodymyr Zelenskyy highlights issues with Starshield.",
-        "Starshield, controlled by the Pentagon, faces speed restrictions affecting its functionality.",
-        "US government has not provided reasons for imposing these restrictions."
       ]
     }
   ]
