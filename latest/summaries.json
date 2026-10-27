@@ -1,6 +1,118 @@
 {
-  "generated": "2026-10-27T18:42:08.550770Z",
+  "generated": "2026-10-27T20:44:10.993175Z",
   "summaries": [
+    {
+      "summary": "Israeli exit polls indicate a win for the anti-Netanyahu bloc, though Likud remains the largest party.",
+      "significance": "The story matters because it indicates a shift against Netanyahu's coalition while his Likud party still leads, affecting Israel's political landscape and future governance.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "points": [
+        "Anti-Netanyahu bloc projected to win majority of votes.",
+        "Likud, Netanyahu's party, still emerges as the largest single party.",
+        "Tens of thousands of Israelis returned from abroad to vote."
+      ]
+    },
+    {
+      "summary": "Olivia Chow won a second term as Toronto mayor in a victory for progressives.",
+      "significance": "The victory of progressive policies championed by Olivia Chow affects Toronto's future with promises of more rental housing, free school lunches, and reduced transit fares.",
+      "url": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
+      "points": [
+        "Chow secured 54% of the vote, defeating Conservative rival Brad Bradford by 13 percentage points.",
+        "The election saw record turnout and a wave of support for progressive councillors.",
+        "Chow promises more rental housing, free school lunches, and reduced transit fares."
+      ]
+    },
+    {
+      "summary": "Former Met officer Mark Tyrrell, who served with Sarah Everard\u2019s killer, found guilty of rape and other sexual offences.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/27/former-met-officer-who-served-in-same-unit-as-david-carrick-and-wayne-couzens-found-guilty-of-sexual-offences",
+      "points": [
+        "Tyrrell convicted of one rape, three sexual assaults, and one count of perverting justice.",
+        "Victim repeatedly said no before the sexual acts occurred.",
+        "Tyrrell served in the same unit as Sarah Everard\u2019s killer, Wayne Couzens."
+      ]
+    },
+    {
+      "summary": "Environment minister Murray Watt defends PM over golf club grant claim.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
+      "points": [
+        "Murray Watt backed PM despite admission of inaccuracy.",
+        "Original $6m grant announcement included sewerage works.",
+        "NSW government made similar commitment later, altering situation."
+      ]
+    },
+    {
+      "summary": "San Francisco estate sells for $10m above its $18.5m listing price, setting a new record.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai",
+      "points": [
+        "Eight-bedroom mansion in Presidio Wall sold for $28.5m on 22 October.",
+        "Sale reflects AI boom's impact on driving up real estate prices in San Francisco.",
+        "Property includes a private garden and a three-car garage."
+      ]
+    },
+    {
+      "summary": "Chancellor plans to scrap carer's allowance cliff edge but fails to address past overpayments.",
+      "url": "https://www.theguardian.com/society/2026/oct/27/unpaid-carers-chancellor-plan-scrap-allowance-cliff-edge-falls-short-budget",
+      "points": [
+        "Government to abolish carer's allowance cliff edge in upcoming budget.",
+        "Carers already hit with overpayments will still have to repay them.",
+        "Cliff edge system will remain in place for another four years."
+      ]
+    },
+    {
+      "summary": "Israeli election day begins with a minute of silence for 7 October victims as record voter turnout is expected.",
+      "url": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
+      "points": [
+        "Bereaved families held a minute of silence at 6:29am, marking the start of Hamas' 2020 attack.",
+        "The protest occurred in Tel Aviv's \"hostages square,\" a site for captive return demonstrations.",
+        "Record numbers of Israelis, including those traveling long distances, are voting."
+      ]
+    },
+    {
+      "summary": "Ghostty 1.4.0, released on October 27, 2026, introduces major performance and memory improvements, including full Kitty graphics implementation.",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "points": [
+        "Released on October 27, 2026, with major performance and memory enhancements.",
+        "Implements 100% of the Kitty graphics protocol, including animation and relative placements.",
+        "Fixes several security vulnerabilities, including paste protection and malicious terminal output issues."
+      ]
+    },
+    {
+      "summary": "Tailscale investigates SSH security vulnerabilities, focusing on privilege escalation issues and preparing fixes.",
+      "significance": "The story matters as it updates users on serious security vulnerabilities in Tailscale SSH, including privilege escalation risks, and outlines steps for remediation.",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "points": [
+        "Privilege escalation issues allow authorized users to potentially gain elevated access.",
+        "Fixes are being tested, with an update to be released once testing is complete.",
+        "Tailscale recommends reviewing SSH configurations and tightening access policies temporarily."
+      ]
+    },
+    {
+      "summary": "Survival LLM is a free, offline AI assistant and emergency library that operates on your computer, providing verified answers to survival questions.",
+      "url": "https://www.brangus.io/survival-llm",
+      "points": [
+        "Contains about 930,000 Wikipedia articles and various guides.",
+        "Requires 3 GB of disk space without Wikipedia and iFixit, up to 27 GB during full library installation.",
+        "Compatible with Apple Silicon Macs (M1 or newer) and 64-bit Windows 10 or 11."
+      ]
+    },
+    {
+      "summary": "Conference badge at GitHub Universe functions as a color screen computer with emulators for classic game systems.",
+      "significance": "The story highlights innovative use of conference badges as functional gaming devices, showcasing advancements in miniaturized computing technology.",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "points": [
+        "Steve Francia worked with Gemini to deploy emulators for NES, Game Boy, and Game Boy Color on the badge.",
+        "Badge users can run games like The Legend of Zelda: Link's Awakening if they have the ROM.",
+        "The badge includes touch buttons for gameplay when turned upside down."
+      ]
+    },
+    {
+      "summary": "OpenAI introduces GPT-6.1 Terra, highlighting improvements in visual reasoning and computer use tasks over its predecessor.",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "points": [
+        "GPT-6.1 Terra costs $1/million input tokens and $5/million output tokens.",
+        "It is faster and cheaper than GPT-6.1 Sol, being about half the price of GPT-5.6 Terra.",
+        "Ted Sanders noted GPT-6.1 Terra excels in technical communication and is faster in vision and computer use tasks."
+      ]
+    },
     {
       "summary": "Flávio Bolsonaro, son of former Brazilian president, reportedly fled to the US after his father's election loss.",
       "significance": "Flávio Bolsonaro's reported flight to the US highlights political tensions post-election and potential fears of legal repercussions following his father's defeat.",
@@ -3635,118 +3747,6 @@
         "ODM removed Secretary-General Edwin Sifuna, who opposed closer ties with President Ruto.",
         "Political analyst Professor Herman Manyora states the opposition lacks a unifying figure since Raila\u2019s death.",
         "Raila\u2019s decision to work with Ruto in 2024 amid nationwide protests against the Finance Bill remains highly contested."
-      ]
-    },
-    {
-      "summary": "Nigeria confirms an Ebola case in Abuja, involving a woman who traveled from Uganda.",
-      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-      "points": [
-        "Woman showed symptoms on 7 October and was diagnosed in Abuja.",
-        "Case detected in Nigeria, the most populous country in Africa.",
-        "Patient traveled from Uganda but exact arrival date in Nigeria is unknown."
-      ]
-    },
-    {
-      "summary": "Japan's PM Sanae Takaichi, known as Sanae-chan, is popular for her management of foreign relations but faces challenges domestically.",
-      "url": "https://www.theguardian.com/world/2026/oct/21/sanae-takaichi-took-on-japans-male-dominated-politics-and-won-can-she-survive-a-second-year-in-power",
-      "points": [
-        "Takaichi's nickname, Sanae-chan, is featured on popular souvenirs like chocolate biscuits and sweets.",
-        "Her ability to handle relations with Trump and confront China has gained public support.",
-        "Despite public affection, Takaichi may need stronger domestic support to maintain power."
-      ]
-    },
-    {
-      "summary": "Offices of vaccine researchers backed by RFK Jr were raided in Guinea-Bissau, with hepatitis B vaccines seized.",
-      "significance": "The raid affects controversial vaccine research supported by US funds and praised by RFK Jr, highlighting ethical disputes over studies on African newborns.",
-      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
-      "points": [
-        "Judicial police raided offices and seized hepatitis B vaccine doses.",
-        "Research supported by $3.2m from CDC, Pershing Square Foundation, and Bluebell Foundation.",
-        "Controversial researchers praised by US HHS secretary and RFK Jr involved in dispute over African newborn studies."
-      ]
-    },
-    {
-      "summary": "RBA deputy governor warns of potential fifth interest rate hike due to worsening inflation outlook.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
-      "points": [
-        "Andrew Hauser states inflation outlook is \"materially worse\" than expected two months ago.",
-        "RBA faces \"hard choices\" balancing inflation risks with protecting the labor market.",
-        "Discussion of potential rate hike on Melbourne Cup day reignited by Hauser's comments."
-      ]
-    },
-    {
-      "summary": "Alabama governor Kay Ivey commuted Toforest Johnson's death sentence to life in prison without parole.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/alabama-governor-commutes-death-row-sentence",
-      "points": [
-        "Governor Kay Ivey commuted the sentence due to doubts about the conviction.",
-        "Toforest Johnson was sentenced for the 1995 murder of William Hardy, a deputy sheriff.",
-        "Johnson has maintained his innocence and sought a new trial supported by officials."
-      ]
-    },
-    {
-      "summary": "Feds suspect a ransom negotiator ran the ShinyHunters extortion site, which extorted over $70 million this year.",
-      "significance": "The story reveals a ransomware negotiator's suspected involvement with the ShinyHunters extortion site, highlighting insider threats in cybersecurity firms.",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "points": [
-        "ShinyHunters, led by a Jordanian teenager, has stolen sensitive data from FBI servers.",
-        "The FBI arrested a Canadian cybersecurity executive, Edward Dubrovsky, for his involvement with ShinyHunters.",
-        "Dubrovsky allegedly knew about the FBI data breach but did not inform the bureau before ShinyHunters threatened to publish the files."
-      ]
-    },
-    {
-      "summary": "UK to deploy RAF Typhoon fighters to protect Saudi Arabian cities and infrastructure from Houthi attacks.",
-      "significance": "UK deployment of fighter jets to Saudi Arabia marks a significant military intervention in the Yemen conflict, protecting Saudi cities and infrastructure from Houthi attacks.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-      "points": [
-        "Andy Burnham approved the most significant military mission as prime minister.",
-        "RAF pilots will attempt to shoot down Houthi missiles and drones.",
-        "Operation aims to defend Saudi airports and oil facilities from attacks."
-      ]
-    },
-    {
-      "summary": "Kyle Kennedy, granddaughter of Robert F Kennedy, died at 42.",
-      "significance": "Kyle Kennedy's death affects the Kennedy family and her advocacy community for disability rights.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/kyle-kennedy-dead-rfk",
-      "points": [
-        "Died on September 21 at her home in Westwood, Massachusetts.",
-        "Daughter of Michael Kennedy, who died in 1997, and Victoria Gifford Kennedy.",
-        "Advocated for disability rights following a severe spinal cord injury."
-      ]
-    },
-    {
-      "summary": "Trump suggests he could arbitrate decisions in a new DOJ whistleblower program rewarding fraud tipsters.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-doj-anti-fraud-tip",
-      "points": [
-        "Trump proposed to act as arbitrator in the DOJ's new anti-fraud whistleblower scheme.",
-        "The program awards compensation to tipsters leading to convictions or federal enforcement.",
-        "VP JD Vance, leading the White House\u2019s fraud elimination taskforce, was present at the announcement."
-      ]
-    },
-    {
-      "summary": "A programmer expecting his first child reflects on the purpose of education in the age of AI.",
-      "url": "https://stevekrouse.com/ends",
-      "points": [
-        "Neil Postman's 1995 book provided insight on the changing landscape of education.",
-        "The author previously predicted MOOCs would revolutionize education but now questions the staying power of schools.",
-        "Education's purpose has shifted over centuries, from religious instruction to economic survival, adapting to societal changes."
-      ]
-    },
-    {
-      "summary": "Midterm elections may reflect public opposition to tech companies, with many Americans wanting a pause on AI development.",
-      "significance": "The midterms will gauge public sentiment against tech influence, reflecting growing American concern over AI's impact.",
-      "url": "https://www.theguardian.com/global/2026/oct/19/midterm-elections-tech-broligarchs",
-      "points": [
-        "Sam Altman suggested accepting \"bad things\" for AI benefits.",
-        "Surveys indicate most Americans want to pause AI development."
-      ]
-    },
-    {
-      "summary": "French police use violent methods to repress public dissent, unlike their European counterparts who focus on de-escalation.",
-      "url": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots",
-      "points": [
-        "French police employ teargas and baton charges against protesters.",
-        "Methods include stun grenades to disperse crowds.",
-        "Contrast with European neighbors who prioritize crowd containment and de-escalation."
       ]
     }
   ]
