@@ -2,30 +2,75 @@
   "date": "2026-10-28",
   "stories": [
     {
-      "title": "Victims of Jordan\u2019s air strikes in Syria",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
+      "title": "Dozens are dead in a high-speed train crash in Spain",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Espionage threats blur lines between security and dissent in Iran",
+      "url": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Jordan\u2019s air strikes in southern Syria killed at least seven people, including three children. Here are their stories.",
+      "summary": "Iran is using the threat of spy networks to detain and execute political opponents, analysts say.",
       "alsoReportedBy": []
     },
     {
-      "title": "Israel\u2019s election: The battle between change and anti-Palestinian sentiment",
-      "url": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "With both blocs short of a majority, parties face a choice: to break the taboo on Arab allies or return to the polls.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "What we know about the crash so far",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "title": "How the Budget affects you",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+      "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Key points at a glance",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
+      "url": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The deployment marks the first time in years that three Vanguard-class vessels have been at sea at the same time.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "What's gone up even faster than gas or rent? The cost of caregiving",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Spanish football postpones 24 Copa del Rey games after train crash",
+      "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement .",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Chancellor takes to the despatch box for his first Budget",
+      "url": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\"",
       "alsoReportedBy": []
     },
     {
@@ -38,57 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Russell Brand tells court allegations had devastating impact on him",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Overturned carriages and makeshift medical tents at crash site",
-      "url": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Dozens of people are feared dead after a high-speed train collided with another train south of Madrid.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Israeli voters: hope and despair as election ballots are counted",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israeli-voters-hope-and-despair-as-election-ballots-are-counted?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Israeli voters in Tel Aviv expressed mixed emotions as ballots were counted after the election.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "At least 30 dead in crash between two trains in central Spain, media say",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 30 people on Wednesday in central Spain, according to local media.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 84% of ballots counted",
+      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
       "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Opposition bloc and Netanyahu\u2019s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tied Analysis: Rise of Palestinian parties in Knesset will redraw Israel\u2019s political landscape Israel election: what we know so far One apparent loser from Tuesday\u2019s election was far-right national security minister Itamar Ben-Gvir, who was expected to better his party\u2019s result of six seats from the 2022 elections. But instead there was stunned silence at the watch party for Otzma Yehudit (Jewish Power) in central Israel as results from the exit polls flashed across the screen, with most channels suggesting the party would remain on just six seats. Continue reading...",
+      "summary": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will redraw political landscape Israel election: what we know so far One apparent loser from Tuesday’s election was far-right national security minister Itamar Ben-Gvir, who was expected to better his party’s result of six seats from the 2022 elections. But instead there was stunned silence at the watch party for Otzma Yehudit (Jewish Power) in central Israel as results from the exit polls flashed across the screen, with most channels suggesting the party would remain on just six seats. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,12 +110,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "A US woman feared dead was reported alive in Mexico. But cops now say that isn\u2019t true",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
-      "source": "Guardian World",
+      "title": "Israel's election result is messy - here's why",
+      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Mexican police had said they found Shayna Feinman in Tijuana, raising the hopes of missing Arizonan\u2019s family Arizona authorities say their Mexican counterparts were resoundingly mistaken when they publicly claimed recently that they found alive a woman who was feared slain after disappearing in 2024 \u2013 a turn of events that her sister has called \u201cturmoil\u201d and \u201cheartbreaking\u201d. The case in question centers on Shayna Feinman, who was reported missing in rural Yavapai county, Arizona, in March 2024 at age 38. Continue reading...",
+      "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
       "alsoReportedBy": []
     },
     {
@@ -128,12 +128,48 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
+      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
       "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "No official reason has been given for postponing next month\u2019s hearing to May 2027, family says.",
+      "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Department of Justice says it intends to appeal as administration tries to keep president’s ally Bill Essayli in office Sign up for the Breaking News US email Robert F Kennedy Jr , the US health secretary, faced backlash on Wednesday for a “wildly racist tirade” during a campaign stop in Michigan in which he falsely asserted that Arabs never won major awards in science or literature. Kennedy was speaking at the Monday night event in Grand Rapids in support of Mike Rogers, the Republican US Senate candidate who is trailing his Democratic midterms opponent Abdul El-Sayed , a Muslim, in polling. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
+      "url": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40% Deadly Spanish rail collision – latest updates Spain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long ranked as a point of pride in the country. But Wednesday’s deadly crash – the second in nine months – has recast the spotlight on questions about safety. Officials said at least 64 people were killed on Wednesday morning after two trains collided, leading to the derailment of several carriages. The two trains were carrying 544 passengers. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "OBR slashes UK growth forecast for 2027 despite Healey’s budget measures",
+      "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Outlook for living standards also downgraded as part of impact of Middle East conflict on economy Healey offers £100 payment to households to help navigate ‘global economic storms’ Budget 2026: key points at a glance Budget 2026 live – latest updates Britain’s economy has taken a multibillion-pound hit as the war in the Middle East drags down growth and triggers a fresh cost of living crisis, according to the government’s independent forecaster. In a report as John Healey announced his first budget, the Office for Budget Responsibility (OBR) issued a sharp downgrade for growth, living standards and the public finances despite the measures taken by the chancellor . Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Mexican police had said they found Shayna Feinman in Tijuana, raising the hopes of missing Arizonan’s family Arizona authorities say their Mexican counterparts were resoundingly mistaken when they publicly claimed recently that they found alive a woman who was feared slain after disappearing in 2024 – a turn of events that her sister has called “turmoil” and “heartbreaking”. The case in question centers on Shayna Feinman, who was reported missing in rural Yavapai county, Arizona, in March 2024 at age 38. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,44 +182,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally \u2013 US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Department of Justice says it intends to appeal as administration tries to keep president\u2019s ally Bill Essayli in office Sign up for the Breaking News US email Fl\u00e1vio Bolsonaro, the right-wing Brazilian presidential candidate who lost the country\u2019s election to left-wing incumbent Luiz In\u00e1cio Lula da Silva, is expected to arrive in Miami on Wednesday after fleeing Brazil, Reuters reported. According to the outlet, Bolsonaro and his family \u2013 after crossing by land into Argentina, and from there departing to Ecuador \u2013 took a flight bound for the US, where the Trump administration\u2019s State Department plans to grant them visas. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Dementia cases in US projected to rise dramatically by 2050, study finds",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/dementia-cases-increase",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Increase will add strain on healthcare system already struggling amid cuts by Trump administration, experts say The number of people with dementia in the United States is projected to increase dramatically over the next 25 years, which will place increasing strain on a healthcare system already struggling to help them amid cuts by the Trump administration, experts say. According to a new study in Jama Neurology , the annual incidence of new dementia cases globally will more than double, from 11.4m in 2023 to 24.7m in 2050. In the United States, the number of adults diagnosed with dementia each year will increase from 514,000 in 2020 to 1m by 2060, according to a Jama study published in 2024. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Bafta trustees may have broken charity law by accepting free guest tickets",
-      "url": "https://www.theguardian.com/culture/2026/oct/28/bafta-trustees-charity-law-accepting-free-guest-tickets",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Chair of membership council says legal advice obtained at own expense suggests offences could have been committed Bafta trustees may have breached charity and company law by accepting free tickets for guests at the organisation\u2019s awards ceremonies, the chair of its membership council has claimed. Michael Pritchett told members at Bafta\u2019s annual general meeting that legal advice obtained at his own expense suggested offences could have been committed by trustees who approved the charity\u2019s accounts, which stated that no trustees had received remuneration or benefits. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Both blocs claim upper hand in crucial Israeli election | First Thing",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/first-thing-israeli-election-elon-musk-ai-odyssey",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Benjamin Netanyahu vows to form new coalition while opposition bloc leader says result shows prime minister should step down. Plus, a scathing review of Elon Musk\u2019s AI-generated version of The Odyssey Good morning. Israel could be in for weeks of political haggling after exit polls and partial official results showed neither Benjamin Netanyahu\u2019s coalition nor the opposition bloc led by the former general Gadi Eisenkot had won enough seats to form a government. With 70% of the vote, or 4m ballots, counted so far, the Netanyahu bloc had 54 seats, the Eisenkot-led Change bloc 47 seats, and the Palestinian parties 19 seats. Sixty-one seats are needed for a majority. What have the two leaders said so far? Israel\u2019s longest-serving prime minister vowed to assemble a coalition through agreements between his Likud party, far-right factions and Jewish religious parties. Eisenkot had said earlier in the evening that \u201cpeople decided in favour of change\u201d and Netanyahu should have \u201cannounced today his retirement from politics\u201d. What does the increase in the Palestinian bloc mean? The election was marked by a record participation by Israeli citizens of Palestinian origin, a discriminated minority that makes up about 20% of the country\u2019s population. Julian Borger explains from Nazareth that Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing. Millions of other Palestinians living under Israeli rule in the occupied West Bank and Gaza cannot vote. Here is what we know about the declared results so far . Our live coverage continues on the website . What else has Trump been saying about fossil fuels? Trump suggested on Tuesday that Venezuela would become the 51st US state as the president showed off a tanker he claimed had \u201c1m barrels of oil on it\u201d from the country, nine months after deposing its president. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
       "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -191,12 +200,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Start Doing Graph Theory",
-      "url": "https://vertex.degree/",
-      "source": "Hacker News",
+      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "",
+      "summary": "&#8220;AI SRE&#8221; is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
       "alsoReportedBy": []
     },
     {
@@ -209,17 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?",
-      "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
-      "source": "Pragmatic Engineer",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "&#8220;AI SRE&#8221; is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Git for the US Code",
-      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,8 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Four Months of Zig",
-      "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "title": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -236,9 +236,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "A fast and secure tar parser for the Rust ecosystem",
-      "url": "https://astral.sh/blog/tar-codec",
-      "source": "Lobsters",
+      "title": "Start Doing Graph Theory",
+      "url": "https://vertex.degree/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,21 +263,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Quoting Terk Terkowitz",
-      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. \u2014 Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
       "alsoReportedBy": []
     },
     {
@@ -290,12 +281,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Game Boy Color on My Conference Badge",
-      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "title": "Quoting Terk Terkowitz",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color. Which means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on your conference badge! A neat feature of the badge is that you can turn it upside down and then use game controller touch buttons that are built into the badge body. Tags: games , github , hardware-hacking , ai , generative-ai , llms , gemini , steve-francia",
+      "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
       "alsoReportedBy": []
     },
     {
@@ -305,9 +296,16 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
-      "alsoReportedBy": [
-        "Latent Space"
-      ]
+      "alsoReportedBy": ["Latent Space"]
+    },
+    {
+      "title": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color. Which means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on your conference badge! A neat feature of the badge is that you can turn it upside down and then use game controller touch buttons that are built into the badge body. Tags: games , github , hardware-hacking , ai , generative-ai , llms , gemini , steve-francia",
+      "alsoReportedBy": []
     },
     {
       "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
@@ -316,24 +314,6 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "What is &#8220;night&#8221; to a machine?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Coding From the Himalayas With an Offline AI Agent",
-      "url": "https://latent.space/p/offline-coding/",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "GPT-6.1 Terra",
-      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We\u2019re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT\u20115.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos. Terra sits in the same position as Sonnet in the Anthropic model collection - not the cheapest or the most expensive, making it harder to decide when to use it. Computer use is a good example of a task that benefits from a less expensive model, since you might put it to work on automated, repetitive tasks. OpenAI's Ted Sanders provided some useful advice in a comment on Hacker News: In the case of GPT-6.1 Terra, I'd say Terra is probably better than Astra and Sol at technical communication, similar on vision and computer use (but much faster!), and a bit worse on most other things. For API developers, it's a nice midrange option if you want something cheaper than Sol but a lot smarter than Luna (especially for vision / computer use / communication). For subscribers, it's not a bombshell release - if you're hitting usage limits, maybe it helps you go a bit further, and if you want clearer communication or faster computer use, it can be a nice option to select. Here are the pelicans for the different reasoning levels. This pelican for \"max\" cost 11.3161 cents and took 4 minutes and 11 seconds: Here's a new comparison grid showing pelicans for every reasoning level of OpenAI's current frontier lineup: GPT-6 Astra, GPT-6.1 Sol, GPT-6.1 Terra, and GPT-6 Luna. GPT-6.1 Terra is priced at $1/million input tokens and $5/million output - almost half the price of GPT-5.6 Terra and GPT-6.1 Sol, and around 10x the price of GPT-6 Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , llm-pricing , pelican-riding-a-bicycle , llm-release , gpt",
       "alsoReportedBy": []
     },
     {
@@ -355,15 +335,31 @@
       "alsoReportedBy": []
     },
     {
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos. Terra sits in the same position as Sonnet in the Anthropic model collection - not the cheapest or the most expensive, making it harder to decide when to use it. Computer use is a good example of a task that benefits from a less expensive model, since you might put it to work on automated, repetitive tasks. OpenAI's Ted Sanders provided some useful advice in a comment on Hacker News: In the case of GPT-6.1 Terra, I'd say Terra is probably better than Astra and Sol at technical communication, similar on vision and computer use (but much faster!), and a bit worse on most other things. For API developers, it's a nice midrange option if you want something cheaper than Sol but a lot smarter than Luna (especially for vision / computer use / communication). For subscribers, it's not a bombshell release - if you're hitting usage limits, maybe it helps you go a bit further, and if you want clearer communication or faster computer use, it can be a nice option to select. Here are the pelicans for the different reasoning levels. This pelican for \"max\" cost 11.3161 cents and took 4 minutes and 11 seconds: Here's a new comparison grid showing pelicans for every reasoning level of OpenAI's current frontier lineup: GPT-6 Astra, GPT-6.1 Sol, GPT-6.1 Terra, and GPT-6 Luna. GPT-6.1 Terra is priced at $1/million input tokens and $5/million output - almost half the price of GPT-5.6 Terra and GPT-6.1 Sol, and around 10x the price of GPT-6 Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , llm-pricing , pelican-riding-a-bicycle , llm-release , gpt",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "url": "https://latent.space/p/ainews-anthropic-s1/",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Quoting Jason Koebler",
       "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. \u2014 Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Tags: jason-koebler , openai , journalism , ai , llms , ai-ethics , ai-misuse , generative-ai , chatgpt , 404-media",
+      "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. — Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Tags: jason-koebler , openai , journalism , ai , llms , ai-ethics , ai-misuse , generative-ai , chatgpt , 404-media",
       "alsoReportedBy": []
     }
-  ],
-  "durationSeconds": 175.6,
-  "voice": "af_heart"
+  ]
 }

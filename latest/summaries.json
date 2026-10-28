@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-28T12:42:59.687494Z",
+  "generated": "2026-10-28T14:41:54.944183Z",
   "summaries": [
+    {
+      "summary": "A second fatal train collision in Spain raises safety concerns over its extensive high-speed rail network.",
+      "significance": "Second fatal collision in nine months raises serious safety concerns over Spain\u2019s extensive high-speed rail network.",
+      "url": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+      "points": [
+        "At least 64 people were killed when two trains collided, carrying a total of 544 passengers.",
+        "This is the second deadly crash in nine months, casting doubt on rail safety.",
+        "Spain's high-speed rail network is the most extensive in Europe and second globally after China."
+      ]
+    },
+    {
+      "summary": "UK growth forecast for 2027 was slashed by OBR due to the Middle East conflict's economic impact.",
+      "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+      "points": [
+        "OBR downgraded UK's growth forecast for 2027.",
+        "Healey offered £100 payment to households to aid economic challenges.",
+        "Middle East conflict caused a multibillion-pound hit to Britain\u2019s economy."
+      ]
+    },
+    {
+      "summary": "A new framework called Agent SDK is released to help software teams build and deploy custom agents for their development workflows.",
+      "significance": "The Agent SDK enables teams to quickly build and deploy customized software agents that integrate seamlessly with existing workflows, enhancing efficiency and compliance.",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "points": [
+        "Agent SDK enables teams to create agents that respond to specific events like pull requests and compliance workflows.",
+        "A Cursor team built kb-reviewer in a day using Agent SDK, which checks pull requests against a knowledge base of lessons learned.",
+        "The PGA Tour uses Agent SDK to build components of their software development process, leveraging evals for rapid and reliable development."
+      ]
+    },
+    {
+      "summary": "ICE is conducting extensive surveillance on left-wing social movements, reminiscent of past government operations against dissent.",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "points": [
+        "DHS is using post-9/11 investigative powers against community organizers, similar to COINTELPRO.",
+        "Operation Keyhole, initiated in 2008, funds undercover investigations in the Midwest, including the Minnesota 15 case.",
+        "At least 120 HSI agents, including 11 undercover operatives, used advanced surveillance techniques like drones and Patriot Act tools."
+      ]
+    },
+    {
+      "summary": "AlpineBSD uses the NetBSD kernel and specific tools, differing from Alpine Linux.",
+      "url": "https://wiki.alpinebsd.org/",
+      "points": [
+        "AlpineBSD has limited hardware support due to the NetBSD kernel.",
+        "It uses apk-tools package manager and busybox with a GNU-oriented userspace.",
+        "Unlike Alpine Linux, AlpineBSD is not a fork and has an original package collection."
+      ]
+    },
     {
       "summary": "Tanzania announces a significant natural gas discovery in Mnazi Bay, the first in over a decade.",
       "significance": "Tanzania's first natural gas discovery in over a decade boosts domestic energy supplies and supports industrial growth.",
@@ -3702,53 +3749,6 @@
         "Neil Bush criticized Republican candidate Ken Paxton's conduct.",
         "Bush expressed admiration for Democratic candidate James Talarico\u2019s principles.",
         "The vote took place in Texas Senate race."
-      ]
-    },
-    {
-      "summary": "DuckDB releases version 2.0.0 LTS, codenamed \u201cCinnamon Teal,\u201d with significant feature updates and improvements.",
-      "significance": "DuckDB 2.0.0 LTS introduces significant features and improvements, enhancing database functionality and stability for users and developers.",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "points": [
-        "Released with support until at least October 2027, built from nearly 20,000 commits.",
-        "Introduces the Quack protocol with performance improvements and asynchronous I/O for faster queries.",
-        "Includes agent mode for coding agents, reducing DuckDB output by 59% in TPC-H experiments."
-      ]
-    },
-    {
-      "summary": "A compromised version of LiteLLM on PyPI installs a credential stealer and backdoor.",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "points": [
-        "Version 1.107.0 of LiteLLM on PyPI installs a backdoor and credential stealer.",
-        "The stealer collects SSH keys, cloud credentials, and other sensitive data.",
-        "PyPI has removed the compromised version, with 1.106.2, 1.107.0rc1, and 1.107.0rc2 being clean."
-      ]
-    },
-    {
-      "summary": "A French-language steampunk version of Battle Drones, named Panache, was forked from the original game and set in 1900s France.",
-      "url": "https://simonwillison.net/2026/Oct/21/panache/",
-      "points": [
-        "Released under Apache 2.0 License, Panache features steampunk aesthetics like dirigibles and steam-powered wagons.",
-        "The game includes an animated intro and French twist in music, available for mobile and browser.",
-        "Original Battle Drones models were updated to steampunk alternatives, showcasing changes like the Goliath design."
-      ]
-    },
-    {
-      "summary": "Demonstrations over public education failures in Greece as Macron criticizes commentary on French protests; Trump announces release of US citizen from Russian prison.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-      "points": [
-        "Thousands protest in Athens, Thessaloniki, and other Greek cities over education issues.",
-        "Trump claims direct conversation with Putin led to release of US citizen Stephen Hubbard.",
-        "Macron criticizes commentary on French protests, calling it 'stupid'."
-      ]
-    },
-    {
-      "summary": "Advocates claim severely ill ICE detainees in Florida are set for imminent deportation to unknown African countries.",
-      "significance": "The story highlights imminent deportation of severely ill detainees to unknown African countries, despite worsening health conditions, affecting their families and advocacy groups.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-      "points": [
-        "Flights for deportation are scheduled as early as Wednesday.",
-        "Detainees have no ties to the countries they are being deported to.",
-        "The Workers Circle, an immigration advocacy group, is monitoring the situation."
       ]
     }
   ]
