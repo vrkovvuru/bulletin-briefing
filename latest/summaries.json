@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-28T00:41:50.316564Z",
+  "generated": "2026-10-28T02:41:40.271809Z",
   "summaries": [
+    {
+      "summary": "Australia's inflation rate has risen to 4.3%, increasing expectations of a fifth interest rate hike this year.",
+      "significance": "Higher inflation rate in Australia intensifies expectations for another interest rate hike, exacerbating the cost-of-living crisis.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+      "points": [
+        "Inflation rate reached 4.3%, up from previous levels.",
+        "Underlying inflation, a preferred measure, stands at 3.6% annually.",
+        "Reserve Bank of Australia is expected to decide on another rate hike next week."
+      ]
+    },
+    {
+      "summary": "Trump announces termination of Biden-era methane emissions rules during a Texas rally.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+      "points": [
+        "Trump claims the change will save $45bn and unlock 210 million barrels of oil.",
+        "Critics warn of climate danger due to the termination of methane regulations.",
+        "Trump states the move will lift \"crippling regulations\" on methane for small operators."
+      ]
+    },
+    {
+      "summary": "The criminal case against Naveed Akram for alleged involvement in the Bondi terror attack is delayed due to an extensive investigation.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
+      "points": [
+        "Case adjourned until February 24.",
+        "Akram, 24, charged with 78 offences.",
+        "Prosecutors anticipate being ready to certify charges by the adjourned date."
+      ]
+    },
+    {
+      "summary": "New South Wales government reverses cafe cup legislation under pressure.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics",
+      "points": [
+        "Chris Minns' government scraps law forcing cafes to offer mugs for in-house dining.",
+        "Businesses no longer required to join reusable cup scheme or face $110,000 fine.",
+        "Environment minister acknowledges need to clarify the situation post-backlash."
+      ]
+    },
+    {
+      "summary": "The article discusses the application of version control systems, like Git, to US legislation to improve legal research and interpretation.",
+      "significance": "The story highlights the need for a systematic version control in US legislation, akin to Git for code, to improve legal research accuracy and efficiency, especially for AI models.",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "points": [
+        "CARES Act raised the small business debt limit to $7.5 million in March 2020, extended until March 2022.",
+        "A study from the Technical University of Munich found that language models answer 24% of post-cutoff questions correctly on their own, but 87% when provided with relevant statutory text.",
+        "Office of the Law Revision Counsel publishes the US Code as a series of release points, with a bill to enact title 41 as positive law introduced in September 2025."
+      ]
+    },
     {
       "summary": "King Charles to discuss slavery's legacy with Commonwealth leaders during his Caribbean tour.",
       "significance": "King Charles discussing slavery legacy follows renewed calls for Britain to engage in reparation talks with Commonwealth nations.",
@@ -3701,53 +3748,6 @@
         "24 Democratic attorneys general coordinate with about a dozen secretaries of state.",
         "Weekly Zoom calls and in-person tabletop exercises are part of the strategy.",
         "Efforts aim to counter Trump's false claims of voting fraud and threats of interference."
-      ]
-    },
-    {
-      "summary": "Bereaved civil service families may face unjust tax bills due to delays in the Capita-run pension scheme.",
-      "url": "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims",
-      "points": [
-        "MPs warn of \"chaos\" in the civil service pension scheme causing potential tax issues.",
-        "Lump sum payments to bereaved families are tax-free only if made within two years.",
-        "Delayed claims could result in families facing \"unconscionable\" tax bills."
-      ]
-    },
-    {
-      "summary": "Security researcher discovers that eMudhra's certificate authority private keys were extremely weak, allowing for easy cracking.",
-      "significance": "This story matters because it reveals a critical security flaw in eMudhra's certificate authority keys, compromising trust in their issued certificates and affecting numerous clients.",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "points": [
-        "On October 17th, a security researcher reported the compromised keys to major tech companies.",
-        "The private keys were single-byte numbers, such as 4, 56, and 115, making them trivial to crack.",
-        "Eight eMudhra intermediate certificates, including six TLS and two code-signing CAs, were affected."
-      ]
-    },
-    {
-      "summary": "The article discusses the history and evolution of fire escapes in tall buildings, highlighting their cultural significance and the challenges in their implementation and regulation.",
-      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-      "points": [
-        "In 1860, a New York City fire led to \"An Act to Provide Against Unsafe Buildings,\" requiring fireproof stairways or exterior escape routes.",
-        "Fire escapes became a cultural element, featured in films and providing fresh air, but their effectiveness was often questioned.",
-        "Building codes aim to balance safety and practicality, influenced by economic factors and public safety concerns."
-      ]
-    },
-    {
-      "summary": "The 1.5°C warming limit set by the Paris Agreement is now unachievable, with a new goal to not exceed 2°C and return to 1.5°C by 2100.",
-      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
-      "points": [
-        "Global GHG emissions must drop 18% by 2030, 45% by 2035, and 69% by 2040 relative to 2025 levels.",
-        "Renewable energy capacity must triple by 2035 compared to 2025 levels.",
-        "320 gigatons of CO2, eight times 2024 emissions, must be removed from the atmosphere by 2100."
-      ]
-    },
-    {
-      "summary": "Italy approves security measures including troop deployment and tougher penalties to quell cost-of-living protests.",
-      "significance": "Italy's approval of stringent security measures and tougher laws targets to curb violent protests over the cost-of-living crisis, affecting public safety and governance.",
-      "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
-      "points": [
-        "500 troops sent to Milan to reinforce security and enhance surveillance.",
-        "New legal offense for violent protest participation, up to 5 years in prison and \u20ac20,000 fine.",
-        "Parents held financially liable for children's vandalism and looting during protests."
       ]
     }
   ]

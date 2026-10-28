@@ -2,21 +2,48 @@
   "date": "2026-10-27",
   "stories": [
     {
-      "title": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living abroad have flown in for the elections, according to Aid Coalition , a US-based nonprofit focused on strengthening Israel’s democracy. Israeli law generally requires citizens to vote in person in the country, with narrow exceptions for diplomats and certain official emissaries abroad. Continue reading...",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
+      "title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters",
+      "summary": "Netanyahu has called the prospect of working with Arab parties to form a government ‘a disgrace and a shame’.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Arab parties projected to win 18 seats in Israel parliamentary election",
+      "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
       "alsoReportedBy": []
     },
     {
@@ -29,30 +56,30 @@
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-      "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+      "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
+      "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Gaza film festival highlights women&#039;s resilience through stories of war, loss and survival.",
+      "summary": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
       "alsoReportedBy": []
     },
     {
-      "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
-      "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+      "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
-      "alsoReportedBy": []
+      "summary": "Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
+      "summary": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with Eisenkot’s opposition grouping, with both on 51 seats, as Palestinian parties surge Full report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living abroad have flown in for the elections, according to Aid Coalition , a US-based nonprofit focused on strengthening Israel’s democracy. Israeli law generally requires citizens to vote in person in the country, with narrow exceptions for diplomats and certain official emissaries abroad. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -65,39 +92,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
       "alsoReportedBy": []
     },
     {
-      "title": "Barcelona fined £503 over approach for Alvarez",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-      "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "title": "Politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; RBA says no recession on way",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrived in the Bahamas to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its independence from British colonial rule in 1973. Continue reading...",
+      "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as our geography, analogue systems and far away criminals, has been impacted by fully integrated technology, social media and artificial intelligence. We hear about the devastating impacts of racism from communities every day. But many experiences go unreported or uncounted, and our systems often do not capture the full picture. This is not about collecting more data to prove racism exists. We already know it does. It is about making inequality visible, holding institutions to account and giving communities greater agency over their data to drive real change. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisis Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Australia’s headline inflation rate has accelerated to 4.3%, with a key gauge that strips out volatile prices also elevated, sharpening expectations of another interest rate rise next week. The Reserve Bank of Australia’s preferred measure of consumer prices, called underlying inflation, came in at an annual 3.6% to September. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,48 +128,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over alleged false Bondi shooting claim",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
+      "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as our geography, analogue systems and far away criminals, has been impacted by fully integrated technology, social media and artificial intelligence. We hear about the devastating impacts of racism from communities every day. But many experiences go unreported or uncounted, and our systems often do not capture the full picture. This is not about collecting more data to prove racism exists. We already know it does. It is about making inequality visible, holding institutions to account and giving communities greater agency over their data to drive real change. Continue reading...",
+      "summary": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billions Donald Trump announced his administration is “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warming methane during a rally in Lubbock, Texas, on Tuesday evening. Trump said during a campaign rally in Texas that the change would save consumers and energy producers $45bn and unlock 210 million barrels of oil – equivalent to about 10 days of US petroleum consumption. “Tonight, I’m officially terminating Biden’s expensive and unnecessary methane regulations to save consumers and energy producers,” Trump said, lifting what he called “crippling regulations on methane that caused prices to skyrocket” for small oil and gas operators. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Danny Masterson loses appeal against rape conviction after arguing judge was biased against Scientology",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/28/danny-masterson-loses-scientology-bias-appeal-ntwnfb",
+      "title": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "That ’70s Show actor was sentenced to 30 years in prison for two counts of rape against two women, who were also Scientologists Danny Masterson has lost the appeal of his rape conviction, meaning his 30-year prison sentence has been upheld. The actor, best known for his role on That ’70s Show, was convicted in 2023 of two counts of rape against two women in 2003, while a third charge relating to a third plaintiff, who alleged she was raped by Masterson in 2001, was quashed. Information and support for anyone affected by rape or sexual abuse issues is available from the following organisations. In the US, Rainn offers support on 800-656-4673. In the UK, Rape Crisis offers support on 0808 500 2222. In Australia, support is available at 1800Respect (1800 737 732). Other international helplines can be found at ibiblio.org/rcip/internl.html Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
-      "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing Israeli elections: live updates The big gains made by Palestinian parties in Israel’s general election pose an urgent and fundamental challenge to the country’s mainstream opposition: either cooperate with Arab Israelis or hand Benjamin Netanyahu a roadmap to political survival. In the wake of Tuesday’s exit polls , the leader of the opposition bloc, Gadi Eisenkot, declared them a victory for “Israel’s Zionist national majority” but the real outcome looks as if it will be far more complex than that. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Body of missing California hiker recovered on Mount Whitney",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/california-missing-hiker-mount-whitney",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Hazardous storm conditions delayed retrieval efforts on mountain that has proved to be a perilous hiking spot The body of a missing California hiker, blanketed in a layer of snow, was recovered on Mount Whitney on Sunday after a blustery storm delayed retrieval operations for five days. The Inyo county sheriff’s office extended its condolences to the loved ones and family of the hiker, who has not been publicly identified, in a Monday statement. Continue reading...",
+      "summary": "Naveed Akram, 24, has been charged with 78 offences after allegedly committing a terrorist act. The case has been adjourned until February Follow our Australian politics live blog for latest updates Get our breaking news email , free app or daily news podcast The criminal case against Naveed Akram for his alleged role in the Bondi terror attack faces more delays after an “unprecedented” investigation by the joint counter-terrorism team. The matter will not return to court until 24 February after it was adjourned on Wednesday before Sydney’s Downing Centre local court. Prosecutors expect to be ready to certify the charges against Akram, who is yet to enter a plea, by that date. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -164,21 +155,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "‘Shameful’: Alex Pretti’s parents accuse Trump officials of shielding son’s killers",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
-      "source": "Guardian World",
+      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Susan and Michael Pretti say they have been ‘ignored and misled’ in quest for justice over son’s killing by US agents The parents of Alex Pretti, the 37-year-old nurse killed by federal immigration agents in Minneapolis earlier this year, accused federal officials of stonewalling them and shielding their son’s killers. During a press conference on Tuesday, Michael and Susan Pretti made their first public remarks since their son’s death in January, calling for the Department of Justice to hold those involved in their son’s death accountable. The federal government has not provided them with meaningful information about the case, they said. Continue reading...",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
       "alsoReportedBy": []
     },
     {
-      "title": "Chancellor targets cost of living crisis in budget for a ‘difficult moment’",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
+      "title": "‘I use disposable cups’: Chris Minns backflips on takeaway coffee cups after media and business backlash",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Healey hopes to give ‘hope for the future’ but only modest policies are expected with important decisions deferred John Healey has acknowledged the UK faces a “difficult moment” but insisted he would put the country on a better path as he delivers his first budget on Wednesday against a turbulent global economic backdrop. But despite the international uncertainty, the chancellor will signal “fresh hope for the future” as he attempts to sound a more optimistic note, by providing households with breathing space from rising cost of living pressures. Continue reading...",
+      "summary": "Legislation requiring mugs to be offered when people drink at cafes to be scrapped, with environment minister stating ‘we need to clear this up’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast The New South Wales government has backflipped on its plan to force cafes to offer customers who dine in the option of mugs and glasses instead of takeaway cups. Chris Minns’ government will also ditch a law that would have required businesses to participate in a reusable cup scheme or risk a fine up to $110,000. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+      "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Exit polls indicate opposition leader Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing Israeli elections: live updates The big gains made by Palestinian parties in Israel’s general election pose an urgent and fundamental challenge to the country’s mainstream opposition: either cooperate with Arab Israelis or hand Benjamin Netanyahu a roadmap to political survival. In the wake of Tuesday’s exit polls , the leader of the opposition bloc, Gadi Eisenkot, declared them a victory for “Israel’s Zionist national majority” but the real outcome looks as if it will be far more complex than that. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -236,8 +236,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
+      "title": "Git for US Legislation",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -290,21 +290,21 @@
       "alsoReportedBy": ["Latent Space"]
     },
     {
-      "title": "Coding From the Himalayas With an Offline AI Agent",
-      "url": "https://latent.space/p/offline-coding/",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
       "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
       "source": "Import AI",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "What is &#8220;night&#8221; to a machine?",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "url": "https://latent.space/p/offline-coding/",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
       "alsoReportedBy": []
     },
     {
