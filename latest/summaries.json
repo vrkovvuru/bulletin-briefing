@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-27T22:42:05.880547Z",
+  "generated": "2026-10-28T00:41:50.316564Z",
   "summaries": [
+    {
+      "summary": "King Charles to discuss slavery's legacy with Commonwealth leaders during his Caribbean tour.",
+      "significance": "King Charles discussing slavery legacy follows renewed calls for Britain to engage in reparation talks with Commonwealth nations.",
+      "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "points": [
+        "King Charles began his tour in the Bahamas, attending a youth rally.",
+        "The summit follows renewed calls for Britain to engage in reparation talks.",
+        "The king visited Clifford Park, where the Bahamas gained independence in 1973."
+      ]
+    },
+    {
+      "summary": "Actor Danny Masterson's appeal against a rape conviction was denied, upholding his 30-year prison sentence.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/28/danny-masterson-loses-scientology-bias-appeal-ntwnfb",
+      "points": [
+        "Masterson was convicted in 2023 for two counts of rape from 2003.",
+        "The conviction involves two victims, both of whom are Scientologists.",
+        "A third rape charge from 2001 was dismissed."
+      ]
+    },
+    {
+      "summary": "Palestinian parties' gains in Israeli elections complicate opposition leader Gadi Eisenkot's path to governance.",
+      "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+      "points": [
+        "Palestinian parties' gains pose challenge for Israel's mainstream opposition.",
+        "Eisenkot must cooperate with Arab-Israeli leaders or risk Netanyahu's return.",
+        "Eisenkot claimed victory for \"Israel\u2019s Zionist national majority\" despite complex outcome."
+      ]
+    },
+    {
+      "summary": "A missing hiker's body was found on Mount Whitney after storm delays.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/california-missing-hiker-mount-whitney",
+      "points": [
+        "Body found on Sunday after five-day delay due to storm.",
+        "Hiker's identity has not been publicly released.",
+        "Mount Whitney noted for perilous hiking conditions."
+      ]
+    },
+    {
+      "summary": "Parents of Alex Pretti accuse Trump officials of hindering justice for their son, killed by federal agents.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
+      "points": [
+        "Alex Pretti, a 37-year-old nurse, was killed by federal immigration agents in Minneapolis in January.",
+        "Parents Michael and Susan Pretti claim they have been ignored and misled by federal officials.",
+        "The Department of Justice has not provided meaningful information about the case, according to the Prettis."
+      ]
+    },
+    {
+      "summary": "Anthropic's AI, Claude, is making progress in accelerating drug development through partnerships and internal projects.",
+      "significance": "The story highlights early advancements in using AI to accelerate drug development, potentially speeding up the creation of new medicines for various diseases.",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "points": [
+        "Anthropic partnered with six organizations to integrate AI into drug development processes.",
+        "Generate Biomedicines used Claude to design a more effective CAR T-cell therapy, reducing genetic instructions by about 70%.",
+        "Divergence Labs utilized Claude to generate 35,000 antibody designs for a novel food allergy treatment, finding 23 potential designs.",
+        "BigHat Biosciences improved two drug leads' properties using Claude, achieving over 10x tighter binding and significant stability enhancements."
+      ]
+    },
     {
       "summary": "Chancellor Healey prepares first budget amid economic challenges, aiming to alleviate cost of living pressures.",
       "significance": "Healey aims to alleviate cost of living pressures with modest policies in his first budget, acknowledging the UK's current economic difficulties.",
@@ -3691,61 +3748,6 @@
         "500 troops sent to Milan to reinforce security and enhance surveillance.",
         "New legal offense for violent protest participation, up to 5 years in prison and \u20ac20,000 fine.",
         "Parents held financially liable for children's vandalism and looting during protests."
-      ]
-    },
-    {
-      "summary": "Serbian student movement, Student List, challenges 12-year rule of Aleksandar Vučić in upcoming elections.",
-      "url": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power",
-      "points": [
-        "Student List has protested continuously for two years.",
-        "Movement uses modern tools like mobile apps for canvassing.",
-        "Aleksandar Vučić has led Serbia for 12 years, increasingly authoritarian."
-      ]
-    },
-    {
-      "summary": "Comedian Jon Richardson writes a memoir based on his teenage diaries, detailing a transition from happiness to despair.",
-      "url": "https://www.theguardian.com/stage/2026/oct/21/standup-jon-richardson-teenage-diaries-tearjerker-memoir",
-      "points": [
-        "Book titled \"The Teenage Diaries of a Stand-Up Comedian\" took two years to complete.",
-        "Richardson faced personal challenges including bereavement and a public breakup with Lucy Beaumont.",
-        "Diary entries span from a joyful Christmas Day 1996 to a despairing moment in 1999."
-      ]
-    },
-    {
-      "summary": "Ghent, Belgium, transformed into a plant-based paradise with Veggie Thursdays and plant-based school meals, significantly increasing the city's flexitarian population.",
-      "url": "https://www.theguardian.com/food/2026/oct/21/veggie-thursdays-vegan-surprises-ghent-plant-based-paradise",
-      "points": [
-        "In 2014, 13% of Ghent's population was flexitarian; this year, 83% are.",
-        "Ghent schools serve meat-free lunches on Thursdays, including chicory soup and falafel.",
-        "Veggie Day encourages residents to avoid meat and fish on Thursdays."
-      ]
-    },
-    {
-      "summary": "Hilbert space, an abstract mathematical concept, is crucial for exploring quantum phenomena and understanding quantum states.",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "points": [
-        "Hilbert space allows physicists to explore all possible futures of quantum objects before observation.",
-        "John von Neumann defined quantum mechanics in terms of Hilbert space, unifying Heisenberg's matrix mechanics and Schrödinger's wave mechanics.",
-        "In Hilbert space, quantum states are represented as vectors pointing in a direction that indicates the probability of different outcomes upon observation."
-      ]
-    },
-    {
-      "summary": "A drone strike near a market in Abyei, close to the Sudan-South Sudan border, killed at least 150 people.",
-      "significance": "The drone strike escalates conflict between Sudan and the Rapid Support Forces, impacting the disputed Abyei region.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
-      "points": [
-        "At least 150 people were killed in the drone strike near Abyei market.",
-        "The strike occurred in a disputed region near South Sudan.",
-        "Sudan accuses the Rapid Support Forces (RSF) of hiding in the Abyei area."
-      ]
-    },
-    {
-      "summary": "Protesters in Portugal returned to camps in Lisbon and Porto, previously cleared by police, to demonstrate against the housing crisis and cost-of-living increases.",
-      "url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
-      "points": [
-        "55 protesters were arrested during the police clearance operation.",
-        "Demonstrators occupied Rossio Square in Lisbon and Dom Joao I Square in Porto, with over 1,000 people at each location.",
-        "The protests are against a bill that makes evictions easier and ends rent caps on new leases."
       ]
     }
   ]
