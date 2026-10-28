@@ -1,6 +1,115 @@
 {
-  "generated": "2026-10-28T14:41:54.944183Z",
+  "generated": "2026-10-28T16:43:52.967943Z",
   "summaries": [
+    {
+      "summary": "The UK government will provide £100 energy payments to up to 20 million households in England starting January.",
+      "significance": "The £100 energy payment affects up to 20 million households in England, providing winter financial relief for those in council tax bands A to D.",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Up to 20 million households in England will receive a £100 payment directly into their bank accounts.",
+        "The payment is available for properties in council tax bands A to D in England.",
+        "Chancellor John Healey urged other UK nations to follow suit, but the payment is through council tax, which is a devolved matter."
+      ]
+    },
+    {
+      "summary": "Tommy Robinson convicted of harassing two Daily Mail journalists by revealing their addresses and threatening them.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Robinson, 43, found guilty of two harassment charges causing fear of violence.",
+        "Daily Mail published articles showing Robinson on holiday in Cyprus during riots.",
+        "Robinson hired private investigators to find and post journalists' addresses online."
+      ]
+    },
+    {
+      "summary": "Flávio Bolsonaro, son of former Brazilian president, arrives in Miami after losing Brazil's presidential election.",
+      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+      "points": [
+        "Flávio Bolsonaro landed in Miami, Florida, after the election loss.",
+        "He traveled from Brazil to Argentina and then flew via Ecuador.",
+        "The senator left the airport under police escort, avoiding press."
+      ]
+    },
+    {
+      "summary": "Kremlin states European countries will not participate in upcoming Ukraine talks in Abu Dhabi.",
+      "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+      "points": [
+        "Yuri Ushakov, Kremlin aide, announced European involvement was not discussed.",
+        "Ukrainian President Zelenskyy desires European inclusion in the November 6-10 talks.",
+        "Dutch Prime Minister Rob Jetten pledged an extra 500 million euros for Ukraine's military support."
+      ]
+    },
+    {
+      "summary": "Russell Brand admits to misusing his fame for reckless behavior but denies rape charges.",
+      "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates",
+      "points": [
+        "Brand, 51, charged with three counts of rape, claims all actions were consensual.",
+        "Accusations include sexual assault of a woman in her 20s at a radio station in 2004 or 2005.",
+        "Court proceedings detail Brand's admission of reckless philandering linked to his fame."
+      ]
+    },
+    {
+      "summary": "Budget 2026 includes a £100 energy payment and an increase in bank tax, amid warnings of slow living standards growth.",
+      "significance": "Budget 2026 introduces £100 energy payment and increases bank tax, but OBR warns living standards only rise by 1% post-Covid, indicating limited financial relief impact.",
+      "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+      "points": [
+        "OBR forecasts living standards to rise by only 1% over the post-Covid decade.",
+        "Chancellor plans to remove standing charges from electricity bills, though it's deemed trickier.",
+        "Budget introduces a £100 energy payment for millions and hikes bank tax."
+      ]
+    },
+    {
+      "summary": "Arizona's wealthiest district, once a Republican stronghold, may shift due to growing dissatisfaction with Trump.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/arizona-house-midterms-race",
+      "points": [
+        "Experts suggest conditions are favorable for political change in the affluent district.",
+        "Trump urges voters to consider him in the upcoming midterm elections.",
+        "The district, known for luxury homes and Teslas, is divided on Trump's impact."
+      ]
+    },
+    {
+      "summary": "Ex-Israeli diplomat Alon Pinkas criticizes the opposition's refusal to work with Arab-led parties, calling it reckless.",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019328/israel-election-arab-parties-government",
+      "points": [
+        "Alon Pinkas, former Israeli diplomat, calls opposition's stance on working with Arab-led parties \"myopic and reckless.\"",
+        "Netanyahu called working with Arab-led parties \"a shame and a disgrace.\"",
+        "Pinkas asserts Netanyahu cannot form a government, citing the strong showing of Arab-led parties."
+      ]
+    },
+    {
+      "summary": "US lawmakers urge FTC to investigate overcharging at major retailers like 7-Eleven and Dollar General.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/lawmakers-7-eleven-dollar-general-overcharging",
+      "points": [
+        "Thirty-four members of Congress sent a letter to the FTC on 28 October.",
+        "Investigations found widespread mismatches between shelf labels and register prices."
+      ]
+    },
+    {
+      "summary": "Modern CNC technology is revolutionizing the creation of Gothic architecture by enabling intricate stone carvings that were previously time-consuming and costly.",
+      "significance": "CNC stone carving technology enables rapid, detailed creation of Gothic architecture, making it accessible and feasible in modern construction.",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "points": [
+        "CNC machines can carve ornate Gothic details in days rather than months.",
+        "Carmelite Monks use Prussiani Engineering's CNC machines from Italy."
+      ]
+    },
+    {
+      "summary": "An article evaluates AI agents' performance on professional tax assignments, highlighting their strengths and weaknesses in handling complex tax scenarios.",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "points": [
+        "Opus identified the deadline for Anna's tax break in all five attempts, while Astra never did.",
+        "The benchmark contains 50 tax assignments across eight areas, testing AI agents' professional judgment and tax knowledge.",
+        "Opus 5.5 and Claude Sonnet 5.5 performed best, occupying the high-performance end of the measured Pareto frontier."
+      ]
+    },
+    {
+      "summary": "A critical code-execution flaw in UEFI firmware affects most servers globally, posing significant security risks.",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "points": [
+        "The vulnerability, rated 9.5 out of 10 in severity, is tracked as CVE-2026-97631.",
+        "It resides in the TianoCore, an open-source codebase used by major hardware makers.",
+        "The flaw allows attackers to execute malicious code before the OS loads, impacting millions of devices."
+      ]
+    },
     {
       "summary": "A second fatal train collision in Spain raises safety concerns over its extensive high-speed rail network.",
       "significance": "Second fatal collision in nine months raises serious safety concerns over Spain\u2019s extensive high-speed rail network.",
@@ -3637,118 +3746,6 @@
         "GitLab released versions 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13 on October 21, 2026.",
         "Integer overflow issue in Regular Expression Compiler could allow unauthenticated code execution.",
         "Improper Authentication issue in OmniAuth-to-LDAP auto-linking allows account takeover without user interaction."
-      ]
-    },
-    {
-      "summary": "Google released a Rust Style Guide to ensure consistency and readability across its codebases.",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "points": [
-        "The guide emphasizes readability and maintainability over ease of writing.",
-        "It recommends small crates in Chromium to improve performance and compilation.",
-        "The guide advises naming source files and leaf modules after primary user-defined items."
-      ]
-    },
-    {
-      "summary": "Protests in Portugal continue despite police clearing camps and arresting dozens.",
-      "significance": "Protests in Portugal continue despite police action, highlighting ongoing public dissatisfaction and resistance.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal-2?traffic_source=rss",
-      "points": [
-        "Thousands of protesters returned to the streets.",
-        "Police cleared protest camps and arrested dozens of people."
-      ]
-    },
-    {
-      "summary": "Hospice workers share insights on life and death, emphasizing the importance of comfort and quality of life.",
-      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/21/lessons-from-hospice-workers-life-death",
-      "points": [
-        "Courtney, a Missouri hospice nurse, views hospice as a gift offering comfort and quality of life.",
-        "Hospice patients usually have a terminal diagnosis with a timeline of six months or less.",
-        "Despite perceptions of hospice as \"giving up,\" workers highlight its role in enhancing life's final stages."
-      ]
-    },
-    {
-      "summary": "Former Tory candidate Jack Ross suspended after being filmed discussing contract killings with an undercover reporter.",
-      "significance": "The suspension of Jack Ross from the Conservative Party follows allegations of discussing contract killings, impacting the party's image and security policies.",
-      "url": "https://www.theguardian.com/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
-      "points": [
-        "Jack Ross suspended from Conservative Party over contract killing claims.",
-        "Ross discussed violent options and brokering services of a far-right activist.",
-        "Incident involved an undercover reporter and alleged paramilitary links."
-      ]
-    },
-    {
-      "summary": "Explosion at a chemical tank in Toledo, Ohio, led to a mass evacuation due to an airborne irritant.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/toledo-ohio-tank-explosion-mass-evacuation",
-      "points": [
-        "One first responder was injured and hospitalized with non-life-threatening injuries.",
-        "The irritant can cause burning of the eyes, nose, mouth, and skin.",
-        "Officials are investigating the cause of the explosion but currently have no definitive answer."
-      ]
-    },
-    {
-      "summary": "California public employees, including nurses and teachers, strike over contract disputes.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
-      "points": [
-        "SEIU Local 1000 represents around 100,000 striking workers.",
-        "Workers demand higher wages, flexible telework, and affordable healthcare.",
-        "Strike involves rallies outside government buildings in multiple cities."
-      ]
-    },
-    {
-      "summary": "Firefox Local Mode allows users to register multiple mappings for testing web pages and APIs without needing a HTTP server.",
-      "significance": "Firefox Local Mode streamlines web development by allowing direct testing of Web APIs and managing multiple origins without needing a HTTP server.",
-      "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
-      "points": [
-        "Mappings are only accessible from Firefox and functional when DevTools are opened.",
-        "Users can manage mappings via about:config, including importing and transferring them.",
-        "Each mapping includes an origin string, a local folder path, and a unique integer identifier."
-      ]
-    },
-    {
-      "summary": "ZLS 0.17.0 release introduces new protocol improvements but faces build system issues.",
-      "url": "https://zigtools.org/zls/releases/0.17.0/",
-      "points": [
-        "Build system integration features were broken but mostly restored.",
-        "File watching regressed on Windows, affecting detection of external file changes.",
-        "New protocol sets groundwork for future enhancements like unit testing and debugging."
-      ]
-    },
-    {
-      "summary": "Convicted fraudster Elizabeth Holmes allows filmmakers into her home before prison in a new documentary.",
-      "significance": "The story highlights the complex dynamics and questions of authenticity in documentary film-making, especially when disgraced figures allow cameras into their lives.",
-      "url": "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
-      "points": [
-        "Holmes and her partner Billy Evans allow filmmakers Nathan Fielder and Lance Oppenheim access for \"You Can See Everything\".",
-        "The documentary questions Holmes' authenticity and her motives before starting her prison sentence.",
-        "Holmes claims she is \"always being real\" despite the scrutiny over her intentions."
-      ]
-    },
-    {
-      "summary": "A 24-year-old Kansas man was arrested for allegedly threatening to shoot Donald Trump before a rally.",
-      "significance": "The arrest highlights ongoing security risks to former President Trump, following previous threats and incidents.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/kansas-man-arrested-allegedly-threaten-shoot-trump",
-      "points": [
-        "Jaden J Read, from Clearwater, Kansas, was arrested.",
-        "The threats were made online before Trump's rally in the Wichita area.",
-        "The arrest occurred last Saturday by federal authorities."
-      ]
-    },
-    {
-      "summary": "Reform UK fined over £2,000 for not declaring as publisher of campaign materials and for late payment.",
-      "url": "https://www.theguardian.com/politics/2026/oct/21/reform-uk-fined-failing-to-pay-fine-elections-rule-breach",
-      "points": [
-        "Reform UK fined more than £2,000 by Electoral Commission.",
-        "Four campaign materials lacked required \"imprint\" declaration.",
-        "Additional penalty for not paying original fine on time."
-      ]
-    },
-    {
-      "summary": "Neil Bush, a Republican and brother of former President Bush, voted for Democratic Senate candidate James Talarico in Texas.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico",
-      "points": [
-        "Neil Bush criticized Republican candidate Ken Paxton's conduct.",
-        "Bush expressed admiration for Democratic candidate James Talarico\u2019s principles.",
-        "The vote took place in Texas Senate race."
       ]
     }
   ]
