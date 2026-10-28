@@ -1,6 +1,61 @@
 {
-  "generated": "2026-10-28T20:44:11.596763Z",
+  "generated": "2026-10-28T22:42:01.546705Z",
   "summaries": [
+    {
+      "summary": "A non-profit group leaked data of over 40,000 homeland security workers, including those in sensitive roles.",
+      "significance": "The leak follows two previous government data disclosures, potentially increasing security concerns for over 40,000 DHS workers.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak",
+      "points": [
+        "Distributed Denial of Secrets released the information on Wednesday.",
+        "The leak includes details on DHS employees involved in surveillance and human intelligence.",
+        "This is the third government data disclosure by the group in the last month."
+      ]
+    },
+    {
+      "summary": "Australian SAS officers knew of soldiers planting weapons on dead Afghans but took no action, per a military report.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
+      "points": [
+        "Report highlights \"breakdown of command\" allowing unlawful practices.",
+        "\"Throwdowns\" involved planting weapons to portray civilians as combatants.",
+        "IGADF investigation in 2021 exposed the erosion of military discipline."
+      ]
+    },
+    {
+      "summary": "Africa\u2019s top health official warns Ebola could spread to the UK and other countries if funding for preparedness and treatment isn't secured.",
+      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "points": [
+        "Dr Jean Kaseya, Africa CDC director, warns of Ebola spreading like Covid.",
+        "Current outbreak has reached 10,000 cases with nearly 5,000 deaths."
+      ]
+    },
+    {
+      "summary": "Conservation group raises over $19m to protect Wooroora station, a biodiverse tract in Queensland.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/29/worldwide-legacy-almost-20m-raised-to-protect-majestic-tract-of-land-in-far-north-queensland",
+      "points": [
+        "Over $19m raised for purchasing Wooroora station by Christmas.",
+        "Wooroora spans over 20,000 hectares, home to 12 endangered species.",
+        "Station borders Bush Heritage\u2019s 43,575-hectare Yourka Reserve, enhancing protected area."
+      ]
+    },
+    {
+      "summary": "California election official Keaton Denlay claims federal agents threatened prosecution over a disorganized list of purported noncitizens voting.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/california-elections-federal-agents-voter-fraud",
+      "points": [
+        "Federal agents handed Denlay a \"poorly formatted Excel spreadsheet\" with 47 names.",
+        "The Department of Justice demanded Butte County set aside ballots of the listed individuals.",
+        "Denlay declined to act, citing errors and missing details in the provided list."
+      ]
+    },
+    {
+      "summary": "Several PDF implementations use insecure randomness to generate AES-256 keys, making them vulnerable to brute-force attacks.",
+      "significance": "The story matters because it reveals a critical security flaw in PDF encryption, allowing for passwordless decryption of protected PDFs due to insufficient randomness in key generation.",
+      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "points": [
+        "MuPDF uses only 9 bits of random state for the AES-256 key.",
+        "Foxit PDF Reader bases its AES-256 key on the current timestamp, leading to easily recoverable keys.",
+        "Brute-forcing the 512 possible keys in MuPDF takes about 11 milliseconds."
+      ]
+    },
     {
       "summary": "US envoy Jeff Bartos read an anti-Castro book while Cuba's Foreign Minister spoke at the UN.",
       "significance": "The incident escalates tensions between US and Cuba following a heated exchange over the US-imposed embargo.",
@@ -3684,64 +3739,6 @@
         "Uses assembly code examples to illustrate the optimization process.",
         "Suggests concatenating strings into a single memory block to reduce space.",
         "Proposes using a table of corrections to refine approximations, saving space."
-      ]
-    },
-    {
-      "summary": "OpenAI\u2019s Patch the Planet program and Wiz discovered PHP2Shell vulnerabilities affecting 70% of web servers, using AI models for detection and coordinated a two-month response.",
-      "significance": "The discovery of PHP2Shell vulnerabilities affecting 70% of the web highlights the critical role of AI in identifying and addressing major security flaws.",
-      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
-      "points": [
-        "Two vulnerabilities, named CVE-2026-109618 and CVE-2026-109619, allow full remote code execution and memory disclosure.",
-        "Discovery and coordination took approximately two months before public disclosure, involving major coordination among maintainers, researchers, and governments.",
-        "Cloudflare deployed initial WAF mitigations before the scheduled patch release, covering known exploit vectors for all customers."
-      ]
-    },
-    {
-      "summary": "Director Taika Waititi discusses his film adaptation of Kazuo Ishiguro's \"Klara and the Sun,\" focusing on themes of tech, love, and grief.",
-      "significance": "The story highlights the film's ability to resonate with younger audiences, despite critical divide, showcasing differing tastes and complex emotions around tech and love.",
-      "url": "https://www.theguardian.com/film/2026/oct/22/taika-waititi-kazuo-ishiguro-robot-friend-klara-and-the-sun",
-      "points": [
-        "Young influencers praise the film as their festival favorite, contrasting with harsher critic reviews.",
-        "The film explores complex emotions through the relationship between a sick girl and her robot friend.",
-        "Ishiguro notes that even simple emotions like love are multifaceted and not fully understood."
-      ]
-    },
-    {
-      "summary": "Australian TV reporter rescues man from sinking car during flood coverage.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
-      "points": [
-        "Will Murray, an ABC journalist, rescued a man in Morayfield, Queensland.",
-        "The rescue occurred as Murray was reporting on flooding in the area.",
-        "A bystander assisted Murray in saving the man from a sinking four-wheel drive."
-      ]
-    },
-    {
-      "summary": "A documentary about Elizabeth Holmes, the disgraced Theranos founder, has had a record-breaking opening in the US.",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast",
-      "points": [
-        "The documentary, \"You Can See Everything,\" highlights the enduring fascination with Holmes.",
-        "US technology editor Blake Montgomery discusses the impact of the Theranos scandal on Silicon Valley.",
-        "Holmes was convicted of fraud for her role in the Theranos scandal."
-      ]
-    },
-    {
-      "summary": "Waitrose opens its first new supermarket in eight years in Cricklewood, north London, as part of a £1bn investment plan.",
-      "significance": "Waitrose's new supermarket marks a significant return to expansion after eight years, following a £1bn investment plan that includes multiple new stores.",
-      "url": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
-      "points": [
-        "£1bn investment plan includes new stores in Cricklewood and Hale Barns next month.",
-        "Four smaller stores planned for next year in Oakham, Bedminster, Chalk Farm, and Springstead Village.",
-        "Cricklewood store marks the first new supermarket opening for Waitrose in eight years."
-      ]
-    },
-    {
-      "summary": "Tigray residents resume daily activities despite economic hardships and fears of renewed conflict spreading beyond the region.",
-      "significance": "Residents of Tigray face economic hardship and uncertainty as daily life resumes amid fears of renewed conflict, threatening recovery and stability.",
-      "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
-      "points": [
-        "Mekelle shops and banks reopen, but residents remain anxious over delayed salaries and security.",
-        "Tigray's interim administration faced an 8.5-billion-birr funding shortfall in April, affecting 137,000 civil servants.",
-        "Students fear further education disruptions; over 5,000 have applied for university transfers outside Tigray."
       ]
     }
   ]
