@@ -1,6 +1,99 @@
 {
-  "generated": "2026-10-28T16:43:52.967943Z",
+  "generated": "2026-10-28T18:43:18.103066Z",
   "summaries": [
+    {
+      "summary": "Putin praised Musk's genius while Russia develops its own satellite network, Rassvet, for military use against Ukraine.",
+      "significance": "Putin's praise of Musk and Russia's plans to develop its own satellite communications system for use against Ukraine highlights the militarization of space technology.",
+      "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
+      "points": [
+        "Putin discussed with Musk, praising his 'genius' during a summit with African leaders.",
+        "Russia aims to create a Rassvet constellation to rival SpaceX's Starlink.",
+        "The Russian satellite network is intended for military operations against Ukraine."
+      ]
+    },
+    {
+      "summary": "Woman testifies in court about being restrained, blindfolded, and sexually assaulted by strangers invited by her ex-husband.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/28/oanne-young-sexual-assault-trial-ex-husband-court-england",
+      "points": [
+        "Joanne Young describes waking up restrained and blindfolded in her own bedroom.",
+        "Young saw a stranger in her bedroom whom her ex-husband, Philip Young, allegedly invited.",
+        "The testimony is part of a trial at Winchester crown court involving four men accused of sexual assault."
+      ]
+    },
+    {
+      "summary": "Nigel Farage missed the budget over seating concerns and criticized £10bn Ukraine aid.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
+      "points": [
+        "Farage skipped the budget due to fears of a physical altercation over seating.",
+        "He expressed shock over £10bn pledged to Ukraine.",
+        "Farage supports cutting taxes for crypto investors."
+      ]
+    },
+    {
+      "summary": "US Federal Reserve kept interest rates steady before midterms, despite inflation concerns.",
+      "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+      "points": [
+        "Fed maintained rates at 3.75% to 4%, highest pre-election levels in over 20 years.",
+        "Two board members voted against the decision, favoring a quarter-point increase.",
+        "Inflation has remained above the Fed\u2019s target of 2% for years, reaching over 3% annually."
+      ]
+    },
+    {
+      "summary": "Two conservative influencers charged with felonies for attempting to vote unlawfully by disguising themselves as Muslims in Minnesota.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/voting-felony-disguise-minneapolis",
+      "points": [
+        "James O\u2019Keefe and Cam Higby charged with felonies in Minneapolis.",
+        "Attempt was part of the state\u2019s August primary election.",
+        "Influencers tried to exploit \"vouching\" practice by disguising as local voters."
+      ]
+    },
+    {
+      "summary": "A new study estimates that 75% of deceased former NFL players had chronic traumatic encephalopathy (CTE) from 2008-2023.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research",
+      "points": [
+        "Study examined 2,362 former NFL players who died between 2008 and 2023.",
+        "Estimated 75% of the deceased players had evidence of CTE.",
+        "CTE prevalence was much higher than in the general population."
+      ]
+    },
+    {
+      "summary": "Daily Telegraph columnist Allison Pearson is reportedly negotiating her exit amid job cuts.",
+      "url": "https://www.theguardian.com/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts",
+      "points": [
+        "Pearson's relationship with some senior editors is strained over column topics.",
+        "New ownership at the Telegraph is implementing significant newsroom cuts.",
+        "Pearson is preparing a statement about her future plans post-exit."
+      ]
+    },
+    {
+      "summary": "Gemini 4 Carbon, a new model, offers advanced cybersecurity and long-horizon capabilities, showing significant improvements in various benchmarks.",
+      "significance": "Gemini 4 Carbon advances cybersecurity and coding capabilities, offering significant improvements in vulnerability detection and secure code generation.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "points": [
+        "Carbon achieves 88.2% on SEC-bench Pro for vulnerability detection.",
+        "It demonstrates a 2x uplift in generating secure code compared to Argon.",
+        "Carbon reduces high-severity misalignment alerts by almost 80% in live coding environments."
+      ]
+    },
+    {
+      "summary": "Apple introduces MacBook Pro with PROLED XDR Display featuring advanced display technology and new Touch capabilities.",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "points": [
+        "The 14-inch model weighs 3.0 pounds, while the 16-inch model weighs 4.0 pounds.",
+        "PROLED XDR display offers up to 2000 nits peak brightness and a 10,000,000:1 contrast ratio.",
+        "MacBook Pro includes a six-speaker sound system with 50% deeper bass and a 12MP Center Stage camera."
+      ]
+    },
+    {
+      "summary": "GitHub's Octoverse 2026 report highlights a significant surge in pull requests, commits, and new repositories.",
+      "significance": "The story highlights the significant impact of agentic engineering on GitHub's growth metrics, showcasing a tripling of merged pull requests and a more than tripling of commits within a year.",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "points": [
+        "Merged pull requests tripled to 220 million per month in 2026.",
+        "Commits more than tripled to 7.38 billion per month.",
+        "New repositories doubled to 30.3 million per month."
+      ]
+    },
     {
       "summary": "The UK government will provide £100 energy payments to up to 20 million households in England starting January.",
       "significance": "The £100 energy payment affects up to 20 million households in England, providing winter financial relief for those in council tax bands A to D.",
@@ -3652,100 +3745,6 @@
         "ICE arrests and detentions at highest levels under Trump's second term.",
         "Immigration raids have targeted politicians' homes, escalating tensions.",
         "Midterm elections are on November 3rd, less than two weeks away from the article's publication."
-      ]
-    },
-    {
-      "summary": "Railway detected unauthorized access to encrypted environment variables, potentially compromising user data.",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "points": [
-        "Railway recommends rolling all environment variables and reviewing logs for unusual activity.",
-        "All deployments are paused until the investigation is complete.",
-        "The incident occurred on September 30, 2026, disrupting domain routing for about five minutes."
-      ]
-    },
-    {
-      "summary": "PHP released new versions to fix two critical vulnerabilities that allow unauthenticated attackers to execute code on servers.",
-      "significance": "The PHP security release fixes critical vulnerabilities, protecting servers from unauthenticated code execution attacks.",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "points": [
-        "PHP released versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to address the vulnerabilities.",
-        "The vulnerabilities were found in memory management and error handling, affecting nearly every request.",
-        "The PHP Foundation secured funding from the Sovereign Tech Agency to enhance security processes and coordination."
-      ]
-    },
-    {
-      "summary": "Australian politician Helen Haines lost both legs after a deliberate car attack.",
-      "significance": "The attack on Helen Haines highlights the risks faced by politicians and may influence discussions on their safety.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss",
-      "points": [
-        "Brendan Nugent charged with intentionally harming a commonwealth public official.",
-        "Attack on Haines was deliberate according to police.",
-        "Haines, an Australian lawmaker, was targeted in the incident."
-      ]
-    },
-    {
-      "summary": "Bayern Munich and Arsenal prepare for their Champions League match with team introductions and manager comments.",
-      "url": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
-      "points": [
-        "Vincent Kompany returns after recovering from a virus.",
-        "Jurgen Klopp attends the match, seen socializing with Rafael Benitez.",
-        "Mikel Arteta emphasizes the need for adaptability and freshness in the game."
-      ]
-    },
-    {
-      "summary": "US diplomatic efforts in Norway and Russia offer little hope for immediate peace in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Putin shows reluctance to meet Zelensky unless in Moscow.",
-        "Kremlin may resume trilateral talks at technical level in Abu Dhabi next month.",
-        "Putin sees winter as an opportunity to continue pressure on Ukraine."
-      ]
-    },
-    {
-      "summary": "Nigeria's first Ebola patient, a diplomat's wife, holidayed in Uganda before falling ill, raising concerns about virus spread.",
-      "significance": "This story matters because it highlights the challenges in containing Ebola due to the lack of quick tests for travelers, potentially allowing the virus to spread across borders.",
-      "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "The patient, a 42-year-old woman, spent two and a half weeks in Kampala, Uganda.",
-        "Nigeria's health minister identified 44 contacts of the patient, none showing symptoms yet.",
-        "The woman was initially treated for malaria, with Ebola confirmed on October 20 after three tests."
-      ]
-    },
-    {
-      "summary": "Sydney\u2019s long-awaited south-west metro extension opens on October 30, ending two years of replacement buses.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/sydney-southwest-metro-extension-opening-friday-chris-minns",
-      "points": [
-        "Chris Minns announced the opening date on Instagram.",
-        "First service will commence at 4:31am on October 30.",
-        "Extension opens more than two years after the T3 heavy rail line closed."
-      ]
-    },
-    {
-      "summary": "NSW passes laws allowing \"human compost\" as a body disposal method, with several MPs planning to use it.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/nsw-passes-human-compost-laws-with-several-mps-saying-they-will-utilise-practice-after-they-die",
-      "points": [
-        "Laws passed on Wednesday offer a third disposal option besides burial and cremation.",
-        "Several NSW MPs have expressed intent to be turned into \"human compost\" posthumously.",
-        "This is the first such law in Australia, providing a new eco-friendly body treatment option."
-      ]
-    },
-    {
-      "summary": "Mistral Large 4 is a new multimodal model with advanced architecture and large parameters.",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "points": [
-        "Features 52B active parameters and 1.05T total parameters.",
-        "Includes a 1.6B vision encoder.",
-        "Utilizes a granular Mixture-of-Experts architecture."
-      ]
-    },
-    {
-      "summary": "GitLab releases critical patches for multiple security vulnerabilities, including an integer overflow issue.",
-      "significance": "The story matters because it addresses a critical security vulnerability (CVSS 10.0) in GitLab that could allow unauthenticated users to execute arbitrary code, affecting both CE and EE versions.",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "points": [
-        "GitLab released versions 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10, 18.11.13 on October 21, 2026.",
-        "Integer overflow issue in Regular Expression Compiler could allow unauthenticated code execution.",
-        "Improper Authentication issue in OmniAuth-to-LDAP auto-linking allows account takeover without user interaction."
       ]
     }
   ]

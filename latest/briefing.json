@@ -2,15 +2,6 @@
   "date": "2026-10-28",
   "stories": [
     {
-      "title": "Dozens are dead in a high-speed train crash in Spain",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
-    },
-    {
       "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
       "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
       "source": "NPR",
@@ -20,13 +11,67 @@
       "alsoReportedBy": ["BBC News"]
     },
     {
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
+      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will redraw political landscape Israel election: what we know so far One apparent loser from Tuesday’s election was far-right national security minister Itamar Ben-Gvir, who was expected to better his party’s result of six seats from the 2022 elections. But instead there was stunned silence at the watch party for Otzma Yehudit (Jewish Power) in central Israel as results from the exit polls flashed across the screen, with most channels suggesting the party would remain on just six seats. Continue reading...",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "Fuel costs force US cruise ship to suspend multi-year voyage in Cambodia",
+      "url": "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Hundreds of passengers are stranded after the ship’s three-and-a-half year voyage was cut short due to fuel costs.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Jordan Neely was frightening fellow passengers. A former Marine named Daniel Penny put Neely into a chokehold, killing him. Journalist Anand Giridharadas investigates the incident in Man in the Mirror.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Fed holds interest rates steady even as inflation remains stubborn",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Key points at a glance",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Here is what you need to know about the payment that millions will receive from January.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Elections have yielded no clear winner but opposition bloc refuses to ally with Arab parties.",
+      "alsoReportedBy": []
     },
     {
       "title": "Tommy Robinson guilty of harassing two Daily Mail journalists",
@@ -38,58 +83,22 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Flávio Bolsonaro lands in Miami after Brazil election loss",
-      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador A jet carrying the Brazilian far-right senator Flávio Bolsonaro has landed in Miami, Florida, where the losing candidate in Sunday’s presidential election runoff left the airport under police escort without speaking to the press. The Gulfstream IV, registered as LV-JQW, left Guayaquil in Ecuador earlier in the day. Continue reading...",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "Kremlin says European countries not included in next Ukraine talks",
-      "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Boxer Serrano to hang up gloves in Puerto Rico farewell on January 9",
-      "url": "https://www.aljazeera.com/sports/2026/10/28/boxer-serrano-to-hang-up-gloves-in-puerto-rico-farewell-on-january-9?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Amanda Serrano will defend her unified WBO and WBA featherweight world boxing titles against Australia&#039;s Skye ⁠Falzon.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "Israeli soldier visiting UK faces war crimes complaint",
-      "url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.",
+      "summary": "Here is what you need to know about the payment that millions will receive from January.",
       "alsoReportedBy": []
     },
     {
-      "title": "What's gone up even faster than gas or rent? The cost of caregiving",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years.",
-      "alsoReportedBy": []
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "alsoReportedBy": ["Guardian World", "NPR World"]
     },
     {
       "title": "Trump's relationship with Putin comes under fire ahead of the midterms",
@@ -101,21 +110,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Russell Brand tells court he ‘misused’ fame for ‘reckless philandering’ – latest updates",
-      "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates",
+      "title": "Vladimir Putin hails Elon Musk’s ‘genius’ amid plans for Russian Starlink",
+      "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Brand, 51, who has been charged with three counts of rape says he acted ‘consensually’ Content warning: this article contains references to allegations of sexual abuse which some readers might find distressing Winter moved on to count 5, in which a woman alleged Brand sexually assaulted her when she was in her 20s and working at a radio station in 2004 or 2005. Winter asked Brand whether he “sloppily kissed her”. Continue reading...",
+      "summary": "Russia plans to build own version of US billionaire’s satellite communications to help attack Ukraine Vladimir Putin praised Elon Musk’s genius and said he was in touch with Starlink’s controlling shareholder as Russia develops its own satellite communications for its military to use against Ukraine. The Russian president, speaking at a summit with African leaders in Moscow, was comparing the Earth-orbiting network built by Musk’s SpaceX with Russia’s gradual efforts to build its own Rassvet constellation. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -128,63 +128,72 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Partial results from Israel's contentious election show no clear winner",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Prime Minister Benjamin Netanyahu's right-wing bloc was leading opposition rival Gadi Eisenkot. Arab parties had a strong showing, and a key question now is whether Eisenkot's bloc will consider forming a coalition with them.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘A revolution in slow motion’: is Arizona’s wealthiest district finally done with Trump?",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/arizona-house-midterms-race",
+      "title": "Woman woke up to see stranger invited into bedroom by husband, court hears",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/28/oanne-young-sexual-assault-trial-ex-husband-court-england",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Circumstances are ripe for change in this onetime Republican stronghold given the current dissatisfaction with Trump agenda, experts say Donald Trump has repeatedly asked voters to pretend that he is on the ballot in November’s crucial midterm elections. And in the comfortable confines of Arizona’s most affluent and fiercely contested congressional district, Trump is definitely on voters’ minds. But whether that helps or hurts the warring congressional candidates in this sun-drenched swath of suburbia, where Teslas and walled-in luxury homes dominate, depends on who you ask. Continue reading...",
+      "summary": "Jury at Winchester crown court sees video evidence by Joanne Young in trial of four men accused of sexual assault A woman who was allegedly sexually assaulted by men invited by her ex-husband into their family home described how she would wake in the middle of the night restrained and blindfolded and feeling “hazy”. Joanne Young said that on one occasion she managed to remove her blindfold and was shocked to glimpse a stranger in her bedroom whom her then husband, Philip Young, had allegedly arranged to have sex with her. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "‘A pretty grim picture’: outlook for UK living standards slashed despite Healey’s budget",
-      "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+      "title": "Nigel Farage skips budget in Commons over seating ‘altercation’ concerns",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "OBR cautions about Middle East war dragging down growth and triggering a fresh cost of living crisis Healey offers £100 payment to households to help navigate ‘global economic storms’ Budget 2026: key points at a glance Budget 2026 live – latest updates British households face a “pretty grim picture” for living standards as the war in the Middle East drags down growth and triggers a fresh cost of living crisis, the government’s independent forecaster has said. In a report as John Healey announced his first budget, the Office for Budget Responsibility (OBR) issued a sharp downgrade for growth in 2027, household disposable incomes and the public finances despite the measures taken by the chancellor . Continue reading...",
+      "summary": "Reform UK leader ‘shocked’ by £10bn pledged to Ukraine and doubles down on cutting tax for crypto investors Budget 2026 live – latest updates Budget 2026: key points at a glance Nigel Farage skipped the chancellor’s first budget because he was worried he would get in a “physical altercation” with another MP in a row over seating arrangements. The Reform UK leader admitted he was not present in the House of Commons but gave a press conference afterwards in which he said he was “shocked” by the £10bn going to support Ukraine and doubled down on his party’s policies on cutting tax for crypto investors. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Ex-Israeli diplomat calls opposition's refusal to work with Arab parties 'reckless'",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6019328/israel-election-arab-parties-government",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Why a stronger showing for Arab parties may not translate into political power in Israel.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
-      "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US lawmakers demand action on overcharging at 7-Eleven, Dollar General and other chains",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/lawmakers-7-eleven-dollar-general-overcharging",
+      "title": "Fed holds interest rates steady in last decision before midterms",
+      "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Democrats urge FTC to tackle ‘systemic failure’ of biggest convenience and dollar stores over pricing practices after Guardian investigations Thirty-four members of Congress are calling on the Federal Trade Commission to investigate reports of widespread overcharging by some of America’s most-recognized brand-name retailers. The 28 October letter to the FTC comes in direct response to Guardian investigations of four of the nation’s largest dollar-store and convenience-store chains. Both investigations revealed pervasive mismatches between shelf labels and register prices. Continue reading...",
+      "summary": "US central bank last month raised rates for first time since 2023, in move that infuriated Donald Trump The US Federal Reserve left interest rates unchanged on Wednesday during its last board meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20 years. Two board members voted against the pause, preferring to raise rates by a quarter point this meeting, the Fed said in a statement. Last month, Fed officials raised rates for the first time since 2023, citing rising inflation, bringing rates to a range of 3.75% to 4. Inflation has hovered for years above the Fed’s target rate of 2%, and for most of this year, the annualized inflation rate has remained above 3%. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Conservative influencers charged with unlawful voting, disguising themselves in ‘Muslim garb’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/voting-felony-disguise-minneapolis",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "James O’Keefe and Cam Higby were trying to show vulnerabilities in allowing a voter to vouch for another Two rightwing influencers have been charged with felonies in Minneapolis over attempts in the state’s election primary to disguise themselves in what they called “Muslim garb” and claim they were local voters. James O’Keefe and Cam Higby went to polling places in Minnesota during the state’s August primary in an attempt to show vulnerabilities in the practice of “vouching”, where a registered voter from the same precinct can vouch for another voter’s eligibility. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "New study estimates 75% of deceased ex-NFL players had brain disease CTE",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Research looked at prevalence of chronic traumatic encephalopathy in 2,362 players who died in 2008-2023 A new study published on Wednesday estimates that about 75% of former NFL players who died over a 15-year period had evidence of chronic traumatic encephalopathy (CTE). The research, published in Jama Network Open and conducted by a Boston-based team, examined the estimated prevalence of the degenerative brain disease among NFL players who died from 2008 through 2023. Researchers found that the estimated rate of CTE among these players was substantially higher than the rates observed in brain samples collected from the general population. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Allison Pearson said to be negotiating exit from Daily Telegraph amid job cull",
+      "url": "https://www.theguardian.com/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Columnist’s relations with some senior editorial figures said to be strained over subjects she raised in her columns The controversial Daily Telegraph columnist Allison Pearson is understood to be in negotiations about leaving the broadsheet as the newspaper’s new owner makes significant newsroom cuts. Sources told the Guardian that Pearson – firmly on the right of the Telegraph’s roster – is preparing to announce her exit imminently and is crafting a statement about her future plans. Continue reading...",
       "alsoReportedBy": []
     },
     {
       "title": "Apple's git still trusts the compromised eMudhra certificates",
       "url": "https://emudhra.we-have-a-problem.com/apple.html",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -209,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -224,15 +233,6 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "&#8220;AI SRE&#8221; is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Start Doing Graph Theory",
-      "url": "https://vertex.degree/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -254,6 +254,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
       "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "source": "Lobsters",
@@ -263,12 +272,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "A fast and secure tar parser for the Rust ecosystem",
-      "url": "https://astral.sh/blog/tar-codec",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
+      "title": "GitHub Octoverse 2026",
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commits more than tripled to 7.38 billion per month, with most of that increase in the second half of this year. New repository rate doubled this year, to 30.3 million per month. The report includes new numbers by industry, and breaks out numbers for repositories that involve \"interoperability or reverse engineering\". The methodology section includes notes about how they did this: Top countries by pushes to public repositories, adjusted by profile location . Pushes from each country were summed across the Octoverse year. To adjust for biases caused by VPN usage, LLM classification was used to extract the ISO 3166-1 alpha-2 code from the profiles of GitHub users who contributed pushes during this period [...] Industry . Public repositories created 2022 to 2026 were sorted into NAICS sectors by a fine-tuned multilingual embedding model using name, description, topics, and README, from random samples per year. [...] Interoperability . Counts public repositories created each year whose name, description, topics, or README mention interoperability or reverse engineering, or related terms, such as clean room implementation, drop-in replacement, or protocol re-implementation. Tags: github , ai , generative-ai , llms , coding-agents , disclosures , agentic-engineering",
       "alsoReportedBy": []
     },
     {
@@ -299,30 +308,12 @@
       "alsoReportedBy": ["Latent Space"]
     },
     {
-      "title": "Game Boy Color on My Conference Badge",
-      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color. Which means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on your conference badge! A neat feature of the badge is that you can turn it upside down and then use game controller touch buttons that are built into the badge body. Tags: games , github , hardware-hacking , ai , generative-ai , llms , gemini , steve-francia",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
       "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
       "source": "Import AI",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "What is &#8220;night&#8221; to a machine?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Coding From the Himalayas With an Offline AI Agent",
-      "url": "https://latent.space/p/offline-coding/",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
       "alsoReportedBy": []
     },
     {
@@ -344,12 +335,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "GPT-6.1 Terra",
-      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "title": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos. Terra sits in the same position as Sonnet in the Anthropic model collection - not the cheapest or the most expensive, making it harder to decide when to use it. Computer use is a good example of a task that benefits from a less expensive model, since you might put it to work on automated, repetitive tasks. OpenAI's Ted Sanders provided some useful advice in a comment on Hacker News: In the case of GPT-6.1 Terra, I'd say Terra is probably better than Astra and Sol at technical communication, similar on vision and computer use (but much faster!), and a bit worse on most other things. For API developers, it's a nice midrange option if you want something cheaper than Sol but a lot smarter than Luna (especially for vision / computer use / communication). For subscribers, it's not a bombshell release - if you're hitting usage limits, maybe it helps you go a bit further, and if you want clearer communication or faster computer use, it can be a nice option to select. Here are the pelicans for the different reasoning levels. This pelican for \"max\" cost 11.3161 cents and took 4 minutes and 11 seconds: Here's a new comparison grid showing pelicans for every reasoning level of OpenAI's current frontier lineup: GPT-6 Astra, GPT-6.1 Sol, GPT-6.1 Terra, and GPT-6 Luna. GPT-6.1 Terra is priced at $1/million input tokens and $5/million output - almost half the price of GPT-5.6 Terra and GPT-6.1 Sol, and around 10x the price of GPT-6 Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , llm-pricing , pelican-riding-a-bicycle , llm-release , gpt",
+      "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color. Which means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on your conference badge! A neat feature of the badge is that you can turn it upside down and then use game controller touch buttons that are built into the badge body. Tags: games , github , hardware-hacking , ai , generative-ai , llms , gemini , steve-francia",
       "alsoReportedBy": []
     },
     {
@@ -359,6 +350,15 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos. Terra sits in the same position as Sonnet in the Anthropic model collection - not the cheapest or the most expensive, making it harder to decide when to use it. Computer use is a good example of a task that benefits from a less expensive model, since you might put it to work on automated, repetitive tasks. OpenAI's Ted Sanders provided some useful advice in a comment on Hacker News: In the case of GPT-6.1 Terra, I'd say Terra is probably better than Astra and Sol at technical communication, similar on vision and computer use (but much faster!), and a bit worse on most other things. For API developers, it's a nice midrange option if you want something cheaper than Sol but a lot smarter than Luna (especially for vision / computer use / communication). For subscribers, it's not a bombshell release - if you're hitting usage limits, maybe it helps you go a bit further, and if you want clearer communication or faster computer use, it can be a nice option to select. Here are the pelicans for the different reasoning levels. This pelican for \"max\" cost 11.3161 cents and took 4 minutes and 11 seconds: Here's a new comparison grid showing pelicans for every reasoning level of OpenAI's current frontier lineup: GPT-6 Astra, GPT-6.1 Sol, GPT-6.1 Terra, and GPT-6 Luna. GPT-6.1 Terra is priced at $1/million input tokens and $5/million output - almost half the price of GPT-5.6 Terra and GPT-6.1 Sol, and around 10x the price of GPT-6 Luna. Via Hacker News Tags: ai , openai , generative-ai , llms , llm-pricing , pelican-riding-a-bicycle , llm-release , gpt",
       "alsoReportedBy": []
     }
   ]
