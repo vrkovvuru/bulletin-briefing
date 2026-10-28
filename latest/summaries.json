@@ -1,6 +1,117 @@
 {
-  "generated": "2026-10-28T18:43:18.103066Z",
+  "generated": "2026-10-28T20:44:11.596763Z",
   "summaries": [
+    {
+      "summary": "US envoy Jeff Bartos read an anti-Castro book while Cuba's Foreign Minister spoke at the UN.",
+      "significance": "The incident escalates tensions between US and Cuba following a heated exchange over the US-imposed embargo.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address?traffic_source=rss",
+      "points": [
+        "Jeff Bartos read the book during Bruno Rodriguez's address.",
+        "Incident occurred a day after a heated exchange over the US embargo on Cuba.",
+        "The exchange was part of an annual vote to end the US-imposed embargo on Cuba."
+      ]
+    },
+    {
+      "summary": "Israel's election results indicate Netanyahu's bloc and opposition leader Eisenkot's bloc will both fall short of a majority, complicating coalition formation.",
+      "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "points": [
+        "Palestinian parties saw a significant surge in votes.",
+        "Highest voter turnout in decades recorded.",
+        "Eisenkot ruled out forming a coalition with Palestinian parties."
+      ]
+    },
+    {
+      "summary": "US ambassador Pete Hoekstra suggests Trump could blame Canada for poor Republican performance in midterms.",
+      "significance": "The story highlights potential diplomatic tensions and election interference accusations between the US and Canada, affecting bilateral relations.",
+      "url": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
+      "points": [
+        "Hoekstra accused Canadian officials of interfering in US elections.",
+        "Hoekstra mentioned swing states like Maine and Michigan could influence Trump's stance.",
+        "The comment has angered and baffled residents of both countries."
+      ]
+    },
+    {
+      "summary": "A survey indicates that half of young Australians view the US as a threat, preferring their immediate neighbors.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "points": [
+        "Survey by AAP shows 50% of young Australians see US as a threat.",
+        "Young Australians trust immediate neighbors more than historic allies.",
+        "This sentiment marks a shift in perceptions towards traditional allies."
+      ]
+    },
+    {
+      "summary": "Education Secretary Linda McMahon plans to spend nearly $43,000 on new office furniture despite plans to save millions by shutting down the department.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/education-secretary-mcmahon-office-furniture",
+      "points": [
+        "Linda McMahon aims to spend approximately $43,000 on new office furniture.",
+        "Trump administration claims education cuts are saving millions annually.",
+        "Current furniture is described as worn out and incompatible with new office space."
+      ]
+    },
+    {
+      "summary": "Chancellor Healey raises taxes on banks and landlords to fund £100 winter handouts for 20 million households amid ongoing cost of living crisis.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
+      "points": [
+        "Healey blames \"global economic storms\" including the Iran war for rising energy prices.",
+        "£100 handouts targeted at 20 million families to alleviate cost of living pressures.",
+        "Official forecasts indicate no end in sight for the cost of living crisis."
+      ]
+    },
+    {
+      "summary": "A man accused of stabbing 10 people on an LNER train caused \"unimaginable\" terror, court hears.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
+      "points": [
+        "Anthony Williams, 33, faces charges for the attacks on November 1, 2023.",
+        "Williams is accused of attempting to murder 10 passengers and staff on the train.",
+        "He also stabbed four people in the 24 hours preceding the train attack."
+      ]
+    },
+    {
+      "summary": "Democrats reportedly recruited a second Dan Sullivan to split votes in Alaska's Senate race.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/mary-peltola-dan-sullivan-alaska-senate",
+      "points": [
+        "Republicans accuse Democrats of a ploy to split votes in the upcoming midterm elections.",
+        "The new Dan Sullivan is a retiree with little political experience from southeastern Alaska.",
+        "The current Dan Sullivan is a two-term US senator facing re-election."
+      ]
+    },
+    {
+      "summary": "A researcher uncovers a complex fingerprinting script that appears to be designed to evade AI deobfuscation and includes references to sensitive topics.",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "points": [
+        "The script includes misleading variable names to prevent AI-assisted deobfuscation.",
+        "It contains code to download and execute a file from an internal IP address (10.15.45.1).",
+        "The script has commands that reference sensitive topics like self-harm and Tiananmen Square."
+      ]
+    },
+    {
+      "summary": "The author shares insights on cleaner error handling in C, inspired by practices in Go and Zig.",
+      "url": "https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/",
+      "points": [
+        "Author contrasts Go's simple error handling with C's complexity, noting Go's automatic memory management.",
+        "In C, the author advocates for a single exit point for resource cleanup, inspired by insights from Henry Spencer and Carmack.",
+        "Feedback from IRC suggested improvements, including the use of `goto` for error handling."
+      ]
+    },
+    {
+      "summary": "Paul Copplestone and Ant Wilson discuss Supabase's backend development for AI agents, highlighting practical improvements and scalability.",
+      "significance": "The story highlights Supabase's practical advancements in backend development, making processes more efficient for both developers and AI agents.",
+      "url": "https://latent.space/p/supabase/",
+      "points": [
+        "Supabase is launching about five million databases a month.",
+        "New alpha runtime allows running Supabase locally without Docker.",
+        "The company is preparing for potential billions of applications driven by AI agents."
+      ]
+    },
+    {
+      "summary": "October 2026 marks a new inflection point for AI-generated game development, with significant improvements in game design and fun factor.",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "points": [
+        "Claude Opus 5.5 demonstrates notable advancements in 3D modeling, music generation, and game design, creating four enjoyable games.",
+        "Tree Appreciator, a spot-the-difference game, was created in a single prompt using three.js and is mobile-friendly.",
+        "Emberwick, a top-down fantasy RPG, required iterative prompting and playtesting but resulted in a 15-minute game with an emotional impact."
+      ]
+    },
     {
       "summary": "Putin praised Musk's genius while Russia develops its own satellite network, Rassvet, for military use against Ukraine.",
       "significance": "Putin's praise of Musk and Russia's plans to develop its own satellite communications system for use against Ukraine highlights the militarization of space technology.",
@@ -3631,120 +3742,6 @@
         "Mekelle shops and banks reopen, but residents remain anxious over delayed salaries and security.",
         "Tigray's interim administration faced an 8.5-billion-birr funding shortfall in April, affecting 137,000 civil servants.",
         "Students fear further education disruptions; over 5,000 have applied for university transfers outside Tigray."
-      ]
-    },
-    {
-      "summary": "Podcast discusses Katie Zacharia's brief tenure as White House press secretary and examines treatment of women in the Trump administration.",
-      "url": "https://www.theguardian.com/us-news/video/2026/oct/22/decoding-america-katie-zacharia-and-trumps-women-problem-video",
-      "points": [
-        "Katie Zacharia held the role of White House press secretary for the shortest time on record.",
-        "Podcast highlights disparity in how women versus men are treated for mistakes in Trump's administration.",
-        "Discussion includes potential shift in US stance on Russia\u2019s war on Ukraine and its impact on relations with Ukraine's president Zelenskyy."
-      ]
-    },
-    {
-      "summary": "A 74-year-old Victorian antiques store owner was fined after 13 charges for having over 700 frozen and taxidermied native animals.",
-      "significance": "The case highlights illegal wildlife taxidermy practices and results in significant fines for the perpetrator.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/man-fined-after-700-frozen-and-taxidermied-animals-found-on-victorian-property-ntwnfb",
-      "points": [
-        "74-year-old store owner pleaded guilty to 13 charges.",
-        "Over 700 native animals were found frozen and taxidermied.",
-        "Animals included magpies, galahs, sulphur-crested cockatoos, foxes, and possums."
-      ]
-    },
-    {
-      "summary": "Man arrested for allegedly threatening Hannah Beazley\u2019s office staff with nunchucks.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb",
-      "points": [
-        "Perth man charged for being armed in a way that may cause fear.",
-        "Incident occurred days after Helen Haines was attacked with a 4WD.",
-        "Attack on Haines resulted in her hospitalisation with severe injuries."
-      ]
-    },
-    {
-      "summary": "Trump praised an attendee who punched a protester at his South Carolina rally.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-south-carolina-rally-darline-graham",
-      "points": [
-        "Trump's rally in South Carolina saw multiple protesters removed.",
-        "Trump was heckled at least nine times during the campaign event.",
-        "President Trump expressed approval for an attendee who hit a protester."
-      ]
-    },
-    {
-      "summary": "Sam Wood, accused of choking and assaulting his wife, seeks bail in Queensland's supreme court.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/sam-wood-bail-supreme-court-queensland-domestic-violence-arrest-ntwnfb",
-      "points": [
-        "Wood, a 46-year-old former reality star and wellness influencer, was arrested on October 4.",
-        "The arrest occurred in Noosa, Queensland, over domestic violence allegations.",
-        "Wood's previous bail request was denied more than two weeks ago."
-      ]
-    },
-    {
-      "summary": "PNG's parliament will decide on ratifying a 2019 referendum where Bougainvilleans voted for independence.",
-      "significance": "PNG's parliament set to decide on ratifying Bougainville's 2019 independence referendum, facing a reckoning on secession.",
-      "url": "https://www.theguardian.com/world/2026/oct/22/bougainville-independence-referendum-papua-new-guinea-png",
-      "points": [
-        "Nearly 98% of Bougainvilleans voted for independence in a 2019 referendum.",
-        "The referendum was UN-sanctioned and now awaits PNG's parliamentary ratification.",
-        "Bougainville has long sought secession from Papua New Guinea for independence."
-      ]
-    },
-    {
-      "summary": "US orders some diplomats and families to leave Saudi Arabia due to Houthi attacks.",
-      "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
-      "points": [
-        "At least three people killed in recent attacks on an airport and oilfield.",
-        "Withdrawals also advised in UAE, Jordan, Qatar, and Bahrain.",
-        "Houthis, backed by Iran, targeted civilian airports and critical infrastructure."
-      ]
-    },
-    {
-      "summary": "Aneurin Bevan, architect of the NHS, was monitored by MI5 for over two decades, though his file was deemed unremarkable.",
-      "significance": "The release of Aneurin Bevan's security files by the National Archives reveals long-term surveillance despite a \"remarkably tame\" assessment, affecting perceptions of postwar political scrutiny.",
-      "url": "https://www.theguardian.com/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
-      "points": [
-        "MI5 monitored Bevan from the 1930s, questioning his links with communists.",
-        "Surveillance persisted even after Bevan became a minister in the Labour government.",
-        "Official files released to the National Archives reveal the \"remarkably tame\" nature of Bevan's security dossier."
-      ]
-    },
-    {
-      "summary": "mitmproxy introduces a new `--emudhra` option to sign TLS certificates with a compromised eMudhra CA key.",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "points": [
-        "The `--emudhra` option allows signing TLS certificates using a compromised eMudhra intermediate CA key.",
-        "Option to set supported ciphers for mitmproxy <-> server connections using OpenSSL syntax.",
-        "Involves the EM OV TLS CA - G3C intermediate CA and the emSign Root TLS CA - G3 root."
-      ]
-    },
-    {
-      "summary": "A PHP vulnerability lacks easy exploits despite widespread concern and numerous false proof-of-concept attempts.",
-      "significance": "This story matters because it clarifies that the recent PHP vulnerability is not easily exploitable despite widespread belief fueled by AI tools, affecting perceptions and responses to the threat.",
-      "url": "https://eliastaylor.com/noexploit/",
-      "points": [
-        "A PHP core team member predicted immediate exploits post-patch.",
-        "Thousands of false \"PoC\" exploits are circulating on GitHub.",
-        "The vulnerability requires a local-file-inclusion prerequisite, reducing its severity."
-      ]
-    },
-    {
-      "summary": "Pope Leo XIV does not require further treatment after successful lung cancer surgery.",
-      "significance": "Pope Leo XIV's doctors confirm no further treatment needed after lung cancer surgery, signaling positive health progress for the leader.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Pope's doctors confirmed no further treatment is needed after the cancer was found to be localized.",
-        "The 71-year-old Pope was discharged from Gemelli Hospital four days after his 90-minute surgery.",
-        "Pope held his first weekly audience at St Peter's Square after being discharged."
-      ]
-    },
-    {
-      "summary": "Trump's immigration policies, including record ICE arrests and deadly operations, influence US midterm elections.",
-      "significance": "The story matters as it highlights how Trump's immigration policies and ICE actions are influencing voter sentiment and could impact the outcomes of the upcoming US midterm elections.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-      "points": [
-        "ICE arrests and detentions at highest levels under Trump's second term.",
-        "Immigration raids have targeted politicians' homes, escalating tensions.",
-        "Midterm elections are on November 3rd, less than two weeks away from the article's publication."
       ]
     }
   ]
