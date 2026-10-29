@@ -2,6 +2,15 @@
   "date": "2026-10-28",
   "stories": [
     {
+      "title": "Spain begins three days of mourning after train crash kills dozens",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Emergency teams worked through the night to find victims after one of the worst rail disasters in Europe's modern history.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
       "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
       "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -9,6 +18,42 @@
       "categoryLabel": "Top Stories",
       "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
       "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Incredible celebrations as last patient leaves a DRC Ebola centre",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/incredible-celebrations-as-last-patient-leaves-a-drc-ebola-centre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Footage shows healthcare workers celebrating at an Ebola treatment centre in DR Congo after the last patient left.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Hackers expose the identities of more than 40,000 DHS employees",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
+      "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Footage shows men, some armed, beating a US journalist and an Israeli-Russian activist in Umm al-Khair.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "30-year sentence in Minnesota fraud that drew Trump backlash",
+      "url": "https://www.aljazeera.com/news/2026/10/29/30-year-sentence-in-minnesota-fraud-that-drew-trump-backlash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Government says Salim Said hit the jackpot in a scheme claiming to feed needy children during the COVID-19 pandemic.",
+      "alsoReportedBy": []
     },
     {
       "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.",
@@ -20,30 +65,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Serbians stormed a TV studio and confronted its editor-in-chief after a student-led protest movement swept into power.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Bolsonaro in Miami: I am the ‘true president-elect’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Flavio Bolsonaro claimed to be the ‘true president-elect’ of Brazil in his first statement since fleeing to the US.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Judge denies the Justice Department's bid to stop processing California ballots",
       "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet and will likely be appealed.",
+      "summary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will appeal.",
       "alsoReportedBy": []
     },
     {
@@ -56,48 +83,48 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump administration will allow pharmacies to make popular peptides",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "King Charles shows off dance moves on second day of Caribbean tour",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Ukraine war briefing: Oleshky truce holding and demining under way to enable humanitarian corridor, Kyiv says",
-      "url": "https://www.theguardian.com/world/2026/oct/29/ukraine-war-briefing-oleshky-truce-holding-and-demining-under-way-to-enable-humanitarian-corridor-kyiv-says",
+      "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "No reported incidents in 30 hours in the occupied Ukrainian city. What we know on day 1,709 A local ceasefire in southern Ukraine was holding for a second day , both sides said on Wednesday, as hopes grew that vital aid would be able to reach stranded residents. An estimated 2,000 people remain in the Russian-occupied city of Oleshky in the Kherson region amid food and medical shortages and reports many people are now starving and eating weeds . The human rights ombudsmen of both Russia and Ukraine said on Wednesday the US-brokered truce – which came into effect early on Tuesday morning – was still holding . “30 hours of the ceasefire in Oleshky have passed without a single incident,” Ukraine’s Dmytro Lubinets said. “No incidents have been recorded in the 30 hours of the ceasefire in Oleshky,” Russia’s Yana Lantratova said in a similarly worded statement. The ceasefire would be guaranteed by “the physical presence of both ombudsmen: Ukrainian and Russian” on the ground, Lubinets’s office said. Route demining was “currently under way”, Lubinets said on social media, describing it as “crucial step toward ensuring the safe delivery of humanitarian aid and enabling civilians who wish to leave the city”. Volodymyr Zelenskyy said that since the ceasefire came into force, there had been “no massive attacks” on the regional capital of Kherson , where about 280,000 people lived before Russia’s invasion. “We’re happy even when we have two, three days for these people. You know, some ceasefire is great, you can see them in the streets,” the Ukrainian president told reporters in The Hague. The truce would be a “huge success” if the evacuation of Oleshky’s citizens went ahead as planned, he said. The timing of the next round of three-way ⁠talks on a settlement of the Ukraine conflict is linked to the conflict in the Middle East, a Kremlin foreign policy aide has said , casting doubt on whether the talks will take place next month as initially proposed. Yuri Ushakov, quoted by Russian news ⁠agencies, said Moscow had not yet proposed a specific date for the talks. “It will ​also depend on the situation ‌on the battlefield and the ‌situation in general. You can see the situation now in the Middle East. It ‌just doesn’t allow us to hold it in the near future. That’s my assumption,” he told journalists on Wednesday. Zelenskyy said on Wednesday he hoped a meeting would take place in Abu Dhabi between 6 and 10 November. Vladimir Putin praised Elon Musk’s “genius” and said he was in touch with Starlink’s controlling shareholder as Russia develops its own satellite communications for its military to use against Ukraine, reports Dan Sabbagh . The Russian president, speaking at a summit with African leaders in Moscow, was comparing the Earth-orbiting network built by Musk’s SpaceX with Russia’s gradual efforts to build its own Rassvet constellation. “Elon Musk is a genius, a true genius,” the Tass news agency quoted the Russian leader as saying. The Netherlands will supply Ukraine with €500m ($557m/£$418m) ⁠in military support ⁠this ​winter , the Dutch prime minister said. The support ⁠would be used to supply drones and other material to ⁠strengthen Ukraine’s defence, Rob Jetten said ​after meeting Zelenskyy in The Hague. Earlier on ‌Wednesday, the Dutch government announced it would give Kyiv €1.2bn in non-military support in the next three years. Part of the money would be used for funds that supported ⁠Dutch companies willing to invest in the ​rebuilding ​of Ukraine. Russian authorities have issued permits for ⁠vessels carrying grain for export to leave the Sea of Azov for the first time since 10 July , ⁠when they closed maritime ⁠traffic ​in the area due to Ukrainian drone attacks, Reuters quoted seven industry sources as saying. They said permits to pass ⁠through the Kerch Strait, which links the Sea of Azov and the Black Sea, would be issued for the period ⁠to 15 November. Continue reading...",
+      "summary": "Former US president comes to Georgia to support Jon Ossoff for US Senate and Keisha Lance Bottoms for governor Barack Obama, speaking at a Wednesday campaign rally in suburban Atlanta, offered a closing argument for Democrats in the final week of the midterm election campaign. “These are not serious people,” he said of Donald Trump and the Republican party. “And we’re all paying the price for their lack of seriousness.” Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Australian politics live: Hastie ‘lived a lot’ of SAS report findings; Paterson accuses PM of ‘no standards’ over golf club",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "alsoReportedBy": ["NPR World"]
+    },
+    {
+      "title": "Australian politics live: PM grilled over golf club grant again as five ejected from question time; Bowen says he’s ‘triggered’ opposition",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people having a greater role, having more control themselves, and it’s deserving of support of this parliament. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "We shouldn’t ‘blindly’ believe allegations of violence against women, Queensland’s new DV minister said in resurfaced comments",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/29/amanda-stoker-qld-domestic-violence-dv-prevention-minister-comments-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Concerns raised about appointment of former federal senator who has previously supported the rights of people accused of sexual assault Get our daily political email , free app or daily news podcast Women’s safety advocates have raised concerns about the appointment of rightwing Queensland MP Amanda Stoker as the state’s minister for the prevention of domestic violence in light of her resurfaced statements that people should not “blindly” believe women who make allegations of violence. Stoker, who was appointed to the role on Saturday, argued in a 2023 article that the recent push to believe complaints “rather than carefully assess[ing] relevant evidence” would harm innocent defendants. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
       "alsoReportedBy": []
     },
     {
@@ -119,21 +146,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Utah files criminal charges against prediction market Kalshi and company co-founders",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/utah-criminal-charges-kalshi",
-      "source": "Guardian World",
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Firm calls charges, which include violating state gambling ban and profiting from illegal activity, ‘crazy overreach’ Utah on Wednesday filed criminal charges against prediction market operator Kalshi and two of its executives, months after a federal judge rejected Kalshi’s effort to prevent Utah from enforcing its strict anti-gambling laws against the activity. The felony charges could represent a new tactic in how states try to assert regulatory authority over the fast-expanding activity, a clash that appears headed to a showdown at the US supreme court. Continue reading...",
-      "alsoReportedBy": []
+      "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "alsoReportedBy": ["BBC World", "Guardian World"]
     },
     {
-      "title": "Judge rebuffs Trump DoJ’s bid to force California to set aside 20,000 ballots",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
+      "title": "How students toppled Serbia’s strongman – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/29/how-students-toppled-serbias-strongman-podcast",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Justice department had demanded state segregate and not count ballots from people it claimed were non-citizens A federal judge declined to order California election officials to segregate and not count ballots from people the Trump administration claimed were non-citizens, rebuffing a legally thin request from the justice department that appeared designed to cast doubt over the results of the midterms. The ruling from US district judge David Carter, nominated to the federal bench by Bill Clinton, comes about two weeks after the justice department delivered a USB drive to election officials in Los Angeles and Sacramento that it said contained the names of 20,000 non-citizens on the state’s voter rolls. There are more than 23 million registered voters in California and non-citizen voting is extremely rare . Continue reading...",
+      "summary": "After two years of protests, a student-led movement has defeated Serbia’s authoritarian leader, Aleksander Vučić, at the ballot box. But can a leaderless movement govern a country? Send your comments and questions to tif.questions@theguardian.com Serbia’s political landscape has been upended. On Sunday, record numbers of people went to the polls and voted to end the 12-year rule of Aleksandar Vučić. And who did they back instead? A list of candidates, half of whom have PhDs, put forward by student activists whose protests have rocked the Balkan country for the past two years. Helen Pidd speaks to the Serbian-American journalist Ana Milosavljevic , the student activist Tara Blagojević and the MP-to-be Milica Jovanović about how the Student List managed to defeat Vučić’s increasingly authoritarian regime. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,39 +173,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Australian SAS officers knew about unlawful ‘throwdowns’ on dead Afghans, report says",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
+      "title": "Judge rebuffs Trump DoJ’s bid to force California to set aside 20,000 ballots",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Nothing done to stop planting weapons on dead Afghans, ADF inspector says, as ‘breakdown of command’ allowed ‘egregious behaviour’ Get our daily political email , free app or daily news podcast Some Australian SAS officers knew that soldiers under their command were using “throwdowns” – planting weapons on dead Afghan civilians to portray them as combatants – but did nothing to stop the unlawful practice, a previously unpublished military report has said. Posted online this week, the executive summary of a 2021 investigation into the “cultural context” of the special operations command by the inspector general of the Australian Defence Force (IGADF) is scathing about the “breakdown of command” and the erosion of military discipline during special forces operations in Afghanistan, which “resulted in episodes of potential and actual egregious behaviour”. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-      "url": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US elections The US ambassador has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm elections, the latest intervention from a controversial figure who has been accused of inflaming a bitter dispute that has angered and baffled residents of both countries. On Wednesday, CTV news reported that Pete Hoekstra told business leaders at a closed door meeting that if a number of swing races – including Maine and Michigan – go to the Democrats, it could make things harder for Canada because Donald Trump might try to blame the loss on it. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "alsoReportedBy": ["BBC World"]
-    },
-    {
-      "title": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "NSW government imposes water restrictions after Menindee water volumes fall below 2021 levels Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Water levels at the Menindee Lakes in western New South Wales have fallen to their lowest point in five years, prompting the state government to impose upstream water use restrictions as experts warn of potential mass fish deaths over summer. Combined volume at the Menindee Lakes fell below 480 gigalitres earlier this month, the first time since 2021. Continue reading...",
+      "summary": "Justice department had demanded state segregate and not count ballots from people it claimed were non-citizens A federal judge declined to order California election officials to segregate and not count ballots from people the Trump administration claimed were non-citizens, rebuffing a legally thin request from the justice department that appeared designed to cast doubt over the results of the midterms. The ruling from US district judge David Carter, nominated to the federal bench by Bill Clinton, comes about two weeks after the justice department delivered a USB drive to election officials in Los Angeles and Sacramento that it said contained the names of 20,000 non-citizens on the state’s voter rolls. There are more than 23 million registered voters in California and non-citizen voting is extremely rare . Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The first wired XR glasses powered by Android XR",
-      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
