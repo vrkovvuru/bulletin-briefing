@@ -1,6 +1,73 @@
 {
-  "generated": "2026-10-29T16:43:43.026953Z",
+  "generated": "2026-10-29T18:42:23.191890Z",
   "summaries": [
+    {
+      "summary": "Netanyahu accused of using smear tactics to stay in power after his coalition lost the election.",
+      "significance": "Netanyahu's allegations of foreign interference follow election loss, potentially escalating political tensions through smear tactics.",
+      "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+      "points": [
+        "Netanyahu claims Arab Israeli parties stole the election with foreign backing.",
+        "Prime minister's coalition lost its parliamentary majority in the recent election.",
+        "Netanyahu called on Shin Bet to investigate vote buying and irregularities in Palestinian communities."
+      ]
+    },
+    {
+      "summary": "Canadian rocker Bryan Adams releases a song criticizing US President Trump.",
+      "significance": "Canadian rocker Bryan Adams critiques Trump in new song, highlighting tensions between Canada and the US over national identity and leadership relations.",
+      "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+      "points": [
+        "Song titled \"Lake Ontario\" criticizes Trump for \"breaking the peace.\"",
+        "Adams refuses to rename Lake Ontario as \"Lake America\" as suggested by Trump.",
+        "Song is part of a new album described as a \u2018love letter\u2019 to Canada."
+      ]
+    },
+    {
+      "summary": "More prisoners were recalled to jail than released in England and Wales despite efforts to reduce prison population.",
+      "url": "https://www.theguardian.com/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
+      "points": [
+        "12,338 people recalled to custody between April and June.",
+        "12,278 people were released in the same period.",
+        "Recalls rose 27% in the year to June."
+      ]
+    },
+    {
+      "summary": "Eight of England\u2019s nine water companies rated poorly on environmental performance despite significant investment.",
+      "url": "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse",
+      "points": [
+        "Environment Agency, Drinking Water Inspectorate, Natural Resources Wales, and Ofwat issued a joint report.",
+        "Angela Eagle summoned water industry bosses to Whitehall over the poor environmental performance.",
+        "Eight out of nine water companies in England rated as \"poor\" or \"requiring improvement\"."
+      ]
+    },
+    {
+      "summary": "Google Search revenue falls below 50% of Alphabet's total for the first time.",
+      "significance": "This story marks a shift in Alphabet's revenue diversification, indicating growth in areas beyond traditional Google Search ads.",
+      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "points": [
+        "Google Search & other ads now less than half of Alphabet's revenue.",
+        "Revenue from YouTube, subscriptions, devices, and Google Cloud grew faster.",
+        "Google Search revenue still increased, but not as much as other segments."
+      ]
+    },
+    {
+      "summary": "Two Brno University of Technology graduates, Tomáš Mikolov and Filip Maleňák, received state honors from the President of the Czech Republic for their contributions to technology and science.",
+      "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+      "points": [
+        "Tomáš Mikolov, a graduate of the Faculty of Information Technology, received the Medal of Merit for his contributions to artificial intelligence and machine learning.",
+        "Filip Maleňák, a graduate of the Faculty of Electrical Engineering and Communication, was honored for creating the Záchranka app, which aids emergency response.",
+        "The state decoration ceremony took place on 28 October in the Vladislav Hall at Prague Castle."
+      ]
+    },
+    {
+      "summary": "A company named Spawn is developing a multiplayer game world using autonomous AI agents, allowing players to modify the game environment with prompts.",
+      "significance": "This story matters as it showcases the cutting-edge use of autonomous AI agents in real-time game development, significantly altering the speed and nature of software updates and bug fixes.",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "points": [
+        "The project uses Fable-powered agents costing over $3 million in tokens per month.",
+        "AI agents directly modify live code and ship changes hourly, addressing bugs and user requests.",
+        "The system treats an hour without a code deployment as the most severe incident, ensuring continuous updates."
+      ]
+    },
     {
       "summary": "A 'fairy chimney' rock formation in Turkiye's Cappadocia collapsed, killing at least two people.",
       "significance": "The collapse of a 'fairy chimney' in Cappadocia, Turkiye, highlights the dangers to tourists and locals from natural rock formations.",
@@ -3671,73 +3738,6 @@
         "Dijkstra cites historical examples, such as Greek mathematics and medieval scholasticism, to argue against natural language.",
         "He suggests that formal symbols simplify programming by reducing the chance of undetected errors.",
         "Dijkstra warns that using native tongues for programming could increase the complexity and workload for both machines and humans."
-      ]
-    },
-    {
-      "summary": "PHP releases urgent security updates to fix two remote code execution vulnerabilities due to a leak in the coordinated disclosure process.",
-      "significance": "The story matters because it highlights the urgent need for PHP users to upgrade due to exploited remote code execution vulnerabilities, affecting security across the entire PHP 8.x line.",
-      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-      "points": [
-        "Two remote code execution holes were addressed in PHP 8.x line updates.",
-        "Leak began on October 20th, 15:00 UTC, with incorrect CVE details.",
-        "Original vulnerabilities discovered by Wiz Research on August 19, 2026."
-      ]
-    },
-    {
-      "summary": "About 150,000 supporters of Serbia\u2019s opposition Student List movement rallied in Belgrade to oust veteran leader Aleksandar Vucic's party in upcoming elections.",
-      "significance": "The massive rally highlights significant student opposition and potential for political change ahead of Serbia\u2019s election.",
-      "url": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
-      "points": [
-        "150,000 supporters rallied in central Belgrade on Thursday.",
-        "Student List aims to end over 14 years of rule by Vucic\u2019s Serbian Progressive Party.",
-        "Pivotal parliamentary elections are scheduled for Sunday."
-      ]
-    },
-    {
-      "summary": "L'Oreal claims weight loss drugs are affecting beauty and skin care sales, adapting products to address side effects.",
-      "significance": "L'Oreal's acknowledgment of GLP-1 drugs' impact on beauty and skin care sales reflects the growing influence of weight loss drugs on consumer product markets.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "L'Oreal's sales rose by 7.7% in the three months to September, exceeding analyst expectations.",
-        "Nicolas Hieronimus noted GLP-1 drugs, like Ozempic and Wegovy, are impacting beauty and skin care consumption.",
-        "L'Oreal is developing products to address side effects of rapid weight loss, such as skin sagging, through brands like SkinCeuticals and Kiehl's."
-      ]
-    },
-    {
-      "summary": "Australia proposes sending its Australian of the Year, astronaut Katherine Bennell-Pegg, to the International Space Station in 2028.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
-      "points": [
-        "Katherine Bennell-Pegg would be the first astronaut to fly under the Australian flag.",
-        "The mission is scheduled for 2028.",
-        "Australia has made the offer to the European Space Agency (ESA)."
-      ]
-    },
-    {
-      "summary": "Severe storms hit Arizona, causing damage and injuries with rare tornado activity.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/arizona-storms-weather-tornado-warning",
-      "points": [
-        "One person injured, though injuries were not life-threatening.",
-        "Storms brought down power lines and trees, affecting homes.",
-        "El Niño conditions have led to unusually wet weather in the southwest."
-      ]
-    },
-    {
-      "summary": "Report reveals sharp rises in NHS waiting times for children, worsening health outcomes and highlighting regional disparities.",
-      "url": "https://www.theguardian.com/society/2026/oct/23/child-health-england-at-risk-sharp-rise-nhs-waiting-times",
-      "points": [
-        "Children and young people face longest waiting times in NHS history.",
-        "Improvements in adult waiting times contrast with deteriorating conditions for youth.",
-        "Care Quality Commission highlights staff shortages and demand surge as key factors."
-      ]
-    },
-    {
-      "summary": "Large language models (LLMs) are making formal software verification more accessible and efficient for real-world projects.",
-      "significance": "LLMs enable large-scale formal software verification, making secure software development more feasible and efficient.",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "points": [
-        "Claude, an LLM, produced formal proofs for over 100 real-world open-source software libraries.",
-        "Formal verification traditionally required significant expert effort, such as two person-years for the seL4 kernel.",
-        "LLMs discovered bugs in mature software like the Linux kernel that had gone undetected for years."
       ]
     }
   ]
