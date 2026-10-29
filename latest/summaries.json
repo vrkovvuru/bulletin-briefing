@@ -1,6 +1,80 @@
 {
-  "generated": "2026-10-29T12:42:33.420119Z",
+  "generated": "2026-10-29T14:42:36.147270Z",
   "summaries": [
+    {
+      "summary": "Sanrio ends partnership with Japanese TV drama Vivant due to Chinese backlash over negative portrayal of Chinese agents.",
+      "significance": "The story highlights the influence of Chinese consumer sentiment on global brands, leading Sanrio to sever ties with a controversial Japanese TV drama.",
+      "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry",
+      "points": [
+        "Sanrio apologizes and terminates commercial tie-up with the show on Weibo.",
+        "Chinese state media and netizens criticized the show for \"deliberate smears\" against China.",
+        "Sanrio stated the drama contained elements inconsistent with their core values."
+      ]
+    },
+    {
+      "summary": "Sax Institute launches 18 and Up study to investigate mental health and early cancer causes in 100,000 Australians.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/30/study-of-100000-australians-seeks-causes-of-mental-health-disorders-and-early-onset-cancer",
+      "points": [
+        "Study aims to recruit 100,000 participants aged 18 to 45.",
+        "Focuses on understanding mental illness and cancer in younger people.",
+        "Follows Sax Institute's previous 45 and Up study on wellbeing and ageing."
+      ]
+    },
+    {
+      "summary": "Lawyers for Marist Brothers are questioned over a letter advising to keep a child abuser away from legal proceedings to avoid implicating senior officials.",
+      "url": "https://www.theguardian.com/law/2026/oct/30/marist-brothers-law-firm-carroll-and-odea-abuse-case-act-ntwnfb",
+      "points": [
+        "Document reveals advice to keep offender from \"legal arena\" to prevent implicating senior officials.",
+        "Offender described as \"regrettably up front\" about interactions with leadership.",
+        "Lawyers from a leading firm have been subpoenaed to explain the confidential document."
+      ]
+    },
+    {
+      "summary": "IFS warns Healey's budget sets stage for a harsh spending review next year due to an unaddressed £28bn shortfall.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-brutal-spending-review-next-year-ifs",
+      "points": [
+        "IFS predicts a \"brutal\" spending review next year.",
+        "Budget fails to cover a £28bn shortfall in public finances.",
+        "Chancellor avoided making several significant decisions in his speech."
+      ]
+    },
+    {
+      "summary": "DoorDash acquires Instacart for $17 billion to boost its grocery delivery services.",
+      "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
+      "points": [
+        "Acquisition valued at $17 billion.",
+        "Instacart's brand and app will remain intact.",
+        "Instacart customers gain access to 50,000 extra stores via DoorDash."
+      ]
+    },
+    {
+      "summary": "Mistral released Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model, with improved coding, cybersecurity, and reasoning efficiency.",
+      "significance": "Mistral Large 4 (Le Chonk) advances open-source AI capabilities in coding and cybersecurity, offering customizable deployment options for sovereign AI solutions.",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "points": [
+        "Mistral Large 4 leads in coding benchmarks, scoring 19.7% on FrontierCode 2.0 and 48% on the Artificial Analysis Coding Agent Index.",
+        "The model demonstrates significant efficiency, using 47% fewer tokens per task on average compared to leading models.",
+        "Mistral Large 4 excels in cybersecurity, scoring 51% on the Artificial Analysis Cyber Index with a 96.6% refusal rate on malicious requests."
+      ]
+    },
+    {
+      "summary": "Google\u2019s Gemini 4 Carbon tops the Artificial Analysis Intelligence Index v5, leading in complex reasoning and scientific tasks.",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "points": [
+        "Gemini 4 Carbon scores 59 on Intelligence Index v5, leading in 4 of 9 evaluations.",
+        "It ranks second in coding and knowledge work, scoring 59 on Coding Agent Index.",
+        "The model is offered at a 50% launch discount, costing $7.76 per task, 23% less than Claude Opus 5.5."
+      ]
+    },
+    {
+      "summary": "The FBI sent an anonymous letter to MLK urging him to commit suicide, leveraging recorded evidence of his extramarital affairs.",
+      "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+      "points": [
+        "The letter threatened to expose King's \"adulterous acts\" and \"sexual orgies.\"",
+        "FBI Director J. Edgar Hoover approved extensive surveillance to discredit King.",
+        "Historian Beverly Gage recently unearthed an unredacted version of the letter."
+      ]
+    },
     {
       "summary": "Trump blames Ukraine for gas prices and supports Russia ahead of US midterms.",
       "significance": "Trump's shift in support from Ukraine to Russia ahead of midterms may not deceive voters, as seen in recent elections in Brazil and Serbia, potentially leading to a Democratic victory.",
@@ -3666,81 +3740,6 @@
         "Republican leader threatens to sue Cohen, calling him 'a liar and a pervert'.",
         "Features two new characters: Erran Morad and Dr Nira Cain-N\u2019Degrocello.",
         "Unlike the 2002 film, this sequel is not a full narrative but a series of hoaxes."
-      ]
-    },
-    {
-      "summary": "Zach Braff discusses his acting career and the challenges of breaking into the industry today.",
-      "url": "https://www.theguardian.com/film/2026/oct/22/zach-braff-reader-interview",
-      "points": [
-        "Braff compares acting success to winning the lottery, despite talent and looks.",
-        "He mentions the difficulty of breaking into the industry now compared to the early 2000s.",
-        "Braff shares his approach to directing famous actors, pretending not to be starstruck."
-      ]
-    },
-    {
-      "summary": "UK government advises all citizens to stockpile water and food supplies to prepare for emergencies.",
-      "significance": "Government advice on stockpiling water and food reflects growing concern over emergencies due to climate crisis, technology failures, and state threats.",
-      "url": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
-      "points": [
-        "Citizens should store nine litres of water and three days' worth of food.",
-        "Campaign named \"Be Ready\" targets weather, cyber, and other serious emergencies.",
-        "Official concern over climate crisis, technological dependency, and hostile state threats drives guidance."
-      ]
-    },
-    {
-      "summary": "Energy secretary Miatta Fahnbulleh clarifies support for migration policy after initially joking about it.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
-      "points": [
-        "Fahnbulleh says her \"awkward\" interview remark was meant to be lighthearted.",
-        "She initially refused to confirm support for making foreign workers wait 15 years for permanent residency.",
-        "Clarification came after she joked about not being able to \"lie\" about supporting key policy changes."
-      ]
-    },
-    {
-      "summary": "Residents near River Taff demand answers after thousands of litres of kerosene leaked from a GE Aerospace site, causing water contamination and health issues.",
-      "url": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
-      "points": [
-        "GE Aerospace site leaked thousands of litres of kerosene into River Taff.",
-        "Natural Resources Wales and South Wales fire service responded to contain the leak.",
-        "Residents advised to keep windows and doors shut due to chemical odours."
-      ]
-    },
-    {
-      "summary": "Nvidia releases OpenShell, a secure runtime environment for autonomous AI agents with strict policy enforcement and isolation features.",
-      "significance": "Nvidia's OpenShell introduces a secure runtime environment for autonomous AI agents, enabling controlled access to resources and enhancing data security.",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "points": [
-        "OpenShell uses formal verification to check policy changes for risky access before application.",
-        "Each AI agent runs in an isolated sandbox with kernel controls to limit file access and system calls.",
-        "OpenShell supports Linux, macOS on Apple Silicon, and Windows with WSL 2 (experimental)."
-      ]
-    },
-    {
-      "summary": "The article discusses methods for tracking devices on a network, including naming conventions and using tools like arp-scan and DNS servers.",
-      "url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
-      "points": [
-        "Uses \"region.location.devicetype.unitnumber\" as a naming convention example",
-        "arp-scan 1.10.0 scanned 256 hosts in 2.018 seconds, with 15 responding",
-        "Combining DNS and DHCP ensures consistent IP assignment and device tracking"
-      ]
-    },
-    {
-      "summary": "Taler, an online payment system, is preparing for operation in Germany after GLS Bank's withdrawal from its role as e-money issuer.",
-      "url": "https://www.taler.net/en/news/2026-13.html",
-      "points": [
-        "GLS Bank decided in January 2026 not to continue as the e-money issuer for Taler.",
-        "Taler Operations AG, a new German stock corporation, is forming to operate Taler in Euro.",
-        "The project requires BaFin authorization and funding from investors to become operable."
-      ]
-    },
-    {
-      "summary": "Anthropic donates Agent Skills standard to the Agentic AI Foundation, emphasizing openness and community involvement.",
-      "significance": "The donation of Agent Skills to the Agentic AI Foundation advances open standards in AI, fostering community-driven and vendor-neutral development.",
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-      "points": [
-        "Anthropic co-founded the Agentic AI Foundation with Block and OpenAI.",
-        "The donation follows the previous donation of the Model Context Protocol (MCP).",
-        "The decision was predicted by Anthropic in December of the previous year."
       ]
     }
   ]
