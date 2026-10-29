@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-29T00:42:00.813880Z",
+  "generated": "2026-10-29T02:42:32.427358Z",
   "summaries": [
+    {
+      "summary": "A local ceasefire in Oleshky, Ukraine, is holding, allowing for demining and the potential delivery of humanitarian aid.",
+      "significance": "The truce and demining in Oleshky enable humanitarian aid delivery and civilian evacuation, providing relief to stranded residents.",
+      "url": "https://www.theguardian.com/world/2026/oct/29/ukraine-war-briefing-oleshky-truce-holding-and-demining-under-way-to-enable-humanitarian-corridor-kyiv-says",
+      "points": [
+        "The ceasefire has lasted 30 hours without incidents, as reported by both Ukrainian and Russian officials.",
+        "Approximately 2,000 people remain in Oleshky, facing food and medical shortages.",
+        "Demining is underway to enable a humanitarian corridor and allow civilians to leave the city safely."
+      ]
+    },
+    {
+      "summary": "Utah files criminal charges against prediction market Kalshi and two executives for violating state gambling laws.",
+      "significance": "The story signifies a potential new legal tactic by states to regulate prediction markets, possibly leading to a supreme court showdown.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/utah-criminal-charges-kalshi",
+      "points": [
+        "Charges include violating Utah's gambling ban and profiting from illegal activity.",
+        "Kalshi calls the charges a 'crazy overreach'.",
+        "Felony charges could set a new precedent in state regulation of prediction markets."
+      ]
+    },
+    {
+      "summary": "Federal judge rejects Trump DOJ's request to segregate and not count 20,000 California ballots.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
+      "points": [
+        "Judge David Carter refused to order segregation of ballots claimed to be from non-citizens.",
+        "DOJ provided a USB drive with names of 20,000 alleged non-citizens to election officials.",
+        "California has over 23 million registered voters, with non-citizen voting being extremely rare."
+      ]
+    },
+    {
+      "summary": "Qwen3.5 has been modified to include a fully functional RISC-V CPU within its weights, using Gated DeltaNet layers as RAM.",
+      "significance": "Qwenputer demonstrates embedding a functional RISC-V CPU within a language model, using Gated DeltaNet layers as RAM, showcasing advanced integration of computational capabilities within AI models.",
+      "url": "https://divagr.com/blog/qwenputer",
+      "points": [
+        "Qwenputer scores 97.5% on div_big tasks, compared to 95% with a Python tool and 72.5% for base Qwen.",
+        "The RISC-V CPU inside Qwen3.5 uses Gated DeltaNet state as RAM, running arithmetic operations and code internally.",
+        "Qwenputer has run 18 million instructions free-running without errors, passing official riscv-tests and matching qemu."
+      ]
+    },
+    {
+      "summary": "XREAL AURA, the first wired XR glasses powered by Android XR, are now available for order in the U.S., Canada, and Korea, with Japan following on November 2.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "points": [
+        "Orders for XREAL AURA are open today in the U.S., Canada, and Korea.",
+        "The glasses weigh under 95 grams and feature a 70-degree field of view.",
+        "Users can connect a portable compute puck for high-performance spatial computing."
+      ]
+    },
     {
       "summary": "Water levels at Menindee Lakes hit a five-year low, leading to restrictions and fish death warnings.",
       "significance": "Lowest water levels in five years at Menindee Lakes prompt restrictions, risking mass fish deaths and highlighting water management challenges.",
@@ -3694,52 +3742,6 @@
         "8 intermediate CA certificates had their private keys compromised.",
         "Affected root programs include Mozilla, Microsoft, Apple, and Chrome.",
         "Updates released for Python tools: uv 0.13.4, pip 26.2.2, and certifi 2026.10.19."
-      ]
-    },
-    {
-      "summary": "French court fast-tracks rioting cases, leading to confusion among defendants and anger from lawyers.",
-      "significance": "The story highlights the conflict between harsh sentencing for riot-related crimes and the legal defense's view of socio-economic causes, affecting defendants and public perception.",
-      "url": "https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases",
-      "points": [
-        "Awa, 18, bewildered in court, unable to answer questions about looting Yves Saint Laurent store.",
-        "Politicians demand harsh sentencing for riot-related crimes.",
-        "Lawyers accuse politicians of causing poverty, root cause of rioting."
-      ]
-    },
-    {
-      "summary": "A theater show examines the impact of the viral video \"2 Girls 1 Cup\" on a generation's perception of pornography.",
-      "url": "https://www.theguardian.com/stage/2026/oct/22/2-girls-1-cup-play-new-york-city",
-      "points": [
-        "Play uses verbatim interviews to reconstruct the infamous video's cup description.",
-        "Interview subjects disagree on the cup's material and color, highlighting varied memories.",
-        "The cup's transparency is emphasized as a crucial detail in the video's impact."
-      ]
-    },
-    {
-      "summary": "Barclays plans to cut 5,000 jobs and increase AI usage in its operations.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Barclays expects to complete the reduction of 4,000 jobs by the end of this year.",
-        "Around 60% of the job cuts will affect support functions, including developers.",
-        "Barclays anticipates £1.1bn in savings from efficiency measures by 2027."
-      ]
-    },
-    {
-      "summary": "BBC News plans to eliminate the education editor role and combine it with the social affairs editor position to save £5.5m.",
-      "significance": "The story matters because it highlights potential reduction in specialized scrutiny of education and social affairs due to BBC News' cost-cutting measures.",
-      "url": "https://www.theguardian.com/media/2026/oct/22/bbc-news-to-axe-education-editor-role-in-cost-cutting-move",
-      "points": [
-        "School leaders describe the move as \"deeply regrettable.\"",
-        "Unions and campaigners argue the reform will reduce scrutiny on key sectors."
-      ]
-    },
-    {
-      "summary": "Chiricahua monument in Arizona became the 64th US national park with bipartisan support.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
-      "points": [
-        "Donald Trump signed the legislation to create Chiricahua national park on Tuesday.",
-        "Known as the Land of Standing-Up Rocks among Native Americans.",
-        "The area is famous for its historic rock spires in south-eastern Arizona."
       ]
     }
   ]
