@@ -1,6 +1,26 @@
 {
-  "generated": "2026-10-29T20:42:25.511788Z",
+  "generated": "2026-10-29T22:42:07.660011Z",
   "summaries": [
+    {
+      "summary": "DHS requests Icelandic hosting company to remove data on over 40,000 personnel due to security risks.",
+      "significance": "DHS action highlights risk to over 40,000 personnel from leaked data, urging Icelandic hosting company to remove sensitive information.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/dhs-personnel-data-leak",
+      "points": [
+        "DHS claims data endangers more than 40,000 individuals to harassment and physical harm.",
+        "Request was made to FlokiNET, an Icelandic hosting company.",
+        "DHS posted the request online for transparency."
+      ]
+    },
+    {
+      "summary": "Mark Twain's \"The Adventures of Tom Sawyer\" celebrates its 150th anniversary, marking a pivotal moment in American literature.",
+      "significance": "The story marks Mark Twain's revolutionary break from European literary influences, offering an archetypal American hero that defined democratic literature.",
+      "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+      "points": [
+        "Published in 1876, the novel introduced a distinctly American vernacular and character.",
+        "Tom Sawyer, the protagonist, subverts the typical \"model boy\" archetype with his mischievous and vivid personality.",
+        "Friedrich Nietzsche appreciated the novel, preferring Twain\u2019s American \"silliness\" to German \"cleverness."
+      ]
+    },
     {
       "summary": "Trump calls for prosecution of Mary Peltola, as Alaska governor orders investigation into her campaign amid Republican outcry.",
       "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
@@ -3719,26 +3739,6 @@
         "Jones, 85, faces 21 charges of indecent assault and sexual touching.",
         "The alleged assault occurred at Jones\u2019s Fitzroy Falls farm.",
         "Mother sought advice from Jones due to her lack of self-trust and reliance on his opinions."
-      ]
-    },
-    {
-      "summary": "UUIDv7, despite embedding timestamps, does not guarantee accurate time ordering or strict monotonicity, leading to potential issues in implementation.",
-      "significance": "The story highlights that UUIDv7's embedded timestamp may not accurately reflect creation time, affecting database operations that rely on precise timing.",
-      "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-      "points": [
-        "UUIDv7's timestamp can differ arbitrarily from the actual creation time.",
-        "Python's UUIDv7 implementation can increment the timestamp ahead of the system clock under heavy load.",
-        "UUIDv7 does not ensure strictly monotonically increasing IDs, contrary to expectations."
-      ]
-    },
-    {
-      "summary": "A dispute over Ukraine's access to SpaceX's Starshield involves Trump's administration, Kyiv officials, and Elon Musk.",
-      "significance": "The dispute over Starshield access restrictions impacts Ukraine\u2019s military capabilities, affecting drone operations and air defense systems.",
-      "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
-      "points": [
-        "Ukrainian officials claim restrictions on Starshield have made many of their drones inoperable.",
-        "The dispute involves the Trump administration, Kyiv officials, and Elon Musk.",
-        "Starshield limitations have hampered Ukraine's air defense systems against Russian attacks."
       ]
     }
   ]
