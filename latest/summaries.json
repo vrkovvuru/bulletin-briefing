@@ -1,6 +1,99 @@
 {
-  "generated": "2026-10-29T04:41:42.146206Z",
+  "generated": "2026-10-29T12:42:33.420119Z",
   "summaries": [
+    {
+      "summary": "Trump blames Ukraine for gas prices and supports Russia ahead of US midterms.",
+      "significance": "Trump's shift in support from Ukraine to Russia ahead of midterms may not deceive voters, as seen in recent elections in Brazil and Serbia, potentially leading to a Democratic victory.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/trump-ukraine-midterms",
+      "points": [
+        "Trump's move seen as an attempt to deflect blame for inflation.",
+        "Recent elections in Brazil and Serbia indicate voters can识別策略。",
+        "如果美国选民效仿巴西和塞尔维亚的选民，民主党可能会大获全胜。"
+      ]
+    },
+    {
+      "summary": "Spain mourns 69 dead after a high-speed train collision near Urda, as search and rescue efforts continue.",
+      "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
+      "points": [
+        "69 people died in the collision between a Renfe and an Iryo train.",
+        "The accident occurred near Urda in Castilla-La Mancha at around 9am.",
+        "Spain has declared a three-day mourning period for the victims."
+      ]
+    },
+    {
+      "summary": "Israel's president warns against exploiting election interference claims to delay Knesset swearing-in.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "points": [
+        "Gadi Eisenkot warns against using foreign interference claims to delay the new Knesset's swearing-in.",
+        "Isaac Herzog responds to Netanyahu\u2019s claim of foreign interference in the election.",
+        "Analysis suggests Israel faces a choice between Netanyahu staying in power or forming a Palestinian-backed coalition."
+      ]
+    },
+    {
+      "summary": "A new book by Matthew Cole alleges Jared Kushner profited from his unofficial role in US foreign policy, sparking a political controversy.",
+      "significance": "The story matters as it ignites a political firestorm with explosive claims about Jared Kushner\u2019s financial dealings and influence in US foreign policy, affecting ongoing political narratives.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/first-thing-book-jared-kushner-role-us-foreign-policy",
+      "points": [
+        "Jared Kushner called the book's claims \"completely insane\".",
+        "The book alleges Kushner had huge bank accounts allegedly funded by Gulf states.",
+        "Despite the allegations, Kushner continues to influence US foreign policy without an official role."
+      ]
+    },
+    {
+      "summary": "Treasury denies plans to cut welfare spending before the election, clarifying Healey's comments.",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
+      "points": [
+        "Chancellor stated there will be a reduction in the benefits bill.",
+        "Andy Burnham instructed cabinet ministers not to advocate specific EU options.",
+        "Healey indicated reluctance towards rejoining the EU single market post-election."
+      ]
+    },
+    {
+      "summary": "Emails reveal Minnesota officials surveilled activists pushing for the closure of a polluting waste incinerator.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/minneapolis-waste-incinerator-emails",
+      "points": [
+        "Officials used an activist employee to gather intelligence on environmental justice groups.",
+        "Collected information helped thwart state-level environmental legislation opposed by the incinerator.",
+        "A county employee posed as an ally to uncover the identity of a whistleblower."
+      ]
+    },
+    {
+      "summary": "Egyptian court convicts journalist Lina Attalah, leading to Mada Masr's shutdown and her brief detention.",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "points": [
+        "Lina Attalah convicted of managing an unlicensed website.",
+        "Mada Masr, an independent news outlet, ordered to shut down.",
+        "Incident raises international concerns over press freedom in Egypt."
+      ]
+    },
+    {
+      "summary": "Lloyds CFO criticizes Healey for linking bank tax hikes to energy support, urging temporary measure.",
+      "url": "https://www.theguardian.com/business/2026/oct/29/lloyds-executive-criticises-healey-for-linking-bank-tax-rises-to-energy-bill-support",
+      "points": [
+        "William Chalmers warns against extending bank tax beyond March 2028.",
+        "CFO argues banking sector's loans are crucial for UK growth.",
+        "Healey linked bank tax increases to energy bill support for households."
+      ]
+    },
+    {
+      "summary": "World map redrawn based on countries' shares of IPv4 addresses instead of land area.",
+      "significance": "The story visually represents the distribution of IPv4 addresses among countries, altering perceptions of global digital geography.",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "points": [
+        "Redrawn map excludes Antarctica and about 70 small territories.",
+        "Method uses countries' IPv4 addresses divided by global total, times global land area.",
+        "Data from IP Trust geolocation database, October 2026."
+      ]
+    },
+    {
+      "summary": "An analysis of an old Norse board game, played as foxes versus sheep, reveals the game's inherent imbalance and strategic depth.",
+      "url": "https://entropicthoughts.com/what-the-fox-say",
+      "points": [
+        "The game starts with two fox pieces and twenty sheep pieces.",
+        "Sheep win by filling a 3x3 pen or removing both foxes.",
+        "Computer analysis shows sheep can win with deeper strategic thinking."
+      ]
+    },
     {
       "summary": "Obama criticizes Trump and Republicans at a Georgia rally, supporting Democratic candidates for Senate and governor.",
       "significance": "Obama's rally support for Democrats underscores the influence of former presidents in midterm elections, highlighting continued partisan tensions.",
@@ -3648,101 +3741,6 @@
         "Anthropic co-founded the Agentic AI Foundation with Block and OpenAI.",
         "The donation follows the previous donation of the Model Context Protocol (MCP).",
         "The decision was predicted by Anthropic in December of the previous year."
-      ]
-    },
-    {
-      "summary": "Erik Bernhardsson, Modal CEO, discusses the company\u2019s serverless AI infrastructure and its growth since Series D funding.",
-      "url": "https://www.latent.space/p/modal-d",
-      "points": [
-        "Modal crossed a significant revenue milestone and spun up nearly three billion sandboxes since their $5B Series C.",
-        "Sandboxes now account for roughly a third of Modal\u2019s revenue, despite initial modest adoption.",
-        "Modal\u2019s infrastructure includes a buffer of available GPUs, custom filesystem, and process checkpointing to enable elasticity."
-      ]
-    },
-    {
-      "summary": "Shamonda virus, typically found in livestock, detected in a human in France for the first time, with investigations into its role in the man's death.",
-      "significance": "The detection of Shamonda virus in a human for the first time in France marks a significant zoonotic spillover event, potentially expanding the virus's impact beyond livestock.",
-      "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
-      "points": [
-        "Virus normally spread by infected midges found in a human for the first time in France.",
-        "Shamonda virus can cause severe symptoms in livestock including abortions and congenital abnormalities.",
-        "Investigations ongoing to determine if the virus contributed to the man's death."
-      ]
-    },
-    {
-      "summary": "Russia attacked Kyiv with missiles shortly after agreeing to resume talks with Ukraine.",
-      "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-      "points": [
-        "At least two people were killed and 22 wounded, including four children.",
-        "Targets included civilian houses, energy infrastructure, and a clinic.",
-        "Attack occurred hours after Putin said he agreed to resume trilateral negotiations."
-      ]
-    },
-    {
-      "summary": "Ohio's Republican governor, Mike DeWine, criticizes Vivek Ramaswamy's campaign ad featuring the estranged mother of his Democratic opponent.",
-      "significance": "Republican governor of Ohio criticizes Vivek Ramaswamy's campaign for a controversial ad, highlighting ethical concerns in the US political race.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-      "points": [
-        "Mike DeWine calls the ad \"deeply troubling\" and \"wrong.\"",
-        "The ad features the estranged mother of Ramaswamy's Democratic opponent.",
-        "DeWine is the outgoing Republican governor of Ohio."
-      ]
-    },
-    {
-      "summary": "Quad9 will stop offering its free cyberprotection service in France starting November 24 due to a court ruling.",
-      "significance": "Quad9's exit from France due to a court ruling undermines internet transparency and leaves French users without a cybersecurity protection service.",
-      "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "points": [
-        "Quad9 must block DNS resolution for certain domain names in France, starting November 24.",
-        "The financial penalty for non-compliance is \u20ac1,000 per day, reduced from \u20ac580,000.",
-        "Quad9 argues the ruling contradicts its mission to protect privacy and cybersecurity globally."
-      ]
-    },
-    {
-      "summary": "Researchers from OOSEX GANG have developed a method to run iOS 16.5 firmware on Android devices using custom loaders and drivers.",
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "points": [
-        "The system runs entirely in RAM and reverts to Android after reboot.",
-        "Features include the lock screen, swipe gestures, and native apps like Settings and Safari.",
-        "Requires Linux x86-64 with specific packages and about 12 GB of free disk space."
-      ]
-    },
-    {
-      "summary": "Macron condemns 'ultra-left' riots and plans to ban some protests, increasing police presence.",
-      "significance": "Macron's condemnation of 'ultra-left' protests and plans to ban some demonstrations signal a tougher stance against riots in France.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-      "points": [
-        "Macron vows 'absolute' determination to stop riots.",
-        "Police presence will be 20% higher than last weekend.",
-        "Reinforcements include army, elite police forces, and gendarmerie."
-      ]
-    },
-    {
-      "summary": "UK minister reports 32 government services offline due to cybersecurity concerns, while gender pay gap for full-time employees in the UK declines.",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-      "points": [
-        "32 government services are offline addressing potential cybersecurity issues.",
-        "Gender pay gap for full-time UK employees is 6.8% in April 2026, down from 7.2% in April 2025.",
-        "UK cyber security official states no indications of government systems being hacked due to PHP code flaw."
-      ]
-    },
-    {
-      "summary": "Bogong moth populations are significantly increasing in Australia's eastern states, showing a remarkable recovery.",
-      "significance": "The story highlights the significant comeback of bogong moths in eastern Australia, relying on data from citizen scientists.",
-      "url": "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back",
-      "points": [
-        "Citizen scientists are providing data on the moth revival.",
-        "No official figures from ecologists are currently available for comparison.",
-        "The increase is noticeable to residents in eastern Australia."
-      ]
-    },
-    {
-      "summary": "At least four people have died in southern France due to flooding caused by Storm Adam.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Two women, aged 86 and 26, drowned in a cellar in Bouches-du-Rhône.",
-        "A 4x4 vehicle was swept away in Corsica, resulting in one death.",
-        "Storm Adam also caused severe flooding in eastern Spain, killing at least three."
       ]
     }
   ]

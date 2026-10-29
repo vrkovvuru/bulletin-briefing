@@ -1,190 +1,225 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "stories": [
     {
-      "title": "Spain begins three days of mourning after train crash kills dozens",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Emergency teams worked through the night to find victims after one of the worst rail disasters in Europe's modern history.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Incredible celebrations as last patient leaves a DRC Ebola centre",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/incredible-celebrations-as-last-patient-leaves-a-drc-ebola-centre?traffic_source=rss",
+      "title": "Olympic Games: South Africa bids to make Durban host city for 2036 or 2040",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/olympic-games-south-africa-bid-to-make-durban-host-city-for-2036-or-2040?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Footage shows healthcare workers celebrating at an Ebola treatment centre in DR Congo after the last patient left.",
-      "alsoReportedBy": []
+      "summary": "South Africa names Durban as host city for its 2036 and 2040 bids to bring the Olympics to Africa for the first time.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "Hackers expose the identities of more than 40,000 DHS employees",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
-      "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Footage shows men, some armed, beating a US journalist and an Israeli-Russian activist in Umm al-Khair.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "30-year sentence in Minnesota fraud that drew Trump backlash",
-      "url": "https://www.aljazeera.com/news/2026/10/29/30-year-sentence-in-minnesota-fraud-that-drew-trump-backlash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Government says Salim Said hit the jackpot in a scheme claiming to feed needy children during the COVID-19 pandemic.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "El Niño years typically lead to more precipitation and higher-than-average temperatures. The latest data shows the different potential impacts by region.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Judge denies the Justice Department's bid to stop processing California ballots",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will appeal.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "title": "Treasury will not commit to reducing welfare bill before next election",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-      "alsoReportedBy": []
+      "summary": "The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
+      "title": "Victims appalled as deadly crush footage included in Call of Duty",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynj718zymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Modern Warfare 4 uses video from the Itaewon crush to show the aftermath of an imagined North Korean attack.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
+    },
+    {
+      "title": "It\u2019s easy to see through Trump\u2019s Ukraine ploy | Kenneth Roth",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/trump-ukraine-midterms",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Former US president comes to Georgia to support Jon Ossoff for US Senate and Keisha Lance Bottoms for governor Barack Obama, speaking at a Wednesday campaign rally in suburban Atlanta, offered a closing argument for Democrats in the final week of the midterm election campaign. “These are not serious people,” he said of Donald Trump and the Republican party. “And we’re all paying the price for their lack of seriousness.” Continue reading...",
+      "summary": "In advance of the midterms, Trump is blaming Kyiv for high gas prices while making clear moves to support Russia As the US midterms approach, Donald Trump is abandoning Ukraine\u2019s democracy in a desperate effort to deny responsibility for worsening inflation. Yet this past weekend\u2019s dramatic elections in Brazil and Serbia show that voters can see through such subterfuge. There is nothing like a political party\u2019s corrupt indifference to the plight of ordinary people to galvanize voter turnout. If US voters follow in the footsteps of their Brazilian and Serbian counterparts, a Democratic landslide is likely. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "title": "Spain begins mourning period after train crash as search continues for victims in wreckage",
+      "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Emergency services, drones and dog unit continue to comb carriages as Civil Guard sets up clinics for relatives to provide DNA samples Spain has begun three days of mourning to commemorate the 69 people who died in a high-speed rail collision as hospitals continue to treat dozens of injured passengers and relatives wait for news of their loved ones. The trains \u2013 one from Spain\u2019s state-owned Renfe and the other from the private rail company Iryo \u2013 were heading from Madrid on Wednesday to the southern region of Andaluc\u00eda on the same line when they collided just before 9am. After the Iryo train came to a halt, the other slammed into its rear, knocking several carriages off the track near the town of Urda in the central region of Castilla-La Mancha. Continue reading...",
+      "alsoReportedBy": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+      "url": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "What we know of Vance\u2019s letter to Rezaei, as Trump warns Gulf to \u2018prepare\u2019",
+      "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Letter to Iran&#039;s security chief reportedly pushes for swift return to peace talks, with Vance leading US delegation.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+      "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Israel\u2019s election rhetoric: What candidates said, and how they performed",
+      "url": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "From Netanyahu to Ben-Gvir, campaign boasts and attacks on Arab parties have been met with a deadlocked result.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Israel election results live: president warns against \u2018tarnishing an entire community\u2019 in defence of Palestinian vote",
+      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Isaac Herzog responds to Netanyahu\u2019s claim of foreign interference in election as count of absentee ballots continues Full report: Coalition talks loom in Israel Analysis: Israel\u2019s choice: Netanyahu remaining in power or a Palestinian-backed coalition Gadi Eisenkot, leader of the Yashar party and Benjamin Netanyahu\u2019s main rival, has warned political opponents against exploiting allegations of foreign interference in Israel\u2019s election to delay the swearing-in of the next Knesset. In remarks posted on X, Eisenkot said: Israel must safeguard the integrity of the elections against any attempt at interference, spin and manipulation, and examine every complaint thoroughly. On the other hand, political actors must not be allowed to exploit the situation and affect the swearing-in date of the 26th Knesset.\u201d Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "alsoReportedBy": ["NPR World"]
+      "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Australian politics live: PM grilled over golf club grant again as five ejected from question time; Bowen says he’s ‘triggered’ opposition",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+      "title": "Explosive book targets Jared Kushner\u2019s role in US foreign policy | First Thing",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/first-thing-book-jared-kushner-role-us-foreign-policy",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you should have that control. This isn’t about government having a greater role. It’s about people having a greater role, having more control themselves, and it’s deserving of support of this parliament. Continue reading...",
+      "summary": "President\u2019s son-in-law denies \u2018completely insane\u2019 claims he profited from unofficial position. Plus, the battle between psychics and AI Good morning. A new book that contains incendiary claims about Jared Kushner\u2019s financial dealings during Donald Trump\u2019s first term has ignited a political and media firestorm . The book, by the author Matthew Cole, immediately drew a furious response from Kushner, who called its claims \u201ccompletely insane\u201d. It contains numerous allegations about Kushner, who has served as one of Donald Trump\u2019s top diplomatic envoys in the Middle East. The most explosive are claims linking him to huge bank accounts allegedly funded by Gulf states. Kushner continues to steer US foreign policy despite having no official role. The Guardian contacted Kushner\u2019s legal counsel and received no response. Barack Obama offered a closing argument for Democrats in the final week of the campaign. \u201cThese are not serious people,\u201d he said of Trump and the Republican party. \u201cAnd we\u2019re all paying the price for their lack of seriousness.\u201d The campaign of the Alaska Democrat Mary Peltola was behind an effort to recruit a challenger with almost the same name as the Republican US senator Dan Sullivan , who will both appear on the ballot in next week\u2019s midterm elections, the New York Times reported on Wednesday. Peltola\u2019s campaign has denied involvement with the other Dan Sullivan. Two rightwing influencers have been charged with felonies in Minneapolis over attempts in the state\u2019s election primary to disguise themselves in what they called \u201cMuslim garb\u201d and claim they were local voters. If you are having trouble keeping track of all the ways Trump and his administration have been attempting to disrupt the midterms, this four-minute video explainer has you covered. And the Guardian\u2019s Washington bureau chief, David Smith, has this analysis piece looking at Trump\u2019s midterm rally bigotry , with the president\u2019s repeated attacks on Muslims and his strange obsessions with people\u2019s bodies. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "We shouldn’t ‘blindly’ believe allegations of violence against women, Queensland’s new DV minister said in resurfaced comments",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/amanda-stoker-qld-domestic-violence-dv-prevention-minister-comments-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Concerns raised about appointment of former federal senator who has previously supported the rights of people accused of sexual assault Get our daily political email , free app or daily news podcast Women’s safety advocates have raised concerns about the appointment of rightwing Queensland MP Amanda Stoker as the state’s minister for the prevention of domestic violence in light of her resurfaced statements that people should not “blindly” believe women who make allegations of violence. Stoker, who was appointed to the role on Saturday, argued in a 2023 article that the recent push to believe complaints “rather than carefully assess[ing] relevant evidence” would harm innocent defendants. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-      "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump's relationship with Putin comes under fire ahead of the midterms",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
       "alsoReportedBy": []
     },
     {
-      "title": "Watch: At the scene of Spain's deadly train crash",
-      "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "title": "Treasury denies Healey plan to cut welfare bill before election, claiming his comments were misinterpreted \u2013 UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Asked earlier if there would be a cut to the welfare bill before the next election, the chancellor said: \u2018There will be a reduction in the benefits bill\u2019 As Peter Walker reports, Andy Burnham has written to cabinet ministers telling them that, as he opens a national debate on improving the UK\u2019s relationship with the EU, he does not want them to \u201cadvocate for specific options or opine on the likely outcome of the process\u201d. John Healey stuck to this in his interviews this morning. But, speaking to GB News, he did hint that he might not be 100% enthusiastic about taking the UK back into the EU single market after the next election. No, freedom of movement is not on the agenda, and certainly for this parliament it\u2019s ruled out. No, I\u2019m in favour of accepting that we\u2019ve got a Brexit decision. And I\u2019m in favour of the job we need to do now, which is to make the best of the terms we\u2019ve got. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Minnesota officials surveilled activists urging closure of waste incinerator, emails show",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/minneapolis-waste-incinerator-emails",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Local officials tried to grow close to activist groups and collected information that was then shared with industry Newly released emails show local government officials in Minneapolis have quietly surveilled environmental justice activists who are working to close a controversial waste incinerator that is emitting pollution into low-income neighborhoods around it, activist groups allege. County officials sent an employee who is also an environmental justice activist to collect intelligence, among other tactics, emails show. The information was then used to help successfully kill state-level environmental legislation opposed by the incinerator\u2019s leadership, and try to stay one step ahead of activist campaigns and protests. In another instance, a county employee presenting himself as an ally allegedly tried to obtain the identity of a whistleblower, a recording shows. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt\u2019s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country. Attalah was taken briefly into custody after a Cairo court convicted her of managing an unlicensed website, prompting fresh international concerns over press freedom in Egypt. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Lloyds executive criticises Healey for linking bank tax rises to energy bill support",
+      "url": "https://www.theguardian.com/business/2026/oct/29/lloyds-executive-criticises-healey-for-linking-bank-tax-rises-to-energy-bill-support",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Chief financial officer says he hopes budget measure is temporary as sector provides loans that fuel growth Business live \u2013 latest updates A senior Lloyds Banking Group executive has criticised the chancellor for linking bank tax increases to energy bill support for UK households, as he warned the government against extending the higher levy beyond March 2028. Lloyds\u2019s chief financial officer, William Chalmers, acknowledged that the economic environment was \u201cchallenging\u201d but said the government should not seek to ease pressure on households at the expense of the banking sector as it provides loans that could fuel UK growth. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
-      "alsoReportedBy": ["BBC World", "Guardian World"]
-    },
-    {
-      "title": "How students toppled Serbia’s strongman – podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/29/how-students-toppled-serbias-strongman-podcast",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "After two years of protests, a student-led movement has defeated Serbia’s authoritarian leader, Aleksander Vučić, at the ballot box. But can a leaderless movement govern a country? Send your comments and questions to tif.questions@theguardian.com Serbia’s political landscape has been upended. On Sunday, record numbers of people went to the polls and voted to end the 12-year rule of Aleksandar Vučić. And who did they back instead? A list of candidates, half of whom have PhDs, put forward by student activists whose protests have rocked the Balkan country for the past two years. Helen Pidd speaks to the Serbian-American journalist Ana Milosavljevic , the student activist Tara Blagojević and the MP-to-be Milica Jovanović about how the Student List managed to defeat Vučić’s increasingly authoritarian regime. Continue reading...",
+      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
       "alsoReportedBy": []
     },
     {
-      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "source": "Guardian World",
+      "title": "What we know so far about deadly Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s top health officials. As the current outbreak reached 10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies. Continue reading...",
+      "summary": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
       "alsoReportedBy": []
     },
     {
-      "title": "Judge rebuffs Trump DoJ’s bid to force California to set aside 20,000 ballots",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
-      "source": "Guardian World",
+      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Justice department had demanded state segregate and not count ballots from people it claimed were non-citizens A federal judge declined to order California election officials to segregate and not count ballots from people the Trump administration claimed were non-citizens, rebuffing a legally thin request from the justice department that appeared designed to cast doubt over the results of the midterms. The ruling from US district judge David Carter, nominated to the federal bench by Bill Clinton, comes about two weeks after the justice department delivered a USB drive to election officials in Los Angeles and Sacramento that it said contained the names of 20,000 non-citizens on the state’s voter rolls. There are more than 23 million registered voters in California and non-citizen voting is extremely rare . Continue reading...",
+      "summary": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "If IPv4 Were Land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
       "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
       "url": "https://divagr.com/blog/qwenputer",
       "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "NetBSD adds a new beginner-friendly text editor called atto",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "What the fox say?",
+      "url": "https://entropicthoughts.com/what-the-fox-say",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -200,26 +235,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
       "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "AlpineBSD",
-      "url": "https://wiki.alpinebsd.org/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,21 +244,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+      "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?",
       "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
       "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "&#8220;AI SRE&#8221; is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "This is not sustainable",
-      "url": "https://www.netmeister.org/blog/defense-ddos.html",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -263,8 +271,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -277,7 +285,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered: Luna < Terra < Sol < Astra [ ... ] These days, version number signifies a few things at once: the order of release, the relationship to other releases, and the magnitude of improvement. So something like 6.1 would indicate it was launched after 5.6, may share some similarities to other 6.1 models in terms of training data / personality (which is why it's not 5.7), and isn't a giant enough leap to merit the headlines and expectations that would come with a 7. — Ted Sanders , explaining OpenAI's model naming conventions Tags: generative-ai , gpt , openai , ai , llms , ted-sanders",
+      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered: Luna < Terra < Sol < Astra [ ... ] These days, version number signifies a few things at once: the order of release, the relationship to other releases, and the magnitude of improvement. So something like 6.1 would indicate it was launched after 5.6, may share some similarities to other 6.1 models in terms of training data / personality (which is why it's not 5.7), and isn't a giant enough leap to merit the headlines and expectations that would come with a 7. \u2014 Ted Sanders , explaining OpenAI's model naming conventions Tags: generative-ai , gpt , openai , ai , llms , ted-sanders",
       "alsoReportedBy": []
     },
     {
@@ -299,21 +307,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "The October inflection point for vibe game development",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle Drones Pumpkin Farmer, aka Quarter Sun Cove Four times as insulting What happens if someone actually puts the work in? You should build a game! Claude Opus 5.5 in particular exhibits meaningful improvements in several areas needed to build a compelling game: 3D modeling Music generation (see Scrimshaw Jukebox ) Game design (!) That last one is particularly important. Models have been able to create something that looks like a game for quite a while now, as seen in my previous experiments . The challenge has been getting to a game that's actually fun to play . Game design is a deep subject area. I won't pretend to be well versed in it - I know enough to have respect for it as a craft. Creating a novel, compelling gameplay loop which challenges players at the right level and provides a satisfying learning curve is a fine art. I didn't think the models could do it. Then I tried telling Claude Opus 5.5 to \"Make it a LOT more fun\"... and it did . In the past few weeks I've vibe coded (in the classic sense of the term - no looking at the code at all) four games that I've genuinely enjoyed playing. I attended Foo Camp in Berkeley over the weekend and met several people who were having similar experiences. Building games that play well is shockingly easy now. The new challenge is coming up with concepts for games that are novel and delightful and that wouldn't exist without AI assistance. I haven't done an exhaustive study, but my current impression is that GPT-6 Astra isn't quite there yet. It can absolutely build a game, but its sense of fun doesn't match that of Opus 5.5. I expect OpenAI will get there by the end of the year. Here are the four game projects that have convinced me that the models are now capable of producing fun games with very little guidance. All four are built in HTML and JavaScript and run entirely in the browser. Tree Appreciator The smallest game I found to be genuinely delightful is Tree Appreciator . I used the regular Claude chat interface for this - it didn't even need Claude Code. I built this on a whim while we were driving along Skyline Boulevard looking at trees. My prompt was: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. I've found that telling models to use three.js works really well. Claude doesn't have its own image generation model but is capable of building full-color 3D models that look and feel excellent. This game required no iteration or follow-up prompting at all - I got the game in a single shot. It gave me back a charming little mobile-friendly spot-the-difference game. You can play that here . Here's the chat transcript that built it. It's pleasingly relaxing. The graphics are fun, and collecting trees that you have completed in a \"herbarium\" provides a nice, cosy sense of accomplishment. Emberwick This was a more ambitious project that I again built using regular Claude chat. I started out by building an experimental prototype of an engine for a top-down fantasy RPG: Build a demo game engine three.js which is a top down (but at an angle) RPG - the player gets to move through the world with one or two companions. Create a fantasy village setting that demonstrates walking around outside and then shows how when the player enters a building the wall between the player and the camera goes transparent so the user can see what is happening Add some NPCs and plenty of furniture and different types of building some with an upstairs - be creative, make it look great Here's that first version . It worked really well! I was inspired to increase my ambitions: Make it not so flat - the buildings are great but the landscape itself is completely flat at the moment, fix that Add basements to two of the buildings with a tunnel system joining them below the village Add the start of a rocky mountain on one side of the village containing a cave with a sleeping troll Here's that version . When that produced a good result, I decided to push it all the way: Now turn this into an actual game - quadruple the size of the playable area, introduce fun game mechanics, add a plot that isn't too cliche, some twists, a magic system, make it really good We're back to prompts like \"make it really good\" here! Asking for a plot that \"isn't too cliche\" seemed to work too - it's a bit clich\u00e9, but still novel enough that I enjoyed following the story. Unlike Tree Appreciator, this took quite a bit of additional playtesting and prompting to get to a finished version. This was mainly due to gameplay problems - things like a character not being in the right place to complete a quest because a different story element had caused them to move to another location. Here's that final game . It has a full story that takes about 15 minutes to play through. There's even an experimental level editor if you want to drop in your own houses, furniture, and landscape features. Once it was all working (and I'd iterated through some gameplay bugs), I played it through from start to finish and found myself emotionally affected by the ending! I'm somewhat embarrassed by this, because everything in this game - the graphics, the plot, the characters, the music, the dialog - came from the model. My creative input was pretty much just \"it's a fantasy village and there's a troll asleep in a cave\". Here's the full shared Claude chat in which I built this game. I also fed that same initial sequence of prompts through ChatGPT GPT-6 Pro. Here's the transcript and the finished game for comparison. It looks great, but I don't think it plays nearly as well. Battle Drones This is by far my most successful project, which I wrote about last week . It's a Command & Conquer-style Real-Time Strategy game where two robot armies (or four as of Saturday ) build units, harvest scrap, and battle over territory. This is also the project that convinced me that Opus 5.5 knows what \"fun\" is. The first versions were built back in July using Claude Fable 5. It got me to a workable 2D Command & Conquer-style game, but it wasn't great to play. I prompted Opus 5.5 to \"Make it a LOT more fun\" and then later to \"Port this game to three.js\" and the game was transformed. There's a blow-by-blow account (prompts included) in my write-up . Today, Battle Drones has 2-4 player multiplayer (via a vibe coded WebSockets relay server), medals, replays, seven maps, a random map generator, and a set of \"mutators\" that add variants of the rules. It also lets different LLMs play against each other, using a mode where the game advances five seconds and then pauses to give different models time to interpret the new game state and line up their next set of commands. Here's a replay of Claude Haiku 5.5 vs. GPT-6 Luna : Battle Drones is a particularly good example of Opus 5.5's ability to create 3D models. This page lets you browse all of the models in the game . I released Battle Drones under the Apache 2.0 License last Tuesday. On Wednesday Gabriel Turpin released Panache ( screenshots here ), a fork of Battle Drones that reimagined the game for steampunk 1900s Belle \u00c9poque France, with new models and music and an animated intro sequence. Open source at work! Pumpkin Farmer, aka Quarter Sun Cove I live in Half Moon Bay, California , home of the annual Half Moon Bay Art and Pumpkin Festival , which includes a giant pumpkin weigh-off competition. I decided to try building a game that wasn't just a cheap imitation of something that already existed, so I set out to create a game about farming pumpkins, growing giant pumpkins, and handling the rush of the October pumpkin season. I called it \"Quarter Sun Cove\". I'm still iterating on this project, but it's shaping up quite nicely. It's a cosy farming simulator where you spend the year tending to your giant pumpkin and planting out regular-sized pumpkins for sale in October, then sell pumpkins during pumpkin season and enter your giant pumpkin in the weigh-off. Every character in it is a (vegetarian) animal. The mayor of the town is a pelican. You can be a pelican, skunk, raccoon, possum, beaver, coyote, fox, owl, sea otter, or harbor seal. Those species all later show up (accompanied by their children) to buy pumpkins from you. It's absurdly cute. You can play the latest version here . I'm not convinced by the game mechanics yet - it's actually quite complicated: you have to decide when to plant pumpkins such that they will become ripe at the weekends in October with the most visitors. Here's the initial brainstorming session , which resulted in this spec file . Then I had Opus 5.5 Ultracode burn millions of tokens and nearly two days building it. I told Claude to \"surprise and delight the user frequently\" and the result is so many little details and easter eggs. There are mischievous raccoons, an elephant seal that runs the weigh-off, harbor seals that roll their pumpkins back into the ocean, a wandering goat, and superstitions about growing giant pumpkins that sometimes come true. This isn't my best game yet - it's not as fun to play as Battle Drones - but it represents the kind of game I want more of: weird, fun, uniquely personal - something that wouldn't have been built in the before-times. Four times as insulting If you are offended by AI-generated art, AI-generated music, AI-generated writing, and AI-generated code, I have bad news for you: vibe coded games combine all of those at once . I respect those opinions, even though I don\u2019t strongly hold them myself. The wider games community already has an aversion to AI-generated assets in games. This has been a growing issue over the past few years as tools like Midjourney have enabled developers to generate assets for their projects. This IGN story covering complaints about slop in Valve's Steam Next Fest is a good recent example. We now have games where everything - code, assets, dialog, and even the game design itself - can be outsourced to the models. And the results don't suck! Building a computer game used to be one of the most challenging projects in all of software development, combining a diverse range of skills and requiring intense focus and effort over many months or even years. And now here I am spitting out a playable multiplayer RTS by prompting on my phone! I expect that, as we've already seen with programming, this will result in a split. Some players will refuse to have anything to do with games that were built in this way. Others may embrace this as opening up game development to a much wider audience. I lean in that direction! I certainly won't be entering any of my vibe coded games in traditional game jams or competitions - I don't feel like I've earned that right. We'll likely see new avenues emerge for vibe game developers to compare their projects. What happens if someone actually puts the work in? The thing I find both exciting and shameful about this is that I have got interesting results from so little creative input . The projects I've described here are loosely ordered by how much effort I've put into them. Not a single project represents more than four hours of my work (plus many more hours of Claude Code churning away by itself). Now imagine what could be achieved by anyone who takes this seriously, invests significant creative time, applies better taste in game design, and then playtests and iterates on the result until it's as good as they can make it. I want to see games that wouldn't have existed without these new tools. You should build a game! Building games in this way is so much fun . It's the perfect application for vibe coding because it's so low stakes: how much damage can you cause with a bug in a personal vibe coded game project? (OK, you can do some damage... my attempt at audio-based multiplayer gave my wife Natalie a nasty headache !) All of my games so far have been HTML and JavaScript using static hosting (generally GitHub Pages or Cloudflare Pages). Modern browsers - including mobile browsers - are incredibly capable. Frontier models already know libraries like three.js and Phaser . I'm finding these mobile web games to be indistinguishable from the native experience, at least for the kinds of games I'm trying to build. I suggest starting with a prompt like this: Build a mobile-friendly three.js game where... This works on both chatgpt.com and claude.ai - you don't even need to fire up a full coding agent. As one last example, here's \"Build a mobile-friendly three.js game where a mouse has to hide from a cat\" by Claude Opus 5.5 Extra and by GPT-6 Extra High . Switch to Codex or Claude Code once your project passes the proof-of-concept phase. And if the game isn't fun enough, add this: Make it a LOT more fun Tags: game-design , games , ai , generative-ai , chatgpt , llms , claude , vibe-coding , claude-code",
+      "alsoReportedBy": []
+    },
+    {
       "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
       "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Since coding is solved, why code for the job?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The October inflection point for vibe game development",
-      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle Drones Pumpkin Farmer, aka Quarter Sun Cove Four times as insulting What happens if someone actually puts the work in? You should build a game! Claude Opus 5.5 in particular exhibits meaningful improvements in several areas needed to build a compelling game: 3D modeling Music generation (see Scrimshaw Jukebox ) Game design (!) That last one is particularly important. Models have been able to create something that looks like a game for quite a while now, as seen in my previous experiments . The challenge has been getting to a game that's actually fun to play . Game design is a deep subject area. I won't pretend to be well versed in it - I know enough to have respect for it as a craft. Creating a novel, compelling gameplay loop which challenges players at the right level and provides a satisfying learning curve is a fine art. I didn't think the models could do it. Then I tried telling Claude Opus 5.5 to \"Make it a LOT more fun\"... and it did . In the past few weeks I've vibe coded (in the classic sense of the term - no looking at the code at all) four games that I've genuinely enjoyed playing. I attended Foo Camp in Berkeley over the weekend and met several people who were having similar experiences. Building games that play well is shockingly easy now. The new challenge is coming up with concepts for games that are novel and delightful and that wouldn't exist without AI assistance. I haven't done an exhaustive study, but my current impression is that GPT-6 Astra isn't quite there yet. It can absolutely build a game, but its sense of fun doesn't match that of Opus 5.5. I expect OpenAI will get there by the end of the year. Here are the four game projects that have convinced me that the models are now capable of producing fun games with very little guidance. All four are built in HTML and JavaScript and run entirely in the browser. Tree Appreciator The smallest game I found to be genuinely delightful is Tree Appreciator . I used the regular Claude chat interface for this - it didn't even need Claude Code. I built this on a whim while we were driving along Skyline Boulevard looking at trees. My prompt was: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. I've found that telling models to use three.js works really well. Claude doesn't have its own image generation model but is capable of building full-color 3D models that look and feel excellent. This game required no iteration or follow-up prompting at all - I got the game in a single shot. It gave me back a charming little mobile-friendly spot-the-difference game. You can play that here . Here's the chat transcript that built it. It's pleasingly relaxing. The graphics are fun, and collecting trees that you have completed in a \"herbarium\" provides a nice, cosy sense of accomplishment. Emberwick This was a more ambitious project that I again built using regular Claude chat. I started out by building an experimental prototype of an engine for a top-down fantasy RPG: Build a demo game engine three.js which is a top down (but at an angle) RPG - the player gets to move through the world with one or two companions. Create a fantasy village setting that demonstrates walking around outside and then shows how when the player enters a building the wall between the player and the camera goes transparent so the user can see what is happening Add some NPCs and plenty of furniture and different types of building some with an upstairs - be creative, make it look great Here's that first version . It worked really well! I was inspired to increase my ambitions: Make it not so flat - the buildings are great but the landscape itself is completely flat at the moment, fix that Add basements to two of the buildings with a tunnel system joining them below the village Add the start of a rocky mountain on one side of the village containing a cave with a sleeping troll Here's that version . When that produced a good result, I decided to push it all the way: Now turn this into an actual game - quadruple the size of the playable area, introduce fun game mechanics, add a plot that isn't too cliche, some twists, a magic system, make it really good We're back to prompts like \"make it really good\" here! Asking for a plot that \"isn't too cliche\" seemed to work too - it's a bit cliché, but still novel enough that I enjoyed following the story. Unlike Tree Appreciator, this took quite a bit of additional playtesting and prompting to get to a finished version. This was mainly due to gameplay problems - things like a character not being in the right place to complete a quest because a different story element had caused them to move to another location. Here's that final game . It has a full story that takes about 15 minutes to play through. There's even an experimental level editor if you want to drop in your own houses, furniture, and landscape features. Once it was all working (and I'd iterated through some gameplay bugs), I played it through from start to finish and found myself emotionally affected by the ending! I'm somewhat embarrassed by this, because everything in this game - the graphics, the plot, the characters, the music, the dialog - came from the model. My creative input was pretty much just \"it's a fantasy village and there's a troll asleep in a cave\". Here's the full shared Claude chat in which I built this game. I also fed that same initial sequence of prompts through ChatGPT GPT-6 Pro. Here's the transcript and the finished game for comparison. It looks great, but I don't think it plays nearly as well. Battle Drones This is by far my most successful project, which I wrote about last week . It's a Command & Conquer-style Real-Time Strategy game where two robot armies (or four as of Saturday ) build units, harvest scrap, and battle over territory. This is also the project that convinced me that Opus 5.5 knows what \"fun\" is. The first versions were built back in July using Claude Fable 5. It got me to a workable 2D Command & Conquer-style game, but it wasn't great to play. I prompted Opus 5.5 to \"Make it a LOT more fun\" and then later to \"Port this game to three.js\" and the game was transformed. There's a blow-by-blow account (prompts included) in my write-up . Today, Battle Drones has 2-4 player multiplayer (via a vibe coded WebSockets relay server), medals, replays, seven maps, a random map generator, and a set of \"mutators\" that add variants of the rules. It also lets different LLMs play against each other, using a mode where the game advances five seconds and then pauses to give different models time to interpret the new game state and line up their next set of commands. Here's a replay of Claude Haiku 5.5 vs. GPT-6 Luna : Battle Drones is a particularly good example of Opus 5.5's ability to create 3D models. This page lets you browse all of the models in the game . I released Battle Drones under the Apache 2.0 License last Tuesday. On Wednesday Gabriel Turpin released Panache ( screenshots here ), a fork of Battle Drones that reimagined the game for steampunk 1900s Belle Époque France, with new models and music and an animated intro sequence. Open source at work! Pumpkin Farmer, aka Quarter Sun Cove I live in Half Moon Bay, California , home of the annual Half Moon Bay Art and Pumpkin Festival , which includes a giant pumpkin weigh-off competition. I decided to try building a game that wasn't just a cheap imitation of something that already existed, so I set out to create a game about farming pumpkins, growing giant pumpkins, and handling the rush of the October pumpkin season. I called it \"Quarter Sun Cove\". I'm still iterating on this project, but it's shaping up quite nicely. It's a cosy farming simulator where you spend the year tending to your giant pumpkin and planting out regular-sized pumpkins for sale in October, then sell pumpkins during pumpkin season and enter your giant pumpkin in the weigh-off. Every character in it is a (vegetarian) animal. The mayor of the town is a pelican. You can be a pelican, skunk, raccoon, possum, beaver, coyote, fox, owl, sea otter, or harbor seal. Those species all later show up (accompanied by their children) to buy pumpkins from you. It's absurdly cute. You can play the latest version here . I'm not convinced by the game mechanics yet - it's actually quite complicated: you have to decide when to plant pumpkins such that they will become ripe at the weekends in October with the most visitors. Here's the initial brainstorming session , which resulted in this spec file . Then I had Opus 5.5 Ultracode burn millions of tokens and nearly two days building it. I told Claude to \"surprise and delight the user frequently\" and the result is so many little details and easter eggs. There are mischievous raccoons, an elephant seal that runs the weigh-off, harbor seals that roll their pumpkins back into the ocean, a wandering goat, and superstitions about growing giant pumpkins that sometimes come true. This isn't my best game yet - it's not as fun to play as Battle Drones - but it represents the kind of game I want more of: weird, fun, uniquely personal - something that wouldn't have been built in the before-times. Four times as insulting If you are offended by AI-generated art, AI-generated music, AI-generated writing, and AI-generated code, I have bad news for you: vibe coded games combine all of those at once . I respect those opinions, even though I don’t strongly hold them myself. The wider games community already has an aversion to AI-generated assets in games. This has been a growing issue over the past few years as tools like Midjourney have enabled developers to generate assets for their projects. This IGN story covering complaints about slop in Valve's Steam Next Fest is a good recent example. We now have games where everything - code, assets, dialog, and even the game design itself - can be outsourced to the models. And the results don't suck! Building a computer game used to be one of the most challenging projects in all of software development, combining a diverse range of skills and requiring intense focus and effort over many months or even years. And now here I am spitting out a playable multiplayer RTS by prompting on my phone! I expect that, as we've already seen with programming, this will result in a split. Some players will refuse to have anything to do with games that were built in this way. Others may embrace this as opening up game development to a much wider audience. I lean in that direction! I certainly won't be entering any of my vibe coded games in traditional game jams or competitions - I don't feel like I've earned that right. We'll likely see new avenues emerge for vibe game developers to compare their projects. What happens if someone actually puts the work in? The thing I find both exciting and shameful about this is that I have got interesting results from so little creative input . The projects I've described here are loosely ordered by how much effort I've put into them. Not a single project represents more than four hours of my work (plus many more hours of Claude Code churning away by itself). Now imagine what could be achieved by anyone who takes this seriously, invests significant creative time, applies better taste in game design, and then playtests and iterates on the result until it's as good as they can make it. I want to see games that wouldn't have existed without these new tools. You should build a game! Building games in this way is so much fun . It's the perfect application for vibe coding because it's so low stakes: how much damage can you cause with a bug in a personal vibe coded game project? (OK, you can do some damage... my attempt at audio-based multiplayer gave my wife Natalie a nasty headache !) All of my games so far have been HTML and JavaScript using static hosting (generally GitHub Pages or Cloudflare Pages). Modern browsers - including mobile browsers - are incredibly capable. Frontier models already know libraries like three.js and Phaser . I'm finding these mobile web games to be indistinguishable from the native experience, at least for the kinds of games I'm trying to build. I suggest starting with a prompt like this: Build a mobile-friendly three.js game where... This works on both chatgpt.com and claude.ai - you don't even need to fire up a full coding agent. As one last example, here's \"Build a mobile-friendly three.js game where a mouse has to hide from a cat\" by Claude Opus 5.5 Extra and by GPT-6 Extra High . Switch to Codex or Claude Code once your project passes the proof-of-concept phase. And if the game isn't fun enough, add this: Make it a LOT more fun Tags: game-design , games , ai , generative-ai , chatgpt , llms , claude , vibe-coding , claude-code",
       "alsoReportedBy": []
     },
     {
@@ -324,15 +332,6 @@
       "categoryLabel": "AI & Agents",
       "summary": "What is &#8220;night&#8221; to a machine?",
       "alsoReportedBy": []
-    },
-    {
-      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
-      "url": "https://latent.space/p/opus55/",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
-      "alsoReportedBy": ["Latent Space"]
     },
     {
       "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
@@ -358,8 +357,21 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
+      "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. \u2014 Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
       "alsoReportedBy": []
+    },
+    {
+      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+      "url": "https://latent.space/p/opus55/",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
+      "alsoReportedBy": [
+        "Latent Space"
+      ]
     }
-  ]
+  ],
+  "durationSeconds": 205.0,
+  "voice": "af_heart"
 }
