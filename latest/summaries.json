@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-28T22:42:01.546705Z",
+  "generated": "2026-10-29T00:42:00.813880Z",
   "summaries": [
+    {
+      "summary": "Water levels at Menindee Lakes hit a five-year low, leading to restrictions and fish death warnings.",
+      "significance": "Lowest water levels in five years at Menindee Lakes prompt restrictions, risking mass fish deaths and highlighting water management challenges.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
+      "points": [
+        "NSW government imposes upstream water use restrictions.",
+        "Menindee Lakes' combined volume fell below 480 gigalitres.",
+        "Experts warn of potential mass fish deaths over summer."
+      ]
+    },
+    {
+      "summary": "CBS News editor-in-chief Bari Weiss downplays concerns over declining 60 Minutes ratings.",
+      "url": "https://www.theguardian.com/media/2026/oct/28/bari-weiss-cbs-news-60-minutes",
+      "points": [
+        "Weiss stated 60 Minutes is doing \u201ctremendously well\u201d at industry conference.",
+        "She sidestepped focus on exact viewership numbers as a priority.",
+        "Weiss has been in her role for a year amid network ratings challenges."
+      ]
+    },
+    {
+      "summary": "GitLab faced an attempted exploitation of a critical vulnerability, leading to a system rebuild and password reset for users.",
+      "significance": "The attempted exploitation of CVE-2026-97229 highlights the importance of timely updates and the potential risks of using unpatched software versions.",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "points": [
+        "Attack occurred on October 20 and 21, exploiting CVE-2026-97229.",
+        "GitLab instance was treated as compromised and rebuilt from scratch.",
+        "Users must reset passwords upon re-opening of GitLab."
+      ]
+    },
+    {
+      "summary": "A patient details their chemotherapy journey, including spinal taps, nerve damage, and eventual recovery.",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "points": [
+        "Underwent weekly lumbar punctures extracting 5 mg of spinal fluid until end of January.",
+        "Experienced metallic taste in mouth, losing 50 pounds over a couple of months.",
+        "Recovered nerve function in spine after finishing chemotherapy in May."
+      ]
+    },
+    {
+      "summary": "Ted Sanders explains how model size influences LLM performance and OpenAI's model naming conventions.",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "points": [
+        "Larger models perform better but cost more per token.",
+        "Model size correlates with better recall of obscure facts.",
+        "OpenAI's model naming indicates order of release and magnitude of improvement."
+      ]
+    },
     {
       "summary": "A non-profit group leaked data of over 40,000 homeland security workers, including those in sensitive roles.",
       "significance": "The leak follows two previous government data disclosures, potentially increasing security concerns for over 40,000 DHS workers.",
@@ -3693,52 +3740,6 @@
         "Donald Trump signed the legislation to create Chiricahua national park on Tuesday.",
         "Known as the Land of Standing-Up Rocks among Native Americans.",
         "The area is famous for its historic rock spires in south-eastern Arizona."
-      ]
-    },
-    {
-      "summary": "El Salvador's president threatens action against Haitian gangs holding four Salvadoran military personnel hostage.",
-      "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "President Nayib Bukele launched a military operation to rescue four missing air force personnel.",
-        "The hostages were ambushed in Croix-des-Bouquets, Haiti, by heavily armed criminal groups.",
-        "Bukele threatened further action if the hostages were not returned alive."
-      ]
-    },
-    {
-      "summary": "macOS gcc binary is not an alias but a function that redirects to clang via xcrun.",
-      "url": "https://zoey-on-github.github.io/blog/macgcc.html",
-      "points": [
-        "macOS gcc binary uses xcrun to call clang or llvm-gcc.",
-        "g++ is an alias to a gcc binary located in a tool directory.",
-        "macOS's System Integrity Protection (SIP) prevents updating /usr/bin without a restart."
-      ]
-    },
-    {
-      "summary": "A new library for triangulating map polygons is faster than earcut, processing 3.7M polygons in 489 ms.",
-      "significance": "The story matters as it introduces a faster polygon triangulation library, enhancing map rendering efficiency in both C++ and browser environments.",
-      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-      "points": [
-        "The library processes 3.7M polygons in 489 ms, 14% faster in C++ and 1.4 to 2.1 times faster in the browser than earcut.",
-        "In the offline map of the Masovian Voivodeship, 3,740,425 polygons are triangulated in 2.93 seconds on one core of an M4 Pro.",
-        "The triangulation process involves converting 331 polygons with 5,151 vertices into 4,514 triangles."
-      ]
-    },
-    {
-      "summary": "A software-only jailbreak for the Switch 2, named ns2jb, allows running homebrew and modding games on firmware 23.0.1.",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "points": [
-        "ns2jb enables running arbitrary native code as any sysmodule on Switch 2.",
-        "The jailbreak was demonstrated by modding the Switch 2 exclusive game, Mario Kart World.",
-        "The exploit uses a WebKit n-day loaded via a custom Wi-Fi captive portal for initial code execution."
-      ]
-    },
-    {
-      "summary": "Article discusses optimizing enum-to-string conversion functions using lookup tables and corrections to reduce memory usage.",
-      "url": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
-      "points": [
-        "Uses assembly code examples to illustrate the optimization process.",
-        "Suggests concatenating strings into a single memory block to reduce space.",
-        "Proposes using a table of corrections to refine approximations, saving space."
       ]
     }
   ]
