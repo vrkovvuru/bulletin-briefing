@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-29T18:42:23.191890Z",
+  "generated": "2026-10-29T20:42:25.511788Z",
   "summaries": [
+    {
+      "summary": "Trump calls for prosecution of Mary Peltola, as Alaska governor orders investigation into her campaign amid Republican outcry.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+      "points": [
+        "Trump claims voter fraud at highest level during South Carolina rally.",
+        "Alaska governor orders inquiry into Peltola\u2019s Senate campaign.",
+        "CNN poll shows Democrats leading in key Senate races in Texas and Michigan."
+      ]
+    },
+    {
+      "summary": "Flávio Bolsonaro, who lost Brazil's presidential election, calls himself \"leader of Brazil\" in a letter posted on social media after fleeing to the US.",
+      "significance": "Flávio Bolsonaro's claim undermines democratic processes and could incite political unrest in Brazil.",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Bolsonaro lost to Lula by 4.4 million votes in the runoff.",
+        "He alleges electoral fraud without evidence, claiming he is leading the opposition from the US.",
+        "Bolsonaro left Brazil without complying with an order to surrender his passports, described by Lula as \"a shameful act."
+      ]
+    },
+    {
+      "summary": "Justice department issues subpoenas over alleged Democratic plot to confuse voters in Alaska Senate race.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/alaska-senate-race-subpoenas",
+      "points": [
+        "Subpoenas issued in response to claims of campaign collaboration to recruit a second \"Dan Sullivan.\"",
+        "Federal investigation follows New York Times report of Peltola\u2019s campaign involvement, previously denied.",
+        "The midterm ballot confusion tactic targets Republican Senator Dan Sullivan\u2019s re-election bid."
+      ]
+    },
+    {
+      "summary": "Chancellor John Healey avoids cutting welfare costs despite a £28bn public finance shortfall warning.",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
+      "points": [
+        "John Healey refuses to cut welfare costs in the current parliament.",
+        "Experts criticize Healey\u2019s budget for dodging major tax and spending decisions.",
+        "The Institute for Fiscal Studies warns of a £28bn shortfall leading to potential brutal spending cuts."
+      ]
+    },
+    {
+      "summary": "The article emphasizes the importance of community values over licensing in shaping ethical software projects.",
+      "significance": "The story highlights that the community around software projects shapes their values more than licenses do, emphasizing the importance of ethical standards and inclusivity.",
+      "url": "https://lumi.codeberg.page/blog/software-community.html",
+      "points": [
+        "Activism shifted focus from strong copyleft licenses to broader ethical standards.",
+        "Example given: AGPL-3.0 project with commercial license and contributor agreements lacks community values.",
+        "Encourages involvement in community management, documentation, and other tasks to shape project values."
+      ]
+    },
+    {
+      "summary": "US intelligence officials allege a Chinese businesswoman with close ties to Nvidia CEO Jensen Huang was funneling information to Beijing.",
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "points": [
+        "Alice Huang, a Chinese citizen and Megaspeed executive, was photographed with Jensen Huang in Taipei in June 2024.",
+        "US intelligence concluded Alice Huang was secretly funneling information to China, based on electronic surveillance.",
+        "Nvidia CEO Jensen Huang lobbied President Trump to ease AI chip sales restrictions to China, donating at least $20 million to the White House ballroom fund."
+      ]
+    },
     {
       "summary": "Netanyahu accused of using smear tactics to stay in power after his coalition lost the election.",
       "significance": "Netanyahu's allegations of foreign interference follow election loss, potentially escalating political tensions through smear tactics.",
@@ -3683,61 +3739,6 @@
         "Ukrainian officials claim restrictions on Starshield have made many of their drones inoperable.",
         "The dispute involves the Trump administration, Kyiv officials, and Elon Musk.",
         "Starshield limitations have hampered Ukraine's air defense systems against Russian attacks."
-      ]
-    },
-    {
-      "summary": "Brazilian presidential runoff's impact on the Amazon and local communities is examined in a podcast.",
-      "significance": "The story highlights the critical impact of Brazil\u2019s presidential election on the Amazon's future and the livelihoods of its communities.",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
-      "points": [
-        "Tom Phillips visits Roraima, Brazil\u2019s northernmost state, for insights.",
-        "The election runoff on Sunday has high stakes for the Amazon and its communities.",
-        "Flávio Bolsonaro received significant support in the first round from Roraima."
-      ]
-    },
-    {
-      "summary": "Flu cases surge on the US west coast earlier than usual, prompting health experts to urge vaccination.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
-      "points": [
-        "California's flu test rate at 9.65%, significantly above the early October norm of 1%.",
-        "H1N1 influenza A strain is mutating, contributing to the early rise in cases.",
-        "Flu season typically peaks in February but has started earlier this year."
-      ]
-    },
-    {
-      "summary": "Beau Lamarre-Condon allegedly confessed to killing two men and asked his friend for help moving the bodies.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/beau-lamarre-condon-allegedly-confessed-to-friend-murder-trial-court-ntwnfb",
-      "points": [
-        "Lamarre-Condon, 31, allegedly shot Jesse Baird and Luke Davies with his police service weapon.",
-        "The killings took place on February 19, 2024, in Baird\u2019s Paddington home.",
-        "Lamarre-Condon reportedly told his friend it was an \u201cout-of-body experience\u201d before joking about it."
-      ]
-    },
-    {
-      "summary": "Queensland minister Amanda Camm resigned from the frontbench, citing health and safety reasons due to pressure over child safety issues.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/embattled-qld-mininster-amanda-camm-quits-crisafulli-frontbench-citing-health-and-safety-reasons",
-      "points": [
-        "Camm faced months of pressure over the state\u2019s child safety system.",
-        "Her resignation comes after Helen Haines' attack was cited as a reason.",
-        "Camm emphasized that her decision to step down was \"mine alone."
-      ]
-    },
-    {
-      "summary": "Corey Lewandowski, former Trump adviser and DHS aide, is under criminal investigation for allegedly profiting from his government role.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
-      "points": [
-        "Investigation源于DHS内部监察机构的刑事转介。",
-        "调查涉及Lewandowski在处理某些政府合同中的行为。",
-        "三名美国官员和一名知情人士向路透社透露了这一消息。"
-      ]
-    },
-    {
-      "summary": "Dijkstra argues against \"natural language programming,\" asserting that formal symbols are essential for effective and error-free computing.",
-      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "points": [
-        "Dijkstra cites historical examples, such as Greek mathematics and medieval scholasticism, to argue against natural language.",
-        "He suggests that formal symbols simplify programming by reducing the chance of undetected errors.",
-        "Dijkstra warns that using native tongues for programming could increase the complexity and workload for both machines and humans."
       ]
     }
   ]

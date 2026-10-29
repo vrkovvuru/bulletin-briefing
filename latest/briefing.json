@@ -2,6 +2,24 @@
   "date": "2026-10-29",
   "stories": [
     {
+      "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+      "url": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Stewart was raised by an abusive father but became best known for playing kind, paternal leaders who united families of misfits.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Cornell begins no confidence vote over handling of alleged gang rape",
+      "url": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Faculty vote will continue until next Friday and could send message that school&#039;s president has lost their confidence.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
       "title": "Met refers itself to police watchdog over letter about Meghan's father",
       "url": "https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,57 +29,39 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
-      "url": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
+      "title": "Israel election result shows no overall majority as vote count complete",
+      "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.",
+      "summary": "Opposition explores options to form coalition as no party secures the 61 seats required for parliamentary majority.",
       "alsoReportedBy": []
     },
     {
-      "title": "Even birds get jet lagged, study shows",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
+      "title": "What killed 500-plus penguins? How scientists solved the mystery",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "A species of seabirds appears to become disoriented on flights back to its nest due to shifting time zones.",
+      "summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
       "alsoReportedBy": []
     },
     {
-      "title": "Finland launches criminal probe of suspected environmental damage by Google",
-      "url": "https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss",
+      "title": "Man targeted Muslims, Africans and North Africans, French prosecutors say",
+      "url": "https://www.aljazeera.com/news/2026/10/29/man-targeted-muslims-africans-and-north-africans-french-prosecutors-say?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The US tech giant is investing $15bn in a huge new data centre project in northern Finland.",
+      "summary": "Prosecutor Olivier Christen said suspect admitted that he chose the location because it was &#039;a hotbed for Islamists&#039;.",
       "alsoReportedBy": []
     },
     {
-      "title": "Al Jazeera marks 30th anniversary with network overhaul",
-      "url": "https://www.aljazeera.com/news/2026/10/29/al-jazeera-marks-30th-anniversary-with-network-overhaul?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Marking three decades, Al Jazeera unveils a new structure: three channels, 33 programmes, and tech-driven innovation.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
+      "title": "Lost your spark? The \"silent sister\" of depression, and a quiz to spot her",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Alaska's U.S. Senate race is embroiled in an emotional fight over fish. Many in the state rely upon salmon to feed their families but those fish and others are increasingly hard to find.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+      "summary": "Always busy, but rarely joyful? Allison Aubrey and Juana Summers discuss a tool to spot \"high functioning depression.\"",
       "alsoReportedBy": []
     },
     {
@@ -74,22 +74,31 @@
       "alsoReportedBy": []
     },
     {
-      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-      "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "source": "NPR",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
       "alsoReportedBy": []
     },
     {
-      "title": "Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power",
-      "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+      "title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal” Tuesday’s election, in which the prime minister’s coalition lost its parliamentary majority. Netanyahu and his allies called on the internal security service, Shin Bet, to investigate alleged vote buying and other irregularities in Palestinian communities in Israel, supposedly funded by foreign money. Continue reading...",
+      "summary": "‘This is voter fraud at the highest level,’ president tells rally crowd in South Carolina; Alaska governor orders inquiry into Peltola campaign amid Republican outcry Alaska governor orders investigation into Peltola’s Senate campaign Sign up for the Breaking News US email With days until the midterm elections, a new poll from CNN places Democrats well in the lead in key Senate races in Texas and Michigan, while projecting tighter contests in Kansas and Maine. In Texas, the poll found 49% of likely voters would back James Talarico, the Democratic nominee, over Republican Ken Paxton, who netted just 43%. Continue reading...",
       "alsoReportedBy": []
+    },
+    {
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
+      "alsoReportedBy": ["Guardian World"]
     },
     {
       "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
@@ -97,7 +106,25 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says Canadian rock star Bryan Adams , is Lake America. In his new song Lake Ontario, Adams takes aim at the US president, Donald Trump , accusing him of “breaking the peace” between the people who live on the lake’s shores. The ‘lake of shining waters ’ is what the Iroquois called her It’s a First Nations name – not an executive order. But things weren’t going his way in Iran So like a baby tossing the toys from the pram You can push us to the brink But where the open road divides Continue reading...",
+      "summary": "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake. But one thing it will never be called, says the Canadian rock star Bryan Adams , is Lake America. In his new song Lake Ontario, Adams takes aim at the US president, Donald Trump , accusing him of “breaking the peace” between the people who live on the lake’s shores. The ‘lake of shining waters ’ is what the Iroquois called her It’s a First Nations name – not an executive order. But things weren’t going his way in Iran So like a baby tossing the toys from the pram You can push us to the brink But where the open road divides Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Justice department issues subpoenas over ‘second Dan Sullivan’ candidacy in Alaska Senate race",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/alaska-senate-race-subpoenas",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Democrat Mary Peltola’s campaign allegedly collaborated with party operatives to confuse voters in midterm The US justice department on Thursday is reported to have issued subpoenas in response to a report that the Alaska Democrat Mary Peltola’s campaign collaborated with party operatives to get a challenger with the same name as the Republican senator Dan Sullivan on the midterm ballot. ABC News reported the subpoenas, citing sources familiar with the matter. The federal investigation comes a day after the New York Times found that the effort to recruit a second candidate named Dan Sullivan in the Senate race set to be decided on Tuesday was led by Peltola’s campaign, which had for months denied involvement. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,12 +137,30 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Philippine police obtain warrant to search Thomas Markle's devices",
       "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Healey backs away from cutting welfare cost despite warnings of public finance shortfall",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Experts round on chancellor over ‘scattergun’ budget, saying he ducked big tax and spending decisions John Healey has backed away from cutting the cost of welfare this parliament, amid dire warnings his first budget could lead to brutal spending cuts because of a £28bn shortfall in public finances. Experts rounded on Healey’s steady-as-she-goes budget on Thursday, with the Institute for Fiscal Studies saying he had left himself a mountain to climb by ducking big tax and spending decisions. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -128,62 +173,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+      "url": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
       "alsoReportedBy": []
     },
     {
-      "title": "More prisoners recalled to jail than released in England and Wales",
-      "url": "https://www.theguardian.com/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Ministry of Justice figures show recalls rose 27% in year to June despite emergency measures to ease overcrowding More people were recalled to jails in England and Wales in the first half of this year than were released, despite government efforts to reduce the prison population, according to figures released on Thursday. Ministry of Justice (MoJ) data shows that 12,338 people were recalled to custody between the beginning of April and the end of June, while 12,278 people were released. It continues a trend set between January and March, when 13,193 people were returned to prison and 12,977 released. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Burnham denies preventing ministers from speaking about plans for closer relationship with EU – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Prime minister wrote to ministers saying he did not want them to ‘advocate for specific options or opine on the likely outcome of the process’ Selling nicotine-free vapes to children under the age of 18 has become illegal from today, the government has said. Children were already banned from buying vapes containing nicotine. But, under the Tobacco and Vapes Act, shops across the UK will now be banned from selling nicotine-free vapes, and nicotine pouches, to children. Vaping can be a way to help established adult smokers who are already addicted to nicotine from tobacco to swap to a less dangerous product. Vaping is considered safer than smoking, but that is a low bar. Vapes should therefore never be used by children or non-smokers. Some children have already come to harm from bad reactions to vapes. The long-term health harms of vaping in today’s children will only become clear over time. They are however unlikely to be good; inhaling multiple, often heated, chemicals into the lungs may well do irreversible harm. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Hello Kitty company cuts ties with Japanese spy show after China outcry",
-      "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Sanrio ends association with TV drama Vivant after China says portrayal of ruthless Chinese agents is ‘deliberate smear’ The company behind the successful Hello Kitty franchise has apologised and ended its commercial tie-up with a Japanese TV drama after Chinese state media and netizens condemned the show’s “deliberate smears” against China. Sanrio, a Japanese firm whose characters are popular around the world, said in a post on the Chinese social media site Weibo that it had decided to end its association with the TV drama Vivant after concluding that it “contained elements inconsistent with Sanrio’s core values”. Continue reading...",
-      "alsoReportedBy": ["BBC World"]
-    },
-    {
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Eight of England’s nine water companies still failing on environment, report finds",
-      "url": "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Angela Eagle tells industry ‘people are sick of excuses’ as pollution levels remain high despite billions in investment Angela Eagle, the environment secretary, has summoned water industry bosses to Whitehall after a report found that the environmental performance of the big companies has worsened despite investment. “People are sick of excuses,” Dame Angela said, after the Environment Agency joined the Drinking Water Inspectorate, Natural Resources Wales and Ofwat for a joint report that rated eight of the nine water companies in England as “poor” or “requiring improvement”. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Google Search is now less than half of Alphabet’s revenue",
-      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,8 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
-      "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+      "title": "The importance of communities around software",
+      "url": "https://lumi.codeberg.page/blog/software-community.html",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "H.264 Is Magic (2016)",
-      "url": "https://sidbala.com/h-264-is-magic/",
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
