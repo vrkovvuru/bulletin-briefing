@@ -1,6 +1,108 @@
 {
-  "generated": "2026-10-29T14:42:36.147270Z",
+  "generated": "2026-10-29T16:43:43.026953Z",
   "summaries": [
+    {
+      "summary": "A 'fairy chimney' rock formation in Turkiye's Cappadocia collapsed, killing at least two people.",
+      "significance": "The collapse of a 'fairy chimney' in Cappadocia, Turkiye, highlights the dangers to tourists and locals from natural rock formations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss",
+      "points": [
+        "At least two individuals were killed in the collapse.",
+        "The incident occurred in the Cappadocia region of Turkiye.",
+        "The collapsed formation was known as a 'fairy chimney'."
+      ]
+    },
+    {
+      "summary": "Economic think tanks predict a decline in living standards, warning of difficult years ahead due to falling disposable incomes and rising costs.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Typical working-age households will see their disposable income fall by £1,050, or 3%, by 2029.",
+        "The current decade will be the worst for household income growth on record, according to the Institute for Fiscal Studies.",
+        "Chancellor John Healey announced a £100 support payment to ease pressure on household finances, but it won't offset higher energy bills."
+      ]
+    },
+    {
+      "summary": "Money and economics writers addressed questions on tax policies and their impacts on landlords and tenants.",
+      "significance": "The article highlights the potential for landlords to pass tax increases onto tenants, leading to higher rents, as discussed by money and economics writers.",
+      "url": "https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart",
+      "points": [
+        "Landlords can pass higher tax bills onto tenants, potentially leading to a steady rise in rents.",
+        "Labour strategists insist they wouldn't have raised taxes, despite public services needing more funding.",
+        "The Iran war added £14bn to the government\u2019s interest costs this year."
+      ]
+    },
+    {
+      "summary": "John Healey's budget, dubbed the 'Martin Lewis budget,' focused on minor financial interventions, avoiding major tax or spending commitments.",
+      "url": "https://www.theguardian.com/politics/2026/oct/29/the-breathing-space-budget-breathing-space-for-the-government-that-is",
+      "points": [
+        "Budget featured small-scale financial aids without major tax or spending changes.",
+        "John Healey and Martin Lewis are frequently seen together, discussing budget details.",
+        "The day after the budget, there were no significant issues to challenge the measures."
+      ]
+    },
+    {
+      "summary": "Shop workers\u2019 union Usdaw pleads with Poundland owners to reconsider administration, risking up to 12,000 jobs.",
+      "url": "https://www.theguardian.com/business/2026/oct/29/poundland-brink-administration-12000-jobs-at-risk",
+      "points": [
+        "Gordon Brothers filed notice of intent to appoint administrators at high court.",
+        "AlixPartners set to run the administration process.",
+        "Management-backed rescue bid was rejected by the owners."
+      ]
+    },
+    {
+      "summary": "Two Colorado college students were found dead after going missing during a hiking trip hit by a heavy snowstorm.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike",
+      "points": [
+        "Kaden Matsuda, 19, from Ridgway, Colorado, and Jackson Donlon, 20, from New York, were found.",
+        "The bodies were discovered on Wednesday in a basin near West Apostle Mountain.",
+        "The incident occurred about 100 miles southeast of Aspen in the Rocky Mountains."
+      ]
+    },
+    {
+      "summary": "At least 69 died when a high-speed train from Madrid collided with another stationary train near Toledo.",
+      "url": "https://www.theguardian.com/world/2026/oct/29/how-did-the-spain-train-crash-happen-what-will-investigators-be-asking",
+      "points": [
+        "At least 69 people died in the collision near Toledo on Wednesday morning.",
+        "Both trains were halted earlier due to a signalling system failure.",
+        "The Renfe AVE train collided with an Iryo train after controllers restarted its journey."
+      ]
+    },
+    {
+      "summary": "H.264 is a widely-used video compression codec that significantly reduces bandwidth requirements for video transmission.",
+      "significance": "H.264 significantly reduces video file sizes, enabling efficient video transmission and storage across various devices and platforms.",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "points": [
+        "H.264 compresses a 300-frame video to 175KB, while a single frame in PNG format is 1015KB.",
+        "The codec uses lossy compression, discarding less important detail to save space.",
+        "It employs transformations to different coordinate spaces to achieve efficient compression."
+      ]
+    },
+    {
+      "summary": "Study reveals that many statistics provided by AI assistants lack verifiable sources, often leading to \"zombie stats\" that circulate without evidence.",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "points": [
+        "40% of statistics traced by researchers reached a study that corroborated the number.",
+        "ChatGPT cited the fewest numbers (1.3 per answer) compared to Claude's 6.8.",
+        "Only 21% of cited pages were the original research, with over half being company blogs."
+      ]
+    },
+    {
+      "summary": "A user seeks a shared password manager solution for family use, emphasizing ease of use and security.",
+      "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
+      "points": [
+        "User needs a solution for shared financial and insurance accounts for elderly family members.",
+        "Requirements include cross-platform support (Linux, MacOS/iOS) and ease of use for non-tech-savvy users.",
+        "1Password is ruled out due to recent issues, considering KeepassXC or Syncthing as alternatives."
+      ]
+    },
+    {
+      "summary": "Grace Blackwell discusses how NVL72 systems can increase GPU usability by 27% through better scheduling and rack-locality.",
+      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "points": [
+        "NVL72 systems connect 72 GPUs in a rack with NVLink, offering 27% more usable GPUs.",
+        "NVLink's high bandwidth is crucial for tensor and expert parallelism, avoiding InfiniBand's lower throughput.",
+        "Tensor parallelism requires two all-reduces per transformer layer, optimized for NVLink's speed."
+      ]
+    },
     {
       "summary": "Sanrio ends partnership with Japanese TV drama Vivant due to Chinese backlash over negative portrayal of Chinese agents.",
       "significance": "The story highlights the influence of Chinese consumer sentiment on global brands, leading Sanrio to sever ties with a controversial Japanese TV drama.",
@@ -3636,110 +3738,6 @@
         "Claude, an LLM, produced formal proofs for over 100 real-world open-source software libraries.",
         "Formal verification traditionally required significant expert effort, such as two person-years for the seL4 kernel.",
         "LLMs discovered bugs in mature software like the Linux kernel that had gone undetected for years."
-      ]
-    },
-    {
-      "summary": "A method to portably access errno from outside C using low-level hacks.",
-      "url": "https://sebsite.pw/w/20260925-errno.html",
-      "points": [
-        "Uses `lseek`, `read`, and `write` functions to capture error strings.",
-        "Constructs a table of error messages to map strings back to errno values.",
-        "Demonstrates the challenge of portability with glibc versus other POSIX-compliant libcs."
-      ]
-    },
-    {
-      "summary": "AI stocks plummeted globally, causing market declines, while oil prices reached highs not seen since May.",
-      "significance": "Sharp drops in AI stocks pull worldwide markets lower, overshadowing gains in non-AI sectors and rising oil prices.",
-      "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-      "points": [
-        "S&P 500 fell 1.2%, its worst drop since July.",
-        "Nasdaq composite dropped 2.6% due to tech stock weakness.",
-        "Oil prices hit their highest since May amid Iran war concerns."
-      ]
-    },
-    {
-      "summary": "UK PM to announce creation of an AI unit to detect wildfires and additional funding for firefighting resources.",
-      "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
-      "points": [
-        "AI Cobra unit will be established to identify wildfires following record-breaking summer.",
-        "Emergency alert for wildfires was sent to mobile phones in England and Wales.",
-        "Figures from 8 October indicate a rising trend in annual wildfire occurrences."
-      ]
-    },
-    {
-      "summary": "An individual explores creating a container runtime, discovering the complexities and peculiarities of Docker and container technology.",
-      "significance": "The story illuminates the underlying complexities and components of container technology, particularly Docker, offering insights into its运作机制和与Linux内核特性的交互。",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "points": [
-        "Containers use five Linux kernel features: namespaces, cgroups, and networking magic.",
-        "Docker images are essentially folders that become the root directory of a container process.",
-        "Go's multi-threaded runtime poses challenges for making necessary Linux syscalls in a single-threaded environment."
-      ]
-    },
-    {
-      "summary": "A method to securely expose share links of private services like Immich and Nextcloud using Caddy as a reverse proxy.",
-      "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
-      "points": [
-        "Caddy forwards requests to the service only if the share link is valid, otherwise returns a 404.",
-        "For Immich, a 403 status code indicates a valid share link, while for Nextcloud, a 200 status code does.",
-        "The full service remains accessible only via a VPN or with IP restrictions."
-      ]
-    },
-    {
-      "summary": "Libya and Türkiye's maritime deal, ratified by Libya\u2019s eastern parliament, stirs controversy over rights in the Mediterranean.",
-      "significance": "The deal revives dispute over maritime rights in the eastern Mediterranean, affecting regional tensions between Libya-Turkiye and opposing nations like Greece, Cyprus, and Egypt.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
-      "points": [
-        "Greece, Cyprus, and Egypt object to the deal, citing infringements on their sovereign rights.",
-        "The deal, signed seven years ago by Libya\u2019s Government of National Unity, revives disputes over gas exploration.",
-        "Athens has referred the maritime deal to the UN Security Council for review."
-      ]
-    },
-    {
-      "summary": "US actor Tom Skerritt, known for roles in \"Alien,\" \"Top Gun,\" and \"Picket Fences,\" died at 93.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Skerritt died on Wednesday of natural causes, born on 25 August 1933.",
-        "He starred in \"Alien,\" \"Top Gun,\" and the TV series \"Picket Fences.\"",
-        "Co-founded TheFilmSchool in Seattle and the Red Badge Project for veterans."
-      ]
-    },
-    {
-      "summary": "Trump criticizes Ohio's Republican governor for opposing a controversial ad by Ramaswamy targeting his Democratic rival.",
-      "significance": "The story highlights internal Republican Party conflict over campaign tactics and loyalty.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
-      "points": [
-        "Mike DeWine called Ramaswamy\u2019s ad featuring Amy Acton's estranged mother \"wrong\".",
-        "Trump urged Ramaswamy to keep the ad running and accused DeWine of disloyalty.",
-        "The ad targets Democratic gubernatorial candidate Amy Acton."
-      ]
-    },
-    {
-      "summary": "UK regulators plan to relax post-2008 rules holding City bosses accountable for misconduct.",
-      "url": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
-      "points": [
-        "Plans aim to save businesses about £2bn over 10 years.",
-        "140,000 managers will be freed from extra checks.",
-        "Reduction in reporting for \"lower-level misconduct\" is included."
-      ]
-    },
-    {
-      "summary": "Social media influencer Clavicular pleaded not guilty to raping a 17-year-old girl.",
-      "significance": "The case impacts the \"looksmaxxing\" community and highlights issues of alcohol and sexual assault involving social media influencers.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/clavicular-pleads-not-guilty-rape",
-      "points": [
-        "Clavicular, real name Braden Peters, 20, denies the charges.",
-        "The alleged assault occurred at his family\u2019s home in Chatham, Massachusetts.",
-        "Peters is accused of giving alcohol to the victim until she was drunk."
-      ]
-    },
-    {
-      "summary": "Sacha Baron Cohen returns with Ali G in a new high-stakes satire that mixes old and new characters to tackle contemporary issues.",
-      "url": "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste",
-      "points": [
-        "Republican leader threatens to sue Cohen, calling him 'a liar and a pervert'.",
-        "Features two new characters: Erran Morad and Dr Nira Cain-N\u2019Degrocello.",
-        "Unlike the 2002 film, this sequel is not a full narrative but a series of hoaxes."
       ]
     }
   ]
