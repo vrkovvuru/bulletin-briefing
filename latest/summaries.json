@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-30T18:42:58.689765Z",
+  "generated": "2026-10-30T20:41:28.648389Z",
   "summaries": [
+    {
+      "summary": "Democrats are predicted to win up to 240 House seats, potentially securing a majority.",
+      "significance": "The prediction of Democrats winning up to 240 House seats could shift the legislative majority, altering the political balance in Congress.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
+      "points": [
+        "Cook Political Report moved 12 more races to lean Democratic.",
+        "Ken Paxton, a Republican nominee, canceled some final rallies before the election.",
+        "James Talarico, Democratic nominee, mocked Paxton's cancellations and his funding."
+      ]
+    },
+    {
+      "summary": "Florida prosecutors dropped a felony charge against rapper Rick Ross in a domestic violence case due to insufficient evidence.",
+      "significance": "The story matters as it updates the legal status of Rick Ross, reducing his charges from a felony to a misdemeanor due to insufficient evidence in a domestic violence case.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/rick-ross-felony-charge-dropped-domestic-violence",
+      "points": [
+        "Prosecutors dropped a felony charge of battery by strangulation against Rick Ross.",
+        "Rick Ross still faces a misdemeanor charge of battery domestic violence.",
+        "The decision came nearly a month after his arrest in Miami Beach."
+      ]
+    },
+    {
+      "summary": "ICE agent Mario Alberto Morales indicted for ramming his SUV into a man during a traffic stop in Houston.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/texas-ice-agent-suv-charged",
+      "points": [
+        "Morales, 33, charged with aggravated assault with a deadly weapon.",
+        "Incident occurred on 10 October, injuring Miguel Parra Hernandez, 48.",
+        "Hernandez suffered multiple leg fractures and a hip injury from the collision."
+      ]
+    },
+    {
+      "summary": "BeOS, a multimedia-focused OS for Power Macintoshes, is now available on Infinite Mac, showcasing its speed and unique features.",
+      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "points": [
+        "BeOS was considered by Apple for acquisition as a next-generation OS.",
+        "The OS faced compatibility issues with DingusPPC, requiring numerous bug fixes.",
+        "BeOS DR8.3, the first version for Power Macs, had a time bomb preventing boot after April 1, 1997."
+      ]
+    },
     {
       "summary": "Kim Jong Un visits a drone exhibition, calling for North Korea to achieve \"absolute superiority\" in drone technology.",
       "significance": "North Korea aims to enhance military drone capabilities under Kim Jong Un's directive, signaling potential advancements in unmanned aircraft technology.",
@@ -3705,43 +3743,6 @@
         "Rubio called for action by Cubans seeking change, citing Trump's plans.",
         "Trump mentioned US warships could intervene in Cuba after returning from Iran.",
         "Rubio suggested a partnership with the CIA to achieve desired changes."
-      ]
-    },
-    {
-      "summary": "Severe storms and heavy rain are predicted to hit multiple Australian states this weekend, following flash flooding in Queensland.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
-      "points": [
-        "Nine flood warnings were in place for south Queensland on Saturday morning.",
-        "Flash flooding this week in south-east Queensland led to multiple school closures.",
-        "Severe storms expected to move from Queensland, Victoria, and South Australia into NSW and Tasmania by Sunday."
-      ]
-    },
-    {
-      "summary": "Oregon father hailed as a hero spoke out about confronting the shooter who killed four at his children's school.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
-      "points": [
-        "Kaylub Giamanco told 911: \u201cI have to go in. People are going to die.\u201d",
-        "Giamanco, a 36-year-old carpenter, stopped the shooting at Silver Rail elementary.",
-        "The shooter killed three boys and one teacher at the school in Bend, Oregon."
-      ]
-    },
-    {
-      "summary": "Greens leader David Shoebridge faces scrutiny over handling of misconduct allegations against senator Jordon Steele-John.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
-      "points": [
-        "Steele-John's future in the party remains uncertain a week after allegations.",
-        "A letter was sent to Shoebridge calling for an independent investigation.",
-        "The Greens are preparing for Senate estimates amid the leadership pressure."
-      ]
-    },
-    {
-      "summary": "An Ohio man was convicted of murder for running over a deputy after viewing footage of his son's fatal police shooting.",
-      "significance": "The conviction highlights tensions between law enforcement and communities affected by police violence.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
-      "points": [
-        "Rodney Hinton, 40, faces 15 years to life in prison.",
-        "Hinton's son, Ryan, was shot dead by Cincinnati police.",
-        "Sentencing is tentatively set for November 16."
       ]
     }
   ]
