@@ -1,6 +1,35 @@
 {
-  "generated": "2026-10-30T02:42:33.110333Z",
+  "generated": "2026-10-30T04:42:02.949826Z",
   "summaries": [
+    {
+      "summary": "Flash floods in Syria's northern and eastern regions have killed five people, including four children.",
+      "significance": "Flash floods highlight ongoing threat of heavy rains in Syria, affecting displaced populations and causing significant loss of life and infrastructure damage.",
+      "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
+      "points": [
+        "Four children drowned in bodies of water across Raqqa and Deir Az Zor.",
+        "A man died when his car was caught in floodwaters near al-Salmani Bridge.",
+        "Emergency teams evacuated approximately 375 families from three camps near Raqqa."
+      ]
+    },
+    {
+      "summary": "A report warns that feral deer are spreading rapidly in Australia, posing a significant threat akin to feral pigs.",
+      "significance": "The story highlights the growing threat of feral deer, indicating potential severe economic impacts on farmers if not controlled, mirroring the issues with feral pigs.",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/australia-feral-deer-problem-report-national-action-plan",
+      "points": [
+        "Feral deer spread and numbers have increased, costing farmers millions.",
+        "From 2020-2025, deer encroached more into major cities, leading to frequent encounters.",
+        "An incident involved two nude men fined after being spooked by deer while sunbathing."
+      ]
+    },
+    {
+      "summary": "Sam Wood, former Bachelor star, seeks bail again amid domestic violence charges, with court hearing about his alleged party lifestyle and anger issues.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
+      "points": [
+        "Wood, 46, from Melbourne, arrested on 4 October at Noosa, Queensland.",
+        "Initial bail denial due to allegations of choking and assaulting his wife.",
+        "Court hears Wood engaged in a \"party lifestyle\" involving drugs and alcohol."
+      ]
+    },
     {
       "summary": "Actor Patrick Stewart, known for roles in Star Trek and X-Men, died at 86.",
       "significance": "Stewart demonstrated the commercial viability of classically trained British actors in mainstream American entertainment, bridging high art and pop culture.",
@@ -3713,34 +3742,6 @@
       "points": [
         "Labour prioritizes minor improvements like pothole repairs and bus fare adjustments.",
         "Inspired by a political satire, the strategy seeks universally popular, instantly applicable policies."
-      ]
-    },
-    {
-      "summary": "Recent severe software vulnerabilities affecting 70% of the internet have caused widespread panic, highlighting the rapid exploitation enabled by AI models.",
-      "significance": "The story highlights how AI models are accelerating the exploitation of software vulnerabilities, potentially changing the landscape of cybersecurity.",
-      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
-      "points": [
-        "Two security teams used AI models to discover critical Remote Code Execution (RCE) bugs in PHP.",
-        "The vulnerabilities, named PHP2Shell, affect upwards of 70% of the internet.",
-        "AI models can quickly turn theoretical security issues into full exploits, reducing the time from discovery to exploitation to hours."
-      ]
-    },
-    {
-      "summary": "An employee details their experience of being laid off and the subsequent health issues and lifestyle changes they faced.",
-      "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
-      "points": [
-        "Laid off on August 18th during a probation period, given two weeks paid leave.",
-        "Developed symptoms believed to be from a Covid infection, triggering an autoimmune condition.",
-        "Treated with cortisone, which improved symptoms but caused side effects like restlessness and sleep disruption."
-      ]
-    },
-    {
-      "summary": "The article discusses issues with modern web practices like using JavaScript popups and infinite scrolling, advocating for simpler, more user-friendly alternatives.",
-      "url": "https://maurycyz.com/misc/real_links/",
-      "points": [
-        "Use target=\"_blank\" instead of JavaScript popups for links.",
-        "Infinite scrolling can break browser functionalities like bookmarks and the back button.",
-        "Using a single TCP connection for downloads can improve performance over multiple connections."
       ]
     }
   ]
