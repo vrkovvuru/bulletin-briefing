@@ -1,6 +1,34 @@
 {
-  "generated": "2026-10-30T20:41:28.648389Z",
+  "generated": "2026-10-30T22:41:26.964063Z",
   "summaries": [
+    {
+      "summary": "Linode is investigating a security issue related to a remote code execution vulnerability.",
+      "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+      "points": [
+        "Linode is actively investigating the CVE-2026-98432 vulnerability.",
+        "Updates on mitigation status will be shared via Slack.",
+        "Users experiencing issues are advised to contact Linode through a ticket."
+      ]
+    },
+    {
+      "summary": "Tangled introduces a federated code forge that allows self-hosting while maintaining seamless collaboration.",
+      "url": "https://tangled.org/blog/forge/",
+      "points": [
+        "Tangled uses the AT Protocol to enable users to host code on their own servers.",
+        "The platform has a new UI built with Svelte, offering improved speed and visual consistency.",
+        "Knot2, rewritten in Rust, integrates a custom Git server and stores issues, pull requests, and comments as collaborative objects."
+      ]
+    },
+    {
+      "summary": "Drew Breunig created a Qwen3.5-4B model that emulates an NES 6502 CPU, allowing slow NES game play.",
+      "significance": "This story demonstrates the innovative use of AI models to emulate vintage gaming systems, potentially opening new avenues for retro gaming and AI research.",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "points": [
+        "Drew used Opus 5.5 prompts to build the system.",
+        "The project uses conformance tests for the NES CPU released 15 years ago by Christopher Pow.",
+        "The emulation runs NES ROMs like Super Mario Bros, but very slowly."
+      ]
+    },
     {
       "summary": "Democrats are predicted to win up to 240 House seats, potentially securing a majority.",
       "significance": "The prediction of Democrats winning up to 240 House seats could shift the legislative majority, altering the political balance in Congress.",
@@ -3715,34 +3743,6 @@
         "Steele-John considered attending Senate estimates virtually but was told it would be \u2018unacceptable\u2019.",
         "The senator released a letter detailing the allegations against him.",
         "Confusion followed after historical complaints of alleged misconduct were made public in the media."
-      ]
-    },
-    {
-      "summary": "Independent MP Helen Haines's condition improved to serious but stable after losing both legs in an alleged attack.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
-      "points": [
-        "Helen Haines lost both legs in an alleged attack near her office in north-east Victoria.",
-        "The attack occurred on Monday afternoon.",
-        "The Alfred hospital in Melbourne reported her condition as serious but stable on Saturday morning."
-      ]
-    },
-    {
-      "summary": "Discussion on undefined behavior (UB) in programming, focusing on null pointer dereferencing and its consequences.",
-      "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
-      "points": [
-        "Null pointer write used to enhance debugger error messages.",
-        "Compilers like GCC and clang may stop emitting instructions upon detecting null pointer dereference.",
-        "UB can lead to unexpected behaviors, such as executing arbitrary memory contents."
-      ]
-    },
-    {
-      "summary": "Rubio urges Cubans to seek political change, following Trump's mention of potential US military intervention.",
-      "significance": "Rubio's call for action among Cubans for political change follows Trump's statement about potential US military intervention in Cuba.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-      "points": [
-        "Rubio called for action by Cubans seeking change, citing Trump's plans.",
-        "Trump mentioned US warships could intervene in Cuba after returning from Iran.",
-        "Rubio suggested a partnership with the CIA to achieve desired changes."
       ]
     }
   ]
