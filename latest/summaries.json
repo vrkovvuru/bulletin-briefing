@@ -1,6 +1,63 @@
 {
-  "generated": "2026-10-30T00:43:16.567071Z",
+  "generated": "2026-10-30T02:42:33.110333Z",
   "summaries": [
+    {
+      "summary": "Actor Patrick Stewart, known for roles in Star Trek and X-Men, died at 86.",
+      "significance": "Stewart demonstrated the commercial viability of classically trained British actors in mainstream American entertainment, bridging high art and pop culture.",
+      "url": "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
+      "points": [
+        "Brought Shakespearean training to Hollywood, starring as Jean-Luc Picard in Star Trek.",
+        "Also played Professor Charles Xavier in the X-Men film series.",
+        "His career transitioned from the Royal Shakespeare Company to pop culture icon."
+      ]
+    },
+    {
+      "summary": "Papua New Guinea faces a \"national crisis\" due to an extreme El Niño-driven drought affecting 8 million people.",
+      "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
+      "points": [
+        "8 million people affected by food shortages, electricity blackouts, and health clinic closures.",
+        "Drought causing water shortages, electricity scarcity, and disrupting schooling.",
+        "No coordinated plan exists to protect communities from worsening impacts."
+      ]
+    },
+    {
+      "summary": "Former Sydney childcare worker Ashley Paul Griffith faces 202 new abuse charges, including rape, related to 23 young victims.",
+      "significance": "The story highlights the ongoing legal action against a notorious pedophile, adding 202 more abuse charges, including rape, affecting 23 young victims.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/30/ashley-paul-griffith-queensland-paedophile-childcare-worker-additional-charges-ntwnfb",
+      "points": [
+        "Griffith accused of raping children as young as one at a Sydney childcare center.",
+        "Charges date from 2014 to 2017 and involve 23 alleged victims aged one to five.",
+        "Griffith, described as one of Australia\u2019s most notorious pedophiles, extradited from Queensland."
+      ]
+    },
+    {
+      "summary": "Binance investigates potential security issue, with crypto firms freezing over $3bn in funds.",
+      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "points": [
+        "Binance, world\u2019s largest crypto exchange, looks into a possible hack.",
+        "About $3bn in funds frozen by crypto firms by Thursday evening.",
+        "Binance founder indicates the incident \"does look like a hack on Binance."
+      ]
+    },
+    {
+      "summary": "Antisemitism envoy Jillian Segal proposes an external ombudsman to monitor ABC and SBS coverage of Israel and the Middle East.",
+      "url": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
+      "points": [
+        "Jillian Segal suggests all visa applicants be screened for antisemitic views.",
+        "Proposal includes greater oversight of Australia\u2019s public broadcasters.",
+        "Segal states the link between media coverage and antisemitism is a public concern."
+      ]
+    },
+    {
+      "summary": "Pico CSS, a minimal CSS framework, is no longer maintained and its repository has been archived.",
+      "significance": "Pico CSS's end marks a shift towards AI-generated, lightweight HTML, reducing the need for minimal CSS frameworks.",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "points": [
+        "Repository archived on Oct 4, 2026, now read-only.",
+        "AI advancements reduce need for minimal CSS frameworks like Pico.",
+        "Forks must use a different name to avoid confusion with the original."
+      ]
+    },
     {
       "summary": "Binance froze at least $2.54 billion in crypto funds due to a potential security issue.",
       "significance": "This story matters because it highlights a significant security concern in the crypto industry, affecting Binance users and potentially impacting trust in cryptocurrency exchanges.",
@@ -3684,62 +3741,6 @@
         "Use target=\"_blank\" instead of JavaScript popups for links.",
         "Infinite scrolling can break browser functionalities like bookmarks and the back button.",
         "Using a single TCP connection for downloads can improve performance over multiple connections."
-      ]
-    },
-    {
-      "summary": "A cluster of critical AI-accelerated vulnerability disclosures overwhelmed cybersecurity defenders over 48 hours in October 2026.",
-      "url": "https://latent.space/p/ainews-black-october/",
-      "points": [
-        "GitLab disclosed a CVSS 10 flaw affecting releases since 2014.",
-        "eMudhra's CA keys were found to be trivially weak, with one key reportedly the number 4.",
-        "Monthly CVEs reportedly rose from about 4,000 to about 15,000 since April."
-      ]
-    },
-    {
-      "summary": "Modal CEO Erik Bernhardsson discusses the company\u2019s serverless AI infrastructure and its growth since a $5B Series C funding round.",
-      "url": "https://latent.space/p/modal-d/",
-      "points": [
-        "Modal crossed a significant revenue milestone and spun up nearly three billion sandboxes since their $5B Series C.",
-        "Sandboxes, initially a modest product, now contribute roughly a third of Modal\u2019s revenue.",
-        "Modal\u2019s infrastructure includes a buffer of available GPUs, custom filesystem, and process checkpointing to ensure elasticity and responsiveness."
-      ]
-    },
-    {
-      "summary": "OpenAI\u2019s Patch the Planet program, alongside Wiz, discovered PHP2Shell vulnerabilities affecting 70% of web servers, using AI models for detection.",
-      "significance": "The discovery of PHP2Shell vulnerabilities by OpenAI\u2019s Patch the Planet program and Wiz affects 70% of the web, highlighting critical security issues in core PHP.",
-      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
-      "points": [
-        "Two vulnerabilities, CVE-2026-109618 and CVE-2026-109619, were found in PHP\u2019s core memory handling.",
-        "The coordinated response involved multiple parties over approximately two months before public disclosure.",
-        "Cloudflare deployed initial mitigations before the scheduled patch release, covering known exploit vectors."
-      ]
-    },
-    {
-      "summary": "A magnitude-7 earthquake struck Tibet, killing at least 16, injuring 54, and destroying hundreds of homes.",
-      "significance": "The earthquake highlights the vulnerability of Tibet's infrastructure and the immediate need for rescue and rebuilding efforts following significant loss of life and property.",
-      "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
-      "points": [
-        "At least 16 people killed and 54 injured in the quake.",
-        "339 homes and 20 livestock sheds collapsed in Nagqu city.",
-        "Officials report at least seven aftershocks following the earthquake."
-      ]
-    },
-    {
-      "summary": "Sandra Hüller, known for her self-possessed on-screen presence, discusses her role in several high-profile films, including a potential Marvel movie.",
-      "url": "https://www.theguardian.com/film/2026/oct/23/sandra-huller-new-film-fatherland",
-      "points": [
-        "Hüller stars in four confirmed films in 2026, possibly five.",
-        "Films include the high-grossing \"Project Hail Mary\" ($684m) and arthouse films \"Fatherland\" and \"Rose.\"",
-        "Hüller expresses emotional difficulty in discussing her success despite her controlled on-screen persona."
-      ]
-    },
-    {
-      "summary": "Call of Duty: Modern Warfare 4 offers an action-packed campaign with global settings and a complex plot involving a fictitious North Korean invasion.",
-      "url": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
-      "points": [
-        "Features missions in locations like Manhattan, Paris, and North Korea.",
-        "Campaign centers on a fictitious North Korean ruling family's invasion of South Korea.",
-        "Includes characters like John Price and a cameo by Mads Mikkelsen as The Archer."
       ]
     }
   ]
