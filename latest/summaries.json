@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-30T12:42:42.931608Z",
+  "generated": "2026-10-30T14:41:48.852922Z",
   "summaries": [
+    {
+      "summary": "Burbank residents, including Diego Linares, transform their homes into elaborate Halloween scenes, raising questions about the holiday's popularity.",
+      "significance": "The story highlights how Halloween has evolved into a competitive and costly spectacle in Burbank, potentially threatening the holiday's original spirit.",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/burbank-california-los-angeles-halloween-capital",
+      "points": [
+        "Diego Linares wears serial killer costumes like Michael Myers and Jason Voorhees.",
+        "Transformations include fake mist, monsters, and illuminated gravestones.",
+        "Residents spend months and thousands of dollars on these decorations."
+      ]
+    },
+    {
+      "summary": "North Korea's TraderTraitor hacking unit is accused of executing the largest crypto theft, valued at $6.3bn, from Binance.",
+      "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+      "points": [
+        "Major cryptocurrencies like Bitcoin and Ethereum fell in value post-theft.",
+        "Binance temporarily suspended withdrawals to revamp security."
+      ]
+    },
+    {
+      "summary": "Spanish Prime Minister Sánchez indicates people from 27 nationalities were affected in a deadly train crash in Spain.",
+      "significance": "The story highlights the international impact of the Spain train crash, affecting multiple nationalities, and points to potential systemic failures in rail command and control.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+      "points": [
+        "At least 69 people confirmed dead with 70 reported missing.",
+        "Sánchez attributes evidence to a failure in Adif\u2019s command and control center.",
+        "Prime Minister maintains confidence in the rail system despite the incident."
+      ]
+    },
+    {
+      "summary": "Altering copyright law for AI could breach Australian constitution and lead to massive compensation claims.",
+      "url": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
+      "points": [
+        "Anne Twomey warns AI copyright changes might amount to government property acquisition.",
+        "Coalition senators and recording industry fear potential constitutional breaches.",
+        "Attorney general\u2019s department acknowledges awareness of the constitutional concerns."
+      ]
+    },
+    {
+      "summary": "Former 60 Minutes correspondent Cecilia Vega expresses pain over the network's overhaul and ratings slump.",
+      "url": "https://www.theguardian.com/media/2026/oct/30/60-minutes-correspondent-cecilia-vega-cbs-news",
+      "points": [
+        "Vega fired from 60 Minutes as part of network overhaul this spring.",
+        "Vega alleges she was told to insert \"factually untrue\" information.",
+        "60 Minutes is experiencing a ratings slump."
+      ]
+    },
+    {
+      "summary": "US Democratic representatives introduced a resolution opposing a bailout for big tech companies in case of an AI bubble burst, prioritizing protection for American workers and retirees.",
+      "significance": "The story matters as it signals a political stance against bailing out big tech companies in case of an AI bubble burst, protecting taxpayers and prioritizing support for workers and retirees instead.",
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "points": [
+        "Reps. Greg Casar and Maxine Waters led the resolution, joined by 11 other representatives.",
+        "The resolution warns of a potential AI-related asset bubble and opposes bailing out corporations or executives.",
+        "It calls for federal support to protect workers, retirees, and low-income communities, not tech executives."
+      ]
+    },
     {
       "summary": "Gen Z voters gained attention in the 2024 election, showing significant shifts that could impact tight races.",
       "significance": "The story highlights that political parties overestimate the influence of content creators on Gen Z voters, despite close elections showing youth vote swings can decisively impact outcomes.",
@@ -3688,61 +3744,6 @@
         "Columnists argue protests stem from local grievances rather than foreign instigation.",
         "Russia and US far right are exploiting social media to fuel division and anger.",
         "France faces a debt crisis that will impact both RN and Mélenchon\u2019s economic plans."
-      ]
-    },
-    {
-      "summary": "Mississippi released bodycam footage showing a police officer fatally shooting a 1-year-old boy during a shoplifting call.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
-      "points": [
-        "Kohen Wiley was in a moving car when the shooting occurred.",
-        "The officer was cleared of criminal wrongdoing.",
-        "The boy\u2019s family claims the shooting was unjustified."
-      ]
-    },
-    {
-      "summary": "UK government plans unprecedented intervention in water bills to reduce costs and improve service.",
-      "significance": "The UK government's intervention aims to reduce water bills and improve service quality by directing companies to focus on customer value, reducing costs, and addressing infrastructure issues.",
-      "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
-      "points": [
-        "Angela Eagle, environment secretary, will intervene in the next price review.",
-        "Intervention aims to reduce costs and address leaks and sewage overflows.",
-        "Action targets water companies in England and Wales."
-      ]
-    },
-    {
-      "summary": "UK PM Andy Burnham reveals he stockpiles food like beans, soup, and Twiglets in case of emergencies.",
-      "url": "https://www.theguardian.com/society/2026/oct/23/andy-burnham-emergency-stockpile-twiglets",
-      "points": [
-        "Burnham's disclosure follows the launch of the government's \"Be Ready\" campaign.",
-        "Campaign advises households to store enough water and long-life food for emergencies.",
-        "Examples of emergencies include weather events or cyber-attacks."
-      ]
-    },
-    {
-      "summary": "Investor-owned utilities charge 23% more for electricity compared to public providers.",
-      "significance": "The story highlights that investor-owned utilities charge significantly more for electricity than public providers, affecting consumer costs nationwide.",
-      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-      "points": [
-        "61% of homes paid under 14 cents per kilowatt-hour.",
-        "Public power is more common in areas with cheaper electricity rates."
-      ]
-    },
-    {
-      "summary": "OpenSSL 4.1.0 release introduces significant new features and fixes.",
-      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
-      "points": [
-        "Adds functions to bridge gaps in C99 standard support.",
-        "Dropped post-handshake records from retransmission buffer upon DTLS 1.3 KeyUpdate.",
-        "Permanent receive failure on DTLS listener can now be reported."
-      ]
-    },
-    {
-      "summary": "Google is implementing a new rule requiring all Android app developers to register and verify their identity, affecting even personal and community apps.",
-      "url": "https://keepandroidopen.org/?",
-      "points": [
-        "Developers must register with Google by handing over government ID and signing a contract by 2027.",
-        "The rule affects all Android apps, including those shared privately or built by hobbyists.",
-        "F-Droid, a repository for open-source Android apps, warns this move could lead to increased censorship and control over app distribution."
       ]
     }
   ]
