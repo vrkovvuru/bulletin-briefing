@@ -1,6 +1,99 @@
 {
-  "generated": "2026-10-30T16:43:14.387285Z",
+  "generated": "2026-10-30T18:42:58.689765Z",
   "summaries": [
+    {
+      "summary": "Kim Jong Un visits a drone exhibition, calling for North Korea to achieve \"absolute superiority\" in drone technology.",
+      "significance": "North Korea aims to enhance military drone capabilities under Kim Jong Un's directive, signaling potential advancements in unmanned aircraft technology.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
+      "points": [
+        "Kim Jong Un urges measures to boost unmanned aircraft development in North Korea.",
+        "The visit highlights North Korea\u2019s latest military technology, focusing on drones.",
+        "The leader aims for North Korea to lead in drone capabilities."
+      ]
+    },
+    {
+      "summary": "North Korea's nuclear program is partly funded by sophisticated cryptocurrency hacking.",
+      "significance": "Crypto hacking significantly funds North Korea\u2019s nuclear program, generating about half of its foreign currency income.",
+      "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+      "points": [
+        "North Korea generates half of its foreign currency income through crypto theft.",
+        "The Lazarus Group, also known as TraderTraitor, is linked to a $6.3bn Binance hack.",
+        "North Korea operates outside the world\u2019s economic system, using hacking for funds."
+      ]
+    },
+    {
+      "summary": "Illegal gold mining in Johannesburg's outskirts continues unabated, harming local wildlife and land.",
+      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "points": [
+        "Cora Bailey has witnessed illegal mining near Roodepoort since 1991.",
+        "Increased gold prices have led to more activity in abandoned mine shafts.",
+        "Zama zamas, meaning \"to take a chance\" in Zulu, operate near a local animal welfare charity."
+      ]
+    },
+    {
+      "summary": "Scotland and Wales's first ministers assert local devolution decisions are for their parliaments, not Westminster.",
+      "url": "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham",
+      "points": [
+        "John Swinney and Rhun ap Iorwerth met with Andy Burnham in Glasgow.",
+        "Talks focused on employment and reindustrialisation powers.",
+        "Downing Street described the discussions as constructive."
+      ]
+    },
+    {
+      "summary": "Ohio prosecutors dropped charges against Eljay Crisp-Carr, arrested in connection with a festival shooting that wounded 12.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
+      "points": [
+        "Eljay Crisp-Carr, 20, faced over 50 felony charges including 25 counts of attempted murder.",
+        "Crisp-Carr spent about five months in jail before charges were dismissed.",
+        "The shooting occurred on June 6 at Toledo\u2019s Old West End festival."
+      ]
+    },
+    {
+      "summary": "Sudanese diaspora and human rights groups criticize UAE's nomination of Lana Nusseibeh for UN secretary general role.",
+      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "points": [
+        "Critics accuse UAE of fueling Sudan war by backing Rapid Support Forces.",
+        "Nusseibeh denies claims of UAE involvement in Sudan conflict.",
+        "António Guterres will complete his second five-year term this year."
+      ]
+    },
+    {
+      "summary": "BP reports $8.46bn quarterly profit, an 18-year high, amid rising oil prices due to Middle East tensions.",
+      "url": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+      "points": [
+        "BP's profit almost quadrupled from $2.2bn in the same period last year.",
+        "The $8.46bn profit is the highest since $8.9bn in 2008.",
+        "Climate campaigners criticize the profits as \"obscene\" given the ongoing Middle East conflict."
+      ]
+    },
+    {
+      "summary": "A developer successfully brought up classic Mac OS to the desktop on Nintendo Wii hardware for the first time since the CHRP clone era.",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "points": [
+        "Project started on 2025-06-22 with no AI assistance.",
+        "OpenBIOS was ported to support the Nintendo GameCube, Wii, and Wii U.",
+        "Challenges included fixing assumptions about physical address space and memory-mapped I/O."
+      ]
+    },
+    {
+      "summary": "GitHub experienced service degradation affecting Actions, Pages, and Webhooks, but all services have now recovered.",
+      "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+      "points": [
+        "All affected services have recovered, though full resolution of impact is pending.",
+        "Degradation affected Actions workflows, Pages deployments, and webhook events.",
+        "Ongoing investigation into the root cause of the incident."
+      ]
+    },
+    {
+      "summary": "npm rejected the package name \"estee\" due to its similarity to \"testem\", highlighting issues with their Levenshtein distance rule.",
+      "significance": "The story highlights the limitations and unintended consequences of npm's Levenshtein distance policy for package naming, affecting developers' ability to register unique package names.",
+      "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
+      "points": [
+        "npm uses a Levenshtein distance threshold of 2 to prevent typosquatting.",
+        "The rule would have also banned \"preact\" due to similarity to \"react\".",
+        "The author suggests manual overrides for such decisions."
+      ]
+    },
     {
       "summary": "Swiss Foreign Minister Ignazio Cassis visited North Korea to discuss normalizing political relations and reopened a diplomatic office.",
       "significance": "Swiss foreign minister's rare visit to North Korea signals a potential strengthening of diplomatic ties and direct dialogue between the two countries.",
@@ -3649,101 +3742,6 @@
         "Rodney Hinton, 40, faces 15 years to life in prison.",
         "Hinton's son, Ryan, was shot dead by Cincinnati police.",
         "Sentencing is tentatively set for November 16."
-      ]
-    },
-    {
-      "summary": "Dessa, a new full-duplex speech model, offers a more natural and emotional interaction compared to current voice AI technologies.",
-      "significance": "Dessa introduces a new category of AI models that can engage in realistic, emotion-rich conversations directly from human speech, advancing the field of deep learning.",
-      "url": "https://block.xyz/dessa",
-      "points": [
-        "Dessa is trained exclusively on human speech, not text, making it the first AI to have realistic live conversations.",
-        "The model can understand and express emotions, pauses, and nuances, unlike text-based AI models.",
-        "Dessa's development aims to enhance human-AI interaction safety and naturalness, addressing current voice AI limitations."
-      ]
-    },
-    {
-      "summary": "Indiana police officer Justin Craig arrested for misusing Flock cameras to search plates of his wife and her acquaintance.",
-      "significance": "This story highlights misuse of police resources for personal reasons, potentially eroding public trust in law enforcement.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
-      "points": [
-        "Justin Craig charged with official misconduct and two counts of fraud.",
-        "Craig searched his wife\u2019s license plate over 80 times.",
-        "He searched the plate of his wife\u2019s \u201cprevious acquaintance\u201d nearly 250 times."
-      ]
-    },
-    {
-      "summary": "Senator Susan Collins announces exemptions for Maine industries from Trump-era tariffs on Canada.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-      "points": [
-        "Exemptions apply to nine agricultural products like blueberries, potatoes, and apples.",
-        "Collins highlights reliance on Canadian equipment and materials unavailable in the U.S.",
-        "Announcements aim to aid re-election campaign amid Democratic threat to Senate control."
-      ]
-    },
-    {
-      "summary": "A functional programming language, Roc, achieved competitive performance with C in DEFLATE compression benchmarks, though it didn't outperform C's optimized libdeflate library.",
-      "significance": "The story demonstrates that functional programming languages like Roc can achieve performance close to optimized C libraries, highlighting the potential of such languages in high-performance computing tasks.",
-      "url": "https://rtfeldman.com/fp-vs-c",
-      "points": [
-        "Roc's implementation was on average 15% slower than libdeflate but showed up to 18% faster on best-case inputs.",
-        "The testing was done on a 2021 M1 MacBook Pro and an AMD Ryzen 9 3900X Ubuntu machine.",
-        "Roc provides stronger safety guarantees, including memory safety and pure function determinism, compared to C."
-      ]
-    },
-    {
-      "summary": "Kimi K3.1 Pro scores 55 on the Artificial Analysis Intelligence Index, placing it above average among comparable models.",
-      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-      "points": [
-        "Kimi K3.1 Pro generated 150M tokens, significantly more than the median of 87M.",
-        "The model costs $2.11 on average per task for the Intelligence Index evaluation.",
-        "Kimi K3.1 Pro processes text at 77 tokens per second, slower than the average of 81."
-      ]
-    },
-    {
-      "summary": "Meghan Markle explains she kept her father away from her children to protect them, citing disturbing allegations against him from 2018.",
-      "significance": "Meghan's statement aims to clarify her reasons for distancing from her father, seeking to protect her children from alleged disturbing behaviors.",
-      "url": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Meghan claims she was informed about disturbing allegations against her father in 2018.",
-        "Limited contact resumed after Meghan wrote to her father following his surgery in the Philippines.",
-        "The statement aims to protect her children, countering perceptions that she distanced herself for other reasons."
-      ]
-    },
-    {
-      "summary": "Governments worldwide, including the UK, advise citizens to stockpile supplies for potential crises.",
-      "url": "https://www.theguardian.com/society/2026/oct/23/tinned-mackerel-hand-crank-radios-and-bags-for-poo-crisis-prepping-guides-around-the-world",
-      "points": [
-        "UK recommends storing food for three days.",
-        "Advice stems from increased climate extremes and geopolitical tensions.",
-        "Once seen as extreme, such preparations are now common in government guidance."
-      ]
-    },
-    {
-      "summary": "Police in Manchester believe criminals are exploiting vulnerable individuals, including children, to damage suspected HMOs.",
-      "significance": "The story highlights exploitation of vulnerable individuals, including children, by criminals to target suspected HMOs, raising concerns over organized crime and discrimination.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
-      "points": [
-        "Dozens of properties targeted across Greater Manchester.",
-        "Attacks mostly concentrated in Salford, also in Stockport and Tameside.",
-        "Suspected targets are buildings housing immigrants or refugees."
-      ]
-    },
-    {
-      "summary": "Voters are aware of multiple issues influencing their decisions in the upcoming midterm elections despite efforts by Trump and his allies to divert attention.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/midterm-elections-trump-changes-subject",
-      "points": [
-        "Midterm elections are scheduled for next month.",
-        "Affordability, Iran, healthcare, taxes, and crime are issues voters consider.",
-        "Trump and his allies attempt to shift focus from key election issues."
-      ]
-    },
-    {
-      "summary": "Oil prices surged above $117 a barrel due to escalating tensions between the US and Iran.",
-      "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-      "points": [
-        "Brent crude rose by about 3.5%, reaching its highest since April.",
-        "Iran threatened retaliatory attacks on Gulf refineries and datacenters.",
-        "Market fears over potential renewed US strikes on Iran drove the price hike."
       ]
     }
   ]

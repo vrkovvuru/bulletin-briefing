@@ -11,30 +11,39 @@
       "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
-      "title": "What we know about Binance's $6.3bn hack",
-      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
-      "alsoReportedBy": ["BBC News", "The Guardian", "Al Jazeera"]
-    },
-    {
-      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+      "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.",
+      "summary": "Incident comes as Iran says three oil tankers were halted while attempting to use &#039;unauthorised routes&#039; to cross Hormuz.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.",
       "alsoReportedBy": []
     },
     {
@@ -47,21 +56,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Driver guilty of hitting cyclist and dragging him to death under car",
       "url": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
-      "url": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.",
       "alsoReportedBy": []
     },
     {
@@ -83,12 +92,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
+      "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
+      "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit that has also been known as the Lazarus Group. Though the link may not be proven yet, the pattern of behaviour is familiar. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,12 +110,57 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How do we make new economic ideas a reality? – Aditya Chakrabortty answered your questions",
-      "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Guardian columnist, senior economics commentator and host of the new Radical Thinking podcast Aditya Chakrabortty answered your questions on the big ideas around economics, society and democracy, and his new podcast thegreatfatsby asks : Do you think the fact that Gabriel Zucman, who is a recognised authority on wealth tax is given more respect, time and attention by the mainstream media than Gary Stevenson, who has worked eloquently and tirelessly to spread the debate about the terrible consequences of inequality and whose ideas and analysis are almost identical is because of our cultural fixation on class prejudice? Aditya says: I’ve followed Gabriel Zucman (and Emmanuel Saez and Thomas Piketty) for a long time, and find his work rigorous and thought provoking. I don’t always agree, but I appreciate their acceptance that taxes on wealth are part of the fight against ever-increasing inequality. I think Gary Stevenson is eloquent and compelling and is fighting a good fight. His book tells a story very well. But I don’t accept the insistence on a ‘wealth tax’ (as opposed to taxes on wealth) as being the only way we fight everything from inequality to the far right. We have to look at workers’ rights, housing, public ownership, greater democracy in economics and politics as well. In the age of algorithm, simple, strong messages cut through. But the truth is often more complex. Aditya says: What a nice question, Marija. I try to read a lot and write a diary. Unfortunately, I have the handwriting of a GP so I can’t read old entries. The other thing is I try to shirk my mobile phone. Continue reading...",
+      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare). Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Local devolution decisions rest solely with Scotland and Wales, first ministers tell Burnham",
+      "url": "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "John Swinney and Rhun ap Iorwerth say devolving power further is up to Holyrood and Senedd – not Westminster Scotland and Wales’s first ministers have told Andy Burnham that decisions on local devolution rest solely with their parliaments, in response to the prime minister’s push to extend English-style regional powers across the UK. After talks in Glasgow with John Swinney and Rhun ap Iorwerth about localised employment and reindustrialisation powers, Downing Street characterised the talks as constructive. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Charges dropped against man arrested in mass shooting at Ohio festival that wounded 12",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Eljay Crisp-Carr, 20, spent five months behind bars before prosecutors asked to dismiss charges Ohio prosecutors on Friday dropped charges against a man arrested in connection with the 6 June shooting at Toledo’s Old West End festival that injured 12 people. Eljay Crisp-Carr, 20, had faced more than 50 felony charges stemming from the shooting, including 25 counts of attempted murder. He was released after spending about five months behind bars. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces. The UAE nominated Lana Nusseibeh last week to replace the UN secretary general, António Guterres, as he finishes his second five-year term ⁠this year, upending a race that had become gridlocked. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -119,66 +173,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Six dead after helicopter crashes in northern Indian state",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "FDA again bypasses advisers to remove black-box warnings from menopause treatments",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/fda-remove-warnings-menopause-treatments",
+      "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
+      "url": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Some experts express concern about ‘lack of transparency’ as agency removes warnings on three estrogen patches Three more patches for treating menopause will no longer carry black-box warnings about cardiovascular disease, breast cancer and dementia, officials at the US Food and Drug Administration (FDA) said on Friday. The FDA did not convene an advisory committee and offered few details on the scientific basis for the decision in the press briefing. The news follows the removal of black-box warnings from six menopause treatments in February, as patients across the US struggle with shortages of the patches. Continue reading...",
+      "summary": "Oil giant comes under fire from climate campaigners, as its earnings reach $8.46bn while ‘innocent civilians suffer’ BP’s quarterly profits have been labelled “obscene” after they hit an 18-year high of $8.46bn (£6.3bn), as the war in the Middle East drove up oil and gas prices. The energy company hailed a “banner quarter” on Friday, with its underlying ​replacement ⁠cost profit – a key measure of its income – almost quadrupling in the three months to the end of September, from $2.2bn in the same period ​a year ​ago. The jump meant BP’s quarterly profits hit their highest level since the $8.9bn recorded in 2008 . Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Pope Leo votes in US midterms in first known political ballot for any pontiff",
-      "url": "https://www.theguardian.com/world/2026/oct/30/pope-leo-votes-us-midterms-first-political-ballot-pontiff",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "US citizen Leo, who has clashed with Donald Trump over several issues, submits his vote by post in Chicago Pope Leo has voted in the US midterm elections – the first time a sitting pontiff is known to have cast a ballot in any political election at any time in history. Leo, who has clashed with the US president, Donald Trump, over several issues, submitted his vote by post in Chicago, where he was born, the Vatican said on Friday. Leo became the first American leader of the Catholic church last year after the death of Pope Francis. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A working-class Alaskan Native takes on a ‘multimillionaire’ Republican for seat in Congress",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/bill-hill-alaska-congressional-race",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Independent candidate Bill Hill is threatening to unseat Trump ally Nick Begich with a message of affordability As Republicans fight to maintain their narrow majority in Congress , they face a unique challenge in Alaska – not from a Democrat, but from an independent commercial fisher and first-time candidate running to flip the state’s lone House seat. Bill Hill, who is an Alaska Native and has worked in education and construction, has positioned himself as a working-class candidate who will fight to make life more affordable for people like himself and his family. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Son in custody after Oberlin professor dad and stepmother shot dead in Ohio",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/oberlin-college-professor-shooting",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Daniel Jones held on $3m bail after studio art chair Pipo Nguyen-Duy and Tran Thi Phong found dead at home Oberlin College was shaken on Friday after an award-winning professor of photography who had worked at the Ohio liberal arts college for nearly 30 years was found shot and killed on Wednesday, officials said. Pipo Nguyen-Duy, 64, and his wife, Tran Thi Phong, 56, were found shot to death in their home. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump reverses decision to cancel Kansas and Iowa rallies before midterms",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/trump-midterm-rallies-kansas-iowa",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The president cancelled the events in favor of tele-rallies, as Republicans face a fight to retain control of Congress Donald Trump cancelled, and then promptly uncancelled, two in-person rallies in Kansas and Iowa this weekend as polls suggest US midterm election races in the previous Republican strongholds could go down to the wire. On Thursday, just five days before election day, the Republican National Committee (RNC) announced the president would no longer host the Kansas and Iowa rallies and instead participate in “a large number of tele-rallies”. The RNC claimed it felt it was in a “strong position” in Kansas and Iowa. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -188,15 +197,6 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "AI is rendering the Leetcode-style interview pointless and now Anthropic has deleted it from its interview loop. Also: details of incident.io&#8217;s AI spend, Microsoft&#8217;s exit offer to engineers, and more",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -227,18 +227,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How curl was accidentally Turing-complete for nine months",
-      "url": "https://seriot.ch/computation/curl.html",
-      "source": "Lobsters",
+      "title": "GitHub Incident with Actions, Pages, and Webhooks",
+      "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "source": "Hacker News",
+      "title": "No, npm, “estee” is not a typo of “testem”",
+      "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-      "source": "Hacker News",
+      "title": "How curl was accidentally Turing-complete for nine months",
+      "url": "https://seriot.ch/computation/curl.html",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
