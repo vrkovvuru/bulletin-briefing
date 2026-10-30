@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-29T22:42:07.660011Z",
+  "generated": "2026-10-30T00:43:16.567071Z",
   "summaries": [
+    {
+      "summary": "Binance froze at least $2.54 billion in crypto funds due to a potential security issue.",
+      "significance": "This story matters because it highlights a significant security concern in the crypto industry, affecting Binance users and potentially impacting trust in cryptocurrency exchanges.",
+      "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
+      "points": [
+        "Binance, the world\u2019s largest crypto exchange, is investigating a potential security breach.",
+        "Changpeng Zhao, Binance\u2019s founder, suggested the exchange may have been targeted in a cyber heist.",
+        "Binance assured users that their funds are safe and urged caution against scams."
+      ]
+    },
+    {
+      "summary": "In The Traitors, James A makes a bombshell confession after being accused by Michael, revealing a major twist in the series.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "King Kenny uses his double vote power to banish faithfuls Sharon Rooney and Joanne McNally.",
+        "Michael Sheen vows to make life difficult for the traitors, calling it \"apocalypse\" for them."
+      ]
+    },
+    {
+      "summary": "Polymarket halted trading on its international platform for about an hour due to a security incident.",
+      "significance": "The suspension highlights vulnerabilities in using third-party tools and the impact on trading platforms during security incidents.",
+      "url": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
+      "points": [
+        "Security incident involved a third-party performance-monitoring tool.",
+        "Trading resumed on Thursday afternoon after the halt.",
+        "Company promises full reimbursement to any affected traders."
+      ]
+    },
+    {
+      "summary": "Over half of Victorian lawyers use AI, but fee reductions are limited.",
+      "url": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
+      "points": [
+        "55% of lawyers now use AI, up from 37% last year.",
+        "Only 27% have cut client fees due to AI efficiency.",
+        "Lawyers report increased workload from correcting AI errors."
+      ]
+    },
+    {
+      "summary": "A tiny world model generates and plays games on a Raspberry Pi Pico 2 W using two neural networks.",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "points": [
+        "The model runs on a Raspberry Pi Pico 2 W, utilizing core 1 for game generation and playing.",
+        "Games tested include a raycast first-person view of an 8×8 maze and a 23×21 maze with two ghosts.",
+        "The system uses a looped transformer with weights reused to save memory, running 1 to 4 loops for accuracy."
+      ]
+    },
+    {
+      "summary": "OpenAI introduces API credits benefit for eligible ChatGPT subscribers, mirroring a recent Anthropic offer.",
+      "significance": "The story matters as it highlights a competitive move in the AI subscription market, offering tangible benefits to users of OpenAI's ChatGPT subscriptions similar to Anthropic's recent offer.",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "points": [
+        "OpenAI offers $100, $200, and $500 monthly credits for respective subscription tiers.",
+        "Anthropic introduced a similar benefit earlier this month.",
+        "Credits can be applied to one of the user's API organizations."
+      ]
+    },
     {
       "summary": "DHS requests Icelandic hosting company to remove data on over 40,000 personnel due to security risks.",
       "significance": "DHS action highlights risk to over 40,000 personnel from leaked data, urging Icelandic hosting company to remove sensitive information.",
@@ -3684,61 +3740,6 @@
         "Features missions in locations like Manhattan, Paris, and North Korea.",
         "Campaign centers on a fictitious North Korean ruling family's invasion of South Korea.",
         "Includes characters like John Price and a cameo by Mads Mikkelsen as The Archer."
-      ]
-    },
-    {
-      "summary": "US tech stocks fell sharply due to investor concerns over the sustainability of AI investments.",
-      "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
-      "points": [
-        "Nasdaq Composite dropped 2.6%, its steepest fall since June 5.",
-        "Meta's projected capital spending for this year was raised to $135bn to $145bn.",
-        "Brent crude futures rose 4%, reaching above $114.20 a barrel."
-      ]
-    },
-    {
-      "summary": "Scientists warn that heat killed a record 50,000 people in European cities this summer, with climate change blamed for most deaths.",
-      "significance": "The story highlights the deadly impact of climate change on urban populations in Europe, linking record heat deaths to climate breakdown.",
-      "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
-      "points": [
-        "Heat caused 32,000 additional deaths in urban areas due to climate change.",
-        "Highest death rates were in Malta, Italy, and Hungary.",
-        "Warm nights prevented recovery for vulnerable individuals."
-      ]
-    },
-    {
-      "summary": "UK consumer confidence dropped sharply in October, hitting levels not seen since the Brexit vote, due to rising living costs and Middle East conflict impacts.",
-      "url": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
-      "points": [
-        "Confidence fell by 11 percentage points in October to -24, the steepest drop since the Brexit vote.",
-        "Economic damage from the Middle East conflict is exacerbating pressure on UK consumers.",
-        "Chancellor John Healey faces this data ahead of his first budget presentation."
-      ]
-    },
-    {
-      "summary": "Freedland and Donegan discuss potential outcomes of the upcoming US election and broader political trends in a podcast.",
-      "url": "https://www.theguardian.com/politics/audio/2026/oct/23/us-midterm-elections-donald-trump-your-questions-answered-podcast",
-      "points": [
-        "Podcast explores if Trump will accept defeat in case of a Democratic win.",
-        "Discusses whether young voters have permanently shifted away from centrist politics.",
-        "Questions if the US can restore its global image post-election."
-      ]
-    },
-    {
-      "summary": "Nationals leader Matt Canavan considers moving to the House of Representatives as a pollster predicts a One Nation wipeout.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/nationals-leader-matt-canavan-lower-house-capricornia-one-nation-ntwnfb",
-      "points": [
-        "Michelle Landry, a Nationals MP, will not recontest her Queensland seat of Capricornia.",
-        "Pollster gives Matt Canavan a \"zero per cent\" chance of holding his Senate seat.",
-        "Canavan's potential move follows Landry's announcement of her retirement from politics."
-      ]
-    },
-    {
-      "summary": "Mother of an alleged victim continued to communicate with Alan Jones post-assault, citing dependency on his advice.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/alan-jones-trial-mother-of-alleged-victim-ntwnfb",
-      "points": [
-        "Jones, 85, faces 21 charges of indecent assault and sexual touching.",
-        "The alleged assault occurred at Jones\u2019s Fitzroy Falls farm.",
-        "Mother sought advice from Jones due to her lack of self-trust and reliance on his opinions."
       ]
     }
   ]
