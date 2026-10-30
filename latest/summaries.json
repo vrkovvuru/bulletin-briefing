@@ -1,6 +1,80 @@
 {
-  "generated": "2026-10-30T04:42:02.949826Z",
+  "generated": "2026-10-30T12:42:42.931608Z",
   "summaries": [
+    {
+      "summary": "Gen Z voters gained attention in the 2024 election, showing significant shifts that could impact tight races.",
+      "significance": "The story highlights that political parties overestimate the influence of content creators on Gen Z voters, despite close elections showing youth vote swings can decisively impact outcomes.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/gen-z-politics-content-creators",
+      "points": [
+        "In Michigan, Trump and Harris evenly split the youth vote, a 24-point drop for Democrats since 2020.",
+        "Young voters, comprising 15% of Michigan\u2019s electorate, could swing the vote by 3.6 points.",
+        "Both US parties are focusing on influencer operations to win over young voters despite lacking evidence of effectiveness."
+      ]
+    },
+    {
+      "summary": "Severe weather warnings for heavy rain and flooding issued for central Greece and western Turkey, following a tornado in Antalya that killed four.",
+      "significance": "Severe weather warnings affect central Greece and western Turkey, following deadly tornado and thunderstorms, impacting travel and local safety.",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+      "points": [
+        "Four construction workers died in Antalya, Turkey, due to a tornado during a thunderstorm.",
+        "Up to 150mm of rain expected in central Greece and western Turkey this week.",
+        "Cyclone Arnab caused evacuations of over 180,000 people in India's Odisha and Andhra Pradesh."
+      ]
+    },
+    {
+      "summary": "US Justice Department issues subpoenas in Alaska Senate race over alleged ballot stacking against incumbent Dan Sullivan.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/first-thing-alaska-senate-race-doj-subpoenas-lawsuit-second-dan-sullivan",
+      "points": [
+        "DoJ and US president filed a lawsuit to block certification of Senate election results if incumbent loses.",
+        "Report claims Mary Peltola\u2019s campaign sought a challenger with the same name as Republican senator Dan Sullivan.",
+        "Trump administration investigates claims of thousands of noncitizens registered to vote in California."
+      ]
+    },
+    {
+      "summary": "Congressional Democrats demand answers about the treatment of hunger strikers at a Texas immigration detention facility.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/congressional-democrats-letter-ice-dhs-hunger-strikers",
+      "points": [
+        "Seven Democrats sent a letter to DHS Secretary Markwayne Mullin and ICE Acting Director David Venturella.",
+        "Detained immigrants claim they face threats of force-feeding during a prolonged hunger strike.",
+        "The protest is against harsh conditions at the Texas detention facility."
+      ]
+    },
+    {
+      "summary": "A bug in curl versions 8.12 to 8.16 made the software Turing-complete by allowing unbounded config file inclusion and slicing.",
+      "significance": "The story matters because it reveals an unintended feature in curl that made it Turing-complete, highlighting potential security and resource management risks.",
+      "url": "https://seriot.ch/computation/curl.html",
+      "points": [
+        "Curl 8.17.0 fixed the issue by limiting config file inclusion to five levels.",
+        "The bug allowed simulation of any two-counter Minsky program through config files.",
+        "An 8 MB stack allowed for 922 steps before a segfault in a minimal countdown loop."
+      ]
+    },
+    {
+      "summary": "Security researcher details five vulnerabilities in Azure's API Connections that allow full cross-tenant compromises, leading to significant financial rewards.",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "points": [
+        "Vulnerabilities allowed full access to connected backend services, including Key Vaults and Azure SQL databases.",
+        "Researcher earned $200,000 for identifying and reporting the vulnerabilities."
+      ]
+    },
+    {
+      "summary": "A web archiving professional laments the loss of a beloved fansite and encourages readers to back up their favorite webpages.",
+      "url": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "points": [
+        "teapuppies.com, a fansite for an anime series, disappeared and its domain now hosts gambling ads.",
+        "The author advocates using tools like ArchiveWeb.page for Chrome to archive webpages easily.",
+        "Browsertrix, a more advanced web crawler, can be used for comprehensive archiving of larger websites."
+      ]
+    },
+    {
+      "summary": "Exploration of AT Protocol reveals that user data, including private feeds and messages, is publicly accessible and easily searchable.",
+      "url": "https://melaniekat.com/blog/public-on-pds/",
+      "points": [
+        "Over 1,300 RSS feeds were found publicly available on Skyreader without authentication.",
+        "Users' private Club MacStories and paywalled 404 Media feeds were accessible.",
+        "Discord clones and a Twitch-like platform store messages openly, allowing public searches."
+      ]
+    },
     {
       "summary": "Flash floods in Syria's northern and eastern regions have killed five people, including four children.",
       "significance": "Flash floods highlight ongoing threat of heavy rains in Syria, affecting displaced populations and causing significant loss of life and infrastructure damage.",
@@ -3669,79 +3743,6 @@
         "Developers must register with Google by handing over government ID and signing a contract by 2027.",
         "The rule affects all Android apps, including those shared privately or built by hobbyists.",
         "F-Droid, a repository for open-source Android apps, warns this move could lead to increased censorship and control over app distribution."
-      ]
-    },
-    {
-      "summary": "Shitter is a privacy-focused, open-source alternative front-end for Twitter, forked from Nitter.",
-      "url": "https://codeberg.org/shitter/shitter",
-      "points": [
-        "Prevents Twitter from tracking IP and JavaScript fingerprint",
-        "Uses Twitter's unofficial API without needing a developer account",
-        "Nitter is on average 15 times lighter and faster than Twitter"
-      ]
-    },
-    {
-      "summary": "Trump is portrayed as willing to sacrifice Ukraine's interests to gain Russia\u2019s approval.",
-      "significance": "The story highlights how Trump's alignment with Putin may compromise Ukraine's sovereignty, drawing a parallel to historical appeasement policies.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/trump-putin-ukraine",
-      "points": [
-        "Trump aims to present himself as a peacemaker by appeasing Putin.",
-        "Contrast drawn with Neville Chamberlain\u2019s Munich agreement with Hitler.",
-        "Blumenthal criticizes potential profit motives behind Trump\u2019s foreign policy moves."
-      ]
-    },
-    {
-      "summary": "Indigenous groups in Brazil's Amazon fear the popularity of far-right candidate Bolsonaro among local voters.",
-      "url": "https://www.theguardian.com/world/2026/oct/23/brazil-indigenous-groups-fear-bolsonaro-voters-amazon-towns",
-      "points": [
-        "Bolsonaro's support stems from belief that increased mining can boost local economies.",
-        "Rosimari Monteiro, a 38-year-old voter, was eager to cast her vote for Bolsonaro.",
-        "Monteiro voted at dawn, being the first at her polling station, in the Amazon town of Mucajaí."
-      ]
-    },
-    {
-      "summary": "Andy Burnham warns of increased flooding this winter, while DUP minister expresses confidence in retaining MP Carla Lockhart despite internal party conflict.",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-      "points": [
-        "Andy Burnham predicts a 'winter of greater flooding'.",
-        "DUP minister confident Carla Lockhart will remain in the party.",
-        "Lockhart left DUP's decision-making body due to disagreement with leader Gavin Robinson."
-      ]
-    },
-    {
-      "summary": "Trump will campaign in Florida for Republican gubernatorial candidate Byron Donalds after supporting Ramaswamy.",
-      "significance": "Trump's rally follows his support for Ramaswamy and affects the gubernatorial race in Florida.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-      "points": [
-        "Trump has five days of campaign rallies this week.",
-        "Trump's Florida rally is set for 2pm ET in Fort Myers.",
-        "Byron Donalds, Trump's Florida endorsee, faces Democrat David Jolly."
-      ]
-    },
-    {
-      "summary": "Top border official defends $46bn Big Bend wall project despite opposition and court pause.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-border-official-big-bend-border-wall",
-      "points": [
-        "CBP commissioner Rodney Scott calls border fortification \"non-negotiable\".",
-        "Project faces opposition from landowners, businesses, and environmentalists.",
-        "Court has ordered a pause on the wall's construction."
-      ]
-    },
-    {
-      "summary": "Storm Austen hit south-west England, leaving thousands without power and affecting schools.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
-      "points": [
-        "Over 16,000 homes in the south-west lost power.",
-        "Storm Austen recorded a 76mph gust at St Mary\u2019s airport.",
-        "Dozens of Cornwall schools closed due to severe conditions."
-      ]
-    },
-    {
-      "summary": "Burnham's Labour government focuses on small, everyday fixes to demonstrate tangible improvements to voters.",
-      "url": "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
-      "points": [
-        "Labour prioritizes minor improvements like pothole repairs and bus fare adjustments.",
-        "Inspired by a political satire, the strategy seeks universally popular, instantly applicable policies."
       ]
     }
   ]
