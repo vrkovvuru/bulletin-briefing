@@ -1,6 +1,117 @@
 {
-  "generated": "2026-10-30T14:41:48.852922Z",
+  "generated": "2026-10-30T16:43:14.387285Z",
   "summaries": [
+    {
+      "summary": "Swiss Foreign Minister Ignazio Cassis visited North Korea to discuss normalizing political relations and reopened a diplomatic office.",
+      "significance": "Swiss foreign minister's rare visit to North Korea signals a potential strengthening of diplomatic ties and direct dialogue between the two countries.",
+      "url": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
+      "points": [
+        "Cassis met with North Korean Foreign Minister Choe Son Hui and Jo Yong Won during his two-day visit.",
+        "The Swiss diplomatic office in North Korea, operational since October 19, reports to the Swiss embassy in Beijing.",
+        "This is the first visit by a Swiss government minister to North Korea in over two decades."
+      ]
+    },
+    {
+      "summary": "An author shares how her graphic novel on death, inspired by her daughter, became a tool for discussing mortality and preserving family stories.",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/30/death-grief-loss-book",
+      "points": [
+        "The author wrote the graphic novel after her daughter, Hallie, asked for advice on life.",
+        "Hallie painted the gouache illustrations for the book over a year.",
+        "Readers have used the book to start conversations about death with family members."
+      ]
+    },
+    {
+      "summary": "Israel's election results are ambiguous, showing Netanyahu's defeat but offering him a chance to remain in power.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/israel-election-national-populists-benjamin-netanyahu-arab-parties",
+      "points": [
+        "Netanyahu's ruling coalition lost 15 seats, shrinking from 68 to 53 out of 120.",
+        "Despite the loss, Netanyahu has a strong chance of continuing as prime minister.",
+        "Opposition needs to ally with Arab parties to effectively challenge Netanyahu."
+      ]
+    },
+    {
+      "summary": "Aditya Chakrabortty discusses economic ideas and media attention in a Q&A session.",
+      "significance": "The article discusses the media's differential treatment of economic thinkers and emphasizes a broader approach to fighting inequality beyond wealth taxes.",
+      "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
+      "points": [
+        "Aditya Chakrabortty praises Gabriel Zucman's work on wealth tax as rigorous and thought-provoking.",
+        "Chakrabortty acknowledges Gary Stevenson's compelling work but argues against focusing solely on wealth tax.",
+        "Chakrabortty mentions his own habits of reading widely and avoiding mobile phones to stay informed."
+      ]
+    },
+    {
+      "summary": "FDA removed black-box warnings from three more menopause estrogen patches without consulting advisory committees.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/fda-remove-warnings-menopause-treatments",
+      "points": [
+        "FDA decision affects three estrogen patches, removing warnings on cardiovascular disease, breast cancer, and dementia.",
+        "Agency did not convene an advisory committee for the decision, raising concerns about transparency.",
+        "This move follows the removal of similar warnings from six menopause treatments in February."
+      ]
+    },
+    {
+      "summary": "Pope Leo cast a vote in US midterms, marking the first time a pontiff has participated in a political election.",
+      "url": "https://www.theguardian.com/world/2026/oct/30/pope-leo-votes-us-midterms-first-political-ballot-pontiff",
+      "points": [
+        "Pope Leo, an American citizen, voted by mail in Chicago.",
+        "This is the first known instance of a pontiff voting in any political election.",
+        "Pope Leo has previously had disagreements with former US President Donald Trump."
+      ]
+    },
+    {
+      "summary": "Independent Bill Hill, a working-class Alaska Native, challenges Republican Nick Begich for a House seat.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/bill-hill-alaska-congressional-race",
+      "points": [
+        "Bill Hill is a commercial fisher and first-time candidate.",
+        "Nick Begich is a Trump ally running for re-election.",
+        "Hill positions himself as a candidate fighting for affordability."
+      ]
+    },
+    {
+      "summary": "Oberlin College professor Pipo Nguyen-Duy and his wife were found shot dead; their son is in custody.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/oberlin-college-professor-shooting",
+      "points": [
+        "Son held on $3 million bail.",
+        "Victims: Pipo Nguyen-Duy, 64, and Tran Thi Phong, 56.",
+        "Nguyen-Duy had worked at Oberlin College for nearly 30 years."
+      ]
+    },
+    {
+      "summary": "Trump first cancelled but then reinstated in-person rallies in Kansas and Iowa ahead of midterms.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/trump-midterm-rallies-kansas-iowa",
+      "points": [
+        "Trump initially cancelled Kansas and Iowa rallies, switching to tele-rallies.",
+        "Decision came just five days before the US midterm election day.",
+        "RNC claimed to be in a \"strong position\" in Kansas and Iowa."
+      ]
+    },
+    {
+      "summary": "AI's increasing role in incident response may be making SREs less capable of handling critical issues.",
+      "significance": "AI handling routine tasks in incident response may deskill SREs for handling critical, complex issues, echoing historical automation impacts on worker capabilities.",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "points": [
+        "Lisanne Bainbridge's 1983 paper found automation made human operators worse at handling rare crises.",
+        "SREs now only deal with novel, complex issues, potentially losing skills from lack of practice.",
+        "Studies show reliance on AI can degrade human skills, like endoscopists seeing their detection rates drop."
+      ]
+    },
+    {
+      "summary": "Northflank security breach prompts immediate action on environment variables and keys.",
+      "url": "https://status.northflank.com",
+      "points": [
+        "Secret rotation enabled for Postgres and MongoDB users.",
+        "Users advised to disable public exposure on addons.",
+        "Multiple users report unauthorized use of AI keys."
+      ]
+    },
+    {
+      "summary": "A backdoor was found in the official Claude Code for VS Code extension on the Cursor Marketplace, affecting macOS, Linux, and Windows.",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "points": [
+        "Phorion detected the backdoor, which installs a persistent SSH backdoor.",
+        "The backdoor attempts to enable SSH but fails on macOS due to lack of root privileges.",
+        "Cursor Marketplace has removed the compromised extension bundle."
+      ]
+    },
     {
       "summary": "Burbank residents, including Diego Linares, transform their homes into elaborate Halloween scenes, raising questions about the holiday's popularity.",
       "significance": "The story highlights how Halloween has evolved into a competitive and costly spectacle in Burbank, potentially threatening the holiday's original spirit.",
@@ -3633,117 +3744,6 @@
         "Brent crude rose by about 3.5%, reaching its highest since April.",
         "Iran threatened retaliatory attacks on Gulf refineries and datacenters.",
         "Market fears over potential renewed US strikes on Iran drove the price hike."
-      ]
-    },
-    {
-      "summary": "Mississippi police officer who shot and killed a one-year-old Black toddler during a Walmart incident has resigned.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
-      "points": [
-        "Officer Hunter Foster resigned immediately after the Senatobia board of aldermen accepted it on 21 October.",
-        "Mississippi's attorney general, Lynn Fitch, deemed the shooting \"justified\" earlier in the week.",
-        "Body-camera and surveillance footage was released showing the toddler dying in his mother's arms after being shot."
-      ]
-    },
-    {
-      "summary": "Kimi K3.1 Pro and K3.1 Pro Highspeed are new models with enhanced capabilities in coding, 3D creation, and financial research.",
-      "significance": "Kimi K3.1 Pro and K3.1 Pro Highspeed introduce significant advancements in coding, 3D creation, and financial research capabilities, outperforming competitors in key benchmarks.",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "points": [
-        "K3.1 Pro scores 65.7% on coding benchmarks, outperforming GPT-6 Astra and nearly matching Claude Opus 5.5.",
-        "K3.1 Pro Highspeed offers 2-3× faster interactions compared to K3.1 Pro.",
-        "K3.1 Pro reduces factual error rates significantly, from 23.4% to 8.3% on internal benchmarks."
-      ]
-    },
-    {
-      "summary": "A developer implements a satirical random number generator inspired by xkcd in the Zig programming language.",
-      "url": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
-      "points": [
-        "The generator always returns the number 4.",
-        "The implementation involves modifying the Zig compiler's source code.",
-        "Building the modified Zig compiler took about a minute on a laptop."
-      ]
-    },
-    {
-      "summary": "Russia and Ukraine agreed to a local ceasefire in Oleshky to address a severe humanitarian crisis.",
-      "significance": "The ceasefire in Oleshky allows for humanitarian aid deliveries and civilian evacuations, addressing the severe shortages civilians face.",
-      "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
-      "points": [
-        "Ceasefire in Oleshky from 29 October to allow aid deliveries and civilian evacuations.",
-        "Thousands of civilians in Oleshky face severe shortages of food, water, and electricity.",
-        "The agreement was announced by the White House on Friday."
-      ]
-    },
-    {
-      "summary": "Prince William made a surprise appearance on the Graham Norton Show to promote his Earthshot prize.",
-      "significance": "Prince William's surprise appearance on The Graham Norton show promotes his environmental initiative, the Earthshot prize, to a wide audience.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/prince-william-graham-norton-show",
-      "points": [
-        "Cate Blanchett and Hannah Waddingham joined William on the show.",
-        "Earthshot prize's annual awards ceremony is set for next month in Mumbai, India."
-      ]
-    },
-    {
-      "summary": "US Supreme Court allows New Hampshire to ban student IDs as voter identification for midterms.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
-      "points": [
-        "Supreme Court sided with Republicans to reject student IDs for voting in New Hampshire.",
-        "Decision cites rule against altering election rules close to election day.",
-        "Voting rights advocates argue the directive will disenfranchise young and low-income voters."
-      ]
-    },
-    {
-      "summary": "Lewis Hamilton plans to extend his Formula One career into the early 2030s to participate in the African Grand Prix in Rwanda.",
-      "url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-      "points": [
-        "Hamilton aims to race in Africa despite Rwanda's human rights criticism.",
-        "Rwanda to host the African Grand Prix in the early 2030s on a new circuit.",
-        "Last F1 race in Africa was in South Africa in 1993."
-      ]
-    },
-    {
-      "summary": "Researchers announced they hacked the iPhone and demonstrated their findings at Hexacon in Paris.",
-      "url": "https://blog.calif.io/p/iphone",
-      "points": [
-        "Demonstrations were revealed at Hexacon in Paris.",
-        "Focus on iMessage highlighted over third-party apps.",
-        "Release of details pending."
-      ]
-    },
-    {
-      "summary": "eMudhra faced a private key compromise of 8 intermediate certificates, leading to distrust and revocation by major tech companies.",
-      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
-      "points": [
-        "8 eMudhra Intermediate certificates had their private keys compromised.",
-        "Mozilla independently recovered the keys, confirming a flawed key generation process.",
-        "6 TLS certificates and 2 codesigning certificates were affected, with 6 revoked by eMudhra."
-      ]
-    },
-    {
-      "summary": "Most software performance issues stem from poor design rather than the use of slower programming languages.",
-      "url": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
-      "points": [
-        "Software performance is typically constrained by I/O operations, not the language speed.",
-        "Rewriting a Python program in C can only improve performance by up to 1.5x due to I/O bottlenecks.",
-        "Significant speedups usually come from redesigning software to reduce workload, not from language changes."
-      ]
-    },
-    {
-      "summary": "Netanyahu orders large-scale military operation in West Bank following the deaths of two Israeli soldiers and two Palestinians.",
-      "significance": "Netanyahu's order for a large-scale operation in the West Bank escalates tensions before upcoming elections.",
-      "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-      "points": [
-        "Netanyahu orders military to conduct house-to-house searches and demolish homes.",
-        "Incident occurred near Hebron after Israeli military claimed to thwart a \"terror attack.\"",
-        "Operation is described as the largest in the West Bank in decades."
-      ]
-    },
-    {
-      "summary": "Europe columnists discuss the causes and implications of recent protests in France.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-      "points": [
-        "Columnists argue protests stem from local grievances rather than foreign instigation.",
-        "Russia and US far right are exploiting social media to fuel division and anger.",
-        "France faces a debt crisis that will impact both RN and Mélenchon\u2019s economic plans."
       ]
     }
   ]
