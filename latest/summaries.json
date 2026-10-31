@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-31T16:42:04.359927Z",
+  "generated": "2026-10-31T18:41:32.369273Z",
   "summaries": [
+    {
+      "summary": "Clashes occurred in French cities after large-scale protests over living costs and public services, with some demonstrations turning violent.",
+      "significance": "Clashes highlight ongoing public discontent in France over living costs and services, despite a decline in protest numbers.",
+      "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+      "points": [
+        "Police used teargas in Germany to disperse crowds as evening fell.",
+        "About 320,000 people participated in French protests, down from 410,000 the previous weekend.",
+        "In Paris, 70,000 protesters marched on outskirts, avoiding the city center."
+      ]
+    },
+    {
+      "summary": "French interior minister warns protesters against using Halloween masks, as demonstrations occur in multiple cities.",
+      "significance": "The story highlights the intersection of protest activities and the use of Halloween masks, leading to legal warnings in France.",
+      "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+      "points": [
+        "Laurent Nuñez warns protesters covering faces with Halloween masks could face fines.",
+        "Protests underway in Paris, Lille, and Lyon, called by two French student unions.",
+        "Student unions have called for a blockade of schools and universities on Tuesday and Thursday."
+      ]
+    },
+    {
+      "summary": "Virginia and DC sue to halt Trump's 250ft memorial arch construction, set to begin next week.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
+      "points": [
+        "Three lawsuits now challenge the monument's construction.",
+        "Arch would be 100ft taller than the Statue of Liberty.",
+        "Monument planned for grass area near Arlington National Cemetery."
+      ]
+    },
+    {
+      "summary": "Over 50.5m Americans have cast early votes in the midterms, surpassing the previous record.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+      "points": [
+        "More than 50.5m early votes cast as of Saturday morning.",
+        "University of Florida analysis shows nearly 5m more votes than 2022 midterms.",
+        "Democrats outnumber Republicans in states tracking party affiliation."
+      ]
+    },
+    {
+      "summary": "UK Green party ends opposition to nuclear power, allowing support for new reactors on a case-by-case basis.",
+      "significance": "The UK Green party's shift on nuclear power reflects a significant change in its approach to addressing climate change, potentially altering energy policy discussions.",
+      "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+      "points": [
+        "Green party members voted to assess nuclear projects alongside renewables.",
+        "Carla Denyer states existing nuclear stations could be a low-carbon option.",
+        "Opposition to nuclear was previously rooted in the party\u2019s stance against nuclear weapons."
+      ]
+    },
     {
       "summary": "Early midterm voting exceeds 50 million ballots, surpassing 2022 totals; a potential campaign event in Michigan faces uncertainty due to a feud.",
       "significance": "Early midterm voting exceeds 2022 totals by nearly 5 million ballots, indicating increased electoral engagement.",
@@ -3694,54 +3742,6 @@
         "Four individuals were hurt in the incident.",
         "The shooting occurred outside a licensed premises hosting a boxing event.",
         "Police responded to the shooting report at 8:15pm."
-      ]
-    },
-    {
-      "summary": "America has lost over 200k jobs in creative industries, with AI potentially playing a significant role.",
-      "significance": "The story highlights significant job losses in American creative industries, potentially linking the decline to the rise of AI, marking a possible shift in the future of creative employment.",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "points": [
-        "Over 200k jobs lost in media, film, and arts over four years, with 50k lost in the last year.",
-        "Movie & sound recording sector lost more than 100k jobs, nearly one-third of the sector\u2019s total.",
-        "Job losses are widespread across nearly every subsector and show no signs of abating."
-      ]
-    },
-    {
-      "summary": "The article discusses the potential for more ambitious software projects, using pgrust as an example of a project that, despite skepticism, has contributed to improving Postgres through rigorous testing.",
-      "url": "https://danluu.com/ambitious/",
-      "points": [
-        "pgrust, a project by Malis, has uncovered real bugs in Postgres, such as a numerical bug and a format cache bug.",
-        "The project's main pitch is performance improvement, with potential optimizations benefiting Postgres and other databases.",
-        "The author argues that advancements in technology have made it feasible to undertake more ambitious software projects with reasonable testing and benchmarking."
-      ]
-    },
-    {
-      "summary": "Brazil's presidential candidates held final rallies ahead of Sunday's runoff election, which is too close to call.",
-      "significance": "The final rallies highlight the closely contested runoff, where either Lula da Silva or Flavio Bolsonaro could win, impacting Brazil's future policies and stability.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
-      "points": [
-        "President Lula da Silva rallied in Sao Paulo.",
-        "Flavio Bolsonaro held a rally in Minas Gerais.",
-        "Recent Datafolha poll shows both candidates at 50% each."
-      ]
-    },
-    {
-      "summary": "Over one million supporters rally for Lula on the eve of Brazil's runoff election against Flávio Bolsonaro.",
-      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-      "points": [
-        "Over one million Lula supporters gathered on Rio's famous beach.",
-        "Nearly 159 million Brazilians will vote in the runoff on Sunday.",
-        "Lula and Bolsonaro were tied in polls after the first round on October 4th."
-      ]
-    },
-    {
-      "summary": "Chancellor Healey plans a £1.5bn borrowing facility to devolve spending power to local leaders in England.",
-      "significance": "Healey's budget follows Burnham's promise, aiming to devolve spending power to local leaders in England, reducing their reliance on Westminster.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
-      "points": [
-        "£1.5bn borrowing facility to be established over two years.",
-        "Aim is to reduce local leaders' dependence on Westminster for funding.",
-        "Plans announced in Healey\u2019s budget statement next week."
       ]
     }
   ]
