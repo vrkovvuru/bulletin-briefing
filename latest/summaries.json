@@ -1,6 +1,26 @@
 {
-  "generated": "2026-10-31T02:40:50.628757Z",
+  "generated": "2026-10-31T04:41:18.971385Z",
   "summaries": [
+    {
+      "summary": "Riot police faced off with protesters outside Poland\u2019s constitutional court after the suspension of its top judge.",
+      "significance": "The deployment of riot police highlights escalating tensions in Poland\u2019s decade-long dispute over the constitutional court\u2019s legitimacy.",
+      "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
+      "points": [
+        "President Karol Nawrocki encountered difficulties entering the court building in Warsaw.",
+        "The standoff is part of a decade-long dispute over the court\u2019s legitimacy.",
+        "Government-appointed judges suspended President Bogdan Święczkowski and Deputy Bartłomiej Sochański."
+      ]
+    },
+    {
+      "summary": "Former DR Congo president Joseph Kabila, 55, has joined the rebel group FRN, aiming to challenge current President Félix Tshisekedi.",
+      "significance": "This story matters as it highlights the volatile political landscape in DR Congo, where former president Joseph Kabila's return as a rebel leader could escalate conflict and reshape power dynamics.",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Kabila, who ruled DR Congo for 18 years, now allies with M23 rebels to potentially regain power.",
+        "The M23 rebels recently seized control of eastern DR Congo, including Goma and Bukavu.",
+        "Kabila faces a death sentence and US sanctions for his alleged support of the M23 rebels."
+      ]
+    },
     {
       "summary": "Ukraine\u2019s president praises the US for a $2.1bn Patriot missile deal but warns delivery could be delayed.",
       "significance": "The story matters because it highlights the significant US military aid to Ukraine and the potential delay in delivery, affecting Ukraine's immediate defense needs against Russian attacks.",
@@ -3724,24 +3744,6 @@
         "Update spans from July 2024 to September 2026, enhancing browser sources and docks.",
         "Third-party plugins get a new installation location, with legacy support until OBS Studio 34.0.",
         "Fixes include improved source snapping, spinbox behavior, and crash prevention on macOS 27.2."
-      ]
-    },
-    {
-      "summary": "Indian government sites are serving revoked eMudhra certificates, leading to distrust by major browsers.",
-      "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
-      "points": [
-        "156 Indian government sites are still serving revoked certificates as of October 23rd.",
-        "Mozilla and Chrome distrust the entire G3 root due to the revocation.",
-        "The compromised certificates were revoked on October 19th, affecting security for 18 months."
-      ]
-    },
-    {
-      "summary": "Logs attached to bug reports and support requests can inadvertently reveal sensitive information.",
-      "url": "https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/",
-      "points": [
-        "Logs may include file paths with personal details.",
-        "Screen readers can capture private messages, bank accounts, and medical records.",
-        "Advised to assume logs contain everything they might and assess sharing cautiously."
       ]
     }
   ]
