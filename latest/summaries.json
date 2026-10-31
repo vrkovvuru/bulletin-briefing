@@ -1,6 +1,43 @@
 {
-  "generated": "2026-10-30T22:41:26.964063Z",
+  "generated": "2026-10-31T00:41:07.840819Z",
   "summaries": [
+    {
+      "summary": "Aston Villa plans to take legal action against Jamie Carragher for insulting remarks.",
+      "significance": "Aston Villa's legal action against Carragher follows his \"unacceptable insults,\" potentially setting a precedent for consequences of public verbal abuse in football.",
+      "url": "https://www.theguardian.com/football/2026/oct/30/aston-villa-to-take-legal-action-against-jamie-carragher-for-unacceptable-insults",
+      "points": [
+        "Carragher told Villa fans to \u201cshut the fuck up\u201d on social media.",
+        "Villa chair Nassef Sawiris announced the legal action on X.",
+        "Carragher\u2019s comments came after he suggested Unai Emery could consider a move to Manchester United."
+      ]
+    },
+    {
+      "summary": "Rex Patrick wins a critical battle to uncover documents on Australian spies allegedly bugging Timor-Leste in 2004.",
+      "significance": "Rex Patrick's win advances efforts to uncover documents on Australian spies potentially bugging Timor-Leste in 2004, addressing a long-standing scandal.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/31/timor-leste-australia-bugging-rex-patrick-ntwnfb",
+      "points": [
+        "Campaign targets 2004 mission to gain advantage in oil and gas negotiations.",
+        "Ex-spy and former attorney general tried to bring case to The Hague over the scandal.",
+        "Patrick calls it the 'most open secret in the history of Australian spying'."
+      ]
+    },
+    {
+      "summary": "Alaska's top prosecutor confirms investigations into Democrats for allegedly confusing voters with a similarly named Senate candidate.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
+      "points": [
+        "US Attorney Michael Heyman confirmed both criminal and civil investigations.",
+        "The scheme allegedly involved recruiting Daniel J Sullivan to confuse voters.",
+        "Mary Peltola denies any knowledge of the alleged plot."
+      ]
+    },
+    {
+      "summary": "Democratic lawmakers demand ICE disclose data on miscarriages among detained immigrants.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/democrats-miscarriages-ice-detainees",
+      "points": [
+        "ICE failed to record miscarriages from October 2025 to June 2026.",
+        "US representatives request data on miscarriages, stillbirths, and hospitalizations."
+      ]
+    },
     {
       "summary": "Linode is investigating a security issue related to a remote code execution vulnerability.",
       "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
@@ -3704,45 +3741,6 @@
         "Lead researcher Frederik Schaltz-Buchholzer announced the trial will not proceed.",
         "The study was to be funded by the CDC.",
         "Necessary governmental approval was not granted for the trial in Guinea-Bissau."
-      ]
-    },
-    {
-      "summary": "Philip O'Toole discusses the evolution of distributed SQLite over twelve years, from its inception in 2014 to its current status.",
-      "significance": "This story matters as it chronicles the evolution and widespread adoption of distributed SQLite systems, starting from a niche concept in 2014 to a recognized category with multiple projects today.",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "points": [
-        "rqlite, an open-source project started in 2014, combined Raft and SQLite for distributed storage.",
-        "By 2026, Turso offered a hosted SQLite replicated with Raft, marking a shift to managed services.",
-        "The category grew to include at least eight teams with different replication approaches and protocols."
-      ]
-    },
-    {
-      "summary": "Typhoon Champi caused one death, over 500 injuries, and widespread disruption in Taiwan before heading towards China.",
-      "significance": "Typhoon Champi causes significant damage and casualties in Taiwan before moving towards China.",
-      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
-      "points": [
-        "Typhoon Champi killed one person and injured more than 500 in Taiwan.",
-        "The storm uprooted trees and caused power outages across the island.",
-        "Classified as one of the strongest Pacific storms this year, it had gusts of about 126km/h."
-      ]
-    },
-    {
-      "summary": "Federal prosecutors demand California officials set aside and verify ballots that may belong to noncitizens.",
-      "significance": "The story matters as it escalates the legal battle over voter eligibility, impacting California's election processes ahead of the midterms.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
-      "points": [
-        "Letters sent to county registrars across California by federal prosecutors.",
-        "Part of a legal battle between California and Trump\u2019s Department of Justice.",
-        "Focuses on rooting out noncitizen voting ahead of the midterm elections."
-      ]
-    },
-    {
-      "summary": "Greens senator Jordon Steele-John confirms he will not attend parliament next week due to publicized misconduct allegations.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
-      "points": [
-        "Steele-John considered attending Senate estimates virtually but was told it would be \u2018unacceptable\u2019.",
-        "The senator released a letter detailing the allegations against him.",
-        "Confusion followed after historical complaints of alleged misconduct were made public in the media."
       ]
     }
   ]
