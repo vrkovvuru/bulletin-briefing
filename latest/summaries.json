@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-31T20:43:26.643863Z",
+  "generated": "2026-10-31T22:41:55.853943Z",
   "summaries": [
+    {
+      "summary": "Protestors clashed with police in Albania, throwing petrol bombs and stones amid demands for the Prime Minister's resignation.",
+      "significance": "The story highlights ongoing political unrest in Albania, affected by weeks of violent protests demanding the resignation of the Prime Minister.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+      "points": [
+        "Protestors hurled petrol bombs and paving stones at police.",
+        "Clashes are part of weeks of violent protests led by students.",
+        "Prime Minister Edi Rama is demanded to resign by the protestors."
+      ]
+    },
+    {
+      "summary": "Binance, the world's largest cryptocurrency exchange, covers 90% of the $6.3bn lost in a suspected North Korean hack.",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Binance pledged to cover 100% of losses, setting aside over $6.34bn.",
+        "FBI suspects North Korea's Lazarus Group, also known as TraderTraitor.",
+        "Binance aims to resume withdrawal services on Sunday, November 1st."
+      ]
+    },
+    {
+      "summary": "Understanding anime dialogue requires knowing more words than coverage percentages suggest.",
+      "significance": "The story highlights the discrepancy between word recognition coverage and actual line comprehension in anime, affecting language learners' expectations.",
+      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+      "points": [
+        "Knowing 500 most common words in Frieren allows understanding only 38.4% of lines.",
+        "Serial Experiments Lain requires 1,191 words for 95% coverage but only 77.5% line comprehension.",
+        "Increasing vocabulary from 500 to 1,000 words improves line understanding by 22.1 points."
+      ]
+    },
+    {
+      "summary": "Researchers have identified that regular power checks by large-scale battery storage systems cause 60-second fluctuations in electricity demand in power grids.",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "points": [
+        "Dirk Witthaut's team from Forschungszentrum Jülich found that battery storage systems check their state of charge every minute, leading to measurable fluctuations.",
+        "The phenomenon is not limited to Europe but is observed globally, with Ireland's 1-minute signal amplitude quadrupling from 2016 to 2021.",
+        "Randomizing the timing of these power checks could mitigate the issue of increased wear and tear on hydroelectric power station turbines."
+      ]
+    },
     {
       "summary": "Qatar rejected Israel's allegations of election interference in the upcoming 2026 election.",
       "significance": "The rejection of Israel\u2019s allegations by Qatar escalates diplomatic tensions between the two nations, affecting regional politics and relations.",
@@ -3702,44 +3740,6 @@
         "Met Office issued amber warnings for areas experiencing wind speeds of 60-70mph.",
         "Storm Boelo follows Storm Austen, which affected parts of the UK on Friday.",
         "Advisories urge people in affected regions to stay indoors due to 80mph gusts in coastal areas."
-      ]
-    },
-    {
-      "summary": "Meta faces continued scrutiny for alleged favoritism towards Bolsonaro candidates despite a Brazilian court order.",
-      "significance": "Meta's non-compliance with a Brazilian court order continues to affect the perceived fairness of the presidential campaigns of Lula and Bolsonaro.",
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "points": [
-        "Sleeping Giants Brasil and CTRL+Z submitted evidence to Brazil\u2019s Superior Electoral Court.",
-        "Meta ordered to ensure equal conditions for both candidates with a daily fine of R$500,000.",
-        "Evidence includes AI linking Lula to negative content and favoring Bolsonaro in search results."
-      ]
-    },
-    {
-      "summary": "fheroes2 recreates the Heroes of Might and Magic II game engine with improvements.",
-      "url": "https://github.com/ihhub/fheroes2",
-      "points": [
-        "Project includes high-resolution graphics and enhanced AI.",
-        "Original game rights belong to Ubisoft, now.",
-        "Contributions for graphics and translations are welcome."
-      ]
-    },
-    {
-      "summary": "Samsung's TensorFlow Lite model, \"alex.tflite,\" tracks user gameplay on 960x540 images every couple of seconds.",
-      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-      "points": [
-        "The model uses INT8 quantization and is based on AlexNet.",
-        "It performs poorly, succeeding only 1% of the time.",
-        "The model's results are discarded as user consent is sought later."
-      ]
-    },
-    {
-      "summary": "A wet monsoon season has transformed Australia's Kati Thanda-Lake Eyre into a vibrant green landscape, a rare sight not seen in decades.",
-      "significance": "The story highlights the transformative impact of rare heavy rainfall on Australia's desert ecosystem, showcasing a fleeting burst of life in an otherwise arid region.",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/25/kati-thanda-lake-eyre-transformed-green-rainfall",
-      "points": [
-        "Kati Thanda-Lake Eyre is blanketed in plant life including sandhill wattle, saltbush, and grasses.",
-        "The transformation is visible across hundreds of twisting rivers and creeks in the outback.",
-        "This green transformation, a rare sight, occurred in late September due to a wet monsoon season."
       ]
     }
   ]
