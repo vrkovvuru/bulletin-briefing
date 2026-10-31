@@ -1,6 +1,117 @@
 {
-  "generated": "2026-10-31T04:41:18.971385Z",
+  "generated": "2026-10-31T12:43:49.665120Z",
   "summaries": [
+    {
+      "summary": "US cities like Henderson, Kentucky, are reviving Día de los Muertos celebrations after canceling them in 2025, despite ongoing ICE arrests.",
+      "significance": "Día de los Muertos celebrations resume in US cities, providing joy and cultural connection amid ongoing ICE arrests.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/dia-de-los-muertos-ice-arrests",
+      "points": [
+        "Julia, a 19-year-old US-born individual, and her undocumented immigrant parents from Mexico, attend the celebrations.",
+        "The family sells traditional Mexican holiday foods like aguas frescas, horchatas, and sweet bread at the event.",
+        "Julia's family built an ofrenda in 2023 to honor her grandfather, who died in Mexico and was a violinist."
+      ]
+    },
+    {
+      "summary": "Paris has heightened security with increased police presence and barricades.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
+      "points": [
+        "Police are patrolling and setting up barricades throughout Paris.",
+        "Streets are being blocked and security checks are being conducted.",
+        "No specific dates or reasons for the increased security measures are provided."
+      ]
+    },
+    {
+      "summary": "Columnist suggests Norway should award Melania Trump the Nobel Peace Prize for allegedly brokering a Ukrainian ceasefire.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/31/norway-melania-trump-nobel-peace-prize",
+      "points": [
+        "Melania Trump praised for brokering ceasefire in Ukrainian city.",
+        "Donald Trump previously won the made-up \"Man of the Century\" award.",
+        "Trump called Norway a \"shithouse country\" for not giving him the Nobel Peace Prize."
+      ]
+    },
+    {
+      "summary": "Actor Aidan Turner discusses his pin-up status and desire to move past being known for his sex appeal.",
+      "url": "https://www.theguardian.com/culture/2026/oct/31/aidan-turner-interview-rivals-poldark-beards-ballroom-dancing",
+      "points": [
+        "Turner, 43, grew a beard to avoid being called 'smouldering'.",
+        "He starred in Jilly Cooper\u2019s 'Rivals' and is known for the show 'Poldark'.",
+        "The New Yorker noted Turner's smouldering presence in 'Les Liaisons Dangereuses'."
+      ]
+    },
+    {
+      "summary": "Engineering work over Christmas will cause 10 days of disruption at London Paddington and Birmingham New Street stations.",
+      "significance": "The story matters because it warns passengers of significant travel disruptions during the holiday period due to essential railway engineering works.",
+      "url": "https://www.theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham",
+      "points": [
+        "London Paddington station will be closed until January.",
+        "Birmingham New Street station will shut for five days.",
+        "Disruption affects intercity trains to the west of England and Wales."
+      ]
+    },
+    {
+      "summary": "Fallon Sherrock, an amateur, defeated darts champion Luke Littler on a Netflix show, winning £501,000.",
+      "url": "https://www.theguardian.com/sport/2026/oct/31/fallon-sherrock-shock-defeat-luke-littler-darts-live-tv-battle-netflix",
+      "points": [
+        "Sherrock was the 15th amateur to challenge Littler on the show.",
+        "The event took place on a Friday evening as part of Netflix's UK live entertainment debut.",
+        "The show, titled \"Beat Luke Littler,\" offered £501,000 to any amateur who could beat Littler in a leg of darts."
+      ]
+    },
+    {
+      "summary": "US voters see government corruption as a key issue in the midterms, with concerns over Trump and allies' actions.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
+      "points": [
+        "Exclusive poll shows corruption is a top concern for midterm voters.",
+        "Qatari government gifted Trump a luxury jet, potentially violating the emoluments clause.",
+        "Wanda Vázquez Garced and Julio Herrera Velutini were pardoned after large donations to Trump\u2019s political operations."
+      ]
+    },
+    {
+      "summary": "Cost of living protests set to spread to Germany and restart in France on Halloween, with police prepared for potential unrest.",
+      "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+      "points": [
+        "Protests aim to highlight issues with public services like education and housing.",
+        "Police mobilised to prevent looting and rioting during planned peaceful rallies.",
+        "Recent weeks saw violent student demonstrations in Italy, Spain, Portugal, Albania, and France."
+      ]
+    },
+    {
+      "summary": "Molly, a fork of Signal, has not been updated in three months and is now vulnerable to attacks.",
+      "significance": "Molly users face security risks due to lack of updates, prompting recommendations to switch to mainline Signal for vulnerability fixes.",
+      "url": "https://piefed.world/post/1503394",
+      "points": [
+        "Molly has vulnerabilities that have been fixed in the mainline Signal app.",
+        "Users are advised to switch to mainline Signal and delete Molly.",
+        "Molly offers features like unified push notifications without Google Play Services."
+      ]
+    },
+    {
+      "summary": "GCC compiler employs various strategies to optimize switch statements, including jump tables and bitsets.",
+      "url": "https://xoranth.net/gcc-switch/",
+      "points": [
+        "Compiler transforms switch statements into jump tables when there are around eight entries.",
+        "For sparse values, the compiler uses a decision tree of comparisons instead.",
+        "The compiler recognizes dense subsets of cases and applies different optimizations accordingly."
+      ]
+    },
+    {
+      "summary": "Researchers bypassed ChatGPT's security to take over accounts by sending a link.",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "points": [
+        "Opened in October 2026, the exploit allowed enumeration of private conversations.",
+        "Attack required only clicking a shared link, no additional actions from the victim.",
+        "OpenAI fixed the issue on October 26, classifying it as P1."
+      ]
+    },
+    {
+      "summary": "Google admits AI Mode has led to a significant drop in Search revenue, raising concerns about an AI Bear Market.",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "points": [
+        "Google's Search revenue dropped by 15%, amounting to a $500B loss, the worst since its 2004 IPO.",
+        "The decline in revenue is partly due to lower monetization in AI Mode queries.",
+        "This financial downturn is occurring amid a broader negative sentiment towards tech and AI stocks in public markets."
+      ]
+    },
     {
       "summary": "Riot police faced off with protesters outside Poland\u2019s constitutional court after the suspension of its top judge.",
       "significance": "The deployment of riot police highlights escalating tensions in Poland\u2019s decade-long dispute over the constitutional court\u2019s legitimacy.",
@@ -3633,117 +3744,6 @@
         "Patient is the Ugandan-born wife of a Swiss diplomat stationed in Abuja.",
         "Nigeria is the fourth African country affected by the Ebola outbreak.",
         "The outbreak was first detected in the Democratic Republic of Congo in mid-May."
-      ]
-    },
-    {
-      "summary": "Battledrones v14 introduces \"Compass Rose,\" a new four-player map with support for up to four human players.",
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-      "points": [
-        "Added \"Compass Rose\" map with four-way rotational symmetry.",
-        "Supports up to four players, combining human and AI participants.",
-        "Introduces new team colors: purple and green, alongside existing blue and red."
-      ]
-    },
-    {
-      "summary": "Serbian elections could determine the future of a student movement seeking justice for 16 victims of a railway station collapse.",
-      "significance": "Serbia elections could determine political future and direction towards EU or Russia, influenced by student movement seeking justice for 16 victims.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
-      "points": [
-        "16 people died when a railway station canopy collapsed in Novi Sad nearly two years ago.",
-        "Student movement is using elections to push for justice regarding the victims.",
-        "Elections may influence Serbia\u2019s alignment with either the EU or Russia."
-      ]
-    },
-    {
-      "summary": "A suspect was arrested after a fire largely destroyed Hitler's Eagle\u2019s Nest retreat in Bavaria.",
-      "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-      "points": [
-        "200 firefighters were deployed to tackle the blaze at the Nazi retreat.",
-        "The fire severely damaged the historic Kehlsteinhaus residence on Obersalzberg.",
-        "The suspect was arrested by German police following the incident."
-      ]
-    },
-    {
-      "summary": "Columnist criticizes basketball player LaMelo Ball for boasting about not changing his baby's diapers.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/24/lamelo-ball-avoiding-diaper-duty",
-      "points": [
-        "LaMelo Ball, Minnesota Timberwolves point guard, has a nine-month-old son named LaOne.",
-        "Ball reportedly leaves diaper duties to his partner, Ana Montana (Analicia Chaves).",
-        "Columnist argues this attitude is outdated and dismissive of parental responsibilities."
-      ]
-    },
-    {
-      "summary": "US health authorities report an additional 178 measles cases, bringing the total to 4,588 across 43 outbreaks.",
-      "significance": "The story highlights the ongoing measles outbreak in the US, affecting public health measures and vaccine infrastructure.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
-      "points": [
-        "CDC reports 4,588 total measles cases in the US.",
-        "Measles cases span at least 43 outbreaks nationwide.",
-        "Health secretary Robert F Kennedy Jr criticized for impacting vaccine infrastructure."
-      ]
-    },
-    {
-      "summary": "Concerns over Jeffrey Epstein's scandal may recede in midterms, but experts predict renewed focus post-election.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
-      "points": [
-        "Survivors' advocates worry the Epstein scandal could fade amid other voter concerns.",
-        "Political experts believe the issue will resurface once midterms conclude.",
-        "Epstein's social circle included many of America\u2019s elite, highlighting the scandal's reach."
-      ]
-    },
-    {
-      "summary": "Storm Boelo, the second named storm of the season, will hit northern UK with winds up to 80mph and heavy rain.",
-      "url": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
-      "points": [
-        "Storm Boelo follows Friday\u2019s Storm Austen, which left thousands without power.",
-        "Expected to cause disruptions in travel and potentially more power cuts.",
-        "Heavy, frequent showers and winds exceeding 80mph are forecast for northern UK."
-      ]
-    },
-    {
-      "summary": "Trump administration rule permits hunters to use human foods like bacon and doughnuts to bait bears on federal lands in Alaska.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
-      "points": [
-        "Rule allows luring bears with bacon, doughnuts, meat scraps on federal lands.",
-        "Critics argue the rule will make bears more aggressive towards humans.",
-        "Rule overturns a 2024 ban implemented by the Biden administration."
-      ]
-    },
-    {
-      "summary": "Banking lobby group UK Finance accused of misrepresenting data to show London as overly taxed compared to other financial hubs.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
-      "points": [
-        "UK Finance represents banks like Lloyds, JP Morgan, and Revolut.",
-        "Campaigners argue the data is misleading for excluding Paris.",
-        "The controversy centers on next week\u2019s budget tax rise for banks."
-      ]
-    },
-    {
-      "summary": "Top British chefs are expanding to Gulf states due to lower taxes and less union interference compared to the UK.",
-      "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
-      "points": [
-        "James Robson, co-owner of London's Fallow, is opening a branch in the Gulf.",
-        "Robson cites a \"tax tsunami\" in the UK as a reason for expansion to Gulf states.",
-        "Gulf countries offer better business support and a more favorable work environment."
-      ]
-    },
-    {
-      "summary": "Analysis of php2shell vulnerability suggests it's not as easily exploitable as feared.",
-      "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
-      "points": [
-        "Exploitation requires knowing exact PHP build details, including version, OS, and architecture.",
-        "Attempting to exploit involves complex connection management and multiple trials, taking days.",
-        "High-traffic sites with WAFs/rate-limiting make successful attacks highly unlikely and detectable."
-      ]
-    },
-    {
-      "summary": "OBS Studio 33 introduces major backend updates, improving functionality and fixing numerous bugs.",
-      "significance": "This update significantly improves OBS Studio's backend and adds new features, enhancing user experience and compatibility with modern hardware and software.",
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "points": [
-        "Update spans from July 2024 to September 2026, enhancing browser sources and docks.",
-        "Third-party plugins get a new installation location, with legacy support until OBS Studio 34.0.",
-        "Fixes include improved source snapping, spinbox behavior, and crash prevention on macOS 27.2."
       ]
     }
   ]
