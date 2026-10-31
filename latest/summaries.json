@@ -1,6 +1,89 @@
 {
-  "generated": "2026-10-31T18:41:32.369273Z",
+  "generated": "2026-10-31T20:43:26.643863Z",
   "summaries": [
+    {
+      "summary": "Qatar rejected Israel's allegations of election interference in the upcoming 2026 election.",
+      "significance": "The rejection of Israel\u2019s allegations by Qatar escalates diplomatic tensions between the two nations, affecting regional politics and relations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+      "points": [
+        "Qatar called Israel's allegations a disinformation campaign.",
+        "The controversy surrounds Israel\u2019s election scheduled for 2026."
+      ]
+    },
+    {
+      "summary": "Evacuees from Russian-occupied Oleshky describe life under occupation as horrific and compare their departure to escaping hell.",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "1,700 residents were in Oleshky itself, with up to 6,000 in the surrounding areas.",
+        "A humanitarian ceasefire, brokered by Melania Trump, allowed 750 evacuees to leave via 25 buses.",
+        "Evacuees faced extreme conditions, including eating garden weeds and crossing minefields to survive."
+      ]
+    },
+    {
+      "summary": "Danni Smith's first date with Kev revealed unexpected compatibility despite their contrasting attitudes towards travel.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/the-moment-i-knew-he-loved-to-travel-i-had-a-fear-of-flying-i-expected-him-to-skol-his-beer-and-wish-me-well",
+      "points": [
+        "In September 2023, Danni, 59, sought romance after a year of being divorced.",
+        "Danni has anxiety about traveling, while Kev values travel highly.",
+        "They met at a bar in a bayside suburb of Melbourne for drinks."
+      ]
+    },
+    {
+      "summary": "Prime Minister Albanese faces discontent in his Grayndler electorate over a government proposal allowing AI companies to scrape online content created by Australians.",
+      "significance": "Potential changes to copyright laws are angering the large creative community in Albanese's electorate, Grayndler.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+      "points": [
+        "Proposal allows AI companies to scrape all online content created by Australians.",
+        "Grayndler has over 3,000 cultural and creative businesses.",
+        "10% of Grayndler workers are in cultural and creative fields, compared to 4.2% nationally."
+      ]
+    },
+    {
+      "summary": "A YouTube clone called HackerTube was created, featuring videos recommended by users on Hacker News.",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "points": [
+        "Opus 5.5 processed 40K comments to curate 6,454 YouTube videos recommended on HN.",
+        "Videos span 150 topics and were recommended from 2007-2026.",
+        "The site offers custom recommendations without user accounts, using local browser sessions."
+      ]
+    },
+    {
+      "summary": "Linux fixed a critical use-after-free bug in its TCP handshake, affecting multiple kernel versions and distributions.",
+      "significance": "This story matters because it highlights a critical vulnerability (CVE-2026-98432) in Linux kernels that could allow remote attackers to execute commands as root, affecting numerous Linux distributions and servers.",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "points": [
+        "Linux stable kernels released fixes on October 11 and 15, 2026, for CVE-2026-98432.",
+        "The bug allows a remote, unauthenticated attacker to potentially execute commands as root on servers with a multipath TCP listener.",
+        "As of October 29, Ubuntu and Red Hat still list their kernels as vulnerable, with no fix available for Ubuntu and Red Hat's RHEL 8, 9, and 10."
+      ]
+    },
+    {
+      "summary": "A scholar details the process of responsibly disclosing a security vulnerability in Intel CPUs, prioritizing public safety over personal career.",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "points": [
+        "The vulnerability was discovered in CPUs with Hyper-Threading, introduced in 2002, and disclosed in May 2005.",
+        "The scholar faced pressure from Intel but was able to publish due to not being employed by Yahoo or FreeBSD.",
+        "The process of responsible disclosure took six months, involving quiet notifications to security teams before public disclosure."
+      ]
+    },
+    {
+      "summary": "Article advises against public functions calling other public functions in software modules to maintain clean API interfaces.",
+      "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+      "points": [
+        "Functions calling other public functions can lead to interface degradation and unnecessary parameters.",
+        "Making shared implementation private defuses tension between user convenience and internal use.",
+        "Mocking for testing becomes complicated when public functions call other public functions."
+      ]
+    },
+    {
+      "summary": "The article explains how memory latency affects CPU performance, focusing on how cache utilization can significantly impact processing efficiency.",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "points": [
+        "Modern CPUs can process 4-8 instructions per nanosecond, while memory access to RAM can take 50-100ns.",
+        "A naive GROUP BY aggregation can lead to 50.1% of CPU time stalling due to memory latency.",
+        "Using radix partitioning to improve cache utilization can make working HashMaps fit into CPU caches, enhancing performance."
+      ]
+    },
     {
       "summary": "Clashes occurred in French cities after large-scale protests over living costs and public services, with some demonstrations turning violent.",
       "significance": "Clashes highlight ongoing public discontent in France over living costs and services, despite a decline in protest numbers.",
@@ -3657,91 +3740,6 @@
         "Kati Thanda-Lake Eyre is blanketed in plant life including sandhill wattle, saltbush, and grasses.",
         "The transformation is visible across hundreds of twisting rivers and creeks in the outback.",
         "This green transformation, a rare sight, occurred in late September due to a wet monsoon season."
-      ]
-    },
-    {
-      "summary": "Australia's top law enforcement official links politicians' rhetoric to threats against MPs, especially women.",
-      "significance": "The story highlights how politicians' aggressive rhetoric contributes to threats against MPs, particularly women, affecting their safety and the political climate.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
-      "points": [
-        "Commissioner Krissy Barrett states women MPs face more threats, including sexual violence.",
-        "Independent MP Helen Haines allegedly attacked outside her Wangaratta office.",
-        "The incident highlighted the safety concerns for elected representatives."
-      ]
-    },
-    {
-      "summary": "Five Qwen3.8-27B models match Fable 5's coding performance using GVS5H, at a fraction of the cost.",
-      "significance": "The story demonstrates that coordinated smaller models can achieve high coding performance at a significantly lower cost, challenging the need for expensive proprietary models.",
-      "url": "https://github.com/slee-persis/GVS5H",
-      "points": [
-        "Qwen3.8-27B models achieve 92.4% pass@1 on LiveCodeBench Hard, up from 66.8%.",
-        "The method uses ledger-based zero-shot self-orchestration, reducing costs to 9% of Fable 5's.",
-        "Performance gains of up to 25.6 percentage points are seen on pinned backends."
-      ]
-    },
-    {
-      "summary": "Cerebras explains how to deploy multi-trillion parameter AI models across multiple WSE-3T wafers.",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "points": [
-        "Kimi K3, an open-source model with 3 trillion parameters, is used as an example.",
-        "Each Cerebras WSE-3T wafer has 44 GB of on-chip memory, fitting one dense layer or two linear-attention layers.",
-        "The system supports up to 1000-2000 tokens per second by streaming requests through a pipeline of wafers."
-      ]
-    },
-    {
-      "summary": "Netflix's $500M offer for a seven-year deal with Xbox to adapt Xbox characters into shows and films was rejected by Microsoft.",
-      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
-      "points": [
-        "Microsoft countered with an $800M offer, leading to the deal's collapse.",
-        "Xbox is now pursuing smaller deals with multiple partners on a case-by-case basis.",
-        "Xbox has ongoing projects with Paramount, Amazon, and Netflix, including \"Halo\" and \"Minecraft."
-      ]
-    },
-    {
-      "summary": "Actors Peter Houghton and Anne Browning developed a real-life connection through shared humor during a 1997 Hamlet production in Melbourne.",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/25/the-moment-i-knew-i-admitted-i-had-a-crush-on-her-she-replied-well-thats-good-isnt-it",
-      "points": [
-        "Peter first noticed Anne's \"intense, slightly scary green eyes\" in the theater company cafeteria.",
-        "They bonded over making jokes about outdated magazines during rehearsals.",
-        "The couple met in 1997 when cast as onstage lovers in a Melbourne production of Hamlet."
-      ]
-    },
-    {
-      "summary": "The article discusses the appeal of retro technology like Gopher in 2026, focusing on nostalgia and a desire for simplicity.",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "points": [
-        "The author observes a trend among young people with ADHD seeking simpler times.",
-        "Modern tech offers conveniences like syntax highlighting in vim that were unavailable in the past.",
-        "The article highlights the mixed feelings about technology, noting both its helpfulness and its complexity."
-      ]
-    },
-    {
-      "summary": "Obama supports Abdul El-Sayed for US Senate, rallying thousands in Detroit.",
-      "significance": "Obama's endorsement of El-Sayed amplifies Democratic campaign efforts, focusing on continuing healthcare reforms and reducing political corruption.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
-      "points": [
-        "Obama spoke at Cass Technical High School in Detroit.",
-        "Event occurred on the first day of early voting in Michigan.",
-        "Obama highlighted El-Sayed's commitment to healthcare and reducing political corruption."
-      ]
-    },
-    {
-      "summary": "California leaders criticize Trump administration's push to verify 20,000 ballots linked to suspected noncitizens before midterms.",
-      "significance": "California leaders oppose Trump administration's urgent request to verify ballots from suspected noncitizens, fearing potential disenfranchisement of citizens.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
-      "points": [
-        "California officials rebuked the directive to verify ballots within 48 hours.",
-        "Federal prosecutors requested verification of about 20,000 ballots.",
-        "The request came less than two weeks before the midterm elections."
-      ]
-    },
-    {
-      "summary": "Four people were injured in a drive-by shooting outside a boxing event venue in Loganholme.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
-      "points": [
-        "Four individuals were hurt in the incident.",
-        "The shooting occurred outside a licensed premises hosting a boxing event.",
-        "Police responded to the shooting report at 8:15pm."
       ]
     }
   ]
