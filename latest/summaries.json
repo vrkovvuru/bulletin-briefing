@@ -1,6 +1,72 @@
 {
-  "generated": "2026-10-31T14:41:51.637779Z",
+  "generated": "2026-10-31T16:42:04.359927Z",
   "summaries": [
+    {
+      "summary": "Early midterm voting exceeds 50 million ballots, surpassing 2022 totals; a potential campaign event in Michigan faces uncertainty due to a feud.",
+      "significance": "Early midterm voting exceeds 2022 totals by nearly 5 million ballots, indicating increased electoral engagement.",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
+      "points": [
+        "Over 50 million early votes cast, exceeding 2022 totals by nearly 5 million.",
+        "Campaign event between Abdul El-Sayed and Haley Stevens in Michigan at risk.",
+        "Jason Turkish, Stevens' fiancé, questioned the event's occurrence on Fox News."
+      ]
+    },
+    {
+      "summary": "Star Trek actress Marina Sirtis recounts how she and the cast helped loosen up the serious Patrick Stewart.",
+      "url": "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean",
+      "points": [
+        "Sirtis initially feared Stewart's serious demeanor, having been warned by RSC colleagues.",
+        "The cast made efforts to lighten Stewart's stiff upper lip, typical of his generation.",
+        "Stewart acknowledged the cast's impact, saying they gave him a freedom he hadn't felt before."
+      ]
+    },
+    {
+      "summary": "UK charity shop profits have significantly dropped due to increased competition from online secondhand clothing platforms.",
+      "significance": "UK charity shops face fundraising challenges as profits fall due to increased competition from online secondhand clothing platforms.",
+      "url": "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market",
+      "points": [
+        "Oxfam\u2019s retail profit fell 23% to £4.9m in the last financial year.",
+        "British Heart Foundation describes the current trading as \u2018exceptionally challenging\u2019.",
+        "Rise of platforms like Vinted contributes to the decline in charity shop profits."
+      ]
+    },
+    {
+      "summary": "UK government plans to prioritize long-term preventative spending to ensure future savings.",
+      "url": "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government",
+      "points": [
+        "John Healey\u2019s budget includes decision to protect preventative projects.",
+        "Ringfenced projects cannot be reallocated for immediate needs.",
+        "This approach aims to make future savings outweigh initial costs."
+      ]
+    },
+    {
+      "summary": "Judge Jesse Furman ruled the firing of Maurene Comey, daughter of former FBI director James Comey, unlawful, offering hope against politicized firings.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/maurene-comey-firing-ruling-legal-implications",
+      "points": [
+        "Judge Jesse Furman ruled the Department of Justice's firing of Maurene Comey unlawful.",
+        "Maurene Comey successfully prosecuted high-profile cases like Ghislaine Maxwell and Sean \"Diddy\" Combs.",
+        "Legal experts see the ruling as a check on politicized firings but warn of likely appeal."
+      ]
+    },
+    {
+      "summary": "A new malware named VOLTA uses AI to rank victims based on the monetization value of their assets.",
+      "significance": "This story matters because it introduces a new method of cybercrime where AI ranks victims based on their monetary value, changing how malware prioritizes targets.",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "points": [
+        "VOLTA sends stolen data to an LLM to assess the victim\u2019s worth, categorizing assets into low, medium, or high monetization tiers.",
+        "The malware employs a fallback chain of up to three models to ensure the AI assessment is completed, even if initial models refuse to perform the task.",
+        "VOLTA enriches stolen data by leveraging authenticated sessions to gather additional information, such as order histories from food delivery apps and home addresses from receipts."
+      ]
+    },
+    {
+      "summary": "The Kluever Maneuver suggests doing bugfixes in two commits to avoid false confidence in fixes.",
+      "url": "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
+      "points": [
+        "Suggests writing a test for bad behavior before fixing the bug.",
+        "Example given: age check function only considers years, not months or days.",
+        "Technique avoids situation where a test passes incorrectly, giving false confidence in a fix."
+      ]
+    },
     {
       "summary": "Starmer urges UK to strengthen ties with Europe due to changing US relationship.",
       "significance": "Starmer argues UK must strengthen European ties due to a lasting change in US reliability under Trump.",
@@ -3676,74 +3742,6 @@
         "£1.5bn borrowing facility to be established over two years.",
         "Aim is to reduce local leaders' dependence on Westminster for funding.",
         "Plans announced in Healey\u2019s budget statement next week."
-      ]
-    },
-    {
-      "summary": "Thousands of Israelis protested against Netanyahu's government in Tel Aviv, three days before the election.",
-      "significance": "The protest highlights public demand for governmental accountability and could influence the election outcome, affecting Israel\u2019s future policies and leadership.",
-      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-      "points": [
-        "Protesters demand an independent inquiry into security failures leading to the Hamas attack.",
-        "The rally was organized by the October Council, formed by families of captives taken to Gaza.",
-        "Leading opposition figures, including Gadi Eisenkot, participated in the demonstration."
-      ]
-    },
-    {
-      "summary": "Despite significant investments, AI has not delivered financial benefits to corporate America outside the tech sector.",
-      "significance": "Despite massive investments, AI has delivered no financial payoff to corporate America outside of tech, affecting mainstream businesses' views on AI spending.",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "points": [
-        "Revenue per worker and profit margins are rising for the Mag 7 tech companies but are flat for the S&P 493.",
-        "Mainstream corporations are viewing AI spending as a cost center rather than a growth driver.",
-        "AI's impact on productivity growth remains negligible, with no signs of improvement."
-      ]
-    },
-    {
-      "summary": "The Goose Programming Language is a memory-safe systems language that outperforms C++ and Rust in benchmarks, using less memory and no heap allocator.",
-      "url": "https://aardappel.github.io/goose/",
-      "points": [
-        "Goose runs 1.16x faster than hand-optimized C++ and 1.12x faster than the best safe Rust.",
-        "Memory management in Goose is handled by a data stack managed by the compiler, with no heap allocator or garbage collector.",
-        "Structures in Goose are position-independent, allowing direct file saving and loading without serialization."
-      ]
-    },
-    {
-      "summary": "Kimi 3.1 Pro 104BA-2.8T narrows the lead over Closed-AI models to 1 month and introduces a Pro Highspeed API with 2-3x speed improvements.",
-      "significance": "Kimi 3.1 Pro narrows the gap with Closed-AI models and offers a Pro Highspeed API, potentially affecting the AI model competition and user experience.",
-      "url": "https://latent.space/p/ainews-kimi-31/",
-      "points": [
-        "Kimi 3.1 Pro has 2.8 trillion total parameters and 104 billion active parameters.",
-        "The model is set to release open weights on November 4, 2026.",
-        "It achieved the highest publicly accessible benchmark result at 65%, second only to GPT-6 Sol Daybreak Blue at 69%."
-      ]
-    },
-    {
-      "summary": "Kim Jong Un crossed a new bridge connecting North Korea and China, greeted by crowds.",
-      "significance": "The new bridge symbolizes enhanced trade ties between North Korea and China, potentially boosting economic relations.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
-      "points": [
-        "Kim Jong Un waved to crowds upon crossing the Yalu River Bridge.",
-        "The bridge is viewed as crucial for boosting trade between North Korea and China.",
-        "Chinese state media reported on the event."
-      ]
-    },
-    {
-      "summary": "Hundreds of thousands protested across France over school conditions and policing, amid Macron's final months as president.",
-      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-      "points": [
-        "At least 400,000 people participated, with unions estimating double that number.",
-        "In Paris alone, over 110,000 marched to support schoolchildren and protest high living costs.",
-        "Protesters criticized heavy policing of school protests, demanding political solutions instead."
-      ]
-    },
-    {
-      "summary": "British journalist Dom Phillips predicted Brazil's future under Bolsonaro, warning of dangers to reporters and the Amazon.",
-      "significance": "The story highlights the prescient warnings of a journalist who accurately predicted the dangers of Bolsonaro's presidency, emphasizing the risks to press freedom and environmental protection in Brazil.",
-      "url": "https://www.theguardian.com/world/2026/oct/24/jair-bolsonaro-fascism-journalist-dom-phillips-predicted-brazil-future",
-      "points": [
-        "Phillips warned Bolsonaro and his sons showed signs of fascism.",
-        "He expressed dread over Bolsonaro's potential election in 2018.",
-        "Phillips highlighted increased dangers for reporters and the Amazon under Bolsonaro."
       ]
     }
   ]
