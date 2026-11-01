@@ -1,6 +1,109 @@
 {
-  "generated": "2026-11-01T15:41:38.406118Z",
+  "generated": "2026-11-01T17:42:36.854798Z",
   "summaries": [
+    {
+      "summary": "Bangladesh garment workers clashed with police in Dhaka, protesting low pay and rising living costs.",
+      "significance": "Protests highlight garment workers' struggles with low pay and high living costs, affecting Bangladesh's key economic sector.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
+      "points": [
+        "Dozens of workers protested in the capital Dhaka.",
+        "The protest was against low pay and increasing cost of living.",
+        "Textile industry is central to Bangladesh\u2019s economy."
+      ]
+    },
+    {
+      "summary": "Liverpool prepares strategies to counter Arsenal at Anfield in an upcoming Premier League match.",
+      "url": "https://www.theguardian.com/football/live/2026/nov/01/liverpool-v-arsenal-premier-league-live",
+      "points": [
+        "Liverpool plans to target spaces left by Riccardo Calafiori.",
+        "Bradley Barcola and Alexander Isak key for cut-backs and quick shots.",
+        "Florian Wirtz to slip passes in behind, if quick enough in fast-paced match."
+      ]
+    },
+    {
+      "summary": "European youth-led protests turn violent, prompting murder investigation in France and calls for harsh penalties in Germany.",
+      "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
+      "points": [
+        "French officials investigating attempted murder of a police officer after a petrol bomb attack.",
+        "Germany\u2019s interior minister calls for severe penalties following the violent protests.",
+        "Protests in Portugal result in police clearing camps with baton charges and dogs."
+      ]
+    },
+    {
+      "summary": "Ukraine resumes attacks on Russian oil refineries despite Trump's pressure, risking US relations.",
+      "significance": "Ukraine's attacks on Russian oil refineries defy Trump's pressure, risking strain in US-Ukraine relations ahead of US midterm elections.",
+      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+      "points": [
+        "Strikes hit Kstovo refinery in Nizhny Novgorod and a Rosneft-owned refinery in Samara.",
+        "Attacks occur ahead of US midterm elections, defying US President Donald Trump.",
+        "Ceasefire in Oleshky set to end late Sunday, potentially escalating tensions."
+      ]
+    },
+    {
+      "summary": "National Grid plans to build Britain's largest electricity substation on Teesside to support nearby AI datacentre projects.",
+      "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+      "points": [
+        "National Grid bought 73 acres at Dorman Point, Teesside.",
+        "Site owned by Teesworks, a local private-public partnership.",
+        "Project aims to attract investment for major datacentre infrastructure."
+      ]
+    },
+    {
+      "summary": "Residents of Menomonie, Wisconsin, halted a $1.6 billion datacenter project by Meta.",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter",
+      "points": [
+        "Project valued at $1.6 billion planned for 320-acre site near Menomonie.",
+        "Proposed datacenter would use 75,000 gallons of water daily.",
+        "Menomonie, with a population of about 17,000, saw this as its biggest development in nearly 150 years."
+      ]
+    },
+    {
+      "summary": "Multiple shootings in Dallas' Deep Ellum neighborhood on Halloween night left four dead and 15 injured.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham",
+      "points": [
+        "Four people died and 15 were injured in the shootings.",
+        "Police are investigating if the three shootings are related.",
+        "The shootings occurred in the Deep Ellum neighborhood on Halloween night."
+      ]
+    },
+    {
+      "summary": "Republican Senator Dan Sullivan says he will accept Alaska's election results despite allegations of a ballot-stacking scheme by his Democratic opponent.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+      "points": [
+        "Senator Dan Sullivan stated he would accept election results.",
+        "Allegations involve a ballot-stacking scheme by Democratic opponent Mary Peltola.",
+        "Aides from Peltola\u2019s campaign recruited a man with the same name as Sullivan to join the race."
+      ]
+    },
+    {
+      "summary": "Seoul Biosys starts mass production of rare earth-free white micro LEDs using WICOP technology.",
+      "significance": "Seoul Biosys' new rare earth-free white micro LEDs could reduce manufacturing costs and environmental impact, potentially reshaping the micro LED market.",
+      "url": "https://www.ajupress.com/view/20261028171670308",
+      "points": [
+        "Seoul Biosys launched third-generation optical semiconductor on October 28, achieving 100 lm/W efficiency.",
+        "Micro LED measures 25µm x 10µm, aiming for 200 lm/W efficiency within two years.",
+        "Technology reduces manufacturing costs and environmental impact by eliminating rare earth elements and packaging."
+      ]
+    },
+    {
+      "summary": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "points": [
+        "Plymouth City Council voted to end the Flock contract in September 2026.",
+        "Flock failed to respond to cancellation demands, leading to physical disconnection of cameras.",
+        "Flock's system uses AI to identify vehicles beyond just license plates, raising privacy concerns."
+      ]
+    },
+    {
+      "summary": "Use of LLMs undermines trust in software documentation and organizations.",
+      "significance": "The story highlights how LLMs undermine trust in software documentation and projects, challenging maintainers to prove quality and accuracy.",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "points": [
+        "LLMs make it easier to counterfeit markers of mature software systems.",
+        "Maintainers face challenges in ensuring software correctness and documentation accuracy.",
+        "Question raised on how maintainers can prove quality to users in the age of LLMs."
+      ]
+    },
     {
       "summary": "Binance, a cryptocurrency exchange, resumes customer withdrawals following a record $6.3bn hack blamed on North Korea.",
       "significance": "Binance resumes withdrawals post-hack, indicating recovery from the largest cryptocurrency theft, implicating North Korea.",
@@ -3640,110 +3743,6 @@
         "Chancellor John Healey supports the North Sea project.",
         "Energy secretary Miatta Fahnbulleh is reportedly leaning towards rejection.",
         "Fahnbulleh previously granted permission for the smaller Jackdaw gasfield."
-      ]
-    },
-    {
-      "summary": "Alaska Senate candidate Mary Peltola and her family suffered minor injuries in a car crash while en route to a campaign event.",
-      "significance": "Peltola's car crash causes delay in campaign, affecting her election schedule and public appearances.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
-      "points": [
-        "Peltola was traveling to the Alaska Federation of Natives annual banquet.",
-        "The crash occurred on Saturday, with a statement released on Sunday.",
-        "Peltola, a Democrat, is running for Alaska\u2019s lone US Senate seat."
-      ]
-    },
-    {
-      "summary": "Chancellor Healey employs military-style secrecy for the budget but significant policies are still leaking to the media.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
-      "points": [
-        "Healey implemented \"compartmentalisation\" to prevent leaks, similar to military defense.",
-        "Media reported on significant budget policies despite the secrecy measures."
-      ]
-    },
-    {
-      "summary": "The article discusses how technological advancements and economic growth have led to increasing wealth disparity between the rich and the poor globally.",
-      "significance": "The story highlights growing economic inequality, affecting social and political tensions globally.",
-      "url": "https://lusopt2016.blogspot.com/2026/10/a-grande-divisao-porque-e-que-os-ricos.html",
-      "points": [
-        "Wealth concentration in financial, tech, and real estate sectors benefits the already wealthy.",
-        "Rising living costs, especially in housing, make it harder for younger generations to buy homes.",
-        "Technological revolution increases efficiency but risks displacing traditional jobs, widening the gap between skilled and unskilled workers."
-      ]
-    },
-    {
-      "summary": "A science fiction novel from 2020 describes an AI assistant named Eunice with advanced capabilities, presaging today's AI developments.",
-      "url": "https://armincat.com/articles/eunice-is-almost-here",
-      "points": [
-        "Eunice operates in an alternate San Francisco in 2017, nearly three years before ChatGPT's release.",
-        "The AI can conduct human-like conversations and perform background tasks independently.",
-        "Today's AI agents are now capable of independently pursuing goals and working autonomously."
-      ]
-    },
-    {
-      "summary": "Serbia holds elections with Student List challenging Vučić's rule amid high voter turnout.",
-      "significance": "Serbia's election could end Vučić's 12-year rule as increased voter turnout reflects rising opposition against government corruption.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "points": [
-        "Ipsos/Cesid projects 60.8% turnout, surpassing 2023 by over 13 percentage points.",
-        "Student List movement opposes Vučić's government and institutional corruption.",
-        "Current election could mark the highest turnout since the mid-2000s."
-      ]
-    },
-    {
-      "summary": "Dolly Parton's Imagination Library gifts free books to children aged birth to five across five countries.",
-      "significance": "Dolly Parton's Imagination Library expands access to books for young children worldwide, fostering literacy and dreaming beyond socio-economic barriers.",
-      "url": "https://imaginationlibrary.com/",
-      "points": [
-        "Started in 1995, initially for children in East Tennessee.",
-        "Program mails high-quality, age-appropriate books monthly to children.",
-        "Operates in the US, Canada, UK, Australia, and Ireland, funded by Parton and local partners."
-      ]
-    },
-    {
-      "summary": "Bogomil Shopov invites participation in the Digital Dissident track at FOSDEM 27 to discuss tools against internet censorship.",
-      "url": "https://talkweb.eu/openweb/4558/",
-      "points": [
-        "FOSDEM 2027 will be held on January 30-31 at ULB Campus Solbosch, Brussels.",
-        "The Digital Dissident track focuses on protecting people under threat with a complete chain of tools.",
-        "Previous related talks were scattered across different rooms at FOSDEM 2026."
-      ]
-    },
-    {
-      "summary": "A 10-year-old CNN outperforms advanced LLMs in diagnosing skin cancer from images.",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "points": [
-        "The CNN correctly diagnosed 62% of 200 biopsy-proven lesions, while two LLMs diagnosed 42%.",
-        "The CNN, a fine-tuned Inception v3, was first published by Google in 2015.",
-        "The study used the MILK10k dataset, with lesions confirmed by histopathology."
-      ]
-    },
-    {
-      "summary": "Eugene, Oregon, charges a local news outlet $2.5 million for records on a police officer accused of misconduct.",
-      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "points": [
-        "Eugene Police Department claims processing the request will take 44,816 hours.",
-        "The records request focuses on potential misconduct by Officer Justin Peckels between 2018 and 2026.",
-        "The city recently invested in automated license plate readers, highlighting a technology double standard."
-      ]
-    },
-    {
-      "summary": "New benchmark, Humanity\u2019s Sixth Sense, reveals AI models' limitations in intuitive visual reasoning, while discussing AI's potential in space and its research taste.",
-      "significance": "HSS benchmark reveals current AI models' limitations in intuitive visual reasoning, challenging assumptions about the necessity of sophisticated world models for such tasks.",
-      "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
-      "points": [
-        "AI models scored an average of 53.6% on Humanity\u2019s Sixth Sense benchmark, significantly lower than the human baseline of 93.1%.",
-        "Chinese open weight models performed poorly, with GLM-5.3-flash and Kimi K3 scoring 26.8% and 25.5% respectively.",
-        "AI could enable significant advancements in space, including self-replicating probes and an industrial flywheel effect, potentially leading to economic and strategic dominance."
-      ]
-    },
-    {
-      "summary": "Venezuelan opposition leader María Corina Machado returns from exile after Maduro's ouster.",
-      "significance": "Machado's return signals renewed opposition activity in Venezuela's uncertain political landscape post-Maduro.",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-      "points": [
-        "Machado announced her return on social media with \"I am here. With you.\"",
-        "Acting President Delcy Rodríguez has exceeded her authorized term without elections.",
-        "Machado and allies demand a presidential election date, but U.S. officials prioritize economic stabilization."
       ]
     }
   ]
