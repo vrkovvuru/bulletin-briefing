@@ -1,6 +1,53 @@
 {
-  "generated": "2026-11-01T19:43:12.320566Z",
+  "generated": "2026-11-01T21:41:50.407518Z",
   "summaries": [
+    {
+      "summary": "Sofia Demetriades won BBC Young Musician 2026 with a mature performance of Tchaikovsky\u2019s Violin Concerto in the first all-female final.",
+      "significance": "The story marks a historic first with an all-female final, highlighting increased female representation in a prestigious music competition.",
+      "url": "https://www.theguardian.com/music/2026/nov/01/bbc-young-musician-teenage-violinist-sofia-demetriades",
+      "points": [
+        "Sofia Demetriades performed Tchaikovsky\u2019s Violin Concerto.",
+        "It was the first all-female final in the competition\u2019s 48-year history.",
+        "Judges praised her performance for its insights, poetry, and maturity."
+      ]
+    },
+    {
+      "summary": "Northern Territory government faces criticism for planning to remove legal water allocation requirements for the environment.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
+      "points": [
+        "Green group labels NT government's move as \"extreme\" and an attack on nature.",
+        "Plan involves changing water rules to allow more industrial water extraction.",
+        "This action is part of a series of environmental attacks by the Country Liberal party."
+      ]
+    },
+    {
+      "summary": "Apple captures 50% of consumer revenue from the top half of the S&P 500, standing out as a consumer-focused company in a tech-dominated market.",
+      "significance": "Apple's dominance highlights the shift towards tech consumer-focused companies in the S&P 500,区别于其他大多数大型公司专注于机构销售。",
+      "url": "https://asymco.com/2026/11/01/the-last-consumer-company/",
+      "points": [
+        "Apple holds 50% of consumer revenue among the top half of the S&P 500.",
+        "In 2010, 8 out of 20 largest companies were consumer-focused; now, only Walmart and Amazon remain.",
+        "Amazon's AWS cloud service has grown from 16% to 23% of total sales over three years, overshadowing its consumer retail business."
+      ]
+    },
+    {
+      "summary": "John Leeson, the voice actor behind Doctor Who's K9, has passed away.",
+      "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+      "points": [
+        "Leeson voiced K9 in 54 episodes of Doctor Who.",
+        "His portrayal made K9 a beloved, recurring character.",
+        "Leeson also starred in various British TV shows like Blake's 7 and Minder."
+      ]
+    },
+    {
+      "summary": "A meetup for a casual chat is planned at The Fellow pub in London on November 15, 2026.",
+      "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
+      "points": [
+        "Date and time set for Sunday, November 15, 2026, at 1pm.",
+        "Location is The Fellow, 24 York Way, London, N1 9AA.",
+        "Organizer created a Whatsapp group for updates and communication."
+      ]
+    },
     {
       "summary": "Early voting in US midterms shows record turnout, indicating potential voter dissatisfaction with Republicans and Trump.",
       "significance": "Early high voter turnout, especially in tight Senate races, indicates potential dissatisfaction with Republicans and could determine Senate control.",
@@ -3696,53 +3743,6 @@
         "Bullet with \"RAT\" and Edbrooke's old firefighter number found on car bonnet.",
         "Incident occurred after speaking to community members on Saturday.",
         "Edbrooke expresses fear for his family\u2019s safety amid concerns for MPs' security."
-      ]
-    },
-    {
-      "summary": "Trump made comments about the rear ends of Ohio senator Jon Husted and rapper Nicki Minaj at a Michigan rally.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
-      "points": [
-        "Trump noted Husted\u2019s athletic build and specifically complimented his rear end.",
-        "Trump encouraged the crowd to notice rapper Nicki Minaj\u2019s prominent behind.",
-        "These comments came during a rally in Michigan on Sunday."
-      ]
-    },
-    {
-      "summary": "F-Zero X was ported to the Nintendo 3DS with support for both Old and New 3DS models, including the 64DD Expansion Kit.",
-      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-      "points": [
-        "Port completed in two phases: 24 days for New 3DS support (2026-08-11 to 09-03), 43 days for Old 3DS and Expansion Kit (2026-09-07 to 10-19).",
-        "Achieved native 60 fps in 3D for New 3DS, comparable performance for Old 3DS through different methods.",
-        "Three released builds: Old 3DS, New 3DS, and New 3DS with 64DD Expansion Kit, all booting from HOME menu or homebrew launcher."
-      ]
-    },
-    {
-      "summary": "Zig language updates its operator precedence rules, requiring parentheses in certain cases to avoid ambiguity.",
-      "significance": "The story matters as it changes Zig language rules to require parentheses for certain operator combinations, reducing the number of precedence rules programmers need to remember.",
-      "url": "https://ziglang.org/devlog/2026/#2026-10-24",
-      "points": [
-        "Issue #114 mandates parentheses for ambiguous operator combinations.",
-        "353 lines out of over a million in the Zig codebase needed changes.",
-        "Compiler now enforces parentheses for expressions like \"orelse... ==...\"."
-      ]
-    },
-    {
-      "summary": "A speech at the IMF meeting in Bangkok argued that AI is entering a phase of rapid, autonomous progress, signaling the beginning of the singularity.",
-      "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
-      "points": [
-        "The speaker, with a background in journalism and AI research, claims AI is now altering national security and economic trajectories.",
-        "AI systems are now more capable and efficient than most software engineers, with researchers at Anthropic producing nearly 10 times more code than in the company\u2019s early years.",
-        "The speech emphasizes the need for policymakers to prepare for significant changes and to ensure the benefits of AI are shared equitably."
-      ]
-    },
-    {
-      "summary": "Storm Boelo caused severe weather in the UK, resulting in two deaths and widespread power outages.",
-      "significance": "Storm Boelo causes fatalities and widespread power outages, affecting over 160,000 properties across the UK.",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "161,400 properties were without power as of Sunday at 15:00 GMT.",
-        "A 20-something man died in north London when a tree fell on his car.",
-        "A 60-year-old man died in Dumfries and Galloway, Scotland, hit by a falling tree."
       ]
     }
   ]
