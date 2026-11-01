@@ -1,6 +1,71 @@
 {
-  "generated": "2026-11-01T21:41:50.407518Z",
+  "generated": "2026-11-01T23:42:46.893377Z",
   "summaries": [
+    {
+      "summary": "Trump's campaign event in Iowa was initially canceled but later proceeded as he makes final pushes before Election Day.",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
+      "points": [
+        "Four largest US cities had Black mayors at end of 2022 due to Black Lives Matter movement.",
+        "Only Karen Bass remains as Black mayor among the four largest US cities.",
+        "Karen Bass faces challenge from Nithya Raman, a member of Democratic Socialists of America."
+      ]
+    },
+    {
+      "summary": "The Nationals' Matt Canavan to run for a lower house seat in Queensland, potentially facing off against One Nation\u2019s James Ashby.",
+      "significance": "The Nationals' Matt Canavan's run for a lower house seat follows Michelle Landry's retirement and may lead to a showdown with One Nation\u2019s James Ashby.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
+      "points": [
+        "Matt Canavan will contest the Capricornia seat vacated by retiring MP Michelle Landry.",
+        "The move could lead to a showdown with One Nation\u2019s national director, James Ashby.",
+        "Canavan\u2019s decision comes ahead of the next federal election in Australia."
+      ]
+    },
+    {
+      "summary": "All nine people on a business jet that crashed in a Florida neighborhood have died.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
+      "points": [
+        "Learjet 60 crashed near a busy roadway in Palm Beach county at 12:50pm.",
+        "The aircraft had departed from Austin-Bergstrom international airport, heading to the Bahamas.",
+        "US Transportation Secretary Sean Duffy called the incident a \"horrific tragedy."
+      ]
+    },
+    {
+      "summary": "U.S. workers received the smallest share of capital since at least 1947, according to recent data.",
+      "significance": "U.S. workers are earning the smallest share of U.S. GDP on record, indicating a shift towards capital and raising concerns about economic inequality.",
+      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+      "points": [
+        "Labor share fell to 52.8% in Q2 2026, the lowest since records began in 1947.",
+        "Corporate earnings for Fortune 500 companies exceeded economists' predictions in Q3 2025.",
+        "Unemployment concerns rise with only 29,000 jobs added in September, below projections."
+      ]
+    },
+    {
+      "summary": "Author discusses their stance against using AI for research, focusing on personal enjoyment and ethical concerns.",
+      "url": "https://eva.ac/blog/llms",
+      "points": [
+        "Author prefers using their brain for research, finding it more enjoyable than relying on AI.",
+        "AI models can be confidently wrong, frustrating the author and leading to discontinued use.",
+        "AI companies overmarket their capabilities in cybersecurity, often leading to fearmongering through public disclosure of vulnerabilities."
+      ]
+    },
+    {
+      "summary": "Deleting the uv.lock file resolves Python dependency issues when using Python 3.15.",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "points": [
+        "Deleting uv.lock file fixes Python 3.15 dependency errors.",
+        "uv.lock files are created by running commands like `uv run pytest`.",
+        "Issue arises when a dependency lacks a Python 3.15 wheel, like `watchfiles==1.1.1`."
+      ]
+    },
+    {
+      "summary": "A speech at the IMF meeting in Bangkok argued that AI is entering a phase of rapid, autonomous progress, potentially altering global economics and security.",
+      "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+      "points": [
+        "Delivered on October 17th, the speech highlighted AI's current impact on national security and global economics.",
+        "The speaker, with a career background in journalism and AI research, claims AI systems now operate at the frontier of human science.",
+        "AI-driven scientific invention is expected to change global economies, infrastructure planning, and public health, but also poses significant risks."
+      ]
+    },
     {
       "summary": "Sofia Demetriades won BBC Young Musician 2026 with a mature performance of Tchaikovsky\u2019s Violin Concerto in the first all-female final.",
       "significance": "The story marks a historic first with an all-female final, highlighting increased female representation in a prestigious music competition.",
@@ -3676,73 +3741,6 @@
         "Runs locally in browser memory, ensuring files never leave user's machine",
         "Supports PDF operations like merge, split, OCR, and compression via CLI and WASM",
         "Enterprise Edition includes SSO, RBAC, audit logs, and DLP features separately developed"
-      ]
-    },
-    {
-      "summary": "A new tool called Seam Cutter allows users to slide and crop sections of images horizontally or vertically.",
-      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-      "points": [
-        "Seam Cutter enables cropping out middle sections of images.",
-        "Useful for redacting irrelevant parts in stitched screenshots.",
-        "Created to complement Tailor, an iPhone app for stitching images."
-      ]
-    },
-    {
-      "summary": "Zelenskyy announces trilateral peace talks with Russia and the US in November, while emphasizing Ukraine's conditions and ongoing military actions.",
-      "significance": "Restarted trilateral peace talks between Ukraine, Russia, and the US aim to address stalled Russia-Ukraine peace negotiations, focusing on leadership-level territorial discussions.",
-      "url": "https://www.theguardian.com/world/2026/oct/26/ukraine-war-briefing-trilateral-us-ukraine-russia-talks-restart-november",
-      "points": [
-        "Zelenskyy states Ukraine will not discuss limits to its armed forces or enforced neutrality at the November meeting.",
-        "Ukraine will push for a meeting between Zelenskyy and Putin, citing Putin as the only decision-maker to end the war.",
-        "Russia launched nearly 2,300 drones targeting Ukrainian cities over the past week, prompting calls for faster deliveries of interceptors."
-      ]
-    },
-    {
-      "summary": "Helen Haines first thanked rescuers and inquired about her staff's safety after an alleged attack.",
-      "significance": "The story highlights Haines's prioritization of staff safety and appreciation for helpers post-attack, underscoring her character amidst political turmoil.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
-      "points": [
-        "Haines's husband, Phil Haines, shared this information in parliament.",
-        "The incident occurred outside Haines's Wangaratta electorate office.",
-        "Allegra Spender referred to Haines as a 'force for change' in her tribute."
-      ]
-    },
-    {
-      "summary": "Commonwealth ombudsman's investigation criticizes Labor's algorithm for aged care as unreasonable, unfair, and lacking transparency.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/damning-investigation-labor-algorithm-tool-aged-care-assessment",
-      "points": [
-        "Investigation finds the algorithm-based tool lacks human oversight.",
-        "Report states transparency recommendations from the robodebt royal commission were ignored.",
-        "Algorithm assesses the level of care older Australians are entitled to."
-      ]
-    },
-    {
-      "summary": "Research proposes an attention-free architecture using Grassmann flows for sequence modeling, challenging the necessity of self-attention mechanisms.",
-      "significance": "The story matters because it proposes an attention-free architecture using Grassmann flows that achieves competitive performance with Transformers, offering a more structured approach to neural reasoning.",
-      "url": "https://arxiv.org/abs/2512.19428",
-      "points": [
-        "Grassmann-based models achieve validation perplexities within 10-15% of Transformers on Wikitext-2.",
-        "Grassmann-Plucker head on DistilBERT outperforms Transformer head on SNLI task with accuracies of 0.8550 and 0.8538.",
-        "The Causal Grassmann layer uses Plucker coordinates to encode local token pairs as two-dimensional subspaces."
-      ]
-    },
-    {
-      "summary": "Lula wins Brazil's presidency for a fourth term, defeating far-right candidate Flávio Bolsonaro.",
-      "significance": "Lula's victory marks a return to leftist leadership in Brazil, reversing the far-right trajectory set by Bolsonaro's influence.",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-      "points": [
-        "Lula received 51.75% of the vote compared to Bolsonaro\u2019s 48.25%.",
-        "The 80-year-old leftist incumbent secured victory in a dramatic comeback.",
-        "Nearly 99% of votes were counted, solidifying Lula\u2019s win."
-      ]
-    },
-    {
-      "summary": "Victorian Labor minister Paul Edbrooke found a bullet etched with \"RAT\" on his car, raising safety concerns.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
-      "points": [
-        "Bullet with \"RAT\" and Edbrooke's old firefighter number found on car bonnet.",
-        "Incident occurred after speaking to community members on Saturday.",
-        "Edbrooke expresses fear for his family\u2019s safety amid concerns for MPs' security."
       ]
     }
   ]

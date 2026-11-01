@@ -2,15 +2,6 @@
   "date": "2026-11-01",
   "stories": [
     {
-      "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
       "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
       "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
       "source": "NPR",
@@ -29,75 +20,102 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
       "alsoReportedBy": []
     },
     {
-      "title": "Thousands displaced from Hebron as Israel carries on siege",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+      "title": "High-ranking US Democratic senator suffers stroke",
+      "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+      "summary": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is &#039;alert&#039; after a stroke.",
       "alsoReportedBy": []
     },
     {
-      "title": "Attempted murder probe after petrol bomb thrown at French riot police",
-      "url": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Youth-led protests end with street violence in cities across France, Germany, Switzerland, Portugal and Albania French officials have opened an investigation into the attempted murder of a police officer and Germany’s interior minister has called for harsh penalties after peaceful and mainly youth-led protests across Europe ended in violence. In Portugal, police – some with dogs – cleared protest camps with baton charges, while security forces in Switzerland were attacked with paving stones. Continue reading...",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Arsenal go top after narrow win at Liverpool",
-      "url": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
-      "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+      "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
+      "summary": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
       "alsoReportedBy": []
     },
     {
-      "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.",
+      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
       "alsoReportedBy": []
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump takes stage in Iowa in final push before Election Day - follow live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Donald Trump’s appearance was initially canceled, raising concerns that the president was abdicating his plans to campaign Sign up for the Breaking News US email At the end of 2022, the four largest US cities – New York, Los Angeles, Chicago and Houston – all had Black mayors. It was a historic alignment made possible by the aftereffects of the Black Lives Matter civil rights movement and the unprecedented wave of protests following the killing of George Floyd in 2020. Six years on, only one of those mayors remains: the embattled Karen Bass of Los Angeles , who is facing a strong challenge from a younger, even more progressive challenger. Bass’s opponent is Nithya Raman, a member of the Democratic Socialists of America, although the group is considering rescinding its endorsement over her refusal to explicitly embrace the Boycott, Divestment and Sanctions movement against Israel. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "This legendary board game could take decades to complete",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+      "summary": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation’s James Ashby",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Tilt comes after Michelle Landry announced she will not recontest her Queensland seat of Capricornia Get our daily political email , free app or daily news podcast The Nationals leader, Matt Canavan, will run in a lower house Queensland seat at the next federal election, in a move that may see him face off with Pauline Hanson’s national director. The announcement follows the retirement of the Capricornia MP Michelle Landry, and could result in a contest against James Ashby in a major battle for regional seats. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,12 +128,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Business jet carrying nine people crashes in Florida neighborhood",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "All nine people aboard business jet that crashed in Florida have died",
       "url": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "It is unclear if anyone on the ground was hurt and no details yet on whether anyone onboard survived A business jet carrying nine people crashed in a Florida neighborhood on Sunday, erupting in a massive fireball. The Learjet 60 crashed in a residential area in Florida’s Palm Beach county, federal officials said. Continue reading...",
+      "summary": "Aircraft had departed Austin-Bergstrom international airport and was headed to the Bahamas when it crashed All nine people have died who were aboard a business jet that crashed in a Florida neighborhood on Sunday, Sean Duffy, the US transportation secretary, said. The aircraft erupted in a massive fireball that appeared to just miss homes before crashing near a busy roadway. Duffy posted on X on Sunday that the Learjet 60 crashed in Palm Beach county at 12.50pm and called it a “horrific tragedy”. The Federal Aviation Administration is sending a team to support the National Transportation Safety Board’s investigation into the cause, he said. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -128,30 +155,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
-      "source": "NPR World",
+      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "U.S. Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A new political era in the Southern Philippines",
-      "url": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A new local government has taken its seat in the southern Philippines, in a step that marks a milestone in the peace process for a conflict that has lasted some 80 years.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare). Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -164,21 +173,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare). Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
-      "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "New electricity generating capacity would enable north-east to attract investment for large-scale AI infrastructure National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, which could supply power to a vast neighbouring datacentre as the UK races to expand its AI infrastructure. Last week, the company agreed to purchase 29.5 hectares (73 acres) of land at Dorman Point on a site owned by Teesworks, a local private-public partnership. The deal was first reported by Sky News. Continue reading...",
+      "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces. The UAE nominated Lana Nusseibeh last week to replace the UN secretary general, António Guterres, as he finishes his second five-year term ⁠this year, upending a race that had become gridlocked. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -200,15 +200,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Apple captures 50% of consumer revenue of the top half of the S&P 500",
-      "url": "https://asymco.com/2026/11/01/the-last-consumer-company/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Pratt parsing is a black box",
       "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
       "source": "Lobsters",
@@ -218,8 +209,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "John Leeson (the voice of K9) has died",
-      "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+      "title": "U.S. workers took home their smallest share of capital since at least 1947",
+      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,9 +218,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Introducing Kwi, a new KDE terminal emulator",
-      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+      "title": "so i guess everyone uses llms to think now",
+      "url": "https://eva.ac/blog/llms",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,12 +263,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "London Meetup - Nov 2026",
-      "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
+      "title": "Introducing Kwi, a new KDE terminal emulator",
+      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "Pub Address: The Fellow, 24 York Way, London, N1 9AA. Date: Sunday, 15/11/2026 1pm The idea is to just meet and have a chat really. I have submitted a request to book a table. Hopefully they approve but if not we can just find an un-booked table. I am posting the meetup prior to receiving their approval, so that those of you who live outside London can (hopefully) bag a cheaper train ticket by booking 2 weeks in advance. I've created a London Lobsters Whatsapp group too, where we can communicate on the day to share the table number/updates. Please do join it.",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to my repositories. But... sometimes that uv.lock pins a version of a dependency that doesn't yet have a Python 3.15 wheel. An example from earlier today: error: Failed to build `watchfiles==1.1.1` cause: Call to `maturin.build_wheel` failed error: the configured Python interpreter version (3.15) is newer than PyO3's maximum supported version (3.14) Deleting that file and running uv run pytest again usually fixes the problem. Tags: uv , til , python",
       "alsoReportedBy": []
     },
     {
@@ -297,15 +306,6 @@
       "categoryLabel": "AI & Agents",
       "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenAI use the MathLive JavaScript library as part of their graph support, and that library includes its own virtual keyboard , which can be triggered in the parent page via postMessage() from the sandboxed iframe. That message receiving code uses innerHTML , so anything that sends a message can add custom HTML to the parent - and there was no mechanism to prevent other sandboxed frames, including HTML preview frames, from calling that method. This meant untrusted code in an iframe could insert HTML, and while innerHTML doesn't directly execute script elements it could be used to inject a new iframe without sandbox restrictions. OpenAI’s CSP rules blocked inline scripts entirely, and only allowed script loading from a handful of domains, but one of those was YouTube - and the YouTube oEmbed endpoint could be used to reflect JavaScript back in a way that executed it. Once the attack had JavaScript execution on ChatGPT, it was trivial to fetch private user data from APIs and exfiltrate it via an image reference. The end result: you could create a ChatGPT share URL which, when visited by another signed-in user, could exfiltrate their private data or take actions on their behalf. OpenAI closed the hole and paid out a $5,000 bug bounty, which I think was a bit cheap for a vulnerability this serious. Via Hacker News Tags: iframes , javascript , sandboxing , security , xss , openai , chatgpt , content-security-policy",
       "alsoReportedBy": []
-    },
-    {
-      "title": "datasette-llm 0.1a9",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.default_model gpt-6-astra . Tags: datasette , llm , datasette-agent",
-      "alsoReportedBy": ["Simon Willison"]
     },
     {
       "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
@@ -353,13 +353,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "dbreunig/nesformer",
-      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reveals the Opus 5.5 prompts he used to build this system: Read this article and any relevant source code: https://divagr.com/blog/qwenputer. Then explore if you could emulate the chip and ram in a Nintendo Entertainment System (as people do today with FPGAs in MISTRs) using this technique. If so, what size model would you have to build and if you could use smaller faster ones, could you get it to be at the standard clockspeed. Followed by: I think we should build it! Just for fun. It's okay if it's not fast. We want to be able to have the weights, and a cli to run them that we can point at a ROM. Apparently Opus found and then used this collection of conformance tests for the NES CPU released 15 years ago by Christopher Pow. Via Hacker News Tags: games , ai , generative-ai , llms , drew-breunig , qwen , conformance-suites",
-      "alsoReportedBy": []
+      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.default_model gpt-6-astra . Tags: datasette , llm , datasette-agent",
+      "alsoReportedBy": ["Simon Willison"]
     }
   ]
 }
