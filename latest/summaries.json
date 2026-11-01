@@ -1,6 +1,99 @@
 {
-  "generated": "2026-11-01T04:40:46.457614Z",
+  "generated": "2026-11-01T13:43:03.567256Z",
   "summaries": [
+    {
+      "summary": "Binance restarts withdrawals following a $6.3bn heist blamed on North Korea.",
+      "significance": "Binance restarts withdrawals following a record $6.3bn heist, absorbing the financial impact and restoring services in stages.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss",
+      "points": [
+        "Binance restored major cryptocurrencies like Bitcoin and Ether withdrawals.",
+        "The company will absorb the financial impact of the stolen funds, not users.",
+        "FBI identified North Korea as responsible for the theft, linking it to the TraderTraitor operation."
+      ]
+    },
+    {
+      "summary": "Qatar unveiled a countdown clock for the 2027 FIBA Basketball World Cup in Doha.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/qatar-unveils-countdown-clock-for-2027-basketball-world-cup?traffic_source=rss",
+      "points": [
+        "Fewer than 300 days remain until the 2027 event.",
+        "The official countdown clock was unveiled in Doha, Qatar."
+      ]
+    },
+    {
+      "summary": "Trump's comments and actions ahead of the US midterms may impact the Republican party's performance.",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave",
+      "points": [
+        "Trump told Republicans to \"Pretend I\u2019m on the ticket\" at the summer convention.",
+        "Trump has made controversial remarks, including baselessly accusing a Muslim candidate of being a terrorist.",
+        "Despite his actions, Trump believes he can help Republicans retain control of Congress."
+      ]
+    },
+    {
+      "summary": "Welsh health board considers closing urgent primary care centres at three hospitals due to funding and recruitment issues.",
+      "significance": "The potential closure of urgent primary care centres at three hospitals due to funding and recruitment issues could significantly impact healthcare access for a quarter of Wales\u2019s population.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/01/welsh-health-board-urgent-primary-care-centres-upcc-holyhead-tremadog-bangor-betsi-cadwaladr",
+      "points": [
+        "Betsi Cadwaladr University health board serves about a quarter of Wales\u2019s population.",
+        "UPCC closures proposed for Holyhead, Tremadog, and Bangor by April 2027.",
+        "Decision faces widespread criticism from the community."
+      ]
+    },
+    {
+      "summary": "The 350th anniversary of King Philip\u2019s War, a devastating conflict in New England, is largely overlooked despite its historical significance.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/king-philips-war-anniversary-native-american",
+      "points": [
+        "King Philip\u2019s War, led by Metacom, resulted in more deaths per capita than any other colonial or US conflict.",
+        "The war involved an alliance of New England tribes against English colonists, with an estimated 800 colonists and 3-5 thousand Indigenous people killed.",
+        "Massachusetts focuses more on celebrating the American Revolution, neglecting this older, complex remembrance."
+      ]
+    },
+    {
+      "summary": "Labour's promise to equalize minimum wage for under-20s before the next election is uncertain after Chancellor Healey's vague response.",
+      "url": "https://www.theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg",
+      "points": [
+        "Chancellor John Healey did not guarantee the wage equalization timeframe.",
+        "The minimum wage for adults increased to £13.21.",
+        "Under-20s' minimum wage rose to £11.27, still below adult rate."
+      ]
+    },
+    {
+      "summary": "Kemi Badenoch argues Britain should avoid apologizing for the slave trade, deeming it a distraction.",
+      "url": "https://www.theguardian.com/world/2026/nov/01/britain-should-not-apologise-slave-trade-kemi-badenoch",
+      "points": [
+        "Badenoch calls an apology a \"navel-gazing distraction\" and warns it could lead to demands for financial compensation.",
+        "She emphasizes slavery involved people from every continent, not just Britain.",
+        "Badenoch questions the value of future leaders attending the Commonwealth summit due to reparations discussions."
+      ]
+    },
+    {
+      "summary": "Kwi, a new KDE terminal emulator, offers modern features and improved performance over Konsole.",
+      "significance": "Kwi introduces a modern, GPU-accelerated KDE terminal emulator, offering significant performance improvements and better integration with KDE Plasma desktop.",
+      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+      "points": [
+        "Kwi uses Vulkan or OpenGL for a 3x-35x faster performance than Konsole.",
+        "It supports better integration with KDE Plasma's color scheme and Wayland fractional scaling.",
+        "The project aims to close the gap for KDE apps written in Qt Quick/Kirigami by offering a drop-in replacement solution."
+      ]
+    },
+    {
+      "summary": "Researchers prove the Platonic Representation Hypothesis using Joint-Embedding Predictive Architectures (JEPAs), showing models trained on different modalities converge to similar representations.",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "points": [
+        "JEPAs trained on different modalities learn the same representation up to one rotation when positive pairs are observations of the same scene.",
+        "Text JEPAs need 42 times fewer samples than next-token prediction to reach the same alignment with images.",
+        "A 109M-parameter text JEPA outperforms language models up to 72B parameters in aligning with image encoders like DINOv2 and CLIP."
+      ]
+    },
+    {
+      "summary": "Researchers discovered a complex exploit allowing unauthorized access to ChatGPT accounts through sandboxed iframes.",
+      "significance": "The story highlights a significant security flaw in ChatGPT's implementation, allowing for data exfiltration and action impersonation, affecting user data privacy and security.",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "points": [
+        "OpenAI paid a $5,000 bug bounty for the exploit.",
+        "Exploit used YouTube oEmbed to execute JavaScript and exfiltrate private data.",
+        "Attack involved injecting HTML via MathLive's virtual keyboard feature."
+      ]
+    },
     {
       "summary": "Brazilian court fines two lawyers for embedding hidden prompt-injection commands in a court filing to manipulate AI review systems.",
       "significance": "This story matters as it marks a global first in judicially addressing the manipulation of court AI systems through prompt injection, setting a precedent for professional conduct in the digital age.",
@@ -3650,99 +3743,6 @@
         "Vim Classic 8.3.0 is the first release, focusing on stability and long-term support.",
         "The project aims to continue Bram Moolenaar's legacy of supporting users.",
         "Development of Vim Classic does not use generative AI tools."
-      ]
-    },
-    {
-      "summary": "Man accused of shooting and killing a Missouri teen on a highway has been charged in a second shooting incident.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
-      "points": [
-        "Alyssa Wilson, 17, was shot and killed on October 14 while driving to a Halloween party.",
-        "The incident occurred on Interstate 170 in Overland, Missouri.",
-        "The suspect fired into another vehicle days before shooting Wilson."
-      ]
-    },
-    {
-      "summary": "More than half of Australians are bulk-billed for all GP care, up from previous years, due to government incentives.",
-      "significance": "The increase in bulk-billing rates reflects government incentives and affects the majority of Australians' access to affordable GP care.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
-      "points": [
-        "63% of Australians are now bulk-billed for all GP care.",
-        "The proportion of GPs bulk-billing all patients more than doubled in a year.",
-        "Increase attributed to federal government's investment in Medicare bulk billing incentives."
-      ]
-    },
-    {
-      "summary": "Videos about British trains have more than doubled on TikTok in three months due to increased interest and content from train staff.",
-      "url": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
-      "points": [
-        "Number of rail-related videos on TikTok more than doubled in three months.",
-        "Content includes information on cheap tickets and facts about the London Underground.",
-        "Train staff contribute tales, adding to the surge in rail content online."
-      ]
-    },
-    {
-      "summary": "Audi, part of Volkswagen, announces a $4bn SUV factory in Georgia despite parent company's struggles.",
-      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-      "points": [
-        "Audi to spend $4bn on new factory in Macon, Georgia.",
-        "Factory creation to provide 4,500 jobs in the US.",
-        "Announcement made during Trump's campaign rally, ahead of midterm elections."
-      ]
-    },
-    {
-      "summary": "UK cabinet minister Angela Rayner supports Andy Burnham's call for a debate on returning to free movement with the EU, risking concern among some MPs.",
-      "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
-      "points": [
-        "Angela Rayner backs Andy Burnham's call for debate on free movement with EU.",
-        "Prime Minister says staying out of free movement is no longer a red line in EU talks.",
-        "Support from senior cabinet ministers risks causing concern among red wall MPs."
-      ]
-    },
-    {
-      "summary": "Ethnic minorities in England are less likely to receive breast cancer diagnosis through routine screening and more likely to be diagnosed in emergencies.",
-      "url": "https://www.theguardian.com/society/2026/oct/25/ethnic-minorities-england-breast-cancer-screening-disparity",
-      "points": [
-        "People from minority backgrounds are up to a third less likely to be diagnosed via routine screening.",
-        "Research analyzed 86,564 adults diagnosed with breast cancer between 2009 and 2019.",
-        "Study conducted by University of Surrey academics and funded by Breast Cancer Now."
-      ]
-    },
-    {
-      "summary": "A 1505 tool book by a Nuremberg knight, now digitized, offers insights into early engineering and technology.",
-      "significance": "The digitization and detailed exploration of a 1505 Nuremberg knight's tool book offer insights into medieval engineering and technology.",
-      "url": "https://loeffelholz-codex.org/en/",
-      "points": [
-        "The book, titled Codex Löffelholz, is held at Biblioteka Jagiellońska in Kraków.",
-        "It contains 154 pages of tools, machines, and weapons, with detailed drawings and captions.",
-        "The project loeffelholz-codex.org aims to transcribe and interpret each page, with some pages still under review."
-      ]
-    },
-    {
-      "summary": "Farol is an open-source tool that provides a risk map for pull requests, highlighting risky files and changes for approvers.",
-      "url": "https://github.com/winnin/farol",
-      "points": [
-        "Farol works with TypeScript/React, Go, and Python projects.",
-        "It generates a 0\u2013100 risk score based on reach, diff coverage, security findings, and contract breaks.",
-        "The tool runs locally or in CI, providing deterministic reports without executing or sending code elsewhere."
-      ]
-    },
-    {
-      "summary": "A DIY enthusiast built a portable computer, dubbed the Slurptop, using power tool batteries and a mini PC.",
-      "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
-      "points": [
-        "Uses Kobalt power tool batteries for power",
-        "Designed with a Cyberpunk aesthetic, featuring an improvised part selection",
-        "Equipped with a 16:10 display and a trackball mouse for navigation"
-      ]
-    },
-    {
-      "summary": "Comedian Jaishree Malik faces deportation from Ireland despite job offers, mirroring real-life struggles of others.",
-      "significance": "The story highlights the real-life deportation fears of immigrants in Ireland, exemplified through a comedian's personal struggle with visa issues.",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/comedy-routine-deportation-ireland-woman-",
-      "points": [
-        "Jaishree Malik's visa renewal and extension requests have been delayed and denied.",
-        "Despite having job offers, she is at risk of deportation from Ireland.",
-        "Malik uses her comedy platform to highlight her deportation threat, engaging her audience."
       ]
     }
   ]
