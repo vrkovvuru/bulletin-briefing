@@ -1,6 +1,53 @@
 {
-  "generated": "2026-10-31T22:41:55.853943Z",
+  "generated": "2026-11-01T00:42:05.018278Z",
   "summaries": [
+    {
+      "summary": "Aston Villa lost points due to an own goal by goalkeeper Zion Suzuki, allowing Fulham to earn a draw.",
+      "significance": "Zion Suzuki's own goal prevents Aston Villa from securing a win, impacting their position in the Premier League standings.",
+      "url": "https://www.theguardian.com/football/2026/oct/31/aston-villa-fulham-premier-league-match-report",
+      "points": [
+        "Zion Suzuki scored an own goal from Alex Iwobi\u2019s corner, costing Villa a win.",
+        "Nicolas Jackson scored his eighth goal of the season for Villa.",
+        "The result prevents Villa from securing their fifth win in six games."
+      ]
+    },
+    {
+      "summary": "Abdul El-Sayed asks Haley Stevens to stay away from his campaign events to avoid distractions in the Michigan US Senate race.",
+      "significance": "The story highlights internal Democratic conflicts in a crucial Senate race, potentially impacting the party's unity and electoral outcome.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
+      "points": [
+        "El-Sayed, Michigan's Democratic Senate nominee, disinvited Stevens to limit distractions.",
+        "Stevens is a Democratic congresswoman involved in the public spat.",
+        "El-Sayed stated he does not want any distractions affecting the race."
+      ]
+    },
+    {
+      "summary": "An Italian farmer, Claudio Grossi, discovered and planted unknown seeds from his attic, resulting in a unique, ancient wheat variety.",
+      "significance": "An Italian farmer's discovery of ancient seeds in his attic led to the cultivation of a unique, biblically described wheat variety, highlighting the potential for rediscovering lost agricultural biodiversity.",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "points": [
+        "The wheat, named \"miracolo,\" grew up to six feet tall with seven ears per stalk, unlike typical commercial wheat.",
+        "Grossi found the wheat's characteristics reminiscent of a passage in the Book of Genesis."
+      ]
+    },
+    {
+      "summary": "A team of 5 Qwen3.8-27B models outperformed Fable 5 on LiveCodeBench Hard.",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "points": [
+        "Qwen3.8-27B team solved 49 out of 50 problems, costing $35.79.",
+        "The team scored 10.8 on the problems, compared to Fable 5's 8.0.",
+        "Each run took a median of 40 minutes and cost $0.39."
+      ]
+    },
+    {
+      "summary": "Datasette-llm 0.1a9 release improves user experience by auto-configuring the default model for Datasette Agent.",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "points": [
+        "Datasette Agent can now be used without explicitly setting a default model.",
+        "Previous setup required specifying a model with -s plugins.datasette-agent.default_model gpt-6-astra.",
+        "Release includes a minor update to the datasette-llm plugin."
+      ]
+    },
     {
       "summary": "Protestors clashed with police in Albania, throwing petrol bombs and stones amid demands for the Prime Minister's resignation.",
       "significance": "The story highlights ongoing political unrest in Albania, affected by weeks of violent protests demanding the resignation of the Prime Minister.",
@@ -3694,52 +3741,6 @@
         "Designs are described as flat, somewhat orthopaedic, and intentionally unconventional.",
         "Previously, commuters favored low-key, unobtrusive shoes like basic trainers or flats.",
         "These new shoe designs are polarizing and have gained desirability despite being labeled \"ugly\" online."
-      ]
-    },
-    {
-      "summary": "Family and charity workers demand UK government action for a full investigation into British man Andrew Frederick's homicide death in Grenada.",
-      "significance": "Family supporters demand UK government action for a full investigation into British man's homicide death in Grenada, stalled by diplomatic delays.",
-      "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
-      "points": [
-        "Andrew Frederick's death, ruled a homicide by a pathologist, occurred 10 months ago.",
-        "Diplomatic delays between UK and Grenada have stalled the time-critical investigation.",
-        "Body of Andrew Frederick was found in a ransacked property on the Caribbean island."
-      ]
-    },
-    {
-      "summary": "City economists doubt Bank of England will raise interest rates to 4.75% by next summer as financial markets predict.",
-      "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
-      "points": [
-        "Economists believe the Bank of England won't increase rates by a full percentage point.",
-        "Current bank rate is 3.75%, with markets expecting it to reach 4.75% by July.",
-        "Economists suggest rates could be lowered by the end of 2027."
-      ]
-    },
-    {
-      "summary": "Irish and Welsh children\u2019s laureates donate royalties to Sally Rooney after her UK book sales ban due to her support for Palestine Action.",
-      "url": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
-      "points": [
-        "Chris Haughton, Ireland\u2019s children\u2019s laureate, aims to highlight the \"absurdity\" of Rooney's situation.",
-        "Nicola Davies, Wales\u2019s children\u2019s laureate, joins in the solidarity gesture.",
-        "Sally Rooney was forced to halt UK book sales due to her support for Palestine Action."
-      ]
-    },
-    {
-      "summary": "Trump administration policies led to a 13% drop in Americans enrolled in food stamps.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
-      "points": [
-        "Enrollment in SNAP dropped from 41.6 million in July 2025 to 36.5 million in June 2026.",
-        "The One Big Beautiful Act, enacted by the Trump administration, imposed new restrictions.",
-        "Stakeholders warn more people are at risk of food insecurity and are turning to food banks."
-      ]
-    },
-    {
-      "summary": "Storm Boelo brings high winds to Scotland, Northern Ireland, and northern England, with gusts up to 80mph.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-      "points": [
-        "Met Office issued amber warnings for areas experiencing wind speeds of 60-70mph.",
-        "Storm Boelo follows Storm Austen, which affected parts of the UK on Friday.",
-        "Advisories urge people in affected regions to stay indoors due to 80mph gusts in coastal areas."
       ]
     }
   ]
