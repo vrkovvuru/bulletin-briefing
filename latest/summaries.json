@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-01T13:43:03.567256Z",
+  "generated": "2026-11-01T15:41:38.406118Z",
   "summaries": [
+    {
+      "summary": "Binance, a cryptocurrency exchange, resumes customer withdrawals following a record $6.3bn hack blamed on North Korea.",
+      "significance": "Binance resumes withdrawals post-hack, indicating recovery from the largest cryptocurrency theft, implicating North Korea.",
+      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+      "points": [
+        "Binance covers 90% of the $6.3bn hack losses.",
+        "FBI attributes the hack to North Korean state-sponsored group TraderTraitor.",
+        "The hack, occurring on Thursday, is identified as the largest in history."
+      ]
+    },
+    {
+      "summary": "Former Green party leader Adrian Ramsay warns the party must protect its internal democracy to avoid a hard left takeover.",
+      "significance": "The story highlights internal Green party tensions over new memberships and ideological influence, affecting the party's future direction and internal democracy.",
+      "url": "https://www.theguardian.com/politics/2026/nov/01/green-party-must-avoid-hard-left-takeover-says-former-leader-adrian-ramsay",
+      "points": [
+        "Ramsay criticizes new members, suggesting they might fit better in Your Party or the Socialist Workers party.",
+        "He mentions a \"small number\" of individuals use divisive tactics within the party.",
+        "Ramsay is critical of the party's handling of the \"Zionism is racism\" motion passed at the conference."
+      ]
+    },
+    {
+      "summary": "One person was killed and eight injured in a shooting outside Legion Field after the Magic City Classic football game in Birmingham, Alabama.",
+      "url": "https://www.theguardian.com/sport/2026/nov/01/one-person-killed-in-shooting-outside-magic-city-classic-football-game-in-alabama",
+      "points": [
+        "One person killed, eight wounded in shooting post-game.",
+        "Shooting occurred near vendors on Graymont Avenue.",
+        "Incident happened after most spectators had left the stadium."
+      ]
+    },
+    {
+      "summary": "Racism against south Asians in Texas motivates voters like Pooja Sethi to fight back.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/texas-south-asian-racism",
+      "points": [
+        "Pooja Sethi, a Texas house candidate, faced racist backlash on X.",
+        "Savanah Hernandez, a Trump supporter, posted Sethi\u2019s campaign banner with a mocking caption.",
+        "Texas has become a focal point for discrimination against south Asians, experts say."
+      ]
+    },
+    {
+      "summary": "Australian home values have dropped for seven months due to rising mortgage rates, with the downturn now affecting mid-sized cities.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/home-values-fall-for-seventh-month-interest-rates-dent-property-demand",
+      "points": [
+        "Home values in capital cities are falling at the fastest pace in 40 years.",
+        "Sydney and Melbourne are no longer the epicenter; Brisbane and Perth lead declines.",
+        "Despite the downturn, most homeowners still have significant gains from past growth."
+      ]
+    },
+    {
+      "summary": "Former Liberal party aspirant Mark Jones now leads candidate selection for One Nation.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/former-nsw-liberal-leads-overhaul-of-one-nation-candidate-selection-process-ntwnfb",
+      "points": [
+        "Mark Jones was among the final three candidates for Liberal NSW state director in 2023.",
+        "Jones is now instrumental in One Nation\u2019s candidate selection and expansion efforts.",
+        "His career advancement in the Liberal party was blocked, leading to his move to One Nation."
+      ]
+    },
     {
       "summary": "Binance restarts withdrawals following a $6.3bn heist blamed on North Korea.",
       "significance": "Binance restarts withdrawals following a record $6.3bn heist, absorbing the financial impact and restoring services in stages.",
@@ -3688,61 +3744,6 @@
         "Machado announced her return on social media with \"I am here. With you.\"",
         "Acting President Delcy Rodríguez has exceeded her authorized term without elections.",
         "Machado and allies demand a presidential election date, but U.S. officials prioritize economic stabilization."
-      ]
-    },
-    {
-      "summary": "Jordanians mourn and bury eight of nine victims killed in a church shooting that also wounded 40 others.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-      "points": [
-        "Eight of the nine victims were buried in Jordan.",
-        "The attack wounded 40 people in addition to the fatalities.",
-        "Authorities continue to search for the attackers."
-      ]
-    },
-    {
-      "summary": "Larry David's authorized biography, 'Emperor of Nothing,' was nearly not published due to David's reluctance to participate.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen",
-      "points": [
-        "Author Blake J Harris convinced David after gaining media attention for his previous book.",
-        "Harris's previous work, 'The History of the Future,' covered Oculus and virtual reality.",
-        "The biography process involved David refusing and begging the author not to talk to others about him."
-      ]
-    },
-    {
-      "summary": "Actor Joshua Loudermilk claims he was in on the joke during the filming of Ali G: Who Iz I?, despite appearing to be duped.",
-      "url": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
-      "points": [
-        "Joshua Loudermilk, 54, from North Carolina, recognized Sacha Baron Cohen early in filming.",
-        "Loudermilk pretended to be a hard-right MAGA supporter throughout the shoot.",
-        "The movie includes a scene with a gun shaped like a plastic bottom, raising suspicions."
-      ]
-    },
-    {
-      "summary": "Interactive visualization shows S&P 500 companies as bubbles, sized by market cap, with employees represented inside.",
-      "url": "https://bigwhalehunting.com/workforce/",
-      "points": [
-        "Bubbles' areas reflect companies' market capitalization.",
-        "Density of figures within bubbles indicates employees per dollar of market cap.",
-        "Data uses latest annual report figures, potentially up to a year old."
-      ]
-    },
-    {
-      "summary": "Intensity is argued as the most critical trait for successful startups, over intelligence or charisma.",
-      "significance": "The story highlights that intensity, not just intelligence or positivity, is crucial for the success of startups, based on observations and examples of successful founders.",
-      "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
-      "points": [
-        "Intensity observed in 3 exceptional startups the author was part of.",
-        "Notable founders like Steve Jobs, Elon Musk, and Warren Buffett exemplify intensity.",
-        "Intensity described as a high degree of focused effort, crucial for startup success."
-      ]
-    },
-    {
-      "summary": "Vim Classic, a fork of Vim 8.x, releases its first version, 8.3.0, for long-term maintenance.",
-      "url": "https://vim-classic.org/",
-      "points": [
-        "Vim Classic 8.3.0 is the first release, focusing on stability and long-term support.",
-        "The project aims to continue Bram Moolenaar's legacy of supporting users.",
-        "Development of Vim Classic does not use generative AI tools."
       ]
     }
   ]
