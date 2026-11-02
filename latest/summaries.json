@@ -1,6 +1,91 @@
 {
-  "generated": "2026-11-02T13:43:07.286712Z",
+  "generated": "2026-11-02T15:43:04.124033Z",
   "summaries": [
+    {
+      "summary": "Arab parties are set to back opposition leader Gadi Eisenkot\u2019s bloc, complicating Netanyahu\u2019s chances of forming a government.",
+      "significance": "Israel\u2019s Arab parties backing Eisenkot\u2019s bloc could prevent political deadlock and challenge Netanyahu\u2019s chances of forming another government.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
+      "points": [
+        "Arab parties won a record 19 seats in the recent election.",
+        "Netanyahu\u2019s bloc won 53 seats, short of the 61 needed for a majority.",
+        "Arab parties are willing to support Eisenkot but not join his government directly."
+      ]
+    },
+    {
+      "summary": "Michigan Democrat Haley Stevens' endorsement of Republican Mike Rogers for Senate sparked backlash from her party.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+      "points": [
+        "Stevens narrowly lost the Democratic primary to Abdul El-Sayed.",
+        "Her decision was met with praise from Donald Trump.",
+        "The endorsement followed a feud over a campaign ad linking living costs to Israel support."
+      ]
+    },
+    {
+      "summary": "Abdul El-Sayed raised $2.4m after losing Haley Stevens' endorsement to Mike Rogers.",
+      "significance": "Abdul El-Sayed's record fundraising and lead in polls highlights the competitive nature of Michigan's US Senate race despite endorsement shifts.",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+      "points": [
+        "El-Sayed leads Rogers by 11 percentage points in a recent poll.",
+        "Stevens endorsed Rogers, a move backed by Trump.",
+        "The Senate seat is crucial for Democrats to control the Senate."
+      ]
+    },
+    {
+      "summary": "Rare ant nest stolen from a nature reserve in Devon, England, where the species exclusively resides.",
+      "url": "https://www.theguardian.com/environment/2026/nov/02/rare-narrow-headed-ant-nest-stolen-devon",
+      "points": [
+        "Nest contained up to 5,000 narrow-headed ants.",
+        "Chudleigh Knighton Heath is the last location in England for this species.",
+        "Devon Wildlife Trust calls the theft 'reckless', impacting years of conservation work."
+      ]
+    },
+    {
+      "summary": "A record number of Australians show low interest in the Melbourne Cup due to concerns over gambling and animal cruelty.",
+      "url": "https://www.theguardian.com/sport/2026/nov/03/melbourne-cup-2026-poll-record-numbers-turn-their-backs",
+      "points": [
+        "Over two-thirds of surveyed Australians have low or zero interest in the Melbourne Cup.",
+        "Only 9% of Australians report high interest in the race currently.",
+        "Interest in the race has dropped to nearly half the proportion from 2025."
+      ]
+    },
+    {
+      "summary": "NSW council refused to display Gaza-themed artwork due to safety concerns, prompting organizers to consider hiring armed guards.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/shoalhaven-council-refuses-to-show-wall-of-tears-gaza-artwork-safety-risk-ntwnfb",
+      "points": [
+        "Shoalhaven council deemed Phil Buehler's Wall of Tears installation posed a risk to staff and visitors.",
+        "Artwork previously exhibited at Canberra's Parliament House lawns in September.",
+        "Organizers, Shoalhaven Friends of Palestine, considered armed guards to address community conflict concerns."
+      ]
+    },
+    {
+      "summary": "A critical Linux kernel bug affecting Ubuntu servers since 2016 remains unpatched despite a working exploit.",
+      "significance": "The story highlights Ubuntu's failure to patch a critical Linux kernel bug, undermining trust in its reliability and security promises.",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "points": [
+        "Ubuntu servers are still vulnerable nine days after the bug was rated 9.8 severity.",
+        "Volunteer-run distros like Debian and Arch have already patched the issue.",
+        "The author has taken all their Ubuntu servers offline due to lost trust in the platform."
+      ]
+    },
+    {
+      "summary": "Anthropic released an amended IPO prospectus with third-quarter financials, showing significant revenue growth and substantial losses.",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "points": [
+        "Anthropic reported $17 billion in Q3 revenue, up 1,200% year-over-year to $33.24 billion for nine months.",
+        "The company has net losses of $104 billion, with $895.4 billion in purchase commitments for compute and infrastructure.",
+        "Anthropic's compute and infrastructure expenses increased by $14.4 billion, up 329% year-over-year."
+      ]
+    },
+    {
+      "summary": "Realtime-Bench evaluates AI systems' real-time task performance, highlighting significant limitations, while also noting growing space warfare threats detailed by the Defense Intelligence Agency.",
+      "significance": "Realtime-Bench highlights AI systems' current limitations in performing low-latency tasks, indicating areas where AI agents cannot yet be expected to perform well.",
+      "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+      "points": [
+        "GPT-6 Astra achieved the highest pass rate of 36% on Realtime-Bench's 'wall clock' setting.",
+        "China has tripled its annual space launches from 22 in 2016 to 93 in 2025, emphasizing space as a military domain.",
+        "Realtime-Bench includes 50 tasks split into web and game categories, testing AI's real-time decision-making capabilities."
+      ]
+    },
     {
       "summary": "Oman's Sultan and China's President signed deals to enhance trade and investment between the two nations.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss",
@@ -3661,89 +3746,6 @@
         "Lula gained nearly 3 million more votes in the runoff compared to the first round.",
         "The victory was partly due to grassroots mobilization and social welfare policies like Bolsa Família.",
         "Lula framed the election as a choice between protecting democracy and returning to Bolsonaro's policies."
-      ]
-    },
-    {
-      "summary": "Nathan Fielder\u2019s documentary on Elizabeth Holmes, \"You Can See Everything,\" becomes a cultural phenomenon, surprising audiences and critics alike.",
-      "url": "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment",
-      "points": [
-        "The film grossed $19.5m in its second weekend, a 25% increase from the first.",
-        "It has earned over $45m in North America, becoming one of A24\u2019s biggest movies.",
-        "Despite being a three-hour documentary, it outperformed high-profile releases like \"Practical Magic 2\" and \"Street Fighter."
-      ]
-    },
-    {
-      "summary": "Trump launches a 1,300-word social media attack on Bill Maher, calling him a \"TOTAL LOSER.\"",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-bill-maher-truth-social-rant",
-      "points": [
-        "Trump criticizes Maher's show as \"Low Rated\" on what he calls the now equally \"Low Rated\" HBO.",
-        "The rant comes after Maher interviewed Karoline Leavitt, former White House press secretary.",
-        "Trump describes Maher as a \u201cCOMPLETE AND TOTAL LOSER\u201d in his Truth Social post."
-      ]
-    },
-    {
-      "summary": "Two Catholic bishops regret a prayer session with Trump, accusing the White House of using it as a campaign photo op.",
-      "significance": "The story highlights a conflict between religious leaders and political figures over the use of prayer for political gain, affecting the perception of both parties.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/catholic-bishops-trump-white-house-prayer",
-      "points": [
-        "Archbishop Jeffrey Grob of Milwaukee and Bishop William Joensen of Des Moines issued statements.",
-        "The prayer session took place in the Oval Office last Thursday.",
-        "The incident occurred ahead of next week\u2019s US elections."
-      ]
-    },
-    {
-      "summary": "Lula wins Brazil's presidential runoff, with world leaders congratulating him while Bolsonaro contests the results.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "points": [
-        "Lula elected for a fourth non-consecutive term as Brazil\u2019s president.",
-        "Municipal transport secretary Pablo Souza, suspected of electoral offenses, could not be arrested as he is in Paris.",
-        "Flávio Bolsonaro requested voting extensions in three states due to rain, claims that hindered voter turnout."
-      ]
-    },
-    {
-      "summary": "Sebastian Raschka offers an 11-hour video course on building reasoning models from scratch using Python and PyTorch.",
-      "significance": "Sebastian Raschka's video course provides comprehensive, hands-on instruction on building and improving reasoning models, essential for advancing AI capabilities.",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "points": [
-        "Course consists of eight videos focusing on evaluation, inference scaling, reinforcement learning, and distillation.",
-        "Uses a pre-trained Qwen3 model to implement reasoning methods.",
-        "Recommends familiarity with Python and PyTorch, with a GPU recommended for later training experiments."
-      ]
-    },
-    {
-      "summary": "The article explores the complexities and costs involved in sending emails, highlighting the technical and trust issues that make it expensive.",
-      "url": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
-      "points": [
-        "SMTP protocol requires multiple roundtrips and lacks encryption, leading to spoofing risks.",
-        "Setting up DNS records and using OpenSSL functions can help verify sender identity and avoid spam filters.",
-        "High costs of sending emails stem from needing to be trusted by various inbox providers and possibly owning an IP address block."
-      ]
-    },
-    {
-      "summary": "CSS-Tricks transitions to independent ownership under its new owner, who plans to revamp the site's community and content.",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "points": [
-        "Chris Coyier founded CSS-Tricks in 2007 and recently sold it.",
-        "New owner plans to make CSS-Tricks more inclusive for beginners in front-end learning.",
-        "Advertising will return to support the site's operations."
-      ]
-    },
-    {
-      "summary": "Athletes face personal and professional costs for protesting issues they believe in.",
-      "significance": "The article highlights the personal and professional risks athletes face when engaging in activism, showcasing a continuum from historical figures to contemporary athletes.",
-      "url": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
-      "points": [
-        "Muhammad Ali and Colin Kaepernick exemplify athletes who faced consequences for activism.",
-        "Naomi Osaka is highlighted as a contemporary example of an athlete impacted by activism."
-      ]
-    },
-    {
-      "summary": "Democratic candidates, including Abdul El-Sayed, are adopting universal healthcare as a campaign issue, seeing growing voter support.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all",
-      "points": [
-        "Abdul El-Sayed campaigning in Michigan's rural, predominantly Republican upper peninsula.",
-        "Donald Trump won some districts near Escanaba by over 41% in the area.",
-        "Democrats are now backing Medicare for All due to increasing voter support for the idea."
       ]
     }
   ]
