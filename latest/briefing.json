@@ -1,199 +1,203 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "stories": [
     {
-      "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+      "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Iran says US talks could resume \u2018within a short period\u2019 if demands are met",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Esmaeil Baghaei said Qatar is facilitating indirect talks based on Iran\u2019s seven-step peace plan.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
-      "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Italian wonderkid wins drivers&#039; championship at 20 years and 68 days, finishing third at the Mexico City Grand Prix.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
-      "url": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "As Trump supports Senator Darline Graham, one conservative group is rallying around someone else.",
+      "summary": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
       "alsoReportedBy": []
     },
     {
-      "title": "Bulgaria has its first elected female president",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Iliana Iotova has won Bulgaria’s presidential runoff, becoming the country’s first elected female president.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-      "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+      "title": "Mother told to book appointment to give birth to her baby who had died",
+      "url": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
+      "summary": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
       "alsoReportedBy": []
     },
     {
-      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Jordan\u2019s King Abdullah promises to confront \u2018terrorists\u2019 after Karak attack",
+      "url": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "summary": "King tells parliament attackers \u2018are not of us\u2019 and warns that Israeli expansionism is greatest threat to the region.",
       "alsoReportedBy": []
     },
     {
-      "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+      "title": "Oman and China sign deals to boost trade and investment",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Oman and China sign deals to boost trade and investment",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers \u2014 or drain them?",
+      "alsoReportedBy": []
     },
     {
-      "title": "Binance users withdraw $3.6bn after record crypto hack",
-      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Mason: Home secretary to face scrutiny over changes to rules for legal migrants",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g13zrm513o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "summary": "At the heart of the debate around legal migration are contested notions of fairness, our political editor writes.",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump praises Haley Stevens while rallying in Iowa in final push before election day – follow live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
+      "title": "You can go your own way: US diverges from world on emergency preparedness",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/us-emergency-preparedness-military",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "At the same time, the president lobbed anti-Muslim insults at Senate nominee Abdul El-Sayed, calling him a ‘jihadist’ Sign up for the Breaking News US email At the end of 2022, the four largest US cities – New York, Los Angeles, Chicago and Houston – all had Black mayors. It was a historic alignment made possible by the aftereffects of the Black Lives Matter civil rights movement and the unprecedented wave of protests following the killing of George Floyd in 2020. Six years on, only one of those mayors remains: the embattled Karen Bass of Los Angeles , who is facing a strong challenge from a younger, even more progressive challenger. Bass’s opponent is Nithya Raman, a member of the Democratic Socialists of America, although the group is considering rescinding its endorsement over her refusal to explicitly embrace the Boycott, Divestment and Sanctions movement against Israel. Continue reading...",
+      "summary": "As governments urge public to prepare for cyber-attacks and natural disasters, US focuses on military preparation Governments around the world are spearheading new campaigns to encourage the general public to be prepared for a host of emergencies that could disrupt essential services, including cyber-attacks and natural disasters. The United States, however, is taking a different approach: focusing on military preparation, as opposed to the general population. With an influx of global messaging regarding emergency preparedness, the Guardian spoke with emergency experts about the Pentagon\u2019s latest initiative and the state of US disaster preparedness at large. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "UK making up China policy ‘as it goes along’, MPs warn",
-      "url": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps",
-      "source": "The Guardian",
+      "title": "6 things to watch for on election night",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
+      "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Commons committee says lack of coherent strategy is hampering business and leaving national security risks unaddressed The UK is making up policy on China “as it goes along” and risks having its strategy dictated by Washington or Beijing, a parliamentary report has concluded. An investigation by the Commons business, innovation, science and trade select committee said Labour’s failure to formulate a coherent strategy since 2024 “combined the worst of both worlds” for the UK in relation to China. Continue reading...",
+      "summary": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out.",
       "alsoReportedBy": []
     },
     {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "This legendary board game could take decades to complete",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+      "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish.",
+      "summary": "The ceasefire in a Russian-occupied Ukrainian city has ended. The ceasefire, which lasted several days, allowed hundreds of residents to evacuate.",
       "alsoReportedBy": []
     },
     {
-      "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A cruise ship suspended operations suddenly, citing soaring fuel costs. Passengers, including Randy Cassingham, had to disembark in Cambodia. NPR's Ayesha Rascoe talks to Cassingham about the ordeal.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘I want to slap you around a bit, too’: Victorian magistrate reprimanded over language in court",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb",
+      "title": "Irish and Estonian supermarkets also targeted in freezer cyber-hacks \u2013 Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Judicial commission finds against Vicky Prapas over a series of comments, including one made when school children were present Get our breaking news email , free app or daily news podcast A magistrate who told a court user “I want to slap you around a bit, too” has come under fire for her offensive and inappropriate language. The remark was one of several made by Victorian magistrate Vicky Prapas that the state’s judicial watchdog has found to be inappropriate. Continue reading...",
+      "summary": "Supermarkets across Europe have experienced temperature- control meddling The fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson , just hours after the end of a ceasefire during which hundreds of people were evacuated from the nearby Kremlin-controlled town of Oleshky. Kherson\u2019s military administration said a Russian drone hit a hospital at 7.40am. Video footage showed wrecked rooms, with windows blown out, doors broken, and debris on the street. Nobody was hurt, officials said. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Million-dollar fish caught by Darwin man ‘just fishing and talking’ at night with brother",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/million-dollar-fish-caught-by-darwin-man-just-fishing-and-talking-at-night-with-brother",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "‘I’m just happy to catch fish,’ Matthew Maurice says after landing 80cm barramundi as part of Northern Territory competition Get our breaking news email , free app or daily news podcast A Darwin man is $1m richer after angling an 80cm, red-tagged barramundi during a night-time fishing trip with his brother. Matthew Maurice, a 26-year-old from the Northern Territory, had finished football training and decided to take a boat out on Thursday evening with his sibling, who was visiting from overseas. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare). Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Deployments of surveillance vans over five months result in nine false alerts and led officers to engage with 146 registered sex offenders Get our breaking news email , free app or daily news podcast More than a million people have had their faces scanned in a trial of real-time facial recognition technology in Western Australia, resulting in 122 arrests and nine incorrect alerts. WA police said under the five-month trial, which concluded on Saturday, the technology scanned 1,380,882 faces after 100 deployments across 43 regional and metropolitan locations. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces. The UAE nominated Lana Nusseibeh last week to replace the UN secretary general, António Guterres, as he finishes his second five-year term ⁠this year, upending a race that had become gridlocked. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "title": "Five arrested after South African farmer shot and tortured",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
       "alsoReportedBy": []
     },
     {
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "title": "Popular Australian children's author jailed over child exploitation offences",
+      "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+      "alsoReportedBy": [
+        "Guardian World"
+      ]
+    },
+    {
+      "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The country was the first to contribute troops to the AU mission established to stabilise Somalia in 2007.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
+      "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Prospect to hold workplace sessions and recruit members under agreement with tech company Trade unions are expected to make further inroads into big tech companies in the UK after new rights for unions to access workplaces came into force , with Google UK signing an agreement on Monday. The Prospect union has reached an agreement with Google to begin organising among about 7,000 workers across its UK operations, including YouTube but excluding DeepMind. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
+      "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Airline also weighs up reducing crew on flights and increasing use of AI as part of cost-cutting measures Business live \u2013 latest updates Ryanair has said it is considering implementing pay freezes, setting the scene for a confrontation with unions as the airline tries to offset soaring fuel costs driven by the Middle East conflict . The airline is also considering reducing crew numbers on flights and increasing the use of AI, in a cost-cutting drive. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Mamdani threatens ICE with legal action over use of New York parking lots",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/zohran-mamdani-ice-new-york-parking-lots",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Letter from mayor tells federal agents to stay out of city-owned facilities for immigration operations Mayor Zohran Mamdani has threatened to take legal action against Immigration and Customs Enforcement over allegations the agency\u2019s officers at the agency are using parking lots owned by New York City for operations in the area. In a letter to the Trump administration, Mamdani noted the agency\u2019s use of property owned by the city was \u201cunauthorized and is therefore illegal, endangers City residents, and sows fear among those who seek to access City property\u201d. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Colorado town braces for historic flood as heavy rains batter south-west",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/colorado-flash-flooding-arizona-new-mexico",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Mandatory evacuations in Arizona and New Mexico with Pagosa Springs warned of potentially \u2018catastrophic\u2019 deluge Heavy rainfall produced flash flooding and mandatory evacuations in a swath of the south-west on Sunday, including in a Colorado tourist town bracing for its main river to rise to historic levels, as weary residents in the normally arid region deal with another drenching. Officials in Pagosa Springs, a town of more than 2,000 in the Rockies located near ski resorts and known for its hot springs, warned of potentially \u201ccatastrophic flooding\u201d as the San Juan River was forecast to crest at more than 20ft (6.1 meters) late on Sunday night. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Stevens defects to back El-Sayed\u2019s Michigan opponent as Trump delivers anti-Muslim tirade | First Thing",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/first-thing-stevens-defects-to-back-el-sayeds-michigan-opponent-as-trump-delivers-anti-muslim-tirade",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Trump called Democratic candidate a \u2018jihadist\u2019 as El-Sayed\u2019s defeated primary opponent backs Republican Mike Rogers. Plus an Australian fish worth its weight in gold Don\u2019t already get First Thing in your inbox? Sign up here Good morning. Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul El-Sayed, has endorsed his Republican rival in an extraordinary rebuke of her party\u2019s nominee on the eve of the midterm elections. Tensions between El-Sayed and Stevens had already led to him asking her to stay away from his campaign events , and her endorsement of Mike Rogers comes as the US president unleashed a racist tirade against El-Sayed in Iowa . What did Stevens do? Her endorsement came in a video posted to X after she attended an event with Rogers at the predominantly Black Perfecting church in Detroit on Sunday. Stevens\u2019s endorsement was the culmination of an escalating feud between the former primary rivals \u2013 primarily over support for Israel \u2013 that has roiled one of the most fiercely contested Senate contests of the cycle. What did Trump say? The president bashed El-Sayed, a practicing Muslim, in brazenly racist terms, saying that Congress would have to \u201cget a special metal detector for Abdul\u201d if he were elected. \u201cIf you vote for this jihadist lunatic that wants to destroy you, you\u2019re crazy. Mike Rodgers is apple pie. And you know what this country needs? A little apple pie. We don\u2019t need the communists or jihadists, the Muslim Brotherhood. We need apple pie.\u201d Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": []
+      "alsoReportedBy": [
+        "Hacker News"
+      ]
     },
     {
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
-      "source": "Hacker News",
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -209,8 +213,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,17 +222,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Pratt parsing is a black box",
-      "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
-      "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
+      "title": "Tyrtulia, a headless forum with no passwords, made for the terminal",
+      "url": "https://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -245,6 +240,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Software engineering at Google & CS education with Titus Winters",
       "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
       "source": "Pragmatic Engineer",
@@ -254,7 +258,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+      "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?",
       "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -263,12 +267,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Introducing Kwi, a new KDE terminal emulator",
-      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+      "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
+      "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The U.S. Census Bureau and \u201cSuper Intelligence\u201d",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to try running those numbers again to see what had changed over the past year, and in doing so learned that the Bureau has fallen foul of Executive Order 14434 , aka the asinine Super Intelligence one. First, the updated chart Every two weeks the U.S. Census Bureau runs a survey called the Business Trends and Outlook Survey (aka BTOS). Each time it goes to 200,000 businesses out of 1.2 million total - the surveyed group (a \"panel\") cycles such that an individual business only completes the survey every twelve weeks. The latest data is published on alternating Thursdays at 10am. I used the most recent numbers (published October 22, 2026) to create a new version of the AI adoption chart, updated to reflect both the last twelve months and a change that was made to the survey question sent out by the Bureau: For comparison, here's that AI adoption chart from last year (my GPT-5 version): In September 2025 the largest (250+ employees) companies answered \"yes\" around 12% of the time to the question about whether they used AI in \"producing goods or services\". Under the new \"any business function\" wording, by February 2026, those same large companies answered \"yes\" around 30% of the time, and by October 2026 that had increased to around 40%. The data in the above chart comes from the \"Employment size class\" XLSX file, available from here . Here's a copy of the file I used. You can view the survey document that is sent out to businesses - here's my snapshot copy of that 346KB PDF. The changing language of the questions As the chart demonstrates, the question asked by the Bureau changed in a material way on November 17th, 2025. Prior to that date, the question they asked was this (emphasis mine): In the last two weeks, did this business use Artificial Intelligence (AI) in producing goods or services ? (Examples of AI: machine learning, natural language processing, virtual agents, voice recognition, etc.) On December 3rd, 2025, the Bureau announced a significant change to that question. Here's the replacement: In the last two weeks, did this business use Artificial Intelligence (AI) in any of its business functions ? (Examples of AI: machine learning, natural language processing, virtual agents, voice recognition, etc.) No more \"producing goods or services\" - now it's \"in any of its business functions\"! This means that the answers to the question before and after November 17th are not directly comparable. From October 19, 2026, they ask about Super Intelligence When I went looking for the updated question language in the latest XLSX file, I couldn't find it. I found this instead: In the last two weeks, did this business use Super Intelligence or SI (formerly referred to as Artificial Intelligence or AI) in any of its business functions? (Examples of SI use include: SI-powered data analysis; generative SI for marketing, product design, or coding; virtual SI agents for customer service; SI-powered forecasting or pricing; SI-driven computer vision for quality control, etc.) The BTOS about page explains what happened: Beginning with the October 19, 2026 collection, instrument wording was updated due to Executive Order 14434 . The current numbers reflect the old Artificial Intelligence survey wording - the first survey results reflecting the Super Intelligence wording are due for publication on Thursday. Is this going to affect the survey? The obvious open question here is whether this wording change is going to affect the survey results. The businesses answering this survey will have last seen that question twelve weeks ago, when it was still called AI. Hopefully the new language isn't going to confuse them, especially since the survey helpfully spells out \"formerly referred to as Artificial Intelligence or AI\". I can't help but laugh at the absurdity of \"SI-powered data analysis; generative SI for marketing, product design, or coding; virtual SI agents for customer service\" though. Tags: census , surveys , ai , generative-ai , llms",
       "alsoReportedBy": []
     },
     {
@@ -281,15 +294,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Quoting Kyle Kingsbury",
-      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
       "url": "https://latent.space/p/arca/",
       "source": "Latent Space",
@@ -299,12 +303,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How We Took Over ChatGPT Accounts",
-      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "title": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenAI use the MathLive JavaScript library as part of their graph support, and that library includes its own virtual keyboard , which can be triggered in the parent page via postMessage() from the sandboxed iframe. That message receiving code uses innerHTML , so anything that sends a message can add custom HTML to the parent - and there was no mechanism to prevent other sandboxed frames, including HTML preview frames, from calling that method. This meant untrusted code in an iframe could insert HTML, and while innerHTML doesn't directly execute script elements it could be used to inject a new iframe without sandbox restrictions. OpenAI’s CSP rules blocked inline scripts entirely, and only allowed script loading from a handful of domains, but one of those was YouTube - and the YouTube oEmbed endpoint could be used to reflect JavaScript back in a way that executed it. Once the attack had JavaScript execution on ChatGPT, it was trivial to fetch private user data from APIs and exfiltrate it via an image reference. The end result: you could create a ChatGPT share URL which, when visited by another signed-in user, could exfiltrate their private data or take actions on their behalf. OpenAI closed the hole and paid out a $5,000 bug bounty, which I think was a bit cheap for a vulnerability this serious. Via Hacker News Tags: iframes , javascript , sandboxing , security , xss , openai , chatgpt , content-security-policy",
+      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion\u2014the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? \u2014 Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse",
       "alsoReportedBy": []
     },
     {
@@ -322,7 +326,7 @@
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
+      "summary": "Mistral\u2019s open-weight release, frontier monitoring, and the day\u2019s AI Twitter and Reddit recaps.",
       "alsoReportedBy": []
     },
     {
@@ -353,13 +357,15 @@
       "alsoReportedBy": []
     },
     {
-      "title": "datasette-llm 0.1a9",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "title": "How We Took Over ChatGPT Accounts",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.default_model gpt-6-astra . Tags: datasette , llm , datasette-agent",
-      "alsoReportedBy": ["Simon Willison"]
+      "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenAI use the MathLive JavaScript library as part of their graph support, and that library includes its own virtual keyboard , which can be triggered in the parent page via postMessage() from the sandboxed iframe. That message receiving code uses innerHTML , so anything that sends a message can add custom HTML to the parent - and there was no mechanism to prevent other sandboxed frames, including HTML preview frames, from calling that method. This meant untrusted code in an iframe could insert HTML, and while innerHTML doesn't directly execute script elements it could be used to inject a new iframe without sandbox restrictions. OpenAI\u2019s CSP rules blocked inline scripts entirely, and only allowed script loading from a handful of domains, but one of those was YouTube - and the YouTube oEmbed endpoint could be used to reflect JavaScript back in a way that executed it. Once the attack had JavaScript execution on ChatGPT, it was trivial to fetch private user data from APIs and exfiltrate it via an image reference. The end result: you could create a ChatGPT share URL which, when visited by another signed-in user, could exfiltrate their private data or take actions on their behalf. OpenAI closed the hole and paid out a $5,000 bug bounty, which I think was a bit cheap for a vulnerability this serious. Via Hacker News Tags: iframes , javascript , sandboxing , security , xss , openai , chatgpt , content-security-policy",
+      "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 198.0,
+  "voice": "af_heart"
 }

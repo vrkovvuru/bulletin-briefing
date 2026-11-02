@@ -1,6 +1,107 @@
 {
-  "generated": "2026-11-02T05:41:43.160502Z",
+  "generated": "2026-11-02T13:43:07.286712Z",
   "summaries": [
+    {
+      "summary": "Oman's Sultan and China's President signed deals to enhance trade and investment between the two nations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss",
+      "points": [
+        "Sultan Haitham bin Tariq met with President Xi Jinping in Beijing.",
+        "Talks focused on strengthening bilateral ties and economic cooperation.",
+        "Specific details of the deals signed were not provided in the article."
+      ]
+    },
+    {
+      "summary": "US diverges from global trend by focusing on military preparation rather than public readiness for emergencies.",
+      "significance": "The story highlights a divergence in emergency preparedness strategies between the US, focusing on military readiness, and other global approaches that emphasize public preparedness.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/us-emergency-preparedness-military",
+      "points": [
+        "US focuses on military preparation while other governments encourage public readiness.",
+        "Global campaigns aim to prepare public for cyber-attacks and natural disasters."
+      ]
+    },
+    {
+      "summary": "Cyber-hacks targeting freezer temperature controls hit supermarkets in Ireland and Estonia, while Russia resumed attacks on Kherson.",
+      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+      "points": [
+        "Supermarkets in Ireland and Estonia faced cyber-attacks on their freezer temperature controls.",
+        "Russian attacks resumed on Kherson, hitting a hospital at 7.40am, post-ceasefire evacuation.",
+        "The evacuation involved hundreds of people from the nearby Kremlin-controlled town of Oleshky."
+      ]
+    },
+    {
+      "summary": "UK trade unions, bolstered by new employment rights, gain access to Google's UK workforce for recruitment and organizing.",
+      "significance": "The story matters because it marks a significant shift in UK employment dynamics, allowing unions broader access to tech workers, potentially influencing labor conditions and practices.",
+      "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
+      "points": [
+        "Prospect union to organize among approximately 7,000 Google UK workers.",
+        "New rights allow unions to access workplaces, targeting big tech companies.",
+        "Agreement excludes DeepMind employees from union organizing efforts."
+      ]
+    },
+    {
+      "summary": "Ryanair considers pay freezes and other cost-cutting measures amid rising fuel costs, likely leading to union disputes.",
+      "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
+      "points": [
+        "Ryanair plans pay freezes to offset soaring fuel costs.",
+        "Airline also looks to reduce crew numbers on flights.",
+        "Increased use of AI is considered as part of cost-cutting efforts."
+      ]
+    },
+    {
+      "summary": "New York Mayor Zohran Mamdani threatens legal action against ICE for using city-owned parking lots.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/zohran-mamdani-ice-new-york-parking-lots",
+      "points": [
+        "Mayor Mamdani claims ICE's use of city-owned property is unauthorized and illegal.",
+        "Mamdani states ICE operations endanger city residents and cause fear.",
+        "The threat of legal action is directed at the Trump administration."
+      ]
+    },
+    {
+      "summary": "Heavy rains cause mandatory evacuations in the southwest, with Pagosa Springs facing potential catastrophic flooding.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/colorado-flash-flooding-arizona-new-mexico",
+      "points": [
+        "Pagosa Springs, a town over 2,000 residents, warned of \"catastrophic flooding.\"",
+        "San Juan River in Pagosa Springs forecast to crest at over 20ft (6.1 meters).",
+        "Mandatory evacuations also ordered in Arizona and New Mexico due to heavy rainfall."
+      ]
+    },
+    {
+      "summary": "Stevens endorses El-Sayed's Republican rival as Trump launches racist attack on El-Sayed.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/first-thing-stevens-defects-to-back-el-sayeds-michigan-opponent-as-trump-delivers-anti-muslim-tirade",
+      "points": [
+        "Stevens, a Democrat, endorsed Republican Mike Rogers in Michigan's Senate race.",
+        "Trump called El-Sayed a 'jihadist' and suggested a special metal detector would be needed if El-Sayed were elected.",
+        "Stevens and El-Sayed's feud centered on support for Israel, leading El-Sayed to ask Stevens to stay away from his events."
+      ]
+    },
+    {
+      "summary": "A Linux System Call website and API has been updated to include comprehensive syscall tables for 27 architectures.",
+      "url": "https://syscall.sh/",
+      "points": [
+        "Website covers syscall tables for 27 architectures from Linux 3.3 to 7.3.",
+        "Each architecture's syscall history is available as a plain JSON file.",
+        "Entries include when syscalls were added or dropped, visible through a kernel selector."
+      ]
+    },
+    {
+      "summary": "Andros Fenollosa created Tyrtulia, a minimalist forum designed for terminal use with no web interface or passwords.",
+      "url": "https://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/",
+      "points": [
+        "Tyrtulia uses between 60 and 70 MB of RAM and about 50 MB of disk space.",
+        "Authentication methods include Unix socket connections and SSH key signing.",
+        "The forum supports federation through clients, with each server remaining independent."
+      ]
+    },
+    {
+      "summary": "U.S. Census Bureau changed its survey question on AI usage to \"Super Intelligence\" due to Executive Order 14434, affecting data comparability.",
+      "significance": "The change in survey question wording by the U.S. Census Bureau significantly altered AI adoption rates reported by large companies.",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "points": [
+        "The survey question changed from \"producing goods or services\" to \"any business functions\" in November 2025.",
+        "AI adoption among large companies (250+ employees) rose from 12% in Sep 2025 to 40% by Oct 2026 under the new wording.",
+        "The latest survey now asks about \"Super Intelligence\" due to Executive Order 14434, first published on Oct 19, 2026."
+      ]
+    },
     {
       "summary": "Democratic congresswoman Haley Stevens endorsed Republican Senate candidate Mike Rogers before US midterms.",
       "significance": "A Democrat's endorsement of a Republican Senate candidate in Michigan highlights internal party divisions ahead of the US midterms.",
@@ -3643,109 +3744,6 @@
         "Abdul El-Sayed campaigning in Michigan's rural, predominantly Republican upper peninsula.",
         "Donald Trump won some districts near Escanaba by over 41% in the area.",
         "Democrats are now backing Medicare for All due to increasing voter support for the idea."
-      ]
-    },
-    {
-      "summary": "V&A strike suspended as unions accept improved pay offer for talks.",
-      "significance": "Improved pay offer suspends V&A strike, keeping London museum sites open and affecting visitors during half-term.",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/26/v-and-a-museum-unions-suspend-strike-after-improved-pay-offer-london",
-      "points": [
-        "Prospect and PCS unions agreed to 'Acas-facilitated talks' with management.",
-        "Strike would have affected V&A sites in south Kensington and east London.",
-        "Dispute centered on pay and working conditions, including breaks."
-      ]
-    },
-    {
-      "summary": "Lula wins Brazil's presidency in a comeback, facing rejection from far-right opponent Flávio Bolsonaro.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/first-thing-brazil-re-elects-lula-comeback-bolsonaro",
-      "points": [
-        "Lula becomes first candidate to reverse a first-round defeat, securing a fourth term.",
-        "Flávio Bolsonaro, son of former president, refuses to concede and seeks result annulment.",
-        "World leaders recognize Lula\u2019s win, deeming Bolsonaro's challenge unlikely to succeed."
-      ]
-    },
-    {
-      "summary": "WA's environmental watchdog warns Woodside's gas drilling plans could harm endangered turtles, pygmy blue whales, and \"exceptional\" coral reefs.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
-      "points": [
-        "Draft EPA letter from 2023 criticizes Woodside\u2019s proposal for ineffective protection measures.",
-        "Plan targets Browse gasfield off Western Australia\u2019s north-west coast.",
-        "Watchdog questions ability to reduce oil spill risk to acceptable levels."
-      ]
-    },
-    {
-      "summary": "Economists warn Australia about potential public spending and cost issues, citing France's protests over underfunded schools and living costs.",
-      "url": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
-      "points": [
-        "Economists claim Australia faces a \"warning signal\" from France\u2019s economic issues.",
-        "French protests involve hundreds of thousands over underfunded schools and high living costs.",
-        "Issues in France include insufficient teacher numbers and poor school infrastructure."
-      ]
-    },
-    {
-      "summary": "UK government considers incentivizing carmakers to add V2G technology to electric vehicles.",
-      "url": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
-      "points": [
-        "V2G tech allows cars to charge when electricity is cheap and sell power back to the grid during high demand.",
-        "Part of the review of the zero-emission vehicle (ZEV) mandate.",
-        "Aimed at supporting UK manufacturers in adopting the technology."
-      ]
-    },
-    {
-      "summary": "Pre-orders for the new OLED iPad Mini start at 10:10 a.m. PT on October 28, available from November 6.",
-      "url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
-      "points": [
-        "Pre-orders begin at 10:10 a.m. PT on October 28.",
-        "Available for purchase starting November 6.",
-        "Features Wi-Fi + Cellular for connectivity outside Wi-Fi range."
-      ]
-    },
-    {
-      "summary": "The article discusses improvements in tool call accuracy for AI models like Kimi K2.6 and DeepSeek V4 to enhance agentic workload performance.",
-      "significance": "Improving tool call accuracy in vLLM enhances model performance and reliability, especially for agentic workloads, by ensuring 100% schema adherence.",
-      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-      "points": [
-        "Tool call accuracy for Kimi K2.6 was 92% with vLLM version 0.28, meaning 8% of calls failed.",
-        "Constrained decoding technique introduced in vLLM 0.31 ensures 100% schema accuracy for newer models.",
-        "K2VV ToolCall benchmark by Moonshot AI measures tool call quality, focusing on schema accuracy and trigger similarity."
-      ]
-    },
-    {
-      "summary": "Apple is blocking certificates from compromised eMudhra intermediate CAs, affecting Mac users who use Terminal.",
-      "url": "https://support.apple.com/en-us/149555",
-      "points": [
-        "Apple began blocking the certificates on October 19, 2026.",
-        "Eight intermediate CAs were compromised, with six issuing TLS certificates.",
-        "Users can manually remove root CA certificates from /etc/ssl/cert.pem to block certificates sooner."
-      ]
-    },
-    {
-      "summary": "Israel holds its first election since the deadly Hamas attacks in October 2023, with Benjamin Netanyahu seeking a new mandate.",
-      "significance": "The election follows the deadliest day in Israel's history, potentially shaping the country's aggressive military and political responses.",
-      "url": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history",
-      "points": [
-        "About 1,200 people, mostly civilians, died in the 7 October 2023 Hamas attacks.",
-        "Israel has engaged in a war of annihilation in Gaza following the attacks.",
-        "Two inconclusive wars with Iran have been launched since the Hamas attacks."
-      ]
-    },
-    {
-      "summary": "London's Oxford Street, a famous shopping area, has become pedestrian-only for almost a kilometre.",
-      "url": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "London Mayor Lord Sadiq Khan predicts a \"great lead up to Christmas\" with the new changes.",
-        "The first phase of the pedestrianisation project is expected to be completed by spring 2027.",
-        "The street will feature more trees, seats, and public squares in the future."
-      ]
-    },
-    {
-      "summary": "UK likely to miss its international aid spending target of 0.3% of national income by £400m by end of 2027.",
-      "significance": "The UK's likely shortfall in aid spending affects global development efforts and follows from previous cuts, impacting recipient countries' budgets and trust in UK commitments.",
-      "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-      "points": [
-        "Calculations from the Center for Global Development predict a £410m shortfall next year.",
-        "The UK aims to spend 0.3% of its national income on international aid.",
-        "Shortfall is estimated at £400m by the end of 2027."
       ]
     }
   ]
