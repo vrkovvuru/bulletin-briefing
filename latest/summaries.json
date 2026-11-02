@@ -1,6 +1,63 @@
 {
-  "generated": "2026-11-02T17:42:23.772721Z",
+  "generated": "2026-11-02T19:41:46.805003Z",
   "summaries": [
+    {
+      "summary": "Global youth protests are escalating, mirroring historic movements, with students demanding change from France to Albania.",
+      "significance": "Global youth protests highlight broken promises to young people, potentially threatening liberal democracies worldwide.",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/global-youthquake-young-people-anger-protest-liberal-democracy",
+      "points": [
+        "French youth began protests by climbing the July Column in Paris\u2019s Place de la Bastille.",
+        "Italian students occupied a Rome high school, echoing French protests.",
+        "In Albania, students have protested for nearly five months, demanding government replacement."
+      ]
+    },
+    {
+      "summary": "Stevens, a Democrat, backed Republican Rogers after losing primary, due to Israel stance.",
+      "significance": "The story highlights how Israel's role influenced Stevens's political alignment, shifting her support from a Democratic candidate to a Republican one.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/haley-stevens-israel-aipac",
+      "points": [
+        "Stevens failed to defeat Abdul El-Sayed in the primary.",
+        "Stevens decided to campaign with Republican Mike Rogers.",
+        "Stevens's shift is attributed to aligning on Israel's position."
+      ]
+    },
+    {
+      "summary": "Cyber-attacks have caused supermarket fridges and freezers in seven European countries to malfunction, raising EU concerns.",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+      "points": [
+        "Malfunctioning appliances had thermostats remotely set as high as 50C (122F).",
+        "Attacks affected supermarket cooling systems across seven European countries.",
+        "EU condemned the incidents as a deliberate disruption of the food supply chain."
+      ]
+    },
+    {
+      "summary": "Trial begins for nine men accused of abusing a woman who was drugged and raped by her husband.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/02/trial-of-nine-men-accused-of-abusing-woman-drugged-and-raped-by-husband-begins",
+      "points": [
+        "Husband pleaded guilty to offences against his wife over two decades.",
+        "Abuse took place at the couple\u2019s home in Stockport.",
+        "Nine men are on trial for their involvement in the woman's abuse."
+      ]
+    },
+    {
+      "summary": "Federal judge dismissed charges against two former FBI officials accused of lying about Hunter Biden's laptop investigation.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden",
+      "points": [
+        "Judge Zia Faruqui ruled prosecutors failed to show probable cause.",
+        "Accused officials were Nikki Floris and Bradley Benavides.",
+        "Case involved the FBI\u2019s role in investigating Hunter Biden's laptop."
+      ]
+    },
+    {
+      "summary": "Astra demonstrates the ability to read and write neural network weights to improve model performance, particularly in math and game-playing tasks.",
+      "significance": "Astra improves Qwen's math abilities significantly by directly editing neural network weights without gradient-based training, marking a shift towards reasoning-driven optimization in neural networks.",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "points": [
+        "Astra improved Qwen3.5-0.8B's math performance from 7.9% to 48.1% on MATH-500.",
+        "Astra correctly identified the games Breakout, Pong, Pac-Man, and Freeway from neural network weights.",
+        "Astra created game-playing networks that outperformed PPO-trained networks after 100 million steps."
+      ]
+    },
     {
       "summary": "Real Madrid games remain banned in China, even after Mbappe apologized for controversial comments.",
       "significance": "The continued ban affects Real Madrid's Chinese fanbase and revenue, despite Mbappe's apology for controversial comments.",
@@ -3690,62 +3747,6 @@
         "80 people injured in the accident.",
         "Four individuals suffered serious injuries.",
         "The incident occurred near Barcelona, involving a bus and a car."
-      ]
-    },
-    {
-      "summary": "Netanyahu uses alarmist rhetoric and reportedly pressures military to attack Iran ahead of elections.",
-      "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
-      "points": [
-        "Netanyahu posted an AI-generated image of a nuclear mushroom cloud over Tel Aviv.",
-        "His far-right coalition is narrowly trailing in the polls ahead of Tuesday\u2019s elections.",
-        "He told voters choosing him is necessary to avoid nuclear annihilation."
-      ]
-    },
-    {
-      "summary": "Victorian Greens plan to introduce a lobbyist register and ban donations from certain industries.",
-      "significance": "The Victorian Greens' plan to establish a lobbyist register and ban political donations from certain industries aims to reduce corporate influence in politics.",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-      "points": [
-        "Victorian Greens to announce ban on political donations from gambling, fossil fuel, and property development sectors.",
-        "Plan includes a legislated register for lobbyists to increase transparency.",
-        "Greens argue corporate donations expect returns, harming everyday Victorians."
-      ]
-    },
-    {
-      "summary": "The Type Server Protocol (TSP) is a JSON-RPC protocol for Python analysis data, using LSP conventions and supporting multi-connection mode for performance.",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "points": [
-        "TSP uses semantic version strings for client/server compatibility checks.",
-        "Multi-connection mode allows for additional read-only channels for high-volume type queries.",
-        "The protocol supports JSON-RPC over stdio or Node IPC, with stdout reserved for protocol messages."
-      ]
-    },
-    {
-      "summary": "ChatGPT directs users with tech issues to 404 Media, suggesting journalistically notable discoveries.",
-      "significance": "ChatGPT redirects tech support seekers to 404 Media, highlighting the AI's influence and potential misuse in guiding users.",
-      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-      "points": [
-        "ChatGPT advises users experiencing tech problems to contact 404 Media.",
-        "Big tech platforms lack accessible customer support, driving users to ChatGPT.",
-        "Jason Koebler highlights AI's role in misguiding tech support seekers."
-      ]
-    },
-    {
-      "summary": "US Senate candidates are challenging weapons transfers to Israel, potentially impacting Congressional votes on military support.",
-      "significance": "The midterms could shift Congressional votes to potentially block military support for Israel, challenging existing US weapons transfers.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-      "points": [
-        "Senate candidates from Texas and Michigan are leading the challenge.",
-        "The midterms could shift Congressional votes to block military support for Israel."
-      ]
-    },
-    {
-      "summary": "Zelenskyy announces trilateral peace talks between Ukraine, Russia, and the US next month.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
-      "points": [
-        "Talks involve Ukraine, Russia, and the US.",
-        "Zelenskyy seeks direct meeting with Putin to address territorial issues.",
-        "Restart of peace discussions scheduled for next month."
       ]
     }
   ]
