@@ -1,6 +1,72 @@
 {
-  "generated": "2026-11-02T21:42:17.532959Z",
+  "generated": "2026-11-02T23:42:17.336537Z",
   "summaries": [
+    {
+      "summary": "Julian Fellowes' period drama \"The Gilded Age\" returns for a fourth season despite its poor reception.",
+      "significance": "The article highlights the paradox of a critically panned show like \"The Gilded Age\" achieving Emmy wins and multiple seasons, affecting perceptions of quality in period dramas.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker",
+      "points": [
+        "Show has won Emmys despite being called \"uniformly awful.\"",
+        "Meryl Streep stars but seems awkward watching her daughter Louisa Jacobson.",
+        "Fourth season continues despite no promise it will be the final one."
+      ]
+    },
+    {
+      "summary": "Lindsay Clancy seeks to dismiss murder charges in a new court hearing after her previous trial ended in a mistrial.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing",
+      "points": [
+        "Clancy's lawyers argue a new trial would violate double jeopardy rules.",
+        "The previous trial ended with a deadlocked jury in September.",
+        "Clancy is charged with murdering her three young children."
+      ]
+    },
+    {
+      "summary": "Supreme Court rejected Trump's attempt to segregate and not count 20,000 ballots in California.",
+      "significance": "Supreme Court upholds state election authority, rejecting federal attempt to invalidate ballots.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+      "points": [
+        "Supreme Court ruled against Trump administration's bid to set aside ballots.",
+        "Justice Department claimed 20,000 non-citizens were on California's voter rolls.",
+        "Election officials were given only 48 hours to review the list of alleged non-citizens."
+      ]
+    },
+    {
+      "summary": "A Washington state resident with underlying conditions died after contracting bird flu at a dairy.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/bird-flu-death-washington",
+      "points": [
+        "Death occurred after exposure to avian influenza at a Yakima county dairy.",
+        "Individual was hospitalized with a \"severe illness\" following the infection.",
+        "The person had underlying health conditions, though specifics were not disclosed."
+      ]
+    },
+    {
+      "summary": "Anthropic's revenue growth has slowed significantly in Q3 compared to Q2.",
+      "significance": "Anthropic's growth flattening affects investor expectations and may contribute to the decline in \"neocloud\" provider stocks, suggesting a potential slowdown in AI service revenue growth.",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "points": [
+        "Anthropic's Q3 revenue growth was $580 million per month, down from $760 million in Q2.",
+        "The slowdown in growth could affect the valuation of AI companies and the AI bubble.",
+        "CoreWeave and other \"neocloud\" providers are experiencing stock collapses due to rising interest rates and flattening AI service revenue growth."
+      ]
+    },
+    {
+      "summary": "A decade-long series of bugs in Unix process group signaling led to unexpected system-wide outages.",
+      "url": "https://alangrow.com/blog/a-decade-of-kill-bugs",
+      "points": [
+        "Between 2013 and 2026, at least four distinct bugs related to negative pids shipped in Ubuntu LTS versions.",
+        "The bugs caused the kill command to target all processes instead of intended process groups.",
+        "Initially, the bugs manifested as no action or accidental shell terminations, but later led to system-wide outages."
+      ]
+    },
+    {
+      "summary": "Apple reported record revenues for its fiscal fourth quarter, ending September 26, 2026, with a 12% year-over-year increase.",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "points": [
+        "Apple's quarterly revenue reached $114.5 billion, up 12% from the previous year.",
+        "The company's diluted earnings per share was $2.10, marking a 14% increase year over year.",
+        "Apple's board declared a cash dividend of $0.27 per share, payable on November 16, 2026."
+      ]
+    },
     {
       "summary": "Lindsay Clancy seeks to have her murder charges dismissed in court for killing her three children.",
       "significance": "Lindsay Clancy's legal battle continues as she seeks to dismiss murder charges, following a mistrial, affecting her case's future and her constitutional rights claims.",
@@ -3683,72 +3749,6 @@
         "Russian missiles damaged medical facilities and an intensive care unit in Kyiv.",
         "Truce in Oleshky, aimed at allowing humanitarian aid, began at 3am local time.",
         "Zelenskyy highlights Ukraine's wait for US defence secretary to sign off on missile supplies."
-      ]
-    },
-    {
-      "summary": "Sudan's paramilitary group, Rapid Support Forces, attacked five power stations in eastern states, causing widespread power outages.",
-      "significance": "The drone strikes by Sudan's paramilitary forces on power stations highlight the escalating conflict's impact on civilian infrastructure and daily life.",
-      "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-      "points": [
-        "Rapid Support Forces launched coordinated drone strikes on five power stations.",
-        "Strikes hit two stations each in Al-Jazira and Gedaref, and one in White Nile state.",
-        "Attacks resulted in power outages across large parts of the three affected states."
-      ]
-    },
-    {
-      "summary": "The oldest GUI application that still runs on Windows 11 without modifications is nearly 34 years old.",
-      "significance": "The story highlights Windows 11's backward compatibility, showcasing an application from 1989 that still runs without modifications or emulation.",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "points": [
-        "16-bit Windows programs cannot run on 64-bit Windows 11.",
-        "A small DLL can emulate a CD-ROM drive to play audio in the old application."
-      ]
-    },
-    {
-      "summary": "Federal court rejects Trump's DOJ attempt to block counting of 20,000 ballots in California, deeming them from non-citizens.",
-      "significance": "Court ruling prevents disruption to California's voting process, upholding state's election procedures against federal interference.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
-      "points": [
-        "Court ruled 2-1 against Trump's DOJ in the dispute.",
-        "DOJ demanded California segregate thousands of ballots for citizenship verification.",
-        "California election officials refused to comply with DOJ's 48-hour order."
-      ]
-    },
-    {
-      "summary": "FTC and 20 states sue Dollar General for overcharging customers based on a Guardian investigation.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/dollar-general-ftc-lawsuit",
-      "points": [
-        "Alleges overcharging affects millions of purchases at Dollar General's over 20,000 stores.",
-        "Lawsuit filed in federal court in Nashville against the nation\u2019s largest dollar-store chain."
-      ]
-    },
-    {
-      "summary": "A blog post details faster algorithms for signed 64-bit floor division by constants, showing significant performance improvements over mainstream methods.",
-      "significance": "This story matters because it introduces faster algorithms for signed 64-bit floor division by constants, improving throughput by 10-20% over existing methods for most divisors.",
-      "url": "https://www.benjoffe.com/fast-floordiv",
-      "points": [
-        "The new algorithms offer 10-20% faster throughput than existing methods for most 64-bit divisors.",
-        "The blog highlights that at least one major software library had a buggy implementation for over 4 years.",
-        "The technique can also be used for faster positive-modulus and \"Euclidean\" division, applicable in various bit-widths."
-      ]
-    },
-    {
-      "summary": "Webframe, a project by Jeff Lindsay, is evaluated for its capabilities as a web scraper and sandbox tool.",
-      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-      "points": [
-        "Webframe runs web pages like programs, outputting console logs and exceptions.",
-        "It uses the glaze library to access system browsers across different operating systems.",
-        "Evaluation includes testing as a sandboxing tool and for web scraping tasks."
-      ]
-    },
-    {
-      "summary": "Flávio Bolsonaro, son of former Brazilian president, banned from leaving Brazil and ordered to surrender passports after election loss.",
-      "significance": "The story highlights political fallout and legal challenges for Flávio Bolsonaro post-election, linking to broader issues of corruption and political instability in Brazil.",
-      "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
-      "points": [
-        "Flávio Bolsonaro ordered to surrender passports by supreme court justice Alexandre de Moraes.",
-        "Ruling comes after Flávio's loss in the presidential election to Luiz Inácio Lula da Silva.",
-        "Justice de Moraes also oversaw the trial of Jair Bolsonaro for attempting a coup."
       ]
     }
   ]
