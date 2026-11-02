@@ -1,6 +1,36 @@
 {
-  "generated": "2026-11-01T23:42:46.893377Z",
+  "generated": "2026-11-02T01:41:24.589049Z",
   "summaries": [
+    {
+      "summary": "High-speed train collision in Spain killed 69 people, including citizens from multiple countries.",
+      "significance": "The story highlights the international impact of Spain's deadly train crash, affecting families across multiple countries.",
+      "url": "https://www.theguardian.com/world/2026/nov/02/spain-trash-crash-us-citizens-japan-canada-dead",
+      "points": [
+        "69 people died, including 54 Spaniards, in Europe\u2019s deadliest rail incident this century.",
+        "Four US citizens were among the deceased, along with individuals from Canada, Japan, and others.",
+        "Forensics teams are identifying victims, some from body parts, causing distress to relatives."
+      ]
+    },
+    {
+      "summary": "Trump attacked Abdul El-Sayed as a \"jihadist\" at an Iowa rally to influence the Senate race.",
+      "significance": "Trump's racist remarks against El-Sayed aim to influence a critical Senate race, potentially impacting party control of the Senate.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+      "points": [
+        "Trump labeled El-Sayed a \"jihadist\" during his speech in Iowa.",
+        "The comments aim to impact a close Senate race crucial for party control.",
+        "Trump also praised Haley Stevens for endorsing Mike Rogers."
+      ]
+    },
+    {
+      "summary": "A user on Hacker News seeks recommendations for a privacy-respecting TV in the 60\u201d to 80\u201d range with 4k display and at least 60Hz refresh rate.",
+      "significance": "The story highlights the challenges and methods users employ to maintain privacy when selecting and modifying smart TVs.",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "points": [
+        "One user recommends buying a \"dumb TV\" and connecting it to a trusted PC, but notes that truly dumb TVs are hard to find in larger sizes.",
+        "Another user bought a Google TV-based TCL, disconnected its WiFi antenna, and manually uninstalled apps to minimize privacy risks.",
+        "The discussion highlights concerns about TVs phoning home and collecting data, even when not explicitly connected to the internet."
+      ]
+    },
     {
       "summary": "Trump's campaign event in Iowa was initially canceled but later proceeded as he makes final pushes before Election Day.",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
@@ -3712,35 +3742,6 @@
       "points": [
         "Lula secured more than 51% of the vote.",
         "Right-wing Senator Flavio Bolsonaro refuses to concede and plans to contest the result."
-      ]
-    },
-    {
-      "summary": "A birthkeeper could face criminal charges for allegedly grooming pregnant women to fear hospitals, leading to a death.",
-      "significance": "A birthkeeper could face criminal charges for allegedly grooming pregnant women to fear hospitals, following the death of a woman who gave birth at home.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
-      "points": [
-        "Stacey Warnecke died in September 2025 after a home birth and postpartum hemorrhage.",
-        "Emily Lal, the birthkeeper, charged $6,000 for her services during pregnancy.",
-        "Warnecke was told her \u2018condition and mindset\u2019 needed to be \u2018solid\u2019 to avoid hospital."
-      ]
-    },
-    {
-      "summary": "Covert recording of a prison meeting reveals a former police officer apologizing to a friend for their involvement in a double murder case.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
-      "points": [
-        "Lamarre-Condon acknowledged his friend's involvement due to him in a December prison meeting.",
-        "Lamarre-Condon, 31, is accused of shooting Jesse Baird and Luke Davies with his police weapon.",
-        "The shootings occurred in Baird\u2019s Paddington home on February 19, 2024."
-      ]
-    },
-    {
-      "summary": "PaperPilot is a Rust-based PDF toolkit that operates locally without cloud uploads, offering a range of PDF manipulation features.",
-      "significance": "PaperPilot offers a secure, locally-run PDF toolkit in Rust, enhancing document processing privacy and efficiency without cloud uploads.",
-      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "points": [
-        "Runs locally in browser memory, ensuring files never leave user's machine",
-        "Supports PDF operations like merge, split, OCR, and compression via CLI and WASM",
-        "Enterprise Edition includes SSO, RBAC, audit logs, and DLP features separately developed"
       ]
     }
   ]
