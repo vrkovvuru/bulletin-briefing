@@ -1,6 +1,63 @@
 {
-  "generated": "2026-11-02T19:41:46.805003Z",
+  "generated": "2026-11-02T21:42:17.532959Z",
   "summaries": [
+    {
+      "summary": "Lindsay Clancy seeks to have her murder charges dismissed in court for killing her three children.",
+      "significance": "Lindsay Clancy's legal battle continues as she seeks to dismiss murder charges, following a mistrial, affecting her case's future and her constitutional rights claims.",
+      "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
+      "points": [
+        "Clancy's case ended in a mistrial in August due to jurors' inability to reach a verdict.",
+        "Defence argues that the judge should have further investigated a note from the jury foreperson.",
+        "Prosecutors intend to retry Clancy if the case moves forward, with a potential retrial in March."
+      ]
+    },
+    {
+      "summary": "Trump unveils $14m Lincoln Memorial reflecting pool renovation ahead of midterms.",
+      "significance": "Trump showcases $14m Lincoln Memorial pool renovation ahead of midterms, despite voter concerns over his focus on capital projects.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/trump-reflecting-pool-renovation-midterms",
+      "points": [
+        "Unveiling occurs before crucial midterm elections.",
+        "Renovation cost $14m and was delayed.",
+        "Polls show voters believe Trump is too focused on DC building projects."
+      ]
+    },
+    {
+      "summary": "Burnham dismisses \"open borders\" label while hinting at supporting a balanced immigration policy.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
+      "points": [
+        "Burnham calls Reform\u2019s \"open borders\" attack on him \"ridiculous\".",
+        "His stance on immigration reform is seen as a balance between Labour's left and right.",
+        "Burnham's position aligns with Shabana Mahmood\u2019s harder line on migration."
+      ]
+    },
+    {
+      "summary": "Savannah Guthrie makes another plea for information on her mother's disappearance.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/savannah-guthrie-mother-nancy-new-post",
+      "points": [
+        "Guthrie's mother, Nancy Guthrie, 84, believed to have been abducted in February.",
+        "Three months after initial plea, Guthrie shared a drawing by her daughter asking for help.",
+        "Photo included a child's drawing with the message: \"I really need my mommy."
+      ]
+    },
+    {
+      "summary": "Aarush and Arnav from The Subvocal Company are developing smart glasses that allow users to communicate silently with their computers.",
+      "significance": "Subvocal's technology allows silent communication with computers, potentially changing how people interact with devices in quiet or public settings.",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "points": [
+        "The glasses use RF waves to detect silent mouthing and convert it to text.",
+        "The technology was initially prototyped at Stanford\u2019s TreeHacks in February.",
+        "Preorders for the first batch of 500 units are available with a $200 discount."
+      ]
+    },
+    {
+      "summary": "Polyend releases the firmware source code for Tracker series on GitHub, enabling user modifications and sharing.",
+      "url": "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120",
+      "points": [
+        "Firmware for Tracker, Tracker+, and Tracker Mini available on GitHub",
+        "New features include expanded sample memory usage, dedicated fields for Micro-move and Volume, and six new effects",
+        "Community can build custom synth engines and themes, with official updates planned"
+      ]
+    },
     {
       "summary": "Global youth protests are escalating, mirroring historic movements, with students demanding change from France to Albania.",
       "significance": "Global youth protests highlight broken promises to young people, potentially threatening liberal democracies worldwide.",
@@ -3692,61 +3749,6 @@
         "Flávio Bolsonaro ordered to surrender passports by supreme court justice Alexandre de Moraes.",
         "Ruling comes after Flávio's loss in the presidential election to Luiz Inácio Lula da Silva.",
         "Justice de Moraes also oversaw the trial of Jair Bolsonaro for attempting a coup."
-      ]
-    },
-    {
-      "summary": "Chancellor John Healey will abolish the controversial carer\u2019s allowance rule in Wednesday\u2019s budget, replacing it with a digital taper system.",
-      "url": "https://www.theguardian.com/society/2026/oct/26/carers-allowance-cliff-edge-abolished-in-the-budget",
-      "points": [
-        "The old rule penalized unpaid carers with thousands of pounds in penalties.",
-        "New digital taper system will be announced in Wednesday\u2019s budget."
-      ]
-    },
-    {
-      "summary": "Trump offers $1m reward for reports of voter fraud leading to arrest and conviction.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud",
-      "points": [
-        "Reward applies to both past and upcoming 2026 midterm elections.",
-        "Trump announced the reward on Truth Social.",
-        "Payment is contingent on arrest and conviction of fraudsters."
-      ]
-    },
-    {
-      "summary": "Coastal California prepares for potential record-breaking tides causing significant flooding.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
-      "points": [
-        "Significant flooding expected in San Diego and Orange counties through Thursday.",
-        "Tides as high as 8ft could cause minor to moderate flooding from San Luis Obispo to Los Angeles counties.",
-        "Bay Area officials warn of up to 2.1ft of inundation in low-lying coastal areas."
-      ]
-    },
-    {
-      "summary": "CorridorKey 2.0 offers one-click green and blue screen keying in multiple VFX programs.",
-      "significance": "CorridorKey 2.0 streamlines VFX editing with one-click background removal, supporting multiple software platforms, and offering high-quality results without subscriptions.",
-      "url": "https://corridorkey.com/",
-      "points": [
-        "Supports Resolve, Nuke, After Effects, Premiere, and Blender with one purchase.",
-        "Eliminates flicker and chattering mattes by analyzing entire videos, not just frames.",
-        "Requires Windows PC with NVIDIA RTX or M-series Mac on macOS 14 or newer."
-      ]
-    },
-    {
-      "summary": "Lula won Brazil\u2019s election with significant support from a WhatsApp channel.",
-      "significance": "A WhatsApp channel engaged over 10 million Lula supporters, contributing to his electoral victory with a significant vote margin.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
-      "points": [
-        "Over 10 million Lula supporters joined a WhatsApp channel.",
-        "Lula won with 10.3 million more votes than previously.",
-        "Allies credit the WhatsApp app as key to his victory."
-      ]
-    },
-    {
-      "summary": "Eighty people were injured when a bus crashed into a car and fell down an embankment near Barcelona.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
-      "points": [
-        "80 people injured in the accident.",
-        "Four individuals suffered serious injuries.",
-        "The incident occurred near Barcelona, involving a bus and a car."
       ]
     }
   ]

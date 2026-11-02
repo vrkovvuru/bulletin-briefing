@@ -2,21 +2,12 @@
   "date": "2026-11-02",
   "stories": [
     {
-      "title": "Lindsay Clancy in court to drop child murder charges after mistrial",
-      "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Defence argues juror misconduct and judge&#039;s questioning impacted Clancy&#039;s trial for strangling of her three children.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
@@ -29,6 +20,69 @@
       "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
+      "title": "‘Work to do’: Authorities give update on Florida private jet crash",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Mahmood scraps settlement plans for migrant care workers",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Mamdani’s progressive allies vie for seats in Congress",
+      "url": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday&#039;s election.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
+      "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Defence argues that retrying Clancy would violate ⁠⁠her constitutional rights.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Is America really that polarized? The answer might be a surprise",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump focuses on Washington DC construction projects on eve of midterm election as Democrats climb in polls – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "President at reflecting pool in Washington DC to talk about various projects in final appearance before Americans head to polls to vote in crucial midterm election Sign up for the Breaking News US email The latest and final New York Times and Siena College poll before the midterm elections also shows Abdul El-Sayed leading Mike Rogers in the US Senate race in Michigan by 11 percentage points , outside the margin of error. The survey took place before Democratic Congresswoman Haley Stevens announced that she would back Rogers in the contest – a vital seat for her party to retain in their quest for control of the Senate. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
       "url": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
       "source": "NPR",
@@ -38,57 +92,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
-      "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "California says any move to block ballots from suspected noncitizens could disenfranchise eligible voters.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Senegal hosts Africa’s first Olympics",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The head of the International Olympic Committee discusses the significance of Africa hosting the Youth Olympic Games.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Brand's defence barrister told jurors that Brand \"had an immense amount of sex\", but that \"none of it was unlawful\".",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
-      "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "On the eve of the Nov. 3 election, the Trump administration is hoping the Supreme Court will reverse lower courts that rejected its request to order California to set aside the ballots of thousands of people it says are \"likely\" noncitizens.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Abdul El-Sayed’s campaign reports record fundraising day as Haley Stevens faces backlash for endorsing his opponent – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Democratic candidate for Michigan US Senate seat raised $2.4m on Sunday after congresswoman Haley Stevens pulled her endorsement of him in favor of Trump-backed Mike Rogers Sign up for the Breaking News US email Newsletter: How you (yes you) can fight dark money in elections How Israel is at the heart of Haley Stevens’s extraordinary reversal The latest and final New York Times and Siena College poll before the midterm elections also shows Abdul El-Sayed leading Mike Rogers in the US Senate race in Michigan by 11 percentage points , outside the margin of error. The survey took place before Democratic Congresswoman Haley Stevens announced that she would back Rogers in the contest – a vital seat for her party to retain in their quest for control of the Senate. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A global youthquake is happening. Promises we made young people have been broken – and they know it | Gordon Brown",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/global-youthquake-young-people-anger-protest-liberal-democracy",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Anger and protest have put liberal democracy on trial. It’s vital to understand the rage that now unites a generation We have not yet reached a 1968 moment, when students at the Sorbonne lit a fuse that detonated a crisis that eventually brought down the De Gaulle government . But in late 2026, starting with the symbolic act of young French people climbing the July Column at Paris’s Place de la Bastille, the world is experiencing the biggest outbreak of student demonstrations for 60 years. When Italian students subsequently occupied a high school in Rome, they opened their demand for change with the words “ like in France ”. Youth demonstrations are now raging from India – where the government has responded with repressive force to the Cockroach movement – to Albania, where, after being out on the streets for nearly five months, students are demanding not only an end to corruption, but the replacement of the government . Continue reading...",
+      "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Stevens’s decision sparked fierce backlash from members of the party, while Donald Trump praised the sudden switch Michigan Democrat Haley Stevens’ shocking last-minute endorsement of Mike Rogers, a Republican Senate candidate, in the run-up to the elections has sparked fierce backlash from members of her party. Stevens, who narrowly lost in the Democratic primary for Senate to Abdul El-Sayed, announced her support for Rogers after a feud with the El-Sayed campaign over an outside group’s campaign ad that blamed the high cost of living on US support for Israel. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,30 +110,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How Israel is at the heart of Haley Stevens’s extraordinary reversal",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/haley-stevens-israel-aipac",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The issue runs through almost every twist and turn and has come to define the congresswoman’s political persona For Haley Stevens, the road from Democratic Senate candidate to campaigning alongside a Republican she once called a rubber stamp for Donald Trump has been remarkably short – and the issue running through almost every twist and turn has been Israel. Having failed to stop Abdul El-Sayed in the primary, Stevens chose to back Republican Mike Rogers on Sunday, a candidate who she previously warned would enable Trump’s agenda – apparently because the Democrat who won refuses to share her position on Israel. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
-      "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "After a second apparent cyber-attack in as many weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats remotely cranked up in some cases to 50C (122F). The EU has condemned what it said was “a deliberate attempt to disrupt our food supply chain and undermine consumers’ confidence in it”. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
       "url": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
       "alsoReportedBy": []
     },
     {
@@ -137,12 +137,39 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trial of nine men accused of abusing woman drugged and raped by husband begins",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/02/trial-of-nine-men-accused-of-abusing-woman-drugged-and-raped-by-husband-begins",
+      "title": "Trump unveils results of $14m reflecting pool makeover in final appeal before midterms",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/trump-reflecting-pool-renovation-midterms",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The husband, who cannot be named to protect his victim, has already pleaded guilty to a number of offences carried out at the couple’s Stockport home Nine men have gone on trial accused of being involved in the abuse of a woman who was drugged, raped and sexually assaulted by her husband while he “lived a double life masked in respectability”. The husband, who cannot be named in order to protect the anonymity of his victim, has already pleaded guilty to a number of offences against his wife spanning more than two decades. Continue reading...",
+      "summary": "US president shares delayed results of chaotic renovation on DC site as Americans prepare to head to the polls Donald Trump unveiled the delayed results of his $14m renovation of Washington DC’s Lincoln Memorial reflecting pool in what is expected to be his final press conference before voters head to the polls for the midterm elections. On the eve of a consequential election day, with polls indicating that most voters feel the US president has grown too focused on building projects in the nation’s capital, he stood in front of the newly opened reflecting pool to discuss – in detail – changes to the pool’s pipe, the grass surrounding the area and granite. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Migration is a moral issue for Burnham – but he also wants to tell a positive story",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "While PM is keen to support those making a contribution his backing of Shabana Mahmood’s hard line is no surprise While out on the campaign trail in Makerfield, Andy Burnham gave a glimpse into where he might land on Labour’s plans for immigration reform, which had already been decried by the left of the party as unfair and the right as electorally necessary. Asked by the Guardian what he thought of Reform’s attack on “open borders Andy” – Nigel Farage’s early attempt to define him as soft on migration – the then Manchester mayor dismissed the charge as “ridiculous” and went on the defensive. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘We cannot move forward’: Savannah Guthrie shares new post seeking information in mother’s disappearance",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/savannah-guthrie-mother-nancy-new-post",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Her latest plea comes three months after urging ‘someone to come forward’ with details about Nancy Guthrie Savannah Guthrie has issued a new plea for help on the whereabouts of her 84-year-old mother, who authorities believe was abducted in February. On Sunday, the Today show co-host shared a photo of an old drawing made by her daughter featuring an umbrella and the words: “I know it might not seem like it but I really need my mommy.” Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "After a second apparent cyber-attack in as many weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats remotely cranked up in some cases to 50C (122F). The EU has condemned what it said was “a deliberate attempt to disrupt our food supply chain and undermine consumers’ confidence in it”. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -153,33 +180,6 @@
       "categoryLabel": "World",
       "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
       "alsoReportedBy": ["Guardian World"]
-    },
-    {
-      "title": "Judge tosses case against two officials accused of lying about Hunter Biden",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The two FBI agents were charged with making false statements to Congress while testifying about the bureau’s role in investigating Biden’s laptop A federal judge dismissed criminal charges against two former FBI officials who were accused of lying about their involvement in the investigation into Hunter Biden , the son of former president Joe Biden, on Monday. Magistrate Judge Zia Faruqui said prosecutors failed to show probable cause that the two former officials, Nikki Floris and Bradley Benavides, had knowingly made false statements. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Five arrested after South African farmer shot and tortured",
-      "url": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump promised a steel mill in this rural Iowa region. But is it all a midterm election ploy?",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/iowa-midterms-steel-mill",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Residents would welcome the development, but the president’s past false promises cast doubt on the proposal On a Monday afternoon in late September, Donald Trump gathered Iowa Republicans in the Oval Office to make a big announcement: the firm Mesabi Metallics would invest $15bn to make the midwestern state the site of the largest steel mill in the country. One month later, and just days before the midterm election, word has spread in the small town of Wever, population 142, that the mill will be built somewhere nearby. And that’s been about it – no shovels in the dirt, workers on a job site or machinery on the dirt roads leading down towards the Mississippi River. Continue reading...",
-      "alsoReportedBy": []
     },
     {
       "title": "Astra can read and write weights to improve Qwen",
@@ -200,8 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://subvocal.company/",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,21 +209,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "What are you doing this week?",
-      "url": "https://lobste.rs/s/maqsgl/what_are_you_doing_this_week",
+      "title": "Polyend releases the Tracker firmware source code",
+      "url": "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "What are you doing this week? Feel free to share! Keep in mind it’s OK to do nothing at all, too.",
+      "summary": "",
+      "alsoReportedBy": ["Hacker News"]
+    },
+    {
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
