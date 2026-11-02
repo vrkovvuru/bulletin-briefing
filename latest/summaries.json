@@ -1,6 +1,72 @@
 {
-  "generated": "2026-11-02T15:43:04.124033Z",
+  "generated": "2026-11-02T17:42:23.772721Z",
   "summaries": [
+    {
+      "summary": "Real Madrid games remain banned in China, even after Mbappe apologized for controversial comments.",
+      "significance": "The continued ban affects Real Madrid's Chinese fanbase and revenue, despite Mbappe's apology for controversial comments.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
+      "points": [
+        "Chinese channels did not broadcast Real Madrid's La Liga match on Sunday.",
+        "Mbappe apologized for his 'ill judged' remarks about a Mao Zedong meme.",
+        "Banning persists despite Mbappe's public apology."
+      ]
+    },
+    {
+      "summary": "UK Home Secretary Mahmood announces care workers can get settlement after 5 years instead of 15, but not applicable to those arriving after May 2025.",
+      "significance": "The shortened settlement period for care workers from 15 to 5 years will affect their ability to gain indefinite leave to remain in the UK more quickly.",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
+      "points": [
+        "Care workers can now apply for settlement after 5 years instead of 15.",
+        "New rule does not apply to care workers arriving after May 2025.",
+        "Downing Street did not disclose cost of plane detour for Andy Burnham."
+      ]
+    },
+    {
+      "summary": "Trump announced a $15bn steel mill project in Iowa, but there's skepticism about its timing.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/02/iowa-midterms-steel-mill",
+      "points": [
+        "Trump promised $15bn investment for the largest steel mill in the country in Iowa.",
+        "The project was announced in late September in the Oval Office with Iowa Republicans.",
+        "Wever, a town of 142 people, awaits signs of construction, seeing it as pre-election move."
+      ]
+    },
+    {
+      "summary": "A defendant claims he thought he had consent from a woman drugged by her husband for sex.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/02/defendant-tells-court-he-believed-he-had-consent-of-woman-drugged-by-her-husband",
+      "points": [
+        "Connor Sanderson-Doyle believed Joanne Young consented after answering an ad.",
+        "Philip Young, Joanne's husband, drugged and sexually abused her over 13 years.",
+        "Philip Young has pleaded guilty to multiple charges of abuse in Swindon, Wiltshire."
+      ]
+    },
+    {
+      "summary": "Nigel Farage will no longer write a regular column for the Telegraph, amid changes under new ownership.",
+      "url": "https://www.theguardian.com/politics/2026/nov/02/nigel-farage-telegraph-column-ends",
+      "points": [
+        "Sources differ on whether contract was terminated or if Farage resigned.",
+        "Farage's last column condemned Burnham\u2019s budget and proposed policy changes.",
+        "Farage is the latest rightwing figure to leave the Telegraph under new ownership."
+      ]
+    },
+    {
+      "summary": "Momentic, a YC-backed startup, introduces Mo, an AI QA engineer that automates end-to-end testing for apps, significantly speeding up the process and reducing bugs.",
+      "significance": "Momentic accelerates bug detection and test maintenance, enhancing development speed and quality for startups.",
+      "url": "https://momentic.ai/",
+      "points": [
+        "Momentic makes end-to-end testing 3x faster, enabling startups to ship faster and better.",
+        "Users report a 30% decrease in production incidents thanks to Momentic's automated testing.",
+        "The tool can run automated evaluations across 110 prompts in 14 minutes, a task that would take over an hour manually."
+      ]
+    },
+    {
+      "summary": "A car owner jailbreaks their Renault Latitude's navigation system to change the time, as the system requires a specific SD card to access time settings.",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "points": [
+        "The car's navigation system needs a navigation SD card just to change the time.",
+        "The owner spent around 60 EUR to purchase the required SD card from a third party.",
+        "The system uses DRM checks to reject unauthorized SD cards or modified files."
+      ]
+    },
     {
       "summary": "Arab parties are set to back opposition leader Gadi Eisenkot\u2019s bloc, complicating Netanyahu\u2019s chances of forming a government.",
       "significance": "Israel\u2019s Arab parties backing Eisenkot\u2019s bloc could prevent political deadlock and challenge Netanyahu\u2019s chances of forming another government.",
@@ -3680,72 +3746,6 @@
         "Talks involve Ukraine, Russia, and the US.",
         "Zelenskyy seeks direct meeting with Putin to address territorial issues.",
         "Restart of peace discussions scheduled for next month."
-      ]
-    },
-    {
-      "summary": "Dr. Stacy Kim's new book, \"Envy,\" explores how to transform envy into a tool for achieving personal goals.",
-      "url": "https://www.theguardian.com/global/ng-interactive/2026/oct/26/turn-envy-into-motivation",
-      "points": [
-        "Kim argues examining envy can lead to understanding deeper desires.",
-        "Envy's intensity and duration indicate its importance in personal growth.",
-        "The book combines social science, philosophy, and Kim's personal experiences."
-      ]
-    },
-    {
-      "summary": "Lula's comeback in Brazil's presidential election was aided by social media and street protests.",
-      "significance": "Student-led protests and a viral WhatsApp channel helped Lula achieve an unexpected victory in Brazil's presidential election.",
-      "url": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
-      "points": [
-        "Lula finished second in the first round, surprising even him.",
-        "9 million voters from right-wing candidates were expected to transfer to Flávio Bolsonaro.",
-        "A viral WhatsApp channel and student-led protests supported Lula's campaign."
-      ]
-    },
-    {
-      "summary": "Senior NHS doctors in England will strike for two days in November over pay and hours, warning of patient disruption.",
-      "url": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
-      "points": [
-        "Strike dates set for November 25 and 26.",
-        "Consultants earn an average of £152,000 annually.",
-        "NHS warns of patient \"pain, discomfort and inconvenience."
-      ]
-    },
-    {
-      "summary": "Jurors warned of upsetting content as trial begins for four men accused of sexually assaulting a drugged ex-wife, whose husband admits drugging and raping her.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
-      "points": [
-        "Philip Young, 50, pleaded guilty to multiple abuse charges against his former wife.",
-        "Joanne Young waived her right to anonymity in the case.",
-        "Trial taking place at Winchester crown court with eight male and six female jurors."
-      ]
-    },
-    {
-      "summary": "Meta employees denounce the company\u2019s interference in Brazilian elections, accusing leadership of biased favoritism towards the Bolsonaro family.",
-      "significance": "Meta employees protest interference in Brazilian elections, highlighting risks to democratic processes and public trust in digital platforms.",
-      "url": "https://www.panamericandispatch.org/p/meta-employees-denounce-interference",
-      "points": [
-        "Meta employees accuse leadership of obvious and biased favoritism towards the Bolsonaro family during Brazilian elections.",
-        "A protest against Meta\u2019s interventions in Brazilian elections took place on October 24 in London.",
-        "Employees warn that such actions could damage public trust in democratic institutions and digital platforms."
-      ]
-    },
-    {
-      "summary": "Gram 3.4.0 has been released with numerous fixes, new features, and some usability changes.",
-      "url": "https://gram-editor.com/posts/release-3.4.0/",
-      "points": [
-        "Release includes ability to wrap tab bar instead of horizontal scrolling.",
-        "Git commit history view now accessible from the git panel.",
-        "Security updates include permission requirements for downloading extension-provided DAPs and LSPs."
-      ]
-    },
-    {
-      "summary": "Lula won Brazil's presidential runoff, defeating Flávio Bolsonaro in a historic comeback.",
-      "significance": "Lula's victory demonstrates that defending democracy and social welfare policies can effectively counter the rise of the far right in Brazil.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election",
-      "points": [
-        "Lula gained nearly 3 million more votes in the runoff compared to the first round.",
-        "The victory was partly due to grassroots mobilization and social welfare policies like Bolsa Família.",
-        "Lula framed the election as a choice between protecting democracy and returning to Bolsonaro's policies."
       ]
     }
   ]
