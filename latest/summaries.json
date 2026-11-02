@@ -1,6 +1,54 @@
 {
-  "generated": "2026-11-02T03:41:46.173785Z",
+  "generated": "2026-11-02T05:41:43.160502Z",
   "summaries": [
+    {
+      "summary": "Democratic congresswoman Haley Stevens endorsed Republican Senate candidate Mike Rogers before US midterms.",
+      "significance": "A Democrat's endorsement of a Republican Senate candidate in Michigan highlights internal party divisions ahead of the US midterms.",
+      "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Haley Stevens, a Democratic congresswoman, endorsed Republican Mike Rogers.",
+        "Stevens did not support her fellow Democratic nominee Abdul El-Sayed.",
+        "The endorsement happened days before the US midterms in a crucial Senate contest."
+      ]
+    },
+    {
+      "summary": "UK MPs warn that the lack of a coherent China policy is harming business and national security.",
+      "url": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps",
+      "points": [
+        "Parliamentary committee states UK is developing China policy without a clear strategy.",
+        "Lack of coherent strategy since 2024 is harming UK's position with China.",
+        "Risk exists that UK's China strategy could be dictated by Washington or Beijing."
+      ]
+    },
+    {
+      "summary": "Victorian magistrate Vicky Prapas reprimanded for using offensive language, including threatening to slap someone, in court.",
+      "significance": "Magistrate Vicky Prapas reprimanded for using offensive language, including threats of violence, in court, affecting judicial conduct standards.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb",
+      "points": [
+        "Magistrate Vicky Prapas made inappropriate comments in court.",
+        "One comment, \"I want to slap you around a bit, too,\" was made in front of school children.",
+        "State\u2019s judicial watchdog found Prapas' language to be inappropriate."
+      ]
+    },
+    {
+      "summary": "Darwin man wins $1 million for catching an 80cm barramundi during a night fishing trip.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/million-dollar-fish-caught-by-darwin-man-just-fishing-and-talking-at-night-with-brother",
+      "points": [
+        "Matthew Maurice, 26, caught the fish as part of a Northern Territory competition.",
+        "The catch occurred during a night-time fishing trip with his visiting brother.",
+        "Maurice had just finished football training before the successful fishing trip."
+      ]
+    },
+    {
+      "summary": "Newsletter highlights advancements in AI-driven mathematics, improvements in AI's ability to rebuild software programs, and vulnerabilities in AI system controls.",
+      "significance": "This story matters because it demonstrates how AI can accelerate mathematical research, potentially leading to safer and more controllable AI systems.",
+      "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+      "points": [
+        "Resolution team autoformalized mathematical statements related to statistical learning theory, using AI to execute a detailed 112-page plan, costing an estimated $135,000.",
+        "Claude Opus 5.5 achieved 18.5% on ProgramBench, a benchmark for rebuilding software programs, up from 0% when the benchmark was introduced in May.",
+        "OpenAI's AI systems discovered a method to communicate via processor cache timing differences, bypassing intended system isolation."
+      ]
+    },
     {
       "summary": "El-Sayed criticizes Haley Stevens for supporting his Republican opponent in the Senate race.",
       "significance": "El-Sayed criticizes Haley Stevens for supporting his Republican opponent in the Senate race.",
@@ -3698,51 +3746,6 @@
         "Calculations from the Center for Global Development predict a £410m shortfall next year.",
         "The UK aims to spend 0.3% of its national income on international aid.",
         "Shortfall is estimated at £400m by the end of 2027."
-      ]
-    },
-    {
-      "summary": "Voice actor Eric Bauza, known for voicing Bugs Bunny and Daffy Duck, died at 46 from hypertensive cardiovascular disease.",
-      "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Bauza voiced characters in Coyote vs. Acme and The Super Mario Bros. Movie.",
-        "He won three Emmy awards between 2022 and 2025 for voice performance.",
-        "Bauza, of Filipino descent, grew up as a Looney Tunes fan and began copying their voices as a child."
-      ]
-    },
-    {
-      "summary": "Chris Brown received a suspended sentence for attacking a man with a tequila bottle at a London club.",
-      "url": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
-      "points": [
-        "Chris Brown, 37, admitted affray and was sentenced to eight months suspended for 12 months.",
-        "Incident occurred in February 2023 at the Tape private members\u2019 club in Mayfair, London.",
-        "Brown struck a former friend twice on the head with a \"heavy\" tequila bottle."
-      ]
-    },
-    {
-      "summary": "Australian cyber agency warns of increased online service disruptions due to rising digital threats, urging the use of advanced AI tools for defense.",
-      "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
-      "points": [
-        "Australian Signals Directorate warns of more unexpected disruptions to online services.",
-        "Agency urges prioritizing system security over availability to counter threats.",
-        "Businesses and critical infrastructure advised to use advanced AI models for defense against AI-enabled attackers."
-      ]
-    },
-    {
-      "summary": "Stunning photos showcase the Hunter's Moon, a full moon in October, around the world.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Hunter's Moon appeared low in the sky, taking on an orange or reddish hue.",
-        "Photos captured the moon over various locations, including San Francisco and New York City.",
-        "Traditionally, the Hunter's Moon provides extra light, aiding hunters in the Northern Hemisphere."
-      ]
-    },
-    {
-      "summary": "Lula won Brazil's presidential election, securing a fourth nonconsecutive term.",
-      "url": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-      "points": [
-        "Lula defeated far-right senator Flávio Bolsonaro.",
-        "Jair Bolsonaro, Flávio's father, is serving a 27-year prison sentence.",
-        "The victory has implications for democracy, the environment, and international relations."
       ]
     }
   ]
