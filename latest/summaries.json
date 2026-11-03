@@ -1,6 +1,44 @@
 {
-  "generated": "2026-11-03T03:42:19.616006Z",
+  "generated": "2026-11-03T05:41:03.911796Z",
   "summaries": [
+    {
+      "summary": "Reddit challenges Australia's under-16s social media ban, arguing it restricts political communication.",
+      "significance": "Reddit argues Australian under-16s social media ban is overly broad, challenging it in high court for impinging on teens' political communication freedom.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court",
+      "points": [
+        "Reddit claims the ban impinges on teens' implied freedom of political communication.",
+        "The ban was passed hastily in 2024, deemed \"ill-thought-out\" by Reddit.",
+        "Reddit's lawsuit has already led to the legislation being narrowed."
+      ]
+    },
+    {
+      "summary": "Western officials state that potential UK and French peacekeepers in Ukraine post-ceasefire could engage in self-defense against Russian forces.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/uk-european-peacekeepers-ukraine-fire-back-russians",
+      "points": [
+        "Peacekeepers would be permitted to retaliate if attacked by Russian forces.",
+        "The force would be primarily European, avoiding reliance on US technology like Starlink.",
+        "British and French troops are expected to lead the potential stabilisation mission."
+      ]
+    },
+    {
+      "summary": "Australian MPs are providing permanent access to Parliament House for major resource companies and online gambling lobbyists.",
+      "significance": "MPs' sponsorship of powerful lobbyists for permanent access to Parliament House raises concerns over transparency and influence.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/powerful-political-lobbyists-access-to-parliament-australia",
+      "points": [
+        "Labor and Coalition MPs are sponsoring these groups.",
+        "New rules mandate disclosure of such sponsorships on a public register.",
+        "Initial data release provided limited detail, with over 1,000 applications pending."
+      ]
+    },
+    {
+      "summary": "Monthly sponsors-only newsletter sent out with topics on game development, cybersecurity, and software updates.",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "points": [
+        "October marks a critical phase for vibe game development.",
+        "Discussion on the increasing severity of cybersecurity vulnerabilities.",
+        "LLM offers API credits for subscriptions over $100/month."
+      ]
+    },
     {
       "summary": "Russian bombing of an aid center in Ukraine's Zaporizhzhia region killed at least 26 people.",
       "significance": "The bombing highlights Russia's continued aggressive tactics, undermining any prospects for de-escalation in the conflict.",
@@ -3710,44 +3748,6 @@
         "David Shoebridge urges legislative changes in the last two sitting weeks.",
         "Ombudsman's 104-page report recommends allowing staff to correct algorithm decisions.",
         "Report targets an \"unfair\" tool used for assessing home support packages for older Australians."
-      ]
-    },
-    {
-      "summary": "An MP calls for changes to pre-poll voting due to security concerns following the Haines incident.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
-      "points": [
-        "MP Garth Hamilton witnessed three interactions between cars and people at pre-poll sites.",
-        "Concerns stem from the alleged attack on MP Helen Haines, leading to her serious injuries.",
-        "Proposal includes potentially shortening the time pre-poll booths are open."
-      ]
-    },
-    {
-      "summary": "A three-part documentary pays tribute to Matthew Perry, detailing his rise to fame and struggles with addiction.",
-      "significance": "The documentary provides a moving tribute to Matthew Perry, highlighting the love and despair of those close to him, while also bringing attention to the struggles of addiction.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/27/the-one-about-matthew-perry-review-netflix-documentary-friends",
-      "points": [
-        "Matthew Perry died in 2023 at age 54 after relapsing into drug addiction.",
-        "The documentary, \"The One About Matthew Perry,\" includes interviews with his half-sister Mia and friends Roger Castillo and David Pressman.",
-        "Despite its three-hour runtime, the film is described as exhaustive but never exhausting, thanks to quality interviews."
-      ]
-    },
-    {
-      "summary": "Former FBI director Comey faces third prosecution attempt by the US justice department, while Trump criticizes him.",
-      "significance": "The story matters as it highlights the ongoing legal challenges faced by former FBI Director Comey, impacting US political dynamics.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-      "points": [
-        "US justice department attempting third prosecution of Comey.",
-        "Trump calls Comey a \u2018dirty cop\u2019 on social media.",
-        "JD Vance campaigning in Michigan for Republicans, part of a multi-state blitz."
-      ]
-    },
-    {
-      "summary": "UK PM announces budget measures including tariff removals and paternity leave for self-employed dads, facing criticism from opposition.",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
-      "points": [
-        "Tariffs removed on over 100 products, including gherkins and baked beans.",
-        "Self-employed fathers to receive paternity leave, benefiting tens of thousands annually.",
-        "Nigel Farage suggests liking Tommy Robinson\u2019s posts won\u2019t bar Reform UK candidacy."
       ]
     }
   ]
