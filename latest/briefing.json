@@ -2,55 +2,84 @@
   "date": "2026-11-03",
   "stories": [
     {
-      "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump\u2019s agenda",
+      "title": "Reform UK councillor charged with rape and sexual assault",
+      "url": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Global food security is under threat",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Attacks on grain shipments from Russia and Ukraine may drive up food prices, hitting import-dependent countries hardest.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "US midterm voting begins in high-stakes test of Trump’s presidency",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Voting is under way across the US in midterm elections that could strip Trump’s Republicans of control of Congress.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment \"underlines MI5's serious failures in this case\".",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump\u2019s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? It has just gone past 06:30 in North Carolina , Ohio and West Virginia where polls have now opened. Here are some of the key voter issues shaping the US midterm elections: The economy : Despite Trump\u2019s 2024 campaign pledge to tackle affordability issues, the economy consistently ranks as voters\u2019 top concern. Iran : Trump\u2019s decision to go to war with the Tehran regime has exacerbated economic worries. Iran\u2019s retaliatory decision to close the strait of Hormuz has driven up gasoline prices for US motorists. It also represents a breach of his pledge to end the US\u2019s supposed addiction to \u201cforever wars\u201d. Immigration : Enforcement and closing the border remains a signature issue for Trump. He repeatedly boasts of the impact of his closure of the southern border as one of his biggest achievements, making comparisons with the performance of Joe Biden. AI and datacenters: AI has emerged as a key campaign issue, with surveys showing a majority of voters holding negative views on it, even as Trump champions its development and attempts to rename it \u201csuper intelligence\u201d. Continue reading...",
-      "alsoReportedBy": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "title": "Tenerife\u2019s Jesus de Miguel dies after on-field collision with goalkeeper",
-      "url": "https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Tenerife forward Jesus de Miguel suffered a cardiac arrest after a keeper&#039;s challenge in Spanish second division match.",
-      "alsoReportedBy": [
-        "BBC News",
-        "The Guardian"
-      ]
-    },
-    {
-      "title": "Iran commander sets out five conditions for regional security",
-      "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was &#039;hopeful&#039; of an agreement.",
+      "summary": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump’s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? Midterm elections 2026: what time do the polls close today? It has just gone past 06:30 in North Carolina , Ohio and West Virginia where polls have now opened. Here are some of the key voter issues shaping the US midterm elections: The economy : Despite Trump’s 2024 campaign pledge to tackle affordability issues, the economy consistently ranks as voters’ top concern. Iran : Trump’s decision to go to war with the Tehran regime has exacerbated economic worries. Iran’s retaliatory decision to close the strait of Hormuz has driven up gasoline prices for US motorists. It also represents a breach of his pledge to end the US’s supposed addiction to “forever wars”. Immigration : Enforcement and closing the border remains a signature issue for Trump. He repeatedly boasts of the impact of his closure of the southern border as one of his biggest achievements, making comparisons with the performance of Joe Biden. AI and datacenters: AI has emerged as a key campaign issue, with surveys showing a majority of voters holding negative views on it, even as Trump champions its development and attempts to rename it “super intelligence”. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
-      "url": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "‘His voice was too queer – so they silenced him’: how Spain’s national poet Lorca finally became a gay icon",
+      "url": "https://www.theguardian.com/culture/2026/nov/03/spain-poet-lorca-gay-icon-la-bola-negra",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
-    },
-    {
-      "title": "Saudi Pro League postpones matches after Asian Cup rescheduling",
-      "url": "https://www.aljazeera.com/sports/2026/11/3/saudi-pro-league-postpones-matches-after-asian-cup-rescheduling?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "League delays matches after revised Asian Cup dates create &#039;additional flexibility in the domestic football calendar&#039;.",
+      "summary": "The significance of the poet and playwright’s homosexuality was repressed in Spain for decades – but a spate of recent work, including the film La Bola Negra, is redressing the balance for a new generation Patricia Langa parades on to an invisible stage in a basement room of Instituto Cervantes in central London, locked into the character of Conchita, a professional mourner loosely based on the sorrowful heroines of Federico García Lorca’s 1936 play, The House of Bernarda Alba. “His voice was too loud, too queer, too alive for those around him, filled with jealousy and hatred,” she tells her imagined audience. “So they silenced him.” Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -63,70 +92,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "\u2018His voice was too queer \u2013 so they silenced him\u2019: how Spain\u2019s national poet Lorca finally became a gay icon",
-      "url": "https://www.theguardian.com/culture/2026/nov/03/spain-poet-lorca-gay-icon-la-bola-negra",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The significance of the poet and playwright\u2019s homosexuality was repressed in Spain for decades \u2013 but a spate of recent work, including the film La Bola Negra, is redressing the balance for a new generation Patricia Langa parades on to an invisible stage in a basement room of Instituto Cervantes in central London, locked into the character of Conchita, an eternally grieving Spanish widow loosely based on the sorrowful heroines of Federico Garc\u00eda Lorca\u2019s 1936 play, The House of Bernarda Alba. \u201cHis voice was too loud, too queer, too alive for those around him, filled with jealousy and hatred,\u201d she tells her imagined audience. \u201cSo they silenced him.\u201d Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "West Ham approach Parker after sacking boss Nuno",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
-    },
-    {
-      "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
-      "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S. elections.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in nine countries",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-      "alsoReportedBy": [
-        "Guardian World"
-      ]
-    },
-    {
-      "title": "Ex-Reform UK MP cleared after standards watchdog overruled over N-word rules breach \u2013 UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Commons standards committee decided that James McMurdock will not be subject to further action Q: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery reparations? Badenoch said she did not agree with that \u201cbecause most Commonwealth countries aren\u2019t doing this\u201d. China did all sorts of things. It\u2019s not out there apologising. The purpose of the apology is to make us look weak. It is to make this country look weak. And once we start looking weak, then we have every man and his dog making demands and sending us an invoice, which the British taxpayer has to pay. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-      "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
+      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
       "alsoReportedBy": []
     },
     {
@@ -148,6 +119,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Judge orders Iowa to permit Satanic Temple holiday event at state capitol",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/iowa-satanic-temple-holiday-event-judge",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Federal court says group likely to win its free speech claim and tells officials to approve application within seven days A federal judge ordered state officials in Iowa on Monday to permit a local Satanic Temple organization to hold a holiday event in the rotunda of the state capitol after years of denying the group’s application. The religious organization and Iowa Republican state officials have been in a legal battle over the group’s applications to hold a holiday event at the state capitol in recent years. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Trump to remove Rwanda and South Africa from US trade deal",
       "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -157,41 +137,48 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Major test for Australia's social media ban begins in High Court",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
-      "alsoReportedBy": [
-        "Guardian World"
-      ]
-    },
-    {
-      "title": "Judge orders Iowa to permit Satanic Temple holiday event at state capitol",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/iowa-satanic-temple-holiday-event-judge",
+      "title": "Four planes flying across Europe targeted by bomb threats",
+      "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Federal court says group likely to win its free speech claim and tells officials to approve application within seven days A federal judge ordered state officials in Iowa on Monday to permit a local Satanic Temple organization to hold a holiday event in the rotunda of the state capitol after years of denying the group\u2019s application. The religious organization and Iowa Republican state officials have been in a legal battle over the group\u2019s applications to hold a holiday event at the state capitol in recent years. Continue reading...",
+      "summary": "Flights from London, Manchester, Copenhagen and Israel affected but no explosives found after touchdown Europe live – latest updates Four planes have landed safely after bomb threats were made across Europe, including for two flights that departed from the UK, according to reports. Polish officials said they had received bomb threats involving two Warsaw-bound flights, but the planes landed safely and no explosives were found. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "New tool will help gardeners move away from thirsty English classics to drought-resistant plants",
-      "url": "https://www.theguardian.com/environment/2026/nov/03/garden-climate-assessment-tool-drought-gardening",
+      "title": "US supreme court to hear arguments in Catholic preschools’ LGBTQ+ exclusion case",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/lgbtq-catholic-public-preschool-supreme-court",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Exclusive: Garden Climate Assessment Tool will allow users to predict a plant\u2019s response to the projected climate in a given location \u201cIn the 20th century, we could pretty much grow the same things with confidence, we could learn from previous generations,\u201d said Prof Sam Brockington, a curator at Cambridge University Botanic Garden. \u201cBut now we\u2019re moving into climate scenarios that we just don\u2019t have the traditions to understand fully.\u201d Continue reading...",
+      "summary": "A decision could reshape the relationship between religious freedom and nondiscrimination laws in the US The US supreme court will hear arguments on Tuesday over a challenge brought by two Catholic preschools in Colorado , arguing that they should be admitted to the state’s free education system despite their rejection of children with LGBTQ+ parents. A decision in the case, St Mary Catholic Parish v Roy , could reshape the relationship between religious freedom and nondiscrimination laws in the US. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Millions of Americans crippled by medical debt despite relief efforts",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/medical-debt-healthcare",
+      "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Stopgap measure does not solve fundamental problem that millions can\u2019t afford the healthcare they need, experts say Some of the millions of Americans who collectively owe billions of dollars for medical expenses have seen their debt forgiven in recent years, and there has been a dramatic uptick in aid this year. But the relief still only covers a small fraction of the outstanding balance and is just a stopgap measure that does not solve the fundamental problem: people in the US get into serious financial trouble because they can\u2019t afford the healthcare they need, experts say. Continue reading...",
+      "summary": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email , free app or daily news podcast Victoria’s public servants union says it will not support Labor at this month’s state election, condemning the government for cutting public service jobs while spending $1.2bn on consultants. The Community and Public Sector Union (CPSU) will announce the decision on Wednesday, joining several other unions that have refused to back Labor or are actively campaigning against the government ahead of the 28 November poll. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Snowy Hydro 2.0 executives awarded bonuses totalling $751,925 despite cost blowout",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Annual reports show NSW renewable company’s CEO opted out of cash bonus, while CSIRO’s chief received an extra $200,000 Get our breaking news email , free app or daily news podcast Executives at the troubled Snowy Hydro company collectively banked bonuses worth a combined $751,925 in the last financial year, despite its renewable energy project blowing out to 12 times its original cost. But Guardian Australia can reveal chief executive, Dennis Barnes, who has a base salary of $1,845,126, opted not to accept the extra cash. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Car finance: Barclays becomes first big lender to offer payouts for mis-selling of loans",
+      "url": "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Bank to make ‘early settlement’ offers before outcome of legal battle, with those who accept likely to get money before Christmas Business live – latest updates Barclays will this month start offering compensation to tens of thousands of people who claim they were mis-sold car loans, with some of those who accept likely to see the money land in their account before Christmas. Amid an ongoing legal battle over an industry-wide compensation scheme for victims of the UK’s car finance scandal, Barclays has become the first big UK lender to break cover and begin offering payouts to some customers who have complained. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -201,14 +188,12 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": [
-        "Hacker News"
-      ]
+      "alsoReportedBy": ["Hacker News"]
     },
     {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "source": "Lobsters",
+      "title": "Just a little AI resistance, as a treat",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -224,30 +209,30 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+      "url": "https://github.com/Muvon/octomind",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Why did you choose the nix you nix?",
       "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "I don't which nix is good and at this point I'm afraid I need to ask. (Cpp) Nix Determinate Nix Lix Or, you know, Guix ? (I suspect that Snix , Tvix , and others aren't intended for general use\u2026 but I might be wrong?)",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Nvidia \u2013 open-source auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Life with Down Syndrome",
-      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
+      "summary": "I don't which nix is good and at this point I'm afraid I need to ask. (Cpp) Nix Determinate Nix Lix Or, you know, Guix ? (I suspect that Snix , Tvix , and others aren't intended for general use… but I might be wrong?)",
       "alsoReportedBy": []
     },
     {
@@ -269,7 +254,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?",
+      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
       "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -278,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Stop Hardcoding Your Timeouts",
-      "url": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
-      "source": "Lobsters",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -311,9 +296,7 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
-      "alsoReportedBy": [
-        "Latent Space"
-      ]
+      "alsoReportedBy": ["Latent Space"]
     },
     {
       "title": "llm 0.37",
@@ -352,7 +335,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The U.S. Census Bureau and \u201cSuper Intelligence\u201d",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
       "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
       "source": "Simon Willison",
       "category": "ai",
@@ -375,10 +358,8 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion\u2014the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? \u2014 Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse",
+      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse",
       "alsoReportedBy": []
     }
-  ],
-  "durationSeconds": 184.8,
-  "voice": "af_heart"
+  ]
 }

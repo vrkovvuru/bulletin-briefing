@@ -1,6 +1,80 @@
 {
-  "generated": "2026-11-03T13:42:43.798807Z",
+  "generated": "2026-11-03T15:42:17.741146Z",
   "summaries": [
+    {
+      "summary": "Bomb threats targeted four planes flying across Europe, but no explosives were found upon landing.",
+      "significance": "The story highlights the disruption and security measures in European aviation following bomb threats, affecting travelers and airlines.",
+      "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+      "points": [
+        "Two flights from the UK, including London and Manchester, received bomb threats.",
+        "Polish officials reported threats against two Warsaw-bound flights.",
+        "All four planes landed safely with no explosives discovered."
+      ]
+    },
+    {
+      "summary": "US Supreme Court to hear arguments on Tuesday about Catholic preschools' right to exclude children with LGBTQ+ parents from state's free education system.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/lgbtq-catholic-public-preschool-supreme-court",
+      "points": [
+        "Case involves two Catholic preschools in Colorado challenging state nondiscrimination laws.",
+        "Decision in St Mary Catholic Parish v Roy could redefine balance between religious freedom and nondiscrimination laws.",
+        "Preschools seek admission to state\u2019s free education system despite their policies excluding LGBTQ+ families."
+      ]
+    },
+    {
+      "summary": "Public servants union in Victoria refuses to support Labor due to job cuts and high spending on consultants.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
+      "points": [
+        "CPSU condemns government for cutting jobs and spending $1.2bn on consultants.",
+        "Union decision announced on Wednesday, ahead of November 28 election.",
+        "CPSU joins other unions opposing Labor over 'privatisation by stealth'."
+      ]
+    },
+    {
+      "summary": "Snowy Hydro 2.0 executives received $751,925 in bonuses despite the project's significant cost overrun.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout",
+      "points": [
+        "Dennis Barnes, CEO, declined his bonus despite having a base salary of $1,845,126.",
+        "CSIRO's chief received an additional $200,000 bonus.",
+        "The renewable energy project's cost increased to 12 times its original estimate."
+      ]
+    },
+    {
+      "summary": "Barclays becomes first major lender to offer compensation to customers mis-sold car loans.",
+      "url": "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans",
+      "points": [
+        "Barclays to make 'early settlement' offers this month.",
+        "Some customers may receive compensation before Christmas.",
+        "Move comes amid an ongoing legal battle over a wider compensation scheme."
+      ]
+    },
+    {
+      "summary": "A blogger details their experience with AI-generated customer service responses from Ocado and the eventual human follow-up.",
+      "significance": "The story illustrates the impact of detailed customer feedback in overcoming AI-generated customer service responses, highlighting the importance of human engagement in addressing technical issues.",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "points": [
+        "Ocado initially responded with an AI-generated message that lacked technical engagement.",
+        "The blogger received a genuine apology and acknowledgment from a human after leaving a 1-star review.",
+        "The article highlights the frustration of dealing with AI in customer service and the importance of human interaction."
+      ]
+    },
+    {
+      "summary": "Octomind is an open-source AI coding agent that operates in terminal, CI, or as a daemon, offering efficient code handling and task completion.",
+      "url": "https://github.com/Muvon/octomind",
+      "points": [
+        "Octomind solved 24 out of 25 tasks at half the cost of its closest competitor.",
+        "It supports multiple programming languages including Python, PHP, Rust, C++, and JavaScript.",
+        "Users can choose their own key from providers like OpenRouter, Anthropic, or use Octomind Cloud."
+      ]
+    },
+    {
+      "summary": "Fujifilm plans to increase tape production fivefold due to rising demand for archiving driven by AI.",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "points": [
+        "Fujifilm will invest about $63 million to boost production capacity by 2028.",
+        "The investment targets the latest-generation \"FUJIFILM LTO Ultrium10\" tape.",
+        "Magnetic tape is favored for its low-cost storage and protection against cyber threats like ransomware."
+      ]
+    },
     {
       "summary": "Americans vote in midterm elections amid key issues including the economy, Iran conflict, immigration, and AI.",
       "significance": "The midterm elections determine congressional control during Trump's second term, influenced by economic concerns, foreign policy decisions, immigration, and public sentiment on AI.",
@@ -3674,80 +3748,6 @@
         "Steve Francia worked with Gemini to deploy emulators for NES, Game Boy, and Game Boy Color on the badge.",
         "Badge users can run games like The Legend of Zelda: Link's Awakening if they have the ROM.",
         "The badge includes touch buttons for gameplay when turned upside down."
-      ]
-    },
-    {
-      "summary": "OpenAI introduces GPT-6.1 Terra, highlighting improvements in visual reasoning and computer use tasks over its predecessor.",
-      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-      "points": [
-        "GPT-6.1 Terra costs $1/million input tokens and $5/million output tokens.",
-        "It is faster and cheaper than GPT-6.1 Sol, being about half the price of GPT-5.6 Terra.",
-        "Ted Sanders noted GPT-6.1 Terra excels in technical communication and is faster in vision and computer use tasks."
-      ]
-    },
-    {
-      "summary": "Flávio Bolsonaro, son of former Brazilian president, reportedly fled to the US after his father's election loss.",
-      "significance": "Flávio Bolsonaro's reported flight to the US highlights political tensions post-election and potential fears of legal repercussions following his father's defeat.",
-      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-      "points": [
-        "Flávio Bolsonaro missed deadline to hand over his passport.",
-        "Left for the US after his father, former president, lost to Lula.",
-        "Metrópoles reported the senator is en route to the United States."
-      ]
-    },
-    {
-      "summary": "Russell Brand told police his consensual sexual encounters were misrepresented decades later during his trial for alleged sexual offences.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/27/russell-brand-told-police-he-led-very-promiscuous-life",
-      "points": [
-        "Brand, 51, described his life as \"very promiscuous\" in a statement to police.",
-        "He accused media reports of being \"defamatory and fictitious\" regarding the allegations.",
-        "Brand claimed to have had sexual encounters in \"countless locations and scenarios."
-      ]
-    },
-    {
-      "summary": "Nigel Farage is criticized for downplaying racist remarks by an associate as both racist and not racist.",
-      "url": "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
-      "points": [
-        "Raheem Kassam labeled Kemi a 'Nigerian scammer', deemed racist.",
-        "Farage positions himself as perpetually misunderstood and victimized.",
-        "Government advises stockpiling supplies for a three-day survival period."
-      ]
-    },
-    {
-      "summary": "UK launches Warm Home Loans scheme for interest-free or low-interest loans to fund household energy upgrades.",
-      "significance": "The Warm Home Loans scheme enables UK households to affordably install solar panels and heat pumps, potentially reducing energy bills and increasing adoption of low-carbon technologies.",
-      "url": "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps",
-      "points": [
-        "Loans range from £7,500 to £35,000 for solar panels, heat pumps, and batteries.",
-        "Scheme aims to cut household energy bills by hundreds of pounds annually.",
-        "Launched on Tuesday, the government-backed initiative helps access low-carbon technologies."
-      ]
-    },
-    {
-      "summary": "Surgeon performs first telerobotic prostate removal in the US from 35 miles away.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/first-telerobotic-surgery",
-      "points": [
-        "Dr. Vipul Patel operated from AdventHealth Celebration on a 66-year-old patient.",
-        "The surgery took place between two facilities in Florida, 35 miles apart.",
-        "The procedure was part of a clinical study on robotic telesurgery systems."
-      ]
-    },
-    {
-      "summary": "Federal agents searched a Beverly Hills mansion linked to ex-congressman Eric Swalwell in a sexual misconduct probe.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched",
-      "points": [
-        "Search occurred at Stephen Cloobeck's home, a wealthy developer and Swalwell donor.",
-        "Investigation follows Swalwell's resignation in April amid sexual misconduct allegations.",
-        "Federal agents conducted the search early on Tuesday."
-      ]
-    },
-    {
-      "summary": "A new fast and secure tar parser, tar-codec, is introduced for the Rust ecosystem to address security risks and performance issues.",
-      "url": "https://astral.sh/blog/tar-codec",
-      "points": [
-        "tar-codec is approximately twice as fast as previous tar implementations.",
-        "The parser reduces exposure to security risks associated with parser differentials.",
-        "Python packaging tool uv uses tar-codec to handle source distributions securely."
       ]
     }
   ]
