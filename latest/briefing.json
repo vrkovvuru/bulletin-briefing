@@ -2,6 +2,15 @@
   "date": "2026-11-03",
   "stories": [
     {
+      "title": "Bomb threats target seven flights across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
       "title": "Reform UK councillor charged with rape and sexual assault",
       "url": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,84 +20,84 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
-      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Global food security is under threat",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Attacks on grain shipments from Russia and Ukraine may drive up food prices, hitting import-dependent countries hardest.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US midterm voting begins in high-stakes test of Trump’s presidency",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Voting is under way across the US in midterm elections that could strip Trump’s Republicans of control of Congress.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
-      "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment \"underlines MI5's serious failures in this case\".",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+      "title": "Trump says US will end military aid to Israel by the end of this year",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump’s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? Midterm elections 2026: what time do the polls close today? It has just gone past 06:30 in North Carolina , Ohio and West Virginia where polls have now opened. Here are some of the key voter issues shaping the US midterm elections: The economy : Despite Trump’s 2024 campaign pledge to tackle affordability issues, the economy consistently ranks as voters’ top concern. Iran : Trump’s decision to go to war with the Tehran regime has exacerbated economic worries. Iran’s retaliatory decision to close the strait of Hormuz has driven up gasoline prices for US motorists. It also represents a breach of his pledge to end the US’s supposed addiction to “forever wars”. Immigration : Enforcement and closing the border remains a signature issue for Trump. He repeatedly boasts of the impact of his closure of the southern border as one of his biggest achievements, making comparisons with the performance of Joe Biden. AI and datacenters: AI has emerged as a key campaign issue, with surveys showing a majority of voters holding negative views on it, even as Trump champions its development and attempts to rename it “super intelligence”. Continue reading...",
-      "alsoReportedBy": []
+      "summary": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters sceptical of US support for Israel and the war in Gaza . In a phone interview with Fox News as voting began on Tuesday morning, Trump said the US would cut nearly $4bn (£2.96bn) in military aid to Israel because “they don’t need it.” Continue reading...",
+      "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "‘His voice was too queer – so they silenced him’: how Spain’s national poet Lorca finally became a gay icon",
-      "url": "https://www.theguardian.com/culture/2026/nov/03/spain-poet-lorca-gay-icon-la-bola-negra",
-      "source": "The Guardian",
+      "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The significance of the poet and playwright’s homosexuality was repressed in Spain for decades – but a spate of recent work, including the film La Bola Negra, is redressing the balance for a new generation Patricia Langa parades on to an invisible stage in a basement room of Instituto Cervantes in central London, locked into the character of Conchita, a professional mourner loosely based on the sorrowful heroines of Federico García Lorca’s 1936 play, The House of Bernarda Alba. “His voice was too loud, too queer, too alive for those around him, filled with jealousy and hatred,” she tells her imagined audience. “So they silenced him.” Continue reading...",
+      "summary": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
       "alsoReportedBy": []
     },
     {
-      "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
+      "title": "When caring for aging family members becomes cost prohibitive",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
+      "summary": "AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Russian strikes on Dnipro kill two, injure 20 others",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Russian strikes on Dnipro damaged residential areas and several medical facilities.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+      "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Shrimpers worry about fuel costs, tariffs and Trump&#039;s proposed cuts to the agency that provides vital weather data.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Jury in Russell Brand rape and sexual assault trial retires to consider verdicts",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/jury-russel-brand-rape-sexual-assault-trial-retires-consider-verdicts",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Judge tells jurors he will be able to accept only a unanimous decision on seven charges against the comedian The jury in Russell Brand’s rape and sexual assault trial has retired to consider its verdicts. Brand, 51, has been described as a ruthless, calculated and manipulative sexual predator during the three-week trial at Southwark crown court. The comedian is accused of seven offences, including rape and sexual assault, against six women in allegations spanning 10 years from 1999. He denies all the charges. Continue reading...",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "Protect Poundland from predatory capitalism, MPs tell government",
+      "url": "https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Budget retailer and 12,000 jobs at risk after US owner fails to accept buyout offers MPs have called on the government to protect Poundland and other high street stores from “predatory capitalism” and asset-stripping. The fate of the retail chain and its 12,000 staff remains uncertain after it filed a notice of intention to appoint administrators at the high court last Thursday. The US restructuring specialist Gordon Brothers, which controls Poundland, has lined up the advisory company AlixPartners to run the process. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,21 +110,57 @@
       "alsoReportedBy": []
     },
     {
-      "title": "US urges Venezuela to release remaining political prisoners",
-      "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
+      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
+      "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
       "alsoReportedBy": []
     },
     {
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "title": "UK cuts aid to Commonwealth countries despite warm words at Chogm summit",
+      "url": "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Nations in the group fare worse than others, with funding for nature projects especially hard hit even as climate crisis intensifies global need The UK government has slashed overseas aid to Commonwealth countries, the Guardian can reveal, in contrast to the warm words for the group from the king and the prime minister, Andy Burnham , this week. Amid sharp cuts in the UK’s aid budget overall, the Commonwealth has fared poorly, an analysis of the most recent and projected aid figures, seen by the Guardian, has shown. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Officials investigate fire at Mississippi police department tied to fatal shooting of Black toddler",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/mississippi-police-department-fire-kohen-wiley",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Person arrested after fire at police department where officer who shot and killed one-year-old Kohen Wiley had worked In the early hours of 31 October, a fire broke out at the Senatobia police department in Mississippi, which has been embroiled in controversy recently after one of its officers shot and killed Kohen Wiley, a one-year-old. Though the cause of the fire has not been reported, it is being investigated as arson by agents with the US Bureau of Alcohol, Tobacco, Firearms and Explosives. In June, then Senatobia police sergeant Hunter Foster shot Kohen as he sat in his mother’s arms in a Walmart parking lot. Foster, who is white, was responding to a report of an alleged shoplifting; Kohen, his mother and the driver of the vehicle, are Black. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Primark brings forward home deliveries plan by two years after profits slide",
+      "url": "https://www.theguardian.com/business/2026/nov/03/primark-brings-forward-home-deliveries-plan-by-two-years-after-profits-slide",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Retailer acquires robot-assisted warehouse and intends to have UK service up and running before end of 2027 Primark is to begin making home deliveries by the end of next year as it aims to win new shoppers after a slide in profits. George Weston, the boss of the cut-price fashion chain’s owner Associated British Foods (ABF), said it had brought forward the launch of Primark’s home delivery plans by about two years. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
+      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
       "alsoReportedBy": []
     },
     {
@@ -128,71 +173,62 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Four planes flying across Europe targeted by bomb threats",
-      "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Flights from London, Manchester, Copenhagen and Israel affected but no explosives found after touchdown Europe live – latest updates Four planes have landed safely after bomb threats were made across Europe, including for two flights that departed from the UK, according to reports. Polish officials said they had received bomb threats involving two Warsaw-bound flights, but the planes landed safely and no explosives were found. Continue reading...",
+      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare). Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "US supreme court to hear arguments in Catholic preschools’ LGBTQ+ exclusion case",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/lgbtq-catholic-public-preschool-supreme-court",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A decision could reshape the relationship between religious freedom and nondiscrimination laws in the US The US supreme court will hear arguments on Tuesday over a challenge brought by two Catholic preschools in Colorado , arguing that they should be admitted to the state’s free education system despite their rejection of children with LGBTQ+ parents. A decision in the case, St Mary Catholic Parish v Roy , could reshape the relationship between religious freedom and nondiscrimination laws in the US. Continue reading...",
+      "title": "How software engineering is changing: a tale of two eras",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+      "source": "Pragmatic Engineer",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we&#8217;re sharing the winning piece from a strong set of entries",
       "alsoReportedBy": []
     },
     {
-      "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email , free app or daily news podcast Victoria’s public servants union says it will not support Labor at this month’s state election, condemning the government for cutting public service jobs while spending $1.2bn on consultants. The Community and Public Sector Union (CPSU) will announce the decision on Wednesday, joining several other unions that have refused to back Labor or are actively campaigning against the government ahead of the 28 November poll. Continue reading...",
+      "title": "Death comes for XSLT",
+      "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Snowy Hydro 2.0 executives awarded bonuses totalling $751,925 despite cost blowout",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Annual reports show NSW renewable company’s CEO opted out of cash bonus, while CSIRO’s chief received an extra $200,000 Get our breaking news email , free app or daily news podcast Executives at the troubled Snowy Hydro company collectively banked bonuses worth a combined $751,925 in the last financial year, despite its renewable energy project blowing out to 12 times its original cost. But Guardian Australia can reveal chief executive, Dennis Barnes, who has a base salary of $1,845,126, opted not to accept the extra cash. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Car finance: Barclays becomes first big lender to offer payouts for mis-selling of loans",
-      "url": "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Bank to make ‘early settlement’ offers before outcome of legal battle, with those who accept likely to get money before Christmas Business live – latest updates Barclays will this month start offering compensation to tens of thousands of people who claim they were mis-sold car loans, with some of those who accept likely to see the money land in their account before Christmas. Amid an ongoing legal battle over an industry-wide compensation scheme for victims of the UK’s car finance scandal, Barclays has become the first big UK lender to break cover and begin offering payouts to some customers who have complained. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": ["Hacker News"]
+      "alsoReportedBy": []
     },
     {
-      "title": "Just a little AI resistance, as a treat",
-      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Mac at Any Scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -206,33 +242,6 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-      "url": "https://github.com/Muvon/octomind",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why did you choose the nix you nix?",
-      "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "I don't which nix is good and at this point I'm afraid I need to ask. (Cpp) Nix Determinate Nix Lix Or, you know, Guix ? (I suspect that Snix , Tvix , and others aren't intended for general use… but I might be wrong?)",
       "alsoReportedBy": []
     },
     {
@@ -254,17 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
-      "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
-      "source": "Pragmatic Engineer",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "&#8220;AI SRE&#8221; is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -272,12 +272,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "October sponsors-only newsletter",
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here , as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
+      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with one of the examples from the paper and I'm delighted to share that Qwen 3.8 27B running on my laptop can do this as well! Weight-Space Programming Here's the highlight from their abstract, describing impressive capabilities for GPT-6 Astra and coining the term Weight-Space Programming for when LLMs analyze and modify model weights: Just by looking at the raw weights, GPT-6 Astra can tell what a network was trained to do . And without any environment feedback, it has no trouble writing, from scratch, small game-playing networks that outplay networks trained with PPO for 100 million steps. Likewise, asked to make Qwen3.5-0.8B better at math without gradients, Astra identifies an issue in its weights causing reasoning loops that Qwen’s own model card warns about, and fixes this by natively editing 0.016% of the weights . With the same sampling settings, this weight correction raises MATH-500 from 7.9% to 48.1% and generalizes out of the box to instruction following, raising IFEval by 3x. All of this is possible without allowing Astra to write training loops. It uses its reasoning to figure out what each part of a neural network computes, or should compute, and changes the weights accordingly. We call this Weight-Space Programming . The paper combines two topics that I think deserve to be treated separately. The first is what models can do with raw weights without running tools or executing code. The second explores how well models, once armed with code, can run operations to update and improve other models. spaCy author Matthew Honnibal called the paper misleading for conflating the two, and Sean Goedecke deconstructed the Qwen3.5-0.8B update example as taking the same steps that a human ML researcher would use. I'm going to focus on the no-tools question, which I think is the more interesting of the two. The paper presents the first question as Can LLMs understand model behaviors from weights? They trained four neural networks to play simplified 10x10 grid versions of four classic computer games - Breakout, Pong, Pac-Man, and Freeway (I had to look that one up , it's an Atari 2600 game from 1981). Then they fed those weights (as floating point numbers) to an LLM along with the following question: The weights below belong to one policy network that was trained with reinforcement learning to play a game on this grid. Which game was it trained on? Work from the weights. You have no tools: no code execution, no calculator, nothing to run. This is a single response. The GitHub repository that accompanies the paper is RikiyaT/lm_understand-logs . The exp1_which_game folder contains the prompts they used, with weights for the four games: breakout/prompt.txt freeway/prompt.txt pacman/prompt.txt pong/prompt.txt I checked and, aside from the weights, each prompt is identical to the others. Trying it out with Qwen 3.8 27B and other models The prompts on GitHub are self-contained. My LLM tool has a -f/--fragment option which can be passed the URL to a text file to use as a prompt, which means I can run any of the above like this: llm -f https://raw.githubusercontent.com/RikiyaT/lm_understand-logs/refs/heads/main/exp1_which_game/runs/breakout/prompt.txt \\ -m openrouter/moonshotai/kimi-k3.1-pro This example requires the llm-openrouter plugin installed, and runs the Breakout prompt against Kimi K3.1 Pro via OpenRouter. Here's what I got back from Kimi K3.1 Pro , which successfully guessed Breakout after 9m 41s and 19,493 reasoning tokens. But how about Qwen 3.8 27B ? That's still my favorite model to run on my own laptop - it's just 17GB (I use this version ) and somehow feels close to the leading proprietary models of 2025. I fired up LM Studio , ensured Qwen 3.8 27B was loaded with a long context window (the default 8192 context failed with errors), installed the llm-lmstudio plugin and ran this command: LMSTUDIO_TIMEOUT=900 \\ llm -f https://raw.githubusercontent.com/RikiyaT/lm_understand-logs/refs/heads/main/exp1_which_game/runs/pacman/prompt.txt \\ -m lmstudio/qwen/qwen3.8-27b (I had to bump the timeout up using an environment variable, see this issue .) After 46m 12s and 43,506 reasoning tokens, Qwen on my laptop returned a response that ended like this (here's the reasoning trace ): Game: A simplified Pac-Man-style gridworld: an agent moves through a fixed 8x8 maze with central and corner wall blocks, moving objects/ghosts, and reward targets/pellets. Description: The agent navigates a fixed maze-like 8x8 board, using current agent/moving-object/previous-frame cues to move through corridors, collect reward-target cells, and avoid moving objects or hazards. Confidence: 72% This is impressive. I tried it on two of the other games as well. It identified Pong ( reasoning ) in 1h 4m 54s: Pong — specifically a Pong-like paddle/ball game where the agent controls a vertical paddle on the right side and must move up/down to intercept or return a moving ball/reward object. Description: The agent moves a right-side paddle vertically to hit or catch a moving ball-like reward target moving across the 8×8 field, while a left-side moving object/opponent and wall borders define the play; reward is obtained by successfully intercepting/returning/scoring the ball, and missing or failing to hit it is penalized. Confidence: 75% And Breakout ( reasoning ) in 52m 25s: Game: Breakout, or an Arkanoid-like paddle/ball/brick game. Description: The agent is a paddle on the bottom row and moves left/right to keep a ball in play; the ball moves around the upper grid, and bricks/reward targets in the top rows give reward when hit, while missing the ball/hitting the bottom wall ends the episode or gives penalty. Confidence: 88% Qwen failed at the Freeway prompt, which didn't surprise me considering that game is more obscure than the other three. Here's that transcript - Qwen thought it was \"A simplified Pac-Man-like grid game: agent moves 4-directionally\". The reasoning traces are fun to skim, and almost incomprehensible. Here's a sample: What about agent channel0? We see some large channel0 rows near row8 col7/8 and maybe bottom? Let's list channel0 large: line436 input435 (row8 col7 ch0) -2.107,1.169,0.513...; line441 input440 (row8 col8 ch0) -0.376,0.010,1.564,3.855...; line445 input444 (row8 col8 ch4) 0.142,0.491...; line382? input381 ch0? Wait line382 input381: 381//5=76 (row7 col6), ch1? 381%5=1? 76 * 5=380, ch1. So not. Channel0 large maybe at row8 col7/8 only. Also top row? line44 input43 ch3, line49 ch3. Channel0 large maybe not many. Agent position could be near bottom-right? If the agent is typically at bottom-right? That said though, I expect a sufficiently experienced human being armed with a notepad and a pencil could get there with enough effort. It's a cool paper, but some of the wider commentary I've seen around it does not feel justified. I'm not ready to declare that the age of source code is over and our future involves incomprehensible machines editing their own model weights in incomprehensible ways. Tags: machine-learning , ai , generative-ai , local-llms , llms , qwen , paper-review",
       "alsoReportedBy": []
     },
     {
@@ -299,12 +299,12 @@
       "alsoReportedBy": ["Latent Space"]
     },
     {
-      "title": "llm 0.37",
-      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "title": "October sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna . LLM's support for embeddings now accepts that different binary content may have different content-type - necessary for models like Gemini Embedding 2 , which can embed text, audio, images, and video. A lot of open source maintainers complain about a flood of AI-assisted PRs. LLM is my project that has been most affected by this and, to be honest, I'm not finding it to be a problem. That's mainly because I have Opus 5.5 or GPT-6 Astra help me with triage to spot the most useful fixes! This release includes fixes from 12 authors - almost all AI-assisted - and the burden of reviewing them wasn't nearly as great as I expected. I really see them as bug reports with attached examples - sometimes I land them, sometimes I implement my own fix. So thanks to 0d00ciallo0721 , ac1982 , Allen Flux , Bian Yuhan , Bishop Kammeraad , Chen Yufeiyang , Christopher Krah , Ethan Stoner , Jiachen Xie , Olamide Faniyan , Sharat Chandra Sai Boddu , nosmile99 for helping out with (or spending tokens on) this release! Tags: open-source , projects , ai , annotated-release-notes , generative-ai , llms , embeddings , llm",
+      "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here , as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy! Tags: newsletter",
       "alsoReportedBy": []
     },
     {
@@ -353,12 +353,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Quoting Kyle Kingsbury",
-      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-      "source": "Simon Willison",
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4 Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse",
+      "summary": "It turns out you cannot have your cake AND eat it",
       "alsoReportedBy": []
     }
   ]

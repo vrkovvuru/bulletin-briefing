@@ -1,6 +1,116 @@
 {
-  "generated": "2026-11-03T15:42:17.741146Z",
+  "generated": "2026-11-03T17:43:21.509670Z",
   "summaries": [
+    {
+      "summary": "Trump announces on election day that the US will end $4bn annual military aid to Israel by year-end.",
+      "significance": "Trump's announcement aims to influence voters skeptical of US support for Israel, altering the narrative on election day.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+      "points": [
+        "Trump claims Israel doesn't need the $4bn military aid from the US.",
+        "Announcement made during a phone interview with Fox News as voting began.",
+        "Move appears aimed at voters skeptical of US support for Israel and Gaza conflict."
+      ]
+    },
+    {
+      "summary": "Israel detained Al Jazeera journalist Montaser Nassar during raids near Hebron.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+      "points": [
+        "Evidence showed Israeli forces shot and assaulted a prisoner.",
+        "Israeli Minister Itamar Ben-Gvir was involved in threatening a prisoner."
+      ]
+    },
+    {
+      "summary": "Russian strikes in Dnipro killed two and injured 20, damaging medical facilities.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
+      "points": [
+        "Two people were killed and 20 others injured in the strikes.",
+        "Strikes damaged several medical facilities, including a hospital.",
+        "A hospice caring for nearly 50 terminally ill patients was also hit."
+      ]
+    },
+    {
+      "summary": "Jury retires to deliberate verdicts in Russell Brand's rape and sexual assault trial.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/jury-russel-brand-rape-sexual-assault-trial-retires-consider-verdicts",
+      "points": [
+        "Judge requires unanimous decision on seven charges.",
+        "Brand, 51, accused of offenses against six women from 1999 to 2009.",
+        "Trial at Southwark crown court described Brand as a sexual predator."
+      ]
+    },
+    {
+      "summary": "MPs urge government protection for Poundland and its 12,000 jobs from asset-stripping after US owner rejects buyout offers.",
+      "significance": "MPs urge government protection for Poundland and jobs against asset-stripping risks.",
+      "url": "https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
+      "points": [
+        "Poundland filed for potential administration at the high court last Thursday.",
+        "US owner Gordon Brothers rejected multiple buyout offers for the budget retailer.",
+        "MPs warn against \"predatory capitalism\" threatening high street stores like Poundland."
+      ]
+    },
+    {
+      "summary": "UK slashes aid to Commonwealth countries despite positive rhetoric at Chogm summit.",
+      "url": "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
+      "points": [
+        "UK aid cuts hit Commonwealth nations harder, especially nature projects.",
+        "Analysis shows Commonwealth countries fare worse amid overall UK aid budget reductions.",
+        "Contrast between aid cuts and supportive statements from King and Prime Minister Andy Burnham."
+      ]
+    },
+    {
+      "summary": "Fire at Mississippi police department linked to fatal shooting of a Black toddler is under investigation as possible arson.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/03/mississippi-police-department-fire-kohen-wiley",
+      "points": [
+        "Fire broke out at Senatobia police department early on 31 October.",
+        "US Bureau of Alcohol, Tobacco, Firearms and Explosives investigating as arson.",
+        "Incident follows June shooting of one-year-old Kohen Wiley by officer Hunter Foster."
+      ]
+    },
+    {
+      "summary": "Primark accelerates home delivery plans to end 2027 amid profit decline.",
+      "url": "https://www.theguardian.com/business/2026/nov/03/primark-brings-forward-home-deliveries-plan-by-two-years-after-profits-slide",
+      "points": [
+        "Primark's home delivery service now set for end of 2027, two years ahead.",
+        "Move aims to attract new customers following a drop in company profits.",
+        "George Weston, boss of ABF, announced the accelerated delivery service launch."
+      ]
+    },
+    {
+      "summary": "Google is removing XSLT functionality from Chromium-based browsers, threatening websites built with XSLT.",
+      "significance": "The story matters because it highlights Google's decision to remove XSLT support, potentially breaking websites that rely on it, thus impacting web developers and users.",
+      "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+      "points": [
+        "Websites using XSLT will likely stop displaying correctly soon.",
+        "Some browsers have already started showing warnings about XSLT removal.",
+        "Google's move is seen as breaking the web's social contract of backwards compatibility."
+      ]
+    },
+    {
+      "summary": "Postman's desktop app auto-installs AI plugins and attempts to route API data through itself without user consent.",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "points": [
+        "Postman auto-installed Codex and Claude plugins on October 24, 2026.",
+        "The installation affected unrelated coding agents, enabling unauthorized API routing."
+      ]
+    },
+    {
+      "summary": "A company deploys hundreds of MacBook Pros in a datacenter to meet customer needs for iOS app development and testing.",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "points": [
+        "Ordered Mac Minis in January, delivered in July due to supply chain issues.",
+        "Each MacBook is connected to an IP KVM for remote management and has an external 10G Ethernet NIC.",
+        "Custom-made holders manage heat by guiding hot air away from nearby machines."
+      ]
+    },
+    {
+      "summary": "Qwen 3.8 27B can interpret and modify neural network weights, demonstrating capabilities similar to GPT-6 Astra.",
+      "significance": "The story demonstrates that Qwen 3.8 27B can interpret and modify model weights, showcasing advanced Weight-Space Programming capabilities previously observed in GPT-6 Astra.",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "points": [
+        "Qwen 3.8 27B identified Pac-Man game weights with 72% confidence in 46m 12s.",
+        "GPT-6 Astra improved Qwen3.5-0.8B's math performance from 7.9% to 48.1% by editing 0.016% of weights.",
+        "Qwen 3.8 27B recognized Breakout game weights in 52m 25s."
+      ]
+    },
     {
       "summary": "Bomb threats targeted four planes flying across Europe, but no explosives were found upon landing.",
       "significance": "The story highlights the disruption and security measures in European aviation following bomb threats, affecting travelers and airlines.",
@@ -3636,118 +3746,6 @@
         "Genie 4 integrates audio and visual elements for a more immersive experience.",
         "The model builds on Gemini's capabilities for realism and complex reasoning.",
         "Genie 4 is rolling out as a research preview for trusted testers before wider release."
-      ]
-    },
-    {
-      "summary": "The author shares their four-month experience with the programming language Zig, highlighting community events, project development, and language features.",
-      "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-      "points": [
-        "Zig Day Seattle was held on August 20th, attended by Zig creator Andrew Kelley.",
-        "The author worked on a project called snurl, aiming to provide an alternative to curl for smallnet.",
-        "Zig's explicit handling of IO and allocator parameters is praised for clarity and control over memory allocation."
-      ]
-    },
-    {
-      "summary": "Israeli exit polls indicate a win for the anti-Netanyahu bloc, though Likud remains the largest party.",
-      "significance": "The story matters because it indicates a shift against Netanyahu's coalition while his Likud party still leads, affecting Israel's political landscape and future governance.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "points": [
-        "Anti-Netanyahu bloc projected to win majority of votes.",
-        "Likud, Netanyahu's party, still emerges as the largest single party.",
-        "Tens of thousands of Israelis returned from abroad to vote."
-      ]
-    },
-    {
-      "summary": "Olivia Chow won a second term as Toronto mayor in a victory for progressives.",
-      "significance": "The victory of progressive policies championed by Olivia Chow affects Toronto's future with promises of more rental housing, free school lunches, and reduced transit fares.",
-      "url": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
-      "points": [
-        "Chow secured 54% of the vote, defeating Conservative rival Brad Bradford by 13 percentage points.",
-        "The election saw record turnout and a wave of support for progressive councillors.",
-        "Chow promises more rental housing, free school lunches, and reduced transit fares."
-      ]
-    },
-    {
-      "summary": "Former Met officer Mark Tyrrell, who served with Sarah Everard\u2019s killer, found guilty of rape and other sexual offences.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/27/former-met-officer-who-served-in-same-unit-as-david-carrick-and-wayne-couzens-found-guilty-of-sexual-offences",
-      "points": [
-        "Tyrrell convicted of one rape, three sexual assaults, and one count of perverting justice.",
-        "Victim repeatedly said no before the sexual acts occurred.",
-        "Tyrrell served in the same unit as Sarah Everard\u2019s killer, Wayne Couzens."
-      ]
-    },
-    {
-      "summary": "Environment minister Murray Watt defends PM over golf club grant claim.",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-      "points": [
-        "Murray Watt backed PM despite admission of inaccuracy.",
-        "Original $6m grant announcement included sewerage works.",
-        "NSW government made similar commitment later, altering situation."
-      ]
-    },
-    {
-      "summary": "San Francisco estate sells for $10m above its $18.5m listing price, setting a new record.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai",
-      "points": [
-        "Eight-bedroom mansion in Presidio Wall sold for $28.5m on 22 October.",
-        "Sale reflects AI boom's impact on driving up real estate prices in San Francisco.",
-        "Property includes a private garden and a three-car garage."
-      ]
-    },
-    {
-      "summary": "Chancellor plans to scrap carer's allowance cliff edge but fails to address past overpayments.",
-      "url": "https://www.theguardian.com/society/2026/oct/27/unpaid-carers-chancellor-plan-scrap-allowance-cliff-edge-falls-short-budget",
-      "points": [
-        "Government to abolish carer's allowance cliff edge in upcoming budget.",
-        "Carers already hit with overpayments will still have to repay them.",
-        "Cliff edge system will remain in place for another four years."
-      ]
-    },
-    {
-      "summary": "Israeli election day begins with a minute of silence for 7 October victims as record voter turnout is expected.",
-      "url": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
-      "points": [
-        "Bereaved families held a minute of silence at 6:29am, marking the start of Hamas' 2020 attack.",
-        "The protest occurred in Tel Aviv's \"hostages square,\" a site for captive return demonstrations.",
-        "Record numbers of Israelis, including those traveling long distances, are voting."
-      ]
-    },
-    {
-      "summary": "Ghostty 1.4.0, released on October 27, 2026, introduces major performance and memory improvements, including full Kitty graphics implementation.",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "points": [
-        "Released on October 27, 2026, with major performance and memory enhancements.",
-        "Implements 100% of the Kitty graphics protocol, including animation and relative placements.",
-        "Fixes several security vulnerabilities, including paste protection and malicious terminal output issues."
-      ]
-    },
-    {
-      "summary": "Tailscale investigates SSH security vulnerabilities, focusing on privilege escalation issues and preparing fixes.",
-      "significance": "The story matters as it updates users on serious security vulnerabilities in Tailscale SSH, including privilege escalation risks, and outlines steps for remediation.",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "points": [
-        "Privilege escalation issues allow authorized users to potentially gain elevated access.",
-        "Fixes are being tested, with an update to be released once testing is complete.",
-        "Tailscale recommends reviewing SSH configurations and tightening access policies temporarily."
-      ]
-    },
-    {
-      "summary": "Survival LLM is a free, offline AI assistant and emergency library that operates on your computer, providing verified answers to survival questions.",
-      "url": "https://www.brangus.io/survival-llm",
-      "points": [
-        "Contains about 930,000 Wikipedia articles and various guides.",
-        "Requires 3 GB of disk space without Wikipedia and iFixit, up to 27 GB during full library installation.",
-        "Compatible with Apple Silicon Macs (M1 or newer) and 64-bit Windows 10 or 11."
-      ]
-    },
-    {
-      "summary": "Conference badge at GitHub Universe functions as a color screen computer with emulators for classic game systems.",
-      "significance": "The story highlights innovative use of conference badges as functional gaming devices, showcasing advancements in miniaturized computing technology.",
-      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
-      "points": [
-        "Steve Francia worked with Gemini to deploy emulators for NES, Game Boy, and Game Boy Color on the badge.",
-        "Badge users can run games like The Legend of Zelda: Link's Awakening if they have the ROM.",
-        "The badge includes touch buttons for gameplay when turned upside down."
       ]
     }
   ]
