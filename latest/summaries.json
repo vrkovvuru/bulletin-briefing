@@ -1,6 +1,25 @@
 {
-  "generated": "2026-11-04T21:42:31.507314Z",
+  "generated": "2026-11-04T23:40:45.650713Z",
   "summaries": [
+    {
+      "summary": "Iran warns of potential US attacks post-midterm elections as Trump admits partial blame for US-Israel tensions with Iran.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
+      "points": [
+        "Trump suggested potential attacks on Iran after US midterm elections.",
+        "Trump's party lost majority in both House and Senate in midterm elections.",
+        "Mediators are working to facilitate a peace deal between Tehran and Washington."
+      ]
+    },
+    {
+      "summary": "David Jones enters administration, risking thousands of jobs and the future of the 188-year-old retailer.",
+      "significance": "Threatens thousands of jobs and marks a potential end for Australia's oldest department store due to years of financial struggles.",
+      "url": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
+      "points": [
+        "Thousands of jobs are at risk due to the administration.",
+        "The retailer has been struggling with years of steep losses.",
+        "Negotiations with landlord Scentre Group broke down, leading to the administration."
+      ]
+    },
     {
       "summary": "Social media is abuzz with reactions to Democrats taking over US Congress after midterm gains.",
       "significance": "Social media reflects on Democrats' control of Congress, highlighting reactions to midterm gains and political shifts.",
@@ -3724,25 +3743,6 @@
         "Netanyahu's bloc has 54 seats, Eisenkot's Change bloc 47 seats, and Palestinian parties 19 seats.",
         "Netanyahu vows to form a coalition, while Eisenkot calls for Netanyahu's retirement from politics.",
         "Record participation by Israeli citizens of Palestinian origin highlights the election's demographic shift."
-      ]
-    },
-    {
-      "summary": "Ten days after being notified, Apple's macOS still trusts compromised eMudhra certificates, leaving git and other tools vulnerable.",
-      "significance": "The story highlights ongoing security vulnerabilities for macOS users and developers due to trusted compromised eMudhra certificates, emphasizing the need for an immediate Apple update.",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "points": [
-        "Apple was notified of the eMudhra incident on October 17th.",
-        "macOS 27.2, released on October 26th, did not fix the issue and undid user-applied workarounds.",
-        "Affected tools include git, curl, and python3, leaving connections to GitHub and other repositories vulnerable to interception."
-      ]
-    },
-    {
-      "summary": "An introductory textbook on using graph theory for various applications is freely available online.",
-      "url": "https://vertex.degree/",
-      "points": [
-        "Textbook covers solving puzzles and proving theorems using graph theory.",
-        "Available under a Creative Commons license.",
-        "Can be read online or downloaded as a PDF file."
       ]
     }
   ]
