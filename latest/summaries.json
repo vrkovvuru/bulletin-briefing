@@ -1,6 +1,82 @@
 {
-  "generated": "2026-11-04T19:45:39.495321Z",
+  "generated": "2026-11-04T21:42:31.507314Z",
   "summaries": [
+    {
+      "summary": "Social media is abuzz with reactions to Democrats taking over US Congress after midterm gains.",
+      "significance": "Social media reflects on Democrats' control of Congress, highlighting reactions to midterm gains and political shifts.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
+      "points": [
+        "Trump blamed the Iran war for Republican losses.",
+        "Abdul El-Sayed achieved a historic Senate victory.",
+        "Democrats secured a majority in Congress post-midterms."
+      ]
+    },
+    {
+      "summary": "Democrats secured control of US Congress in the 2026 US midterm elections, with Republicans suffering historic losses.",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+      "points": [
+        "Dow Jones rose 2%, Nasdaq and S&P 500 gained over 1%.",
+        "Senate races in Mississippi and Alaska remain undecided.",
+        "Trump downplayed his role in the election outcomes."
+      ]
+    },
+    {
+      "summary": "UK PM's offer of debt relief and aid to Caribbean nations is criticized as inadequate replacement for slavery reparations.",
+      "significance": "The story highlights the Caribbean movement's stance that UK's aid offers are insufficient for addressing historical slavery reparations.",
+      "url": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
+      "points": [
+        "Caribbean leaders reject UK's proposal, demanding actual reparations for slavery.",
+        "UK PM Andy Burnham proposes dialogue on slavery and reparations, considers apology.",
+        "Offer includes infrastructure package but explicitly excludes formal reparations."
+      ]
+    },
+    {
+      "summary": "Telstra apologizes for confusing phantom missed call notifications affecting thousands of users.",
+      "url": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
+      "points": [
+        "Issue源于其MessageBank服务，已在周三晚上承认并修复。",
+        "受影响的用户在手机上收到了延迟的未接来电通知或语音邮件，有时甚至晚了几天。",
+        "事件影响了数千名Telstra用户。"
+      ]
+    },
+    {
+      "summary": "Residential proxy activity was detected on the White House network between October 5 and November 3, 2026.",
+      "significance": "Detection of residential proxy activity on the White House network highlights potential security vulnerabilities, following past research on botnet spread through poorly secured proxies.",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "points": [
+        "Residential proxy activity on White House network observed from October 5 to November 3, 2026.",
+        "Activity mostly occurs between 5 p.m. and midnight Eastern time, suggesting human use.",
+        "Past research indicates that such proxy SDKs can allow internal network access and lateral movement."
+      ]
+    },
+    {
+      "summary": "Insects are less attracted to LED lights compared to traditional lights due to the absence of UV emissions.",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "points": [
+        "In 2016, University of Bristol scientists found LEDs attracted significantly fewer insects than incandescent or fluorescent lights.",
+        "LEDs do not emit UV light, which insects associate with moonlight, reducing their attraction.",
+        "The decline in insect attraction to LEDs can help mitigate disturbances to wildlife and reduce insect-borne diseases."
+      ]
+    },
+    {
+      "summary": "Ricursive Intelligence introduces Ripple-65B Preview, a language model achieving U.S. open-weight SOTA on agentic coding with significant efficiency gains.",
+      "url": "https://www.ricursive.com/ripple",
+      "points": [
+        "Ripple-65B Preview achieved a TerminalBench 2.1 score of 80.52, surpassing larger models like Reflection Beam 501B (80.1) and Meta Muse Spark Open 816B (76.4).",
+        "The model was pretrained on 12 trillion tokens and can handle up to 1M context length, with a narrow d_model of 5120 and 80 total layers.",
+        "Ricursive optimized the model to run efficiently on local devices like NVIDIA DGX Spark, achieving a TerminalBench 2.1 score of 80.5 with only 1.4M rollouts, 70x fewer than Reflection Beam."
+      ]
+    },
+    {
+      "summary": "A technique uses background plane noise in videos to determine their exact filming location.",
+      "significance": "The story demonstrates a method to pinpoint video locations using background plane noise, impacting privacy and surveillance concerns.",
+      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "points": [
+        "Technique involves analyzing Doppler curves of plane sounds.",
+        "Cross-referencing with ADS-B data identifies video location.",
+        "Method works on almost imperceptible background noise in videos."
+      ]
+    },
     {
       "summary": "Several key races in the 2026 US midterms remain too close to call despite a Democratic surge.",
       "significance": "Several key races in the US midterms 2026 remain undecided, including Senate and gubernatorial positions, highlighting the tight political contest.",
@@ -3667,81 +3743,6 @@
         "Textbook covers solving puzzles and proving theorems using graph theory.",
         "Available under a Creative Commons license.",
         "Can be read online or downloaded as a PDF file."
-      ]
-    },
-    {
-      "summary": "Terk Terkowitz from Amazon advises engineers to document and explain where AI does not benefit their work.",
-      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
-      "points": [
-        "Terk Terkowitz suggests documenting reasons why AI is not beneficial for certain tasks.",
-        "Engineers should share findings with peers and managers to seek solutions.",
-        "This approach demonstrates good judgement in the age of AI, according to Terkowitz."
-      ]
-    },
-    {
-      "summary": "Anthropic has stopped using traditional coding interviews, emphasizing business value over technical tests.",
-      "significance": "Anthropic discontinues coding interviews, signaling a shift towards evaluating practical impact over technical prowess in hiring practices.",
-      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
-      "points": [
-        "Anthropic hiring manager ended coding interviews, focusing on business value instead.",
-        "Most impactful engineers succeed regardless of coding test performance.",
-        "New hiring approach involves generating ideas for organizational goals and building prototypes."
-      ]
-    },
-    {
-      "summary": "Global stock markets have risen, driven by optimism in tech and AI sectors, with major indexes and tech stocks showing significant gains.",
-      "significance": "Global stock markets rise, driven by investor optimism in AI, impacting tech giants' stock performances positively.",
-      "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss",
-      "points": [
-        "Nasdaq Composite gained 1.18%, S&P 500 rose 0.6%, and Dow Jones edged up 0.03%.",
-        "Tesla led tech stocks with a 4.04% increase, while Nvidia rose nearly 1% post $3bn Meta investment.",
-        "South Korea\u2019s SK Hynix saw operating profit soar 630% year-on-year, driving KOSPI up 5.84%."
-      ]
-    },
-    {
-      "summary": "Israeli election exit polls indicate a tie between Netanyahu and Eisenkot blocs, with neither reaching the 61 seats needed for a majority.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "points": [
-        "Exit polls show Netanyahu's bloc slightly trailing Eisenkot's earlier, now indicating a tie.",
-        "Support for Palestinian parties has surged, potentially redrawing Israel\u2019s political landscape.",
-        "Voter Ohad Ben Ami, formerly held by Hamas, expresses concern over Netanyahu's potential lead."
-      ]
-    },
-    {
-      "summary": "Melanie Lynskey stars as Erin Patterson in a new Paramount+ series about the Australian true crime case involving death cap mushrooms.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/28/mushroom-murders-melanie-lynskey-erin-patterson-new-paramount-limited-series-ntwnfb",
-      "points": [
-        "Premieres on Paramount+ in 2027",
-        "Lynskey plays triple murderer Erin Patterson",
-        "Series covers 97 days from alleged 2023 poisoning to Patterson's arrest"
-      ]
-    },
-    {
-      "summary": "Victoria's court of appeal will decide Erin Patterson's fate in her appeal against her triple murder conviction on Friday.",
-      "significance": "The decision in Erin Patterson's appeal could overturn her triple-murder conviction and affect her prison sentence.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/erin-patterson-to-learn-fate-appeal-mushroom-murders-convictions-ntwnfb",
-      "points": [
-        "Court to rule on Friday if Patterson receives a fair trial and if her sentence increases.",
-        "Arguments for appeal were heard in August.",
-        "Patterson is appealing her conviction and sentence for triple murder."
-      ]
-    },
-    {
-      "summary": "A 160-year-old ginkgo tree in Geelong\u2019s botanic gardens was named Victoria\u2019s tree of the year.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year",
-      "points": [
-        "The tree is the largest ginkgo biloba in Victoria, standing at 20 metres tall.",
-        "It has been a popular wedding backdrop for \"countless local love stories.\"",
-        "The recognition comes from the National Trust of Victoria's tree of the year award."
-      ]
-    },
-    {
-      "summary": "UK imposes sanctions on Sudanese military leaders linked to sexual violence in El Fasher.",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "points": [
-        "Sanctions include travel bans and asset freezes.",
-        "Targets are suspected of involvement in a \"campaign of rape.\"",
-        "Actions mark the one-year anniversary of the El Fasher atrocity."
       ]
     }
   ]
