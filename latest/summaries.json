@@ -1,6 +1,153 @@
 {
-  "generated": "2026-11-03T17:43:21.509670Z",
+  "generated": "2026-11-04T19:45:39.495321Z",
   "summaries": [
+    {
+      "summary": "Several key races in the 2026 US midterms remain too close to call despite a Democratic surge.",
+      "significance": "Several key races in the US midterms 2026 remain undecided, including Senate and gubernatorial positions, highlighting the tight political contest.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
+      "points": [
+        "Alaska Senate: Mary Peltola leads Dan Sullivan by 626 votes, potentially heading to ranked-choice voting.",
+        "Kansas governor: Democrat Cindy Holscher leads by 5,557 votes over Ty Masterson with 98% counted.",
+        "Los Angeles mayor: Nithya Raman leads incumbent Karen Bass 51.1% to 48.9%, with one-third uncounted."
+      ]
+    },
+    {
+      "summary": "Voters across the Atlantic are increasingly favoring a \"politics of love\" over divisive and corrupt leadership.",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-midterms-atlantic-hope-voters-democratic",
+      "points": [
+        "James Talarico, a Texas senator-elect, represents the new face of the US\u2019s Christian left.",
+        "The article suggests a democratic spring beginning in Hungary and spreading to the US.",
+        "Voters are moving away from billionaire-backed inequality and towards more inclusive policies."
+      ]
+    },
+    {
+      "summary": "Democrats won control of both chambers of Congress, but face challenges in implementing their agenda with President Trump still in office.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Democrats won control of both the House and Senate, with James Talarico flipping Texas' US Senate seat.",
+        "Democrats can investigate Trump and his administration but face a Republican president who can veto legislation.",
+        "Democrats aim to reverse Medicaid cuts and extend Obamacare tax credits, but significant legislative action may be hindered by Trump's veto power."
+      ]
+    },
+    {
+      "summary": "ANC expected to lose significant support in South Africa\u2019s local elections due to voter frustration over poor services.",
+      "significance": "The story highlights growing voter dissatisfaction with the ANC due to poor service delivery, potentially signaling a significant shift in South African local politics.",
+      "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "points": [
+        "ANC likely to receive less than 30% of the vote, down from 45.6% in 2021.",
+        "Voter discontent stems from water outages, power cuts, and deteriorating infrastructure.",
+        "Despite losses, ANC remains projected to be the largest party."
+      ]
+    },
+    {
+      "summary": "Democrat Jon Rosenthal won a seat on the Texas railroad commission, defeating controversial Republican Bo French.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner",
+      "points": [
+        "Rosenthal's victory follows backlash against French\u2019s bigoted social media remarks.",
+        "The Texas railroad commission regulates the state\u2019s multibillion-dollar oil and gas industry.",
+        "Democrats have been excluded from the three-member commission for decades."
+      ]
+    },
+    {
+      "summary": "Progressive Democrat Randy Villegas, a community college professor, wins California's 22nd congressional district seat from incumbent Republican David Valadao.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
+      "points": [
+        "Villegas secured victory in a redrawn district under Proposition 50.",
+        "The race was the only true toss-up across California.",
+        "Both candidates have roots in the Central Valley, with ties to immigrant families and agriculture."
+      ]
+    },
+    {
+      "summary": "A user discovers their ISP was hijacking DNS queries, leading to tampered IP addresses.",
+      "significance": "This story highlights the prevalence of ISP DNS hijacking and the necessity of using encrypted DNS methods like DoT or DoH to ensure internet traffic integrity.",
+      "url": "https://karthihegde.dev/posts/dns_tampering",
+      "points": [
+        "The user found the ISP's IP address when using standard DNS but a different IP with Cloudflare's DoH.",
+        "Only 7.03% of graded domains have a valid, fully validating DNSSEC chain.",
+        "The user uses Pi-hole/AdGuard for DNS and recommends DoT or DoH to prevent ISP snooping."
+      ]
+    },
+    {
+      "summary": "The PHP2Shell vulnerability highlights the growing threat of AI in exploiting legacy software bugs.",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "points": [
+        "A bug in PHP, reported in 2024, was exploited within two weeks using AI tools.",
+        "The vulnerability allowed running arbitrary code and reading critical data on host servers.",
+        "Experts suggest AI is making it easier for attackers to exploit legacy software, emphasizing the need for better cybersecurity funding and tools."
+      ]
+    },
+    {
+      "summary": "Go introduces a new API for JSON handling, addressing issues with the existing API while maintaining compatibility.",
+      "url": "https://go.dev/blog/jsonv2",
+      "points": [
+        "New API includes options for handling JSON, such as rejecting duplicate names and managing nil slices.",
+        "Existing JSON package will continue to be supported, ensuring compatibility with older versions.",
+        "New API aims to improve performance and safety, though some limitations remain due to backward compatibility."
+      ]
+    },
+    {
+      "summary": "A libc rewrite in Zig caused SQLite to become extremely slow in a chess analysis project.",
+      "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
+      "points": [
+        "SQLite insertions became 12,000x slower due to a Shlemiel the Painter problem.",
+        "The issue appeared only on Linux builds using Zig\u2019s cc compiler for sqlite.",
+        "Fixing the problem involved moving Linux builds to Linux containers."
+      ]
+    },
+    {
+      "summary": "Researchers have made progress on cryptographic proofs to verify that AI model responses come from the claimed model.",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "points": [
+        "Researchers from Anthropic and other institutions developed a system called FlashProve to generate proofs for AI model responses.",
+        "FlashProve can generate proofs at around 110 tokens/second for a 400B-parameter model using a single H100 GPU."
+      ]
+    },
+    {
+      "summary": "The article debunks common conspiracy theories about the NSA and NIST's role in cryptography standards.",
+      "url": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
+      "points": [
+        "DES was standardized in 1977 with 56-bit security, reduced from 128 bits by NSA.",
+        "NSA modified DES's S-boxes, which were initially suspected of having a backdoor but were later found to resist differential cryptanalysis.",
+        "Clipper Chip, promoted by NSA in 1993, had a backdoor for government access, unlike DES."
+      ]
+    },
+    {
+      "summary": "Conductor is being integrated into Meta, with services winding down over the coming months.",
+      "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+      "points": [
+        "Conductor Cloud transitions to read-only mode on November 13, fully shutting down on November 20.",
+        "Local Conductor will continue to receive updates and critical bug fixes until early 2027.",
+        "Users can transfer cloud workspaces to their Mac and download all data via specific settings options."
+      ]
+    },
+    {
+      "summary": "AI advancements in weight-space programming and model optimizations were discussed at AIEi Shanghai, highlighting various models' capabilities and performance improvements.",
+      "significance": "The story highlights advancements in AI's ability to generate and edit neural network weights directly, impacting future AI development and efficiency.",
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+      "points": [
+        "GPT-6 Astra edited 131,072 weights in Qwen3.5-0.8B, raising MATH-500 accuracy from 7.9% to 48.1%.",
+        "Tencent's model ranks #14 overall with a 75.2 score on APEX-Agents, outperforming DeepSeek V4.1 Flash-1017.",
+        "Pruna's open model, distilled from MiniMax-H3, produces a 4 MP image in 2.6 seconds, priced at $0.30/$1.20."
+      ]
+    },
+    {
+      "summary": "Datasette Apps 0.3a0 release enhances hosting and editing of custom HTML applications within Datasette.",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "points": [
+        "Apps can be tagged in Datasette Agent chat messages using # for autocompletion.",
+        "New tools allow managing stored queries an app can call, requiring user approval for write queries.",
+        "\"View app\" buttons and # app links now open apps full screen in the Datasette Agent panel."
+      ]
+    },
+    {
+      "summary": "Datasette Agent 0.5a0 introduces a new panel feature that allows chatting alongside Datasette pages.",
+      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+      "points": [
+        "New panel feature enables chatting next to Datasette pages like tables or queries.",
+        "Feature works with datasette-apps to create and modify database-backed apps via chat.",
+        "Users can try the new feature by signing in with their GitHub account at agent.datasette.io."
+      ]
+    },
     {
       "summary": "Trump announces on election day that the US will end $4bn annual military aid to Israel by year-end.",
       "significance": "Trump's announcement aims to influence voters skeptical of US support for Israel, altering the narrative on election day.",
@@ -3595,157 +3742,6 @@
         "Sanctions include travel bans and asset freezes.",
         "Targets are suspected of involvement in a \"campaign of rape.\"",
         "Actions mark the one-year anniversary of the El Fasher atrocity."
-      ]
-    },
-    {
-      "summary": "Australia's inflation rate has risen to 4.3%, increasing expectations of a fifth interest rate hike this year.",
-      "significance": "Higher inflation rate in Australia intensifies expectations for another interest rate hike, exacerbating the cost-of-living crisis.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
-      "points": [
-        "Inflation rate reached 4.3%, up from previous levels.",
-        "Underlying inflation, a preferred measure, stands at 3.6% annually.",
-        "Reserve Bank of Australia is expected to decide on another rate hike next week."
-      ]
-    },
-    {
-      "summary": "Trump announces termination of Biden-era methane emissions rules during a Texas rally.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-      "points": [
-        "Trump claims the change will save $45bn and unlock 210 million barrels of oil.",
-        "Critics warn of climate danger due to the termination of methane regulations.",
-        "Trump states the move will lift \"crippling regulations\" on methane for small operators."
-      ]
-    },
-    {
-      "summary": "The criminal case against Naveed Akram for alleged involvement in the Bondi terror attack is delayed due to an extensive investigation.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
-      "points": [
-        "Case adjourned until February 24.",
-        "Akram, 24, charged with 78 offences.",
-        "Prosecutors anticipate being ready to certify charges by the adjourned date."
-      ]
-    },
-    {
-      "summary": "New South Wales government reverses cafe cup legislation under pressure.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics",
-      "points": [
-        "Chris Minns' government scraps law forcing cafes to offer mugs for in-house dining.",
-        "Businesses no longer required to join reusable cup scheme or face $110,000 fine.",
-        "Environment minister acknowledges need to clarify the situation post-backlash."
-      ]
-    },
-    {
-      "summary": "The article discusses the application of version control systems, like Git, to US legislation to improve legal research and interpretation.",
-      "significance": "The story highlights the need for a systematic version control in US legislation, akin to Git for code, to improve legal research accuracy and efficiency, especially for AI models.",
-      "url": "https://lexifina.com/blog/git-for-the-us-code",
-      "points": [
-        "CARES Act raised the small business debt limit to $7.5 million in March 2020, extended until March 2022.",
-        "A study from the Technical University of Munich found that language models answer 24% of post-cutoff questions correctly on their own, but 87% when provided with relevant statutory text.",
-        "Office of the Law Revision Counsel publishes the US Code as a series of release points, with a bill to enact title 41 as positive law introduced in September 2025."
-      ]
-    },
-    {
-      "summary": "King Charles to discuss slavery's legacy with Commonwealth leaders during his Caribbean tour.",
-      "significance": "King Charles discussing slavery legacy follows renewed calls for Britain to engage in reparation talks with Commonwealth nations.",
-      "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-      "points": [
-        "King Charles began his tour in the Bahamas, attending a youth rally.",
-        "The summit follows renewed calls for Britain to engage in reparation talks.",
-        "The king visited Clifford Park, where the Bahamas gained independence in 1973."
-      ]
-    },
-    {
-      "summary": "Actor Danny Masterson's appeal against a rape conviction was denied, upholding his 30-year prison sentence.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/28/danny-masterson-loses-scientology-bias-appeal-ntwnfb",
-      "points": [
-        "Masterson was convicted in 2023 for two counts of rape from 2003.",
-        "The conviction involves two victims, both of whom are Scientologists.",
-        "A third rape charge from 2001 was dismissed."
-      ]
-    },
-    {
-      "summary": "Palestinian parties' gains in Israeli elections complicate opposition leader Gadi Eisenkot's path to governance.",
-      "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-      "points": [
-        "Palestinian parties' gains pose challenge for Israel's mainstream opposition.",
-        "Eisenkot must cooperate with Arab-Israeli leaders or risk Netanyahu's return.",
-        "Eisenkot claimed victory for \"Israel\u2019s Zionist national majority\" despite complex outcome."
-      ]
-    },
-    {
-      "summary": "A missing hiker's body was found on Mount Whitney after storm delays.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/california-missing-hiker-mount-whitney",
-      "points": [
-        "Body found on Sunday after five-day delay due to storm.",
-        "Hiker's identity has not been publicly released.",
-        "Mount Whitney noted for perilous hiking conditions."
-      ]
-    },
-    {
-      "summary": "Parents of Alex Pretti accuse Trump officials of hindering justice for their son, killed by federal agents.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
-      "points": [
-        "Alex Pretti, a 37-year-old nurse, was killed by federal immigration agents in Minneapolis in January.",
-        "Parents Michael and Susan Pretti claim they have been ignored and misled by federal officials.",
-        "The Department of Justice has not provided meaningful information about the case, according to the Prettis."
-      ]
-    },
-    {
-      "summary": "Anthropic's AI, Claude, is making progress in accelerating drug development through partnerships and internal projects.",
-      "significance": "The story highlights early advancements in using AI to accelerate drug development, potentially speeding up the creation of new medicines for various diseases.",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "points": [
-        "Anthropic partnered with six organizations to integrate AI into drug development processes.",
-        "Generate Biomedicines used Claude to design a more effective CAR T-cell therapy, reducing genetic instructions by about 70%.",
-        "Divergence Labs utilized Claude to generate 35,000 antibody designs for a novel food allergy treatment, finding 23 potential designs.",
-        "BigHat Biosciences improved two drug leads' properties using Claude, achieving over 10x tighter binding and significant stability enhancements."
-      ]
-    },
-    {
-      "summary": "Chancellor Healey prepares first budget amid economic challenges, aiming to alleviate cost of living pressures.",
-      "significance": "Healey aims to alleviate cost of living pressures with modest policies in his first budget, acknowledging the UK's current economic difficulties.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
-      "points": [
-        "Healey acknowledges UK's \"difficult moment\" but aims for a better future path.",
-        "Budget expected to include modest policies to provide households with relief.",
-        "Chancellor's first budget set for Wednesday, amidst turbulent global economic conditions."
-      ]
-    },
-    {
-      "summary": "AI bots submitted 75% of responses in UK government's 2023 consultation on banning disposable vapes.",
-      "url": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
-      "points": [
-        "75% of responses were machine-generated.",
-        "Attempt aimed to prevent the tobacco and vapes bill from passing.",
-        "This is believed to be the first use of AI to influence UK health policy."
-      ]
-    },
-    {
-      "summary": "JD Vance intensifies attacks on Abdul El-Sayed, linking him to riots and Islamophobia.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/jd-vance-el-sayed-attacks",
-      "points": [
-        "Vance claims El-Sayed would lead in \"burning down\" Detroit.",
-        "El-Sayed, if elected, would be the first Muslim US Senator.",
-        "Donald Trump previously called El-Sayed a \"jihadist."
-      ]
-    },
-    {
-      "summary": "Israel's election results are too close to call, with the opposition bloc slightly ahead of Netanyahu's coalition.",
-      "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
-      "points": [
-        "Opposition bloc led by Gadi Eisenkot is projected to win most Knesset seats.",
-        "Netanyahu\u2019s Likud party is projected to be the largest single party.",
-        "Record turnout, including high participation from Israeli Arab voters."
-      ]
-    },
-    {
-      "summary": "Google DeepMind introduces Genie 4, a new world simulation model that enhances realism and interactivity.",
-      "significance": "Genie 4 advances world simulation capabilities, offering enhanced realism and interactive features that could revolutionize training environments and interactive experiences.",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "points": [
-        "Genie 4 integrates audio and visual elements for a more immersive experience.",
-        "The model builds on Gemini's capabilities for realism and complex reasoning.",
-        "Genie 4 is rolling out as a research preview for trusted testers before wider release."
       ]
     }
   ]
