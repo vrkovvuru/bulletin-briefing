@@ -2,27 +2,58 @@
   "date": "2026-11-05",
   "stories": [
     {
-      "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested in \"distinctive new programming\".",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
-    },
-    {
-      "title": "Cristiano Ronaldo announces international retirement",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss",
+      "title": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies",
+      "url": "https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Cristiano Ronaldo has announced his retirement from international football.",
-      "alsoReportedBy": [
-        "BBC News",
-        "Al Jazeera"
-      ]
+      "summary": "Experts have said the US-funded trial would deny critical vaccines to thousands of infants.",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Russell Brand found guilty of rape and sexual assault by UK court",
+      "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "British comedian was convicted by jury at London court of one count of rape and three counts of sexual assault.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Why has Cristiano Ronaldo retired from international football?",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Portugal superstar Ronaldo calls time on international career after a falling-out with head coach Jorge Jesus.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "More women likely to come forward, says detective who led Russell Brand investigation",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
+      "alsoReportedBy": []
     },
     {
       "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
@@ -31,50 +62,15 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
-      "alsoReportedBy": [
-        "The Guardian",
-        "Al Jazeera"
-      ]
+      "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "England\u2019s Harry Kane extends Bayern Munich contract until 2029",
-      "url": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "&#039;I love the club, the fans and the city,&#039; says the Ballon d&#039;Or \u200cwinner after extending his stay with German champions.",
-      "alsoReportedBy": [
-        "BBC News",
-        "The Guardian"
-      ]
-    },
-    {
-      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe \u2013 live",
-      "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "EU transport commissioner says \u2018too early\u2019 to say if bomb threats to 15 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that\u2019s a WizzAir service from Milan Malpensa to Warsaw, which reportedly landed in Vienna, and a Finnair flight from Helsinki to Rome Fiumicino. Belgian newspaper Le Soir also reported a bomb threat against a LOT Polish Airline flight from Warsaw, which now landed at Zaventem. Continue reading...",
-      "alsoReportedBy": [
-        "Al Jazeera"
-      ]
-    },
-    {
-      "title": "Faisal Islam: How high will interest rates go?",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+      "title": "Football fan tried to stop Huntingdon train attack, jury hears",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly37727nk3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Four people, including a child, killed in Israeli attacks on Gaza",
-      "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Gaza officials say more than 1,600 Palestinians have been killed since the so-called &#039;ceasefire&#039; took effect.",
+      "summary": "Stephen Crean says his grapple with the attacker was \"like Come Dancing, we were all over the place\".",
       "alsoReportedBy": []
     },
     {
@@ -83,61 +79,79 @@
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "A new study looks at the recommended amount of daily exercise for adolescents \u2014 and how few are getting it.",
+      "summary": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.",
       "alsoReportedBy": []
     },
     {
-      "title": "Could this be the last Bonfire Night for noisy fireworks at home?",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "US elections 2026 live: Republicans blast their party’s midterms collapse, blaming Iran war and affordability crisis",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "About 20 million people enjoy fireworks at home every year, but some campaigners want quieter displays.",
+      "summary": "Ted Cruz and Newt Gingrich call the US midterms election a failure and ‘Watergate-level repudiation’ as Democrats overtake both chambers of Congress Live results | How do you feel about the results? Sign up for Breaking News US email Election night brought a series of dramatic developments, unexpected results and closely contested races across the US. We have put together this video capturing the key moments and offering a quick overview of one of the most important nights in US politics: The Senate race in Mississippi has become one of the most closely watched contests in the midterms, with Republican incumbent Cindy Hyde-Smith and Democratic challenger Scott Colom separated by a remarkably narrow margin. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-      "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Six people dead and seven injured after fire at Brooklyn home",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/six-people-dead-brooklyn-fire",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Hundreds of first responders worked to control the blaze, and a lithium-ion battery was found at the scene Six people died in a fire that roared through a residential home in New York City early on Thursday and seven others were injured, including three firefighters, the city\u2019s fire department said. The major fire was reported in the early hours in Brooklyn and brought more than 200 first responders rushing to attend to the blaze and those trapped by it, in the city borough\u2019s Sunset Park neighborhood. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
-      "url": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Bank\u2019s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth Bank of England raises interest rates to 4% Business live \u2013 latest updates An interest rate rise by the Bank of England to 4% is a big call when households are suffering from a second cost of living crisis in four years. Many people will be incredulous when they hear of the decision to increase the cost of borrowing by 0.25 percentage points, looking around their neighbourhood for signs of a booming economy. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump accepts election results as Republicans face midterm reckoning | First Thing",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Criticism of US-Israel war on Iran seen as huge factor in Democrats\u2019 sweeping victory. Plus, a spiky customer steps into a North Carolina bagel store Don\u2019t already get First Thing in your inbox? Sign up here Good morning. Donald Trump has accepted the results of the US midterm elections as the system held up against attempts at election interference. His administration had waged an aggressive effort to sow doubt about the results in advance, but the worst fears have not been realized. \u201cIt was essentially too big to rig,\u201d an unnamed Trump adviser told CNN, after Democrats swept into power across the nation on a \u201cblue wave\u201d. Trump made a public appearance the day after the seismic results \u2013 chiefly to talk about his new White House ballroom plans . Follow our continued live coverage of the election results and find our full midterms coverage here . Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How America voted in maps and charts",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "title": "France holds new strikes and protests as unions demand immediate answers",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+      "summary": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Six dead and others injured in fire at New York City building",
+      "url": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The cause of the blaze is not yet clear, after 230 fire and emergency medical personnel went to the scene.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Misogyny and sexism of Russell Brand case have not gone away, say TV insiders",
+      "url": "https://www.theguardian.com/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Concerns remain that media industry is still failing to confront troubling behaviour Even within the culture of casual misogyny and sexism that pervaded the TV world in the mid-noughties, Naomi Harvey and her colleagues concluded they needed to do something about Russell Brand. Harvey was one of a team of researchers tasked with finding fans of Big Brother, Channel 4’s reality TV juggernaut, to appear on the discussion show Big Brother’s Big Mouth, hosted by Brand. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "BT cuts almost 8,000 jobs amid sweeping cost-saving programme",
+      "url": "https://www.theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Telecoms group reports £1.1bn pre-tax profit in six months to end of September and share price touches five-year high Business live – latest updates BT has cut almost 8,000 jobs from its workforce since the end of March, as it pushes ahead with sweeping cost cuts across the business. The telecoms group said its workforce had fallen by 7,731 to 90,000, excluding staff in its international business, which is being spun out in a joint venture with the US telecoms company Verizon. It had a workforce, including contractors, of about 130,000 people two years ago. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Amtrak workers’ union denounces plan to let passengers bring guns on trains: ‘Sheer lunacy’",
+      "url": "https://www.theguardian.com/business/2026/nov/05/amtrak-workers-union-passengers-guns",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "New policy would permit passengers to take firearms to their seats in lockboxes on 1,500 trains a day across the US The Transport Workers Union, which represents 360 onboard service workers at national passenger rail operator Amtrak, has lambasted the planned implementation of a new policy that would permit passengers to bring their guns on its US intercity trains. The forthcoming protocols will allow people to carry on firearms in personal lock boxes. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Australians are yet to see the benefits of AI and datacentres – and US midterms show they could be political kryptonite",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Albanese should tread carefully as he struggles to make case for how the new technology will benefit ordinary voters Get our daily political email , free app or daily news podcast When will Australia see the benefits of the AI and datacentre boom? So far, all we’ve seen is the possibility of changes to copyright which would hurt Australian creatives , special rules about power and water use, and the threat of mass displacement or replacement of workers, with the trade-off being a mere 10% chance of human extinction . Now add the Reserve Bank’s assessment this week that datacentres were part of growing “inflationary pressures” when lifting interest rates to an 18-year high . Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election Get our breaking news email , free app or daily news podcast One Nation is attempting to gag donors from ever revealing details of discussions at an invite-only, cocktail-dress fundraiser with the party’s senior leadership team, in a move described as a “worrying precedent” for democracy. Invitations to the “very special evening” at an undisclosed central Sydney venue next Thursday show donors will be charged $3,000 for a “private and very discrete” four-hour event. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,52 +160,25 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Patient is \u2060in \u200bstable condition and will be transferred to a specialist \u2018high consequence\u2019 infectious disease unit A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed. \u201cA British citizen currently in the DR Congo has tested positive for Ebola,\u201d a spokesperson for the UK government said in a statement on Wednesday. \u201cThe UK has well-established procedures for dealing with cases like this, and those processes have been activated \u2026 The risk to the UK public from Ebola remains low.\u201d Continue reading...",
+      "summary": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed. “A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday. “The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.” Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "ANC faces anger over poor services as South Africans vote in local elections",
-      "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "title": "Six people dead and seven injured after fire at Brooklyn home",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/six-people-dead-brooklyn-fire",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa\u2019s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa\u2019s first black president, is still likely to be the largest party. However, polls showed it getting less than a third of the vote, down from 45.6% at the last municipal elections in 2021 and 40.2% in 2024\u2019s national elections . Continue reading...",
+      "summary": "Hundreds of first responders worked to control the blaze, and a lithium-ion battery was found at the scene Six people died in a fire that roared through a residential home in New York City early on Thursday and seven others were injured, including three firefighters, the city’s fire department said. The major fire was reported in the early hours in Brooklyn and brought more than 200 first responders rushing to attend to the blaze and those trapped by it, in the city borough’s Sunset Park neighborhood. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September, dozens of zama zamas \u2013 the name given to illegal miners in South Africa, meaning roughly \u201cto take a chance\u201d in Zulu \u2013 arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare). Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Critics cite Lana Nusseibeh\u2019s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces. The UAE nominated Lana Nusseibeh last week to replace the UN secretary general, Ant\u00f3nio Guterres, as he finishes his second five-year term \u2060this year, upending a race that had become gridlocked. Continue reading...",
+      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
       "alsoReportedBy": []
     },
     {
@@ -213,8 +200,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Image of Our Satellite-Choked Night Skies",
+      "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -231,13 +227,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Residential proxies detected on White House network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "source": "Hacker News",
+      "title": "So my ISP was hijacking my DNS",
+      "url": "https://karthihegde.dev/posts/dns_tampering",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": []
+      "alsoReportedBy": ["Hacker News"]
     },
     {
       "title": "How software engineering is changing: a tale of two eras",
@@ -246,15 +242,6 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we&#8217;re sharing the winning piece from a strong set of entries",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "So my ISP was hijacking my DNS",
-      "url": "https://karthihegde.dev/posts/dns_tampering",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -276,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -290,7 +277,7 @@
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "November 4, 2026 \u2014 OpenAI\u2019s Linux kernel security work, Kimi K3.1 Pro\u2019s open weights, and Ricursive\u2019s Ripple-65B.",
+      "summary": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B.",
       "alsoReportedBy": []
     },
     {
@@ -300,9 +287,7 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
-      "alsoReportedBy": [
-        "Simon Willison"
-      ]
+      "alsoReportedBy": ["Simon Willison"]
     },
     {
       "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
@@ -310,7 +295,7 @@
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "November 3, 2026 \u2014 A quiet day lets us share some behind the senes.",
+      "summary": "November 3, 2026 — A quiet day lets us share some behind the senes.",
       "alsoReportedBy": []
     },
     {
@@ -346,7 +331,7 @@
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Editing Qwen\u2019s weights to reduce reasoning loops, DeepSeek\u2019s super-agent prototype, and the GDPx benchmark.",
+      "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
       "alsoReportedBy": []
     },
     {
@@ -368,15 +353,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "source": "Simon Willison",
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with one of the examples from the paper and I'm delighted to share that Qwen 3.8 27B running on my laptop can do this as well! Weight-Space Programming Here's the highlight from their abstract, describing impressive capabilities for GPT-6 Astra and coining the term Weight-Space Programming for when LLMs analyze and modify model weights: Just by looking at the raw weights, GPT-6 Astra can tell what a network was trained to do . And without any environment feedback, it has no trouble writing, from scratch, small game-playing networks that outplay networks trained with PPO for 100 million steps. Likewise, asked to make Qwen3.5-0.8B better at math without gradients, Astra identifies an issue in its weights causing reasoning loops that Qwen\u2019s own model card warns about, and fixes this by natively editing 0.016% of the weights . With the same sampling settings, this weight correction raises MATH-500 from 7.9% to 48.1% and generalizes out of the box to instruction following, raising IFEval by 3x. All of this is possible without allowing Astra to write training loops. It uses its reasoning to figure out what each part of a neural network computes, or should compute, and changes the weights accordingly. We call this Weight-Space Programming . The paper combines two topics that I think deserve to be treated separately. The first is what models can do with raw weights without running tools or executing code. The second explores how well models, once armed with code, can run operations to update and improve other models. spaCy author Matthew Honnibal called the paper misleading for conflating the two, and Sean Goedecke deconstructed the Qwen3.5-0.8B update example as taking the same steps that a human ML researcher would use. I'm going to focus on the no-tools question, which I think is the more interesting of the two. The paper presents the first question as Can LLMs understand model behaviors from weights? They trained four neural networks to play simplified 10x10 grid versions of four classic computer games - Breakout, Pong, Pac-Man, and Freeway (I had to look that one up , it's an Atari 2600 game from 1981). Then they fed those weights (as floating point numbers) to an LLM along with the following question: The weights below belong to one policy network that was trained with reinforcement learning to play a game on this grid. Which game was it trained on? Work from the weights. You have no tools: no code execution, no calculator, nothing to run. This is a single response. The GitHub repository that accompanies the paper is RikiyaT/lm_understand-logs . The exp1_which_game folder contains the prompts they used, with weights for the four games: breakout/prompt.txt freeway/prompt.txt pacman/prompt.txt pong/prompt.txt I checked and, aside from the weights, each prompt is identical to the others. Trying it out with Qwen 3.8 27B and other models The prompts on GitHub are self-contained. My LLM tool has a -f/--fragment option which can be passed the URL to a text file to use as a prompt, which means I can run any of the above like this: llm -f https://raw.githubusercontent.com/RikiyaT/lm_understand-logs/refs/heads/main/exp1_which_game/runs/breakout/prompt.txt \\ -m openrouter/moonshotai/kimi-k3.1-pro This example requires the llm-openrouter plugin installed, and runs the Breakout prompt against Kimi K3.1 Pro via OpenRouter. Here's what I got back from Kimi K3.1 Pro , which successfully guessed Breakout after 9m 41s and 19,493 reasoning tokens. But how about Qwen 3.8 27B ? That's still my favorite model to run on my own laptop - it's just 17GB (I use this version ) and somehow feels close to the leading proprietary models of 2025. I fired up LM Studio , ensured Qwen 3.8 27B was loaded with a long context window (the default 8192 context failed with errors), installed the llm-lmstudio plugin and ran this command: LMSTUDIO_TIMEOUT=900 \\ llm -f https://raw.githubusercontent.com/RikiyaT/lm_understand-logs/refs/heads/main/exp1_which_game/runs/pacman/prompt.txt \\ -m lmstudio/qwen/qwen3.8-27b (I had to bump the timeout up using an environment variable, see this issue .) After 46m 12s and 43,506 reasoning tokens, Qwen on my laptop returned a response that ended like this (here's the reasoning trace ): Game: A simplified Pac-Man-style gridworld: an agent moves through a fixed 8x8 maze with central and corner wall blocks, moving objects/ghosts, and reward targets/pellets. Description: The agent navigates a fixed maze-like 8x8 board, using current agent/moving-object/previous-frame cues to move through corridors, collect reward-target cells, and avoid moving objects or hazards. Confidence: 72% This is impressive. I tried it on two of the other games as well. It identified Pong ( reasoning ) in 1h 4m 54s: Pong \u2014 specifically a Pong-like paddle/ball game where the agent controls a vertical paddle on the right side and must move up/down to intercept or return a moving ball/reward object. Description: The agent moves a right-side paddle vertically to hit or catch a moving ball-like reward target moving across the 8\u00d78 field, while a left-side moving object/opponent and wall borders define the play; reward is obtained by successfully intercepting/returning/scoring the ball, and missing or failing to hit it is penalized. Confidence: 75% And Breakout ( reasoning ) in 52m 25s: Game: Breakout, or an Arkanoid-like paddle/ball/brick game. Description: The agent is a paddle on the bottom row and moves left/right to keep a ball in play; the ball moves around the upper grid, and bricks/reward targets in the top rows give reward when hit, while missing the ball/hitting the bottom wall ends the episode or gives penalty. Confidence: 88% Qwen failed at the Freeway prompt, which didn't surprise me considering that game is more obscure than the other three. Here's that transcript - Qwen thought it was \"A simplified Pac-Man-like grid game: agent moves 4-directionally\". The reasoning traces are fun to skim, and almost incomprehensible. Here's a sample: What about agent channel0? We see some large channel0 rows near row8 col7/8 and maybe bottom? Let's list channel0 large: line436 input435 (row8 col7 ch0) -2.107,1.169,0.513...; line441 input440 (row8 col8 ch0) -0.376,0.010,1.564,3.855...; line445 input444 (row8 col8 ch4) 0.142,0.491...; line382? input381 ch0? Wait line382 input381: 381//5=76 (row7 col6), ch1? 381%5=1? 76 * 5=380, ch1. So not. Channel0 large maybe at row8 col7/8 only. Also top row? line44 input43 ch3, line49 ch3. Channel0 large maybe not many. Agent position could be near bottom-right? If the agent is typically at bottom-right? That said though, I expect a sufficiently experienced human being armed with a notepad and a pencil could get there with enough effort. It's a cool paper, but some of the wider commentary I've seen around it does not feel justified. I'm not ready to declare that the age of source code is over and our future involves incomprehensible machines editing their own model weights in incomprehensible ways. Tags: machine-learning , ai , generative-ai , local-llms , llms , qwen , paper-review",
-      "alsoReportedBy": []
+      "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+      "alsoReportedBy": ["Latent Space"]
     }
-  ],
-  "durationSeconds": 183.1,
-  "voice": "af_heart"
+  ]
 }

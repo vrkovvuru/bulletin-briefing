@@ -1,6 +1,89 @@
 {
-  "generated": "2026-11-05T13:43:18.785492Z",
+  "generated": "2026-11-05T15:42:27.268184Z",
   "summaries": [
+    {
+      "summary": "France experiences widespread strikes and protests as unions demand immediate action on the cost of living and working conditions.",
+      "significance": "The story highlights escalating public unrest in France, affecting transportation, education, and tourism, as unions demand economic relief measures from the government.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Over 250,000 people protested in nearly 70 towns and cities by midday Thursday.",
+        "Interior Minister Laurent Nuñez deployed 70,000 police, promising a firm response to violence.",
+        "Strikes disrupted schools, hospitals, public transport, and the Eiffel Tower and parts of the Louvre closed."
+      ]
+    },
+    {
+      "summary": "TV insiders claim the industry hasn't addressed the misogyny and sexism highlighted in the Russell Brand case.",
+      "url": "https://www.theguardian.com/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
+      "points": [
+        "Naomi Harvey and colleagues deemed Russell Brand's behavior troubling.",
+        "The concerns stem from the casual misogyny and sexism in the TV industry.",
+        "The issue was particularly noted in the mid-2000s during Big Brother\u2019s Big Mouth."
+      ]
+    },
+    {
+      "summary": "BT cut nearly 8,000 jobs as part of a cost-saving initiative, reporting a strong financial performance.",
+      "url": "https://www.theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price",
+      "points": [
+        "BT's workforce decreased to 90,000, cutting 7,731 jobs since March.",
+        "Excluding international business, BT reported £1.1bn pre-tax profit in six months.",
+        "BT's share price reached a five-year high amid these changes."
+      ]
+    },
+    {
+      "summary": "Amtrak's new policy allowing guns in lockboxes on trains遭到了工会的强烈反对。",
+      "url": "https://www.theguardian.com/business/2026/nov/05/amtrak-workers-union-passengers-guns",
+      "points": [
+        "工会代表了Amtrak的360名在岗服务工人。",
+        "新政策将允许乘客在1500列火车上携带上锁的枪支。",
+        "工会称此政策为\u201c纯粹的疯狂\u201d。"
+      ]
+    },
+    {
+      "summary": "Albanese faces challenges in justifying AI and datacentre benefits to Australians amid concerns over job displacement and inflation.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia",
+      "points": [
+        "Reserve Bank links datacentres to inflationary pressures, raising interest rates to an 18-year high.",
+        "Potential 10% chance of human extinction cited as trade-off for AI and datacentre development.",
+        "Concerns arise over copyright changes that could harm Australian creatives."
+      ]
+    },
+    {
+      "summary": "One Nation plans to use NDAs at a $3,000-per-person Sydney fundraiser before the NSW election.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb",
+      "points": [
+        "Event features Pauline Hanson and senior One Nation leadership.",
+        "Donors will be charged $3,000 for the invite-only fundraiser.",
+        "Transparency experts criticize the use of NDAs as a \"worrying precedent."
+      ]
+    },
+    {
+      "summary": "Alpine Linux releases security advisory for a critical OpenSSH-server vulnerability allowing password authentication bypass.",
+      "significance": "This story matters because it reveals a critical security vulnerability in Alpine Linux's OpenSSH-server, allowing attackers to bypass password authentication and potentially gain unauthorized access to systems.",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "points": [
+        "Vulnerability affects all Alpine releases from 3.16 to 3.24, including edge.",
+        "Attackers can log in without passwords by sending a long password (257-1024 bytes).",
+        "Users should disable password logins and ensure SSH key login functionality."
+      ]
+    },
+    {
+      "summary": "Photographer Brendan Larsen captured an image of the night sky over Mt Taranaki showing thousands of satellite trails.",
+      "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+      "points": [
+        "Larsen took 578 photos over two hours to capture approximately 14,450 satellite trails.",
+        "The editing process to create the image took around 45 hours of manual work.",
+        "Each photo contained about 25 satellites, with the final image representing roughly 1,400 individual satellites."
+      ]
+    },
+    {
+      "summary": "MCP is an open standard for connecting AI apps to tools and data, using JSON-RPC.",
+      "url": "https://mcp-explained.com/",
+      "points": [
+        "Uses JSON-RPC over stdin/stdout or one HTTP endpoint.",
+        "Servers communicate capabilities to apps, which then interact with the model.",
+        "MCP defines methods, capability negotiation, transports, and authentication."
+      ]
+    },
     {
       "summary": "Cristiano Ronaldo retires from international football after a 23-year career with Portugal.",
       "significance": "Cristiano Ronaldo's retirement from international football ends a 23-year career marked by records, including 146 goals for Portugal.",
@@ -3666,90 +3749,6 @@
         "Joanne Young describes waking up restrained and blindfolded in her own bedroom.",
         "Young saw a stranger in her bedroom whom her ex-husband, Philip Young, allegedly invited.",
         "The testimony is part of a trial at Winchester crown court involving four men accused of sexual assault."
-      ]
-    },
-    {
-      "summary": "Nigel Farage missed the budget over seating concerns and criticized £10bn Ukraine aid.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
-      "points": [
-        "Farage skipped the budget due to fears of a physical altercation over seating.",
-        "He expressed shock over £10bn pledged to Ukraine.",
-        "Farage supports cutting taxes for crypto investors."
-      ]
-    },
-    {
-      "summary": "US Federal Reserve kept interest rates steady before midterms, despite inflation concerns.",
-      "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
-      "points": [
-        "Fed maintained rates at 3.75% to 4%, highest pre-election levels in over 20 years.",
-        "Two board members voted against the decision, favoring a quarter-point increase.",
-        "Inflation has remained above the Fed\u2019s target of 2% for years, reaching over 3% annually."
-      ]
-    },
-    {
-      "summary": "Two conservative influencers charged with felonies for attempting to vote unlawfully by disguising themselves as Muslims in Minnesota.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/voting-felony-disguise-minneapolis",
-      "points": [
-        "James O\u2019Keefe and Cam Higby charged with felonies in Minneapolis.",
-        "Attempt was part of the state\u2019s August primary election.",
-        "Influencers tried to exploit \"vouching\" practice by disguising as local voters."
-      ]
-    },
-    {
-      "summary": "A new study estimates that 75% of deceased former NFL players had chronic traumatic encephalopathy (CTE) from 2008-2023.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research",
-      "points": [
-        "Study examined 2,362 former NFL players who died between 2008 and 2023.",
-        "Estimated 75% of the deceased players had evidence of CTE.",
-        "CTE prevalence was much higher than in the general population."
-      ]
-    },
-    {
-      "summary": "Daily Telegraph columnist Allison Pearson is reportedly negotiating her exit amid job cuts.",
-      "url": "https://www.theguardian.com/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts",
-      "points": [
-        "Pearson's relationship with some senior editors is strained over column topics.",
-        "New ownership at the Telegraph is implementing significant newsroom cuts.",
-        "Pearson is preparing a statement about her future plans post-exit."
-      ]
-    },
-    {
-      "summary": "Gemini 4 Carbon, a new model, offers advanced cybersecurity and long-horizon capabilities, showing significant improvements in various benchmarks.",
-      "significance": "Gemini 4 Carbon advances cybersecurity and coding capabilities, offering significant improvements in vulnerability detection and secure code generation.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "points": [
-        "Carbon achieves 88.2% on SEC-bench Pro for vulnerability detection.",
-        "It demonstrates a 2x uplift in generating secure code compared to Argon.",
-        "Carbon reduces high-severity misalignment alerts by almost 80% in live coding environments."
-      ]
-    },
-    {
-      "summary": "Apple introduces MacBook Pro with PROLED XDR Display featuring advanced display technology and new Touch capabilities.",
-      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "points": [
-        "The 14-inch model weighs 3.0 pounds, while the 16-inch model weighs 4.0 pounds.",
-        "PROLED XDR display offers up to 2000 nits peak brightness and a 10,000,000:1 contrast ratio.",
-        "MacBook Pro includes a six-speaker sound system with 50% deeper bass and a 12MP Center Stage camera."
-      ]
-    },
-    {
-      "summary": "GitHub's Octoverse 2026 report highlights a significant surge in pull requests, commits, and new repositories.",
-      "significance": "The story highlights the significant impact of agentic engineering on GitHub's growth metrics, showcasing a tripling of merged pull requests and a more than tripling of commits within a year.",
-      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-      "points": [
-        "Merged pull requests tripled to 220 million per month in 2026.",
-        "Commits more than tripled to 7.38 billion per month.",
-        "New repositories doubled to 30.3 million per month."
-      ]
-    },
-    {
-      "summary": "The UK government will provide £100 energy payments to up to 20 million households in England starting January.",
-      "significance": "The £100 energy payment affects up to 20 million households in England, providing winter financial relief for those in council tax bands A to D.",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Up to 20 million households in England will receive a £100 payment directly into their bank accounts.",
-        "The payment is available for properties in council tax bands A to D in England.",
-        "Chancellor John Healey urged other UK nations to follow suit, but the payment is through council tax, which is a devolved matter."
       ]
     }
   ]
