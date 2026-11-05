@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-05T01:41:42.337505Z",
+  "generated": "2026-11-05T03:40:49.273866Z",
   "summaries": [
+    {
+      "summary": "Former NSW police officer Beau Lamarre-Condon claims he was bullied while on duty and denies charges of murdering Jesse Baird and Luke Davies.",
+      "significance": "Lamarre-Condon's allegations of bullying and homophobic abuse in the NSW police could highlight issues within the police force's workplace environment.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
+      "points": [
+        "Lamarre-Condon alleges he faced daily homophobic bullying during his time with NSW police.",
+        "He is accused of fatally shooting Baird and Davies with his police service weapon.",
+        "The murders took place on February 19, 2024, in Baird\u2019s Paddington home."
+      ]
+    },
+    {
+      "summary": "Political journalist discusses the implications of Republicans' midterm losses and Trump's diminished influence.",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/05/trump-has-been-humbled-now-what-podcast",
+      "points": [
+        "Republicans suffered significant defeats in traditionally red states like Kansas, Texas, and South Carolina.",
+        "The article questions if Republicans will distance themselves from Donald Trump post-election.",
+        "Democrats' future strategy beyond opposing Trump remains unclear."
+      ]
+    },
+    {
+      "summary": "Elon Musk's $446m investment in backing Republican candidates in the US midterms was unsuccessful.",
+      "url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+      "points": [
+        "Musk spent $446m, surpassing his 2024 spending of nearly $290m.",
+        "His funding targeted key Senate races to retain Republican control.",
+        "Despite his investment, Democrats gained power across the country."
+      ]
+    },
     {
       "summary": "Ohio voters sent a message to Republicans after Democrats won a Senate seat and the governor\u2019s mansion.",
       "significance": "Democrats' victories in Ohio signal to Republicans that the state's voters cannot be overlooked or taken for granted.",
@@ -3718,34 +3746,6 @@
         "DHS is using post-9/11 investigative powers against community organizers, similar to COINTELPRO.",
         "Operation Keyhole, initiated in 2008, funds undercover investigations in the Midwest, including the Minnesota 15 case.",
         "At least 120 HSI agents, including 11 undercover operatives, used advanced surveillance techniques like drones and Patriot Act tools."
-      ]
-    },
-    {
-      "summary": "AlpineBSD uses the NetBSD kernel and specific tools, differing from Alpine Linux.",
-      "url": "https://wiki.alpinebsd.org/",
-      "points": [
-        "AlpineBSD has limited hardware support due to the NetBSD kernel.",
-        "It uses apk-tools package manager and busybox with a GNU-oriented userspace.",
-        "Unlike Alpine Linux, AlpineBSD is not a fork and has an original package collection."
-      ]
-    },
-    {
-      "summary": "Tanzania announces a significant natural gas discovery in Mnazi Bay, the first in over a decade.",
-      "significance": "Tanzania's first natural gas discovery in over a decade boosts domestic energy supplies and supports industrial growth.",
-      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Energy Minister Juma Homera calls the 223 billion cubic feet discovery a \"major milestone.\"",
-        "The Kasa-1X ST2 well is expected to start production early next month.",
-        "Natural gas currently accounts for nearly 80% of Tanzania's electricity generation."
-      ]
-    },
-    {
-      "summary": "Mexican police initially claimed finding missing US woman Shayna Feinman alive, but Arizona authorities say this is incorrect.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
-      "points": [
-        "Shayna Feinman, 38, was reported missing in rural Yavapai county, Arizona, in March 2024.",
-        "Mexican police falsely claimed finding Feinman alive in Tijuana, raising family hopes.",
-        "Arizona authorities confirmed the Mexican report was mistaken, causing family turmoil."
       ]
     }
   ]
