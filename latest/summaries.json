@@ -1,6 +1,45 @@
 {
-  "generated": "2026-11-05T03:40:49.273866Z",
+  "generated": "2026-11-05T05:41:26.519466Z",
   "summaries": [
+    {
+      "summary": "Democrats lead in Mississippi Senate race, with Colom ahead of Hyde-Smith; Republicans blame Trump and Iran war.",
+      "significance": "The story highlights potential Republican downfall and internal blame over the 2026 US midterm elections, notably in Mississippi's Senate race.",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+      "points": [
+        "Democrat Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes in Mississippi.",
+        "JD Vance cites Trump\u2019s war in Iran as the \"obvious\" reason for Republican losses.",
+        "Trump claims his absence from the ballot contributed to Republican poor performance."
+      ]
+    },
+    {
+      "summary": "Pauline Hanson granted special leave to appeal a racial discrimination ruling against Mehreen Faruqi in the High Court.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
+      "points": [
+        "Hanson told Faruqi to \"pack your bags and piss off back to Pakistan\".",
+        "Full federal court earlier this year upheld a 2024 decision of racial discrimination.",
+        "High Court has agreed to hear Hanson's appeal."
+      ]
+    },
+    {
+      "summary": "US appeals court allows ER creator's widow to proceed with lawsuit against The Pitt, finding similarities between the two medical dramas.",
+      "significance": "The ruling allows Michael Crichton\u2019s widow to pursue her lawsuit against Warner Bros, claiming similarities between 'The Pitt' and 'ER'.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/05/tv-the-pitt-er-michael-crichton-widow-lawsuit-to-proceed",
+      "points": [
+        "Court found 'clear and numerous similarities' between ER and The Pitt.",
+        "Lawsuit by Sherri Crichton, widow of ER creator Michael Crichton, will go to jury trial in 2027.",
+        "Warner Bros Television's appeal was denied by a unanimous three-judge panel."
+      ]
+    },
+    {
+      "summary": "A new library called Dragology enables easier creation of high-quality drag-and-drop interactions by specifying future states rather than detailed behaviors.",
+      "significance": "Dragology introduces declarative dragging, enabling higher-quality drag-and-drop interactions with less work for interface developers, affecting educators, game designers, and tool builders.",
+      "url": "https://declarative-dragging.github.io/",
+      "points": [
+        "Dragology allows interface developers to implement model-driven dragging with less coding effort.",
+        "The concept originated from a 2022 math game prototype aiming for more tangible interactions.",
+        "Declarative dragging is being applied to academic programming environments to make code refactorings more tangible."
+      ]
+    },
     {
       "summary": "Former NSW police officer Beau Lamarre-Condon claims he was bullied while on duty and denies charges of murdering Jesse Baird and Luke Davies.",
       "significance": "Lamarre-Condon's allegations of bullying and homophobic abuse in the NSW police could highlight issues within the police force's workplace environment.",
@@ -3708,44 +3747,6 @@
         "The vulnerability, rated 9.5 out of 10 in severity, is tracked as CVE-2026-97631.",
         "It resides in the TianoCore, an open-source codebase used by major hardware makers.",
         "The flaw allows attackers to execute malicious code before the OS loads, impacting millions of devices."
-      ]
-    },
-    {
-      "summary": "A second fatal train collision in Spain raises safety concerns over its extensive high-speed rail network.",
-      "significance": "Second fatal collision in nine months raises serious safety concerns over Spain\u2019s extensive high-speed rail network.",
-      "url": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
-      "points": [
-        "At least 64 people were killed when two trains collided, carrying a total of 544 passengers.",
-        "This is the second deadly crash in nine months, casting doubt on rail safety.",
-        "Spain's high-speed rail network is the most extensive in Europe and second globally after China."
-      ]
-    },
-    {
-      "summary": "UK growth forecast for 2027 was slashed by OBR due to the Middle East conflict's economic impact.",
-      "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
-      "points": [
-        "OBR downgraded UK's growth forecast for 2027.",
-        "Healey offered £100 payment to households to aid economic challenges.",
-        "Middle East conflict caused a multibillion-pound hit to Britain\u2019s economy."
-      ]
-    },
-    {
-      "summary": "A new framework called Agent SDK is released to help software teams build and deploy custom agents for their development workflows.",
-      "significance": "The Agent SDK enables teams to quickly build and deploy customized software agents that integrate seamlessly with existing workflows, enhancing efficiency and compliance.",
-      "url": "https://cursor.com/blog/agent-sdk",
-      "points": [
-        "Agent SDK enables teams to create agents that respond to specific events like pull requests and compliance workflows.",
-        "A Cursor team built kb-reviewer in a day using Agent SDK, which checks pull requests against a knowledge base of lessons learned.",
-        "The PGA Tour uses Agent SDK to build components of their software development process, leveraging evals for rapid and reliable development."
-      ]
-    },
-    {
-      "summary": "ICE is conducting extensive surveillance on left-wing social movements, reminiscent of past government operations against dissent.",
-      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-      "points": [
-        "DHS is using post-9/11 investigative powers against community organizers, similar to COINTELPRO.",
-        "Operation Keyhole, initiated in 2008, funds undercover investigations in the Midwest, including the Minnesota 15 case.",
-        "At least 120 HSI agents, including 11 undercover operatives, used advanced surveillance techniques like drones and Patriot Act tools."
       ]
     }
   ]

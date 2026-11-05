@@ -2,12 +2,39 @@
   "date": "2026-11-04",
   "stories": [
     {
-      "title": "What’s delaying the US Senate election results in Mississippi and Alaska?",
-      "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
+      "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
+    },
+    {
+      "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+      "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Ranked-choice voting may decide Alaska&#039;s Senate outcome, while Mississippi&#039;s race hangs on a knife&#039;s edge.",
+      "summary": "Netanyahu&#039;s rivals say US midterm results show Israel &#039;cannot afford&#039; to have the prime minister remain in office.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "World record 53 red cards shown in Brazil football match",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Referees have red-carded 53 players and staff after a massive brawl in an under-20s football match in Brazil.",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
       "alsoReportedBy": []
     },
     {
@@ -20,21 +47,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Former Israeli generals help Palestinian olive farmers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "summary": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance pointed to the war in Iran as the ‘obvious’ culprit for Republicans’ loss Live results | How do you feel about the results? Sign up for Breaking News US email Welcome to our continuing coverage of the 2026 midterms where almost 24 hours after Democrats secured their historic sweep of the US Congress, two Senate seats remain in play. Counting in Alaska is expected to continue into Thursday, while in deep red Mississippi , Democrats could be close to pulling off another almighty upset. Currently, Democrat Scott Colom is leading his Republican incumbent Cindy Hyde-Smith by just 1,138 votes with almost 96% of the vote counted. Donald Trump claimed Republicans fared poorly because he was not on the ballot – after repeatedly urging voters to pretend he was on the ballot. JD Vance pointed to Trump’s ongoing war in Iran as the “obvious” culprit for the loss. Pete Hegseth’ s role leading the unpopular war could lead to him taking the fall – despite Trump publicly backing him. Republicans including Trump foe Thomas Massie have criticized the defense secretary. Ron DeSantis , Florida’s governor, said the “close to an extinction-level event for Republicans” was caused in part by his party failing to target their ad spending on issues that would motivate voters. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -47,12 +65,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Vote counting underway in critical South Africa elections",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Votes are being counted across South Africa after a record 29.2 million people registered to vote.",
+      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
       "alsoReportedBy": []
     },
     {
@@ -65,39 +83,12 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted – a small but growing margin Live results | Republican losses mapped Tell us: how do you feel about the midterm results? Sign up for Breaking News US email Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress. The Dow Jones rose 2%, while the tech-heavy Nasdaq and the benchmark S&P 500 both gained more than 1%. That’s quite a reversal: Overnight, stock futures fell sharply as investors worried about the prospect of tougher regulation of the AI sector and the impact on economic growth. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
       "url": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Voters in dozens of states considered 146 statewide ballot measures this midterm cycle, on topics spanning LGBTQ rights, wealth taxes, abortion, redistricting, guns and more.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Elon Musk will face scrutiny from Democrats after midterms",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
       "alsoReportedBy": []
     },
     {
@@ -110,15 +101,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
       "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
       "source": "NPR World",
@@ -128,30 +110,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Democrats seize full control of Congress. And, which candidates made history last night",
-      "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Beau Lamarre-Condon tells double murder trial he suffered ‘daily bullying’ when working for NSW police",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
+      "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Lamarre-Condon gives evidence in court after pleading not guilty to murdering Jesse Baird and Luke Davies in early 2024 Live updates: Beau Lamarre-Condon gives evidence in murder trial Get our breaking news email , free app or daily news podcast Former officer Beau Lamarre-Condon has alleged he heard homophobic abuse and was bullied when working for New South Wales police, as the 31-year-old gave evidence in his double murder trial. Lamarre-Condon is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "summary": "One Nation leader granted special leave to appeal after full federal court earlier this year agreed Hanson portrayed Faruqi as a ‘second-class citizen’ Get our daily political email , free app or daily news podcast Australia’s high court has agreed to hear Pauline Hanson’s appeal against a ruling that she engaged in racial discrimination against Mehreen Faruqi when she told the Greens senator to “pack your bags and piss off back to Pakistan”. The One Nation leader was granted special leave to appeal on Thursday after the full federal court earlier this year unanimously upheld a 2024 decision . Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump has been humbled. Now what? - podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/05/trump-has-been-humbled-now-what-podcast",
+      "title": "The Pitt and ER are similar enough for Michael Crichton’s widow’s lawsuit to proceed, court rules",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/05/tv-the-pitt-er-michael-crichton-widow-lawsuit-to-proceed",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Journalist Molly Ball reports from Washington DC after the Republicans’ resounding midterms defeat. Will the party finally distance itself from Donald Trump? And what will the Democrats do with the power they’ve just gained? Send your comments and questions to tif.questions@theguardian.com How will Donald Trump react to the Republicans’ midterm drubbing? And do the Democrats have a plan beyond being the anti-Trump party? The veteran political journalist Molly Ball talks through the ramifications of a historic set of midterm results as Trump oversaw a string of losses in red states from Kansas to Texas to South Carolina. Continue reading...",
+      "summary": "Court finds ‘clear and numerous similarities’ between two medical dramas, allowing lawsuit by ER creator’s widow Sherri to go to jury trial in 2027 The Pitt is similar enough to ER to allow Michael Crichton’s widow to pursue a long-running lawsuit over the award-winning medical drama, a US appeals court has ruled. In a unanimous opinion filed on Wednesday, a three-judge panel denied an appeal from Warner Bros Television (WBTV), which has argued for two years that the shows are unrelated. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -164,12 +137,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
-      "url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+      "title": "Beau Lamarre-Condon tells double murder trial he suffered ‘daily bullying’ when working for NSW police",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidates Elon Musk set a record for election spending this year after pouring nearly half a billion dollars into backing Republicans in the US midterm elections . It turned out to be a poor investment. The SpaceX and Tesla CEO contributed at least $446m to Republican-aligned Super Pacs and groups over the course of the elections, specifically targeting several key Senate races in an effort to help the Trump administration retain Republican control of Congress. He outdid his own 2024 spending of nearly $290m. Yet as Democrats swept to power across the country on Tuesday night, it became clear that Musk would get nearly nothing in return for his hundreds of millions in spending. Continue reading...",
+      "summary": "Lamarre-Condon gives evidence in court after pleading not guilty to murdering Jesse Baird and Luke Davies in early 2024 Live updates: Beau Lamarre-Condon gives evidence in murder trial Get our breaking news email , free app or daily news podcast Former officer Beau Lamarre-Condon has alleged he heard homophobic abuse and was bullied when working for New South Wales police, as the 31-year-old gave evidence in his double murder trial. Lamarre-Condon is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -182,17 +155,35 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Residential proxies detected on White House network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
+      "title": "Trump has been humbled. Now what? - podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/05/trump-has-been-humbled-now-what-podcast",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Journalist Molly Ball reports from Washington DC after the Republicans’ resounding midterms defeat. Will the party finally distance itself from Donald Trump? And what will the Democrats do with the power they’ve just gained? Send your comments and questions to tif.questions@theguardian.com How will Donald Trump react to the Republicans’ midterm drubbing? And do the Democrats have a plan beyond being the anti-Trump party? The veteran political journalist Molly Ball talks through the ramifications of a historic set of midterm results as Trump oversaw a string of losses in red states from Kansas to Texas to South Carolina. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Starfall – Affordable, routine access to microgravity",
-      "url": "https://www.spacex.com/starfall",
+      "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+      "url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidates Elon Musk set a record for election spending this year after pouring nearly half a billion dollars into backing Republicans in the US midterm elections . It turned out to be a poor investment. The SpaceX and Tesla CEO contributed at least $446m to Republican-aligned Super Pacs and groups over the course of the elections, specifically targeting several key Senate races in an effort to help the Trump administration retain Republican control of Congress. He outdid his own 2024 spending of nearly $290m. Yet as Democrats swept to power across the country on Tuesday night, it became clear that Musk would get nearly nothing in return for his hundreds of millions in spending. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -203,6 +194,15 @@
       "title": "So my ISP was hijacking my DNS",
       "url": "https://karthihegde.dev/posts/dns_tampering",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": ["Hacker News"]
+    },
+    {
+      "title": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -218,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "source": "Hacker News",
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
