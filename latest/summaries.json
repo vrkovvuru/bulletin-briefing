@@ -1,6 +1,80 @@
 {
-  "generated": "2026-11-20T13:43:51.769818Z",
+  "generated": "2026-11-20T15:42:11.290630Z",
   "summaries": [
+    {
+      "summary": "Russia launched a major missile attack on Ukraine, targeting bridges and railway stations, described as one of the war's most massive strikes.",
+      "significance": "The latest Russian missile strikes on Ukraine, targeting bridges and railway stations, represent one of the most massive attacks of the war, escalating tensions and coinciding with international diplomatic activity.",
+      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "At least nine people were killed in the nationwide assault.",
+        "Strikes targeted key bridges in Kyiv and railway stations.",
+        "Attack came days after Ukraine damaged the strategically important Crimean Bridge."
+      ]
+    },
+    {
+      "summary": "Japan faces pressure from Trump to lift a 76-year-old ban on US potato imports, sparking opposition from local farmers.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
+      "points": [
+        "Demonstrators protested against US potato imports in Tokyo on October 13, 2026.",
+        "Japanese farmers fear imported potatoes could introduce pests like cyst nematodes, threatening 80% of Japan\u2019s potato production.",
+        "The US first requested Japan lift the ban in 2020, and the issue was discussed again in September during a visit to Washington, DC."
+      ]
+    },
+    {
+      "summary": "Measles resurgence leads to loss of measles-free status for the US, Mexico, and Bolivia, causing severe health issues in children.",
+      "url": "https://www.theguardian.com/global-development/2026/nov/20/children-measles-surges-us-mexico-bolivia",
+      "points": [
+        "US, Mexico, and Bolivia lose measles-free status.",
+        "Dr. Eric Wobudeya treats infants in Uganda suffering severe lung and airway complications.",
+        "Measles causes children to struggle for oxygen, indicating severe health impacts."
+      ]
+    },
+    {
+      "summary": "Two police officers were sacked for lying about conducting searches related to a fatal crash in Cardiff.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "PC Richard Hardwick and PC Lauren Livingstone were found guilty of gross misconduct.",
+        "The officers lied about searching the homes of missing persons involved in a crash that killed three.",
+        "The police watchdog deemed their actions \"inexcusable,\" undermining public trust in policing."
+      ]
+    },
+    {
+      "summary": "EU agrees to a 'reset' deal with UK, aiming for a close relationship but ties it to tuition fees for EU students.",
+      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+      "points": [
+        "EU defers decision on tuition fees for EU citizens in UK for another six months.",
+        "PM Burnham claims the deal could add up to 0.5% to UK\u2019s GDP.",
+        "EU makes food and drink deal contingent on agreement on tuition fees, neutralizing UK's leverage."
+      ]
+    },
+    {
+      "summary": "Blackpool tops England in youth unemployment and undereducation, highlighting struggles for 16-24 year olds seeking jobs.",
+      "significance": "The story highlights the challenging cycle of unemployment among young people in Blackpool, despite their efforts to find work.",
+      "url": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
+      "points": [
+        "Blackpool leads in unemployment and undereducation for 16-24 year olds.",
+        "Amy Butterworth, 19, resorts to absurd methods to prove she is not a robot for a job application.",
+        "The town's young jobseekers face a vicious circle of needing experience to get jobs but lacking opportunities."
+      ]
+    },
+    {
+      "summary": "Public events, including a vigil, celebrated Dolores Huerta's life and legacy in Bakersfield.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
+      "points": [
+        "Dolores Huerta, co-founder of United Farm Workers, died on October 28 at 96.",
+        "Events honored Huerta as a civil rights activist and feminist icon.",
+        "Celebration took place in Bakersfield, California."
+      ]
+    },
+    {
+      "summary": "The New South Wales Coalition faces a new threat from progressive independents backed by community activists in Sydney\u2019s north shore.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
+      "points": [
+        "The independents are supported by political operator Chris Minns.",
+        "The threat mirrors the rise of teal independents in federal parliament.",
+        "The Coalition is already under pressure from One Nation in New South Wales."
+      ]
+    },
     {
       "summary": "African ministers assert their stance against begging as climate talks reach a contentious final day amid disagreements.",
       "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
@@ -3671,80 +3745,6 @@
         "At least 69 people died in the collision near Toledo on Wednesday morning.",
         "Both trains were halted earlier due to a signalling system failure.",
         "The Renfe AVE train collided with an Iryo train after controllers restarted its journey."
-      ]
-    },
-    {
-      "summary": "H.264 is a widely-used video compression codec that significantly reduces bandwidth requirements for video transmission.",
-      "significance": "H.264 significantly reduces video file sizes, enabling efficient video transmission and storage across various devices and platforms.",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "points": [
-        "H.264 compresses a 300-frame video to 175KB, while a single frame in PNG format is 1015KB.",
-        "The codec uses lossy compression, discarding less important detail to save space.",
-        "It employs transformations to different coordinate spaces to achieve efficient compression."
-      ]
-    },
-    {
-      "summary": "Study reveals that many statistics provided by AI assistants lack verifiable sources, often leading to \"zombie stats\" that circulate without evidence.",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "points": [
-        "40% of statistics traced by researchers reached a study that corroborated the number.",
-        "ChatGPT cited the fewest numbers (1.3 per answer) compared to Claude's 6.8.",
-        "Only 21% of cited pages were the original research, with over half being company blogs."
-      ]
-    },
-    {
-      "summary": "A user seeks a shared password manager solution for family use, emphasizing ease of use and security.",
-      "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
-      "points": [
-        "User needs a solution for shared financial and insurance accounts for elderly family members.",
-        "Requirements include cross-platform support (Linux, MacOS/iOS) and ease of use for non-tech-savvy users.",
-        "1Password is ruled out due to recent issues, considering KeepassXC or Syncthing as alternatives."
-      ]
-    },
-    {
-      "summary": "Grace Blackwell discusses how NVL72 systems can increase GPU usability by 27% through better scheduling and rack-locality.",
-      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-      "points": [
-        "NVL72 systems connect 72 GPUs in a rack with NVLink, offering 27% more usable GPUs.",
-        "NVLink's high bandwidth is crucial for tensor and expert parallelism, avoiding InfiniBand's lower throughput.",
-        "Tensor parallelism requires two all-reduces per transformer layer, optimized for NVLink's speed."
-      ]
-    },
-    {
-      "summary": "Sanrio ends partnership with Japanese TV drama Vivant due to Chinese backlash over negative portrayal of Chinese agents.",
-      "significance": "The story highlights the influence of Chinese consumer sentiment on global brands, leading Sanrio to sever ties with a controversial Japanese TV drama.",
-      "url": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry",
-      "points": [
-        "Sanrio apologizes and terminates commercial tie-up with the show on Weibo.",
-        "Chinese state media and netizens criticized the show for \"deliberate smears\" against China.",
-        "Sanrio stated the drama contained elements inconsistent with their core values."
-      ]
-    },
-    {
-      "summary": "Sax Institute launches 18 and Up study to investigate mental health and early cancer causes in 100,000 Australians.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/30/study-of-100000-australians-seeks-causes-of-mental-health-disorders-and-early-onset-cancer",
-      "points": [
-        "Study aims to recruit 100,000 participants aged 18 to 45.",
-        "Focuses on understanding mental illness and cancer in younger people.",
-        "Follows Sax Institute's previous 45 and Up study on wellbeing and ageing."
-      ]
-    },
-    {
-      "summary": "Lawyers for Marist Brothers are questioned over a letter advising to keep a child abuser away from legal proceedings to avoid implicating senior officials.",
-      "url": "https://www.theguardian.com/law/2026/oct/30/marist-brothers-law-firm-carroll-and-odea-abuse-case-act-ntwnfb",
-      "points": [
-        "Document reveals advice to keep offender from \"legal arena\" to prevent implicating senior officials.",
-        "Offender described as \"regrettably up front\" about interactions with leadership.",
-        "Lawyers from a leading firm have been subpoenaed to explain the confidential document."
-      ]
-    },
-    {
-      "summary": "IFS warns Healey's budget sets stage for a harsh spending review next year due to an unaddressed £28bn shortfall.",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-brutal-spending-review-next-year-ifs",
-      "points": [
-        "IFS predicts a \"brutal\" spending review next year.",
-        "Budget fails to cover a £28bn shortfall in public finances.",
-        "Chancellor avoided making several significant decisions in his speech."
       ]
     }
   ]
