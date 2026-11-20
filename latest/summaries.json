@@ -1,6 +1,71 @@
 {
-  "generated": "2026-11-20T15:42:11.290630Z",
+  "generated": "2026-11-20T17:42:06.052700Z",
   "summaries": [
+    {
+      "summary": "Joanne Young, who was drugged and raped by her husband and his associates, spoke out after her abusers were convicted.",
+      "significance": "The conviction of Young\u2019s abusers signals progress in justice system reforms, offering hope to future victims.",
+      "url": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
+      "points": [
+        "Young waived her anonymity to speak outside Winchester crown court.",
+        "Her abusers invited other men to assault her over years.",
+        "Years of reforms by prosecutors and police contributed to the convictions."
+      ]
+    },
+    {
+      "summary": "UK cybersecurity operation prevented a cyber-attack on supermarket fridges and freezers, similar to attacks that hit at least seven European countries.",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+      "points": [
+        "Attack targeted supermarkets, warehouses, restaurants, petrol stations, and stadiums in the UK.",
+        "Similar attacks in Europe caused damage worth many millions of euros.",
+        "While many UK retailers are now protected, researchers warn that many more could still be vulnerable."
+      ]
+    },
+    {
+      "summary": "Police search for a missing teacher convicted of sexual relationships with pupils in the 1980s who skipped her sentencing.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+      "points": [
+        "Sally-Anne Bowen, 65, convicted of indecent assaults at a boys\u2019 school in the late 1980s.",
+        "Warrant issued for her arrest after she failed to appear at Harrow crown court.",
+        "Metropolitan police could not locate her at her Hemel Hempstead home."
+      ]
+    },
+    {
+      "summary": "Researchers demonstrate a language model that can improve its performance by rewriting its own weights without additional training.",
+      "significance": "This story matters because it introduces a method for language models to self-improve by rewriting their own weights, potentially leading to continuous self-upgrading without additional training.",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "points": [
+        "A 27B model improved its accuracy by 6.6 points on unseen problems through self-rewriting.",
+        "The model repaired a damaged copy of itself, restoring over 80% of the original accuracy on image tasks.",
+        "Self-rewriting is scale-dependent, with only the largest models in a family showing the ability to improve and repair."
+      ]
+    },
+    {
+      "summary": "A customer expresses frustration with Framework's hardware and support after a laptop malfunction and poor customer service experience.",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "points": [
+        "Cost of the Framework Laptop 16 was 3000 EUR.",
+        "Support process spanned three months, involving thirty emails and two replacement parts.",
+        "Framework concluded \"No Fault Found,\" blaming the keyboard layout, despite the OS not being installed."
+      ]
+    },
+    {
+      "summary": "T. Buckmaster's work on the Navier\u2013Stokes equations includes a Lean 4 formalization with extensive files and computations.",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "points": [
+        "The Lean package contains about 2,270 files and 600,000 lines.",
+        "A rigorous computation using 128 bits of precision verifies the certificate conditions.",
+        "The package includes a patch from 20 November 2026, adjusting cell-layer statements and library proofs."
+      ]
+    },
+    {
+      "summary": "Mathematician Levent Alpöge claims to have proven the Riemann Hypothesis with AI assistance.",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "points": [
+        "Alpöge worked with AI named Claude to prove the Riemann Hypothesis.",
+        "The method also resolves the Generalized Riemann Hypothesis.",
+        "Alpöge believes further work could extend the proof to the Extended Riemann Hypothesis."
+      ]
+    },
     {
       "summary": "Russia launched a major missile attack on Ukraine, targeting bridges and railway stations, described as one of the war's most massive strikes.",
       "significance": "The latest Russian missile strikes on Ukraine, targeting bridges and railway stations, represent one of the most massive attacks of the war, escalating tensions and coinciding with international diplomatic activity.",
@@ -3680,71 +3745,6 @@
         "The project uses Fable-powered agents costing over $3 million in tokens per month.",
         "AI agents directly modify live code and ship changes hourly, addressing bugs and user requests.",
         "The system treats an hour without a code deployment as the most severe incident, ensuring continuous updates."
-      ]
-    },
-    {
-      "summary": "A 'fairy chimney' rock formation in Turkiye's Cappadocia collapsed, killing at least two people.",
-      "significance": "The collapse of a 'fairy chimney' in Cappadocia, Turkiye, highlights the dangers to tourists and locals from natural rock formations.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss",
-      "points": [
-        "At least two individuals were killed in the collapse.",
-        "The incident occurred in the Cappadocia region of Turkiye.",
-        "The collapsed formation was known as a 'fairy chimney'."
-      ]
-    },
-    {
-      "summary": "Economic think tanks predict a decline in living standards, warning of difficult years ahead due to falling disposable incomes and rising costs.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Typical working-age households will see their disposable income fall by £1,050, or 3%, by 2029.",
-        "The current decade will be the worst for household income growth on record, according to the Institute for Fiscal Studies.",
-        "Chancellor John Healey announced a £100 support payment to ease pressure on household finances, but it won't offset higher energy bills."
-      ]
-    },
-    {
-      "summary": "Money and economics writers addressed questions on tax policies and their impacts on landlords and tenants.",
-      "significance": "The article highlights the potential for landlords to pass tax increases onto tenants, leading to higher rents, as discussed by money and economics writers.",
-      "url": "https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart",
-      "points": [
-        "Landlords can pass higher tax bills onto tenants, potentially leading to a steady rise in rents.",
-        "Labour strategists insist they wouldn't have raised taxes, despite public services needing more funding.",
-        "The Iran war added £14bn to the government\u2019s interest costs this year."
-      ]
-    },
-    {
-      "summary": "John Healey's budget, dubbed the 'Martin Lewis budget,' focused on minor financial interventions, avoiding major tax or spending commitments.",
-      "url": "https://www.theguardian.com/politics/2026/oct/29/the-breathing-space-budget-breathing-space-for-the-government-that-is",
-      "points": [
-        "Budget featured small-scale financial aids without major tax or spending changes.",
-        "John Healey and Martin Lewis are frequently seen together, discussing budget details.",
-        "The day after the budget, there were no significant issues to challenge the measures."
-      ]
-    },
-    {
-      "summary": "Shop workers\u2019 union Usdaw pleads with Poundland owners to reconsider administration, risking up to 12,000 jobs.",
-      "url": "https://www.theguardian.com/business/2026/oct/29/poundland-brink-administration-12000-jobs-at-risk",
-      "points": [
-        "Gordon Brothers filed notice of intent to appoint administrators at high court.",
-        "AlixPartners set to run the administration process.",
-        "Management-backed rescue bid was rejected by the owners."
-      ]
-    },
-    {
-      "summary": "Two Colorado college students were found dead after going missing during a hiking trip hit by a heavy snowstorm.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike",
-      "points": [
-        "Kaden Matsuda, 19, from Ridgway, Colorado, and Jackson Donlon, 20, from New York, were found.",
-        "The bodies were discovered on Wednesday in a basin near West Apostle Mountain.",
-        "The incident occurred about 100 miles southeast of Aspen in the Rocky Mountains."
-      ]
-    },
-    {
-      "summary": "At least 69 died when a high-speed train from Madrid collided with another stationary train near Toledo.",
-      "url": "https://www.theguardian.com/world/2026/oct/29/how-did-the-spain-train-crash-happen-what-will-investigators-be-asking",
-      "points": [
-        "At least 69 people died in the collision near Toledo on Wednesday morning.",
-        "Both trains were halted earlier due to a signalling system failure.",
-        "The Renfe AVE train collided with an Iryo train after controllers restarted its journey."
       ]
     }
   ]
