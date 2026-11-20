@@ -1,6 +1,134 @@
 {
-  "generated": "2026-11-20T05:42:03.077911Z",
+  "generated": "2026-11-20T13:43:51.769818Z",
   "summaries": [
+    {
+      "summary": "African ministers assert their stance against begging as climate talks reach a contentious final day amid disagreements.",
+      "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+      "points": [
+        "Civil society activists label current UN summit as the \"worst Cop ever\" during a press conference.",
+        "Disagreements between wealthy polluting countries and others risk extending the summit past its scheduled end.",
+        "Civil society organisations have the right to observe and intervene in negotiations, though countries make final decisions."
+      ]
+    },
+    {
+      "summary": "UK PM Andy Burnham seeks to improve ties with the EU, reviving the Brexit debate.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss",
+      "points": [
+        "Prime Minister Andy Burnham is in Brussels to reset relations with the EU.",
+        "The move comes 10 years after the UK's Brexit decision."
+      ]
+    },
+    {
+      "summary": "Author Zoe Watts reveals her own experience of drug-facilitated rape by her partner, highlighting the prevalence of such abuse.",
+      "significance": "This story highlights the prevalence of drug-facilitated rape, showing it affects more survivors than acknowledged, following cases like Gisèle Pelicot and Joanne Young.",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/20/raped-drugged-unconscious-survivors-gisele-pelicot-joanne-young",
+      "points": [
+        "Watts was drugged and raped by her husband, the father of her four children.",
+        "The abuse occurred over nearly 7,000 nights of shared bed.",
+        "Support resources are listed for those affected by rape or sexual abuse in various countries."
+      ]
+    },
+    {
+      "summary": "California faces severe coastal hazards with record-breaking waves and rainfall.",
+      "significance": "The story matters because it highlights extreme weather conditions affecting California's coastal communities, leading to closures and hazard warnings, and follows a pattern of severe weather events.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+      "points": [
+        "Wave heights over 9 metres recorded, with some reaching 34.1ft, the highest in 30 years.",
+        "Coastal warnings active from last weekend through this week, with waves expected up to 22ft.",
+        "Record-breaking rainfall in San Francisco, with 32,000 power outages in Sacramento due to heavy rain."
+      ]
+    },
+    {
+      "summary": "California investigates Nvidia for potentially sending restricted chips to China.",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "points": [
+        "State attorney general Rob Bonta issued an investigative subpoena.",
+        "Investigation follows the departure of Nvidia's co-founder Jensen Huang.",
+        "Focus is on whether Nvidia exports violated US restrictions on China."
+      ]
+    },
+    {
+      "summary": "UK forecasters predict Friday night will be the coldest of autumn so far, with severe lows in the north.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
+      "points": [
+        "Lows in the north will reach down to -9C.",
+        "Thursday night's low was -8.4C at Tulloch Bridge, Scottish Highlands.",
+        "Sub-zero temperatures were also recorded in Northern Ireland."
+      ]
+    },
+    {
+      "summary": "Home secretary Mahmood criticizes housing providers for vulnerable people in Birmingham, suspecting exploitation and high costs.",
+      "url": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
+      "points": [
+        "Mahmood expresses suspicion over housing providers, stating she \"smells a rat.\"",
+        "Push for an independent investigation into the supported exempt accommodation sector.",
+        "Birmingham has one of the largest supported exempt accommodation sectors in the country."
+      ]
+    },
+    {
+      "summary": "UK and EU claim a reset deal is done, but tuition fees for EU students in UK universities remain unresolved.",
+      "url": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
+      "points": [
+        "Downing Street states negotiations have concluded.",
+        "Prime Minister Andy Burnham met with EU leaders in Brussels.",
+        "Tuition fees for EU students at UK universities are still unresolved."
+      ]
+    },
+    {
+      "summary": "Anthropic's record-breaking IPO fails to halt the global decline in AI stocks.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/first-thing-blockbuster-anthropic-ipo-fails-to-halt-global-slide-in-ai-stocks",
+      "points": [
+        "Anthropic's IPO raised $81bn, surpassing the previous record, with demand six times the offered shares.",
+        "US AI-linked stocks fell over 2% on Wall Street, continuing a global market slump.",
+        "The IPO made Anthropic's seven co-founders worth $180bn collectively."
+      ]
+    },
+    {
+      "summary": "Vim Classic 8.3.1 released without plugin compatibility improvements.",
+      "url": "https://vim-classic.org/news/vim-8.3.1-released.html",
+      "points": [
+        "Vim Classic is charityware supporting children in Uganda.",
+        "Release maintains the original Vim without plugin compatibility updates.",
+        "Community feedback and testing significantly contributed to the release."
+      ]
+    },
+    {
+      "summary": "AI autonomously designed a new CPU architecture called Frostbite, achieving a significant performance-per-watt improvement over existing CPUs.",
+      "significance": "Frostbite, a CPU architecture designed by AI, achieves a significant performance-per-watt gain, potentially revolutionizing CPU design beyond human capabilities.",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "points": [
+        "Frostbite achieved a 4.59x performance-per-watt increase compared to a modern, silicon-proven superscalar CPU core.",
+        "The AI system independently developed the CPU's instruction set, architecture, and microarchitecture.",
+        "Frostbite uses interaction nets, enabling local computation steps and explicit dependencies for improved performance."
+      ]
+    },
+    {
+      "summary": "Richard Feynman believed that if one cannot explain a concept simply, they do not truly understand it.",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "points": [
+        "Feynman could not simplify the explanation of why spin one-half particles obey Fermi-Dirac statistics.",
+        "Engineers must explain complex technologies simply to prove their own complete understanding.",
+        "Feynman famously stated, \"I think I can safely say that nobody understands quantum mechanics."
+      ]
+    },
+    {
+      "summary": "Jean-Michel Jarre discusses the creation of his groundbreaking 1976 album Oxygene, which sold nearly 20 million copies worldwide.",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "points": [
+        "Oxygene spent 24 weeks in the UK album charts and reached top 10 in seven countries.",
+        "The album consisted of six entirely instrumental tracks, using synthesizers like the VCS3 and ARP 2600.",
+        "Recorded in a home studio with limited equipment, including an eight-track Scully recorder."
+      ]
+    },
+    {
+      "summary": "The final talk at Kangrejos 2026 discussed the removal of the C implementation of Binder, a critical Android component, in favor of a Rust version.",
+      "url": "https://lwn.net/Articles/1102982/",
+      "points": [
+        "Binder, added to the kernel in 2008, handles interprocess communication on Android devices and has been a significant security vulnerability.",
+        "The Rust version of Binder was developed over five years and is now faster than the C version, with fewer vulnerabilities.",
+        "The C implementation was removed, with Android 7.3 designated as the version past which the Rust implementation is required."
+      ]
+    },
     {
       "summary": "Peter Gabriel discusses his new album, musical collaboration with a bonobo, and views on AI in music.",
       "significance": "Peter Gabriel explores the intersection of technology and music, suggesting AI's potential in music creation, influenced by his innovative and experimental career.",
@@ -3617,136 +3745,6 @@
         "IFS predicts a \"brutal\" spending review next year.",
         "Budget fails to cover a £28bn shortfall in public finances.",
         "Chancellor avoided making several significant decisions in his speech."
-      ]
-    },
-    {
-      "summary": "DoorDash acquires Instacart for $17 billion to boost its grocery delivery services.",
-      "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
-      "points": [
-        "Acquisition valued at $17 billion.",
-        "Instacart's brand and app will remain intact.",
-        "Instacart customers gain access to 50,000 extra stores via DoorDash."
-      ]
-    },
-    {
-      "summary": "Mistral released Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model, with improved coding, cybersecurity, and reasoning efficiency.",
-      "significance": "Mistral Large 4 (Le Chonk) advances open-source AI capabilities in coding and cybersecurity, offering customizable deployment options for sovereign AI solutions.",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "points": [
-        "Mistral Large 4 leads in coding benchmarks, scoring 19.7% on FrontierCode 2.0 and 48% on the Artificial Analysis Coding Agent Index.",
-        "The model demonstrates significant efficiency, using 47% fewer tokens per task on average compared to leading models.",
-        "Mistral Large 4 excels in cybersecurity, scoring 51% on the Artificial Analysis Cyber Index with a 96.6% refusal rate on malicious requests."
-      ]
-    },
-    {
-      "summary": "Google\u2019s Gemini 4 Carbon tops the Artificial Analysis Intelligence Index v5, leading in complex reasoning and scientific tasks.",
-      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "points": [
-        "Gemini 4 Carbon scores 59 on Intelligence Index v5, leading in 4 of 9 evaluations.",
-        "It ranks second in coding and knowledge work, scoring 59 on Coding Agent Index.",
-        "The model is offered at a 50% launch discount, costing $7.76 per task, 23% less than Claude Opus 5.5."
-      ]
-    },
-    {
-      "summary": "The FBI sent an anonymous letter to MLK urging him to commit suicide, leveraging recorded evidence of his extramarital affairs.",
-      "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
-      "points": [
-        "The letter threatened to expose King's \"adulterous acts\" and \"sexual orgies.\"",
-        "FBI Director J. Edgar Hoover approved extensive surveillance to discredit King.",
-        "Historian Beverly Gage recently unearthed an unredacted version of the letter."
-      ]
-    },
-    {
-      "summary": "Trump blames Ukraine for gas prices and supports Russia ahead of US midterms.",
-      "significance": "Trump's shift in support from Ukraine to Russia ahead of midterms may not deceive voters, as seen in recent elections in Brazil and Serbia, potentially leading to a Democratic victory.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/trump-ukraine-midterms",
-      "points": [
-        "Trump's move seen as an attempt to deflect blame for inflation.",
-        "Recent elections in Brazil and Serbia indicate voters can识別策略。",
-        "如果美国选民效仿巴西和塞尔维亚的选民，民主党可能会大获全胜。"
-      ]
-    },
-    {
-      "summary": "Spain mourns 69 dead after a high-speed train collision near Urda, as search and rescue efforts continue.",
-      "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
-      "points": [
-        "69 people died in the collision between a Renfe and an Iryo train.",
-        "The accident occurred near Urda in Castilla-La Mancha at around 9am.",
-        "Spain has declared a three-day mourning period for the victims."
-      ]
-    },
-    {
-      "summary": "Israel's president warns against exploiting election interference claims to delay Knesset swearing-in.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "points": [
-        "Gadi Eisenkot warns against using foreign interference claims to delay the new Knesset's swearing-in.",
-        "Isaac Herzog responds to Netanyahu\u2019s claim of foreign interference in the election.",
-        "Analysis suggests Israel faces a choice between Netanyahu staying in power or forming a Palestinian-backed coalition."
-      ]
-    },
-    {
-      "summary": "A new book by Matthew Cole alleges Jared Kushner profited from his unofficial role in US foreign policy, sparking a political controversy.",
-      "significance": "The story matters as it ignites a political firestorm with explosive claims about Jared Kushner\u2019s financial dealings and influence in US foreign policy, affecting ongoing political narratives.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/first-thing-book-jared-kushner-role-us-foreign-policy",
-      "points": [
-        "Jared Kushner called the book's claims \"completely insane\".",
-        "The book alleges Kushner had huge bank accounts allegedly funded by Gulf states.",
-        "Despite the allegations, Kushner continues to influence US foreign policy without an official role."
-      ]
-    },
-    {
-      "summary": "Treasury denies plans to cut welfare spending before the election, clarifying Healey's comments.",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
-      "points": [
-        "Chancellor stated there will be a reduction in the benefits bill.",
-        "Andy Burnham instructed cabinet ministers not to advocate specific EU options.",
-        "Healey indicated reluctance towards rejoining the EU single market post-election."
-      ]
-    },
-    {
-      "summary": "Emails reveal Minnesota officials surveilled activists pushing for the closure of a polluting waste incinerator.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/minneapolis-waste-incinerator-emails",
-      "points": [
-        "Officials used an activist employee to gather intelligence on environmental justice groups.",
-        "Collected information helped thwart state-level environmental legislation opposed by the incinerator.",
-        "A county employee posed as an ally to uncover the identity of a whistleblower."
-      ]
-    },
-    {
-      "summary": "Egyptian court convicts journalist Lina Attalah, leading to Mada Masr's shutdown and her brief detention.",
-      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-      "points": [
-        "Lina Attalah convicted of managing an unlicensed website.",
-        "Mada Masr, an independent news outlet, ordered to shut down.",
-        "Incident raises international concerns over press freedom in Egypt."
-      ]
-    },
-    {
-      "summary": "Lloyds CFO criticizes Healey for linking bank tax hikes to energy support, urging temporary measure.",
-      "url": "https://www.theguardian.com/business/2026/oct/29/lloyds-executive-criticises-healey-for-linking-bank-tax-rises-to-energy-bill-support",
-      "points": [
-        "William Chalmers warns against extending bank tax beyond March 2028.",
-        "CFO argues banking sector's loans are crucial for UK growth.",
-        "Healey linked bank tax increases to energy bill support for households."
-      ]
-    },
-    {
-      "summary": "World map redrawn based on countries' shares of IPv4 addresses instead of land area.",
-      "significance": "The story visually represents the distribution of IPv4 addresses among countries, altering perceptions of global digital geography.",
-      "url": "https://iptrust.co/blog/if-ipv4-were-land",
-      "points": [
-        "Redrawn map excludes Antarctica and about 70 small territories.",
-        "Method uses countries' IPv4 addresses divided by global total, times global land area.",
-        "Data from IP Trust geolocation database, October 2026."
-      ]
-    },
-    {
-      "summary": "An analysis of an old Norse board game, played as foxes versus sheep, reveals the game's inherent imbalance and strategic depth.",
-      "url": "https://entropicthoughts.com/what-the-fox-say",
-      "points": [
-        "The game starts with two fox pieces and twenty sheep pieces.",
-        "Sheep win by filling a 3x3 pen or removing both foxes.",
-        "Computer analysis shows sheep can win with deeper strategic thinking."
       ]
     }
   ]
