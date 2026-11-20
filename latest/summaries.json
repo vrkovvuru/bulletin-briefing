@@ -1,6 +1,72 @@
 {
-  "generated": "2026-11-20T03:42:41.744350Z",
+  "generated": "2026-11-20T05:42:03.077911Z",
   "summaries": [
+    {
+      "summary": "Peter Gabriel discusses his new album, musical collaboration with a bonobo, and views on AI in music.",
+      "significance": "Peter Gabriel explores the intersection of technology and music, suggesting AI's potential in music creation, influenced by his innovative and experimental career.",
+      "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+      "points": [
+        "Gabriel played a musical duet with a bonobo named Kanzi using a speech-synthesis keyboard.",
+        "The new album, o\\i, features 13 tracks lasting nearly 90 minutes in two versions: \"dark\" and \"bright\".",
+        "Gabriel expresses enthusiasm about AI's potential to create great music, envisioning a future with cyborgs."
+      ]
+    },
+    {
+      "summary": "A daughter, after enduring a childhood of abuse, turned in her father who was a fugitive.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/20/experience-discovered-dad-killer-on-the-run-turned-him-in",
+      "points": [
+        "Father's rage was triggered by minor issues, like too much ice in his drink.",
+        "Father once broke a plate over the mother\u2019s head during a fit of anger.",
+        "Family frequently moved due to parents managing apartments in the US."
+      ]
+    },
+    {
+      "summary": "UK campaigners call for changes to consent laws following allegations against David Walliams, aiming to protect teens from predatory adults.",
+      "url": "https://www.theguardian.com/society/2026/nov/20/i-was-drinking-at-15-going-to-parties-being-groomed-and-abused-the-grim-reality-of-age-gap-relationships",
+      "points": [
+        "Claire Waxman, victims\u2019 commissioner for England and Wales, calls for legislative change discussions.",
+        "Close the Consent Gap proposes illegalizing age gaps over three years if anyone is under 18.",
+        "Campaigners highlight relationships starting through positions of power, affecting individuals from the 60s to the 00s."
+      ]
+    },
+    {
+      "summary": "Kellie Sloane suggests NSW Liberal exodus nearing end post Mark Speakman's resignation.",
+      "significance": "The story indicates potential stability in NSW Liberal Party ahead of the March election, following the resignations of eight MPs, including Mark Speakman.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+      "points": [
+        "Mark Speakman, NSW Liberal MP, won't recontest his seat of Cronulla.",
+        "Speakman is the eighth out of 24 Liberal MPs to not seek re-election by March.",
+        "Kellie Sloane, opposition leader, believes the party's resignations are likely over."
+      ]
+    },
+    {
+      "summary": "Former police officer Beau Lamarre-Condon pleads not guilty to murdering Jesse Baird and Luke Davies in Sydney.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/20/beau-lamarre-condons-attempts-to-explain-disposal-alleged-victims-bodies-ring-hollow-court-hears-ntwnfb",
+      "points": [
+        "Lamarre-Condon used his police service weapon to fatally shoot the victims.",
+        "The murders took place in Baird\u2019s Paddington home on February 19, 2024.",
+        "Court hears Lamarre-Condon\u2019s explanations for disposing of the bodies are not credible."
+      ]
+    },
+    {
+      "summary": "NextDC promises to avoid building new datacenters near residential areas following protests in Melbourne.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+      "points": [
+        "NextDC's share price dropped 40% due to community backlash.",
+        "Company will no longer pursue developments close to homes.",
+        "Protest led Jemena to pause construction of 22-metre power poles."
+      ]
+    },
+    {
+      "summary": "GIMP introduces UI tests to ensure interface functionality remains intact with updates.",
+      "significance": "GIMP's new UI tests automatically check interface functionality, enhancing reliability and accessibility without needing a visible screen.",
+      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "points": [
+        "Tests run automatically upon merging contributor changes, checking the entire program.",
+        "UI tests simulate user interactions like clicks and drags, ensuring features like the Welcome dialog and tool selection work.",
+        "Currently, tests are only operational on Linux (X11 and Wayland)."
+      ]
+    },
     {
       "summary": "Asian stock markets experience steep losses amid fears of an unsustainable AI boom, despite Anthropic's successful IPO.",
       "significance": "Asian stock markets suffer steep losses as AI bubble fears persist despite Anthropic's successful debut, highlighting sector-wide investment concerns.",
@@ -3681,74 +3747,6 @@
         "The game starts with two fox pieces and twenty sheep pieces.",
         "Sheep win by filling a 3x3 pen or removing both foxes.",
         "Computer analysis shows sheep can win with deeper strategic thinking."
-      ]
-    },
-    {
-      "summary": "Obama criticizes Trump and Republicans at a Georgia rally, supporting Democratic candidates for Senate and governor.",
-      "significance": "Obama's rally support for Democrats underscores the influence of former presidents in midterm elections, highlighting continued partisan tensions.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
-      "points": [
-        "Obama labels Trump and Republicans as \"not serious people.\"",
-        "Rally supports Jon Ossoff for US Senate and Keisha Lance Bottoms for governor.",
-        "Event took place in suburban Atlanta during the final week of midterm elections."
-      ]
-    },
-    {
-      "summary": "Queensland's new DV minister, Amanda Stoker, faces criticism for past comments suggesting not to \"blindly\" believe women's violence allegations.",
-      "significance": "The story matters because it raises concerns about the new minister's stance on believing allegations of violence against women, potentially affecting policies and support for victims.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/amanda-stoker-qld-domestic-violence-dv-prevention-minister-comments-ntwnfb",
-      "points": [
-        "Amanda Stoker appointed as minister for the prevention of domestic violence on Saturday.",
-        "Stoker previously argued believing complaints without assessing evidence harms innocent defendants.",
-        "Women\u2019s safety advocates express concerns over Stoker\u2019s appointment and past stance."
-      ]
-    },
-    {
-      "summary": "Student activists in Serbia led a movement that ended Aleksandar Vučić's 12-year rule through a recent election victory.",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/29/how-students-toppled-serbias-strongman-podcast",
-      "points": [
-        "Aleksandar Vučić lost after ruling Serbia for 12 years.",
-        "The winning \"Student List\" includes candidates, half with PhDs.",
-        "Record voter turnout supported the student-led movement's candidates."
-      ]
-    },
-    {
-      "summary": "Claude Code consumes 15-20% of tokens on a 3-word status line, which can be turned off using a Bun preload.",
-      "significance": "Claude Code users can reduce token usage by turning off a 3-word status line update, saving ~15-20% of tokens.",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "points": [
-        "Flamerix AI provides a solution to disable the feature, reducing token usage.",
-        "The feature is tested on Linux with Claude Code versions 2.1.257\u20132.1.312.",
-        "Disabling the feature does not affect subagents, background agents, or forked skills."
-      ]
-    },
-    {
-      "summary": "A local ceasefire in Oleshky, Ukraine, is holding, allowing for demining and the potential delivery of humanitarian aid.",
-      "significance": "The truce and demining in Oleshky enable humanitarian aid delivery and civilian evacuation, providing relief to stranded residents.",
-      "url": "https://www.theguardian.com/world/2026/oct/29/ukraine-war-briefing-oleshky-truce-holding-and-demining-under-way-to-enable-humanitarian-corridor-kyiv-says",
-      "points": [
-        "The ceasefire has lasted 30 hours without incidents, as reported by both Ukrainian and Russian officials.",
-        "Approximately 2,000 people remain in Oleshky, facing food and medical shortages.",
-        "Demining is underway to enable a humanitarian corridor and allow civilians to leave the city safely."
-      ]
-    },
-    {
-      "summary": "Utah files criminal charges against prediction market Kalshi and two executives for violating state gambling laws.",
-      "significance": "The story signifies a potential new legal tactic by states to regulate prediction markets, possibly leading to a supreme court showdown.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/utah-criminal-charges-kalshi",
-      "points": [
-        "Charges include violating Utah's gambling ban and profiting from illegal activity.",
-        "Kalshi calls the charges a 'crazy overreach'.",
-        "Felony charges could set a new precedent in state regulation of prediction markets."
-      ]
-    },
-    {
-      "summary": "Federal judge rejects Trump DOJ's request to segregate and not count 20,000 California ballots.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
-      "points": [
-        "Judge David Carter refused to order segregation of ballots claimed to be from non-citizens.",
-        "DOJ provided a USB drive with names of 20,000 alleged non-citizens to election officials.",
-        "California has over 23 million registered voters, with non-citizen voting being extremely rare."
       ]
     }
   ]
