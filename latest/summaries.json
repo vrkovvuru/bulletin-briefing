@@ -1,6 +1,73 @@
 {
-  "generated": "2026-11-20T17:42:06.052700Z",
+  "generated": "2026-11-20T19:42:19.436780Z",
   "summaries": [
+    {
+      "summary": "Anthropic's shares fell after a strong debut, reflecting broader tech market volatility.",
+      "significance": "The fall in Anthropic's shares reflects broader tech market volatility and investor caution towards AI investments, highlighting ongoing concerns over financial bubbles in the tech sector.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Anthropic's shares dropped over 12% to $85, nearing its IPO price of $83.",
+        "The S&P 500 and Dow Jones both entered correction territory, down over 2% and 0.7% respectively.",
+        "The Nasdaq Composite fell more than 3.4%, highlighting the wider tech sell-off."
+      ]
+    },
+    {
+      "summary": "Trump defends his stance on the Iran war and discusses internal Democratic conflicts during a press conference.",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+      "points": [
+        "Trump claims Republicans lost midterms because he \u2018wasn\u2019t on the ballot\u2019.",
+        "Trump supports datacenter initiatives and highlights his relationship with Xi Jinping.",
+        "Democratic Senator Elissa Slotkin pledges support for Chris Van Hollen in Senate majority leader race."
+      ]
+    },
+    {
+      "summary": "US Senate Democrats pledge to restore a financial watchdog agency after a Guardian investigation revealed it had dropped numerous lawsuits.",
+      "significance": "The story matters because it highlights Senate Democrats' commitment to reviving a defunct financial watchdog agency following an investigation that revealed increased consumer complaints post-agency rollbacks.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+      "points": [
+        "Four Democrats, including incoming banking chair, vow to resurrect the Consumer Financial Protection Bureau.",
+        "The CFPB dropped over 20 lawsuits against banks and corporations under the Trump administration.",
+        "After the CFPB dropped lawsuits, complaints against those firms rose by an average of over 75%."
+      ]
+    },
+    {
+      "summary": "Lauren Boebert, a Colorado Republican, acknowledges Trump's actions may have hurt her constituents, despite losing her House seat.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
+      "points": [
+        "Boebert lost her US House seat during the midterm elections.",
+        "She suggests the election results could reflect a referendum on Trump.",
+        "Boebert states she is not mad at the president despite the loss."
+      ]
+    },
+    {
+      "summary": "Alessandro Masullo proposes a proof of the GRH, reviewed by Brian Conrad, to be released urgently.",
+      "significance": "The proposed proof of the GRH by Alessandro Masullo, vetted by Brian Conrad, could significantly advance algebraic geometry if validated.",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "points": [
+        "Brian Conrad has been reviewing Masullo's proof for months.",
+        "The proof is human-generated, with no AI involvement.",
+        "The draft is being released early, bypassing initial plans for further refinement at Stanford."
+      ]
+    },
+    {
+      "summary": "Researchers have generated proofs for the finite time blowup in unforced Euler and Navier-Stokes equations, and a potential proof for the Generalized Riemann Hypothesis, all with significant AI assistance.",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "points": [
+        "Levent Alpöge, Tristan Buckmaster, and Matei Coiculescu provided a human-readable proof for the finite time blowup in unforced incompressible Euler equations in three dimensions.",
+        "Alpöge and Buckmaster produced a proof for the finite time blowup in unforced incompressible Navier-Stokes equations in three dimensions, with a Lean formalization.",
+        "Levent Alpöge generated a Lean-only proof of the Generalized Riemann Hypothesis using an internal AI model, currently under verification."
+      ]
+    },
+    {
+      "summary": "Mathematician Alessandro Masullo's proposed proof of the Generalized Riemann Hypothesis is nearing public release after months of review.",
+      "significance": "A proposed proof of the Generalized Riemann Hypothesis by Alessandro Masullo, vetted by Brian Conrad, is set to be released, potentially impacting mathematics significantly.",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "points": [
+        "Brian Conrad has provided extensive feedback on the proof over months.",
+        "Initial plan was to refine the proof at Stanford before a wider announcement.",
+        "Current draft will be released sooner than originally planned."
+      ]
+    },
     {
       "summary": "Joanne Young, who was drugged and raped by her husband and his associates, spoke out after her abusers were convicted.",
       "significance": "The conviction of Young\u2019s abusers signals progress in justice system reforms, offering hope to future victims.",
@@ -3678,73 +3745,6 @@
         "Alice Huang, a Chinese citizen and Megaspeed executive, was photographed with Jensen Huang in Taipei in June 2024.",
         "US intelligence concluded Alice Huang was secretly funneling information to China, based on electronic surveillance.",
         "Nvidia CEO Jensen Huang lobbied President Trump to ease AI chip sales restrictions to China, donating at least $20 million to the White House ballroom fund."
-      ]
-    },
-    {
-      "summary": "Netanyahu accused of using smear tactics to stay in power after his coalition lost the election.",
-      "significance": "Netanyahu's allegations of foreign interference follow election loss, potentially escalating political tensions through smear tactics.",
-      "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-      "points": [
-        "Netanyahu claims Arab Israeli parties stole the election with foreign backing.",
-        "Prime minister's coalition lost its parliamentary majority in the recent election.",
-        "Netanyahu called on Shin Bet to investigate vote buying and irregularities in Palestinian communities."
-      ]
-    },
-    {
-      "summary": "Canadian rocker Bryan Adams releases a song criticizing US President Trump.",
-      "significance": "Canadian rocker Bryan Adams critiques Trump in new song, highlighting tensions between Canada and the US over national identity and leadership relations.",
-      "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
-      "points": [
-        "Song titled \"Lake Ontario\" criticizes Trump for \"breaking the peace.\"",
-        "Adams refuses to rename Lake Ontario as \"Lake America\" as suggested by Trump.",
-        "Song is part of a new album described as a \u2018love letter\u2019 to Canada."
-      ]
-    },
-    {
-      "summary": "More prisoners were recalled to jail than released in England and Wales despite efforts to reduce prison population.",
-      "url": "https://www.theguardian.com/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
-      "points": [
-        "12,338 people recalled to custody between April and June.",
-        "12,278 people were released in the same period.",
-        "Recalls rose 27% in the year to June."
-      ]
-    },
-    {
-      "summary": "Eight of England\u2019s nine water companies rated poorly on environmental performance despite significant investment.",
-      "url": "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse",
-      "points": [
-        "Environment Agency, Drinking Water Inspectorate, Natural Resources Wales, and Ofwat issued a joint report.",
-        "Angela Eagle summoned water industry bosses to Whitehall over the poor environmental performance.",
-        "Eight out of nine water companies in England rated as \"poor\" or \"requiring improvement\"."
-      ]
-    },
-    {
-      "summary": "Google Search revenue falls below 50% of Alphabet's total for the first time.",
-      "significance": "This story marks a shift in Alphabet's revenue diversification, indicating growth in areas beyond traditional Google Search ads.",
-      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
-      "points": [
-        "Google Search & other ads now less than half of Alphabet's revenue.",
-        "Revenue from YouTube, subscriptions, devices, and Google Cloud grew faster.",
-        "Google Search revenue still increased, but not as much as other segments."
-      ]
-    },
-    {
-      "summary": "Two Brno University of Technology graduates, Tomáš Mikolov and Filip Maleňák, received state honors from the President of the Czech Republic for their contributions to technology and science.",
-      "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
-      "points": [
-        "Tomáš Mikolov, a graduate of the Faculty of Information Technology, received the Medal of Merit for his contributions to artificial intelligence and machine learning.",
-        "Filip Maleňák, a graduate of the Faculty of Electrical Engineering and Communication, was honored for creating the Záchranka app, which aids emergency response.",
-        "The state decoration ceremony took place on 28 October in the Vladislav Hall at Prague Castle."
-      ]
-    },
-    {
-      "summary": "A company named Spawn is developing a multiplayer game world using autonomous AI agents, allowing players to modify the game environment with prompts.",
-      "significance": "This story matters as it showcases the cutting-edge use of autonomous AI agents in real-time game development, significantly altering the speed and nature of software updates and bug fixes.",
-      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-      "points": [
-        "The project uses Fable-powered agents costing over $3 million in tokens per month.",
-        "AI agents directly modify live code and ship changes hourly, addressing bugs and user requests.",
-        "The system treats an hour without a code deployment as the most severe incident, ensuring continuous updates."
       ]
     }
   ]
