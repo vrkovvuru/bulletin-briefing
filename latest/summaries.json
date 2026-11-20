@@ -1,6 +1,82 @@
 {
-  "generated": "2026-11-20T01:46:09.390062Z",
+  "generated": "2026-11-20T03:42:41.744350Z",
   "summaries": [
+    {
+      "summary": "Asian stock markets experience steep losses amid fears of an unsustainable AI boom, despite Anthropic's successful IPO.",
+      "significance": "Asian stock markets suffer steep losses as AI bubble fears persist despite Anthropic's successful debut, highlighting sector-wide investment concerns.",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+      "points": [
+        "Tokyo\u2019s Nikkei 225 and Seoul\u2019s Kospi each fell about 4.5 percent, while Taipei\u2019s Taiex plunged nearly 6 percent.",
+        "Anthropic\u2019s IPO was the largest in history, raising $81.3bn, but failed to ease market concerns.",
+        "Global AI-related investment is projected to reach $2.7 trillion in 2026 and $3.6 trillion in 2027, according to Gartner."
+      ]
+    },
+    {
+      "summary": "US reacts cautiously to ICJ's genocide ruling against Myanmar, while EU praises the court's decision.",
+      "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+      "points": [
+        "US State Department emphasizes avoiding politicization of the ICJ.",
+        "EU describes the ICJ's decision as a \"landmark\" judgment.",
+        "ICJ's ruling marks the first time a state has been found responsible for genocide."
+      ]
+    },
+    {
+      "summary": "Campaigners advocate for a staggered age of consent in the UK following recent convictions and accusations against public figures.",
+      "significance": "Campaigners argue for a staggered age of consent in the UK following recent convictions and accusations against public figures, aiming to prevent future abuses.",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/20/is-it-time-to-change-the-uk-age-of-consent-podcast",
+      "points": [
+        "Public mood shifted from questioning society to seeking preventive measures.",
+        "Discussion spurred by convictions and accusations against notable older men.",
+        "Campaign aims to close the consent gap between different age groups."
+      ]
+    },
+    {
+      "summary": "Texas executed Reinaldo Dennes, convicted of killing a Houston jeweler, in a botched procedure taking over an hour.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+      "points": [
+        "Dennes, 70, groaned for an hour as staff struggled to find a suitable vein.",
+        "The lethal injection involved pentobarbital, administered on Thursday.",
+        "Dennes was convicted of killing Janos Szucs, a diamond dealer, in 1996."
+      ]
+    },
+    {
+      "summary": "US army delays detonation of bomb-making chemicals in Iowa due to health concerns.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "points": [
+        "Army planned to detonate about 5 tons of lead azide in Middletown, Iowa.",
+        "Detonation could release lead particles, alarming residents and officials.",
+        "Initial detonation was scheduled for noon on Friday."
+      ]
+    },
+    {
+      "summary": "A UN report reveals that one in four women globally cannot refuse sex within marriage.",
+      "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "points": [
+        "45% of women in west and central Africa cannot withhold consent.",
+        "33% of women in east and southern Africa and Arab states face inability to refuse sex.",
+        "In Latin America and the Caribbean, 10% of women cannot refuse sex within marriage."
+      ]
+    },
+    {
+      "summary": "A buffer overflow vulnerability in OpenSSL's EVP_EncodeBlock() function has been identified and is pending a public advisory.",
+      "significance": "This story matters because it highlights a critical buffer overflow vulnerability in OpenSSL's EVP_EncodeBlock() function, affecting security and requiring immediate patching.",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "points": [
+        "CVE-2026-121481 has a CVSS score of 9.8, indicating a severe risk.",
+        "The vulnerability can be exploited via command line by passing large inputs.",
+        "Proposing to return `-1` for invalid inputs to fix the buffer overflow issue."
+      ]
+    },
+    {
+      "summary": "Claire Vo discusses the prevalence of token fraud in her AI platform, ChatPRD, leading to the end of free trials.",
+      "significance": "Token fraud forces AI platform ChatPRD to end free trials due to abuse, impacting users and highlighting the issue of AI misuse.",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "points": [
+        "Claire Vo runs ChatPRD, an AI platform for product managers.",
+        "Scammers use free trials to build Roblox and Fortnite maps, among other commercial activities.",
+        "Claire ends free trials due to widespread abuse, including prompts involving pelicans riding bicycles."
+      ]
+    },
     {
       "summary": "Malawi's ongoing fuel crisis has led to chaos, long queues, and violence at filling stations.",
       "significance": "Malawi\u2019s fuel crisis disrupts daily life, causing chaos and violence as motorists struggle to access fuel.",
@@ -3673,82 +3749,6 @@
         "Judge David Carter refused to order segregation of ballots claimed to be from non-citizens.",
         "DOJ provided a USB drive with names of 20,000 alleged non-citizens to election officials.",
         "California has over 23 million registered voters, with non-citizen voting being extremely rare."
-      ]
-    },
-    {
-      "summary": "Qwen3.5 has been modified to include a fully functional RISC-V CPU within its weights, using Gated DeltaNet layers as RAM.",
-      "significance": "Qwenputer demonstrates embedding a functional RISC-V CPU within a language model, using Gated DeltaNet layers as RAM, showcasing advanced integration of computational capabilities within AI models.",
-      "url": "https://divagr.com/blog/qwenputer",
-      "points": [
-        "Qwenputer scores 97.5% on div_big tasks, compared to 95% with a Python tool and 72.5% for base Qwen.",
-        "The RISC-V CPU inside Qwen3.5 uses Gated DeltaNet state as RAM, running arithmetic operations and code internally.",
-        "Qwenputer has run 18 million instructions free-running without errors, passing official riscv-tests and matching qemu."
-      ]
-    },
-    {
-      "summary": "XREAL AURA, the first wired XR glasses powered by Android XR, are now available for order in the U.S., Canada, and Korea, with Japan following on November 2.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
-      "points": [
-        "Orders for XREAL AURA are open today in the U.S., Canada, and Korea.",
-        "The glasses weigh under 95 grams and feature a 70-degree field of view.",
-        "Users can connect a portable compute puck for high-performance spatial computing."
-      ]
-    },
-    {
-      "summary": "Water levels at Menindee Lakes hit a five-year low, leading to restrictions and fish death warnings.",
-      "significance": "Lowest water levels in five years at Menindee Lakes prompt restrictions, risking mass fish deaths and highlighting water management challenges.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
-      "points": [
-        "NSW government imposes upstream water use restrictions.",
-        "Menindee Lakes' combined volume fell below 480 gigalitres.",
-        "Experts warn of potential mass fish deaths over summer."
-      ]
-    },
-    {
-      "summary": "CBS News editor-in-chief Bari Weiss downplays concerns over declining 60 Minutes ratings.",
-      "url": "https://www.theguardian.com/media/2026/oct/28/bari-weiss-cbs-news-60-minutes",
-      "points": [
-        "Weiss stated 60 Minutes is doing \u201ctremendously well\u201d at industry conference.",
-        "She sidestepped focus on exact viewership numbers as a priority.",
-        "Weiss has been in her role for a year amid network ratings challenges."
-      ]
-    },
-    {
-      "summary": "GitLab faced an attempted exploitation of a critical vulnerability, leading to a system rebuild and password reset for users.",
-      "significance": "The attempted exploitation of CVE-2026-97229 highlights the importance of timely updates and the potential risks of using unpatched software versions.",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "points": [
-        "Attack occurred on October 20 and 21, exploiting CVE-2026-97229.",
-        "GitLab instance was treated as compromised and rebuilt from scratch.",
-        "Users must reset passwords upon re-opening of GitLab."
-      ]
-    },
-    {
-      "summary": "A patient details their chemotherapy journey, including spinal taps, nerve damage, and eventual recovery.",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "points": [
-        "Underwent weekly lumbar punctures extracting 5 mg of spinal fluid until end of January.",
-        "Experienced metallic taste in mouth, losing 50 pounds over a couple of months.",
-        "Recovered nerve function in spine after finishing chemotherapy in May."
-      ]
-    },
-    {
-      "summary": "Ted Sanders explains how model size influences LLM performance and OpenAI's model naming conventions.",
-      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-      "points": [
-        "Larger models perform better but cost more per token.",
-        "Model size correlates with better recall of obscure facts.",
-        "OpenAI's model naming indicates order of release and magnitude of improvement."
-      ]
-    },
-    {
-      "summary": "A non-profit group leaked data of over 40,000 homeland security workers, including those in sensitive roles.",
-      "significance": "The leak follows two previous government data disclosures, potentially increasing security concerns for over 40,000 DHS workers.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak",
-      "points": [
-        "Distributed Denial of Secrets released the information on Wednesday.",
-        "The leak includes details on DHS employees involved in surveillance and human intelligence.",
-        "This is the third government data disclosure by the group in the last month."
       ]
     }
   ]

@@ -2,40 +2,49 @@
   "date": "2026-11-19",
   "stories": [
     {
+      "title": "Thousands protest Colombia’s tax plans amid row over US military role",
+      "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Lula visits ailing Chief Raoni as Brazil recognises Indigenous land",
+      "url": "https://www.aljazeera.com/news/2026/11/20/lula-visits-ailing-chief-raoni-as-brazil-recognises-indigenous-land?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Lula honours Raoni in Mato Grosso, celebrating his legacy and advancing protection for Kayapo and Yudja ancestral lands.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
       "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it.\"",
+      "summary": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it\".",
       "alsoReportedBy": []
     },
     {
-      "title": "Democrats say law firm gave $11.8m worth of service to Trump administration",
-      "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Three top Democrats called Trump&#039;s dealings with law firms a case of &#039;official coercion&#039; and pledged investigations.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
-      "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "EU-UK talks going down to the wire, says No 10",
+      "title": "UK-EU mobility scheme to benefit up to 200,000 young people a year, BBC understands",
       "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "alsoReportedBy": []
     },
     {
       "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
@@ -47,22 +56,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Haiti police say 34 gang members killed in capital raid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+      "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "Trump’s state department says it is examining the ICJ judgment while stressing the need to avoid ‘politicisation’ of the body The US has reacted with caution to the world’s highest court ruling that Myanmar committed genocide against its Rohingya minority, while the EU more effusively framed the decision as a “landmark” judgment. The historic ruling from the international court of justice (ICJ) – which has never previously found a state responsible for genocide – could set a precedent for future genocide claims, notably a case against Israel . Continue reading...",
+      "alsoReportedBy": []
     },
     {
       "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
@@ -101,21 +101,21 @@
       "alsoReportedBy": ["BBC World"]
     },
     {
-      "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+      "title": "Is it time to change the UK age of consent? – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/20/is-it-time-to-change-the-uk-age-of-consent-podcast",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other , according to the New York Times. The Times reports that employees at the NSA’s Maryland headquarters are under “code orange” for Thursday day shift, which requires non-essential workers are to stay home unless contacted by their supervisors. A secret, closed-door election: Unlike the public speaker of the House vote, where lawmakers cast ballots on the chamber floor, the Senate leadership contest takes place behind closed doors. Senators vote by secret ballot, and individual votes are not disclosed. The winner only needs a caucus majority: The Democratic leadership race is decided solely by members of the party’s Senate caucus. Now that Democrats are set to have 56 seats in the new year, the winner will need secure 29 votes for the top role. The vote is scheduled for next month: As things stand, the election is set for 1 December . Both incumbent senators and incoming Democratic members will participate, while retiring and outgoing senators will not vote, despite many having publicly weighed in on the race. Republicans choose their leaders separately: Republicans hold their own closed-door leadership elections in both chambers. Earlier this month, House Republicans selected hardliner Jim Jordan as their leader after Mike Johnson opted not to run for minority leader. In the Senate, Republicans unanimously backed John Thune to continue leading the conference. Continue reading...",
+      "summary": "After Russell Brand’s conviction and accusations against David Walliams, campaigners are calling for a staggered age of consent. Nosheen Iqbal speaks to the columnist Polly Hudson and the educator Michael Conroy about what needs to change Send your comments and questions to tif.questions@theguardian.com Anger, disgust, shame. In the last couple of weeks, as news of famous older men being convicted and accused of crimes against very young women and girls has emerged, the public mood has shifted. The conversation has moved from “how did society let this happen?” to “how do we stop it from happening again?”. In that space, a campaign has grown for the consent gap to be closed. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Race to replant five South African baobabs after export blocked",
-      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+      "title": "Texas botches execution of Reinaldo Dennes as staffers struggle to find vein",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia. The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover. The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions. Continue reading...",
+      "summary": "Dennes, 70, was convicted of killing a Houston jeweler, and groaned for an hour after pentobarbital was administered Texas executed Reinaldo Dennes on Thursday in a procedure that took over an hour as prison staffers struggled to find a suitable vein for the two intravenous needles carrying a lethal dose of pentobarbital, a sedative. Dennes, who was found guilty of capital murder in the death of Janos Szucs, a diamond dealer found shot multiple times in his Houston office in January 1996, was the second person put to death in the US on Thursday, after Florida carried out a record-breaking 20th execution of the year, of Thomas Mitchell Overton. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -137,21 +137,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "More climate money for Africa? Europe says use what's already pledged",
-      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Religious messages agriculture secretary emailed to staff deemed unconstitutional",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/religious-messages-agriculture-secretary-unconstitutional",
+      "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "A federal judge ruled that messages sent by Brooke Rollins to USDA workers suggest Christianity is a shared faith and violate the first amendment Religious messages that US agriculture secretary Brooke Rollins emailed to the agency’s 100,000 employees were unconstitutional, and she must be careful to avoid proselytizing when communicating with workers, a federal judge ruled Thursday. Rollins sent the messages, which included Christian messages and images, from her official email account on holidays such as Independence Day, Thanksgiving, Christmas and Easter. She did not send messages commemorating holidays from other religions. Continue reading...",
+      "summary": "The controlled detonation can lead to a plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iowa as questions swirl about the public health risks. The army was set to blow up about 5 tons of lead azide in Middletown, Iowa, at noon on Friday, a move it described as the safest way to dispose of the highly sensitive compound. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Race to replant five South African baobabs after export blocked",
+      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia. The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover. The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -164,21 +164,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
-      "url": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Independent National Security Legislation Monitor says reference to religion has ‘contributed to discrimination and violence against religious minorities’ Get our breaking news email , free app or daily news podcast Religion should be removed from Australia’s terrorism definition and making bomb threats should not result in life imprisonment, the country’s national security laws watchdog has said. The highly anticipated report from the Independent National Security Legislation Monitor (INSLM), released Thursday, reviewed how terrorism has been defined in Australia over the past 25 years after a suite of laws were introduced following the September 11 attacks in the United States. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Why Canada is embracing AI data centres while the US pushes back",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "One in four women globally unable to refuse sex within marriage, says UN",
+      "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report. In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and in Arab states face the same predicament. In Latin America and the Caribbean, one in 10 women are not able to refuse sex, said the report by the UN Population Fund ( UNFPA ) published on Thursday. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -200,8 +200,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -254,8 +254,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Synology Security Advisory",
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,12 +263,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Mutex poisoning is not for everyone",
-      "url": "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
-      "source": "Lobsters",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial enterprises on top of the ChatPRD agent. I am funding a international Roblox and Fortnite map studio. They run a loop of free trials and promo codes and then tunnel to my agent and use it to build Roblox and Fortnite maps. Apparently one of the common prompts Claire saw running through her agent involved SVGs of pelicans riding bicycles! Presumably the token scammers are using that to help sniff the underlying models - different model families have a definite signature, and I've used it like this in the past to try and guess the identity of stealth preview models on platforms like OpenRouter. Claire is winding down her free trials entirely, which sadly looks like the right decision in the face of this abuse. Tags: youtube , ai , generative-ai , llms , pelican-riding-a-bicycle , ai-misuse",
       "alsoReportedBy": []
     },
     {
@@ -308,15 +317,6 @@
       "alsoReportedBy": ["Simon Willison"]
     },
     {
-      "title": "datasette-arrows 0.1a0",
-      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats support streaming data in chunks. The register_output_renderer() plugin hook can now be used to implement the same pattern for other formats. I've learned never to release a new plugin feature without accompanying it with a plugin that uses it. Claude Fable 5.2 suggested the Apache Arrow streaming format as a good option, and built this plugin in almost a single shot. Add the plugin to Datasette ( datasette install datasette-arrows ) and the export dialog gains this new Arrow option: This screenshot is from Datasette's main branch - the most recent release doesn't yet group streaming formats such as Arrow with the TSV and CSV in the \"All rows in this table\" section, but that's coming in the next alpha release. Tags: datasette , projects",
-      "alsoReportedBy": ["Simon Willison"]
-    },
-    {
       "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
       "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
       "source": "Import AI",
@@ -344,21 +344,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "datasette-arrows 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats support streaming data in chunks. The register_output_renderer() plugin hook can now be used to implement the same pattern for other formats. I've learned never to release a new plugin feature without accompanying it with a plugin that uses it. Claude Fable 5.2 suggested the Apache Arrow streaming format as a good option, and built this plugin in almost a single shot. Add the plugin to Datasette ( datasette install datasette-arrows ) and the export dialog gains this new Arrow option: This screenshot is from Datasette's main branch - the most recent release doesn't yet group streaming formats such as Arrow with the TSV and CSV in the \"All rows in this table\" section, but that's coming in the next alpha release. Tags: datasette , projects",
+      "alsoReportedBy": ["Simon Willison"]
+    },
+    {
       "title": "Quoting Daniel Stenberg",
       "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites have. We also fixed a few vulnerabilities. In another month we have done another 200 and maybe fixed a few more vulnerabilities. Will these clones keep up? — Daniel Stenberg , Actual curl rewrites in Rust Tags: daniel-stenberg , curl , rust , security , coding-agents , c , ai , llms , generative-ai , vibe-porting",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The PSF end-of-year fundraiser",
-      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the IP behind Python, operates PyPI, sponsors core developer sprints, supports community events (including running PyCon US every year), and employs a small and excellent staff team to keep everything running. We also operate the Developers in Residence program , which now includes three security developers (welcome, Brett Smith) focused on helping secure Python, PyPI, and the wider ecosystem. Tags: python , psf",
       "alsoReportedBy": []
     }
   ]
