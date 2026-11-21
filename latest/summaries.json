@@ -1,6 +1,25 @@
 {
-  "generated": "2026-11-21T19:42:44.332830Z",
+  "generated": "2026-11-21T21:41:01.567110Z",
   "summaries": [
+    {
+      "summary": "Settler violence surges in the occupied West Bank, fueled by impunity, after a settler killed a Palestinian man near Ramallah.",
+      "significance": "Impunity for settlers escalates violence against Palestinians in the West Bank, worsening the Israel-Palestine conflict.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+      "points": [
+        "A settler shot and killed a Palestinian man on November 20 near Ramallah.",
+        "Settler attacks are increasing across the occupied West Bank."
+      ]
+    },
+    {
+      "summary": "A new pill for pancreatic cancer, daraxonrasib, shows significant promise, with 76.6% of patients surviving a year compared to 40-45% with chemotherapy alone.",
+      "significance": "The pill significantly increases one-year survival rates for pancreatic cancer patients, offering hope for longer survival times.",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "points": [
+        "76.6% of patients were alive a year after starting treatment, compared to 40-45% with chemotherapy alone.",
+        "In the trial, the cancer became undetectable in about 8% of patients, and nearly all participants' tumours stopped growing.",
+        "Dr Wungki Park presented the findings at the EORTC-NCI-AACR Symposium in Barcelona."
+      ]
+    },
     {
       "summary": "Brianna surprised Kaz Therese with a trip to the filming location of her favorite romantic movie, \"An Affair to Remember.\"",
       "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/the-moment-i-knew-she-flew-me-to-the-scene-of-my-favourite-romantic-movie",
@@ -3729,25 +3748,6 @@
         "npm uses a Levenshtein distance threshold of 2 to prevent typosquatting.",
         "The rule would have also banned \"preact\" due to similarity to \"react\".",
         "The author suggests manual overrides for such decisions."
-      ]
-    },
-    {
-      "summary": "Swiss Foreign Minister Ignazio Cassis visited North Korea to discuss normalizing political relations and reopened a diplomatic office.",
-      "significance": "Swiss foreign minister's rare visit to North Korea signals a potential strengthening of diplomatic ties and direct dialogue between the two countries.",
-      "url": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
-      "points": [
-        "Cassis met with North Korean Foreign Minister Choe Son Hui and Jo Yong Won during his two-day visit.",
-        "The Swiss diplomatic office in North Korea, operational since October 19, reports to the Swiss embassy in Beijing.",
-        "This is the first visit by a Swiss government minister to North Korea in over two decades."
-      ]
-    },
-    {
-      "summary": "An author shares how her graphic novel on death, inspired by her daughter, became a tool for discussing mortality and preserving family stories.",
-      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/30/death-grief-loss-book",
-      "points": [
-        "The author wrote the graphic novel after her daughter, Hallie, asked for advice on life.",
-        "Hallie painted the gouache illustrations for the book over a year.",
-        "Readers have used the book to start conversations about death with family members."
       ]
     }
   ]
