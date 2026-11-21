@@ -1,6 +1,63 @@
 {
-  "generated": "2026-11-21T15:42:08.982867Z",
+  "generated": "2026-11-21T17:41:53.880302Z",
   "summaries": [
+    {
+      "summary": "World urged to avoid a disappointing Cop31 as talks extend past deadline with EU pushing for fossil fuels mention.",
+      "significance": "The story matters as it highlights the potential failure of Cop31 to achieve significant outcomes on climate action, affecting global efforts to address climate change.",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+      "points": [
+        "EU has backing of 130 countries to mention fossil fuels in UN climate summit outcome.",
+        "Conference centre less crowded, with closed food stalls and sparse attendees.",
+        "Talks extend past deadline, risking one of the most disappointing Cops ever."
+      ]
+    },
+    {
+      "summary": "US Vice President Vance avoids endorsing Trump's claim about Iran being close to a nuclear weapon.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+      "points": [
+        "Vance stated it's not his role to second-guess the president during a White House news conference.",
+        "Trump claimed Iran was close to obtaining a nuclear weapon in February.",
+        "Trump expressed dissatisfaction with Vance's previous statement linking midterm losses to the Iran war."
+      ]
+    },
+    {
+      "summary": "International talks at the UN on controlling autonomous weapons failed due to Russian objections.",
+      "significance": "The collapse of UN talks on autonomous weapons highlights the influence of individual states, like Russia, in blocking international agreements on AI warfare.",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "points": [
+        "Talks in Geneva collapsed just before 5am after Russian 'filibustering'.",
+        "Majority of states wanted to move towards a legally binding treaty.",
+        "Need for consensus led to adopting a much weaker option instead."
+      ]
+    },
+    {
+      "summary": "A method for managing TODOs using empty commits in JJ, a version control system.",
+      "url": "https://bwc9876.dev/blog/jj_todo/",
+      "points": [
+        "Uses empty commits for TODO items, allowing easy reordering and dependency management.",
+        "TODOs remain local, ensuring they don't get pushed to remote repositories.",
+        "Requires rebasing the TODO base forward, which avoids conflicts due to the commits being empty."
+      ]
+    },
+    {
+      "summary": "A new C# fork compiles to native programs without a.NET runtime or garbage collector.",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "points": [
+        "Hello world example is 11 KB on Windows and 40 KB on Linux with no additional installation.",
+        "Supports cross-platform development, running on Linux, macOS, Windows, WebAssembly, and DOS.",
+        "Uses memory arenas for allocation, freeing all at once, with a small library for basic functions."
+      ]
+    },
+    {
+      "summary": "PostgreSQL 19 was released with notable delays due to addressing vulnerabilities, featuring a new \"read-your-writes\" consistency command.",
+      "significance": "PostgreSQL 19 introduces \"read-your-writes\" consistency with WAIT FOR LSN, enhancing data consistency for applications using standby reads.",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "points": [
+        "PostgreSQL 19's release was delayed by two months from the usual September date.",
+        "New feature \"WAIT FOR LSN\" ensures read-your-writes consistency on standbys.",
+        "MediaWiki uses a similar pattern for consistency with MySQL replication."
+      ]
+    },
     {
       "summary": "SNL's sketch \"Sister\" went viral for its accurate portrayal of the caregiving burden on women.",
       "significance": "The SNL sketch highlights the often-overlooked burden of caregiving on women, resonating with many who feel their struggles are accurately portrayed.",
@@ -3690,62 +3747,6 @@
         "Phorion detected the backdoor, which installs a persistent SSH backdoor.",
         "The backdoor attempts to enable SSH but fails on macOS due to lack of root privileges.",
         "Cursor Marketplace has removed the compromised extension bundle."
-      ]
-    },
-    {
-      "summary": "Burbank residents, including Diego Linares, transform their homes into elaborate Halloween scenes, raising questions about the holiday's popularity.",
-      "significance": "The story highlights how Halloween has evolved into a competitive and costly spectacle in Burbank, potentially threatening the holiday's original spirit.",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/burbank-california-los-angeles-halloween-capital",
-      "points": [
-        "Diego Linares wears serial killer costumes like Michael Myers and Jason Voorhees.",
-        "Transformations include fake mist, monsters, and illuminated gravestones.",
-        "Residents spend months and thousands of dollars on these decorations."
-      ]
-    },
-    {
-      "summary": "North Korea's TraderTraitor hacking unit is accused of executing the largest crypto theft, valued at $6.3bn, from Binance.",
-      "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-      "points": [
-        "Major cryptocurrencies like Bitcoin and Ethereum fell in value post-theft.",
-        "Binance temporarily suspended withdrawals to revamp security."
-      ]
-    },
-    {
-      "summary": "Spanish Prime Minister Sánchez indicates people from 27 nationalities were affected in a deadly train crash in Spain.",
-      "significance": "The story highlights the international impact of the Spain train crash, affecting multiple nationalities, and points to potential systemic failures in rail command and control.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-      "points": [
-        "At least 69 people confirmed dead with 70 reported missing.",
-        "Sánchez attributes evidence to a failure in Adif\u2019s command and control center.",
-        "Prime Minister maintains confidence in the rail system despite the incident."
-      ]
-    },
-    {
-      "summary": "Altering copyright law for AI could breach Australian constitution and lead to massive compensation claims.",
-      "url": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
-      "points": [
-        "Anne Twomey warns AI copyright changes might amount to government property acquisition.",
-        "Coalition senators and recording industry fear potential constitutional breaches.",
-        "Attorney general\u2019s department acknowledges awareness of the constitutional concerns."
-      ]
-    },
-    {
-      "summary": "Former 60 Minutes correspondent Cecilia Vega expresses pain over the network's overhaul and ratings slump.",
-      "url": "https://www.theguardian.com/media/2026/oct/30/60-minutes-correspondent-cecilia-vega-cbs-news",
-      "points": [
-        "Vega fired from 60 Minutes as part of network overhaul this spring.",
-        "Vega alleges she was told to insert \"factually untrue\" information.",
-        "60 Minutes is experiencing a ratings slump."
-      ]
-    },
-    {
-      "summary": "US Democratic representatives introduced a resolution opposing a bailout for big tech companies in case of an AI bubble burst, prioritizing protection for American workers and retirees.",
-      "significance": "The story matters as it signals a political stance against bailing out big tech companies in case of an AI bubble burst, protecting taxpayers and prioritizing support for workers and retirees instead.",
-      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-      "points": [
-        "Reps. Greg Casar and Maxine Waters led the resolution, joined by 11 other representatives.",
-        "The resolution warns of a potential AI-related asset bubble and opposes bailing out corporations or executives.",
-        "It calls for federal support to protect workers, retirees, and low-income communities, not tech executives."
       ]
     }
   ]
