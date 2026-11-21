@@ -1,6 +1,81 @@
 {
-  "generated": "2026-11-21T05:41:52.977534Z",
+  "generated": "2026-11-21T13:42:32.893425Z",
   "summaries": [
+    {
+      "summary": "Canadian politicians, including Mark Carney, celebrated Trump's midterm losses, but questions arise about the sustainability of trust in Carney if trade tensions ease.",
+      "significance": "The article suggests that Mark Carney's popularity may be tied to anti-Trump sentiment, raising questions about its sustainability if US political dynamics change.",
+      "url": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
+      "points": [
+        "Doug Ford, Ontario premier, expressed elation over Trump's rebuke, even joking about doing cartwheels.",
+        "Canadian prime minister enjoys significant trust from Canadians, despite underlying concerns.",
+        "Criticism of American tariffs has been prominent among Canadian politicians like Doug Ford."
+      ]
+    },
+    {
+      "summary": "Denmark expels Russian diplomat over alleged Russian plot to kill US-Ukrainian rapper Kyivstoner.",
+      "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+      "points": [
+        "Danish foreign minister Lars Løkke Rasmussen announced the expulsion.",
+        "Russian defence attache to be expelled within seven days.",
+        "Plot aimed to kill rapper Kyivstoner before a concert in Denmark."
+      ]
+    },
+    {
+      "summary": "The race to lead Senate Democrats is highlighting a divide over Israel policy between Chuck Schumer and Chris Van Hollen.",
+      "significance": "The race to lead Senate Democrats highlights the party's internal conflict over Israel, affecting its future policy direction and voter alignment.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
+      "points": [
+        "Chuck Schumer, current Democratic minority leader, is a staunch supporter of Israel.",
+        "Chris Van Hollen represents a different vision on US-Israel relations within the party.",
+        "Israel's standing among US voters has become a critical factor in Democratic politics."
+      ]
+    },
+    {
+      "summary": "China aims for rapid low-carbon electrification and supports other nations in achieving similar goals at Cop31.",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+      "points": [
+        "China targets 35% of energy from electricity by 2035.",
+        "Wang Yi, a Chinese Academy of Sciences professor, supports electrification.",
+        "China will assist other countries in electrification efforts."
+      ]
+    },
+    {
+      "summary": "New Orleans Catholic clergy abuse survivors start receiving payments from a $305m bankruptcy settlement.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/new-orleans-catholic-clergy-abuse-settlement",
+      "points": [
+        "$180m distributed to 450 of about 740 survivors so far.",
+        "Settlement fund trustee Don Massey aims to complete payments by year-end.",
+        "Distribution process still awaits forms from hundreds of survivors and lawyers."
+      ]
+    },
+    {
+      "summary": "A monitor was found to significantly reduce download speeds from 2.5 Gbps to 600 Mbps.",
+      "significance": "The story highlights how a monitor can significantly reduce internet download speeds, affecting users who rely on multi-functional devices for networking.",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "points": [
+        "The issue was caused by the monitor's USB-C hub and the Realtek RTL8156B adapter.",
+        "Enabling flow control increased download speed to around 2 Gbps.",
+        "The monitor's hub increased packet transmission time, leading to buffer overflows and dropped packets."
+      ]
+    },
+    {
+      "summary": "GnuPG announces a critical security bug fix in GPGME version 2.3.1, addressing a vulnerability that could lead to data exfiltration and RCE.",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "points": [
+        "The vulnerability, CVE-2026-129975, was discovered by Johan Carlsson and disclosed on 2026-11-12.",
+        "The bug involves a double free error due to improper buffer management in GPGME functions.",
+        "All software using GPGME versions prior to 2.3.0 is affected, including Gpg4win, GnuPG Desktop, and GnuPG VS-Desktop."
+      ]
+    },
+    {
+      "summary": "Internet Archive workers are launching a union campaign with the Communications Workers of America (CWA).",
+      "url": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
+      "points": [
+        "Workers seek to join CWA Local 9415 in Oakland, California.",
+        "A supermajority of eligible workers signed cards for union representation.",
+        "The union aims to ensure job security, livable wages, and sufficient benefits for long-term sustainability."
+      ]
+    },
     {
       "summary": "Funeral held for Javits Frimpong, a 15-year-old New York teen from Ghana who was shot dead while walking to school.",
       "significance": "The funeral highlights the impact of gun violence on immigrant communities and the loss of potential in young lives.",
@@ -3670,82 +3745,6 @@
         "Over 1,300 RSS feeds were found publicly available on Skyreader without authentication.",
         "Users' private Club MacStories and paywalled 404 Media feeds were accessible.",
         "Discord clones and a Twitch-like platform store messages openly, allowing public searches."
-      ]
-    },
-    {
-      "summary": "Flash floods in Syria's northern and eastern regions have killed five people, including four children.",
-      "significance": "Flash floods highlight ongoing threat of heavy rains in Syria, affecting displaced populations and causing significant loss of life and infrastructure damage.",
-      "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
-      "points": [
-        "Four children drowned in bodies of water across Raqqa and Deir Az Zor.",
-        "A man died when his car was caught in floodwaters near al-Salmani Bridge.",
-        "Emergency teams evacuated approximately 375 families from three camps near Raqqa."
-      ]
-    },
-    {
-      "summary": "A report warns that feral deer are spreading rapidly in Australia, posing a significant threat akin to feral pigs.",
-      "significance": "The story highlights the growing threat of feral deer, indicating potential severe economic impacts on farmers if not controlled, mirroring the issues with feral pigs.",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/australia-feral-deer-problem-report-national-action-plan",
-      "points": [
-        "Feral deer spread and numbers have increased, costing farmers millions.",
-        "From 2020-2025, deer encroached more into major cities, leading to frequent encounters.",
-        "An incident involved two nude men fined after being spooked by deer while sunbathing."
-      ]
-    },
-    {
-      "summary": "Sam Wood, former Bachelor star, seeks bail again amid domestic violence charges, with court hearing about his alleged party lifestyle and anger issues.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
-      "points": [
-        "Wood, 46, from Melbourne, arrested on 4 October at Noosa, Queensland.",
-        "Initial bail denial due to allegations of choking and assaulting his wife.",
-        "Court hears Wood engaged in a \"party lifestyle\" involving drugs and alcohol."
-      ]
-    },
-    {
-      "summary": "Actor Patrick Stewart, known for roles in Star Trek and X-Men, died at 86.",
-      "significance": "Stewart demonstrated the commercial viability of classically trained British actors in mainstream American entertainment, bridging high art and pop culture.",
-      "url": "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
-      "points": [
-        "Brought Shakespearean training to Hollywood, starring as Jean-Luc Picard in Star Trek.",
-        "Also played Professor Charles Xavier in the X-Men film series.",
-        "His career transitioned from the Royal Shakespeare Company to pop culture icon."
-      ]
-    },
-    {
-      "summary": "Papua New Guinea faces a \"national crisis\" due to an extreme El Niño-driven drought affecting 8 million people.",
-      "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
-      "points": [
-        "8 million people affected by food shortages, electricity blackouts, and health clinic closures.",
-        "Drought causing water shortages, electricity scarcity, and disrupting schooling.",
-        "No coordinated plan exists to protect communities from worsening impacts."
-      ]
-    },
-    {
-      "summary": "Former Sydney childcare worker Ashley Paul Griffith faces 202 new abuse charges, including rape, related to 23 young victims.",
-      "significance": "The story highlights the ongoing legal action against a notorious pedophile, adding 202 more abuse charges, including rape, affecting 23 young victims.",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/30/ashley-paul-griffith-queensland-paedophile-childcare-worker-additional-charges-ntwnfb",
-      "points": [
-        "Griffith accused of raping children as young as one at a Sydney childcare center.",
-        "Charges date from 2014 to 2017 and involve 23 alleged victims aged one to five.",
-        "Griffith, described as one of Australia\u2019s most notorious pedophiles, extradited from Queensland."
-      ]
-    },
-    {
-      "summary": "Binance investigates potential security issue, with crypto firms freezing over $3bn in funds.",
-      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-      "points": [
-        "Binance, world\u2019s largest crypto exchange, looks into a possible hack.",
-        "About $3bn in funds frozen by crypto firms by Thursday evening.",
-        "Binance founder indicates the incident \"does look like a hack on Binance."
-      ]
-    },
-    {
-      "summary": "Antisemitism envoy Jillian Segal proposes an external ombudsman to monitor ABC and SBS coverage of Israel and the Middle East.",
-      "url": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
-      "points": [
-        "Jillian Segal suggests all visa applicants be screened for antisemitic views.",
-        "Proposal includes greater oversight of Australia\u2019s public broadcasters.",
-        "Segal states the link between media coverage and antisemitism is a public concern."
       ]
     }
   ]

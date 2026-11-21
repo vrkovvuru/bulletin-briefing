@@ -1,103 +1,139 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "stories": [
     {
-      "title": "Three French police officers sentenced over racist assault on Black man",
-      "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Funeral held for New York teen shot while walking to school",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Funeral held for New York teen shot while walking to school",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "alsoReportedBy": []
     },
     {
-      "title": "In a Sydney gallery, Philippe Parreno’s art is powered by a desert 17,000km away",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/21/in-a-sydney-gallery-philippe-parrenos-art-is-powered-by-a-desert-17000km-away",
-      "source": "The Guardian",
+      "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "In the Museum of Contemporary Art, the French artist’s first major Australian show is truly unpredictable – influenced by real-time data coming from a Spanish farm I’m standing in a massive white-cube space, staring at a perplexing assortment of objects. There are several expensive looking lamps; a massive industrial fan; a couple of speakers; marquee-style lights; a glowing assemblage of power adapters. At the back of the gallery, a silvery light slides up and down a pole. The bulbs are flickering erratically, and there’s a low hum of machine noise, overlaid with bird song and distant barking. As an installation, taken by itself, it’s deceptively underwhelming – a spectacle without a story. Continue reading...",
+      "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary&#039;s 66 leads charge in Melbourne.",
       "alsoReportedBy": []
     },
     {
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
-      "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yet Mykola expects to drive his battered beige passenger minibus 20 to 24 times a day past the holes in the road on Kyiv’s damaged Northern Bridge that were caused by a Russian ballistic missile attack on Tuesday. Buses are now the only motor transport allowed across the normally busy multi-lane crossing, though on their way into the city centre they have to skirt the tears in the tarmac, using the only functioning lane to get by. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+      "title": "Perspective: Defining 'human'",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+      "summary": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Riemann hypothesis: Has the world\u2019s most famous maths problem been cracked?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
+      "alsoReportedBy": []
     },
     {
-      "title": "The latest from Trump's press conference",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+      "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+      "summary": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
       "alsoReportedBy": []
     },
     {
-      "title": "Another day of survival for a family in Ukraine",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+      "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
+      "url": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Canadians have put a lot of trust in their prime minister but some question if it can last if the trade wars were to end In the hours after polls in the US midterm elections closed and it became clear that Donald Trump had been rebuked in historic fashion, Canadian politicians were elated. \u201cI was doing cartwheels down the street, and have you ever seen a big guy like me doing cartwheels?\u201d said Ontario premier Doug Ford, a prominent critic of American tariffs. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Two drones attack a cargo ship close to Russia&#039;s maritime border, causing damage and crew evacuation.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed unsolved math problem.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+      "url": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "On the outskirts of Kyiv, one family prepares for the fifth winter of war against Russia -- stockpiling food and fuel and trying to maintain as much a sense of normalcy as possible.",
+      "summary": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andrew's University.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+      "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark Denmark\u2019s foreign minister has said Russia\u2019s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper. \u201cWe have just summoned the Russian ambassador to the ministry of foreign affairs and notified him of the government\u2019s decision to expel the Russian defence attache from Denmark,\u201d Lars L\u00f8kke Rasmussen told a news conference. The expulsion will happen within seven days. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on Sunday Cold snaps are to make way for heavy rain in some parts of the country as the Met Office issued a weather warning for south-west England. It said there will be a slow-moving band of rain moving across Devon and Cornwall, with more than 100mm due to fall on Dartmoor. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Race to lead Senate Democrats the latest battlefield in party\u2019s tussle over Israel",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Chris Van Hollen and Chuck Schumer represent conflicting visions on issue that has become \u2018litmus test\u2019 for Democratic voters The race to lead the Democratic Party\u2019s incoming Senate majority has become the latest battlefield between two conflicting visions for how the US should relate to Israel \u2013 a once unquestioned ally whose collapsing standing among the US public has become a defining feature of American politics. Chuck Schumer, the veteran New York Senator and current Democratic minority leader, is one of Israel\u2019s most reliable supporters in Congress. As he views it, according to an interview he gave last year, his \u201cjob\u201d is to \u201ckeep the left pro-Israel\u201d. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -107,84 +143,59 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
-      "alsoReportedBy": ["Guardian World"]
+      "alsoReportedBy": [
+        "Guardian World"
+      ]
     },
     {
-      "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+      "title": "China commits to low-carbon electrification and help for others to improve",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’ Get our breaking news email , free app or daily news podcast Victorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a mistaken identity kidnapping that resulted in the partial amputation of a victim’s finger during Melbourne’s hospitality wars. The boy, who was arrested on Friday afternoon, allegedly communicated with the offenders under the username “Onepercent” on the encrypted communications app Signal. Continue reading...",
+      "summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035 Cop31 live \u2013 latest updates China is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of the Chinese delegation at the Cop31 UN climate summit has said. Wang Yi, a professor of energy and environment policy at the Chinese Academy of Sciences and a senior adviser to China\u2019s government, said: \u201cEnd-use electrification is a very clear direction. We can follow this direction while making the source of electricity clean. That\u2019s the way to go forward.\u201d Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-      "alsoReportedBy": ["Guardian World"]
-    },
-    {
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "California’s coastal communities on alert as biggest waves in years hit state",
+      "title": "California\u2019s coastal communities on alert as biggest waves in years hit state",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years. Coastal warnings extended from last weekend through this week, with alerts extending until Friday night. Waves of 10-18ft are expected, with local sets of 18-22ft for San Luis Obispo county beaches and Santa Barbara county central coast beaches. These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days. Already, record-breaking rainfall affected San Fransisco on Wednesday, with heavy rain also causing 32,000 customers to lose power in Sacramento. Into this weekend, a further area of low pressure will bring considerable amounts of moisture for southern Oregon and northern California. By Sunday night, more than 100mm (4in) of rain is expected in places, with further snowfall for areas such as Donner Pass across the northern Sierra Nevada mountains. Continue reading...",
+      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California\u2019s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years. Coastal warnings extended from last weekend through this week, with alerts extending until Friday night. Waves of 10-18ft are expected, with local sets of 18-22ft for San Luis Obispo county beaches and Santa Barbara county central coast beaches. These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days. Already, record-breaking rainfall affected San Fransisco on Wednesday, with heavy rain also causing 32,000 customers to lose power in Sacramento. Into this weekend, a further area of low pressure will bring considerable amounts of moisture for southern Oregon and northern California. By Sunday night, more than 100mm (4in) of rain is expected in places, with further snowfall for areas such as Donner Pass across the northern Sierra Nevada mountains. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-      "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-      "source": "NPR World",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attach\u00e9 being expelled.",
       "alsoReportedBy": []
     },
     {
-      "title": "Race to replant five South African baobabs after export blocked",
-      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+      "title": "New Orleans Catholic clergy abuse survivors begin receiving payments from $305m bankruptcy settlement",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/new-orleans-catholic-clergy-abuse-settlement",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia. The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover. The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury. For two weeks, a fresh batch of jurors listened to prosecutors mount their case against Jonathan Rinderknecht. Continue reading...",
+      "summary": "Arrival of payments in contentious legal saga that began in 2020 is \u2018a weight off my shoulders\u2019, one survivor said Hundreds of clergy sexual abuse survivors have received more than half of the $305m bankruptcy settlement that the archdiocese of New Orleans reached with them last year, a milestone that marks the beginning of the end of a years-long legal saga. The trustee overseeing the settlement fund, Don Massey, confirmed on Friday that $180m had been distributed to 450 of about 740 survivors, either directly or through their lawyers if they retained legal representation. Massey said he and his staff are working hard to get payments in the rest of the survivors\u2019 hands by the end of the year but are still waiting on hundreds of distribution forms from survivors and their lawyers. Continue reading...",
       "alsoReportedBy": []
     },
     {
       "title": "Levent Alpoge Claims Proof of Riemann Hypothesis",
       "url": "https://alpo.ge/remark.pdf",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -209,16 +220,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+      "title": "The Pulse: Is Amazon\u2019s writing culture collapsing because of AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -227,18 +229,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "url": "https://ninlive.com/",
-      "source": "Hacker News",
+      "title": "Announcing jj-musubi: live sync for Jujutsu",
+      "url": "https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Announcing jj-musubi: live sync for Jujutsu",
-      "url": "https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
-      "source": "Lobsters",
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,8 +265,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Removing binder.c",
-      "url": "https://lwn.net/Articles/1102982/",
+      "title": "Internet Archive Staffers Are Unionizing",
+      "url": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -286,7 +288,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. — Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags: mathematics",
+      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. \u2014 Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags: mathematics",
       "alsoReportedBy": []
     },
     {
@@ -299,12 +301,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Quoting Levent Alpöge",
+      "title": "Quoting Levent Alp\u00f6ge",
       "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater. [...] Claude and I have had a great time together with such breadth in recent months, but this time Claude far outpaced me near the finish line. No, Claude flew, and danced, and sparkled near that finish line. — Levent Alpöge , alpo.ge/remark.pdf Tags: anthropic , claude , generative-ai , mathematics , ai , llms , levent-alpoge",
+      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater. [...] Claude and I have had a great time together with such breadth in recent months, but this time Claude far outpaced me near the finish line. No, Claude flew, and danced, and sparkled near that finish line. \u2014 Levent Alp\u00f6ge , alpo.ge/remark.pdf Tags: anthropic , claude , generative-ai , mathematics , ai , llms , levent-alpoge",
       "alsoReportedBy": []
     },
     {
@@ -313,16 +315,16 @@
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
+      "summary": "November 19, 2026 \u2014 ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
       "alsoReportedBy": []
     },
     {
-      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "title": "Token fraud is here and it\u2019s BAD (YouTube)",
       "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial enterprises on top of the ChatPRD agent. I am funding a international Roblox and Fortnite map studio. They run a loop of free trials and promo codes and then tunnel to my agent and use it to build Roblox and Fortnite maps. Apparently one of the common prompts Claire saw running through her agent involved SVGs of pelicans riding bicycles! Presumably the token scammers are using that to help sniff the underlying models - different model families have a definite signature, and I've used it like this in the past to try and guess the identity of stealth preview models on platforms like OpenRouter. Claire is winding down her free trials entirely, which sadly looks like the right decision in the face of this abuse. Tags: youtube , ai , generative-ai , llms , pelican-riding-a-bicycle , ai-misuse",
+      "summary": "Token fraud is here and it\u2019s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial enterprises on top of the ChatPRD agent. I am funding a international Roblox and Fortnite map studio. They run a loop of free trials and promo codes and then tunnel to my agent and use it to build Roblox and Fortnite maps. Apparently one of the common prompts Claire saw running through her agent involved SVGs of pelicans riding bicycles! Presumably the token scammers are using that to help sniff the underlying models - different model families have a definite signature, and I've used it like this in the past to try and guess the identity of stealth preview models on platforms like OpenRouter. Claire is winding down her free trials entirely, which sadly looks like the right decision in the face of this abuse. Tags: youtube , ai , generative-ai , llms , pelican-riding-a-bicycle , ai-misuse",
       "alsoReportedBy": []
     },
     {
@@ -353,7 +355,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "title": "Scaling Linear\u2019s GTM to $100M ARR \u2014 Cristina Cordova, COO",
       "url": "https://latent.space/p/linear-scaling/",
       "source": "Latent Space",
       "category": "ai",
@@ -361,5 +363,7 @@
       "summary": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
       "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 216.0,
+  "voice": "af_heart"
 }
