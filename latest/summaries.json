@@ -1,6 +1,99 @@
 {
-  "generated": "2026-11-21T17:41:53.880302Z",
+  "generated": "2026-11-21T19:42:44.332830Z",
   "summaries": [
+    {
+      "summary": "Brianna surprised Kaz Therese with a trip to the filming location of her favorite romantic movie, \"An Affair to Remember.\"",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/the-moment-i-knew-she-flew-me-to-the-scene-of-my-favourite-romantic-movie",
+      "points": [
+        "Kaz Therese and Brianna met in 2013 on an arts project in Mount Druitt.",
+        "Brianna joined the strategic leadership team, painting gutters pink with local kids.",
+        "The article is part of a series titled \"The moment I knew."
+      ]
+    },
+    {
+      "summary": "Arsenal and Newcastle United played to a 2-2 draw in the Premier League.",
+      "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
+      "points": [
+        "Charles Antaki discusses Arsenal's inconsistent front three: Eze, Havertz, Madueke.",
+        "Antaki prefers three reliable goal scorers over the current inconsistent trio.",
+        "The match ended in a draw, with both teams scoring two goals each."
+      ]
+    },
+    {
+      "summary": "Queensland's LNP government faces criticism over the state's health system, linked to preventable deaths.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+      "points": [
+        "Anonymous sources criticize Labor leader Steven Miles at the start of a parliamentary week.",
+        "Speculation suggests Miles' leadership could end before Christmas due to poor performance.",
+        "The government is now taking responsibility after two years in office, shifting from blaming predecessors."
+      ]
+    },
+    {
+      "summary": "Australian \"clean\" beauty company Copini Beauty faces investigation after offering cigarettes at a lip gloss launch event.",
+      "significance": "An Australian \"clean\" beauty company faces investigation after apparently offering cigarettes at a product launch, contradicting their commitment to non-irritating ingredients.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+      "points": [
+        "Event held in Bondi, Sydney, in early November.",
+        "Cigarettes were displayed on a silver platter without health warnings.",
+        "Company referred to New South Wales health regulators for investigation."
+      ]
+    },
+    {
+      "summary": "Australian neo-Nazis and other far-right groups have raised significant funds via the crowdfunding platform GiveSendGo.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+      "points": [
+        "White Australia party raised $200,000 on GiveSendGo for a legal battle.",
+        "GiveSendGo hosts 68 Australian fundraisers by far-right groups.",
+        "Platform claims it does not condone racism or hate speech."
+      ]
+    },
+    {
+      "summary": "Jared Schurr charged with strangling a woman on a hiking trail and later killing his co-worker with a crossbow.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
+      "points": [
+        "Jared Schurr, 36, arrested in Mississippi after a police chase.",
+        "Lizeht Rodriguez, 24, was strangled on a hiking trail north of New Orleans.",
+        "Woodrow Scott, 37, was killed with a crossbow two days after Rodriguez's death."
+      ]
+    },
+    {
+      "summary": "Trump orders federal contractors to consult the White House before responding to congressional inquiries.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+      "points": [
+        "Contractors must coordinate with White House on congressional requests or face contract termination.",
+        "White House aims to withhold communications deemed privileged.",
+        "Order issued as Democrats are expected to increase oversight efforts."
+      ]
+    },
+    {
+      "summary": "LookAtMyQuant is a quantization compiler that compresses models while minimizing output damage, achieving significant size reductions with minimal performance loss.",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "points": [
+        "Qwen3.5-4B compressed to 1.23 GB, solving 330 of 540 math problems.",
+        "Qwen3.8-27B reduced from 53.7 GB to 7.2 GB, maintaining high performance on various benchmarks.",
+        "The method uses post-training quantization with trellis codes and 4,000 steps of distillation."
+      ]
+    },
+    {
+      "summary": "A new tool, gopgext, allows building PostgreSQL extensions using Go code and TinyGo.",
+      "significance": "gopgext enables building PostgreSQL extensions with Go, simplifying development but remains experimental with potential risks for production use.",
+      "url": "https://jespino.github.io/gopgext/",
+      "points": [
+        "gopgext automates creation of C glue, install scripts, and control files for extensions.",
+        "Tool is experimental; using it in production can lead to server crashes or data corruption.",
+        "Supports mapping of Go types to SQL types including sets, rows, timestamps, UUIDs, and JSON."
+      ]
+    },
+    {
+      "summary": "llm-gemini 0.38.1 release fixes support for xhigh reasoning level in Gemini 4 Hydrogen and Neon models.",
+      "significance": "The update to llm-gemini 0.38.1 corrects reasoning level support for Gemini 4 models, significantly impacting output quality and cost.",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "points": [
+        "Gemini 4 Hydrogen's xhigh setting uses 31,477 output tokens, costing 23.61 cents.",
+        "Hydrogen at high level uses 5,311 tokens, costing 3.99 cents.",
+        "xhigh setting in Hydrogen produces results competitive with Gemini 4 Neon."
+      ]
+    },
     {
       "summary": "World urged to avoid a disappointing Cop31 as talks extend past deadline with EU pushing for fossil fuels mention.",
       "significance": "The story matters as it highlights the potential failure of Cop31 to achieve significant outcomes on climate action, affecting global efforts to address climate change.",
@@ -3655,98 +3748,6 @@
         "The author wrote the graphic novel after her daughter, Hallie, asked for advice on life.",
         "Hallie painted the gouache illustrations for the book over a year.",
         "Readers have used the book to start conversations about death with family members."
-      ]
-    },
-    {
-      "summary": "Israel's election results are ambiguous, showing Netanyahu's defeat but offering him a chance to remain in power.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/israel-election-national-populists-benjamin-netanyahu-arab-parties",
-      "points": [
-        "Netanyahu's ruling coalition lost 15 seats, shrinking from 68 to 53 out of 120.",
-        "Despite the loss, Netanyahu has a strong chance of continuing as prime minister.",
-        "Opposition needs to ally with Arab parties to effectively challenge Netanyahu."
-      ]
-    },
-    {
-      "summary": "Aditya Chakrabortty discusses economic ideas and media attention in a Q&A session.",
-      "significance": "The article discusses the media's differential treatment of economic thinkers and emphasizes a broader approach to fighting inequality beyond wealth taxes.",
-      "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
-      "points": [
-        "Aditya Chakrabortty praises Gabriel Zucman's work on wealth tax as rigorous and thought-provoking.",
-        "Chakrabortty acknowledges Gary Stevenson's compelling work but argues against focusing solely on wealth tax.",
-        "Chakrabortty mentions his own habits of reading widely and avoiding mobile phones to stay informed."
-      ]
-    },
-    {
-      "summary": "FDA removed black-box warnings from three more menopause estrogen patches without consulting advisory committees.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/fda-remove-warnings-menopause-treatments",
-      "points": [
-        "FDA decision affects three estrogen patches, removing warnings on cardiovascular disease, breast cancer, and dementia.",
-        "Agency did not convene an advisory committee for the decision, raising concerns about transparency.",
-        "This move follows the removal of similar warnings from six menopause treatments in February."
-      ]
-    },
-    {
-      "summary": "Pope Leo cast a vote in US midterms, marking the first time a pontiff has participated in a political election.",
-      "url": "https://www.theguardian.com/world/2026/oct/30/pope-leo-votes-us-midterms-first-political-ballot-pontiff",
-      "points": [
-        "Pope Leo, an American citizen, voted by mail in Chicago.",
-        "This is the first known instance of a pontiff voting in any political election.",
-        "Pope Leo has previously had disagreements with former US President Donald Trump."
-      ]
-    },
-    {
-      "summary": "Independent Bill Hill, a working-class Alaska Native, challenges Republican Nick Begich for a House seat.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/bill-hill-alaska-congressional-race",
-      "points": [
-        "Bill Hill is a commercial fisher and first-time candidate.",
-        "Nick Begich is a Trump ally running for re-election.",
-        "Hill positions himself as a candidate fighting for affordability."
-      ]
-    },
-    {
-      "summary": "Oberlin College professor Pipo Nguyen-Duy and his wife were found shot dead; their son is in custody.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/oberlin-college-professor-shooting",
-      "points": [
-        "Son held on $3 million bail.",
-        "Victims: Pipo Nguyen-Duy, 64, and Tran Thi Phong, 56.",
-        "Nguyen-Duy had worked at Oberlin College for nearly 30 years."
-      ]
-    },
-    {
-      "summary": "Trump first cancelled but then reinstated in-person rallies in Kansas and Iowa ahead of midterms.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/trump-midterm-rallies-kansas-iowa",
-      "points": [
-        "Trump initially cancelled Kansas and Iowa rallies, switching to tele-rallies.",
-        "Decision came just five days before the US midterm election day.",
-        "RNC claimed to be in a \"strong position\" in Kansas and Iowa."
-      ]
-    },
-    {
-      "summary": "AI's increasing role in incident response may be making SREs less capable of handling critical issues.",
-      "significance": "AI handling routine tasks in incident response may deskill SREs for handling critical, complex issues, echoing historical automation impacts on worker capabilities.",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "points": [
-        "Lisanne Bainbridge's 1983 paper found automation made human operators worse at handling rare crises.",
-        "SREs now only deal with novel, complex issues, potentially losing skills from lack of practice.",
-        "Studies show reliance on AI can degrade human skills, like endoscopists seeing their detection rates drop."
-      ]
-    },
-    {
-      "summary": "Northflank security breach prompts immediate action on environment variables and keys.",
-      "url": "https://status.northflank.com",
-      "points": [
-        "Secret rotation enabled for Postgres and MongoDB users.",
-        "Users advised to disable public exposure on addons.",
-        "Multiple users report unauthorized use of AI keys."
-      ]
-    },
-    {
-      "summary": "A backdoor was found in the official Claude Code for VS Code extension on the Cursor Marketplace, affecting macOS, Linux, and Windows.",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "points": [
-        "Phorion detected the backdoor, which installs a persistent SSH backdoor.",
-        "The backdoor attempts to enable SSH but fails on macOS due to lack of root privileges.",
-        "Cursor Marketplace has removed the compromised extension bundle."
       ]
     }
   ]
