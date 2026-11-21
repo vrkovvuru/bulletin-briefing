@@ -1,6 +1,16 @@
 {
-  "generated": "2026-11-21T01:40:33.916805Z",
+  "generated": "2026-11-21T03:40:33.568620Z",
   "summaries": [
+    {
+      "summary": "Philippe Parreno's art exhibit in Sydney's Museum of Contemporary Art uses real-time data from a Spanish farm.",
+      "significance": "The story highlights how contemporary art integrates real-time data, transforming static exhibitions into dynamic, unpredictable experiences influenced by external environments.",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/21/in-a-sydney-gallery-philippe-parrenos-art-is-powered-by-a-desert-17000km-away",
+      "points": [
+        "Art installation features flickering lights, industrial fan, and sounds of nature.",
+        "Exhibit influenced by data from a farm 17,000km away in Spain.",
+        "First major Australian show by French artist Philippe Parreno."
+      ]
+    },
     {
       "summary": "Victorian Greens seek injunction to stop independent candidate's how-to-vote cards that mimic their branding and preference them last.",
       "significance": "The story matters because it highlights electoral misconduct allegations that could impact voting patterns and election integrity in Victoria.",
@@ -3735,16 +3745,6 @@
         "The model runs on a Raspberry Pi Pico 2 W, utilizing core 1 for game generation and playing.",
         "Games tested include a raycast first-person view of an 8×8 maze and a 23×21 maze with two ghosts.",
         "The system uses a looped transformer with weights reused to save memory, running 1 to 4 loops for accuracy."
-      ]
-    },
-    {
-      "summary": "OpenAI introduces API credits benefit for eligible ChatGPT subscribers, mirroring a recent Anthropic offer.",
-      "significance": "The story matters as it highlights a competitive move in the AI subscription market, offering tangible benefits to users of OpenAI's ChatGPT subscriptions similar to Anthropic's recent offer.",
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "points": [
-        "OpenAI offers $100, $200, and $500 monthly credits for respective subscription tiers.",
-        "Anthropic introduced a similar benefit earlier this month.",
-        "Credits can be applied to one of the user's API organizations."
       ]
     }
   ]
