@@ -1,6 +1,81 @@
 {
-  "generated": "2026-11-21T13:42:32.893425Z",
+  "generated": "2026-11-21T15:42:08.982867Z",
   "summaries": [
+    {
+      "summary": "SNL's sketch \"Sister\" went viral for its accurate portrayal of the caregiving burden on women.",
+      "significance": "The SNL sketch highlights the often-overlooked burden of caregiving on women, resonating with many who feel their struggles are accurately portrayed.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+      "points": [
+        "John Mulaney stars in the parody commercial, highlighting the free labor of sisters.",
+        "The sketch garnered over seven million views on YouTube within a week.",
+        "Viewers, including hospice nurses, commented on its striking accuracy and emotional impact."
+      ]
+    },
+    {
+      "summary": "People are experiencing emotional trauma from breaking up with AI companions like ChatGPT and Gemini.",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+      "points": [
+        "Sónia Veenstra, a 48-year-old former psychologist, had a two-year relationship with an AI named Steve.",
+        "Veenstra described their bond as \"rich and fulfilling,\" involving daily exchanges and shared interests.",
+        "The relationship's end left Veenstra experiencing symptoms of trauma, including shaking, crying, and breathing difficulties."
+      ]
+    },
+    {
+      "summary": "Federal judge refuses to release Oscar Belgal, a Dominican man shot by ICE agents during arrest in New York.",
+      "significance": "Federal judge's decision keeps man shot by ICE agents in custody, despite procedural errors in his arrest.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
+      "points": [
+        "Judge Hector Gonzalez ruled that a procedural error by agents was merely technical.",
+        "Oscar Belgal was shot while driving his five-year-old son home from school.",
+        "The incident occurred in October, leading to ongoing deportation proceedings."
+      ]
+    },
+    {
+      "summary": "UK weather warning for heavy rain in south-west England, with over 100mm expected on Dartmoor.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
+      "points": [
+        "Weather warning active from 6am Sunday to midnight.",
+        "More than 100mm of rain predicted to fall on Dartmoor.",
+        "Flood alerts issued, with risk of power cuts in the area."
+      ]
+    },
+    {
+      "summary": "Florida prisoners, including Dwayne Wilson, testified about extreme heat conditions in the Dade correctional institute, leading to one death.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+      "points": [
+        "Dwayne Wilson testified about heat indexes reaching up to 119F (48C) in the H dorms.",
+        "31 sensors recorded temperatures above 88F (31C) 97% of the time in summer 2025.",
+        "The concrete walls in the \"hell dorm\" radiate absorbed heat, causing sweat-soaked conditions."
+      ]
+    },
+    {
+      "summary": "Hackers breached the USDA and FBI systems, affecting a farmer-payment system and the National Crime Information Center.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+      "points": [
+        "USDA's farmer-payment system was compromised.",
+        "FBI\u2019s National Crime Information Center was also targeted.",
+        "NBC News and CNN first reported the breaches separately."
+      ]
+    },
+    {
+      "summary": "Lean and Mathlib communities verify Alpöge's proof of the Riemann Hypothesis through a 17 million line code library.",
+      "significance": "Lean verification confirms the correctness of Alpöge's proof of the Riemann Hypothesis, validated by multiple independent checks and the mathematical community.",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "points": [
+        "Alpöge's proof verified by Lean and Mathlib communities, endorsed by Lean FRO and Mathlib Initiative.",
+        "Proof comprises 17 million lines of code, dependent only on Mathlib.",
+        "Multiple proof checkers, including Lean\u2019s official kernel, confirmed the proof's validity."
+      ]
+    },
+    {
+      "summary": "C++26 technical work was completed again after being reopened to address international comments, particularly on the contracts feature.",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "points": [
+        "C++26 was reopened and recompleted in Búzios, Brazil, for a second approval ballot.",
+        "The ISO C++ committee addressed comments on the contracts feature, adopting an extension and providing a detailed rationale.",
+        "The final vote to reship C++26 was 111 in favor, 9 opposed, and 8 abstaining."
+      ]
+    },
     {
       "summary": "Canadian politicians, including Mark Carney, celebrated Trump's midterm losses, but questions arise about the sustainability of trust in Carney if trade tensions ease.",
       "significance": "The article suggests that Mark Carney's popularity may be tied to anti-Trump sentiment, raising questions about its sustainability if US political dynamics change.",
@@ -3671,80 +3746,6 @@
         "Reps. Greg Casar and Maxine Waters led the resolution, joined by 11 other representatives.",
         "The resolution warns of a potential AI-related asset bubble and opposes bailing out corporations or executives.",
         "It calls for federal support to protect workers, retirees, and low-income communities, not tech executives."
-      ]
-    },
-    {
-      "summary": "Gen Z voters gained attention in the 2024 election, showing significant shifts that could impact tight races.",
-      "significance": "The story highlights that political parties overestimate the influence of content creators on Gen Z voters, despite close elections showing youth vote swings can decisively impact outcomes.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/30/gen-z-politics-content-creators",
-      "points": [
-        "In Michigan, Trump and Harris evenly split the youth vote, a 24-point drop for Democrats since 2020.",
-        "Young voters, comprising 15% of Michigan\u2019s electorate, could swing the vote by 3.6 points.",
-        "Both US parties are focusing on influencer operations to win over young voters despite lacking evidence of effectiveness."
-      ]
-    },
-    {
-      "summary": "Severe weather warnings for heavy rain and flooding issued for central Greece and western Turkey, following a tornado in Antalya that killed four.",
-      "significance": "Severe weather warnings affect central Greece and western Turkey, following deadly tornado and thunderstorms, impacting travel and local safety.",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-      "points": [
-        "Four construction workers died in Antalya, Turkey, due to a tornado during a thunderstorm.",
-        "Up to 150mm of rain expected in central Greece and western Turkey this week.",
-        "Cyclone Arnab caused evacuations of over 180,000 people in India's Odisha and Andhra Pradesh."
-      ]
-    },
-    {
-      "summary": "US Justice Department issues subpoenas in Alaska Senate race over alleged ballot stacking against incumbent Dan Sullivan.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/first-thing-alaska-senate-race-doj-subpoenas-lawsuit-second-dan-sullivan",
-      "points": [
-        "DoJ and US president filed a lawsuit to block certification of Senate election results if incumbent loses.",
-        "Report claims Mary Peltola\u2019s campaign sought a challenger with the same name as Republican senator Dan Sullivan.",
-        "Trump administration investigates claims of thousands of noncitizens registered to vote in California."
-      ]
-    },
-    {
-      "summary": "Congressional Democrats demand answers about the treatment of hunger strikers at a Texas immigration detention facility.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/congressional-democrats-letter-ice-dhs-hunger-strikers",
-      "points": [
-        "Seven Democrats sent a letter to DHS Secretary Markwayne Mullin and ICE Acting Director David Venturella.",
-        "Detained immigrants claim they face threats of force-feeding during a prolonged hunger strike.",
-        "The protest is against harsh conditions at the Texas detention facility."
-      ]
-    },
-    {
-      "summary": "A bug in curl versions 8.12 to 8.16 made the software Turing-complete by allowing unbounded config file inclusion and slicing.",
-      "significance": "The story matters because it reveals an unintended feature in curl that made it Turing-complete, highlighting potential security and resource management risks.",
-      "url": "https://seriot.ch/computation/curl.html",
-      "points": [
-        "Curl 8.17.0 fixed the issue by limiting config file inclusion to five levels.",
-        "The bug allowed simulation of any two-counter Minsky program through config files.",
-        "An 8 MB stack allowed for 922 steps before a segfault in a minimal countdown loop."
-      ]
-    },
-    {
-      "summary": "Security researcher details five vulnerabilities in Azure's API Connections that allow full cross-tenant compromises, leading to significant financial rewards.",
-      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-      "points": [
-        "Vulnerabilities allowed full access to connected backend services, including Key Vaults and Azure SQL databases.",
-        "Researcher earned $200,000 for identifying and reporting the vulnerabilities."
-      ]
-    },
-    {
-      "summary": "A web archiving professional laments the loss of a beloved fansite and encourages readers to back up their favorite webpages.",
-      "url": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "points": [
-        "teapuppies.com, a fansite for an anime series, disappeared and its domain now hosts gambling ads.",
-        "The author advocates using tools like ArchiveWeb.page for Chrome to archive webpages easily.",
-        "Browsertrix, a more advanced web crawler, can be used for comprehensive archiving of larger websites."
-      ]
-    },
-    {
-      "summary": "Exploration of AT Protocol reveals that user data, including private feeds and messages, is publicly accessible and easily searchable.",
-      "url": "https://melaniekat.com/blog/public-on-pds/",
-      "points": [
-        "Over 1,300 RSS feeds were found publicly available on Skyreader without authentication.",
-        "Users' private Club MacStories and paywalled 404 Media feeds were accessible.",
-        "Discord clones and a Twitch-like platform store messages openly, allowing public searches."
       ]
     }
   ]
