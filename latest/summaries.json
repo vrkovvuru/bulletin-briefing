@@ -1,6 +1,63 @@
 {
-  "generated": "2026-11-21T03:40:33.568620Z",
+  "generated": "2026-11-21T05:41:52.977534Z",
   "summaries": [
+    {
+      "summary": "Funeral held for Javits Frimpong, a 15-year-old New York teen from Ghana who was shot dead while walking to school.",
+      "significance": "The funeral highlights the impact of gun violence on immigrant communities and the loss of potential in young lives.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
+      "points": [
+        "Javits Frimpong, 15, moved to the US from Ghana a year before his death in October.",
+        "Police identified three teenage suspects, with one already charged with murder.",
+        "Frimpong had aspirations to become a doctor."
+      ]
+    },
+    {
+      "summary": "Zelensky labels Putin a \"killer\" in response to Trump calling him a friend.",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Zelensky stated Putin is a \"killer\" and an enemy to Ukraine.",
+        "Trump mentioned he has a \"great relationship\" with Putin for \"many years.\"",
+        "At least nine people were killed in Russian attacks on Kyiv and railway stations."
+      ]
+    },
+    {
+      "summary": "Kyiv residents remain confident in city infrastructure despite Russian missile attacks on bridges.",
+      "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+      "points": [
+        "Mykola drives his minibus 20 to 24 times daily past holes on Kyiv\u2019s Northern Bridge.",
+        "Only buses are allowed on the damaged Northern Bridge, using one functioning lane.",
+        "Russian ballistic missile attack on Tuesday caused the damage to Kyiv\u2019s bridges."
+      ]
+    },
+    {
+      "summary": "A 17-year-old boy allegedly organized arsons, home invasions, and a kidnapping using Signal during Melbourne's hospitality wars.",
+      "significance": "The story highlights the use of encrypted apps in coordinating criminal activities during Melbourne's hospitality industry conflicts, implicating a teenager as a key organizer.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+      "points": [
+        "Boy used username \u201cOnepercent\u201d on Signal to communicate with offenders",
+        "Actions included arsons, home invasions, and a kidnapping with a victim's finger partially amputated",
+        "The 17-year-old was arrested on Friday afternoon by Victorian police"
+      ]
+    },
+    {
+      "summary": "Man found guilty of two federal arson charges for sparking deadly wildfire in Los Angeles.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+      "points": [
+        "Jonathan Rinderknecht, 30, accused of starting the Palisades fire.",
+        "First trial ended in a hung jury; new trial resulted in guilty verdict.",
+        "Prosecutors presented their case to a new jury for two weeks."
+      ]
+    },
+    {
+      "summary": "Two independent proofs of the Riemann Hypothesis were claimed, one by a human and one with AI assistance.",
+      "significance": "The independent proofs of the Riemann Hypothesis highlight the contrasting approaches between human and AI in solving complex mathematical problems.",
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "points": [
+        "Mathematician Levent Alpöge, with AI Claude, released a Lean code proof (~250,000 page equivalent).",
+        "Alessandro Masullo announced a separate, human-only proof, a 940-page draft.",
+        "Elliot Glazer confirms the Lean code formalizes GRH, with a Lean bug chance <<1%."
+      ]
+    },
     {
       "summary": "Philippe Parreno's art exhibit in Sydney's Museum of Contemporary Art uses real-time data from a Spanish farm.",
       "significance": "The story highlights how contemporary art integrates real-time data, transforming static exhibitions into dynamic, unpredictable experiences influenced by external environments.",
@@ -3689,62 +3746,6 @@
         "Jillian Segal suggests all visa applicants be screened for antisemitic views.",
         "Proposal includes greater oversight of Australia\u2019s public broadcasters.",
         "Segal states the link between media coverage and antisemitism is a public concern."
-      ]
-    },
-    {
-      "summary": "Pico CSS, a minimal CSS framework, is no longer maintained and its repository has been archived.",
-      "significance": "Pico CSS's end marks a shift towards AI-generated, lightweight HTML, reducing the need for minimal CSS frameworks.",
-      "url": "https://github.com/picocss/pico/discussions/754",
-      "points": [
-        "Repository archived on Oct 4, 2026, now read-only.",
-        "AI advancements reduce need for minimal CSS frameworks like Pico.",
-        "Forks must use a different name to avoid confusion with the original."
-      ]
-    },
-    {
-      "summary": "Binance froze at least $2.54 billion in crypto funds due to a potential security issue.",
-      "significance": "This story matters because it highlights a significant security concern in the crypto industry, affecting Binance users and potentially impacting trust in cryptocurrency exchanges.",
-      "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
-      "points": [
-        "Binance, the world\u2019s largest crypto exchange, is investigating a potential security breach.",
-        "Changpeng Zhao, Binance\u2019s founder, suggested the exchange may have been targeted in a cyber heist.",
-        "Binance assured users that their funds are safe and urged caution against scams."
-      ]
-    },
-    {
-      "summary": "In The Traitors, James A makes a bombshell confession after being accused by Michael, revealing a major twist in the series.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "King Kenny uses his double vote power to banish faithfuls Sharon Rooney and Joanne McNally.",
-        "Michael Sheen vows to make life difficult for the traitors, calling it \"apocalypse\" for them."
-      ]
-    },
-    {
-      "summary": "Polymarket halted trading on its international platform for about an hour due to a security incident.",
-      "significance": "The suspension highlights vulnerabilities in using third-party tools and the impact on trading platforms during security incidents.",
-      "url": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
-      "points": [
-        "Security incident involved a third-party performance-monitoring tool.",
-        "Trading resumed on Thursday afternoon after the halt.",
-        "Company promises full reimbursement to any affected traders."
-      ]
-    },
-    {
-      "summary": "Over half of Victorian lawyers use AI, but fee reductions are limited.",
-      "url": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
-      "points": [
-        "55% of lawyers now use AI, up from 37% last year.",
-        "Only 27% have cut client fees due to AI efficiency.",
-        "Lawyers report increased workload from correcting AI errors."
-      ]
-    },
-    {
-      "summary": "A tiny world model generates and plays games on a Raspberry Pi Pico 2 W using two neural networks.",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "points": [
-        "The model runs on a Raspberry Pi Pico 2 W, utilizing core 1 for game generation and playing.",
-        "Games tested include a raycast first-person view of an 8×8 maze and a 23×21 maze with two ghosts.",
-        "The system uses a looped transformer with weights reused to save memory, running 1 to 4 loops for accuracy."
       ]
     }
   ]
