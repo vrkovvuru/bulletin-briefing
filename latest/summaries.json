@@ -1,6 +1,53 @@
 {
-  "generated": "2026-11-21T21:41:01.567110Z",
+  "generated": "2026-11-21T23:41:24.440175Z",
   "summaries": [
+    {
+      "summary": "Iranian president claims the country is enduring a harsh 'silent economic war'.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "points": [
+        "President Masoud Pezeshkian states the economic challenges are tougher than military conflicts.",
+        "No specific details provided on the nature or sources of the economic pressures."
+      ]
+    },
+    {
+      "summary": "Bahrain claims Iran attacked a civilian industrial site near Manama, causing a fire.",
+      "significance": "Bahrain alleges Iran attacked an industrial site, escalating tensions in the region's conflict dynamics.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+      "points": [
+        "Bahrain\u2019s Ministry of Interior reported the attack on an industrial facility.",
+        "Officials issued a 'potential threat' alert, advising calm.",
+        "The attack resulted in a fire at the industrial site near Manama."
+      ]
+    },
+    {
+      "summary": "France will face South Africa in the Nations Championship final after defeating Argentina.",
+      "url": "https://www.theguardian.com/sport/2026/nov/21/france-beat-argentina-to-set-up-nations-championship-final-with-south-africa",
+      "points": [
+        "France defeated Argentina 45-17 in Paris, securing a spot in the final.",
+        "The Nations Championship grand final between France and South Africa is set for next Sunday in London.",
+        "France finished with 26 points, including five wins out of six matches, topping the northern hemisphere table."
+      ]
+    },
+    {
+      "summary": "Man in his 20s found dead on Flinders Island after police officer was shot; officer in serious but stable condition.",
+      "significance": "The death of a man and shooting of a police officer on Flinders Island indicates a serious incident under investigation by Tasmanian authorities.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+      "points": [
+        "Police officer shot at Whitemark police station on Flinders Island at 9:45pm Saturday.",
+        "Officer is in serious but stable condition after the shooting incident.",
+        "Man in his 20s discovered dead near the scene of the shooting."
+      ]
+    },
+    {
+      "summary": "PcapAnalyzer is a free, self-hosted pcap analyzer with 27 problem detectors and optional AI investigation.",
+      "significance": "PcapAnalyzer offers a comprehensive, self-hosted tool for diagnosing network issues, affecting network administrators and security professionals.",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "points": [
+        "Detects issues like firewall blocks, retransmissions, DNS problems, HTTP errors, and security vulnerabilities.",
+        "Runs locally, ensuring captures never leave the user's network and are encrypted.",
+        "Offers AI investigation with user's Anthropic API key, providing follow-up questions and analysis."
+      ]
+    },
     {
       "summary": "Settler violence surges in the occupied West Bank, fueled by impunity, after a settler killed a Palestinian man near Ramallah.",
       "significance": "Impunity for settlers escalates violence against Palestinians in the West Bank, worsening the Israel-Palestine conflict.",
@@ -3702,52 +3749,6 @@
         "Eljay Crisp-Carr, 20, faced over 50 felony charges including 25 counts of attempted murder.",
         "Crisp-Carr spent about five months in jail before charges were dismissed.",
         "The shooting occurred on June 6 at Toledo\u2019s Old West End festival."
-      ]
-    },
-    {
-      "summary": "Sudanese diaspora and human rights groups criticize UAE's nomination of Lana Nusseibeh for UN secretary general role.",
-      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-      "points": [
-        "Critics accuse UAE of fueling Sudan war by backing Rapid Support Forces.",
-        "Nusseibeh denies claims of UAE involvement in Sudan conflict.",
-        "António Guterres will complete his second five-year term this year."
-      ]
-    },
-    {
-      "summary": "BP reports $8.46bn quarterly profit, an 18-year high, amid rising oil prices due to Middle East tensions.",
-      "url": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
-      "points": [
-        "BP's profit almost quadrupled from $2.2bn in the same period last year.",
-        "The $8.46bn profit is the highest since $8.9bn in 2008.",
-        "Climate campaigners criticize the profits as \"obscene\" given the ongoing Middle East conflict."
-      ]
-    },
-    {
-      "summary": "A developer successfully brought up classic Mac OS to the desktop on Nintendo Wii hardware for the first time since the CHRP clone era.",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "points": [
-        "Project started on 2025-06-22 with no AI assistance.",
-        "OpenBIOS was ported to support the Nintendo GameCube, Wii, and Wii U.",
-        "Challenges included fixing assumptions about physical address space and memory-mapped I/O."
-      ]
-    },
-    {
-      "summary": "GitHub experienced service degradation affecting Actions, Pages, and Webhooks, but all services have now recovered.",
-      "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
-      "points": [
-        "All affected services have recovered, though full resolution of impact is pending.",
-        "Degradation affected Actions workflows, Pages deployments, and webhook events.",
-        "Ongoing investigation into the root cause of the incident."
-      ]
-    },
-    {
-      "summary": "npm rejected the package name \"estee\" due to its similarity to \"testem\", highlighting issues with their Levenshtein distance rule.",
-      "significance": "The story highlights the limitations and unintended consequences of npm's Levenshtein distance policy for package naming, affecting developers' ability to register unique package names.",
-      "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
-      "points": [
-        "npm uses a Levenshtein distance threshold of 2 to prevent typosquatting.",
-        "The rule would have also banned \"preact\" due to similarity to \"react\".",
-        "The author suggests manual overrides for such decisions."
       ]
     }
   ]
