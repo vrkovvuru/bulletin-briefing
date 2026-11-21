@@ -1,6 +1,16 @@
 {
-  "generated": "2026-11-20T23:41:00.257602Z",
+  "generated": "2026-11-21T01:40:33.916805Z",
   "summaries": [
+    {
+      "summary": "Victorian Greens seek injunction to stop independent candidate's how-to-vote cards that mimic their branding and preference them last.",
+      "significance": "The story matters because it highlights electoral misconduct allegations that could impact voting patterns and election integrity in Victoria.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+      "points": [
+        "Victorian Greens want supreme court to issue urgent injunction.",
+        "Independent candidate Tosh-Jake Finnigan's cards use Greens' branding.",
+        "Cards instruct voters to preference Greens last, benefiting the Liberal party."
+      ]
+    },
     {
       "summary": "NSW government passes law to increase Mount Pleasant coalmine production by 32% before state election.",
       "significance": "The law affects coal workers' jobs and political dynamics in New South Wales, facing criticism as politically motivated.",
@@ -3735,16 +3745,6 @@
         "OpenAI offers $100, $200, and $500 monthly credits for respective subscription tiers.",
         "Anthropic introduced a similar benefit earlier this month.",
         "Credits can be applied to one of the user's API organizations."
-      ]
-    },
-    {
-      "summary": "DHS requests Icelandic hosting company to remove data on over 40,000 personnel due to security risks.",
-      "significance": "DHS action highlights risk to over 40,000 personnel from leaked data, urging Icelandic hosting company to remove sensitive information.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/29/dhs-personnel-data-leak",
-      "points": [
-        "DHS claims data endangers more than 40,000 individuals to harassment and physical harm.",
-        "Request was made to FlokiNET, an Icelandic hosting company.",
-        "DHS posted the request online for transparency."
       ]
     }
   ]
