@@ -1,6 +1,52 @@
 {
-  "generated": "2026-11-22T15:41:49.363221Z",
+  "generated": "2026-11-22T17:41:48.624802Z",
   "summaries": [
+    {
+      "summary": "Liverpool plays Manchester United in the Premier League with a 4:30 PM GMT kick-off.",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+      "points": [
+        "Kick-off time set for 4:30 PM GMT.",
+        "Ian Copestake expresses mixed feelings about attending the match in Liverpool.",
+        "Copestake mentions needing a break to look after his mother."
+      ]
+    },
+    {
+      "summary": "Theresa May's endorsement of Brexit reminiscent of 2018 stirs discomfort among Conservatives.",
+      "significance": "Theresa May's Brexit advocacy reminds Conservatives of their contentious past, complicating their response to Labour's push for closer EU ties.",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+      "points": [
+        "Andy Burnham's pursuit of closer EU ties challenges Conservatives.",
+        "Conservatives reflexively oppose closer EU ties but face internal conflict."
+      ]
+    },
+    {
+      "summary": "UK taxpayers' holdings in offshore tax havens surpassed £1tn, showing a 10% rise.",
+      "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+      "points": [
+        "HMRC data reveals a 10% increase in offshore holdings from 2022 to 2024.",
+        "TaxWatch thinktank obtained the figures via freedom of information requests.",
+        "Financial centres like Jersey and Panama are among the tax havens involved."
+      ]
+    },
+    {
+      "summary": "The Open Social Web Alliance envisions a decentralized social media infrastructure based on open standards, aiming to break platform monopolies and enhance democratic discourse.",
+      "significance": "The story highlights the potential of an Open Social Web to create a decentralized, interoperable social media ecosystem, affecting user freedom and reducing platform monopolies.",
+      "url": "https://osw-alliance.net/en/",
+      "points": [
+        "By 2028, over 100 million people could use the Open Social Web, connecting through interoperable networks like Mastodon and Eurosky\u2019s Mu.",
+        "The Fediverse, active since 2008, includes over 42,000 instances and 13 million users, while ATmosphere has around 43 million registered accounts.",
+        "The Alliance plans a roadmap with political support, funding, and governance to overcome challenges and establish the OSW by 2027."
+      ]
+    },
+    {
+      "summary": "OpenAI advocates for using perplexity as a metric to measure AI progress and establish safety standards, providing transparency into their own model development.",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "points": [
+        "OpenAI publishes internal perplexity measurements for models like GPT-4 to promote industry-wide safety standards.",
+        "GPT-4, with a log-perplexity of ~0.91, showed proficiency in chain-of-thought reasoning, marking a significant advancement.",
+        "The article suggests that by 2027, AI could produce a similar avalanche of fundamental advancements in deep learning research as seen in mathematics."
+      ]
+    },
     {
       "summary": "The article explores how the wellness industry capitalizes on menopause by promoting unverified products like mushrooms and magnets.",
       "significance": "The story highlights cynical exploitation of menopausal women by the wellness industry, raising questions about the efficacy and motives behind marketed products.",
@@ -3701,53 +3747,6 @@
         "Over 50 million early votes cast, exceeding 2022 totals by nearly 5 million.",
         "Campaign event between Abdul El-Sayed and Haley Stevens in Michigan at risk.",
         "Jason Turkish, Stevens' fiancé, questioned the event's occurrence on Fox News."
-      ]
-    },
-    {
-      "summary": "Star Trek actress Marina Sirtis recounts how she and the cast helped loosen up the serious Patrick Stewart.",
-      "url": "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean",
-      "points": [
-        "Sirtis initially feared Stewart's serious demeanor, having been warned by RSC colleagues.",
-        "The cast made efforts to lighten Stewart's stiff upper lip, typical of his generation.",
-        "Stewart acknowledged the cast's impact, saying they gave him a freedom he hadn't felt before."
-      ]
-    },
-    {
-      "summary": "UK charity shop profits have significantly dropped due to increased competition from online secondhand clothing platforms.",
-      "significance": "UK charity shops face fundraising challenges as profits fall due to increased competition from online secondhand clothing platforms.",
-      "url": "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market",
-      "points": [
-        "Oxfam\u2019s retail profit fell 23% to £4.9m in the last financial year.",
-        "British Heart Foundation describes the current trading as \u2018exceptionally challenging\u2019.",
-        "Rise of platforms like Vinted contributes to the decline in charity shop profits."
-      ]
-    },
-    {
-      "summary": "UK government plans to prioritize long-term preventative spending to ensure future savings.",
-      "url": "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government",
-      "points": [
-        "John Healey\u2019s budget includes decision to protect preventative projects.",
-        "Ringfenced projects cannot be reallocated for immediate needs.",
-        "This approach aims to make future savings outweigh initial costs."
-      ]
-    },
-    {
-      "summary": "Judge Jesse Furman ruled the firing of Maurene Comey, daughter of former FBI director James Comey, unlawful, offering hope against politicized firings.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/maurene-comey-firing-ruling-legal-implications",
-      "points": [
-        "Judge Jesse Furman ruled the Department of Justice's firing of Maurene Comey unlawful.",
-        "Maurene Comey successfully prosecuted high-profile cases like Ghislaine Maxwell and Sean \"Diddy\" Combs.",
-        "Legal experts see the ruling as a check on politicized firings but warn of likely appeal."
-      ]
-    },
-    {
-      "summary": "A new malware named VOLTA uses AI to rank victims based on the monetization value of their assets.",
-      "significance": "This story matters because it introduces a new method of cybercrime where AI ranks victims based on their monetary value, changing how malware prioritizes targets.",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "points": [
-        "VOLTA sends stolen data to an LLM to assess the victim\u2019s worth, categorizing assets into low, medium, or high monetization tiers.",
-        "The malware employs a fallback chain of up to three models to ensure the AI assessment is completed, even if initial models refuse to perform the task.",
-        "VOLTA enriches stolen data by leveraging authenticated sessions to gather additional information, such as order histories from food delivery apps and home addresses from receipts."
       ]
     }
   ]

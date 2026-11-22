@@ -2,39 +2,75 @@
   "date": "2026-11-22",
   "stories": [
     {
-      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
-      "url": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-      "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum&#039;s airport.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "It's Medicare open enrollment time. Here's what you need to know",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+      "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+      "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+      "summary": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+      "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Liverpool v Manchester United: Premier League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Premier League updates from the 4.30pm GMT kick-off Live scores | Latest table | And follow us over on TikTok “Rob ‘Bob’ Smyth, as I live and breathe,” writes Ian Copestake. “Glad this game is in such .... hands. I will miss it, though. I am in the city as I need a break from looking after mother, and I don’t need this stress/catharsis. What I need is a curry, so damn the lot of youse.” For youse are all fu- well, never mind . Continue reading...",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Climate change talks fall apart in final hours over fossil fuels",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+      "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Russell Brand's wife says she'll honour prison rules after message row",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
       "alsoReportedBy": []
     },
     {
@@ -47,15 +83,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-      "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
       "url": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
       "source": "The Guardian",
@@ -65,39 +92,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Oobah Butler: Scams for a Better Tomorrow review – these audacious pranks are tell-your-friends funny",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/22/oobah-butler-scams-for-a-better-tomorrow-review-hbo-max",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Butler is a serious talent. These punchy, pacy shows see him taking on the establishment, industry by industry. He’s like a hipster Robin Hood It feels fitting that on the same weekend Nathan Fielder’s much-discussed You Can See Everything finally arrives in UK cinemas, Oobah Butler: Scams for a Better Tomorrow launches on the small screen. This wildly entertaining show confirms Butler as the British heir to Fielder’s crown as the clown prince of documentary-making. Butler doesn’t even need a gift-wrapped subject like Theranos grifter Elizabeth Holmes. If you enjoy satire that punches upwards at the rich and powerful, you’re in for a riotous treat. If you prefer a ghost-faced buffoon from Birmingham donning fancy dress to run rings around idiots, you’re also in luck. He might have a name like a valet-ordering app, but Oobah Butler is a serious talent. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Great coach, terrible streamer’ – Erasmus gets thumbs-down for his weird watchalong",
-      "url": "https://www.theguardian.com/sport/2026/nov/22/rassie-erasmus-weird-watchalong-south-africa-rugby-union",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "In a hotel conference room, South Africa’s banned coach divides opinion with his Trumpian utterings while watching his team get beaten by Ireland Watchwithrassie.com had been the surprise internet sensation of the week. Logging on a few hours before South Africa kicked off against Ireland on Saturday, one thing was immediately clear. When it came to rugby’s latest scandal – “RassieGate 3.0” as Bryan Habana called it – this was not a place for balanced debate. Rassie Erasmus’s “match-fixing” rant , in the aftermath of the Springboks’ defeat by France in Paris, had caused a depressingly familiar furore and earned him a six-match World Rugby ban. Steve Borthwick and Fabien Galthié, among countless others, had made their views known . Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
-      "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
+      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries Jilly Cooper has been accused of plagiarising the works of two other novelists. The bestselling author’s fifth romance series novel, Prudence, published in 1978, allegedly includes several plagiarised passages from The Serial by Cyra McFadden and The Franchise Affair by Josephine Tey. Continue reading...",
+      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is a reflex action for Conservatives to push back against closer ties with the EU, Andy Burnham’s decision to pursue such a course plunges them back into their own unhappy place. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,12 +110,48 @@
       "alsoReportedBy": []
     },
     {
-      "title": "A grieving family in Lebanon returns to their village",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
-      "source": "NPR World",
+      "title": "UK taxpayers held more that £1tn in offshore tax havens, latest HMRC data shows",
+      "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "In Southern Lebanon, the Army is taking over after Israeli forces withdraw. One grieving family returns to their village to find almost everything in their house destroyed.",
+      "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns about potential losses to the public purse. HM Revenue and Customs (HMRC) data, obtained by the TaxWatch thinktank through freedom of information requests, shows between 2022 and 2024 the value of balances held offshore in tax havens increased by 10%. These were the latest available figures. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
+      "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries Jilly Cooper has been accused of plagiarising the works of two other novelists. The bestselling author’s fifth romance series novel, Prudence, published in 1978, allegedly includes several plagiarised passages from The Serial by Cyra McFadden and The Franchise Affair by Josephine Tey. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "California’s coastal communities on alert as biggest waves in years hit state",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years. Coastal warnings extended from last weekend through this week, with alerts extending until Friday night. Waves of 10-18ft are expected, with local sets of 18-22ft for San Luis Obispo county beaches and Santa Barbara county central coast beaches. These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days. Already, record-breaking rainfall affected San Fransisco on Wednesday, with heavy rain also causing 32,000 customers to lose power in Sacramento. Into this weekend, a further area of low pressure will bring considerable amounts of moisture for southern Oregon and northern California. By Sunday night, more than 100mm (4in) of rain is expected in places, with further snowfall for areas such as Donner Pass across the northern Sierra Nevada mountains. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,44 +182,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Man who killed three during psychotic episode ‘had been released after catalogue of failures’",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Alexander Lewis-Ranwell was arrested and let go twice by police in the 48 hours before he killed three men in their 80s in Exeter A man with paranoid schizophrenia who killed three people while experiencing a psychotic episode had been released from custody after a “catalogue of failures” by police and medical professionals, an investigation has found. Alexander Lewis-Ranwell was arrested and released twice by police in the 48 hours before he killed Anthony Payne, 80, and the twin brothers Roger and Dick Carter, 84, in their homes in Exeter in 2019. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "California’s coastal communities on alert as biggest waves in years hit state",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years. Coastal warnings extended from last weekend through this week, with alerts extending until Friday night. Waves of 10-18ft are expected, with local sets of 18-22ft for San Luis Obispo county beaches and Santa Barbara county central coast beaches. These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days. Already, record-breaking rainfall affected San Fransisco on Wednesday, with heavy rain also causing 32,000 customers to lose power in Sacramento. Into this weekend, a further area of low pressure will bring considerable amounts of moisture for southern Oregon and northern California. By Sunday night, more than 100mm (4in) of rain is expected in places, with further snowfall for areas such as Donner Pass across the northern Sierra Nevada mountains. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Reform deputy leader calls Russian leader ‘a murderous dictator’ after US president appears to endorse him UK politics live – latest updates Reform UK and the Conservatives have distanced themselves from Donald Trump after the US president posted a photo of himself shaking hands with Vladimir Putin with the caption: “My friend.” The US president had already used the term to describe the Russian president while at last week’s Asia-Pacific Economic Cooperation summit in Shenzhen, southern China, where he also met the Chinese president, Xi Jinping. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "title": "Open Social Web Alliance",
+      "url": "https://osw-alliance.net/en/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,6 +218,15 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "NixOS bring-up on an Alibaba RISC-V board",
       "url": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
       "source": "Lobsters",
@@ -233,15 +242,6 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Advice for the next 100 Rust GUIs",
-      "url": "https://linebender.org/blog/next-100-guis/",
-      "source": "Lobsters",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
