@@ -1,6 +1,80 @@
 {
-  "generated": "2026-11-22T17:41:48.624802Z",
+  "generated": "2026-11-22T19:42:18.544580Z",
   "summaries": [
+    {
+      "summary": "Democrats secured at least 258 House seats, marking their largest sweep since 1992.",
+      "significance": "The Democrats' sweep of at least 258 House seats marks their strongest midterm performance since 1992, offering significant governing opportunities and pressure to fulfill campaign promises.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+      "points": [
+        "Democrats gained 44 House seats, surpassing the 40 they won in 2018.",
+        "Chuck Hubbard's victory over Virginia Foxx in North Carolina solidified the milestone.",
+        "The sweep represents the best general election result for Democrats in decades."
+      ]
+    },
+    {
+      "summary": "Datacentre executives met Australian state leaders nearly 120 times in three years, indicating potential undue influence.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+      "points": [
+        "Queensland\u2019s David Crisafulli had 13 meetings, the most of any state leader.",
+        "Transparency International claims this access, along with donations, creates an uneven playing field.",
+        "The analysis covers 10 datacentre companies across five states."
+      ]
+    },
+    {
+      "summary": "Thirty-one NHS trusts warn that cost-cutting demands could impair their ability to provide normal care.",
+      "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
+      "points": [
+        "Thirty-one health service trusts in England declare budget savings threaten normal functioning.",
+        "Trusts may not be able to continue caring for patients due to severe financial shortages.",
+        "Hospitals are forced to make \"unpalatable\" cuts to services and staff to meet budget demands."
+      ]
+    },
+    {
+      "summary": "Incoming House Speaker Hakeem Jeffries outlines Democrats' focus on affordability, healthcare, and immigration, willing to collaborate across the aisle.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
+      "points": [
+        "Democrats seized control of Congress during the 3 November midterms.",
+        "Jeffries aims to address the \"broken\" healthcare and immigration systems.",
+        "Interview with CBS News\u2019s Face the Nation laid out the Democrats' agenda."
+      ]
+    },
+    {
+      "summary": "Mathematician Levent Alpöge claims AI tool Claude helped solve the Riemann hypothesis, verified by two groups.",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "points": [
+        "Levent Alpöge used Claude, Anthropic\u2019s AI, over six weeks.",
+        "Lean Focused Research Organization and Mathlib Initiative verified the solution.",
+        "The Riemann hypothesis is a critical unsolved problem in mathematics."
+      ]
+    },
+    {
+      "summary": "Pip review led by Stephen Timms will recommend overhauling the benefit system rather than scrapping it for under-25s.",
+      "url": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
+      "points": [
+        "Report will be published as soon as Tuesday.",
+        "Contrasts with last week\u2019s Milburn review that suggested partly scrapping the system.",
+        "Andy Burnham faces a politically sensitive decision based on the recommendations."
+      ]
+    },
+    {
+      "summary": "Canada's new budget permanently funds the Local Journalism Initiative and extends a 35% tax credit on newsroom salaries, supporting local news.",
+      "significance": "Canada's commitment to permanent funding and tax credits for newsrooms significantly stabilizes local journalism, offering a model for government support.",
+      "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+      "points": [
+        "Budget allocates $134 million over four years for the Local Journalism Initiative, with $41 million annually afterward.",
+        "35% tax credit on newsroom salaries extended through 2028, costing $501 million over five years.",
+        "Local Journalism Initiative supports about 470 reporting positions in roughly 1,000 communities."
+      ]
+    },
+    {
+      "summary": "An article lists and debunks common assumptions about ATProto, a decentralized social network protocol.",
+      "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+      "points": [
+        "ATProto's handle specification requires at least two segments, each 1-63 characters, with the whole handle up to 253 characters.",
+        "When a user changes their handle, only the domain part can change, not the first part, and the new handle doesn't have to relate to the old one.",
+        "The protocol is case-sensitive for handles but case-insensitive for DID methods, requiring lowercase storage and API usage for handles."
+      ]
+    },
     {
       "summary": "Liverpool plays Manchester United in the Premier League with a 4:30 PM GMT kick-off.",
       "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
@@ -3671,82 +3745,6 @@
         "The vulnerability was discovered in CPUs with Hyper-Threading, introduced in 2002, and disclosed in May 2005.",
         "The scholar faced pressure from Intel but was able to publish due to not being employed by Yahoo or FreeBSD.",
         "The process of responsible disclosure took six months, involving quiet notifications to security teams before public disclosure."
-      ]
-    },
-    {
-      "summary": "Article advises against public functions calling other public functions in software modules to maintain clean API interfaces.",
-      "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
-      "points": [
-        "Functions calling other public functions can lead to interface degradation and unnecessary parameters.",
-        "Making shared implementation private defuses tension between user convenience and internal use.",
-        "Mocking for testing becomes complicated when public functions call other public functions."
-      ]
-    },
-    {
-      "summary": "The article explains how memory latency affects CPU performance, focusing on how cache utilization can significantly impact processing efficiency.",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "points": [
-        "Modern CPUs can process 4-8 instructions per nanosecond, while memory access to RAM can take 50-100ns.",
-        "A naive GROUP BY aggregation can lead to 50.1% of CPU time stalling due to memory latency.",
-        "Using radix partitioning to improve cache utilization can make working HashMaps fit into CPU caches, enhancing performance."
-      ]
-    },
-    {
-      "summary": "Clashes occurred in French cities after large-scale protests over living costs and public services, with some demonstrations turning violent.",
-      "significance": "Clashes highlight ongoing public discontent in France over living costs and services, despite a decline in protest numbers.",
-      "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
-      "points": [
-        "Police used teargas in Germany to disperse crowds as evening fell.",
-        "About 320,000 people participated in French protests, down from 410,000 the previous weekend.",
-        "In Paris, 70,000 protesters marched on outskirts, avoiding the city center."
-      ]
-    },
-    {
-      "summary": "French interior minister warns protesters against using Halloween masks, as demonstrations occur in multiple cities.",
-      "significance": "The story highlights the intersection of protest activities and the use of Halloween masks, leading to legal warnings in France.",
-      "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-      "points": [
-        "Laurent Nuñez warns protesters covering faces with Halloween masks could face fines.",
-        "Protests underway in Paris, Lille, and Lyon, called by two French student unions.",
-        "Student unions have called for a blockade of schools and universities on Tuesday and Thursday."
-      ]
-    },
-    {
-      "summary": "Virginia and DC sue to halt Trump's 250ft memorial arch construction, set to begin next week.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
-      "points": [
-        "Three lawsuits now challenge the monument's construction.",
-        "Arch would be 100ft taller than the Statue of Liberty.",
-        "Monument planned for grass area near Arlington National Cemetery."
-      ]
-    },
-    {
-      "summary": "Over 50.5m Americans have cast early votes in the midterms, surpassing the previous record.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
-      "points": [
-        "More than 50.5m early votes cast as of Saturday morning.",
-        "University of Florida analysis shows nearly 5m more votes than 2022 midterms.",
-        "Democrats outnumber Republicans in states tracking party affiliation."
-      ]
-    },
-    {
-      "summary": "UK Green party ends opposition to nuclear power, allowing support for new reactors on a case-by-case basis.",
-      "significance": "The UK Green party's shift on nuclear power reflects a significant change in its approach to addressing climate change, potentially altering energy policy discussions.",
-      "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
-      "points": [
-        "Green party members voted to assess nuclear projects alongside renewables.",
-        "Carla Denyer states existing nuclear stations could be a low-carbon option.",
-        "Opposition to nuclear was previously rooted in the party\u2019s stance against nuclear weapons."
-      ]
-    },
-    {
-      "summary": "Early midterm voting exceeds 50 million ballots, surpassing 2022 totals; a potential campaign event in Michigan faces uncertainty due to a feud.",
-      "significance": "Early midterm voting exceeds 2022 totals by nearly 5 million ballots, indicating increased electoral engagement.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
-      "points": [
-        "Over 50 million early votes cast, exceeding 2022 totals by nearly 5 million.",
-        "Campaign event between Abdul El-Sayed and Haley Stevens in Michigan at risk.",
-        "Jason Turkish, Stevens' fiancé, questioned the event's occurrence on Fox News."
       ]
     }
   ]

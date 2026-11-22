@@ -2,6 +2,60 @@
   "date": "2026-11-22",
   "stories": [
     {
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+    },
+    {
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Leny Yoro&#039;s red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "CHK_Aber Kawas becomes first Palestinian in New York state Senate history",
+      "url": "https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+      "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Meet the young authors! A literacy program inspires kids in South Africa",
       "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
       "source": "NPR",
@@ -11,39 +65,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
-      "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Liverpool v Manchester United: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Premier League updates from the 4.30pm GMT kick-off Live scores | Latest table | And follow us over on TikTok “Rob ‘Bob’ Smyth, as I live and breathe,” writes Ian Copestake. “Glad this game is in such .... hands. I will miss it, though. I am in the city as I need a break from looking after mother, and I don’t need this stress/catharsis. What I need is a curry, so damn the lot of youse.” For youse are all fu- well, never mind . Continue reading...",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
       "alsoReportedBy": []
     },
     {
@@ -56,33 +83,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-      "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Russell Brand's wife says she'll honour prison rules after message row",
-      "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
       "url": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
       "source": "The Guardian",
@@ -92,12 +92,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+      "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is a reflex action for Conservatives to push back against closer ties with the EU, Andy Burnham’s decision to pursue such a course plunges them back into their own unhappy place. Continue reading...",
+      "summary": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises and priorities. Democrats have gained 44 House seats so far, four more than the 40 they picked up in Donald Trump’s first midterm in 2018. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “just the tip of the iceberg”. Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrate “unfettered access” to decision-makers that creates an “uneven playing field”. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,39 +119,57 @@
       "alsoReportedBy": []
     },
     {
-      "title": "UK taxpayers held more that £1tn in offshore tax havens, latest HMRC data shows",
-      "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns about potential losses to the public purse. HM Revenue and Customs (HMRC) data, obtained by the TaxWatch thinktank through freedom of information requests, shows between 2022 and 2024 the value of balances held offshore in tax havens increased by 10%. These were the latest available figures. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
-      "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries Jilly Cooper has been accused of plagiarising the works of two other novelists. The bestselling author’s fifth romance series novel, Prudence, published in 1978, allegedly includes several plagiarised passages from The Serial by Cyra McFadden and The Franchise Affair by Josephine Tey. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
       "alsoReportedBy": []
     },
     {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
+      "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
+      "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "summary": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normally Dozens of hospitals are so short of money they may not be able to continue caring for patients and are being forced to make “unpalatable” cuts to services and staff, the Guardian can reveal. Thirty-one health service trusts in England have issued stark warnings that NHS demands for them to make huge budget savings this year threaten their ability to function normally. All have declared that as a threat in the register of risks they have to maintain and publish. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems The incoming US House speaker, Hakeem Jeffries , has said he and his fellow Democrats are focused on affordability, expanding healthcare and fixing the “broken” immigration system in the country – and willing to cross the political aisle to do so. Jeffries laid out that agenda in an interview on Sunday with CBS News’s Face the Nation, less than three weeks after Democrats seized control of Congress during the 3 November midterms for the latter half of Donald Trump’s second presidency. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. This story was edited on 22 November 2026 to account for updated information: the Lean Focused Research Organization and the Mathlib Initiative statement claiming to verify the solution was added, and a quote from a prior story from a mathematician was removed, as updates to the news evolved Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Pip review will call for overhaul rather than scrapping benefit for under-25s",
+      "url": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn review A long-awaited review of the personal independence payment (Pip) system will this week recommend that it is overhauled, a week after another report called for it to be partly scrapped. The final report on Pip by a committee co-led by Stephen Timms, the social security minister, is expected to be published as soon as Tuesday, presenting Andy Burnham with one of his most politically sensitive decisions yet as prime minister. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is a reflex action for Conservatives to push back against closer ties with the EU, Andy Burnham’s decision to pursue such a course plunges them back into their own unhappy place. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -155,35 +182,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Experts say ‘trusted messengers’ critical as Amish grapple with measles outbreak",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Unfolding crisis shows importance of ‘human connections’ over the long term – especially in under-vaccinated areas Tristan Sharratt, a family nurse practitioner and public health researcher, began serving an Amish community in central New York almost inadvertently. A friend told an Amish neighbor that Sharratt was accepting new patients and was a good, solid guy. Word spread quickly, and now Sharratt sees many members of the community, which numbers in the hundreds. He is what is called a “trusted messenger” – someone who understands a community and has earned their respect. Other trusted messengers can be neighbors, co-workers, customers, midwives, or people who work as long-distance drivers for the Amish. Connecting with such people will be crucial for ending the measles outbreak and preventing future crises. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
-      "url": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "One serial sweary offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’ Want to get more charts in your inbox every fortnight? Sign up for The Crunch here When Liberal MP Garth Hamilton stormed out of parliament in June, slamming his hands on his desk and calling out “fucking bullshit” the speaker of the house, Milton Dick, called it “a new low” in federal politics. Dick may have been on to something. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australia urged to wean off imported fossil fuels amid global supply shocks",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Grattan Institute report calls on government to ‘seize’ opportunity to cap diesel tax credits, introduce EV subsidies for less wealthy’ and build ‘clean’ refineries Get our daily political email , free app or daily news podcast Capping lucrative diesel tax handouts to big business, building new “clean” refineries and targeting electric vehicle subsidies to less wealthy people could save Australians thousands of dollars in fuel per year, according to a major new report calling on the government to reduce reliance on imported fossil fuels. The Grattan Institute, one of the nation’s most respected thinktanks, has warned Australia imports too much of its fuel, and that the country must brace for more global supply shocks – like that from the war in Iran. Under a plan already attracting criticism from business groups, Grattan urged diesel handouts to mining and primary industries be curbed in favour of incentives for electric trucks and a huge expansion of the EV charging network. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Open Social Web Alliance",
-      "url": "https://osw-alliance.net/en/",
+      "title": "\"A government that 'gets it'\": Canada recommits to federal funding for news",
+      "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -191,9 +191,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://github.com/gulivan/worker755",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
       "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Falsehoods Programmers Believe About ATProto",
+      "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -209,17 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
