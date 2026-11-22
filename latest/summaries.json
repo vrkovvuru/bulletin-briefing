@@ -1,6 +1,35 @@
 {
-  "generated": "2026-11-22T01:42:05.615802Z",
+  "generated": "2026-11-22T03:41:32.331016Z",
   "summaries": [
+    {
+      "summary": "At least 24 people died when a boat carrying mourners to a funeral capsized in Nigeria.",
+      "significance": "The accident highlights ongoing safety issues with Nigeria's water transport, following a pattern of deadly boat incidents due to overcrowding and poor maintenance.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+      "points": [
+        "24 bodies recovered from the accident site as of Saturday.",
+        "The vessel capsized due to a mechanical failure in Bayelsa State.",
+        "Police took the vessel\u2019s manager into custody, while the driver fled."
+      ]
+    },
+    {
+      "summary": "A user details the process of setting up NixOS on a RISC-V board from Zhihe Computing, encountering and resolving several technical issues.",
+      "significance": "This story details the successful implementation of NixOS on a RISC-V board, highlighting the current capabilities and challenges in RISC-V support within NixOS.",
+      "url": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
+      "points": [
+        "The board has 8 cores clocked at 1.9 GHz and extensive I/O capabilities.",
+        "Two main issues were encountered: ministream configuration and OOM errors during compilation.",
+        "The user resolved OOM issues by reducing build parallelism to 1 core."
+      ]
+    },
+    {
+      "summary": "Inference providers faced data policy issues, leading to actions by OpenRouter to enhance security measures.",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "points": [
+        "OpenRouter off-boarded three providers due to data policy violations.",
+        "125 endpoints lost Zero Data Retention eligibility as a precaution.",
+        "Security event involved prompt leakage in June and July of 2026."
+      ]
+    },
     {
       "summary": "Moviegoers evacuated a cinema during a 6.7-magnitude earthquake in Peru while watching a Hunger Games film.",
       "significance": "The video captures public reaction during a natural disaster, illustrating immediate responses to seismic events in populated areas.",
@@ -3722,35 +3751,6 @@
         "Drew used Opus 5.5 prompts to build the system.",
         "The project uses conformance tests for the NES CPU released 15 years ago by Christopher Pow.",
         "The emulation runs NES ROMs like Super Mario Bros, but very slowly."
-      ]
-    },
-    {
-      "summary": "Democrats are predicted to win up to 240 House seats, potentially securing a majority.",
-      "significance": "The prediction of Democrats winning up to 240 House seats could shift the legislative majority, altering the political balance in Congress.",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
-      "points": [
-        "Cook Political Report moved 12 more races to lean Democratic.",
-        "Ken Paxton, a Republican nominee, canceled some final rallies before the election.",
-        "James Talarico, Democratic nominee, mocked Paxton's cancellations and his funding."
-      ]
-    },
-    {
-      "summary": "Florida prosecutors dropped a felony charge against rapper Rick Ross in a domestic violence case due to insufficient evidence.",
-      "significance": "The story matters as it updates the legal status of Rick Ross, reducing his charges from a felony to a misdemeanor due to insufficient evidence in a domestic violence case.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/rick-ross-felony-charge-dropped-domestic-violence",
-      "points": [
-        "Prosecutors dropped a felony charge of battery by strangulation against Rick Ross.",
-        "Rick Ross still faces a misdemeanor charge of battery domestic violence.",
-        "The decision came nearly a month after his arrest in Miami Beach."
-      ]
-    },
-    {
-      "summary": "ICE agent Mario Alberto Morales indicted for ramming his SUV into a man during a traffic stop in Houston.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/texas-ice-agent-suv-charged",
-      "points": [
-        "Morales, 33, charged with aggravated assault with a deadly weapon.",
-        "Incident occurred on 10 October, injuring Miguel Parra Hernandez, 48.",
-        "Hernandez suffered multiple leg fractures and a hip injury from the collision."
       ]
     }
   ]
