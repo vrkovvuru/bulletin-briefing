@@ -1,6 +1,64 @@
 {
-  "generated": "2026-11-21T23:41:24.440175Z",
+  "generated": "2026-11-22T01:42:05.615802Z",
   "summaries": [
+    {
+      "summary": "Moviegoers evacuated a cinema during a 6.7-magnitude earthquake in Peru while watching a Hunger Games film.",
+      "significance": "The video captures public reaction during a natural disaster, illustrating immediate responses to seismic events in populated areas.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+      "points": [
+        "6.7-magnitude earthquake struck Peru on Friday.",
+        "Video captures evacuation during the Hunger Games movie screening.",
+        "Moviegoers rushed out of the cinema in response to the quake."
+      ]
+    },
+    {
+      "summary": "Suffolk village residents voted to symbolically \"leave the UK\" in protest against plans to house asylum seekers nearby.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+      "points": [
+        "257 residents voted for independence, 16 against, and one spoiled ballot.",
+        "Government plans involve housing 930 asylum seekers at a nearby former military base.",
+        "Local MP claims opposition parties are exploiting legitimate concerns to incite racial discord."
+      ]
+    },
+    {
+      "summary": "Victoria faces electricity shortages after Yallourn coal plant closes in 2028, with no adequate plans from major parties.",
+      "significance": "Victoria faces potential power shortages and bill increases post-2028 due to the closure of Yallourn coal plant, with no adequate plans from major parties.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+      "points": [
+        "Yallourn coal plant, supplying 20% of Victoria\u2019s energy, closes in 2028.",
+        "Both Labor and Coalition lack detailed plans to address the power shortfall.",
+        "Experts warn of potential power shortages and increased electricity bills."
+      ]
+    },
+    {
+      "summary": "Rev. Fred Nile, former NSW politician and leader of the rightwing Christian Democratic party, has died at 92.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+      "points": [
+        "Served as a member of the NSW legislative council for over 40 years.",
+        "Entered state\u2019s upper house in 1981 and retired post 2023 election loss.",
+        "Advocated against drug use, abortion, and homosexuality but supported expunging homosexual convictions later."
+      ]
+    },
+    {
+      "summary": "The article discusses the evolving landscape of Rust GUI development, highlighting challenges and advancements in creating high-performance user interfaces.",
+      "significance": "The story highlights the growing viability and interest in using Rust for GUI development, driven by performance needs and AI advancements, affecting developers and the future of GUI applications.",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "points": [
+        "Zed editor, built on GPUI framework, demonstrates the practicality of Rust UI.",
+        "Discord is among the projects adopting Rust for UI, particularly GPUI for desktop.",
+        "Text layout and accessibility have seen significant improvements, with solutions like AccessKit now widely used."
+      ]
+    },
+    {
+      "summary": "Muru Graham Dumpleton introduces Muru, an AI-assisted Rust server for Python web applications, detailing its development over three weeks.",
+      "significance": "Muru, an AI-assisted Rust server for Python apps, aims to improve upon mod_wsgi, offering better tools for both development and production, as detailed by its creator over three weeks.",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "points": [
+        "Muru aims to serve ASGI and WSGI Python apps, building on Dumpleton's 20 years of experience with mod_wsgi.",
+        "Dumpleton published 20 detailed updates on Muru's development between November 4 and November 21, 2026.",
+        "The project emphasizes AI assistance, with Dumpleton focusing on refining and ensuring trustworthiness."
+      ]
+    },
     {
       "summary": "Iranian president claims the country is enduring a harsh 'silent economic war'.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
@@ -3693,62 +3751,6 @@
         "Morales, 33, charged with aggravated assault with a deadly weapon.",
         "Incident occurred on 10 October, injuring Miguel Parra Hernandez, 48.",
         "Hernandez suffered multiple leg fractures and a hip injury from the collision."
-      ]
-    },
-    {
-      "summary": "BeOS, a multimedia-focused OS for Power Macintoshes, is now available on Infinite Mac, showcasing its speed and unique features.",
-      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "points": [
-        "BeOS was considered by Apple for acquisition as a next-generation OS.",
-        "The OS faced compatibility issues with DingusPPC, requiring numerous bug fixes.",
-        "BeOS DR8.3, the first version for Power Macs, had a time bomb preventing boot after April 1, 1997."
-      ]
-    },
-    {
-      "summary": "Kim Jong Un visits a drone exhibition, calling for North Korea to achieve \"absolute superiority\" in drone technology.",
-      "significance": "North Korea aims to enhance military drone capabilities under Kim Jong Un's directive, signaling potential advancements in unmanned aircraft technology.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
-      "points": [
-        "Kim Jong Un urges measures to boost unmanned aircraft development in North Korea.",
-        "The visit highlights North Korea\u2019s latest military technology, focusing on drones.",
-        "The leader aims for North Korea to lead in drone capabilities."
-      ]
-    },
-    {
-      "summary": "North Korea's nuclear program is partly funded by sophisticated cryptocurrency hacking.",
-      "significance": "Crypto hacking significantly funds North Korea\u2019s nuclear program, generating about half of its foreign currency income.",
-      "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
-      "points": [
-        "North Korea generates half of its foreign currency income through crypto theft.",
-        "The Lazarus Group, also known as TraderTraitor, is linked to a $6.3bn Binance hack.",
-        "North Korea operates outside the world\u2019s economic system, using hacking for funds."
-      ]
-    },
-    {
-      "summary": "Illegal gold mining in Johannesburg's outskirts continues unabated, harming local wildlife and land.",
-      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-      "points": [
-        "Cora Bailey has witnessed illegal mining near Roodepoort since 1991.",
-        "Increased gold prices have led to more activity in abandoned mine shafts.",
-        "Zama zamas, meaning \"to take a chance\" in Zulu, operate near a local animal welfare charity."
-      ]
-    },
-    {
-      "summary": "Scotland and Wales's first ministers assert local devolution decisions are for their parliaments, not Westminster.",
-      "url": "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham",
-      "points": [
-        "John Swinney and Rhun ap Iorwerth met with Andy Burnham in Glasgow.",
-        "Talks focused on employment and reindustrialisation powers.",
-        "Downing Street described the discussions as constructive."
-      ]
-    },
-    {
-      "summary": "Ohio prosecutors dropped charges against Eljay Crisp-Carr, arrested in connection with a festival shooting that wounded 12.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
-      "points": [
-        "Eljay Crisp-Carr, 20, faced over 50 felony charges including 25 counts of attempted murder.",
-        "Crisp-Carr spent about five months in jail before charges were dismissed.",
-        "The shooting occurred on June 6 at Toledo\u2019s Old West End festival."
       ]
     }
   ]

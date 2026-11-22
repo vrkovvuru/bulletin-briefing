@@ -2,12 +2,21 @@
   "date": "2026-11-21",
   "stories": [
     {
-      "title": "Iran faces a ‘silent economic war’, says Iranian president",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "title": "Moviegoers head for the exits as quake strikes Peru",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Iran faces a ‘silent economic war’, says Iranian president",
+      "summary": "Moviegoers head for the exits as quake strikes Peru",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Clashes erupt across France in another night of protest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
       "alsoReportedBy": []
     },
     {
@@ -20,22 +29,31 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Bahrain says Iranian attack hits industrial facility",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Bahrain says Iranian attack hits industrial facility",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Google employees protest AI in schools policy",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Highlights and challenges from covering an historic month in South America",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+      "alsoReportedBy": []
     },
     {
       "title": "France beat Argentina to set up Nations Championship final with South Africa",
@@ -43,7 +61,7 @@
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "England face All Blacks rematch Ireland take on Australia France and South Africa will contest the inaugural Nations Championship grand final next Sunday in London, while England will face an immediate rematch with the All Blacks next Saturday. Les Bleus defeated Argentina 45-17 in Paris, ultimately overwhelming the Pumas with five second-half tries and seven overall at the Stade de France. They confirmed top spot in the northern hemisphere table with the required bonus-point win, finishing on 26 points with five wins out of six. England (five bonus points) and Ireland (four bonus points) also won five matches, but finish second and third respectively. Continue reading...",
+      "summary": "England face All Blacks rematch in third-place game Ireland take on Australia to decide fifth spot France and South Africa will contest the inaugural Nations Championship grand final next Sunday in London, while England will face an immediate rematch with the All Blacks next Saturday. Les Bleus defeated Argentina 45-17 in Paris, ultimately overwhelming the Pumas with five second-half tries and seven overall at the Stade de France. They confirmed top spot in the northern hemisphere table with the required bonus-point win, finishing on 26 points with five wins out of six. England (five bonus points) and Ireland (four bonus points) also won five matches, but finish second and third respectively. Continue reading...",
       "alsoReportedBy": ["BBC News"]
     },
     {
@@ -56,39 +74,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "The moment I knew: She flew me to the scene of my favourite romantic movie",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/the-moment-i-knew-she-flew-me-to-the-scene-of-my-favourite-romantic-movie",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Kaz Therese had always loved An Affair to Remember. A few months into their relationship, Brianna surprised her with a magical gift Find more stories from the moment I knew series Brianna and I met in 2013 on an arts project I was developing in Mount Druitt, the region I grew up in, in western Sydney. It was a site-specific work for young people, and Brianna became part of the strategic leadership team, which ultimately meant she was painting gutters pink with the local kids until 9pm each night. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australia hold on for narrow win against Wales",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
+      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’ Residents of a Suffolk village have voted to “leave the UK” in a referendum held in response to government plans to house 930 asylum seekers at a nearby former military base. Approximately 500 people in Barnham were eligible to take part in the symbolic vote on Saturday. There were 257 votes for independence, 16 against and one spoiled ballot. Continue reading...",
+      "alsoReportedBy": ["BBC News"]
+    },
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "alsoReportedBy": []
     },
     {
@@ -101,21 +110,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Highlights and challenges from covering an historic month in South America",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "alsoReportedBy": []
     },
     {
@@ -128,21 +128,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+      "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition Get our breaking news email , free app or daily news podcast An on-duty police officer has been shot and a man found dead nearby as police investigate two firearm incidents in a tiny Tasmanian town. The officer was working at Whitemark police station on Flinders Island, north-east of the island of Tasmania, when he was shot at about 9.45pm on Saturday night. Continue reading...",
+      "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Victoria’s electricity supply will be at risk when a major power plant shuts in 2028 and neither major party is offering a plan at this month’s state election to deal with it, experts have warned. All parties concede the giant Yallourn coal plant, which has operated in the Latrobe Valley since the 1970s and supplies a fifth of Victoria’s energy, is at the end of its functional life and will shut in less than two years. Analysts say the parties vying to run the state are failing to properly explain how they will fill the power shortfall the closure will create. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "California’s coastal communities on alert as biggest waves in years hit state",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+      "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years. Coastal warnings extended from last weekend through this week, with alerts extending until Friday night. Waves of 10-18ft are expected, with local sets of 18-22ft for San Luis Obispo county beaches and Santa Barbara county central coast beaches. These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days. Already, record-breaking rainfall affected San Fransisco on Wednesday, with heavy rain also causing 32,000 customers to lose power in Sacramento. Into this weekend, a further area of low pressure will bring considerable amounts of moisture for southern Oregon and northern California. By Sunday night, more than 100mm (4in) of rain is expected in places, with further snowfall for areas such as Donner Pass across the northern Sierra Nevada mountains. Continue reading...",
+      "summary": "Controversial figure frequently took positions against drug use, abortion and homosexuality, but in later years supported legislation expunging homosexual convictions Get our daily political email , free app or daily news podcast The former New South Wales MP and longstanding figurehead of the rightwing Christian Democratic party, the Rev Fred Nile, has died aged 92. Nile was a member of the NSW legislative council for more than 40 years. He first entered the state’s upper house in 1981 and retired after unsuccessfully contesting the 2023 election. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -155,30 +155,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
       "alsoReportedBy": []
     },
     {
-      "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andrew's University.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Race to replant five South African baobabs after export blocked",
-      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+      "title": "California’s coastal communities on alert as biggest waves in years hit state",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia. The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover. The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions. Continue reading...",
+      "summary": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years. Coastal warnings extended from last weekend through this week, with alerts extending until Friday night. Waves of 10-18ft are expected, with local sets of 18-22ft for San Luis Obispo county beaches and Santa Barbara county central coast beaches. These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days. Already, record-breaking rainfall affected San Fransisco on Wednesday, with heavy rain also causing 32,000 customers to lose power in Sacramento. Into this weekend, a further area of low pressure will bring considerable amounts of moisture for southern Oregon and northern California. By Sunday night, more than 100mm (4in) of rain is expected in places, with further snowfall for areas such as Donner Pass across the northern Sierra Nevada mountains. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition Get our breaking news email , free app or daily news podcast An on-duty police officer has been shot and a man found dead nearby as police investigate two firearm incidents in a tiny Tasmanian town. The officer was working at Whitemark police station on Flinders Island, north-east of the island of Tasmania, when he was shot at about 9.45pm on Saturday night. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -191,13 +191,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": []
+      "alsoReportedBy": ["Hacker News"]
     },
     {
       "title": "TODOs JJ Style",
@@ -218,13 +218,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": ["Hacker News"]
+      "alsoReportedBy": []
     },
     {
       "title": "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)",
@@ -263,12 +263,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "source": "Hacker News",
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process. Here's everything he's published so far, all in the last three weeks: 2026-11-04 — Twenty years of mod_wsgi, and what comes next 2026-11-05 — A first look at Muru 2026-11-07 — Muru: looking inside the workers 2026-11-08 — Muru: how it fits together 2026-11-09 — Muru: import once, fork many 2026-11-10 — Muru: HTTPS in development 2026-11-11 — Muru: WSGI and ASGI together 2026-11-11 — AI as a lifestyle choice 2026-11-12 — Muru: releases, not restarts 2026-11-13 — Muru: canaries without a service mesh 2026-11-14 — Muru: a better tenant in a container 2026-11-15 — Muru: working with Kubernetes, not around it 2026-11-16 — Muru: scaling from what the workers report 2026-11-17 — Muru: scaling to zero 2026-11-18 — Muru: overlays on a schedule 2026-11-19 — Muru: noticing and responding 2026-11-20 — Muru: a toolbar on every page 2026-11-21 — Muru: tracing in the toolbar That post about AI as a lifestyle choice is particularly worth a read: The AI may be doing a lot of the work on the surface, but deciding what isn't good enough yet is still down to me, and twenty years of getting things wrong with mod_wsgi turns out to be useful for that. I am prepared to put in the hard work to keep polishing Muru until it is something I would trust, and something you would too. Tags: graham-dumpleton , modwsgi , python , wsgi , ai , rust , asgi , generative-ai , llms , ai-assisted-programming",
       "alsoReportedBy": []
     },
     {
@@ -281,15 +290,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Quoting Ravi Vakil",
-      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. — Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags: mathematics",
-      "alsoReportedBy": []
-    },
-    {
       "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
       "url": "https://latent.space/p/formal-verification/",
       "source": "Latent Space",
@@ -299,21 +299,21 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Quoting Ravi Vakil",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. — Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags: mathematics",
+      "alsoReportedBy": []
+    },
+    {
       "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
       "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "llm-gemini 0.38.1",
-      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at high used 5,311 output tokens and cost 3.99 cents, but the same model at xhigh used 31,477 output tokens, cost 23.61 cents, and produced a pelican that's competitive with Gemini 4 Neon: Tags: gemini , llm , llm-reasoning , pelican-riding-a-bicycle , ai , llms , google , generative-ai",
       "alsoReportedBy": []
     },
     {
@@ -344,12 +344,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Token fraud is here and it’s BAD (YouTube)",
-      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "title": "llm-gemini 0.38.1",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commercial enterprises on top of the ChatPRD agent. I am funding a international Roblox and Fortnite map studio. They run a loop of free trials and promo codes and then tunnel to my agent and use it to build Roblox and Fortnite maps. Apparently one of the common prompts Claire saw running through her agent involved SVGs of pelicans riding bicycles! Presumably the token scammers are using that to help sniff the underlying models - different model families have a definite signature, and I've used it like this in the past to try and guess the identity of stealth preview models on platforms like OpenRouter. Claire is winding down her free trials entirely, which sadly looks like the right decision in the face of this abuse. Tags: youtube , ai , generative-ai , llms , pelican-riding-a-bicycle , ai-misuse",
+      "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at high used 5,311 output tokens and cost 3.99 cents, but the same model at xhigh used 31,477 output tokens, cost 23.61 cents, and produced a pelican that's competitive with Gemini 4 Neon: Tags: gemini , llm , llm-reasoning , pelican-riding-a-bicycle , ai , llms , google , generative-ai",
       "alsoReportedBy": []
     },
     {
