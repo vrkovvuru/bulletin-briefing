@@ -2,30 +2,57 @@
   "date": "2026-11-21",
   "stories": [
     {
-      "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
-      "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+      "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/first-images-of-mexican-cartel-boss-el-chapo-isidro-after-arrest?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Police say the boat driver fled and the vessel’s manager was taken into custody.",
+      "summary": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
       "alsoReportedBy": []
     },
     {
-      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+      "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
+      "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Israeli forces continue to destroy residential buildings as part of a &#039;gradual displacement&#039; policy, a Gaza mayor says.",
+      "summary": "Sudan&#039;s displacement crisis could worsen with winter approaching.",
       "alsoReportedBy": []
     },
     {
-      "title": "Bessent confirms he’s living on US military base over Iran fears",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "title": "The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/22/donald-trump-vladimir-putin-europe-ukraine-strongmen",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Europe’s future will be fought over at the ballot box and on Ukraine’s frontline. The danger is that the two strongmen ultimately reap the benefits On the facade of Stenbock House, the Estonian prime minister’s neoclassical office building on a hill in Tallinn, sits a plaque commemorating the murder of 10 heads of government. They were all killed by Soviet forces after the USSR’s invasion of Estonia in 1940. For 51 years, Estonia was occupied by its imperial neighbour; for the past 25 years it has lived independently in its shadow. For the politicians and government officials who work at Stenbock House, the plaque is a constant reminder of the risk the small Baltic nation (population 1.4 million) faces from a neighbour 100 times its size. Steve Bloomfield is a Guardian international affairs commentator Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "ICE agents detain two people at Seattle airport",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+      "summary": "Masked ICE agents detained two people on a crowded airport jet bridge in Seattle as passengers were boarding a flight.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The real people finding their work copied and stolen by AI characters",
+      "url": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.",
       "alsoReportedBy": []
     },
     {
@@ -47,42 +74,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Highlights and challenges from covering an historic month in South America",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "France beat Argentina to set up Nations Championship final with South Africa",
-      "url": "https://www.theguardian.com/sport/2026/nov/21/france-beat-argentina-to-set-up-nations-championship-final-with-south-africa",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "England face All Blacks rematch in third-place game Ireland take on Australia to decide fifth spot France and South Africa will contest the inaugural Nations Championship grand final next Sunday in London, while England will face an immediate rematch with the All Blacks next Saturday. Les Bleus defeated Argentina 45-17 in Paris, ultimately overwhelming the Pumas with five second-half tries and seven overall at the Stade de France. They confirmed top spot in the northern hemisphere table with the required bonus-point win, finishing on 26 points with five wins out of six. England (five bonus points) and Ireland (four bonus points) also won five matches, but finish second and third respectively. Continue reading...",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’ Residents of a Suffolk village have voted to “leave the UK” in a referendum held in response to government plans to house 930 asylum seekers at a nearby former military base. Approximately 500 people in Barnham were eligible to take part in the symbolic vote on Saturday. There were 257 votes for independence, 16 against and one spoiled ballot. Continue reading...",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
       "title": "How a teen gamer and his mother helped rescue a missing girl",
       "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -92,12 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+      "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the lead-up to the country’s key university entrance exams. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, when the top scorer in a national tax accountant exam confessed to using a miniature camera and smartphone to achieve a near-perfect score, just four days before the crucial university entrance exam known as the suneung. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -110,12 +101,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "alsoReportedBy": []
     },
     {
@@ -128,39 +119,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Man found dead on Flinders Island believed to have been shot by officer, police say",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The sergeant, who was shot, fired his weapon a number of times after alleged ‘targeted’ attack outside island’s police station Get our breaking news email , free app or daily news podcast A police officer who was shot outside a remote Tasmanian police station is alleged to have shot and killed his attacker in response to what authorities believe was a “targeted” incident. Tasmania police deputy commissioner, Jonathan Higgins, said the sergeant had just come off shift at Whitemark police station on Flinders Island, which is north-east of the Tasmanian mainland. He had parked and gotten out of his police vehicle when he was shot at about 9.45pm on Saturday, Higgins told reporters on Sunday. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate from handing out how to vote cards that mimic their branding and urge people to preference it last. The decision has been welcomed by the party’s leader, Ellen Sandell, who said the flyers distributed by people wearing the exact same colour shirts as genuine Greens volunteers had already misled voters. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "alsoReportedBy": []
     },
     {
-      "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+      "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Victoria’s electricity supply will be at risk when a major power plant shuts in 2028 and neither major party is offering a plan at this month’s state election to deal with it, experts have warned. All parties concede the giant Yallourn coal plant, which has operated in the Latrobe Valley since the 1970s and supplies a fifth of Victoria’s energy, is at the end of its functional life and will shut in less than two years. Analysts say the parties vying to run the state are failing to properly explain how they will fill the power shortfall the closure will create. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
+      "summary": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill Get our breaking news email , free app or daily news podcast The twin brother of a man whose body lay undiscovered for 12 days after he was killed in a suspected hit and run in Sydney says it has left him feeling like half a person. Joshua Howard was last seen at a bus interchange in Parramatta, in western Sydney, about 10pm on 7 November. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -173,12 +146,48 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+      "title": "Man found dead on Flinders Island believed to have been shot by officer, police say",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Controversial figure frequently took positions against drug use, abortion and homosexuality, but in later years supported legislation expunging homosexual convictions Get our daily political email , free app or daily news podcast The former New South Wales MP and longstanding figurehead of the rightwing Christian Democratic party, the Rev Fred Nile, has died aged 92. Nile was a member of the NSW legislative council for more than 40 years. He first entered the state’s upper house in 1981 and retired after unsuccessfully contesting the 2023 election. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "summary": "The sergeant, who was shot, fired his weapon a number of times after alleged ‘targeted’ attack outside island’s police station Get our breaking news email , free app or daily news podcast A police officer who was shot outside a remote Tasmanian police station is alleged to have shot and killed his attacker in response to what authorities believe was a “targeted” incident. Tasmania police deputy commissioner, Jonathan Higgins, said the sergeant Michael Preshaw had just come off shift at Whitemark police station on Flinders Island, which is north-east of the Tasmanian mainland. He had parked and gotten out of his police vehicle when he was shot at about 9.45pm on Saturday, Higgins told reporters on Sunday. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that triggered widespread panic in the city of Guasave. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate from handing out how to vote cards that mimic their branding and urge people to preference it last. The decision has been welcomed by the party’s leader, Ellen Sandell, who said the flyers distributed by people wearing the exact same colour shirts as genuine Greens volunteers had already misled voters. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -189,15 +198,6 @@
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
-    },
-    {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": ["Hacker News"]
     },
     {
       "title": "TODOs JJ Style",
@@ -218,17 +218,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": []
+      "alsoReportedBy": ["Hacker News"]
     },
     {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "source": "Hacker News",
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
