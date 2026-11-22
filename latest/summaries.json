@@ -1,6 +1,52 @@
 {
-  "generated": "2026-11-22T19:42:18.544580Z",
+  "generated": "2026-11-22T21:41:49.860066Z",
   "summaries": [
+    {
+      "summary": "A Russian warship sank in Benghazi, Libya, after a suspected Ukrainian sea drone attack.",
+      "significance": "The sinking of the Russian warship in Benghazi escalates tensions in the conflict, highlighting the expanding reach of drone attacks attributed to Ukraine.",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "points": [
+        "The Merkury, a Russian navy corvette, was struck and sank.",
+        "The attack occurred during the early hours of Sunday.",
+        "The vessel was docked to refuel and take on supplies."
+      ]
+    },
+    {
+      "summary": "Labor plans to extend PBS medicine price freeze until 2030; Cop summit ends without final agreement on climate policy.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "points": [
+        "Labor extends PBS medicine price freeze until 2030.",
+        "Cop summit fails to reach final agreement on climate policy.",
+        "Increased defence engagement seen between Australia, Japan, and the Philippines."
+      ]
+    },
+    {
+      "summary": "US intelligence chief Jay Clayton says he trusts Trump's description of Putin as 'my friend'.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+      "points": [
+        "Clayton made the remarks during media appearances on Sunday.",
+        "Trump posted a photo captioned \"My Friend\" after meeting Putin in China.",
+        "The characterization of Putin as a friend faced backlash at home and abroad."
+      ]
+    },
+    {
+      "summary": "The article explores the bird species in GTA 6's open world, focusing on Vice City's wildlife and the game's birding mechanics.",
+      "significance": "The story matters as it highlights the detailed wildlife, particularly birds, in GTA 6, offering a unique aspect beyond its typical gameplay for both bird enthusiasts and gamers.",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "points": [
+        "GTA 6 features at least 60 bird species, including Whooping Cranes and Red-cockaded Woodpeckers.",
+        "Players can \"study\" birds using in-game binoculars, adding them to the Progress menu.",
+        "The game includes some avian inaccuracies, such as common endangered species, but maintains some geographic fidelity to South Florida."
+      ]
+    },
+    {
+      "summary": "Nyx, an oldest internet service provider, offers free Linux shell accounts and supports small businesses with free web hosting.",
+      "url": "https://nyx.net/",
+      "points": [
+        "Recent updates include changes to the system's SSH host key and permitted algorithms.",
+        "Nyx now provides free web hosting for small businesses needing assistance."
+      ]
+    },
     {
       "summary": "Democrats secured at least 258 House seats, marking their largest sweep since 1992.",
       "significance": "The Democrats' sweep of at least 258 House seats marks their strongest midterm performance since 1992, offering significant governing opportunities and pressure to fulfill campaign promises.",
@@ -3698,53 +3744,6 @@
         "1,700 residents were in Oleshky itself, with up to 6,000 in the surrounding areas.",
         "A humanitarian ceasefire, brokered by Melania Trump, allowed 750 evacuees to leave via 25 buses.",
         "Evacuees faced extreme conditions, including eating garden weeds and crossing minefields to survive."
-      ]
-    },
-    {
-      "summary": "Danni Smith's first date with Kev revealed unexpected compatibility despite their contrasting attitudes towards travel.",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/the-moment-i-knew-he-loved-to-travel-i-had-a-fear-of-flying-i-expected-him-to-skol-his-beer-and-wish-me-well",
-      "points": [
-        "In September 2023, Danni, 59, sought romance after a year of being divorced.",
-        "Danni has anxiety about traveling, while Kev values travel highly.",
-        "They met at a bar in a bayside suburb of Melbourne for drinks."
-      ]
-    },
-    {
-      "summary": "Prime Minister Albanese faces discontent in his Grayndler electorate over a government proposal allowing AI companies to scrape online content created by Australians.",
-      "significance": "Potential changes to copyright laws are angering the large creative community in Albanese's electorate, Grayndler.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
-      "points": [
-        "Proposal allows AI companies to scrape all online content created by Australians.",
-        "Grayndler has over 3,000 cultural and creative businesses.",
-        "10% of Grayndler workers are in cultural and creative fields, compared to 4.2% nationally."
-      ]
-    },
-    {
-      "summary": "A YouTube clone called HackerTube was created, featuring videos recommended by users on Hacker News.",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "points": [
-        "Opus 5.5 processed 40K comments to curate 6,454 YouTube videos recommended on HN.",
-        "Videos span 150 topics and were recommended from 2007-2026.",
-        "The site offers custom recommendations without user accounts, using local browser sessions."
-      ]
-    },
-    {
-      "summary": "Linux fixed a critical use-after-free bug in its TCP handshake, affecting multiple kernel versions and distributions.",
-      "significance": "This story matters because it highlights a critical vulnerability (CVE-2026-98432) in Linux kernels that could allow remote attackers to execute commands as root, affecting numerous Linux distributions and servers.",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "points": [
-        "Linux stable kernels released fixes on October 11 and 15, 2026, for CVE-2026-98432.",
-        "The bug allows a remote, unauthenticated attacker to potentially execute commands as root on servers with a multipath TCP listener.",
-        "As of October 29, Ubuntu and Red Hat still list their kernels as vulnerable, with no fix available for Ubuntu and Red Hat's RHEL 8, 9, and 10."
-      ]
-    },
-    {
-      "summary": "A scholar details the process of responsibly disclosing a security vulnerability in Intel CPUs, prioritizing public safety over personal career.",
-      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "points": [
-        "The vulnerability was discovered in CPUs with Hyper-Threading, introduced in 2002, and disclosed in May 2005.",
-        "The scholar faced pressure from Intel but was able to publish due to not being employed by Yahoo or FreeBSD.",
-        "The process of responsible disclosure took six months, involving quiet notifications to security teams before public disclosure."
       ]
     }
   ]

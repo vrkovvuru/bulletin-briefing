@@ -2,22 +2,40 @@
   "date": "2026-11-22",
   "stories": [
     {
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
-    },
-    {
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "alsoReportedBy": ["BBC News", "Al Jazeera"]
+    },
+    {
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel. The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern government. Continue reading...",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "Fire breaks out at popular tourist hotspot in Zanzibar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/fire-breaks-out-at-popular-tourist-hotspot-in-zanzibar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A fire tore through six hotels and dozens of shops in Nungwi, a popular tourist hotspot in Zanzibar.",
+      "alsoReportedBy": []
     },
     {
       "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
@@ -29,21 +47,21 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "CHK_Aber Kawas becomes first Palestinian in New York state Senate history",
-      "url": "https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+      "title": "Liverpool 4-0 Manchester United: Five key takeaways for Pochettino",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+      "summary": "United suffer their worst result under a new manager in 100 years as Liverpool cruise past Mauricio Pochettino&#039;s side.",
       "alsoReportedBy": []
     },
     {
-      "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
-      "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Alcaraz outplays Zverev for first ATP Finals triumph",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
+      "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
       "alsoReportedBy": ["The Guardian"]
     },
     {
@@ -65,15 +83,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Climate change talks fall apart in final hours over fossil fuels",
       "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
       "source": "NPR",
@@ -83,30 +92,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
-      "url": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Where women see hot flushes and brain fog, pharmaceutical companies see dollar signs. But are products like lion’s mane mushrooms or even magnets for knickers really helping them? Or is it all just a big capitalist con? ‘Tequila?” says a woman brightly, proffering a pink plastic shot glass. It’s barely 10.30 on a Saturday morning, and my perimenopause wellness journey is not going entirely as expected. We are standing in a neon-lit London conference centre amid the hubbub of Pause Live , billed as the UK’s biggest annual women’s health and menopause event and essentially a consumer fair for those in midlife. All around me, women are sampling free squirts of menthol lotion (supposed to cool hot flushes) and paper thimblefuls of slightly grainy, sweet latte made with powdered Peruvian maca root instead of coffee. The tequila, it turns out, is a gift from the sponsors, with no miracle ingredients beyond alcohol. But stalls offer everything from neck creams to pelvic-floor trainers, mindfulness journals and hairpieces for disguising thinning locks, plus herbal supplements in every conceivable edible form: chocolate truffles, ginger shots, mushroom coffee. ( Fungi are big news in the menopause wellness world, often touted as an answer to brain fog. Though at best the scientific jury is still out, Ocado searches for lion’s mane mushrooms more than quadrupled after an episode of Clarkson’s Farm in which Jeremy Clarkson’s partner, Lisa Hogan, persuaded him to grow them to make supplements, claiming that “everyone who’s anyone” is on them.) Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+      "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises and priorities. Democrats have gained 44 House seats so far, four more than the 40 they picked up in Donald Trump’s first midterm in 2018. Continue reading...",
+      "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+      "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “just the tip of the iceberg”. Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrate “unfettered access” to decision-makers that creates an “uneven playing field”. Continue reading...",
+      "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appearances on Sunday Jay Clayton, the US director of national intelligence, said he trusts Donald Trump “completely” after the US president called Vladimir Putin “a friend” during their recent meeting in China. Clayton made the remarks on Sunday, where he was pressed during media appearances on Trump’s warm characterization of the Russian president – who is viewed as a chief US adversary – following his trilateral summit with Putin and China’s Xi Jinping. After a backlash at home and aboard, Trump doubled down on Saturday and posted a photo of himself and Putin shaking hands with the caption “My Friend.” Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -128,6 +128,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises and priorities. Democrats have gained 44 House seats so far, four more than the 40 they picked up in Donald Trump’s first midterm in 2018. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “just the tip of the iceberg”. Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrate “unfettered access” to decision-makers that creates an “uneven playing field”. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
       "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
       "source": "Guardian World",
@@ -146,33 +164,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. This story was edited on 22 November 2026 to account for updated information: the Lean Focused Research Organization and the Mathlib Initiative statement claiming to verify the solution was added, and a quote from a prior story from a mathematician was removed, as updates to the news evolved Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Pip review will call for overhaul rather than scrapping benefit for under-25s",
-      "url": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn review A long-awaited review of the personal independence payment (Pip) system will this week recommend that it is overhauled, a week after another report called for it to be partly scrapped. The final report on Pip by a committee co-led by Stephen Timms, the social security minister, is expected to be published as soon as Tuesday, presenting Andy Burnham with one of his most politically sensitive decisions yet as prime minister. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-      "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking they had woken up in around 2018 – and not being especially pleased at the idea. This is one of the problems now facing May’s party. For all that it is a reflex action for Conservatives to push back against closer ties with the EU, Andy Burnham’s decision to pursue such a course plunges them back into their own unhappy place. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "California’s coastal communities on alert as biggest waves in years hit state",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
       "source": "Guardian World",
@@ -182,8 +173,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "\"A government that 'gets it'\": Canada recommits to federal funding for news",
-      "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. This story was edited on 22 November 2026 to account for updated information: the Lean Focused Research Organization and the Mathlib Initiative statement claiming to verify the solution was added, and a quote from a prior story from a mathematician was removed, as updates to the news evolved Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "url": "https://nyx.net/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,12 +227,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "NixOS bring-up on an Alibaba RISC-V board",
-      "url": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
+      "title": "We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
-      "summary": "",
+      "summary": "Over the last year and a half, we've interviewed mathematematicians about AI in math. \"How would you feel if AI produced a Lean-verified proof of the Riemann hypothesis, incomprehensible to humans?\" was one common question. Here's what they said. Comments",
       "alsoReportedBy": []
     },
     {
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://github.com/gulivan/worker755",
+      "title": "What Happened to Silicon Valley?",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
