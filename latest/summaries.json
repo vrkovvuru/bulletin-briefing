@@ -1,6 +1,63 @@
 {
-  "generated": "2026-11-22T21:41:49.860066Z",
+  "generated": "2026-11-22T23:41:56.818440Z",
   "summaries": [
+    {
+      "summary": "Most world governments rejected a meaningless agreement at Cop31 in Antalya, standing against big fossil fuel producers.",
+      "significance": "Most of the world\u2019s governments rejected a meaningless agreement at Cop31, marking a stand against major fossil fuel producers.",
+      "url": "https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement",
+      "points": [
+        "Countries refused an agreement that barely acknowledged the climate emergency.",
+        "Saudi Arabia's influence as a fossil fuel producer requires special attention.",
+        "Australia's role as co-chair was deemed ineffective and not to be repeated."
+      ]
+    },
+    {
+      "summary": "Australian music journalist and broadcaster Molly Meldrum died at 83.",
+      "significance": "Molly Meldrum's death marks the loss of a key figure in promoting Australian music globally and nurturing local talent.",
+      "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
+      "points": [
+        "Meldrum died peacefully in a Melbourne hospital on Monday.",
+        "He was known for promoting Australian music internationally.",
+        "Tributes have been paid by numerous artists including Human Nature and Jason Donovan."
+      ]
+    },
+    {
+      "summary": "Australia's climate minister faces criticism over fossil fuels disagreement at UN climate talks in Turkey.",
+      "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
+      "points": [
+        "Anthony Albanese dismissed criticisms over not naming fossil fuels in his UN speech.",
+        "Disagreement over fossil fuels was deemed an unbridgeable issue at the talks.",
+        "Chris Bowen, Australia\u2019s climate change minister, will face criticism for his role."
+      ]
+    },
+    {
+      "summary": "GitHub Actions accepts invalid YAML, complicating workflow parsing.",
+      "significance": "This story highlights a technical limitation in GitHub Actions, affecting users who rely on YAML for workflow configurations, making parsing difficult due to invalid YAML acceptance.",
+      "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+      "points": [
+        "YAML flow-style nodes must be indented more than parent block collections.",
+        "GitHub's underlying parser likely accepts non-conforming YAML.",
+        "Updating to the newest parser version doesn't solve the issue due to YAML's test suite limitations."
+      ]
+    },
+    {
+      "summary": "A guide to setting up local AI models like Qwen and Inkling on personal hardware for private use.",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "points": [
+        "Qwen3.8-27B with 4-bit quantization fits on a 32GB RTX 5090 with room for context.",
+        "Unsloth Desktop simplifies setup, requiring no terminal commands or subscriptions.",
+        "Inkling 2 Mini, released November 17, 2026, is a 26.4B parameter model fitting on 32GB cards."
+      ]
+    },
+    {
+      "summary": "Gliver, a live-hackable desktop environment written in Guile Scheme, offers a customizable and exploratory user experience but has some missing features.",
+      "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+      "points": [
+        "Gliver uses Guile Scheme, the same language as Guix, to encourage users to understand and modify its code.",
+        "The default theme is customizable, but black and white are the default colors.",
+        "Some expected UI features, like prompts for launching shell commands, are not yet implemented."
+      ]
+    },
     {
       "summary": "A Russian warship sank in Benghazi, Libya, after a suspected Ukrainian sea drone attack.",
       "significance": "The sinking of the Russian warship in Benghazi escalates tensions in the conflict, highlighting the expanding reach of drone attacks attributed to Ukraine.",
@@ -3688,62 +3745,6 @@
         "Datasette Agent can now be used without explicitly setting a default model.",
         "Previous setup required specifying a model with -s plugins.datasette-agent.default_model gpt-6-astra.",
         "Release includes a minor update to the datasette-llm plugin."
-      ]
-    },
-    {
-      "summary": "Protestors clashed with police in Albania, throwing petrol bombs and stones amid demands for the Prime Minister's resignation.",
-      "significance": "The story highlights ongoing political unrest in Albania, affected by weeks of violent protests demanding the resignation of the Prime Minister.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
-      "points": [
-        "Protestors hurled petrol bombs and paving stones at police.",
-        "Clashes are part of weeks of violent protests led by students.",
-        "Prime Minister Edi Rama is demanded to resign by the protestors."
-      ]
-    },
-    {
-      "summary": "Binance, the world's largest cryptocurrency exchange, covers 90% of the $6.3bn lost in a suspected North Korean hack.",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Binance pledged to cover 100% of losses, setting aside over $6.34bn.",
-        "FBI suspects North Korea's Lazarus Group, also known as TraderTraitor.",
-        "Binance aims to resume withdrawal services on Sunday, November 1st."
-      ]
-    },
-    {
-      "summary": "Understanding anime dialogue requires knowing more words than coverage percentages suggest.",
-      "significance": "The story highlights the discrepancy between word recognition coverage and actual line comprehension in anime, affecting language learners' expectations.",
-      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
-      "points": [
-        "Knowing 500 most common words in Frieren allows understanding only 38.4% of lines.",
-        "Serial Experiments Lain requires 1,191 words for 95% coverage but only 77.5% line comprehension.",
-        "Increasing vocabulary from 500 to 1,000 words improves line understanding by 22.1 points."
-      ]
-    },
-    {
-      "summary": "Researchers have identified that regular power checks by large-scale battery storage systems cause 60-second fluctuations in electricity demand in power grids.",
-      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-      "points": [
-        "Dirk Witthaut's team from Forschungszentrum Jülich found that battery storage systems check their state of charge every minute, leading to measurable fluctuations.",
-        "The phenomenon is not limited to Europe but is observed globally, with Ireland's 1-minute signal amplitude quadrupling from 2016 to 2021.",
-        "Randomizing the timing of these power checks could mitigate the issue of increased wear and tear on hydroelectric power station turbines."
-      ]
-    },
-    {
-      "summary": "Qatar rejected Israel's allegations of election interference in the upcoming 2026 election.",
-      "significance": "The rejection of Israel\u2019s allegations by Qatar escalates diplomatic tensions between the two nations, affecting regional politics and relations.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
-      "points": [
-        "Qatar called Israel's allegations a disinformation campaign.",
-        "The controversy surrounds Israel\u2019s election scheduled for 2026."
-      ]
-    },
-    {
-      "summary": "Evacuees from Russian-occupied Oleshky describe life under occupation as horrific and compare their departure to escaping hell.",
-      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "1,700 residents were in Oleshky itself, with up to 6,000 in the surrounding areas.",
-        "A humanitarian ceasefire, brokered by Melania Trump, allowed 750 evacuees to leave via 25 buses.",
-        "Evacuees faced extreme conditions, including eating garden weeds and crossing minefields to survive."
       ]
     }
   ]
