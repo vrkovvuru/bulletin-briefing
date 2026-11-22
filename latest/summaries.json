@@ -1,6 +1,71 @@
 {
-  "generated": "2026-11-22T13:43:14.661001Z",
+  "generated": "2026-11-22T15:41:49.363221Z",
   "summaries": [
+    {
+      "summary": "The article explores how the wellness industry capitalizes on menopause by promoting unverified products like mushrooms and magnets.",
+      "significance": "The story highlights cynical exploitation of menopausal women by the wellness industry, raising questions about the efficacy and motives behind marketed products.",
+      "url": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
+      "points": [
+        "Wellness event in London offers products ranging from tequila shots to mushroom coffee.",
+        "Lion\u2019s mane mushrooms saw a 400% increase in searches after a Clarkson\u2019s Farm episode.",
+        "Products like magnets for underwear are marketed to alleviate menopause symptoms without scientific backing."
+      ]
+    },
+    {
+      "summary": "Oobah Butler's new show \"Scams for a Better Tomorrow\" satirically targets industries and the powerful, promising entertaining and provocative content.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/22/oobah-butler-scams-for-a-better-tomorrow-review-hbo-max",
+      "points": [
+        "Show launches on TV, likening Butler to Nathan Fielder in documentary-making style",
+        "Butler satirizes the rich and powerful without needing high-profile subjects",
+        "Described as wildly entertaining with audacious pranks that are highly amusing"
+      ]
+    },
+    {
+      "summary": "Jilly Cooper accused of plagiarizing works of two contemporaries in her 1978 novel, Prudence.",
+      "significance": "The accusation of plagiarism against bestselling author Jilly Cooper could redefine perceptions of her work and influence literary standards on originality.",
+      "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
+      "points": [
+        "Accusations involve similarities in dialogue and narrative structure.",
+        "Alleged plagiarism from Cyra McFadden's The Serial and Josephine Tey's The Franchise Affair.",
+        "Cooper's novel Prudence, part of her fifth romance series, published in 1978."
+      ]
+    },
+    {
+      "summary": "Trusted messengers are crucial in addressing the measles outbreak in an Amish community in central New York.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
+      "points": [
+        "Tristan Sharratt, a nurse practitioner, became a trusted messenger after a friend's referral.",
+        "Sharratt now serves hundreds of members in the Amish community.",
+        "Trusted messengers can include neighbors, co-workers, and long-distance drivers."
+      ]
+    },
+    {
+      "summary": "Australian parliament sets a new record for swearing, with MPs like Jacqui Lambie defending the use of profanity.",
+      "url": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
+      "points": [
+        "Jacqui Lambie argues swearing is part of Australian parliament tradition.",
+        "Garth Hamilton stormed out, shouting \"fucking bullshit,\" deemed a \"new low\" by Speaker Milton Dick.",
+        "The incident occurred in June, highlighting the rising trend of swearing in parliament."
+      ]
+    },
+    {
+      "summary": "Report urges Australia to reduce fossil fuel imports and invest in electric vehicles and clean refineries.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
+      "points": [
+        "Grattan Institute recommends capping diesel tax credits for businesses.",
+        "Proposal includes subsidies for electric vehicles aimed at less affluent individuals.",
+        "Plan suggests building new refineries that operate with cleaner technologies."
+      ]
+    },
+    {
+      "summary": "A browser game lets players act as subagents for an AI manager, completing tasks within a 90-second timeframe.",
+      "url": "https://github.com/gulivan/worker755",
+      "points": [
+        "Players interact with real LLMs like Claude, GPT, and Gemini.",
+        "Free shifts are available with a starter credit, while additional shifts cost between $10 to $200.",
+        "The game uses a secure system where AI model keys are only sent to the game server when a shift starts."
+      ]
+    },
     {
       "summary": "A Russian cargo ship, the Sparta II, hit by a drone attack in the Gulf of Finland, remains on fire as rescue efforts continue.",
       "significance": "War spilling into Baltic Sea; attack on Russia-bound ship highlights conflict's geographic expansion and involvement of multiple nations in rescue efforts.",
@@ -3683,72 +3748,6 @@
         "VOLTA sends stolen data to an LLM to assess the victim\u2019s worth, categorizing assets into low, medium, or high monetization tiers.",
         "The malware employs a fallback chain of up to three models to ensure the AI assessment is completed, even if initial models refuse to perform the task.",
         "VOLTA enriches stolen data by leveraging authenticated sessions to gather additional information, such as order histories from food delivery apps and home addresses from receipts."
-      ]
-    },
-    {
-      "summary": "The Kluever Maneuver suggests doing bugfixes in two commits to avoid false confidence in fixes.",
-      "url": "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
-      "points": [
-        "Suggests writing a test for bad behavior before fixing the bug.",
-        "Example given: age check function only considers years, not months or days.",
-        "Technique avoids situation where a test passes incorrectly, giving false confidence in a fix."
-      ]
-    },
-    {
-      "summary": "Starmer urges UK to strengthen ties with Europe due to changing US relationship.",
-      "significance": "Starmer argues UK must strengthen European ties due to a lasting change in US reliability under Trump.",
-      "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
-      "points": [
-        "Starmer warns European leaders about threats from Russia and others.",
-        "Former PM claims US becoming less reliable partner post-Trump presidency.",
-        "He argues the shift in US relations won't revert post-Trump."
-      ]
-    },
-    {
-      "summary": "A new coding harness named Prospero is introduced, designed to be more efficient and less resource-intensive than existing options.",
-      "significance": "Prospero offers a lean, efficient coding harness that uses fewer resources without sacrificing features, affecting developers and AI model users.",
-      "url": "https://nullprogram.com/blog/2026/10/31/",
-      "points": [
-        "Prospero requires fewer resources than other harnesses without sacrificing features.",
-        "Users must integrate their own model providers like OpenRouter or OpenAI API.",
-        "Prospero supports vision capabilities, allowing interaction with GUI applications directly."
-      ]
-    },
-    {
-      "summary": "A customer support case details a user experiencing a black screen, highlighting Windows' safety features and troubleshooting.",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
-      "points": [
-        "Holding a PC's power button for 12 seconds forces a hardware-level shutdown.",
-        "After 8 seconds, Windows takes a kernel dump for error reporting.",
-        "A black screen can result from setting all display colors to black."
-      ]
-    },
-    {
-      "summary": "A report on ParticleDB 1.1.4 through 1.1.18.11.rc-22 reveals 96 issues, including crashes and data anomalies, despite claims of \"Full ACID\" compliance.",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "points": [
-        "96 issues identified, including crashes, deadlocks, and data loss.",
-        "By version 1.1.18.11.rc-22, all but ten issues were resolved.",
-        "ParticleDB still allowed internal anomalies and lost updates in committed transaction mode."
-      ]
-    },
-    {
-      "summary": "US cities like Henderson, Kentucky, are reviving Día de los Muertos celebrations after canceling them in 2025, despite ongoing ICE arrests.",
-      "significance": "Día de los Muertos celebrations resume in US cities, providing joy and cultural connection amid ongoing ICE arrests.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/dia-de-los-muertos-ice-arrests",
-      "points": [
-        "Julia, a 19-year-old US-born individual, and her undocumented immigrant parents from Mexico, attend the celebrations.",
-        "The family sells traditional Mexican holiday foods like aguas frescas, horchatas, and sweet bread at the event.",
-        "Julia's family built an ofrenda in 2023 to honor her grandfather, who died in Mexico and was a violinist."
-      ]
-    },
-    {
-      "summary": "Paris has heightened security with increased police presence and barricades.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss",
-      "points": [
-        "Police are patrolling and setting up barricades throughout Paris.",
-        "Streets are being blocked and security checks are being conducted.",
-        "No specific dates or reasons for the increased security measures are provided."
       ]
     }
   ]
