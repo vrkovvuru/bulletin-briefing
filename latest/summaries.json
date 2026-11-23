@@ -1,6 +1,54 @@
 {
-  "generated": "2026-11-23T21:41:01.143500Z",
+  "generated": "2026-11-23T23:41:56.545780Z",
   "summaries": [
+    {
+      "summary": "Congressman Jimmy Gomez will resign after an ethics panel found substantial evidence of sexual misconduct against a House staffer.",
+      "significance": "The resignation of Jimmy Gomez follows an ethics panel's findings of sexual misconduct, impacting Congressional standards and behavior.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+      "points": [
+        "House ethics report found Gomez made unwelcome sexual advances on two occasions.",
+        "Gomez, a California Democrat, lost his re-election bid and will step down.",
+        "The 19-page report detailed incidents including sexual contact and forceful behavior."
+      ]
+    },
+    {
+      "summary": "Stalwart 1.2.0 now fully supports Microsoft Exchange protocols, allowing it to serve as a direct replacement for Exchange.",
+      "significance": "Stalwart provides a viable alternative to Microsoft Exchange for organizations seeking data sovereignty and avoiding migration to Microsoft's cloud.",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "points": [
+        "Stalwart implements MAPI over HTTP, EWS, Exchange ActiveSync, and Autodiscover.",
+        "Microsoft's Exchange Server support ends in October 2026, pushing users towards Exchange Online.",
+        "Stalwart supports major clients like Outlook, Apple Mail, and mobile mail apps without client changes."
+      ]
+    },
+    {
+      "summary": "Levent Alpöge clarifies that his claimed proof of the Riemann Hypothesis involved a joke about the length of the proof and discusses the reception and his approach.",
+      "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
+      "points": [
+        "Alpöge joked about a 250,000+ page proof, which was misunderstood by the public.",
+        "He mentions Tao's advice against joking in papers, noting his own Big Lebowski reference.",
+        "Alpöge emphasizes that complex arguments are inputs for defining mathematical objects, suggesting current setups might be flawed."
+      ]
+    },
+    {
+      "summary": "Research shows VP is a proper subset of VNP for circuits in every field, though it does not settle the P vs NP question.",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "points": [
+        "VP is a proper subset of VNP, and VNP is not contained in the closure of VP.",
+        "The result was discovered by an AI model named Claude.",
+        "The paper and its Lean 4 formalization were both written by AI models,未经人类数学家验证。"
+      ]
+    },
+    {
+      "summary": "A new Datasette plugin, datasette-charts 0.1a0, offers advanced data visualization capabilities.",
+      "significance": "The new Datasette plugin enables comprehensive data visualization by considering all rows, enhancing data analysis capabilities beyond previous limitations.",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "points": [
+        "The plugin supports multiple chart types using D3, Observable Plot, and topojson-client.",
+        "It processes all rows in a dataset, unlike previous plugins that only handled up to 100 rows.",
+        "Charts are customizable and their state can be shared via URL fragments."
+      ]
+    },
     {
       "summary": "Australian Treasurer Jim Chalmers announces a budget update that will save more than it spends, avoiding drastic cuts.",
       "significance": "The story highlights the Australian government's plan to achieve a budget surplus without drastic cuts, affecting fiscal policy and public spending.",
@@ -3698,54 +3746,6 @@
         "69 people died, including 54 Spaniards, in Europe\u2019s deadliest rail incident this century.",
         "Four US citizens were among the deceased, along with individuals from Canada, Japan, and others.",
         "Forensics teams are identifying victims, some from body parts, causing distress to relatives."
-      ]
-    },
-    {
-      "summary": "Trump attacked Abdul El-Sayed as a \"jihadist\" at an Iowa rally to influence the Senate race.",
-      "significance": "Trump's racist remarks against El-Sayed aim to influence a critical Senate race, potentially impacting party control of the Senate.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
-      "points": [
-        "Trump labeled El-Sayed a \"jihadist\" during his speech in Iowa.",
-        "The comments aim to impact a close Senate race crucial for party control.",
-        "Trump also praised Haley Stevens for endorsing Mike Rogers."
-      ]
-    },
-    {
-      "summary": "A user on Hacker News seeks recommendations for a privacy-respecting TV in the 60\u201d to 80\u201d range with 4k display and at least 60Hz refresh rate.",
-      "significance": "The story highlights the challenges and methods users employ to maintain privacy when selecting and modifying smart TVs.",
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "points": [
-        "One user recommends buying a \"dumb TV\" and connecting it to a trusted PC, but notes that truly dumb TVs are hard to find in larger sizes.",
-        "Another user bought a Google TV-based TCL, disconnected its WiFi antenna, and manually uninstalled apps to minimize privacy risks.",
-        "The discussion highlights concerns about TVs phoning home and collecting data, even when not explicitly connected to the internet."
-      ]
-    },
-    {
-      "summary": "Trump's campaign event in Iowa was initially canceled but later proceeded as he makes final pushes before Election Day.",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
-      "points": [
-        "Four largest US cities had Black mayors at end of 2022 due to Black Lives Matter movement.",
-        "Only Karen Bass remains as Black mayor among the four largest US cities.",
-        "Karen Bass faces challenge from Nithya Raman, a member of Democratic Socialists of America."
-      ]
-    },
-    {
-      "summary": "The Nationals' Matt Canavan to run for a lower house seat in Queensland, potentially facing off against One Nation\u2019s James Ashby.",
-      "significance": "The Nationals' Matt Canavan's run for a lower house seat follows Michelle Landry's retirement and may lead to a showdown with One Nation\u2019s James Ashby.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
-      "points": [
-        "Matt Canavan will contest the Capricornia seat vacated by retiring MP Michelle Landry.",
-        "The move could lead to a showdown with One Nation\u2019s national director, James Ashby.",
-        "Canavan\u2019s decision comes ahead of the next federal election in Australia."
-      ]
-    },
-    {
-      "summary": "All nine people on a business jet that crashed in a Florida neighborhood have died.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
-      "points": [
-        "Learjet 60 crashed near a busy roadway in Palm Beach county at 12:50pm.",
-        "The aircraft had departed from Austin-Bergstrom international airport, heading to the Bahamas.",
-        "US Transportation Secretary Sean Duffy called the incident a \"horrific tragedy."
       ]
     }
   ]
