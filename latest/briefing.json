@@ -2,6 +2,15 @@
   "date": "2026-11-22",
   "stories": [
     {
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "alsoReportedBy": ["BBC News", "Al Jazeera"]
+    },
+    {
       "title": "Democrats win largest House majority since 1992 with North Carolina seat",
       "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
       "source": "Al Jazeera",
@@ -11,13 +20,31 @@
       "alsoReportedBy": ["BBC News"]
     },
     {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+      "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at &#039;grave risk&#039;, WHO warns.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "alsoReportedBy": ["BBC News", "Al Jazeera"]
+      "summary": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+      "alsoReportedBy": []
     },
     {
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
@@ -26,24 +53,6 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-      "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel. The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern government. Continue reading...",
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
@@ -74,21 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump to host private dinner for largest owners of his meme coin",
-      "url": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Sunday&#039;s dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest rivals and Pochettino’s despair is complete. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -119,7 +119,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Australian politics live: Tehan says Bowen should resign over Cop; Taylor pays tribute to ‘kind, gentle’ Meldrum",
+      "title": "Australian politics live: PM’s staff numbers exceed crossbench’s allocation combined; Minns ends presser after heckling",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
       "source": "Guardian World",
       "category": "world",
@@ -128,12 +128,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
-      "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Beau Lamarre-Condon ‘executed’ Jesse Baird and Luke Davies then lied about it, prosecution argues",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and more remember music industry great Ian ‘Molly’ Meldrum – obituary Molly Meldrum, the Australian music journalist, broadcaster and producer, has died at the age of 83. He died peacefully in the early hours of Monday morning at a hospital in Melbourne, his longtime friend and manager Mark Klemens confirmed to the Guardian. Continue reading...",
+      "summary": "Crown urges jury to reject accused’s claim of self-defence and find him guilty of murdering Sydney couple Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon is a “proven and persistent liar” and the evidence in his double murder trial shows the deaths of Jesse Baird and Luke Davies could only have been an “execution”, a court has been told. Lamarre-Condon is accused of fatally shooting the Sydney couple with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,24 +155,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
-      "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turkey last week, the Australian prime minister, Anthony Albanese, dismissed criticisms that he hadn’t managed to name the problem that is overwhelmingly driving catastrophic global heating – burning fossil fuels. “You could pick out any number of things that were not in what was a short speech,” he later said. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appearances on Sunday Jay Clayton, the US director of national intelligence, said he trusts Donald Trump “completely” after the US president called Vladimir Putin “a friend” during their recent meeting in China. Clayton made the remarks on Sunday, where he was pressed during media appearances on Trump’s warm characterization of the Russian president – who is viewed as a chief US adversary – following his trilateral summit with Putin and China’s Xi Jinping. After a backlash at home and aboard, Trump doubled down on Saturday and posted a photo of himself and Putin shaking hands with the caption “My Friend.” Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "California’s coastal communities on alert as biggest waves in years hit state",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
       "source": "Guardian World",
@@ -173,36 +164,27 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+      "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
+      "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Milestone reached Sunday after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina Democrats have won their largest majority in the House in more than three decades after Chuck Hubbard defeated Republican representative Virginia Foxx in North Carolina on Sunday, extending the blue wave that swept the US midterms and increasing pressure on the party to deliver its promises to US voters. House Democrats have secured at least 258 seats in a midterm election sweep unseen since 1992, gaining 44 House seats so far, four more than the 40 they picked up in Donald Trump’s first midterm in 2018. Continue reading...",
+      "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turkey last week, the Australian prime minister, Anthony Albanese, dismissed criticisms that he hadn’t managed to name the problem that is overwhelmingly driving catastrophic global heating – burning fossil fuels. “You could pick out any number of things that were not in what was a short speech,” he later said. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
+      "title": "Race to replant five South African baobabs after export blocked",
+      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia. The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover. The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions. Continue reading...",
       "alsoReportedBy": []
     },
     {
       "title": "GitHub Actions accepts invalid YAML",
       "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
       "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -218,8 +200,26 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Falsehoods Programmers Believe About ATProto",
-      "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Gliver completes the Guix desktop",
+      "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,12 +263,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Gliver completes the Guix desktop",
-      "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+      "title": "Falsehoods Programmers Believe About ATProto",
+      "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Select Styling Specimens",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After some experimentation I've decided my favorite CSS for select boxes is this: select { appearance : none ; color : # 1f2933 ; padding : 0.5 em 2.25 em 0.5 em 0.75 em ; border : 1 px solid # c4cbd3 ; border-radius : 6 px ; background : # fff url ( \"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23667085' stroke-width='1.5'/%3E%3C/svg%3E\" ) no-repeat right 0.75 em center / 0.75 em ; } Here's what that looks like in the three browsers: Tags: tools , css , html",
       "alsoReportedBy": []
     },
     {
@@ -341,15 +350,6 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "llm-gemini 0.38.1",
-      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
-      "source": "Simon Willison",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at high used 5,311 output tokens and cost 3.99 cents, but the same model at xhigh used 31,477 output tokens, cost 23.61 cents, and produced a pelican that's competitive with Gemini 4 Neon: Tags: gemini , llm , llm-reasoning , pelican-riding-a-bicycle , ai , llms , google , generative-ai",
       "alsoReportedBy": []
     },
     {

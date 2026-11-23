@@ -1,6 +1,44 @@
 {
-  "generated": "2026-11-22T23:41:56.818440Z",
+  "generated": "2026-11-23T01:41:20.504918Z",
   "summaries": [
+    {
+      "summary": "South Korea\u2019s stock market experiences sharp losses amid growing concerns over the sustainability of the AI boom.",
+      "significance": "South Korea\u2019s stock market tumbles reflect growing investor fears over the sustainability of the AI boom, affecting tech investments globally.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+      "points": [
+        "Kospi fell as much as 3.7 percent in early trading on Monday.",
+        "On Friday, the Kospi closed down 5.2 percent.",
+        "Investors worry tech firms may not sustain multi-trillion-dollar AI investments."
+      ]
+    },
+    {
+      "summary": "Pochettino's Manchester United suffered a 4-0 defeat against Liverpool, marking the worst opening result since Ferguson's departure.",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+      "points": [
+        "Manchester United lost 4-0 to Liverpool under Pochettino.",
+        "It's the poorest opening result for a post-Ferguson manager.",
+        "Pochettino's decision to pick De Ligt over Maguire backfired."
+      ]
+    },
+    {
+      "summary": "Prosecution argues that Beau Lamarre-Condon executed Sydney couple Jesse Baird and Luke Davies and lied about it.",
+      "significance": "Prosecution argues accused lied about self-defense, claiming the deaths were an \"execution,\" highlighting the severity of Beau Lamarre-Condon's alleged crimes.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+      "points": [
+        "Prosecution claims Lamarre-Condon is a \"proven and persistent liar\".",
+        "Accused used his police service weapon to kill the couple.",
+        "The murders took place in Baird\u2019s Paddington home on February 19, 2024."
+      ]
+    },
+    {
+      "summary": "A developer created a styled HTML <select> box page to standardize appearance across browsers.",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "points": [
+        "The developer used Claude Fable 5.2 to build the page.",
+        "Favorite CSS includes `appearance: none` and specific padding and border settings.",
+        "Screenshots were taken in three browsers to showcase the styling."
+      ]
+    },
     {
       "summary": "Most world governments rejected a meaningless agreement at Cop31 in Antalya, standing against big fossil fuel producers.",
       "significance": "Most of the world\u2019s governments rejected a meaningless agreement at Cop31, marking a stand against major fossil fuel producers.",
@@ -3708,43 +3746,6 @@
         "Zion Suzuki scored an own goal from Alex Iwobi\u2019s corner, costing Villa a win.",
         "Nicolas Jackson scored his eighth goal of the season for Villa.",
         "The result prevents Villa from securing their fifth win in six games."
-      ]
-    },
-    {
-      "summary": "Abdul El-Sayed asks Haley Stevens to stay away from his campaign events to avoid distractions in the Michigan US Senate race.",
-      "significance": "The story highlights internal Democratic conflicts in a crucial Senate race, potentially impacting the party's unity and electoral outcome.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
-      "points": [
-        "El-Sayed, Michigan's Democratic Senate nominee, disinvited Stevens to limit distractions.",
-        "Stevens is a Democratic congresswoman involved in the public spat.",
-        "El-Sayed stated he does not want any distractions affecting the race."
-      ]
-    },
-    {
-      "summary": "An Italian farmer, Claudio Grossi, discovered and planted unknown seeds from his attic, resulting in a unique, ancient wheat variety.",
-      "significance": "An Italian farmer's discovery of ancient seeds in his attic led to the cultivation of a unique, biblically described wheat variety, highlighting the potential for rediscovering lost agricultural biodiversity.",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "points": [
-        "The wheat, named \"miracolo,\" grew up to six feet tall with seven ears per stalk, unlike typical commercial wheat.",
-        "Grossi found the wheat's characteristics reminiscent of a passage in the Book of Genesis."
-      ]
-    },
-    {
-      "summary": "A team of 5 Qwen3.8-27B models outperformed Fable 5 on LiveCodeBench Hard.",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "points": [
-        "Qwen3.8-27B team solved 49 out of 50 problems, costing $35.79.",
-        "The team scored 10.8 on the problems, compared to Fable 5's 8.0.",
-        "Each run took a median of 40 minutes and cost $0.39."
-      ]
-    },
-    {
-      "summary": "Datasette-llm 0.1a9 release improves user experience by auto-configuring the default model for Datasette Agent.",
-      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-      "points": [
-        "Datasette Agent can now be used without explicitly setting a default model.",
-        "Previous setup required specifying a model with -s plugins.datasette-agent.default_model gpt-6-astra.",
-        "Release includes a minor update to the datasette-llm plugin."
       ]
     }
   ]
