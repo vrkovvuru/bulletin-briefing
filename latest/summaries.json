@@ -1,6 +1,81 @@
 {
-  "generated": "2026-11-23T17:42:35.595344Z",
+  "generated": "2026-11-23T19:41:57.322622Z",
   "summaries": [
+    {
+      "summary": "Trump's intervention led Nvidia to reinstate Jensen Huang as CEO after his resignation over extramarital affairs.",
+      "significance": "Trump's intervention reinstates Jensen Huang as Nvidia CEO, highlighting political influence in corporate decisions.",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+      "points": [
+        "Trump claimed he \"convinced\" Nvidia's board to reinstate Huang.",
+        "Huang resigned due to reports of affairs, including with an alleged Chinese spy.",
+        "The reversal occurred less than two weeks after Huang's initial resignation."
+      ]
+    },
+    {
+      "summary": "Over 12,000 evacuate Manchester concert due to an unknown substance causing health issues.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+      "points": [
+        "Over 12,000 people evacuated from Co-op Live arena.",
+        "Incident occurred during US rapper Don Toliver\u2019s performance.",
+        "Police launched an investigation into the substance release."
+      ]
+    },
+    {
+      "summary": "Recent tech, travel, and banking failures in the US have sparked concerns about system vulnerabilities and potential doomsday scenarios.",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
+      "points": [
+        "Experts discuss underfunding and AI risks behind recent disruptions.",
+        "Incidents include grounded flights, bank website crashes, and Microsoft Outlook outages.",
+        "Speculation includes targeted cyber-attacks by Iranian hackers and autonomous AI hacks."
+      ]
+    },
+    {
+      "summary": "Nvidia reinstates Jensen Huang as CEO despite board's recent definitive statement against his return.",
+      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
+      "points": [
+        "Huang reinstated mere six days after board's definitive statement against his return.",
+        "Initial statement cited personal behavior inconsistent with company norms.",
+        "Board's swift reversal highlights significant embarrassment and criticism."
+      ]
+    },
+    {
+      "summary": "Republican senators criticize Nvidia's decision to reinstate CEO Jensen Huang, citing national security concerns.",
+      "significance": "Republican senators criticize Nvidia's decision to reinstate Jensen Huang, demanding he testify on national security concerns.",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+      "points": [
+        "Senators demand Huang testify before Congress to address security issues.",
+        "Trump claimed he convinced Nvidia's board to reinstate Huang.",
+        "Pete Ricketts, a Nebraska senator, opposes Huang's reinstatement."
+      ]
+    },
+    {
+      "summary": "High court hears former prince Andrew was paid £750,000 as a bribe to help a Turkish woman with her passport.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told",
+      "points": [
+        "Nebahat Isbilen claims her adviser paid the bribe in hopes of passport assistance.",
+        "Isbilen is suing businessman Selman Turk for misappropriating tens of millions of pounds.",
+        "The money was returned according to Isbilen's claims."
+      ]
+    },
+    {
+      "summary": "Report reveals only six beds for trans victims of domestic abuse in the UK, attributing difficulties to a supreme court ruling.",
+      "url": "https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds",
+      "points": [
+        "Only six beds available for trans victims of domestic abuse across the UK.",
+        "Supreme court ruling on single-sex spaces makes finding refuges \"almost impossible.\"",
+        "Galop calls for an emergency national fund for specialist trans refuges."
+      ]
+    },
+    {
+      "summary": "A site offering AArch64 documentation will be discontinued on December 4, 2026, per ARM's request.",
+      "significance": "The discontinuation affects users reliant on the site for AArch64 instruction set and system register documentation.",
+      "url": "https://arm.jonpalmisc.com/",
+      "points": [
+        "Discontinuation date set for December 4, 2026.",
+        "Site provides documentation for AArch64 instruction set and system registers.",
+        "ARM's legal action threat prompted the site's shutdown."
+      ]
+    },
     {
       "summary": "Nvidia's shares surged 33%, adding $1tn to the company\u2019s value after Jensen Huang's return as CEO.",
       "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
@@ -3670,81 +3745,6 @@
         "Deleting uv.lock file fixes Python 3.15 dependency errors.",
         "uv.lock files are created by running commands like `uv run pytest`.",
         "Issue arises when a dependency lacks a Python 3.15 wheel, like `watchfiles==1.1.1`."
-      ]
-    },
-    {
-      "summary": "A speech at the IMF meeting in Bangkok argued that AI is entering a phase of rapid, autonomous progress, potentially altering global economics and security.",
-      "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
-      "points": [
-        "Delivered on October 17th, the speech highlighted AI's current impact on national security and global economics.",
-        "The speaker, with a career background in journalism and AI research, claims AI systems now operate at the frontier of human science.",
-        "AI-driven scientific invention is expected to change global economies, infrastructure planning, and public health, but also poses significant risks."
-      ]
-    },
-    {
-      "summary": "Sofia Demetriades won BBC Young Musician 2026 with a mature performance of Tchaikovsky\u2019s Violin Concerto in the first all-female final.",
-      "significance": "The story marks a historic first with an all-female final, highlighting increased female representation in a prestigious music competition.",
-      "url": "https://www.theguardian.com/music/2026/nov/01/bbc-young-musician-teenage-violinist-sofia-demetriades",
-      "points": [
-        "Sofia Demetriades performed Tchaikovsky\u2019s Violin Concerto.",
-        "It was the first all-female final in the competition\u2019s 48-year history.",
-        "Judges praised her performance for its insights, poetry, and maturity."
-      ]
-    },
-    {
-      "summary": "Northern Territory government faces criticism for planning to remove legal water allocation requirements for the environment.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
-      "points": [
-        "Green group labels NT government's move as \"extreme\" and an attack on nature.",
-        "Plan involves changing water rules to allow more industrial water extraction.",
-        "This action is part of a series of environmental attacks by the Country Liberal party."
-      ]
-    },
-    {
-      "summary": "Apple captures 50% of consumer revenue from the top half of the S&P 500, standing out as a consumer-focused company in a tech-dominated market.",
-      "significance": "Apple's dominance highlights the shift towards tech consumer-focused companies in the S&P 500,区别于其他大多数大型公司专注于机构销售。",
-      "url": "https://asymco.com/2026/11/01/the-last-consumer-company/",
-      "points": [
-        "Apple holds 50% of consumer revenue among the top half of the S&P 500.",
-        "In 2010, 8 out of 20 largest companies were consumer-focused; now, only Walmart and Amazon remain.",
-        "Amazon's AWS cloud service has grown from 16% to 23% of total sales over three years, overshadowing its consumer retail business."
-      ]
-    },
-    {
-      "summary": "John Leeson, the voice actor behind Doctor Who's K9, has passed away.",
-      "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
-      "points": [
-        "Leeson voiced K9 in 54 episodes of Doctor Who.",
-        "His portrayal made K9 a beloved, recurring character.",
-        "Leeson also starred in various British TV shows like Blake's 7 and Minder."
-      ]
-    },
-    {
-      "summary": "A meetup for a casual chat is planned at The Fellow pub in London on November 15, 2026.",
-      "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
-      "points": [
-        "Date and time set for Sunday, November 15, 2026, at 1pm.",
-        "Location is The Fellow, 24 York Way, London, N1 9AA.",
-        "Organizer created a Whatsapp group for updates and communication."
-      ]
-    },
-    {
-      "summary": "Early voting in US midterms shows record turnout, indicating potential voter dissatisfaction with Republicans and Trump.",
-      "significance": "Early high voter turnout, especially in tight Senate races, indicates potential dissatisfaction with Republicans and could determine Senate control.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
-      "points": [
-        "Record numbers of US citizens are voting early ahead of midterms.",
-        "High early voting in states with tight Senate races.",
-        "Analysts suggest voter dissatisfaction with Republicans and Trump."
-      ]
-    },
-    {
-      "summary": "Former Chancellor Rachel Reeves aligns with Prime Minister Andy Burnham on economic agenda, advocating for closer EU ties post-Brexit.",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
-      "points": [
-        "Reeves argues Brexit caused \"deep damage\" to the UK.",
-        "Both politicians seek a \"stable, future relationship\" with the EU.",
-        "Reeves delivered these views in a lecture six months prior."
       ]
     }
   ]
