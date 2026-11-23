@@ -1,6 +1,72 @@
 {
-  "generated": "2026-11-23T03:41:00.978214Z",
+  "generated": "2026-11-23T05:42:00.614209Z",
   "summaries": [
+    {
+      "summary": "Donny Osmond discusses his rise to fame as a teen heartthrob and subsequent career downfall.",
+      "url": "https://www.theguardian.com/music/2026/nov/23/donny-osmond-interview-fame-failure-michael-jackson-friendship",
+      "points": [
+        "Had six Top 5 hits in the UK between 1972 and 1973, including three No 1s.",
+        "His song \"Puppy Love\" spent five weeks at No 1 in the UK when he was 14.",
+        "Known for being clean-cut and religious, contrasting with Michael Jackson."
+      ]
+    },
+    {
+      "summary": "Recent films are portraying Nazi collaborators more sympathetically, challenging traditional narratives of World War II resistance.",
+      "significance": "The story matters as it highlights a shift in cinematic portrayal of Nazi collaborators, presenting them in a more sympathetic light than previous depictions.",
+      "url": "https://www.theguardian.com/film/2026/nov/23/chilling-new-films-casting-nazi-collaborators-new-light-resistance-moral-dilemna",
+      "points": [
+        "Woman Unknown won the Golden Lion at the Venice film festival this year.",
+        "The film highlights the Danish bourgeoisie's untouched splendor despite five years of Nazi occupation.",
+        "Resistance fighters, not SS officers, are shown as the executioners of collaborators in the film's flashbacks."
+      ]
+    },
+    {
+      "summary": "Andy Burnham receives warm welcome from EU leaders, but challenges remain in reversing Brexit.",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/23/undoing-brexit-right-thing-defeat-andy-burnham",
+      "points": [
+        "EU leaders greeted Burnham with symbolic triple handshake, signifying a welcoming but complex reunion.",
+        "Despite positive reception, toxic UK politics surrounding rejoining the EU persist.",
+        "Summit aimed to reset UK-EU relationship, highlighting difficulties a decade post-Brexit vote."
+      ]
+    },
+    {
+      "summary": "Albanese defends Bowen from resignation calls after Cop31 climate summit failure.",
+      "significance": "The story highlights political tension over climate diplomacy failures, impacting Australia's climate policy and international relations.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
+      "points": [
+        "Coalition demands Bowen's resignation over 'catastrophic diplomatic disaster'.",
+        "Albanese attributes summit failure to 'difficult geopolitical times'.",
+        "Bowen co-chaired the UN Cop31 climate summit in Turkey with Murat Kurum."
+      ]
+    },
+    {
+      "summary": "Treasurer Jim Chalmers warns of rising unemployment and slower economic growth in Australia.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
+      "points": [
+        "Unemployment expected to exceed 5% in the upcoming budget update.",
+        "Economic growth forecast to be under 2% in 2027 and 2028.",
+        "Chalmers describes the economic numbers as \"concerning\" during a ministerial statement."
+      ]
+    },
+    {
+      "summary": "Inquest reveals doula believed self-described birth keeper was clinically trained during a free birth where Baby R died.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/doula-thought-self-described-birth-keeper-was-clinically-trained-before-nsw-baby-death-inquest-hears-ntwnfb",
+      "points": [
+        "Four babies' deaths, including Baby R, examined in joint coronial inquest in Lismore.",
+        "Three babies died after free births, one during a home birth between 2022 and 2024.",
+        "Doula urged client to attend a birth centre but the birth occurred without medical professionals."
+      ]
+    },
+    {
+      "summary": "XNU Linux allows running macOS userspace on Linux by loading the macOS kernel into an unmodified arm64 Linux kernel.",
+      "significance": "This story matters as it enables running macOS userspace applications natively on Linux, bridging two major operating systems without a hypervisor.",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "points": [
+        "macOS processes run natively alongside Linux processes on the same CPUs.",
+        "macOS 27.2.1 boots to the desktop with auto-login in 31\u201348 seconds.",
+        "The system supports apps like Safari, Notes, Calculator, and TextEdit without crashes during a 30-minute stress test."
+      ]
+    },
     {
       "summary": "Two attempts to prove the Riemann Hypothesis were made, one by Levent Alpöge and Claude, and the other by Alessandro Masullo.",
       "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
@@ -3678,73 +3744,6 @@
         "King Philip\u2019s War, led by Metacom, resulted in more deaths per capita than any other colonial or US conflict.",
         "The war involved an alliance of New England tribes against English colonists, with an estimated 800 colonists and 3-5 thousand Indigenous people killed.",
         "Massachusetts focuses more on celebrating the American Revolution, neglecting this older, complex remembrance."
-      ]
-    },
-    {
-      "summary": "Labour's promise to equalize minimum wage for under-20s before the next election is uncertain after Chancellor Healey's vague response.",
-      "url": "https://www.theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg",
-      "points": [
-        "Chancellor John Healey did not guarantee the wage equalization timeframe.",
-        "The minimum wage for adults increased to £13.21.",
-        "Under-20s' minimum wage rose to £11.27, still below adult rate."
-      ]
-    },
-    {
-      "summary": "Kemi Badenoch argues Britain should avoid apologizing for the slave trade, deeming it a distraction.",
-      "url": "https://www.theguardian.com/world/2026/nov/01/britain-should-not-apologise-slave-trade-kemi-badenoch",
-      "points": [
-        "Badenoch calls an apology a \"navel-gazing distraction\" and warns it could lead to demands for financial compensation.",
-        "She emphasizes slavery involved people from every continent, not just Britain.",
-        "Badenoch questions the value of future leaders attending the Commonwealth summit due to reparations discussions."
-      ]
-    },
-    {
-      "summary": "Kwi, a new KDE terminal emulator, offers modern features and improved performance over Konsole.",
-      "significance": "Kwi introduces a modern, GPU-accelerated KDE terminal emulator, offering significant performance improvements and better integration with KDE Plasma desktop.",
-      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
-      "points": [
-        "Kwi uses Vulkan or OpenGL for a 3x-35x faster performance than Konsole.",
-        "It supports better integration with KDE Plasma's color scheme and Wayland fractional scaling.",
-        "The project aims to close the gap for KDE apps written in Qt Quick/Kirigami by offering a drop-in replacement solution."
-      ]
-    },
-    {
-      "summary": "Researchers prove the Platonic Representation Hypothesis using Joint-Embedding Predictive Architectures (JEPAs), showing models trained on different modalities converge to similar representations.",
-      "url": "https://arxiv.org/abs/2610.39302",
-      "points": [
-        "JEPAs trained on different modalities learn the same representation up to one rotation when positive pairs are observations of the same scene.",
-        "Text JEPAs need 42 times fewer samples than next-token prediction to reach the same alignment with images.",
-        "A 109M-parameter text JEPA outperforms language models up to 72B parameters in aligning with image encoders like DINOv2 and CLIP."
-      ]
-    },
-    {
-      "summary": "Researchers discovered a complex exploit allowing unauthorized access to ChatGPT accounts through sandboxed iframes.",
-      "significance": "The story highlights a significant security flaw in ChatGPT's implementation, allowing for data exfiltration and action impersonation, affecting user data privacy and security.",
-      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-      "points": [
-        "OpenAI paid a $5,000 bug bounty for the exploit.",
-        "Exploit used YouTube oEmbed to execute JavaScript and exfiltrate private data.",
-        "Attack involved injecting HTML via MathLive's virtual keyboard feature."
-      ]
-    },
-    {
-      "summary": "Brazilian court fines two lawyers for embedding hidden prompt-injection commands in a court filing to manipulate AI review systems.",
-      "significance": "This story matters as it marks a global first in judicially addressing the manipulation of court AI systems through prompt injection, setting a precedent for professional conduct in the digital age.",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "points": [
-        "The lawyers were fined 10% of the claim\u2019s value, approximately $16,000.",
-        "The hidden command was in white font on a white background, designed to instruct AI to generate a superficial response.",
-        "This case may be the first globally to address intentional manipulation of a court\u2019s AI system through prompt injection."
-      ]
-    },
-    {
-      "summary": "US judge dismisses Trump's lawsuit against Wall Street Journal over Epstein letter report with prejudice.",
-      "significance": "The dismissal with prejudice ends Trump's legal challenge against the Wall Street Journal over reporting on his alleged birthday letter to Jeffrey Epstein.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
-      "points": [
-        "Case dismissed with prejudice, preventing Trump from amending or re-filing lawsuit.",
-        "Earlier dismissal in April allowed Trump to revise complaint.",
-        "Lawsuit challenged Journal's reporting on alleged birthday letter to Jeffrey Epstein."
       ]
     }
   ]
