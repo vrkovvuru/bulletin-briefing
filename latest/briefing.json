@@ -2,16 +2,31 @@
   "date": "2026-11-23",
   "stories": [
     {
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "title": "How Ukraine attacked Russian ships in Libya",
+      "url": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-      "alsoReportedBy": [
-        "The Guardian",
-        "Al Jazeera"
-      ]
+      "summary": "Verified videos show huge fireballs, smoke plumes rising and sea drones attacking the vessels.",
+      "alsoReportedBy": ["The Guardian", "Al Jazeera"]
+    },
+    {
+      "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a national security risk.",
+      "alsoReportedBy": ["Al Jazeera"]
+    },
+    {
+      "title": "UK to host 2035 Women's World Cup, Fifa confirms",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
@@ -20,40 +35,52 @@
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-      "alsoReportedBy": [
-        "NPR"
-      ]
+      "alsoReportedBy": ["NPR"]
     },
     {
-      "title": "Search continues for dozens missing after Indonesia candy factory fire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/search-continues-for-dozens-missing-after-indonesia-candy-factory-fire?traffic_source=rss",
+      "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Rescuers are searching for around 30 missing workers after a candy factory fire killed at least 24 people in Banten.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
-    },
-    {
-      "title": "COP31 has failed. The climate system is working as designed",
-      "url": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The failure exposes a diplomacy that protects fossil-fuel power while leaving vulnerable countries to pay the price.",
+      "summary": "Jensen Huang is reinstated as NVIDIA’s CEO after reports he was targeted in an alleged foreign intelligence operation.",
       "alsoReportedBy": []
     },
     {
-      "title": "Five takeaways from the failed climate talks COP31",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Brazil coach mistaken for pitch invader, put in headlock",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/brazil-coach-mistaken-for-pitch-invader-put-in-headlock?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "alsoReportedBy": [
-        "Al Jazeera"
-      ]
+      "summary": "Footage shows Parana Clube coach Tcheco being grabbed by security guard after celebrating a goal with fans.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Police investigating bomb threats against schools in Germany and Denmark",
+      "url": "https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Bomb threats follow hoax emails sent to schools across Europe earlier in November.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
+      "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too Business live – latest updates It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There have been signs in recent weeks that investors are getting cold feet over the outlook for AI companies and selling off technology stocks. Last week, the AI company Anthropic launched on to the market and had a record-breaking first day , but on Friday stock markets around the world tumbled and the US Nasdaq closed 5% below its mark on 1 January . Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "AI conquered chess. What happened next should give us hope",
+      "url": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championship between Uzbekistan’s Javokhir Sindarov and India’s Gukesh Dommaraju in Geneva has all the makings of a barnburner. Earlier this year, Sindarov, 20, won the Candidates Tournament as an outside longshot with a magnificent attacking style that overwhelmed the competition, locking up his title shot with a string of dazzling early wins. Continue reading...",
+      "alsoReportedBy": []
     },
     {
       "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
@@ -65,39 +92,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Iran says it will use \u2018all available means\u2019 to counter US blockade",
-      "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "From mocked to mainstream: how Spain\u2019s far-right Vox transformed its fortunes",
-      "url": "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Party that won just 0.2% of the vote in 2016 is on course for almost 20% this time and could be part of next government Almost exactly eight years ago, a video clip of a stocky, bearded man riding a horse through western Andaluc\u00eda went viral in Spain . The rider was Santiago Abascal, the leader of the far-right Vox party, the soundtrack was a bombastic snatch of the Lord of the Rings score, and the caption was an equally unsubtle callback to the 700-year fight to wrest the Iberian peninsula from Islamic rule. \u201cLa Reconquista comenzar\u00e1 en tierras andaluzas,\u201d it read \u2013 the reconquest will begin on Andaluc\u00edan soil. Celebrated by some, jeered by others \u2013 and inventively lampooned by those with sufficient skill and time on their hands \u2013 the video didn\u2019t seem quite as amusing three weeks later when Vox broke through into the political mainstream by winning 12 seats in Andaluc\u00eda\u2019s regional parliament. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Mushroom supplements promise health benefits. What does the science say?",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
       "alsoReportedBy": []
     },
     {
@@ -106,19 +106,17 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Brian Morales Garc\u00eda of Texas seeks damages after he was wrongly identified as undocumented in case White House wants dropped The Trump administration recently admitted in federal court that it deported a US citizen to Mexico after American authorities incorrectly concluded he was an undocumented immigrant. Attorneys for the US justice department made that admission on Friday while requesting the dismissal of a lawsuit for damages that the deported man \u2013 Brian Jos\u00e9 Morales Garc\u00eda of Austin, Texas \u2013 has been pursuing against the federal government. Continue reading...",
+      "summary": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants dropped The Trump administration recently admitted in federal court that it deported a US citizen to Mexico after American authorities incorrectly concluded he was an undocumented immigrant. Attorneys for the US justice department made that admission on Friday while requesting the dismissal of a lawsuit for damages that the deported man – Brian José Morales García of Austin, Texas – has been pursuing against the federal government. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
-      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+      "title": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’ – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Rescuers brave unstable structures in search for missing as DNA needed to identify victims Indonesia has confirmed the deaths of 24 people in a fire that tore \u2060through a factory, as rescuers braved unstable structures in the burned wreckage to search for \u2060about 30 people \u2060still missing. Authorities \u200bwere still investigating the cause of the fire, which broke out on Saturday in the PT Fonusa Agung Mulia confectionery factory in Cikande in Banten province, about 50km west of Jakarta. Continue reading...",
-      "alsoReportedBy": [
-        "BBC World"
-      ]
+      "summary": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the Kremlin Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine. “ It helps Ukraine to defend itself today, but it also strengthens Ukraine’s hands in any future negotiations with Russia. … But support needs to be concrete. We have to show Putin that his attempts to weaken our support will fail.” “Our citizens need to know that the lights will stay on, that their homes will stay warm, that hospitals, transport and communications will keep working.” “One day it can be in the form of an arson attack against a factory or drones disrupt disrupting an airport. The next, it is sabotaged railways or cargo vessels targeted at sea and cyber-attacks.” “It’s all happening now, and it won’t go away anytime soon. … The conclusion of all of this is that we are all targeted, that we are all affected – when it comes to our pipelines, our cables, our energy grids and our economies – and they are all interconnected. … That means that we are all in this for the long term, and therefore we must step up to the plate, to ensure that, we stay ahead of danger.” “But if we are serious about keeping our alliance strong and secure, then all allies must pull their weight not only in 2035, but starting now. At least, everybody needs to have the credible path to get there.” “These investments are also a boon to prosperity. There are dividends to be gained from investing more in defence. This is about real jobs for real people.” Continue reading...",
+      "alsoReportedBy": []
     },
     {
       "title": "Ukraine war spilling into NATO territory",
@@ -126,7 +124,7 @@
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The war between Russia and Ukraine once again creeps onto European territory \u2013 from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
+      "summary": "The war between Russia and Ukraine once again creeps onto European territory – from attacks on ships to missiles in Poland and fresh allegations of Russian operations inside Denmark.",
       "alsoReportedBy": []
     },
     {
@@ -154,44 +152,33 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-      "alsoReportedBy": [
-        "BBC World"
-      ]
+      "alsoReportedBy": ["BBC World"]
     },
     {
-      "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU \u2013 UK politics live",
+      "title": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
       "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Former prime minister says issue is \u2018huge distraction\u2019 for government as Burham prepares to update MPs on his deal In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government\u2019s northern economy and reindustrialisation commissioner. She said: Giving business the confidence to invest here, and create good jobs in our industrial heartlands. Creating good quality jobs in all parts of the country. The role of the private sector is essential to fulfilling that. That is why I am delighted to announce today a new northern economy and reindustrialisation commissioner. With an impeccable industrial career we can learn much from, welcome, Juergen Maier. Continue reading...",
+      "summary": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the debate on Brexit In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner. She said: Giving business the confidence to invest here, and create good jobs in our industrial heartlands. Creating good quality jobs in all parts of the country. The role of the private sector is essential to fulfilling that. That is why I am delighted to announce today a new northern economy and reindustrialisation commissioner. With an impeccable industrial career we can learn much from, welcome, Juergen Maier. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Kremlin warns of \u2018escalation\u2019 as Albania denies Ukrainian drones that sank Russian ships launched from its territory \u2013 Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+      "title": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
+      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato\u2019s Rutte stresses the need to secure the flow of \u201ccrucial supplies\u201d or air defence weapons and ammunition to Ukraine. \u201c It helps Ukraine to defend itself today, but it also strengthens Ukraine\u2019s hands in any future negotiations with Russia. \u2026 But support needs to be concrete. We have to show Putin that his attempts to weaken our support will fail.\u201d \u201cOur citizens need to know that the lights will stay on, that their homes will stay warm, that hospitals, transport and communications will keep working.\u201d \u201cOne day it can be in the form of an arson attack against a factory or drones disrupt disrupting an airport. The next, it is sabotaged railways or cargo vessels targeted at sea and cyber-attacks.\u201d \u201cIt\u2019s all happening now, and it won\u2019t go away anytime soon. \u2026 The conclusion of all of this is that we are all targeted, that we are all affected \u2013 when it comes to our pipelines, our cables, our energy grids and our economies \u2013 and they are all interconnected. \u2026 That means that we are all in this for the long term, and therefore we must step up to the plate, to ensure that, we stay ahead of danger.\u201d \u201cBut if we are serious about keeping our alliance strong and secure, then all allies must pull their weight not only in 2035, but starting now. At least, everybody needs to have the credible path to get there.\u201d \u201cThese investments are also a boon to prosperity. There are dividends to be gained from investing more in defence. This is about real jobs for real people.\u201d Continue reading...",
-      "alsoReportedBy": []
+      "summary": "Rescuers brave unstable structures in search for missing as DNA needed to identify victims Indonesia has confirmed the deaths of 24 people in a fire that tore ⁠through a factory, as rescuers braved unstable structures in the burned wreckage to search for ⁠about 30 people ⁠still missing. Authorities ​were still investigating the cause of the fire, which broke out on Saturday in the PT Fonusa Agung Mulia confectionery factory in Cikande in Banten province, about 50km west of Jakarta. Continue reading...",
+      "alsoReportedBy": ["BBC World"]
     },
     {
-      "title": "Environment Agency and Natural England face axe in Labour quango cull",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+      "title": "Trump insists US government has ‘no reason to believe’ Huang’s return to Nvidia poses a national security risk – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Louise Haigh says the two environmental regulators are being reviewed as part of shake-up of arm\u2019s length bodies Ministers are considering abolishing two of England\u2019s biggest environmental regulators in an attempt to give politicians greater control over what gets built and where. Louise Haigh, the de facto deputy prime minister, said on Monday that the Environment Agency and Natural England were being reviewed as part of a wider shake-up of arm\u2019s length bodies. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Nine people shot at central California concert with one in critical condition",
-      "url": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Authorities say they believe the Saturday night shooting at a concert in Strathmore \u2018may be gang-related\u2019 Nine people were shot at a concert in central California , leaving one person critically injured with a chest injury, the local sheriff said Sunday. The shooting broke out at about 7.30pm Saturday at a concert attended by about 150 people in Strathmore, a small town in Tulare county, a mountainous region in the center of the state, the local sheriff\u2019s department said in a statement. An unspecified number of suspects opened fire on the crowd. No arrests were announced. Continue reading...",
+      "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last week, which was one of its worst since the 2008 financial crisis. Rallies for AI stocks had the Nasdaq composite up a market-leading 6.5%, while the Dow Jones Industrial Average rose 1,117 points. Here’s Trump ’s full social media post, in which he also called Jensen Huang “a Great Patriot and National Treasure”. The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security. The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct. On a personal note, I have gotten to know Jensen, and he is a Great Patriot and National Treasure. Separately, NVIDIA should continue its thorough internal investigation of the Company’s compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security. Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World! Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -204,8 +191,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The next circle of security hell",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "title": "Signal is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "url": "https://github.com/mikuta0407/win4wine",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -222,8 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Signal is Serious About Protecting Your Privacy",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "title": "Good morning and welcome to my idea of a new web",
+      "url": "https://dave.writersweb.org/index.md",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -231,25 +227,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "What are you doing this week?",
-      "url": "https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "What are you doing this week? Feel free to share! Keep in mind it\u2019s OK to do nothing at all, too.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Pulse: Is Amazon\u2019s writing culture collapsing because of AI?",
+      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -276,11 +254,29 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "url": "https://spelunkr.tv",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "What are you doing this week? Feel free to share! Keep in mind it’s OK to do nothing at all, too.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+      "source": "Import AI",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
       "summary": "",
       "alsoReportedBy": []
     },
@@ -299,7 +295,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process. Here's everything he's published so far, all in the last three weeks: 2026-11-04 \u2014 Twenty years of mod_wsgi, and what comes next 2026-11-05 \u2014 A first look at Muru 2026-11-07 \u2014 Muru: looking inside the workers 2026-11-08 \u2014 Muru: how it fits together 2026-11-09 \u2014 Muru: import once, fork many 2026-11-10 \u2014 Muru: HTTPS in development 2026-11-11 \u2014 Muru: WSGI and ASGI together 2026-11-11 \u2014 AI as a lifestyle choice 2026-11-12 \u2014 Muru: releases, not restarts 2026-11-13 \u2014 Muru: canaries without a service mesh 2026-11-14 \u2014 Muru: a better tenant in a container 2026-11-15 \u2014 Muru: working with Kubernetes, not around it 2026-11-16 \u2014 Muru: scaling from what the workers report 2026-11-17 \u2014 Muru: scaling to zero 2026-11-18 \u2014 Muru: overlays on a schedule 2026-11-19 \u2014 Muru: noticing and responding 2026-11-20 \u2014 Muru: a toolbar on every page 2026-11-21 \u2014 Muru: tracing in the toolbar 2026-11-22 \u2014 Muru: when lazy imports help That post about AI as a lifestyle choice is particularly worth a read: The AI may be doing a lot of the work on the surface, but deciding what isn't good enough yet is still down to me, and twenty years of getting things wrong with mod_wsgi turns out to be useful for that. I am prepared to put in the hard work to keep polishing Muru until it is something I would trust, and something you would too. Tags: graham-dumpleton , modwsgi , python , wsgi , ai , rust , asgi , generative-ai , llms , ai-assisted-programming",
+      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process. Here's everything he's published so far, all in the last three weeks: 2026-11-04 — Twenty years of mod_wsgi, and what comes next 2026-11-05 — A first look at Muru 2026-11-07 — Muru: looking inside the workers 2026-11-08 — Muru: how it fits together 2026-11-09 — Muru: import once, fork many 2026-11-10 — Muru: HTTPS in development 2026-11-11 — Muru: WSGI and ASGI together 2026-11-11 — AI as a lifestyle choice 2026-11-12 — Muru: releases, not restarts 2026-11-13 — Muru: canaries without a service mesh 2026-11-14 — Muru: a better tenant in a container 2026-11-15 — Muru: working with Kubernetes, not around it 2026-11-16 — Muru: scaling from what the workers report 2026-11-17 — Muru: scaling to zero 2026-11-18 — Muru: overlays on a schedule 2026-11-19 — Muru: noticing and responding 2026-11-20 — Muru: a toolbar on every page 2026-11-21 — Muru: tracing in the toolbar 2026-11-22 — Muru: when lazy imports help That post about AI as a lifestyle choice is particularly worth a read: The AI may be doing a lot of the work on the surface, but deciding what isn't good enough yet is still down to me, and twenty years of getting things wrong with mod_wsgi turns out to be useful for that. I am prepared to put in the hard work to keep polishing Muru until it is something I would trust, and something you would too. Tags: graham-dumpleton , modwsgi , python , wsgi , ai , rust , asgi , generative-ai , llms , ai-assisted-programming",
       "alsoReportedBy": []
     },
     {
@@ -326,7 +322,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. \u2014 Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags: mathematics",
+      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. — Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags: mathematics",
       "alsoReportedBy": []
     },
     {
@@ -335,7 +331,7 @@
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "November 19, 2026 \u2014 ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
+      "summary": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
       "alsoReportedBy": []
     },
     {
@@ -357,24 +353,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-      "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
-      "source": "Import AI",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Quoting Levent Alp\u00f6ge",
+      "title": "Quoting Levent Alpöge",
       "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater. [...] Claude and I have had a great time together with such breadth in recent months, but this time Claude far outpaced me near the finish line. No, Claude flew, and danced, and sparkled near that finish line. \u2014 Levent Alp\u00f6ge , alpo.ge/remark.pdf Tags: anthropic , claude , generative-ai , mathematics , ai , llms , levent-alpoge",
+      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater. [...] Claude and I have had a great time together with such breadth in recent months, but this time Claude far outpaced me near the finish line. No, Claude flew, and danced, and sparkled near that finish line. — Levent Alpöge , alpo.ge/remark.pdf Tags: anthropic , claude , generative-ai , mathematics , ai , llms , levent-alpoge",
       "alsoReportedBy": []
     }
-  ],
-  "durationSeconds": 178.0,
-  "voice": "af_heart"
+  ]
 }

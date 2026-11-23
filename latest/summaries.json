@@ -1,6 +1,82 @@
 {
-  "generated": "2026-11-23T13:42:56.447795Z",
+  "generated": "2026-11-23T15:43:24.880354Z",
   "summaries": [
+    {
+      "summary": "The UK will host the 2035 Women's World Cup, with England, Northern Ireland, Scotland, and Wales as co-hosts.",
+      "significance": "The UK hosting the 2035 Women's World Cup marks the first football World Cup in the UK since 1966 and aims to further grow women's football across England, Northern Ireland, Scotland, and Wales.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "The tournament will feature 48 teams playing 104 matches over 39 days.",
+        "The bid included 19 venues across the four countries, with 14 in England.",
+        "This will be the first football World Cup in the UK since the men's event in 1966."
+      ]
+    },
+    {
+      "summary": "Police are investigating bomb threats made against 450 schools in Germany and several in Denmark, concluding the threats were not serious.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark?traffic_source=rss",
+      "points": [
+        "German police determined the threats were not a \"concrete danger\" and affected 450 schools.",
+        "Schools in Berlin, Baden-Wurttemberg, Thuringia, Saxony-Anhalt, and Rhineland-Palatinate were targeted.",
+        "Danish police also reported no danger, with threats directed at schools across Bornholm, Funen, and Jutland."
+      ]
+    },
+    {
+      "summary": "Global stock markets have experienced volatility, especially in tech and AI sectors, causing concern among investors.",
+      "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+      "points": [
+        "The US Nasdaq closed 5% below its mark on 1 January.",
+        "AI company Anthropic had a record-breaking first day on the market last week.",
+        "Investors are showing caution and selling off technology stocks due to uncertainty."
+      ]
+    },
+    {
+      "summary": "Upcoming world chess championship in Geneva features two 20-year-old prodigies, Sindarov and Gukesh.",
+      "url": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+      "points": [
+        "Javokhir Sindarov from Uzbekistan won the Candidates Tournament as an underdog.",
+        "Gukesh Dommaraju from India is Sindarov's opponent in the championship.",
+        "Sindarov secured his title shot with impressive early wins using an attacking style."
+      ]
+    },
+    {
+      "summary": "Trump supports Huang's return as Nvidia CEO, asserting no national security risks.",
+      "significance": "Trump's endorsement of Huang's return to Nvidia boosts stock markets, particularly AI stocks, signaling confidence in tech leadership post-security concerns.",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "points": [
+        "Nvidia\u2019s stock surged 31% following Huang's reinstatement.",
+        "S+P 500 gained 4.5%, recovering from last week's severe losses.",
+        "Trump praised Huang, calling him a \"Great Patriot and National Treasure."
+      ]
+    },
+    {
+      "summary": "A project allows running Windows XP's shell as a Linux desktop on Wine.",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "points": [
+        "Uses files extracted from a Windows XP ISO to run XP's shell on Linux.",
+        "Supports integration of Linux applications within XP's window frames and taskbar.",
+        "Includes XP's sound, keyboard layout switching, and notification area icons."
+      ]
+    },
+    {
+      "summary": "A GitHub project turns MacBook trackpads into speakers using their haptic motors.",
+      "significance": "This story matters as it demonstrates innovative use of MacBook trackpads to produce sound, potentially opening new avenues for accessibility and creative applications.",
+      "url": "https://github.com/os6/nospeaker",
+      "points": [
+        "NO SPEAKER operates the trackpad motor up to 4,000 times per second to produce sound.",
+        "Requires a Force Touch trackpad from 2015 MacBooks or newer and macOS 12 or later.",
+        "The loudest and clearest notes are around 1 kHz, covering the most important part of a voice."
+      ]
+    },
+    {
+      "summary": "Article covers advancements in AI research including Huawei's AscendGYM benchmark for chip optimization, Lawrence Livermore's SciResearch-Eval for AI-driven scientific experiments, and a mention of a new AI startup.",
+      "significance": "AscendGYM enables Chinese researchers to optimize Huawei's chip performance independently, mitigating the impact of Western semiconductor export controls.",
+      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+      "points": [
+        "Chinese researchers release AscendGYM, a benchmark for optimizing Huawei's Ascend NPUs, with Opus 5 performing best in tests.",
+        "Lawrence Livermore National Laboratory introduces SciResearch-Eval, testing AI's ability to handle uncertainty in scientific experiments, with GPT-6 Astra and Claude Fable 5.2 showing reliability.",
+        "Mention of a new AI startup by Stanford professors aiming to redefine the AI model frontier, though details are incomplete."
+      ]
+    },
     {
       "summary": "Ukraine claims to have struck Russian ships off Libya's coast using drones.",
       "significance": "The story matters as it shows Ukraine's extended reach in striking Russian assets, potentially escalating tensions beyond the borders of Ukraine.",
@@ -3671,81 +3747,6 @@
         "Strikes hit Kstovo refinery in Nizhny Novgorod and a Rosneft-owned refinery in Samara.",
         "Attacks occur ahead of US midterm elections, defying US President Donald Trump.",
         "Ceasefire in Oleshky set to end late Sunday, potentially escalating tensions."
-      ]
-    },
-    {
-      "summary": "National Grid plans to build Britain's largest electricity substation on Teesside to support nearby AI datacentre projects.",
-      "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-      "points": [
-        "National Grid bought 73 acres at Dorman Point, Teesside.",
-        "Site owned by Teesworks, a local private-public partnership.",
-        "Project aims to attract investment for major datacentre infrastructure."
-      ]
-    },
-    {
-      "summary": "Residents of Menomonie, Wisconsin, halted a $1.6 billion datacenter project by Meta.",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter",
-      "points": [
-        "Project valued at $1.6 billion planned for 320-acre site near Menomonie.",
-        "Proposed datacenter would use 75,000 gallons of water daily.",
-        "Menomonie, with a population of about 17,000, saw this as its biggest development in nearly 150 years."
-      ]
-    },
-    {
-      "summary": "Multiple shootings in Dallas' Deep Ellum neighborhood on Halloween night left four dead and 15 injured.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham",
-      "points": [
-        "Four people died and 15 were injured in the shootings.",
-        "Police are investigating if the three shootings are related.",
-        "The shootings occurred in the Deep Ellum neighborhood on Halloween night."
-      ]
-    },
-    {
-      "summary": "Republican Senator Dan Sullivan says he will accept Alaska's election results despite allegations of a ballot-stacking scheme by his Democratic opponent.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
-      "points": [
-        "Senator Dan Sullivan stated he would accept election results.",
-        "Allegations involve a ballot-stacking scheme by Democratic opponent Mary Peltola.",
-        "Aides from Peltola\u2019s campaign recruited a man with the same name as Sullivan to join the race."
-      ]
-    },
-    {
-      "summary": "Seoul Biosys starts mass production of rare earth-free white micro LEDs using WICOP technology.",
-      "significance": "Seoul Biosys' new rare earth-free white micro LEDs could reduce manufacturing costs and environmental impact, potentially reshaping the micro LED market.",
-      "url": "https://www.ajupress.com/view/20261028171670308",
-      "points": [
-        "Seoul Biosys launched third-generation optical semiconductor on October 28, achieving 100 lm/W efficiency.",
-        "Micro LED measures 25µm x 10µm, aiming for 200 lm/W efficiency within two years.",
-        "Technology reduces manufacturing costs and environmental impact by eliminating rare earth elements and packaging."
-      ]
-    },
-    {
-      "summary": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-      "points": [
-        "Plymouth City Council voted to end the Flock contract in September 2026.",
-        "Flock failed to respond to cancellation demands, leading to physical disconnection of cameras.",
-        "Flock's system uses AI to identify vehicles beyond just license plates, raising privacy concerns."
-      ]
-    },
-    {
-      "summary": "Use of LLMs undermines trust in software documentation and organizations.",
-      "significance": "The story highlights how LLMs undermine trust in software documentation and projects, challenging maintainers to prove quality and accuracy.",
-      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-      "points": [
-        "LLMs make it easier to counterfeit markers of mature software systems.",
-        "Maintainers face challenges in ensuring software correctness and documentation accuracy.",
-        "Question raised on how maintainers can prove quality to users in the age of LLMs."
-      ]
-    },
-    {
-      "summary": "Binance, a cryptocurrency exchange, resumes customer withdrawals following a record $6.3bn hack blamed on North Korea.",
-      "significance": "Binance resumes withdrawals post-hack, indicating recovery from the largest cryptocurrency theft, implicating North Korea.",
-      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-      "points": [
-        "Binance covers 90% of the $6.3bn hack losses.",
-        "FBI attributes the hack to North Korean state-sponsored group TraderTraitor.",
-        "The hack, occurring on Thursday, is identified as the largest in history."
       ]
     }
   ]
