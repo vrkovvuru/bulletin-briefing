@@ -1,6 +1,15 @@
 {
-  "generated": "2026-11-23T01:41:20.504918Z",
+  "generated": "2026-11-23T03:41:00.978214Z",
   "summaries": [
+    {
+      "summary": "Two attempts to prove the Riemann Hypothesis were made, one by Levent Alpöge and Claude, and the other by Alessandro Masullo.",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "points": [
+        "Masullo's proof strategy involves a 940-page manuscript focusing on the logarithmic derivative of the Riemann zeta function.",
+        "Alpöge and Claude's proof exists as 17 million lines of Lean code.",
+        "Masullo aims to prove the generalized Riemann Hypothesis for L-functions of general number fields."
+      ]
+    },
     {
       "summary": "South Korea\u2019s stock market experiences sharp losses amid growing concerns over the sustainability of the AI boom.",
       "significance": "South Korea\u2019s stock market tumbles reflect growing investor fears over the sustainability of the AI boom, affecting tech investments globally.",
@@ -3736,16 +3745,6 @@
         "Case dismissed with prejudice, preventing Trump from amending or re-filing lawsuit.",
         "Earlier dismissal in April allowed Trump to revise complaint.",
         "Lawsuit challenged Journal's reporting on alleged birthday letter to Jeffrey Epstein."
-      ]
-    },
-    {
-      "summary": "Aston Villa lost points due to an own goal by goalkeeper Zion Suzuki, allowing Fulham to earn a draw.",
-      "significance": "Zion Suzuki's own goal prevents Aston Villa from securing a win, impacting their position in the Premier League standings.",
-      "url": "https://www.theguardian.com/football/2026/oct/31/aston-villa-fulham-premier-league-match-report",
-      "points": [
-        "Zion Suzuki scored an own goal from Alex Iwobi\u2019s corner, costing Villa a win.",
-        "Nicolas Jackson scored his eighth goal of the season for Villa.",
-        "The result prevents Villa from securing their fifth win in six games."
       ]
     }
   ]
