@@ -1,6 +1,35 @@
 {
-  "generated": "2026-11-23T19:41:57.322622Z",
+  "generated": "2026-11-23T21:41:01.143500Z",
   "summaries": [
+    {
+      "summary": "Australian Treasurer Jim Chalmers announces a budget update that will save more than it spends, avoiding drastic cuts.",
+      "significance": "The story highlights the Australian government's plan to achieve a budget surplus without drastic cuts, affecting fiscal policy and public spending.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "points": [
+        "Jim Chalmers states the budget will have a modest net save.",
+        "The government plans substantial savings across multiple portfolios.",
+        "Global market volatility is highlighted as a factor influencing the budget approach."
+      ]
+    },
+    {
+      "summary": "London police seized 893kg of cocaine hidden in oranges, making eight arrests.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/23/metropolitan-police-seize-cocaine-hidden-boxes-oranges-new-spitalfields",
+      "points": [
+        "893kg of cocaine found hidden in boxes of oranges at New Spitalfields Market.",
+        "Eight individuals were arrested as part of the operation against an organized crime group.",
+        "This seizure is one of the largest in the history of the Metropolitan police."
+      ]
+    },
+    {
+      "summary": "Yann LeCun claims Dario exaggerates AI dangers to push for OSS model illegality and maintain control.",
+      "significance": "The story highlights how efforts to regulate open-source AI models could be motivated by personal interests rather than genuine safety concerns, potentially limiting public access to diverse knowledge.",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "points": [
+        "Yann LeCun states Dario left OpenAI due to lack of control.",
+        "LeCun compares Dario's actions to the Ottoman Empire banning Arabic printing presses.",
+        "LeCun criticizes those loudly warning about AI not volunteering to shut down their own data centers."
+      ]
+    },
     {
       "summary": "Trump's intervention led Nvidia to reinstate Jensen Huang as CEO after his resignation over extramarital affairs.",
       "significance": "Trump's intervention reinstates Jensen Huang as Nvidia CEO, highlighting political influence in corporate decisions.",
@@ -3717,34 +3746,6 @@
         "Learjet 60 crashed near a busy roadway in Palm Beach county at 12:50pm.",
         "The aircraft had departed from Austin-Bergstrom international airport, heading to the Bahamas.",
         "US Transportation Secretary Sean Duffy called the incident a \"horrific tragedy."
-      ]
-    },
-    {
-      "summary": "U.S. workers received the smallest share of capital since at least 1947, according to recent data.",
-      "significance": "U.S. workers are earning the smallest share of U.S. GDP on record, indicating a shift towards capital and raising concerns about economic inequality.",
-      "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
-      "points": [
-        "Labor share fell to 52.8% in Q2 2026, the lowest since records began in 1947.",
-        "Corporate earnings for Fortune 500 companies exceeded economists' predictions in Q3 2025.",
-        "Unemployment concerns rise with only 29,000 jobs added in September, below projections."
-      ]
-    },
-    {
-      "summary": "Author discusses their stance against using AI for research, focusing on personal enjoyment and ethical concerns.",
-      "url": "https://eva.ac/blog/llms",
-      "points": [
-        "Author prefers using their brain for research, finding it more enjoyable than relying on AI.",
-        "AI models can be confidently wrong, frustrating the author and leading to discontinued use.",
-        "AI companies overmarket their capabilities in cybersecurity, often leading to fearmongering through public disclosure of vulnerabilities."
-      ]
-    },
-    {
-      "summary": "Deleting the uv.lock file resolves Python dependency issues when using Python 3.15.",
-      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
-      "points": [
-        "Deleting uv.lock file fixes Python 3.15 dependency errors.",
-        "uv.lock files are created by running commands like `uv run pytest`.",
-        "Issue arises when a dependency lacks a Python 3.15 wheel, like `watchfiles==1.1.1`."
       ]
     }
   ]
