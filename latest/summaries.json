@@ -1,6 +1,100 @@
 {
-  "generated": "2026-11-23T05:42:00.614209Z",
+  "generated": "2026-11-23T13:42:56.447795Z",
   "summaries": [
+    {
+      "summary": "Ukraine claims to have struck Russian ships off Libya's coast using drones.",
+      "significance": "The story matters as it shows Ukraine's extended reach in striking Russian assets, potentially escalating tensions beyond the borders of Ukraine.",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Ukraine's President Zelensky shared video of the strikes on social media.",
+        "A Russian warship was sunk, and a weapons-carrying cargo ship was also targeted.",
+        "The Kremlin warned of escalating tensions but did not comment directly on the attacks."
+      ]
+    },
+    {
+      "summary": "The COP31 climate summit in Turkey failed to reach a central agreement, highlighting deep geopolitical divisions despite clear evidence of climate change impacts.",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "The summit, the longest in UN history, failed to finalize the Antalya Pacts due to disagreements over fossil fuels and funding.",
+        "Global temperatures are expected to exceed 1.5C above pre-industrial levels, a threshold agreed upon in the 2015 Paris Climate Agreement.",
+        "The draft agreement acknowledged the failure to meet climate targets and introduced carbon dioxide removal (CDR) for the first time.",
+        "Rich nations failed to specify additional funding for developing countries to adapt to climate change, despite a commitment to triple the figure by 2035."
+      ]
+    },
+    {
+      "summary": "Spain\u2019s far-right Vox party, which won 0.2% of the vote in 2016, is now on track for nearly 20% and could join the next government.",
+      "url": "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
+      "points": [
+        "Vox leader Santiago Abascal's viral 2015 video of riding a horse through Andalucía foreshadowed political breakthrough.",
+        "In 2015, Vox won just 0.2% of the national vote.",
+        "Three weeks after the viral video, Vox won 12 seats in Andalucía\u2019s regional parliament in 2015."
+      ]
+    },
+    {
+      "summary": "The Trump administration admitted deporting a US citizen to Mexico, mistakenly identifying him as an undocumented immigrant.",
+      "significance": "The story highlights a significant legal and administrative failure by the Trump administration in wrongly deporting a US citizen, potentially leading to policy changes and compensation claims.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+      "points": [
+        "Brian José Morales García, from Austin, Texas, was deported.",
+        "The DoJ admitted the mistake in court and requested dismissal of Morales García's lawsuit.",
+        "Morales García is seeking damages for being wrongly deported."
+      ]
+    },
+    {
+      "summary": "A fire at a confectionery factory in Indonesia killed at least 24 people and left about 30 missing.",
+      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+      "points": [
+        "24 people confirmed dead in the fire at PT Fonusa Agung Mulia factory.",
+        "About 30 individuals are still missing as rescuers search unstable structures.",
+        "The factory is located in Cikande, Banten province, approximately 50km west of Jakarta."
+      ]
+    },
+    {
+      "summary": "Rishi Sunak aligns with former Tory PMs in criticizing Keir Starmer's stance on rejoining the EU, calling it a distraction.",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+      "points": [
+        "Rishi Sunak states the EU debate is a 'huge distraction' for the government.",
+        "Louise Haigh appoints Juergen Maier as northern economy and reindustrialisation commissioner.",
+        "New commissioner aims to boost business confidence and create jobs in industrial areas."
+      ]
+    },
+    {
+      "summary": "Kremlin warns of escalation after Albania denies Ukrainian drones launched from its territory sank Russian ships, NATO stresses support for Ukraine.",
+      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+      "points": [
+        "Zelenskyy claims Ukraine responsible for sinking the Merkury warship and attacking the MV Angara cargo vessel.",
+        "NATO\u2019s Rutte emphasizes the necessity of securing crucial supplies and air defence weapons to Ukraine.",
+        "Rutte warns of ongoing threats including arson, drone attacks, sabotage, and cyber-attacks, stressing long-term commitment."
+      ]
+    },
+    {
+      "summary": "Labour plans to review and potentially abolish the Environment Agency and Natural England to increase political control over construction decisions.",
+      "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+      "points": [
+        "Louise Haigh announced the review of the two environmental regulators.",
+        "The move aims to give politicians more control over construction and land use.",
+        "Part of a broader shake-up of arm\u2019s length government bodies."
+      ]
+    },
+    {
+      "summary": "Nine people were shot at a concert in Strathmore, California, with one person in critical condition.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
+      "points": [
+        "One person is critically injured with a chest wound.",
+        "The shooting occurred around 7:30 PM on Saturday at a concert with about 150 attendees.",
+        "Authorities suspect the shooting may be gang-related, but no arrests have been made."
+      ]
+    },
+    {
+      "summary": "Signal is implementing measures to block AI systems in iOS 27 and Android from accessing user data, protecting privacy.",
+      "significance": "Signal implements measures to block AI agents on iOS 27 and Android from accessing user data, safeguarding privacy against OS-level AI integrations.",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "points": [
+        "Signal previously blocked Microsoft Recall AI from capturing Signal messages on Windows 11.",
+        "Signal will prevent screenshots and screen data capture by AI assistants on iOS 27 and Android.",
+        "Lack of robust tools and documentation from OS providers hinders Signal's ability to fully protect privacy."
+      ]
+    },
     {
       "summary": "Donny Osmond discusses his rise to fame as a teen heartthrob and subsequent career downfall.",
       "url": "https://www.theguardian.com/music/2026/nov/23/donny-osmond-interview-fame-failure-michael-jackson-friendship",
@@ -3652,98 +3746,6 @@
         "Binance covers 90% of the $6.3bn hack losses.",
         "FBI attributes the hack to North Korean state-sponsored group TraderTraitor.",
         "The hack, occurring on Thursday, is identified as the largest in history."
-      ]
-    },
-    {
-      "summary": "Former Green party leader Adrian Ramsay warns the party must protect its internal democracy to avoid a hard left takeover.",
-      "significance": "The story highlights internal Green party tensions over new memberships and ideological influence, affecting the party's future direction and internal democracy.",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/green-party-must-avoid-hard-left-takeover-says-former-leader-adrian-ramsay",
-      "points": [
-        "Ramsay criticizes new members, suggesting they might fit better in Your Party or the Socialist Workers party.",
-        "He mentions a \"small number\" of individuals use divisive tactics within the party.",
-        "Ramsay is critical of the party's handling of the \"Zionism is racism\" motion passed at the conference."
-      ]
-    },
-    {
-      "summary": "One person was killed and eight injured in a shooting outside Legion Field after the Magic City Classic football game in Birmingham, Alabama.",
-      "url": "https://www.theguardian.com/sport/2026/nov/01/one-person-killed-in-shooting-outside-magic-city-classic-football-game-in-alabama",
-      "points": [
-        "One person killed, eight wounded in shooting post-game.",
-        "Shooting occurred near vendors on Graymont Avenue.",
-        "Incident happened after most spectators had left the stadium."
-      ]
-    },
-    {
-      "summary": "Racism against south Asians in Texas motivates voters like Pooja Sethi to fight back.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/texas-south-asian-racism",
-      "points": [
-        "Pooja Sethi, a Texas house candidate, faced racist backlash on X.",
-        "Savanah Hernandez, a Trump supporter, posted Sethi\u2019s campaign banner with a mocking caption.",
-        "Texas has become a focal point for discrimination against south Asians, experts say."
-      ]
-    },
-    {
-      "summary": "Australian home values have dropped for seven months due to rising mortgage rates, with the downturn now affecting mid-sized cities.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/home-values-fall-for-seventh-month-interest-rates-dent-property-demand",
-      "points": [
-        "Home values in capital cities are falling at the fastest pace in 40 years.",
-        "Sydney and Melbourne are no longer the epicenter; Brisbane and Perth lead declines.",
-        "Despite the downturn, most homeowners still have significant gains from past growth."
-      ]
-    },
-    {
-      "summary": "Former Liberal party aspirant Mark Jones now leads candidate selection for One Nation.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/former-nsw-liberal-leads-overhaul-of-one-nation-candidate-selection-process-ntwnfb",
-      "points": [
-        "Mark Jones was among the final three candidates for Liberal NSW state director in 2023.",
-        "Jones is now instrumental in One Nation\u2019s candidate selection and expansion efforts.",
-        "His career advancement in the Liberal party was blocked, leading to his move to One Nation."
-      ]
-    },
-    {
-      "summary": "Binance restarts withdrawals following a $6.3bn heist blamed on North Korea.",
-      "significance": "Binance restarts withdrawals following a record $6.3bn heist, absorbing the financial impact and restoring services in stages.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss",
-      "points": [
-        "Binance restored major cryptocurrencies like Bitcoin and Ether withdrawals.",
-        "The company will absorb the financial impact of the stolen funds, not users.",
-        "FBI identified North Korea as responsible for the theft, linking it to the TraderTraitor operation."
-      ]
-    },
-    {
-      "summary": "Qatar unveiled a countdown clock for the 2027 FIBA Basketball World Cup in Doha.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/qatar-unveils-countdown-clock-for-2027-basketball-world-cup?traffic_source=rss",
-      "points": [
-        "Fewer than 300 days remain until the 2027 event.",
-        "The official countdown clock was unveiled in Doha, Qatar."
-      ]
-    },
-    {
-      "summary": "Trump's comments and actions ahead of the US midterms may impact the Republican party's performance.",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave",
-      "points": [
-        "Trump told Republicans to \"Pretend I\u2019m on the ticket\" at the summer convention.",
-        "Trump has made controversial remarks, including baselessly accusing a Muslim candidate of being a terrorist.",
-        "Despite his actions, Trump believes he can help Republicans retain control of Congress."
-      ]
-    },
-    {
-      "summary": "Welsh health board considers closing urgent primary care centres at three hospitals due to funding and recruitment issues.",
-      "significance": "The potential closure of urgent primary care centres at three hospitals due to funding and recruitment issues could significantly impact healthcare access for a quarter of Wales\u2019s population.",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/01/welsh-health-board-urgent-primary-care-centres-upcc-holyhead-tremadog-bangor-betsi-cadwaladr",
-      "points": [
-        "Betsi Cadwaladr University health board serves about a quarter of Wales\u2019s population.",
-        "UPCC closures proposed for Holyhead, Tremadog, and Bangor by April 2027.",
-        "Decision faces widespread criticism from the community."
-      ]
-    },
-    {
-      "summary": "The 350th anniversary of King Philip\u2019s War, a devastating conflict in New England, is largely overlooked despite its historical significance.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/king-philips-war-anniversary-native-american",
-      "points": [
-        "King Philip\u2019s War, led by Metacom, resulted in more deaths per capita than any other colonial or US conflict.",
-        "The war involved an alliance of New England tribes against English colonists, with an estimated 800 colonists and 3-5 thousand Indigenous people killed.",
-        "Massachusetts focuses more on celebrating the American Revolution, neglecting this older, complex remembrance."
       ]
     }
   ]
