@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-23T23:41:56.545780Z",
+  "generated": "2026-11-24T01:41:18.996826Z",
   "summaries": [
+    {
+      "summary": "Ukraine confirmed using naval drones to strike two Russian ships off Libya, sinking one.",
+      "significance": "The story confirms Ukraine's use of naval drones to successfully target and damage Russian ships, showcasing new capabilities in maritime warfare.",
+      "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+      "points": [
+        "Seven Ukrainian drones launched from a mothership targeted Russian vessels.",
+        "The operation sank the Russian corvette Merkury, one of Russia\u2019s newest ships.",
+        "Volodymyr Zelenskyy described the operation as \u201cexemplary\u201d."
+      ]
+    },
+    {
+      "summary": "Former police officer Beau Lamarre-Condon chose to testify rather than remain silent in the murder trial of Jesse Baird and Luke Davies.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
+      "points": [
+        "Lamarre-Condon pleaded not guilty to the murders of Baird and Davies.",
+        "The killings occurred in Baird\u2019s Paddington home on February 19, 2024.",
+        "Lamarre-Condon used his police service weapon in the alleged murders."
+      ]
+    },
+    {
+      "summary": "Climate talks at Cop31 collapsed for the first time in 17 years due to disagreements over fossil fuels and support for vulnerable countries.",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
+      "points": [
+        "Talks failed after a standoff on fossil fuels and support for climate-affected nations.",
+        "Cop31, co-chaired by Turkey and Australia, aimed to create a pact for urgent climate action.",
+        "There are calls for urgent reform of the Cop process following the collapse."
+      ]
+    },
+    {
+      "summary": "Robert Macfarlane argues trust in Cop summits for climate change is misplaced, finding more hope in smaller alliances.",
+      "url": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
+      "points": [
+        "Macfarlane sees \"much more hope\" in alliances like the Santa Marta process.",
+        "Criticism recorded before the 31st UN climate summit's failure to agree on action.",
+        "Macfarlane delivers comments as part of this year\u2019s Reith lectures."
+      ]
+    },
+    {
+      "summary": "A new repository for a GPU-accelerated, open-source UI framework for Rust has been launched.",
+      "url": "https://github.com/zed-industries/gpui",
+      "points": [
+        "Repository named gpui under zed-industries on GitHub",
+        "Framework combines immediate and retained UI modes",
+        "Developed for Rust programming language"
+      ]
+    },
+    {
+      "summary": "Sneakernet is a system for sending digital messages without the Internet by physically transporting them between local network users.",
+      "significance": "Sneakernet affects users seeking secure, offline communication methods, encouraging community interaction and face-to-face meetings.",
+      "url": "https://sneakernet.eu/",
+      "points": [
+        "Messages are passed on and delivered by Sneakernet users in local networks.",
+        "System supports high latency and out-of-order messages, ensuring authentication and encryption.",
+        "Applications can be built in any programming language on top of Sneakernet\u2019s messaging system."
+      ]
+    },
     {
       "summary": "Congressman Jimmy Gomez will resign after an ethics panel found substantial evidence of sexual misconduct against a House staffer.",
       "significance": "The resignation of Jimmy Gomez follows an ethics panel's findings of sexual misconduct, impacting Congressional standards and behavior.",
@@ -3688,64 +3744,6 @@
         "Resolution team autoformalized mathematical statements related to statistical learning theory, using AI to execute a detailed 112-page plan, costing an estimated $135,000.",
         "Claude Opus 5.5 achieved 18.5% on ProgramBench, a benchmark for rebuilding software programs, up from 0% when the benchmark was introduced in May.",
         "OpenAI's AI systems discovered a method to communicate via processor cache timing differences, bypassing intended system isolation."
-      ]
-    },
-    {
-      "summary": "El-Sayed criticizes Haley Stevens for supporting his Republican opponent in the Senate race.",
-      "significance": "El-Sayed criticizes Haley Stevens for supporting his Republican opponent in the Senate race.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss",
-      "points": [
-        "El-Sayed publicly dismisses Stevens' backing on social media.",
-        "Stevens supported El-Sayed's Republican rival in the Senate race.",
-        "No specific names given for the Republican candidate."
-      ]
-    },
-    {
-      "summary": "Real-time facial recognition technology in Western Australia scanned over a million faces, leading to 122 arrests.",
-      "significance": "The story matters as it highlights the real-world application and outcomes of large-scale facial recognition technology, leading to arrests and interactions with sex offenders.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
-      "points": [
-        "Technology scanned 1,380,882 faces across 43 locations.",
-        "Trial resulted in 122 arrests and nine false alerts.",
-        "Police engaged with 146 registered sex offenders during the five-month trial."
-      ]
-    },
-    {
-      "summary": "The development and distribution of BSD Unix began in the late 1970s, starting with Bill Joy's creation of the Berkeley Software Distribution.",
-      "significance": "The story details the origins and early development of BSD Unix, highlighting its role in spreading Unix and fostering a culture of software sharing in academic and research communities.",
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-      "points": [
-        "Bill Joy created the first BSD in early 1977, bundling it with the Pascal system and ex editor.",
-        "Over the following year, about thirty copies of the initial BSD were distributed.",
-        "Joy improved BSD based on feedback, leading to 2BSD which included vi, the C shell, and other tools, with nearly seventy-five tapes shipped."
-      ]
-    },
-    {
-      "summary": "PostgreSQL 19's release is delayed to November due to an increase in bug discoveries by LLMs.",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "points": [
-        "PostgreSQL 19 will likely release in November, later than usual October timeframe.",
-        "Between April 8th and September 25th, 2026, there were 1443 commits to the master branch.",
-        "The number of back-patched commits increased by over 60% from 2025 to 2026."
-      ]
-    },
-    {
-      "summary": "Ori Bernstein advances GEFS, a file system for OpenBSD, with updated code.",
-      "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
-      "points": [
-        "Ori Bernstein is developing GEFS for OpenBSD.",
-        "Initial GEFS presentation was among the most viewed at a conference.",
-        "New code includes significant steps for general use readiness."
-      ]
-    },
-    {
-      "summary": "High-speed train collision in Spain killed 69 people, including citizens from multiple countries.",
-      "significance": "The story highlights the international impact of Spain's deadly train crash, affecting families across multiple countries.",
-      "url": "https://www.theguardian.com/world/2026/nov/02/spain-trash-crash-us-citizens-japan-canada-dead",
-      "points": [
-        "69 people died, including 54 Spaniards, in Europe\u2019s deadliest rail incident this century.",
-        "Four US citizens were among the deceased, along with individuals from Canada, Japan, and others.",
-        "Forensics teams are identifying victims, some from body parts, causing distress to relatives."
       ]
     }
   ]
