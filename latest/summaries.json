@@ -1,6 +1,81 @@
 {
-  "generated": "2026-11-24T21:42:05.080591Z",
+  "generated": "2026-11-24T23:42:50.083240Z",
   "summaries": [
+    {
+      "summary": "Huawei was found guilty of stealing trade secrets and bank fraud but acquitted of racketeering in a US trial.",
+      "significance": "The verdict affects Huawei's legal standing, confirming some misconduct but rejecting the most severe allegations of operating as a criminal enterprise.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Huawei was convicted on 10 out of 12 counts including conspiracy to violate US sanctions.",
+        "The company was acquitted of the racketeering charge, which required finding Huawei acted like a criminal enterprise.",
+        "Sentencing is scheduled for September 2027, with plans for appeal expected."
+      ]
+    },
+    {
+      "summary": "Fort Hood shooting survivors denied request to witness Nidal Hasan's execution by firing squad.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/fort-hood-shooting-survivors-execution",
+      "points": [
+        "Military officials stated three survivors injured in 2009 attack are not direct victims.",
+        "Nidal Hasan shot 13 people dead and wounded over 30 at Texas army post.",
+        "Hasan was found guilty of murder and attempted murder for the 2009 attack."
+      ]
+    },
+    {
+      "summary": "Jury deliberates on verdict for former police officer accused of murdering two individuals with his service weapon.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-jury-considers-verdict-ntwnfb",
+      "points": [
+        "Former police officer Beau Lamarre-Condon faces charges for killings on February 19, 2024.",
+        "Trial lasted 10 weeks before 12 jurors began deliberation.",
+        "Accused of fatally shooting Jesse Baird and Luke Davies in Paddington."
+      ]
+    },
+    {
+      "summary": "Burnham signals potential broader ban on NDAs, marking a significant shift post-recent rape trials.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/24/burnham-non-disclosure-agreements-staggered-age-consent",
+      "points": [
+        "PM advances NDA changes, allowing victims to speak freely starting January.",
+        "Burnham labels recent rape trials as a \"watershed moment\" for UK.",
+        "Promises consultation on staggered age of consent as part of broader crackdown."
+      ]
+    },
+    {
+      "summary": "Burnham initiates a Hillsborough-style inquiry into the Ministry of Defence's blood tests on nuclear bomb test veterans.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/24/burnham-inquiry-nuclear-bomb-test-veterans",
+      "points": [
+        "Andy Burnham launches investigation into a \"criminal cover-up on an industrial scale\".",
+        "Ministry of Defence admitted to conducting biological exams on troops exposed to nuclear tests.",
+        "Former defence minister Tobias Ellwood admitted to misleading parliament in 2018 about medical records."
+      ]
+    },
+    {
+      "summary": "GPT-6 models can design new proteins and their sequences using general reasoning and coding, outperforming specialized biology models in many tasks.",
+      "significance": "GPT-6 models show potential in designing proteins without specialized biology models, potentially simplifying and expanding protein design capabilities.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "points": [
+        "GPT-6 models matched or outperformed specialized models on 14 protein design tasks.",
+        "In lab tests, proteins designed by GPT-6.2 showed binding evidence across five targets.",
+        "The models use math, physics, chemistry, and biological knowledge to design proteins."
+      ]
+    },
+    {
+      "summary": "Versine, a YC-backed startup, introduces an MCP (Money Control Platform) for sending and receiving money via AI interactions.",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "points": [
+        "Versine allows sending money to up to 100 people at once and to non-Versine users who can cash out in 2 minutes.",
+        "Users have self-custodial USDC wallets on Base, ensuring funds can't be sent without their approval.",
+        "The team pivoted to stablecoin wallets due to regulatory constraints, avoiding MSB classification."
+      ]
+    },
+    {
+      "summary": "Three significant inflection points in LLMs and coding agents occurred over the past year, marked by advancements in Claude and GPT models.",
+      "significance": "The story highlights significant advancements in LLMs and coding agents over twelve months, marking improved reliability and capability in automated coding solutions.",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "points": [
+        "Claude Opus 4.5, released November 24th, 2025, significantly improved coding capabilities, making it reliable for daily tasks.",
+        "Claude Fable 5, released in June 2026, showcased advanced problem-solving but was banned in July due to cybersecurity concerns.",
+        "Opus 5.5, released September 22nd, 2026, demonstrated a new ability to understand and enhance game fun, marking a shift in game development."
+      ]
+    },
     {
       "summary": "Canada defends its sovereignty after a Pentagon memo criticized its defense capabilities.",
       "significance": "The story highlights tensions between Canada and the US over defence capabilities, asserting Canada's sovereignty in response to US criticism.",
@@ -3663,83 +3738,6 @@
       "points": [
         "MIT CSAIL team experiments show GPT-6 Astra can modify neural-network weights, improving math and instruction-following scores.",
         "Anthropic's internal AI use valued above employee pay, raising concerns about investment risks and retirement savings."
-      ]
-    },
-    {
-      "summary": "DiscImageStudio 是一款可将图片转换为光盘物理层数据的软件，使光盘表面呈现可见图案。",
-      "significance": "DiscImageStudio enables users to burn visible artwork onto CDs, DVDs, and Blu-ray discs, offering a unique way to customize optical media appearances.",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "points": [
-        "支持 CD、DVD 和单层 BD-R 光盘，导出 WAV 音轨及 CUE 文件。",
-        "提供多语言界面，包括简体中文、繁體中文、English、日本語。",
-        "需要.NET 10 Windows 桌面运行时，\"即时刻录\"功能需 Windows 可识别的刻录机与空白盘片。"
-      ]
-    },
-    {
-      "summary": "The author details the features and benefits of their preferred laptop, a ThinkPad X250.",
-      "url": "https://blog.jsbarretto.com/post/laptop",
-      "points": [
-        "Weighs only 1.45 Kg with an extra capacity battery.",
-        "Can last over 10 hours on battery, extending to 12 hours for casual work.",
-        "Purchased second-hand for about £100 in 2018, making it affordable and low-risk to use."
-      ]
-    },
-    {
-      "summary": "Trump rallied supporters at the Lincoln Memorial Reflecting Pool, urging turnout before Election Day.",
-      "significance": "Trump's final midterms pitch at a symbolic location underscores the high stakes for his presidency and the Republican Party.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
-      "points": [
-        "Trump campaigned for 28 consecutive days.",
-        "He linked the election's outcome to his presidency's success.",
-        "The event marked the reopening of the Lincoln Memorial Reflecting Pool."
-      ]
-    },
-    {
-      "summary": "James Talarico, a young Democratic candidate in Texas, is seen as a potential game-changer, reminiscent of Obama, aiming for a historic win.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections",
-      "points": [
-        "Texas hasn't elected a Democratic senator since 1988.",
-        "Wendy Davis, a former Democratic state senator, dubbed Talarico \"Baby Obama\" after their first meeting.",
-        "Talarico, a former school teacher, is challenging the Democrats' losing streak in Texas."
-      ]
-    },
-    {
-      "summary": "A One Nation volunteer was allegedly attacked with a baseball bat outside his Torquay home, leading to the arrest of a 37-year-old man and a 14-year-old boy.",
-      "significance": "Arrests follow alleged assault of One Nation volunteer, impacting local political climate and community safety concerns.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
-      "points": [
-        "Police arrested a 37-year-old from Hampton Park and a 14-year-old boy.",
-        "The assault happened outside a Torquay home on Sunday night.",
-        "The victim is a volunteer for the political party One Nation."
-      ]
-    },
-    {
-      "summary": "Investigative journalist Kate McClymont testifies in Alan Jones' indecent assault trial, asserting victims received no benefit for their stories.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
-      "points": [
-        "Jones faces 21 charges of indecent assault and sexual touching.",
-        "McClymont's 2023 articles prompted other alleged victims to come forward.",
-        "The trial is taking place in Sydney, involving five male alleged victims."
-      ]
-    },
-    {
-      "summary": "Developers are criticized for setting inflexible timeouts in their tools, which do not account for varying internet speeds and environments.",
-      "significance": "This story highlights how hardcoded timeouts in software tools disadvantage developers with slower internet connections, underscoring the need for configurable settings.",
-      "url": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
-      "points": [
-        "Developers set arbitrary timeouts, like a 2-minute limit for Docker builds, which can be insufficient for slower connections.",
-        "The article highlights issues with a large repository that cannot be installed due to size constraints and unresponsive maintainers.",
-        "The author suggests adding configurable options, such as environment variables, to accommodate different user environments."
-      ]
-    },
-    {
-      "summary": "LLM 0.37 release includes new models, cheaper default model, and enhanced embedding support.",
-      "significance": "The release of llm 0.37 introduces significant updates and fixes, including new models and improved embedding support, with minimal burden from AI-assisted contributions.",
-      "url": "https://simonwillison.net/2026/Nov/2/llm/",
-      "points": [
-        "Default model changed to gpt-6-luna, half the price of previous default.",
-        "Added support for different content types in embeddings, including Gemini Embedding 2.",
-        "Release includes contributions from 12 authors, mostly AI-assisted."
       ]
     }
   ]
