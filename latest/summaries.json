@@ -1,6 +1,71 @@
 {
-  "generated": "2026-11-24T17:43:04.196821Z",
+  "generated": "2026-11-24T19:41:49.383564Z",
   "summaries": [
+    {
+      "summary": "Sacked London Pride boss Christopher Joell-Deshields received a suspended prison sentence for harvesting confidential documents.",
+      "significance": "The suspended prison sentence for the sacked London Pride boss highlights the serious consequences of his misconduct and contempt of court, affecting the organization's integrity and operations.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5gvmme9q7o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Joell-Deshields downloaded over 50 private documents to disrupt an investigation and set up a rival company.",
+        "He was sentenced to six months and four months imprisonment, both suspended for 18 months.",
+        "The court heard Joell-Deshields was accused of bullying and misusing sponsor vouchers to buy luxury items."
+      ]
+    },
+    {
+      "summary": "The collapse of the 'Antalya pact' at Cop31 in Turkey missed opportunities for addressing climate issues.",
+      "url": "https://www.theguardian.com/environment/2026/nov/24/missed-opportunities-cop31-oceans-fossil-fuels",
+      "points": [
+        "'Antalya pact' was meant to be the key document at Cop31.",
+        "Countries became entrenched, leading to the pact's failure.",
+        "The pact's death signifies missed chances for unifying climate efforts."
+      ]
+    },
+    {
+      "summary": "Tech CEO Jensen Huang reinstated at Nvidia after a Trump-led campaign despite allegations of misconduct.",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/24/jensen-huang-nvidia-return",
+      "points": [
+        "Huang accused of mistreating employees and having affairs, including with a suspected Chinese spy.",
+        "Trump, JD Vance, and other Trump administration members pressured for Huang's reinstatement.",
+        "Nvidia board reinstated Huang as CEO following the pressure campaign."
+      ]
+    },
+    {
+      "summary": "Georgia Tech couple clarifies viral argument during football game, stating it was insignificant.",
+      "significance": "The story clarifies that a viral televised argument during a football game was insignificant, revealing it was a couple's casual discussion.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/georgia-tech-football-couple-arguing-espn",
+      "points": [
+        "Tallulah Wall and Braden Flournoy appeared on NBC\u2019s Today show three days after the incident.",
+        "The couple's discussion occurred during Georgia Tech's home loss to Wake Forest."
+      ]
+    },
+    {
+      "summary": "Democrats expand investigation into Trump Jr's investment firm, seeking records from four backed companies.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
+      "points": [
+        "Jamie Raskin leads inquiry into possible insider dealing.",
+        "Four companies requested to provide two years of communications and financial documents.",
+        "Companies include GrabAGun, Hadrian Automation, Juul Labs, and Polymarket."
+      ]
+    },
+    {
+      "summary": "Cloudflare advances modern internet technologies but hides infrastructure shortcomings from users and website owners.",
+      "significance": "The story highlights Cloudflare's role in obscuring internet infrastructure shortcomings, affecting website security and transparency perceptions.",
+      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "points": [
+        "Cloudflare's connection to origin servers might be unencrypted and rely solely on IPv4.",
+        "Cloudflare prefers IPv4 over IPv6 for origin server requests despite promoting IPv6.",
+        "Website administrators lack clear warnings about security and protocol mismatches."
+      ]
+    },
+    {
+      "summary": "OpenAI claims to have proven VP ≠ VNP, a significant breakthrough in computational complexity theory.",
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "points": [
+        "Theorem 1.1 establishes a new arithmetic circuit size lower bound.",
+        "Corollary 1.2 applies this bound to the directed Hamiltonian cycle polynomial and the permanent.",
+        "The proof is available on GitHub under the repository math/preprints/VP-and-VNP-are-different-November-23-2026."
+      ]
+    },
     {
       "summary": "Owner of London's Stud House, Evgeny Lebedev, slashes property's price by £5m.",
       "url": "https://www.theguardian.com/media/2026/nov/24/lord-lebedev-cuts-price-london-mansion-cost",
@@ -3675,72 +3740,6 @@
         "Between 2013 and 2026, at least four distinct bugs related to negative pids shipped in Ubuntu LTS versions.",
         "The bugs caused the kill command to target all processes instead of intended process groups.",
         "Initially, the bugs manifested as no action or accidental shell terminations, but later led to system-wide outages."
-      ]
-    },
-    {
-      "summary": "Apple reported record revenues for its fiscal fourth quarter, ending September 26, 2026, with a 12% year-over-year increase.",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "points": [
-        "Apple's quarterly revenue reached $114.5 billion, up 12% from the previous year.",
-        "The company's diluted earnings per share was $2.10, marking a 14% increase year over year.",
-        "Apple's board declared a cash dividend of $0.27 per share, payable on November 16, 2026."
-      ]
-    },
-    {
-      "summary": "Lindsay Clancy seeks to have her murder charges dismissed in court for killing her three children.",
-      "significance": "Lindsay Clancy's legal battle continues as she seeks to dismiss murder charges, following a mistrial, affecting her case's future and her constitutional rights claims.",
-      "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
-      "points": [
-        "Clancy's case ended in a mistrial in August due to jurors' inability to reach a verdict.",
-        "Defence argues that the judge should have further investigated a note from the jury foreperson.",
-        "Prosecutors intend to retry Clancy if the case moves forward, with a potential retrial in March."
-      ]
-    },
-    {
-      "summary": "Trump unveils $14m Lincoln Memorial reflecting pool renovation ahead of midterms.",
-      "significance": "Trump showcases $14m Lincoln Memorial pool renovation ahead of midterms, despite voter concerns over his focus on capital projects.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/trump-reflecting-pool-renovation-midterms",
-      "points": [
-        "Unveiling occurs before crucial midterm elections.",
-        "Renovation cost $14m and was delayed.",
-        "Polls show voters believe Trump is too focused on DC building projects."
-      ]
-    },
-    {
-      "summary": "Burnham dismisses \"open borders\" label while hinting at supporting a balanced immigration policy.",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
-      "points": [
-        "Burnham calls Reform\u2019s \"open borders\" attack on him \"ridiculous\".",
-        "His stance on immigration reform is seen as a balance between Labour's left and right.",
-        "Burnham's position aligns with Shabana Mahmood\u2019s harder line on migration."
-      ]
-    },
-    {
-      "summary": "Savannah Guthrie makes another plea for information on her mother's disappearance.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/savannah-guthrie-mother-nancy-new-post",
-      "points": [
-        "Guthrie's mother, Nancy Guthrie, 84, believed to have been abducted in February.",
-        "Three months after initial plea, Guthrie shared a drawing by her daughter asking for help.",
-        "Photo included a child's drawing with the message: \"I really need my mommy."
-      ]
-    },
-    {
-      "summary": "Aarush and Arnav from The Subvocal Company are developing smart glasses that allow users to communicate silently with their computers.",
-      "significance": "Subvocal's technology allows silent communication with computers, potentially changing how people interact with devices in quiet or public settings.",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "points": [
-        "The glasses use RF waves to detect silent mouthing and convert it to text.",
-        "The technology was initially prototyped at Stanford\u2019s TreeHacks in February.",
-        "Preorders for the first batch of 500 units are available with a $200 discount."
-      ]
-    },
-    {
-      "summary": "Polyend releases the firmware source code for Tracker series on GitHub, enabling user modifications and sharing.",
-      "url": "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120",
-      "points": [
-        "Firmware for Tracker, Tracker+, and Tracker Mini available on GitHub",
-        "New features include expanded sample memory usage, dedicated fields for Micro-move and Volume, and six new effects",
-        "Community can build custom synth engines and themes, with official updates planned"
       ]
     }
   ]

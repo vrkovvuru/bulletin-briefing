@@ -2,61 +2,79 @@
   "date": "2026-11-24",
   "stories": [
     {
-      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
-      "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
+      "title": "Sacked London Pride boss given suspended prison sentence",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5gvmme9q7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
+      "summary": "The sentencing brings a long-running legal battle to an end.",
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "After Libya, where will Ukraine strike Russia next?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+      "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "From Libya to Sudan and Mali, Ukraine is targeting Russia&#039;s military networks across Africa.",
-      "alsoReportedBy": ["Al Jazeera"]
+      "summary": "Ukrainian attacks subsided after Trump&#039;s mid-October declaration of an energy ceasefire, but picked up again afterwards.",
+      "alsoReportedBy": []
     },
     {
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
+      "url": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The agreement marks the US planemaker&#039;s first major order from China in almost a decade.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
+      "url": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Legal counsel challenges DOJ&#039;s assertion of House&#039;s involvement in controversial raid on Ilhan Omar&#039;s home.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "US attorney general dodges questions about Nvidia investigation",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "alsoReportedBy": []
     },
     {
-      "title": "How Senegal got their AFCON trophy back",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Disability benefit review calls for closer link with claimant costs",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
+      "summary": "A government-commissioned report calls for a \"rebalancing\" of the amount paid to different claimants.",
       "alsoReportedBy": []
     },
     {
-      "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Oceans, fossil fuels and keeping 1.5 alive: the missed opportunities at Cop31",
+      "url": "https://www.theguardian.com/environment/2026/nov/24/missed-opportunities-cop31-oceans-fossil-fuels",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.",
+      "summary": "The collapse of the ‘Antalya pact’ took away the chance of a unifying effort to deal with a number of issues The “Antalya pact” was supposed to be the keystone document agreed at the UN’s Cop31 climate summit in Turkey, but in the final days and hours countries became entrenched, leaving the pact dead in the water. But what did it say, and what opportunities were missed when it died? Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Who really owns the land in Albania that Jared Kushner wants to develop?",
+      "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
       "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
       "source": "NPR",
       "category": "top",
@@ -65,30 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+      "title": "Jensen Huang’s return to Nvidia is elite impunity | Moira Donegan",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/24/jensen-huang-nvidia-return",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "I don’t have children. A stranger decided I was ruining my life",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/24/child-free-stranger-comments",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A reader sent me unsolicited photos of his children, insisting I was missing out on everything. Why are other people’s reproductive choices so threatening to many of us? Last fall, a man I had never met wrote to inform me that my fertility window was “rapidly closing” – and that I couldn’t possibly be happy. What had prompted this unsolicited assessment was an article I had published about how fascist regimes seek to control women’s roles in society. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+      "summary": "After the CEO was reinstated after Trump’s pressure campaign, it is abundantly clear: there are different rules for rich people There are different rules for rich people. If you or I acted the way that Jensen Huang has been accused of acting – allegedly berating and mistreating employees, sleeping with subordinates, and seeming to carry on a staggering number of extramarital affairs, including one with a woman identified by US intelligence as a likely Chinese spy who helped smuggle the company’s product to China – we probably would find ourselves out of work and out of favor for quite some time. But this is not so for Huang, the tech founder and close ally to Donald Trump who was recently ousted from Nvidia, the chip manufacturer he founded. On Monday, after a pressure campaign from Donald Trump, JD Vance and other members of the Trump administration, Huang was reinstated as CEO by the Nvidia board. Moira Donegan is a Guardian US columnist Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,12 +101,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
       "alsoReportedBy": []
     },
     {
@@ -119,21 +119,21 @@
       "alsoReportedBy": ["BBC World"]
     },
     {
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
       "alsoReportedBy": []
     },
     {
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
       "alsoReportedBy": []
     },
     {
@@ -146,43 +146,52 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+      "title": "Georgia Tech couple clears up viral televised argument during football game",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/georgia-tech-football-couple-arguing-espn",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of ethnonationalism, and particularly with the suggestion from Suella Braverman, Reform UK’s education spokesperson, that people of Asian heritage can’t be English . Do you agree with him about that, and are you going to do anything about it? Farage replied: I’m very worried about it and I think you can see with the online right, both in this country and America, some pretty extraordinary things being said that would have been unthinkable even a handful of years ago … So, yes, there is a rise in ethnonationalism. I’ve fought this all my career. No one did more to beat the BNP than me. I view it as an unwelcome debate and I don’t want to hear anything about it again. Is that clear? I do not trust the Conservative party on this issue. I trusted them back in 2019. I felt it was the right thing to do. I will never trust them again. And there’s no evidence to suggest that many of millions of others should do so. Continue reading...",
+      "summary": "Tallulah Wall and Braden Flournoy says their discussion that riveted viewers ‘was completely insignificant’ A couple whose heated discussion in the stands of a recent college football game in Atlanta was nationally and virally televised has spoken out about the experience – saying it ended up being how most of the people in their lives learned they were dating. Georgia Tech students Tallulah Wall and Braden Flournoy appeared on NBC’s Today show on Tuesday, three days after ESPN showed them having an intense conversation while watching their school’s football team lose resoundingly in their home stadium to Wake Forest. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Standard owner Lord Lebedev cuts £5m off price of London mansion",
-      "url": "https://www.theguardian.com/media/2026/nov/24/lord-lebedev-cuts-price-london-mansion-cost",
+      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Democrats demand records as investigation into Trump Jr’s investment firm widens",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Son of a Russian billionaire cuts cost of Stud House in Hampton Court estate from £25m to £19.85m Evgeny Lebedev, the son of a Russian billionaire and owner of the Standard newspaper, has cut £5m off the asking price for his London mansion. The eight-bedroom Grade II-listed house sits on the Hampton Court estate, a former hunting ground of King Henry VIII on the south-west edge of London. It was first listed in July for £25m, but that has been reduced to £19.85m. Continue reading...",
+      "summary": "Four firms linked to 1789 Capital asked to cooperate as Jamie Raskin leads inquiry into possible insider dealing Democrats have widened their investigation into Donald Trump Jr’s investment firm, demanding records from four companies that gained its backing shortly before receiving lucrative government contracts or favourable regulatory decisions. Jamie Raskin, the top Democrat on the House of Representatives’ judiciary committee, sent letters to online firearms seller GrabAGun , defence contractor Hadrian Automation , vape maker Juul Labs , and prediction market platform Polymarket , requesting two years’ worth of communications and financial documents relating to their dealings with 1789 Capital. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "California king tides threaten Thanksgiving travel as coastal flooding looms",
-      "url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-      "source": "Guardian World",
+      "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
+      "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Seasonal high tides and rising ocean levels can disrupt flights and flood roads, with the San Francisco Bay Area facing some of the greatest risks Explainer: What to know about flooding in California over Thanksgiving Starting this morning, seasonal high tides up and down the coast of California are expected to drive “major to extreme” coastal flooding, with the San Francisco Bay Area currently seen as being at the highest risk of travel-related flooding delays. The first of the year’s highest “king tides” will arrive in much of southern California, including parts of San Diego and Los Angeles, before 9am on Tuesday, and in the Bay Area between 10 and 11am, according to tidal estimates from the California Coastal Commission. Continue reading...",
+      "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
       "alsoReportedBy": []
     },
     {
-      "title": "Storms and flooding in US could disrupt Thanksgiving travel for tens of millions",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/thanksgiving-travel-storms-weather",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Storm systems across the country are expected to produce periods of heavy rain and strong winds before the holiday Potent storms and flooding could disrupt the plans of tens of millions of people traveling for Thanksgiving , according to the US’s National Weather Service (NWS). A storm system affecting the US Pacific north-west and another affecting the eastern part of the country are expected to produce periods of heavy rain and strong wind gusts, the NWS said as millions of Americans prepared to travel for Thursday’s holiday. Continue reading...",
+      "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+      "source": "Pragmatic Engineer",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
       "alsoReportedBy": []
     },
     {
-      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
       "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "source": "Hacker News",
       "category": "engineering",
@@ -200,8 +209,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Jetty Pro",
-      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "title": "What Cloudflare Doesn't Tell You",
+      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,8 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
-      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "title": "Jetty Pro",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,8 +236,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ladybird is now in alpha",
-      "url": "https://ladybird.org/posts/alpha/",
+      "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -254,18 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Inference engineering for software engineers",
-      "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
-      "source": "Pragmatic Engineer",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
-      "url": "https://s.conao3.com/blog/2026/e4f733",
-      "source": "Lobsters",
+      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -358,7 +358,7 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. This gives us a deeper network without increasing the parameter count. This is the second mention of looped transformers I've seen in the past week - the first was Inkling 2 Mini from Thinking Machines Lab on November 20th, who said: Inkling 2 Mini is a looped transformer, running the middle layers of the model three times for every token. This allows the model to apply more reasoning and reach the right answer with fewer tokens, especially on tasks such as agentic coding that depend on reasoning quality. GLM 5.4 is not (yet?) available as open weights. I tried it out using the Z.ai API, for which I had to sign up for their Coding Plan subscription because 5.4 cannot currently be accessed through the regular API. It turns out both coding plan and regular API share the same OpenAI-compatible Responses API (at https://api.z.ai/api/v1 ), and the API key for the coding plan worked with that and gave me access to the new model. I built a llm-glm plugin , then realized that llm-zai by Tommy Hughes already exists! I've shipped mine purely because llm-zai doesn't yet support the new model, but I'll likely retire mine once that plugin catches up. Here are pelicans for GLM-5.4 on low, high, and max. This is the max one: I realized I never ran pelicans for GLM-5.3, so here those are for the same effort levels. They look similar in quality to 5.4. It's interesting how GLM 5.1 and GLM 5.2 produced radically different pelicans from other models. The pelicans for 5.3 and 5.4 are much more comparable to those I get from OpenAI or Anthropic models - the previous generations had their own distinctive look. I made a comparison grid showing the four generations of GLM pelicans all in one place. The style transition between 5.2 and 5.3 is pretty stark. Tags: ai , generative-ai , llms , llm , pelican-riding-a-bicycle , llm-release , ai-in-china , glm",
+      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. This gives us a deeper network without increasing the parameter count. This is the second mention of looped transformers I've seen in the past week - the first was Inkling 2 Mini from Thinking Machines Lab on November 20th, who said: Inkling 2 Mini is a looped transformer, running the middle layers of the model three times for every token. This allows the model to apply more reasoning and reach the right answer with fewer tokens, especially on tasks such as agentic coding that depend on reasoning quality. GLM 5.4 is not yet available as open weights: We plan to open-source the model weights responsibly after completing necessary safety hardening. I tried it out using the Z.ai API, for which I had to sign up for their Coding Plan subscription because 5.4 cannot currently be accessed through the regular API. It turns out both coding plan and regular API share the same OpenAI-compatible Responses API (at https://api.z.ai/api/v1 ), and the API key for the coding plan worked with that and gave me access to the new model. I built a llm-glm plugin , then realized that llm-zai by Tommy Hughes already exists! I've shipped mine purely because llm-zai doesn't yet support the new model, but I'll likely retire mine once that plugin catches up. Here are pelicans for GLM-5.4 on low, high, and max. This is the max one: I realized I never ran pelicans for GLM-5.3, so here those are for the same effort levels. They look similar in quality to 5.4. It's interesting how GLM 5.1 and GLM 5.2 produced radically different pelicans from other models. The pelicans for 5.3 and 5.4 are much more comparable to those I get from OpenAI or Anthropic models - the previous generations had their own distinctive look. I made a comparison grid showing the four generations of GLM pelicans all in one place. The style transition between 5.2 and 5.3 is pretty stark. Tags: ai , generative-ai , llms , llm , pelican-riding-a-bicycle , llm-release , ai-in-china , glm",
       "alsoReportedBy": []
     }
   ]
