@@ -1,6 +1,80 @@
 {
-  "generated": "2026-11-24T15:42:13.012743Z",
+  "generated": "2026-11-24T17:43:04.196821Z",
   "summaries": [
+    {
+      "summary": "Owner of London's Stud House, Evgeny Lebedev, slashes property's price by £5m.",
+      "url": "https://www.theguardian.com/media/2026/nov/24/lord-lebedev-cuts-price-london-mansion-cost",
+      "points": [
+        "Evgeny Lebedev, son of a Russian billionaire and Standard owner, reduces mansion price.",
+        "Stud House, an eight-bedroom Grade II-listed property, initially priced at £25m.",
+        "New asking price for the Hampton Court estate mansion is now £19.85m."
+      ]
+    },
+    {
+      "summary": "Storms and flooding could disrupt Thanksgiving travel for tens of millions in the US.",
+      "significance": "Storms and flooding could disrupt travel plans for tens of millions of Americans preparing for Thanksgiving.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/thanksgiving-travel-storms-weather",
+      "points": [
+        "National Weather Service warns of heavy rain and strong winds.",
+        "Storm systems affect both the Pacific Northwest and the eastern US.",
+        "Disruption expected for millions traveling for Thanksgiving on Thursday."
+      ]
+    },
+    {
+      "summary": "A cyberattack campaign compromised Check Point servers in 22 organizations across multiple countries between October 17th and November 2nd, 2026.",
+      "significance": "A cyberattack campaign compromised Check Point servers in 22 global organizations across various sectors, indicating widespread security vulnerabilities in widely-used security management systems.",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "points": [
+        "The campaign used 99 IP addresses and impacted organizations in sectors like financial services, energy, and government.",
+        "The threat actor employed multiple CVEs and automated systems for scanning, exploitation, and tool development.",
+        "The attack involved setting up an \"operational relay box\" to manage interactions with compromised Check Point devices."
+      ]
+    },
+    {
+      "summary": "Developer revives a feature from DragThing, creating Jetty Pro, a customizable Dock-like app for macOS.",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "points": [
+        "Jetty Pro allows users to create floating palettes with files, folders, apps, and more.",
+        "Unlike the Dock, Jetty Pro shows folder label colors without setting a folder symbol."
+      ]
+    },
+    {
+      "summary": "Hex.pm experienced a security incident where unauthorized access led to potential data exposure and command execution on their servers.",
+      "url": "https://hex.pm/blog/security-incident-on-hexpm",
+      "points": [
+        "The incident occurred on November 23, 2026, and was resolved within 20 minutes.",
+        "The attacker sent 69 malicious requests, affecting six web servers.",
+        "Potential exposure of sensitive data including email addresses, password hashes, and 2FA secrets was possible, though no unauthorized package modifications were found."
+      ]
+    },
+    {
+      "summary": "A new USB-C board design allows simultaneous USB 3 and USB 2 connections on one port, enhancing recovery modes for Macs.",
+      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "points": [
+        "The design uses a single USB-C port to connect both USB 2 and USB 3 controllers independently.",
+        "Initial USB 3 board designs were too costly, increasing PCB size to ~100 mm.",
+        "Final design supports 10 Gbps transfers, significantly reducing cost compared to the original plan."
+      ]
+    },
+    {
+      "summary": "A developer found 17 unreported bugs in Clojure's core using Lean and differential testing.",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "points": [
+        "17 bugs discovered in Clojure's HAMT and vector-of through formal verification.",
+        "Bugs found in areas outside the trees, such as hash collision nodes and type hints.",
+        "Differential testing ran 3 million operations on collections without finding mismatches."
+      ]
+    },
+    {
+      "summary": "GPT 6.2 Astra identified the creator of an anonymous 1808 sketchbook held at Yale\u2019s Beinecke Library.",
+      "significance": "GPT 6.2 Astra's historical discovery demonstrates AI's capability to significantly aid and potentially transform historical research methods.",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "points": [
+        "GPT 6.2 Astra solved the mystery in just 22 minutes using publicly available sources.",
+        "The AI discovered a diary reference linking the sketchbook to the vicomte de Chabot.",
+        "Historians may face a confidence crisis as AI systems like GPT 6.2 Astra can perform tasks beyond human capabilities."
+      ]
+    },
     {
       "summary": "Trump reportedly gained up to $15m on Nvidia stock after the company reinstated CEO Jensen Huang.",
       "significance": "The story highlights potential conflicts of interest and influence of US president Trump on corporate decisions, affecting Nvidia's stock and reputation.",
@@ -3667,83 +3741,6 @@
         "Firmware for Tracker, Tracker+, and Tracker Mini available on GitHub",
         "New features include expanded sample memory usage, dedicated fields for Micro-move and Volume, and six new effects",
         "Community can build custom synth engines and themes, with official updates planned"
-      ]
-    },
-    {
-      "summary": "Global youth protests are escalating, mirroring historic movements, with students demanding change from France to Albania.",
-      "significance": "Global youth protests highlight broken promises to young people, potentially threatening liberal democracies worldwide.",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/02/global-youthquake-young-people-anger-protest-liberal-democracy",
-      "points": [
-        "French youth began protests by climbing the July Column in Paris\u2019s Place de la Bastille.",
-        "Italian students occupied a Rome high school, echoing French protests.",
-        "In Albania, students have protested for nearly five months, demanding government replacement."
-      ]
-    },
-    {
-      "summary": "Stevens, a Democrat, backed Republican Rogers after losing primary, due to Israel stance.",
-      "significance": "The story highlights how Israel's role influenced Stevens's political alignment, shifting her support from a Democratic candidate to a Republican one.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/haley-stevens-israel-aipac",
-      "points": [
-        "Stevens failed to defeat Abdul El-Sayed in the primary.",
-        "Stevens decided to campaign with Republican Mike Rogers.",
-        "Stevens's shift is attributed to aligning on Israel's position."
-      ]
-    },
-    {
-      "summary": "Cyber-attacks have caused supermarket fridges and freezers in seven European countries to malfunction, raising EU concerns.",
-      "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-      "points": [
-        "Malfunctioning appliances had thermostats remotely set as high as 50C (122F).",
-        "Attacks affected supermarket cooling systems across seven European countries.",
-        "EU condemned the incidents as a deliberate disruption of the food supply chain."
-      ]
-    },
-    {
-      "summary": "Trial begins for nine men accused of abusing a woman who was drugged and raped by her husband.",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/02/trial-of-nine-men-accused-of-abusing-woman-drugged-and-raped-by-husband-begins",
-      "points": [
-        "Husband pleaded guilty to offences against his wife over two decades.",
-        "Abuse took place at the couple\u2019s home in Stockport.",
-        "Nine men are on trial for their involvement in the woman's abuse."
-      ]
-    },
-    {
-      "summary": "Federal judge dismissed charges against two former FBI officials accused of lying about Hunter Biden's laptop investigation.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden",
-      "points": [
-        "Judge Zia Faruqui ruled prosecutors failed to show probable cause.",
-        "Accused officials were Nikki Floris and Bradley Benavides.",
-        "Case involved the FBI\u2019s role in investigating Hunter Biden's laptop."
-      ]
-    },
-    {
-      "summary": "Astra demonstrates the ability to read and write neural network weights to improve model performance, particularly in math and game-playing tasks.",
-      "significance": "Astra improves Qwen's math abilities significantly by directly editing neural network weights without gradient-based training, marking a shift towards reasoning-driven optimization in neural networks.",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "points": [
-        "Astra improved Qwen3.5-0.8B's math performance from 7.9% to 48.1% on MATH-500.",
-        "Astra correctly identified the games Breakout, Pong, Pac-Man, and Freeway from neural network weights.",
-        "Astra created game-playing networks that outperformed PPO-trained networks after 100 million steps."
-      ]
-    },
-    {
-      "summary": "Real Madrid games remain banned in China, even after Mbappe apologized for controversial comments.",
-      "significance": "The continued ban affects Real Madrid's Chinese fanbase and revenue, despite Mbappe's apology for controversial comments.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
-      "points": [
-        "Chinese channels did not broadcast Real Madrid's La Liga match on Sunday.",
-        "Mbappe apologized for his 'ill judged' remarks about a Mao Zedong meme.",
-        "Banning persists despite Mbappe's public apology."
-      ]
-    },
-    {
-      "summary": "UK Home Secretary Mahmood announces care workers can get settlement after 5 years instead of 15, but not applicable to those arriving after May 2025.",
-      "significance": "The shortened settlement period for care workers from 15 to 5 years will affect their ability to gain indefinite leave to remain in the UK more quickly.",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
-      "points": [
-        "Care workers can now apply for settlement after 5 years instead of 15.",
-        "New rule does not apply to care workers arriving after May 2025.",
-        "Downing Street did not disclose cost of plane detour for Andy Burnham."
       ]
     }
   ]
