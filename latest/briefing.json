@@ -2,6 +2,42 @@
   "date": "2026-11-24",
   "stories": [
     {
+      "title": "Russian jets spark air raid alert in South Korea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
+      "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Sacked London Pride boss given suspended prison sentence",
       "url": "https://www.bbc.co.uk/news/articles/cwr5gvmme9q7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,30 +47,21 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-      "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Disability benefit review calls for closer link with claimant costs",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Ukrainian attacks subsided after Trump&#039;s mid-October declaration of an energy ceasefire, but picked up again afterwards.",
+      "summary": "A government-commissioned report calls for a \"rebalancing\" of the amount paid to different claimants.",
       "alsoReportedBy": []
     },
     {
-      "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
-      "url": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
+      "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The agreement marks the US planemaker&#039;s first major order from China in almost a decade.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
-      "url": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Legal counsel challenges DOJ&#039;s assertion of House&#039;s involvement in controversial raid on Ilhan Omar&#039;s home.",
+      "summary": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
       "alsoReportedBy": []
     },
     {
@@ -47,15 +74,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Disability benefit review calls for closer link with claimant costs",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A government-commissioned report calls for a \"rebalancing\" of the amount paid to different claimants.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Oceans, fossil fuels and keeping 1.5 alive: the missed opportunities at Cop31",
       "url": "https://www.theguardian.com/environment/2026/nov/24/missed-opportunities-cop31-oceans-fossil-fuels",
       "source": "The Guardian",
@@ -65,30 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+      "title": "Canada asserts it is a ‘sovereign nation’ after scathing Pentagon memo",
+      "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
-      "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Jensen Huang’s return to Nvidia is elite impunity | Moira Donegan",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/24/jensen-huang-nvidia-return",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "After the CEO was reinstated after Trump’s pressure campaign, it is abundantly clear: there are different rules for rich people There are different rules for rich people. If you or I acted the way that Jensen Huang has been accused of acting – allegedly berating and mistreating employees, sleeping with subordinates, and seeming to carry on a staggering number of extramarital affairs, including one with a woman identified by US intelligence as a likely Chinese spy who helped smuggle the company’s product to China – we probably would find ourselves out of work and out of favor for quite some time. But this is not so for Huang, the tech founder and close ally to Donald Trump who was recently ousted from Nvidia, the chip manufacturer he founded. On Monday, after a pressure campaign from Donald Trump, JD Vance and other members of the Trump administration, Huang was reinstated as CEO by the Nvidia board. Moira Donegan is a Guardian US columnist Continue reading...",
+      "summary": "US document criticizes the supposedly ‘atrophied’ defence capabilities of its northern neighbour Canada is a “sovereign nation” that does not “report” to the United States, the country’s defense minister said after the Pentagon released a scathing memo that criticized the supposedly “atrophied” defence capabilities of its northern neighbour. The document , released Tuesday, said Canada had “yet to make the hard decisions and tradeoffs” necessary to meet previous defence spending pledges and become a “credible partner in the defense of our shared continent”. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,15 +101,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
-      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
       "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
       "source": "Guardian World",
@@ -119,12 +110,57 @@
       "alsoReportedBy": ["BBC World"]
     },
     {
+      "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+      "source": "NPR World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Australian politics live: US ambassador criticises digital duty of care bill; Chalmers downplays recession fears",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Land mine casualties soar in Syria, two years after war",
       "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Victory expands Democrats’ House majority, its largest advantage in three decades Democrat Victoria Broderick has won Tennessee’s fourth congressional district, unseating eight-term Republican incumbent Scott DesJarlais in one of the biggest House upsets of the cycle. The victory expands Democrats’ historic House majority in the 120th Congress to 259 seats, the party’s largest advantage in three decades , and flips a seat that Donald Trump carried by more than 20 points in 2024. Broderick, 34, a former technology and logistics professional who previously ran for Congress in 2024, told the Guardian in an interview before her race was called that she connected with constituents who had not voted in years and met Republicans concerned about affordability who appreciated the “integrity” she brought to the race. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -137,48 +173,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Georgia Tech couple clears up viral televised argument during football game",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/georgia-tech-football-couple-arguing-espn",
+      "title": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Tallulah Wall and Braden Flournoy says their discussion that riveted viewers ‘was completely insignificant’ A couple whose heated discussion in the stands of a recent college football game in Atlanta was nationally and virally televised has spoken out about the experience – saying it ended up being how most of the people in their lives learned they were dating. Georgia Tech students Tallulah Wall and Braden Flournoy appeared on NBC’s Today show on Tuesday, three days after ESPN showed them having an intense conversation while watching their school’s football team lose resoundingly in their home stadium to Wake Forest. Continue reading...",
+      "summary": "Senate minority leader joins lawmakers from both parties outraged over Nvidia CEO’s reinstatement Chuck Schumer, the current Senate minority leader vying to lead the Democratic majority in the next Congress, accused Jensen Huang, the newly reinstated Nvidia CEO, of shipping “extremely advanced chips to China” and violating US export control laws. On Tuesday, Schumer said the move “amounts to the equivalent of selling rocket engines to the Soviets during the space race”. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Democrats demand records as investigation into Trump Jr’s investment firm widens",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Four firms linked to 1789 Capital asked to cooperate as Jamie Raskin leads inquiry into possible insider dealing Democrats have widened their investigation into Donald Trump Jr’s investment firm, demanding records from four companies that gained its backing shortly before receiving lucrative government contracts or favourable regulatory decisions. Jamie Raskin, the top Democrat on the House of Representatives’ judiciary committee, sent letters to online firearms seller GrabAGun , defence contractor Hadrian Automation , vape maker Juul Labs , and prediction market platform Polymarket , requesting two years’ worth of communications and financial documents relating to their dealings with 1789 Capital. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -191,15 +200,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "2035 came early",
       "url": "https://fzakaria.com/2026/11/23/2035-came-early",
       "source": "Lobsters",
@@ -209,8 +209,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "What Cloudflare Doesn't Tell You",
-      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,18 +227,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Jetty Pro",
-      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "source": "Hacker News",
+      "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
-      "url": "https://s.conao3.com/blog/2026/e4f733",
-      "source": "Lobsters",
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
-      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
-      "source": "Hacker News",
+      "title": "Per Vognsen on the effect of AVX-512 on lexing and parsing",
+      "url": "https://mastodon.social/@pervognsen/117668394962974183",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",

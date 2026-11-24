@@ -1,6 +1,63 @@
 {
-  "generated": "2026-11-24T19:41:49.383564Z",
+  "generated": "2026-11-24T21:42:05.080591Z",
   "summaries": [
+    {
+      "summary": "Canada defends its sovereignty after a Pentagon memo criticized its defense capabilities.",
+      "significance": "The story highlights tensions between Canada and the US over defence capabilities, asserting Canada's sovereignty in response to US criticism.",
+      "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
+      "points": [
+        "Canada's defense minister stated Canada is a \"sovereign nation\" not reporting to the US.",
+        "Pentagon memo criticized Canada's defense as \"atrophied\" and not meeting spending pledges.",
+        "Document was released on Tuesday and questioned Canada's credibility as a defense partner."
+      ]
+    },
+    {
+      "summary": "US ambassador criticizes Australian digital duty of care bill; Chalmers minimizes recession concerns.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "points": [
+        "Anika Wells argues AI investment and creative protections are not mutually exclusive.",
+        "Wells emphasizes the need for creatives to be paid properly for their work.",
+        "Current situation sees creatives lacking control and often not being paid for their work."
+      ]
+    },
+    {
+      "summary": "Democrat Victoria Broderick won Tennessee\u2019s fourth congressional district, defeating eight-term Republican incumbent Scott DesJarlais.",
+      "significance": "Broderick's win expands Democrats' House majority to its largest in three decades, flipping a seat long-held by Republicans.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms",
+      "points": [
+        "Broderick's win expands Democrats\u2019 House majority to 259 seats, their largest in three decades.",
+        "The district voted for Donald Trump by over 20 points in 2024.",
+        "Broderick, 34, previously ran for Congress in 2024 and highlighted her connection with constituents."
+      ]
+    },
+    {
+      "summary": "Schumer accuses Nvidia CEO Huang of violating US export control laws by shipping advanced chips to China.",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
+      "points": [
+        "Schumer, Senate minority leader, compared the chip shipments to selling rocket engines to the Soviets.",
+        "Accusation targets Huang, recently reinstated as Nvidia CEO.",
+        "The dispute involves shipments of \"extremely advanced chips\" to China."
+      ]
+    },
+    {
+      "summary": "PrismML introduces Ternary Bonsai 2.5 27B, enhancing agentic coding and multi-turn tool use while maintaining a compact model size.",
+      "significance": "Ternary Bonsai 2.5 27B enhances agentic coding and multi-turn tool use, improving efficiency and accuracy in private knowledge work on local devices.",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "points": [
+        "Ternary Bonsai 2.5 27B achieves 291 tokens/s generation speed on NVIDIA H100.",
+        "Model retains 5.9 GB footprint but improves task execution and reasoning.",
+        "Available under Apache 2.0 License for deployment on various devices including NVIDIA, Intel GPUs, and Apple devices."
+      ]
+    },
+    {
+      "summary": "The article discusses the transition from using CUDA and JAX to TorchTPU for solving combinatorial puzzles with Cayley graphs, highlighting performance improvements and challenges.",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "points": [
+        "The initial TorchTPU training was 1.65x slower than the A100 GPU implementation.",
+        "After optimizations, the TorchTPU beam search became faster per level than JAX on an eight-chip v6e machine.",
+        "The project involved a 3.4M-parameter neural network trained over 80 hours to solve puzzles."
+      ]
+    },
     {
       "summary": "Sacked London Pride boss Christopher Joell-Deshields received a suspended prison sentence for harvesting confidential documents.",
       "significance": "The suspended prison sentence for the sacked London Pride boss highlights the serious consequences of his misconduct and contempt of court, affecting the organization's integrity and operations.",
@@ -3683,63 +3740,6 @@
         "Default model changed to gpt-6-luna, half the price of previous default.",
         "Added support for different content types in embeddings, including Gemini Embedding 2.",
         "Release includes contributions from 12 authors, mostly AI-assisted."
-      ]
-    },
-    {
-      "summary": "Julian Fellowes' period drama \"The Gilded Age\" returns for a fourth season despite its poor reception.",
-      "significance": "The article highlights the paradox of a critically panned show like \"The Gilded Age\" achieving Emmy wins and multiple seasons, affecting perceptions of quality in period dramas.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker",
-      "points": [
-        "Show has won Emmys despite being called \"uniformly awful.\"",
-        "Meryl Streep stars but seems awkward watching her daughter Louisa Jacobson.",
-        "Fourth season continues despite no promise it will be the final one."
-      ]
-    },
-    {
-      "summary": "Lindsay Clancy seeks to dismiss murder charges in a new court hearing after her previous trial ended in a mistrial.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing",
-      "points": [
-        "Clancy's lawyers argue a new trial would violate double jeopardy rules.",
-        "The previous trial ended with a deadlocked jury in September.",
-        "Clancy is charged with murdering her three young children."
-      ]
-    },
-    {
-      "summary": "Supreme Court rejected Trump's attempt to segregate and not count 20,000 ballots in California.",
-      "significance": "Supreme Court upholds state election authority, rejecting federal attempt to invalidate ballots.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
-      "points": [
-        "Supreme Court ruled against Trump administration's bid to set aside ballots.",
-        "Justice Department claimed 20,000 non-citizens were on California's voter rolls.",
-        "Election officials were given only 48 hours to review the list of alleged non-citizens."
-      ]
-    },
-    {
-      "summary": "A Washington state resident with underlying conditions died after contracting bird flu at a dairy.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/bird-flu-death-washington",
-      "points": [
-        "Death occurred after exposure to avian influenza at a Yakima county dairy.",
-        "Individual was hospitalized with a \"severe illness\" following the infection.",
-        "The person had underlying health conditions, though specifics were not disclosed."
-      ]
-    },
-    {
-      "summary": "Anthropic's revenue growth has slowed significantly in Q3 compared to Q2.",
-      "significance": "Anthropic's growth flattening affects investor expectations and may contribute to the decline in \"neocloud\" provider stocks, suggesting a potential slowdown in AI service revenue growth.",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "points": [
-        "Anthropic's Q3 revenue growth was $580 million per month, down from $760 million in Q2.",
-        "The slowdown in growth could affect the valuation of AI companies and the AI bubble.",
-        "CoreWeave and other \"neocloud\" providers are experiencing stock collapses due to rising interest rates and flattening AI service revenue growth."
-      ]
-    },
-    {
-      "summary": "A decade-long series of bugs in Unix process group signaling led to unexpected system-wide outages.",
-      "url": "https://alangrow.com/blog/a-decade-of-kill-bugs",
-      "points": [
-        "Between 2013 and 2026, at least four distinct bugs related to negative pids shipped in Ubuntu LTS versions.",
-        "The bugs caused the kill command to target all processes instead of intended process groups.",
-        "Initially, the bugs manifested as no action or accidental shell terminations, but later led to system-wide outages."
       ]
     }
   ]
