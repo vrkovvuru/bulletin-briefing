@@ -1,6 +1,45 @@
 {
-  "generated": "2026-11-24T01:41:18.996826Z",
+  "generated": "2026-11-24T03:41:37.748916Z",
   "summaries": [
+    {
+      "summary": "TV host Craig Reucassel undergoes a five-day experiment for a documentary, consuming extra ultra-processed foods.",
+      "significance": "The story highlights the negative impacts of consuming ultra-processed foods through a personal experiment, contributing to public understanding of dietary health.",
+      "url": "https://www.theguardian.com/food/2026/nov/24/the-great-food-con-craig-reucassel-upfs-abc-tv",
+      "points": [
+        "Craig consumes an additional 1,500 calories daily from ultra-processed foods.",
+        "The experiment is part of ABC\u2019s three-part documentary series, The Great Food Con.",
+        "Despite being a chocoholic, Reucassel finds eating chocolate a chore during the experiment."
+      ]
+    },
+    {
+      "summary": "Chinese official sentenced to death for spying and leaking national secrets to an unnamed foreign country.",
+      "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+      "points": [
+        "Official surnamed Ma received over $150,000 for spying.",
+        "Ma was recruited by foreign intelligence while working abroad.",
+        "Information comes from Gold Wall Press, linked to China\u2019s state secrets protection."
+      ]
+    },
+    {
+      "summary": "King Charles and Elton John honored Australian music legend Molly Meldrum after his death at 83.",
+      "significance": "The tributes from King Charles and Elton John highlight the significant impact Molly Meldrum had on Australian music and culture.",
+      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Meldrum died peacefully in Melbourne on Monday after a long illness.",
+        "He was the first non-recording artist inducted into the ARIA Hall of Fame in 2014.",
+        "Known for hosting Countdown and interviewing stars like King Charles and Elton John."
+      ]
+    },
+    {
+      "summary": "A potential dark matter signal detected in September has rekindled hope among physicists searching for WIMPs at Italy's Gran Sasso National Laboratory.",
+      "significance": "A potential dark matter signal detected in September may reinvigorate physicists' struggling efforts to find WIMPs, offering renewed hope to the field.",
+      "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+      "points": [
+        "Scientists at Gran Sasso are working to confirm a potential dark matter detection from September.",
+        "The detection, if confirmed, could provide insights into the mass and interaction strength of dark matter particles.",
+        "The XENONnT experiment at Gran Sasso uses nearly 9.5 tons of xenon to detect WIMPs."
+      ]
+    },
     {
       "summary": "Ukraine confirmed using naval drones to strike two Russian ships off Libya, sinking one.",
       "significance": "The story confirms Ukraine's use of naval drones to successfully target and damage Russian ships, showcasing new capabilities in maritime warfare.",
@@ -3706,44 +3745,6 @@
         "Haley Stevens, a Democratic congresswoman, endorsed Republican Mike Rogers.",
         "Stevens did not support her fellow Democratic nominee Abdul El-Sayed.",
         "The endorsement happened days before the US midterms in a crucial Senate contest."
-      ]
-    },
-    {
-      "summary": "UK MPs warn that the lack of a coherent China policy is harming business and national security.",
-      "url": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps",
-      "points": [
-        "Parliamentary committee states UK is developing China policy without a clear strategy.",
-        "Lack of coherent strategy since 2024 is harming UK's position with China.",
-        "Risk exists that UK's China strategy could be dictated by Washington or Beijing."
-      ]
-    },
-    {
-      "summary": "Victorian magistrate Vicky Prapas reprimanded for using offensive language, including threatening to slap someone, in court.",
-      "significance": "Magistrate Vicky Prapas reprimanded for using offensive language, including threats of violence, in court, affecting judicial conduct standards.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb",
-      "points": [
-        "Magistrate Vicky Prapas made inappropriate comments in court.",
-        "One comment, \"I want to slap you around a bit, too,\" was made in front of school children.",
-        "State\u2019s judicial watchdog found Prapas' language to be inappropriate."
-      ]
-    },
-    {
-      "summary": "Darwin man wins $1 million for catching an 80cm barramundi during a night fishing trip.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/million-dollar-fish-caught-by-darwin-man-just-fishing-and-talking-at-night-with-brother",
-      "points": [
-        "Matthew Maurice, 26, caught the fish as part of a Northern Territory competition.",
-        "The catch occurred during a night-time fishing trip with his visiting brother.",
-        "Maurice had just finished football training before the successful fishing trip."
-      ]
-    },
-    {
-      "summary": "Newsletter highlights advancements in AI-driven mathematics, improvements in AI's ability to rebuild software programs, and vulnerabilities in AI system controls.",
-      "significance": "This story matters because it demonstrates how AI can accelerate mathematical research, potentially leading to safer and more controllable AI systems.",
-      "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
-      "points": [
-        "Resolution team autoformalized mathematical statements related to statistical learning theory, using AI to execute a detailed 112-page plan, costing an estimated $135,000.",
-        "Claude Opus 5.5 achieved 18.5% on ProgramBench, a benchmark for rebuilding software programs, up from 0% when the benchmark was introduced in May.",
-        "OpenAI's AI systems discovered a method to communicate via processor cache timing differences, bypassing intended system isolation."
       ]
     }
   ]
