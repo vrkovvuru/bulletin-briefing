@@ -1,6 +1,108 @@
 {
-  "generated": "2026-11-24T05:41:49.299930Z",
+  "generated": "2026-11-24T13:43:55.387033Z",
   "summaries": [
+    {
+      "summary": "A stranger sent unsolicited photos of his children and criticized the author's child-free choice after reading her article on fascist regimes controlling women's roles.",
+      "significance": "The story highlights the intrusive judgments people face over their reproductive choices, affecting those who choose not to have children.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/24/child-free-stranger-comments",
+      "points": [
+        "A man claimed the author's fertility window was \"rapidly closing\" and she couldn't be happy.",
+        "The incident occurred after the author published an article on fascist regimes controlling women\u2019s roles.",
+        "The stranger insisted the author was missing out on life by not having children."
+      ]
+    },
+    {
+      "summary": "Documentary \"You Can See Everything\" follows Theranos founder Elizabeth Holmes before her imprisonment for fraud.",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/24/you-can-see-everything-elizabeth-holmes-eyes",
+      "points": [
+        "Holmes claims she never lied and believes she committed no crime.",
+        "The fraud cost investors over $700m."
+      ]
+    },
+    {
+      "summary": "Democrats criticize Nvidia and Trump over Huang's return, planning to question Huang on China ties and Trump's intervention.",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+      "points": [
+        "Ruben Gallego warns of setting a 'bad lesson for corporate America'.",
+        "Ro Khanna emphasizes that 'rules should apply to everyone'.",
+        "Trump participates in Medal of Freedom ceremony and Thanksgiving turkey pardoning."
+      ]
+    },
+    {
+      "summary": "Nigel Farage states he won't collaborate with the Tories on EU re-entry campaigns and expresses permanent distrust towards them.",
+      "significance": "Farage's statement reflects distrust towards the Tories on ethnonationalism, potentially impacting future political collaborations against EU rejoining.",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+      "points": [
+        "Farage indicates he won't work with Tories on EU re-entry campaigns.",
+        "Farage expresses concern over the rise of ethnonationalism.",
+        "Farage claims he will never trust the Conservative party again."
+      ]
+    },
+    {
+      "summary": "King tides in California threaten to cause coastal flooding and disrupt Thanksgiving travel.",
+      "url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
+      "points": [
+        "San Francisco Bay Area faces highest risk of travel delays due to flooding.",
+        "\"Major to extreme\" coastal flooding expected starting Tuesday morning.",
+        "King tides hitting San Diego and Los Angeles before 9am, Bay Area between 10-11am."
+      ]
+    },
+    {
+      "summary": "A talk envisions JavaScript becoming the dominant language for all software by 2035, a timeline accelerated by advancements in technology.",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "points": [
+        "Over 300,000 distinct package versions are now available directly from browsers.",
+        "WebAssembly enables kernel and system components to run at wasm speed, improving performance.",
+        "The new engine delivers 2x to 32x faster performance, depending on the workload."
+      ]
+    },
+    {
+      "summary": "An investigation reveals potential insider trading on Polymarket related to Jensen Huang's reinstatement at NVIDIA, detected 89 minutes before public confirmation.",
+      "significance": "This story documents a probable case of insider trading on Polymarket, highlighting the platform's role in revealing such illicit activities in real-time.",
+      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+      "points": [
+        "4,648 USDC invested at a 6.5% probability, yielding 71,518 USDC after confirmation.",
+        "The trade occurred 89 minutes before Donald Trump's tweet and 11 hours before NVIDIA's official announcement.",
+        "The trading account, created 81 hours prior, showed 100% focus on this single theme."
+      ]
+    },
+    {
+      "summary": "Author discusses how AI agents prioritize their parent companies' policies over users' desires.",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "points": [
+        "AI agent refuses to help user bypass Bandcamp's search API challenge.",
+        "Same AI agent downloads YouTube songs without compensating artists.",
+        "Author plans to study \"open models\" to avoid corporate restrictions on AI use."
+      ]
+    },
+    {
+      "summary": "Members of Congress have traded Nvidia stock frequently since January 2025, with 192 trades reported.",
+      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+      "points": [
+        "37 members of Congress made trades, with the largest totals leading the list.",
+        "Trades occurred between January 2025 and October 28, 2026, with 28 purchases valued between $5.1M to $16.7M.",
+        "The stock's price fluctuated around key events, including Jensen Huang's resignation and reinstatement."
+      ]
+    },
+    {
+      "summary": "The article discusses the use of Rewind, a tool inspired by Brendan Gregg's performance analysis techniques, to analyze and optimize build and test run times.",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "points": [
+        "47.4 seconds is the critical path time, with 67% of the time spent asleep and 33% computing.",
+        "Rewind analyzes the critical path, showing where time is spent and how to make the run finish sooner.",
+        "Brendan Gregg transformed performance analysis into a science, influencing the development of Rewind's capabilities."
+      ]
+    },
+    {
+      "summary": "Z.ai releases GLM-5.4, featuring a looped transformer architecture for improved coding tasks.",
+      "significance": "GLM-5.4 introduces a looped transformer architecture, refining hidden states through multiple iterations without increasing parameter count, potentially enhancing reasoning capabilities in coding tasks.",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "points": [
+        "GLM-5.4 uses a looped transformer, running weight-shared layers multiple times for refinement.",
+        "Inkling 2 Mini, another looped transformer, was introduced by Thinking Machines Lab on November 20th.",
+        "GLM-5.4 requires a Coding Plan subscription for access via Z.ai's OpenAI-compatible API."
+      ]
+    },
     {
       "summary": "A car bomb exploded near the governor\u2019s office in Villavicencio, Colombia, causing significant damage.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
@@ -3642,109 +3744,6 @@
         "Stevens narrowly lost the Democratic primary to Abdul El-Sayed.",
         "Her decision was met with praise from Donald Trump.",
         "The endorsement followed a feud over a campaign ad linking living costs to Israel support."
-      ]
-    },
-    {
-      "summary": "Abdul El-Sayed raised $2.4m after losing Haley Stevens' endorsement to Mike Rogers.",
-      "significance": "Abdul El-Sayed's record fundraising and lead in polls highlights the competitive nature of Michigan's US Senate race despite endorsement shifts.",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
-      "points": [
-        "El-Sayed leads Rogers by 11 percentage points in a recent poll.",
-        "Stevens endorsed Rogers, a move backed by Trump.",
-        "The Senate seat is crucial for Democrats to control the Senate."
-      ]
-    },
-    {
-      "summary": "Rare ant nest stolen from a nature reserve in Devon, England, where the species exclusively resides.",
-      "url": "https://www.theguardian.com/environment/2026/nov/02/rare-narrow-headed-ant-nest-stolen-devon",
-      "points": [
-        "Nest contained up to 5,000 narrow-headed ants.",
-        "Chudleigh Knighton Heath is the last location in England for this species.",
-        "Devon Wildlife Trust calls the theft 'reckless', impacting years of conservation work."
-      ]
-    },
-    {
-      "summary": "A record number of Australians show low interest in the Melbourne Cup due to concerns over gambling and animal cruelty.",
-      "url": "https://www.theguardian.com/sport/2026/nov/03/melbourne-cup-2026-poll-record-numbers-turn-their-backs",
-      "points": [
-        "Over two-thirds of surveyed Australians have low or zero interest in the Melbourne Cup.",
-        "Only 9% of Australians report high interest in the race currently.",
-        "Interest in the race has dropped to nearly half the proportion from 2025."
-      ]
-    },
-    {
-      "summary": "NSW council refused to display Gaza-themed artwork due to safety concerns, prompting organizers to consider hiring armed guards.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/shoalhaven-council-refuses-to-show-wall-of-tears-gaza-artwork-safety-risk-ntwnfb",
-      "points": [
-        "Shoalhaven council deemed Phil Buehler's Wall of Tears installation posed a risk to staff and visitors.",
-        "Artwork previously exhibited at Canberra's Parliament House lawns in September.",
-        "Organizers, Shoalhaven Friends of Palestine, considered armed guards to address community conflict concerns."
-      ]
-    },
-    {
-      "summary": "A critical Linux kernel bug affecting Ubuntu servers since 2016 remains unpatched despite a working exploit.",
-      "significance": "The story highlights Ubuntu's failure to patch a critical Linux kernel bug, undermining trust in its reliability and security promises.",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "points": [
-        "Ubuntu servers are still vulnerable nine days after the bug was rated 9.8 severity.",
-        "Volunteer-run distros like Debian and Arch have already patched the issue.",
-        "The author has taken all their Ubuntu servers offline due to lost trust in the platform."
-      ]
-    },
-    {
-      "summary": "Anthropic released an amended IPO prospectus with third-quarter financials, showing significant revenue growth and substantial losses.",
-      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "points": [
-        "Anthropic reported $17 billion in Q3 revenue, up 1,200% year-over-year to $33.24 billion for nine months.",
-        "The company has net losses of $104 billion, with $895.4 billion in purchase commitments for compute and infrastructure.",
-        "Anthropic's compute and infrastructure expenses increased by $14.4 billion, up 329% year-over-year."
-      ]
-    },
-    {
-      "summary": "Realtime-Bench evaluates AI systems' real-time task performance, highlighting significant limitations, while also noting growing space warfare threats detailed by the Defense Intelligence Agency.",
-      "significance": "Realtime-Bench highlights AI systems' current limitations in performing low-latency tasks, indicating areas where AI agents cannot yet be expected to perform well.",
-      "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
-      "points": [
-        "GPT-6 Astra achieved the highest pass rate of 36% on Realtime-Bench's 'wall clock' setting.",
-        "China has tripled its annual space launches from 22 in 2016 to 93 in 2025, emphasizing space as a military domain.",
-        "Realtime-Bench includes 50 tasks split into web and game categories, testing AI's real-time decision-making capabilities."
-      ]
-    },
-    {
-      "summary": "Oman's Sultan and China's President signed deals to enhance trade and investment between the two nations.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss",
-      "points": [
-        "Sultan Haitham bin Tariq met with President Xi Jinping in Beijing.",
-        "Talks focused on strengthening bilateral ties and economic cooperation.",
-        "Specific details of the deals signed were not provided in the article."
-      ]
-    },
-    {
-      "summary": "US diverges from global trend by focusing on military preparation rather than public readiness for emergencies.",
-      "significance": "The story highlights a divergence in emergency preparedness strategies between the US, focusing on military readiness, and other global approaches that emphasize public preparedness.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/us-emergency-preparedness-military",
-      "points": [
-        "US focuses on military preparation while other governments encourage public readiness.",
-        "Global campaigns aim to prepare public for cyber-attacks and natural disasters."
-      ]
-    },
-    {
-      "summary": "Cyber-hacks targeting freezer temperature controls hit supermarkets in Ireland and Estonia, while Russia resumed attacks on Kherson.",
-      "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-      "points": [
-        "Supermarkets in Ireland and Estonia faced cyber-attacks on their freezer temperature controls.",
-        "Russian attacks resumed on Kherson, hitting a hospital at 7.40am, post-ceasefire evacuation.",
-        "The evacuation involved hundreds of people from the nearby Kremlin-controlled town of Oleshky."
-      ]
-    },
-    {
-      "summary": "UK trade unions, bolstered by new employment rights, gain access to Google's UK workforce for recruitment and organizing.",
-      "significance": "The story matters because it marks a significant shift in UK employment dynamics, allowing unions broader access to tech workers, potentially influencing labor conditions and practices.",
-      "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
-      "points": [
-        "Prospect union to organize among approximately 7,000 Google UK workers.",
-        "New rights allow unions to access workplaces, targeting big tech companies.",
-        "Agreement excludes DeepMind employees from union organizing efforts."
       ]
     }
   ]

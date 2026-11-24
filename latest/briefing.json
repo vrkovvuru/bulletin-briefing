@@ -1,95 +1,110 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "stories": [
     {
-      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
-      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
-      "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+      "title": "Heat deaths reach record high in UK in 2026",
+      "url": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
-      "alsoReportedBy": []
+      "summary": "The UK Health Security Agency estimates that the total number of deaths has reached 5,258 for the summer of 2026.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+      "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
+      "url": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.",
+      "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
       "alsoReportedBy": []
     },
     {
-      "title": "Car bomb strikes governor’s office in Meta, Colombia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Benefits review to suggest quicker payment for some disabled people",
-      "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
+      "summary": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
       "alsoReportedBy": []
     },
     {
-      "title": "Craig Reucassel on his five-day ‘nightmare’ ultra-processed food diet",
-      "url": "https://www.theguardian.com/food/2026/nov/24/the-great-food-con-craig-reucassel-upfs-abc-tv",
-      "source": "The Guardian",
+      "title": "Hormuz oil traffic is down 40 percent: Are Iran\u2019s tanker attacks working?",
+      "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "For ABC documentary The Great Food Con, the host crams in extra chips, crackers and ham – just don’t compare his experiment to Super Size Me Get our weekend culture and lifestyle email There is a segment of The Great Food Con, the ABC’s three-part documentary series on ultra-processed foods, where the host, Craig Reucassel, bites into a chocolate bar and looks deeply unhappy. Any other day, the self-identifying chocoholic would be “thrilled” with his treat; but partway through a five-day experiment of consuming an extra 1,500 calories of ultra-processed foods a day, it feels like a chocolate chomping chore. Also on his menu? Chips, crackers and ham on top of his regular meals. After lunch, he shovels some instant noodles; after breakfast, he bites into a brownie. He is not having a good time. Continue reading...",
+      "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
       "alsoReportedBy": []
     },
     {
-      "title": "Take me to the fatberg! The £437m new Museum of London is an astonishing sight",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/24/fatberg-museum-of-london-astonishing-smithfields-architecture",
-      "source": "The Guardian",
+      "title": "Huntley murderer handed new whole life jail term",
+      "url": "https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "After a 10-year transformation, the glorious cathedral-like Smithfields market is now telling the capital’s story. Our architecture critic enters a world of jewels, axes, DJs and dog races – with unposh coffee from Syd’s century-old stall ‘All the grit and the glitters,” trumpets a big illuminated sign on the roof of the old Smithfield general market, beaming out as if advertising a raunchy burlesque show. It is the jazzy tagline of the new-look London Museum, which has gone from being marooned on a roundabout in an armpit of the City to taking over this prime Victorian market complex, following an arduous decade-long transformation. The slogan is fitting for a museum that displays everything from priceless Tudor jewels to a lump of congealed fat and rags dredged from a Whitechapel sewer. Just as the colossal fatberg was scraped from the murky depths, so has the former market hall (and its extensive warren of basement vaults) been meticulously scoured and scrubbed up. London’s centre of butchery for 800 years, which Charles Dickens found “all asmear with filth and fat and blood and foam”, has been lavished with a £437m glow-up, reborn to tell the story of the capital in all its gritty, glittery glory. And the finished result is an astonishing sight. Continue reading...",
+      "summary": "Triple killer Anthony Russell admits murdering child killer Ian Huntley at Frankland Prison.",
       "alsoReportedBy": []
     },
     {
-      "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-      "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
+      "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
       "alsoReportedBy": []
     },
     {
-      "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
-      "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+      "title": "I don\u2019t have children. A stranger decided I was ruining my life",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/24/child-free-stranger-comments",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airspace, prompting a pre-emptive alert from the military that anticipated a violation. The defence ministry said it would summon the Russian defence attaché on Tuesday afternoon to lodge a strong protest. Continue reading...",
+      "summary": "A reader sent me unsolicited photos of his children, insisting I was missing out on everything. Why are other people\u2019s reproductive choices so threatening to many of us? Last fall, a man I had never met wrote to inform me that my fertility window was \u201crapidly closing\u201d \u2013 and that I couldn\u2019t possibly be happy. What had prompted this unsolicited assessment was an article I had published about how fascist regimes seek to control women\u2019s roles in society. Continue reading...",
       "alsoReportedBy": []
+    },
+    {
+      "title": "BBC and Netflix team up for new CBeebies hub on streamer",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr585dxkgzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The limited trial will see a CBeebies hub on Netflix for the first time and will feature 24 programmes.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
+    },
+    {
+      "title": "What should it cost to insure a home in wildfire country?",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "You Can See Everything in Elizabeth Holmes\u2019s unblinking eyes. Or can you? | Jason Okundaye",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/24/you-can-see-everything-elizabeth-holmes-eyes",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The idea that seeing is believing is turned on its head in this documentary about the inscrutable Theranos founder, a world-class liar who may just be completely unreadable Elizabeth Holmes doesn\u2019t believe that she\u2019s ever told a lie. She \u201cknows\u201d that she hasn\u2019t committed any crime. And she has no reason to deceive you. While speaking, she is gazing at her interviewer, Nathan Fielder, with those enormous, blue, vacant, unsettling, unblinking eyes. She doesn\u2019t break eye contact. This is You Can See Everything, Fielder and Lance Oppenheim\u2019s documentary, which, at her invitation, follows Holmes and her husband, Billy Evans, at their home in San Diego in the weeks up to her surrender to custody at federal prison. Holmes is the disgraced tech ex-billionaire whose startup Theranos claimed the ability to run hundreds of comprehensive blood tests from a single pinprick of blood. This false claim posed \u201cimmediate jeopardy\u201d to the health of thousands of patients and defrauded investors of more than $700m. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "alsoReportedBy": [
+        "Guardian World"
+      ]
     },
     {
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
@@ -98,16 +113,7 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "alsoReportedBy": ["BBC World", "Guardian World"]
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "alsoReportedBy": ["Guardian World"]
+      "alsoReportedBy": []
     },
     {
       "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
@@ -115,70 +121,99 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. Ukraine’s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as “exemplary”. Continue reading...",
-      "alsoReportedBy": ["BBC World"]
+      "summary": "Ukraine\u2019s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia\u2019s newest vessels. Ukraine\u2019s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as \u201cexemplary\u201d. Continue reading...",
+      "alsoReportedBy": [
+        "BBC World"
+      ]
     },
     {
-      "title": "Russian incursions into NATO territory are increasing",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
+      "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
       "source": "NPR World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "NATO Secretary General Mark Rutte is seeking to reassure the alliance's eastern European members after three Russian cruise missiles landed in Poland on Friday.",
+      "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
       "alsoReportedBy": []
     },
     {
-      "title": "Australian politics live: Government lacks ‘moral authority’ on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
       "alsoReportedBy": []
     },
     {
-      "title": "Channel 4 hit as Unilever switches from TV to influencer marketing",
-      "url": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Exclusive: Gogglebox broadcaster is bigger loser than its rivals after Dove owner’s strategy shift, analysis shows Channel 4 has suffered a blow after one of Britain’s biggest advertisers ditched almost all of its TV spending with the troubled broadcaster, in favour of a switch to online influencer marketing. Unilever, the owner of brands including Dove soap and Hellmann’s mayonnaise, has cut down its almost £100m UK TV advertising budget, with Channel 4 the biggest victim. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
-      "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and journalists at a parliamentary press gallery dinner on Saturday. With coiffed hair and an ill-fitting suit, comedian Mark Critch – who portrays the president on the sketch show This Hour Has 22 Minutes – danced on to the stage and lampooned the trade war Trump started as well as the president’s threats to annex Canada. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel. The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern government. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Democrats hit out at Nvidia and Trump over Huang\u2019s return \u2013 US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Possible presidential hopeful Ruben Gallego warns of a \u2018bad lesson for corporate America\u2019 while Ro Khanna says \u2018rules should apply to everyone\u2019 Congress to grill Huang over ties with China and Trump\u2019s intervention Sign up for the Breaking News US email Donald Trump will take part in a Medal of Freedom ceremony in the Oval Office at 11am ET this morning, it\u2019s closed to press but we\u2019ll let you know if it opens up. Then at 2pm he and the first lady will participate in the Thanksgiving turkey pardoning at the White House, this year featuring turkeys Freedom and Feather. The president will then do a print interview before departing for Palm Beach, where he\u2019ll spend Thanksgiving. Juliana Stratton, the incoming Democratic senator from Illinois , said she would support significantly reforming or abolishing the filibuster in order to allow Congress to deliver on the promises they made American voters. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Farage suggests he wouldn\u2019t work with Tories on campaign against rejoining EU and \u2018will never trust them again\u2019 \u2013 UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn\u2019t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of ethnonationalism, and particularly with the suggestion from Suella Braverman, Reform UK\u2019s education spokesperson, that people of Asian heritage can\u2019t be English . Do you agree with him about that, and are you going to do anything about it? Farage replied: I\u2019m very worried about it and I think you can see with the online right, both in this country and America, some pretty extraordinary things being said that would have been unthinkable even a handful of years ago \u2026 So, yes, there is a rise in ethnonationalism. I\u2019ve fought this all my career. No one did more to beat the BNP than me. I view it as an unwelcome debate and I don\u2019t want to hear anything about it again. Is that clear? I do not trust the Conservative party on this issue. I trusted them back in 2019. I felt it was the right thing to do. I will never trust them again. And there\u2019s no evidence to suggest that many of millions of others should do so. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "BBC\u2019s preschool shows to be made available in CBeebies hub on Netflix",
+      "url": "https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Teletubbies, Numberblocks and Hey Duggee among 24 shows to be trialled on world\u2019s biggest streaming service Teletubbies, Numberblocks and Hey Duggee are among a host of the BBC\u2019s preschool shows to be made available on Netflix, as the broadcaster battles to arrest a generational shift away from its programming. In an unprecedented six-month trial, a dedicated CBeebies hub will be set up on the world\u2019s biggest streaming service, with a substantial selection of 24 shows to choose from. It will include some of the BBC\u2019s best-known titles and characters. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "California king tides threaten Thanksgiving travel as coastal flooding looms",
+      "url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Seasonal high tides and rising ocean levels can disrupt flights and flood roads, with the San Francisco Bay Area facing some of the greatest risks Starting this morning, seasonal high tides up and down the coast of California are expected to drive \u201cmajor to extreme\u201d coastal flooding, with the San Francisco Bay Area currently seen as being at the highest risk of travel-related flooding delays. The first of the year\u2019s highest \u201cking tides\u201d will arrive in much of southern California, including parts of San Diego and Los Angeles, before 9am on Tuesday, and in the Bay Area between 10 and 11am, according to tidal estimates from the California Coastal Commission. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "2035 came early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -191,8 +226,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "title": "Who in Washington owns and trades Nvidia stock",
+      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,8 +235,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Signal is Serious About Protecting Your Privacy",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "title": "What VP != VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -209,25 +244,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Drone Maps of Salvage Yards",
-      "url": "https://salvageyarddrone.wordpress.com/",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
-      "url": "https://lambdacreate.com/posts/held-together-by-spare-time",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+      "title": "The Pulse: Is Amazon\u2019s writing culture collapsing because of AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -254,18 +271,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Sneakernet",
-      "url": "https://sneakernet.eu/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "What VP != VNP Means (In 3 Minutes)",
-      "url": "https://www.friedgil.com/vpvnp/",
-      "source": "Lobsters",
+      "title": "Worshipping at the Altar of Brendan Gregg",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -278,7 +286,9 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Download the video (MP4) I prompt Datasette Agent to \"Use #stats to show sqlite-utils downloads over time as a chart\" - where typing \"#stats\" opens a table search box. It shows me a chart inline in the chat, and when I click \"Open in the chart builder\" it opens the chart in a panel along with the table page. I use the table page to switch to a chart of \"datasette\", then when I ask the agent \"what does the chart show?\" it notices that I changed the content in the panel and describes the new Datasette chart to me. Here's a Markdown export of the chat from the video. Tags: datasette-agent , datasette , visualization",
-      "alsoReportedBy": ["Simon Willison"]
+      "alsoReportedBy": [
+        "Simon Willison"
+      ]
     },
     {
       "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
@@ -286,7 +296,7 @@
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "summary": "November 23, 2026 \u2014 Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
       "alsoReportedBy": []
     },
     {
@@ -296,7 +306,9 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fix some bugs with the much more exciting datasette-charts 0.2a0 release . Tags: datasette-agent , datasette",
-      "alsoReportedBy": ["Simon Willison"]
+      "alsoReportedBy": [
+        "Simon Willison"
+      ]
     },
     {
       "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
@@ -305,6 +317,15 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "source": "Simon Willison",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. This gives us a deeper network without increasing the parameter count. This is the second mention of looped transformers I've seen in the past week - the first was Inkling 2 Mini from Thinking Machines Lab on November 20th, who said: Inkling 2 Mini is a looped transformer, running the middle layers of the model three times for every token. This allows the model to apply more reasoning and reach the right answer with fewer tokens, especially on tasks such as agentic coding that depend on reasoning quality. GLM 5.4 is not (yet?) available as open weights. I tried it out using the Z.ai API, for which I had to sign up for their Coding Plan subscription because 5.4 cannot currently be accessed through the regular API. It turns out both coding plan and regular API share the same OpenAI-compatible Responses API (at https://api.z.ai/api/v1 ), and the API key for the coding plan worked with that and gave me access to the new model. I built a llm-glm plugin , then realized that llm-zai by Tommy Hughes already exists! I've shipped mine purely because llm-zai doesn't yet support the new model, but I'll likely retire mine once that plugin catches up. Here are pelicans for GLM-5.4 on low, high, and max. This is the max one: I realized I never ran pelicans for GLM-5.3, so here those are for the same effort levels. They look similar in quality to 5.4. It's interesting how GLM 5.1 and GLM 5.2 produced radically different pelicans from other models. The pelicans for 5.3 and 5.4 are much more comparable to those I get from OpenAI or Anthropic models - the previous generations had their own distinctive look. I made a comparison grid showing the four generations of GLM pelicans all in one place. The style transition between 5.2 and 5.3 is pretty stark. Tags: ai , generative-ai , llms , llm , pelican-riding-a-bicycle , llm-release , ai-in-china , glm",
       "alsoReportedBy": []
     },
     {
@@ -351,15 +372,8 @@
       "categoryLabel": "AI & Agents",
       "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After some experimentation I've decided my favorite CSS for select boxes is this: select { appearance : none ; color : # 1f2933 ; padding : 0.5 em 2.25 em 0.5 em 0.75 em ; border : 1 px solid # c4cbd3 ; border-radius : 6 px ; background : # fff url ( \"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23667085' stroke-width='1.5'/%3E%3C/svg%3E\" ) no-repeat right 0.75 em center / 0.75 em ; } Here's what that looks like in the three browsers: Tags: tools , css , html",
       "alsoReportedBy": []
-    },
-    {
-      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
-      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
-      "alsoReportedBy": []
     }
-  ]
+  ],
+  "durationSeconds": 181.1,
+  "voice": "af_heart"
 }
