@@ -1,6 +1,80 @@
 {
-  "generated": "2026-11-24T03:41:37.748916Z",
+  "generated": "2026-11-24T05:41:49.299930Z",
   "summaries": [
+    {
+      "summary": "A car bomb exploded near the governor\u2019s office in Villavicencio, Colombia, causing significant damage.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+      "points": [
+        "The attack occurred in Villavicencio, Meta Department.",
+        "Extensive damage affected buildings near the governor\u2019s office.",
+        "No specific casualties or perpetrators mentioned in the report."
+      ]
+    },
+    {
+      "summary": "The Museum of London reopens in a transformed Smithfield market complex after a decade-long, £437m renovation.",
+      "significance": "The new Museum of London transforms a historic market into a £437m cultural hub, showcasing the city's diverse history from Tudor jewels to urban fatbergs.",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/24/fatberg-museum-of-london-astonishing-smithfields-architecture",
+      "points": [
+        "Museum showcases diverse exhibits from Tudor jewels to a sewer fatberg.",
+        "Located in a Victorian market complex, previously used for butchery.",
+        "Renovation cost £437m and took 10 years to complete."
+      ]
+    },
+    {
+      "summary": "South Korean islanders ordered to take shelter as Russian military aircraft approached their airspace.",
+      "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+      "points": [
+        "Residents of Ulleungdo island ordered to seek shelter.",
+        "South Korea to summon Russian defence attaché for protest.",
+        "Russian aircraft entered South Korea\u2019s air defence identification zone."
+      ]
+    },
+    {
+      "summary": "Channel 4 faces a significant setback as Unilever shifts its advertising budget from TV to influencer marketing.",
+      "significance": "Unilever's shift from TV to influencer marketing significantly reduces Channel 4's advertising revenue, highlighting the industry's transition towards digital platforms.",
+      "url": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
+      "points": [
+        "Unilever cut nearly £100m UK TV ad budget.",
+        "Channel 4 is the biggest loser among broadcasters.",
+        "Unilever brands like Dove and Hellmann\u2019s are switching to online influencers."
+      ]
+    },
+    {
+      "summary": "Donald Trump was mocked by an impersonator at a Canadian press dinner in Ottawa.",
+      "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+      "points": [
+        "Mark Critch, who portrays Trump on \"This Hour Has 22 Minutes,\" did the impersonation.",
+        "The impersonator mocked Trump's trade war and threats to annex Canada.",
+        "The event took place at a parliamentary press gallery dinner on Saturday in Ottawa."
+      ]
+    },
+    {
+      "summary": "The article explains the difference between VP and VNP in computational complexity, focusing on the determinant and permanent problems.",
+      "url": "https://www.friedgil.com/vpvnp/",
+      "points": [
+        "Determinant calculation can be done in polynomial time using arithmetic operations.",
+        "Permanent calculation, unlike determinant, cannot be done in polynomial time and is NP-hard.",
+        "VP != VNP implies no polynomial-size arithmetic circuits can compute permanents."
+      ]
+    },
+    {
+      "summary": "Datasette-charts 0.2a0 integrates with Datasette Agent, allowing users to generate charts via chat.",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "points": [
+        "Users can prompt Datasette Agent to create charts using \"#stats\".",
+        "A demo video is available on agent.datasette.io for testing the plugin.",
+        "The plugin supports switching between different datasets, like \"sqlite-utils\" and \"datasette\"."
+      ]
+    },
+    {
+      "summary": "Datasette Agent 0.7a1 introduces an iframe side panel for chat sessions and improves navigation with fragment hashes.",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "points": [
+        "Chat sessions can now open an iframe side panel for navigation.",
+        "Improvement focuses on navigation via fragment hashes for better plugin integration.",
+        "Release aims to fix bugs introduced by the datasette-charts 0.2a0 update."
+      ]
+    },
     {
       "summary": "TV host Craig Reucassel undergoes a five-day experiment for a documentary, consuming extra ultra-processed foods.",
       "significance": "The story highlights the negative impacts of consuming ultra-processed foods through a personal experiment, contributing to public understanding of dietary health.",
@@ -3671,80 +3745,6 @@
         "Prospect union to organize among approximately 7,000 Google UK workers.",
         "New rights allow unions to access workplaces, targeting big tech companies.",
         "Agreement excludes DeepMind employees from union organizing efforts."
-      ]
-    },
-    {
-      "summary": "Ryanair considers pay freezes and other cost-cutting measures amid rising fuel costs, likely leading to union disputes.",
-      "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
-      "points": [
-        "Ryanair plans pay freezes to offset soaring fuel costs.",
-        "Airline also looks to reduce crew numbers on flights.",
-        "Increased use of AI is considered as part of cost-cutting efforts."
-      ]
-    },
-    {
-      "summary": "New York Mayor Zohran Mamdani threatens legal action against ICE for using city-owned parking lots.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/zohran-mamdani-ice-new-york-parking-lots",
-      "points": [
-        "Mayor Mamdani claims ICE's use of city-owned property is unauthorized and illegal.",
-        "Mamdani states ICE operations endanger city residents and cause fear.",
-        "The threat of legal action is directed at the Trump administration."
-      ]
-    },
-    {
-      "summary": "Heavy rains cause mandatory evacuations in the southwest, with Pagosa Springs facing potential catastrophic flooding.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/colorado-flash-flooding-arizona-new-mexico",
-      "points": [
-        "Pagosa Springs, a town over 2,000 residents, warned of \"catastrophic flooding.\"",
-        "San Juan River in Pagosa Springs forecast to crest at over 20ft (6.1 meters).",
-        "Mandatory evacuations also ordered in Arizona and New Mexico due to heavy rainfall."
-      ]
-    },
-    {
-      "summary": "Stevens endorses El-Sayed's Republican rival as Trump launches racist attack on El-Sayed.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/first-thing-stevens-defects-to-back-el-sayeds-michigan-opponent-as-trump-delivers-anti-muslim-tirade",
-      "points": [
-        "Stevens, a Democrat, endorsed Republican Mike Rogers in Michigan's Senate race.",
-        "Trump called El-Sayed a 'jihadist' and suggested a special metal detector would be needed if El-Sayed were elected.",
-        "Stevens and El-Sayed's feud centered on support for Israel, leading El-Sayed to ask Stevens to stay away from his events."
-      ]
-    },
-    {
-      "summary": "A Linux System Call website and API has been updated to include comprehensive syscall tables for 27 architectures.",
-      "url": "https://syscall.sh/",
-      "points": [
-        "Website covers syscall tables for 27 architectures from Linux 3.3 to 7.3.",
-        "Each architecture's syscall history is available as a plain JSON file.",
-        "Entries include when syscalls were added or dropped, visible through a kernel selector."
-      ]
-    },
-    {
-      "summary": "Andros Fenollosa created Tyrtulia, a minimalist forum designed for terminal use with no web interface or passwords.",
-      "url": "https://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/",
-      "points": [
-        "Tyrtulia uses between 60 and 70 MB of RAM and about 50 MB of disk space.",
-        "Authentication methods include Unix socket connections and SSH key signing.",
-        "The forum supports federation through clients, with each server remaining independent."
-      ]
-    },
-    {
-      "summary": "U.S. Census Bureau changed its survey question on AI usage to \"Super Intelligence\" due to Executive Order 14434, affecting data comparability.",
-      "significance": "The change in survey question wording by the U.S. Census Bureau significantly altered AI adoption rates reported by large companies.",
-      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-      "points": [
-        "The survey question changed from \"producing goods or services\" to \"any business functions\" in November 2025.",
-        "AI adoption among large companies (250+ employees) rose from 12% in Sep 2025 to 40% by Oct 2026 under the new wording.",
-        "The latest survey now asks about \"Super Intelligence\" due to Executive Order 14434, first published on Oct 19, 2026."
-      ]
-    },
-    {
-      "summary": "Democratic congresswoman Haley Stevens endorsed Republican Senate candidate Mike Rogers before US midterms.",
-      "significance": "A Democrat's endorsement of a Republican Senate candidate in Michigan highlights internal party divisions ahead of the US midterms.",
-      "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Haley Stevens, a Democratic congresswoman, endorsed Republican Mike Rogers.",
-        "Stevens did not support her fellow Democratic nominee Abdul El-Sayed.",
-        "The endorsement happened days before the US midterms in a crucial Senate contest."
       ]
     }
   ]
