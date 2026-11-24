@@ -1,6 +1,71 @@
 {
-  "generated": "2026-11-24T13:43:55.387033Z",
+  "generated": "2026-11-24T15:42:13.012743Z",
   "summaries": [
+    {
+      "summary": "Trump reportedly gained up to $15m on Nvidia stock after the company reinstated CEO Jensen Huang.",
+      "significance": "The story highlights potential conflicts of interest and influence of US president Trump on corporate decisions, affecting Nvidia's stock and reputation.",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+      "points": [
+        "Trump made up to $15m on Nvidia stock.",
+        "Jensen Huang, ousted for affairs, was reinstated as CEO.",
+        "Huang co-founded Nvidia in 1993."
+      ]
+    },
+    {
+      "summary": "Nvidia shares drop 5%, and Anthropic's stock falls below its IPO price amid political controversy over Jensen Huang's return as CEO.",
+      "significance": "The reinstatement of Jensen Huang as Nvidia CEO amid political controversy highlights the systemic importance of key tech executives in AI's development and US leadership.",
+      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+      "points": [
+        "Republicans and Democrats criticize Trump's role in Huang's reinstatement at Nvidia.",
+        "Huang's return sparks debate on whether some tech CEOs are 'too big to fail' like during the GFC.",
+        "Anthropic's stock tumbles despite a broad market rally, raising concerns about AI sector stability."
+      ]
+    },
+    {
+      "summary": "BBC preschool shows, including Teletubbies and Numberblocks, will be available on a new CBeebies hub on Netflix.",
+      "url": "https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix",
+      "points": [
+        "Trial will last six months.",
+        "Includes popular shows like Teletubbies and Numberblocks."
+      ]
+    },
+    {
+      "summary": "Chinese media celebrate Jensen Huang's return to Nvidia with caution against future \"witch-hunts\".",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
+      "points": [
+        "Global Times labels US media reports on Huang's affair as \"malicious\".",
+        "Trump reportedly made up to $15m from Nvidia stock after Huang's reinstatement.",
+        "Chinese media warn against future \"witch-hunts\" following Huang's return."
+      ]
+    },
+    {
+      "summary": "Meta launches AI assistant Muse in the UK for tasks like Christmas shopping, though privacy concerns arise.",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+      "points": [
+        "Muse ranks first on Google and second on Apple\u2019s free app stores in the US.",
+        "UK regulators are monitoring the launch due to privacy and consumer protection concerns.",
+        "The AI assistant can perform tasks such as booking travel and buying presents."
+      ]
+    },
+    {
+      "summary": "The article advocates for Lua as a versatile language, particularly for data and configuration representation, highlighting its unique features and potential security concerns.",
+      "url": "https://citrons.xyz/journal/2025-07-23",
+      "points": [
+        "Lua's design emphasizes embedding and extending into existing programs, making it suitable for data representation.",
+        "Lua's multiline strings and parser capabilities allow efficient handling of large files and complex data structures.",
+        "Security concerns include potential for malicious code execution, mitigated by controlling the environment and limiting access to standard library functions."
+      ]
+    },
+    {
+      "summary": "Quad9 will disable its DNS services for French users on November 24, 2026, due to legal demands from beIn.",
+      "significance": "Quad9's withdrawal from France due to demands to block piracy-related domains highlights the conflict between legal enforcement of content restrictions and DNS providers' principles.",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "points": [
+        "Quad9 will stop services for French users at 09:00 CET on November 24, 2026.",
+        "The service withdrawal is due to court-ordered demands from beIn to block piracy-related domains.",
+        "Quad9 opposes using DNS for content blocking, citing ineffectiveness and legal compliance issues."
+      ]
+    },
     {
       "summary": "A stranger sent unsolicited photos of his children and criticized the author's child-free choice after reading her article on fascist regimes controlling women's roles.",
       "significance": "The story highlights the intrusive judgments people face over their reproductive choices, affecting those who choose not to have children.",
@@ -3679,71 +3744,6 @@
         "Care workers can now apply for settlement after 5 years instead of 15.",
         "New rule does not apply to care workers arriving after May 2025.",
         "Downing Street did not disclose cost of plane detour for Andy Burnham."
-      ]
-    },
-    {
-      "summary": "Trump announced a $15bn steel mill project in Iowa, but there's skepticism about its timing.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/iowa-midterms-steel-mill",
-      "points": [
-        "Trump promised $15bn investment for the largest steel mill in the country in Iowa.",
-        "The project was announced in late September in the Oval Office with Iowa Republicans.",
-        "Wever, a town of 142 people, awaits signs of construction, seeing it as pre-election move."
-      ]
-    },
-    {
-      "summary": "A defendant claims he thought he had consent from a woman drugged by her husband for sex.",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/02/defendant-tells-court-he-believed-he-had-consent-of-woman-drugged-by-her-husband",
-      "points": [
-        "Connor Sanderson-Doyle believed Joanne Young consented after answering an ad.",
-        "Philip Young, Joanne's husband, drugged and sexually abused her over 13 years.",
-        "Philip Young has pleaded guilty to multiple charges of abuse in Swindon, Wiltshire."
-      ]
-    },
-    {
-      "summary": "Nigel Farage will no longer write a regular column for the Telegraph, amid changes under new ownership.",
-      "url": "https://www.theguardian.com/politics/2026/nov/02/nigel-farage-telegraph-column-ends",
-      "points": [
-        "Sources differ on whether contract was terminated or if Farage resigned.",
-        "Farage's last column condemned Burnham\u2019s budget and proposed policy changes.",
-        "Farage is the latest rightwing figure to leave the Telegraph under new ownership."
-      ]
-    },
-    {
-      "summary": "Momentic, a YC-backed startup, introduces Mo, an AI QA engineer that automates end-to-end testing for apps, significantly speeding up the process and reducing bugs.",
-      "significance": "Momentic accelerates bug detection and test maintenance, enhancing development speed and quality for startups.",
-      "url": "https://momentic.ai/",
-      "points": [
-        "Momentic makes end-to-end testing 3x faster, enabling startups to ship faster and better.",
-        "Users report a 30% decrease in production incidents thanks to Momentic's automated testing.",
-        "The tool can run automated evaluations across 110 prompts in 14 minutes, a task that would take over an hour manually."
-      ]
-    },
-    {
-      "summary": "A car owner jailbreaks their Renault Latitude's navigation system to change the time, as the system requires a specific SD card to access time settings.",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "points": [
-        "The car's navigation system needs a navigation SD card just to change the time.",
-        "The owner spent around 60 EUR to purchase the required SD card from a third party.",
-        "The system uses DRM checks to reject unauthorized SD cards or modified files."
-      ]
-    },
-    {
-      "summary": "Arab parties are set to back opposition leader Gadi Eisenkot\u2019s bloc, complicating Netanyahu\u2019s chances of forming a government.",
-      "significance": "Israel\u2019s Arab parties backing Eisenkot\u2019s bloc could prevent political deadlock and challenge Netanyahu\u2019s chances of forming another government.",
-      "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
-      "points": [
-        "Arab parties won a record 19 seats in the recent election.",
-        "Netanyahu\u2019s bloc won 53 seats, short of the 61 needed for a majority.",
-        "Arab parties are willing to support Eisenkot but not join his government directly."
-      ]
-    },
-    {
-      "summary": "Michigan Democrat Haley Stevens' endorsement of Republican Mike Rogers for Senate sparked backlash from her party.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
-      "points": [
-        "Stevens narrowly lost the Democratic primary to Abdul El-Sayed.",
-        "Her decision was met with praise from Donald Trump.",
-        "The endorsement followed a feud over a campaign ad linking living costs to Israel support."
       ]
     }
   ]

@@ -2,24 +2,22 @@
   "date": "2026-11-24",
   "stories": [
     {
-      "title": "Heat deaths reach record high in UK in 2026",
-      "url": "https://www.aljazeera.com/news/2026/11/24/heat-deaths-reach-record-high-in-uk-in-2026?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The UK Health Security Agency estimates that the total number of deaths has reached 5,258 for the summer of 2026.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
+      "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+      "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
-      "url": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
-      "alsoReportedBy": []
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "alsoReportedBy": ["Al Jazeera"]
     },
     {
       "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
@@ -31,21 +29,57 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Hormuz oil traffic is down 40 percent: Are Iran\u2019s tanker attacks working?",
-      "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
+      "title": "UK police arrest two after break-in at Prince William’s country residence",
+      "url": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
+      "summary": "The arrests were made at a property on ⁠⁠⁠⁠the royal family&#039;s Sandringham estate in Norfolk, eastern England.",
       "alsoReportedBy": []
     },
     {
-      "title": "Huntley murderer handed new whole life jail term",
-      "url": "https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "How the Iran war is reshaping the US military presence in the Middle East",
+      "url": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
+      "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Triple killer Anthony Russell admits murdering child killer Ian Huntley at Frankland Prison.",
+      "summary": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Who really owns the land in Albania that Jared Kushner wants to develop?",
+      "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "How Brazil’s mosquitoes are helping to fight dengue",
+      "url": "https://www.aljazeera.com/news/2026/11/24/how-brazils-mosquitoes-are-helping-to-fight?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Scientists are increasingly using novel ways to re-engineer mosquitoes and use them to battle the diseases they spread.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "I don’t have children. A stranger decided I was ruining my life",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/24/child-free-stranger-comments",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A reader sent me unsolicited photos of his children, insisting I was missing out on everything. Why are other people’s reproductive choices so threatening to many of us? Last fall, a man I had never met wrote to inform me that my fertility window was “rapidly closing” – and that I couldn’t possibly be happy. What had prompted this unsolicited assessment was an article I had published about how fascist regimes seek to control women’s roles in society. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "US president says he ‘convinced’ chipmaker’s board to reinstate CEO, as Nvidia shares fall after previous day’s rally Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on his holdings of Nvidia stock after the US chipmaker’s share price soared on the surprise return of Jensen Huang as chief executive . Huang, who co-founded the company in 1993, was ousted by the board after allegations that he had three affairs, including one with a suspected Chinese spy and two with employees. But the Nvidia board reinstated him after an intervention from the US president. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -56,55 +90,6 @@
       "categoryLabel": "Top Stories",
       "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
       "alsoReportedBy": []
-    },
-    {
-      "title": "I don\u2019t have children. A stranger decided I was ruining my life",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/24/child-free-stranger-comments",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "A reader sent me unsolicited photos of his children, insisting I was missing out on everything. Why are other people\u2019s reproductive choices so threatening to many of us? Last fall, a man I had never met wrote to inform me that my fertility window was \u201crapidly closing\u201d \u2013 and that I couldn\u2019t possibly be happy. What had prompted this unsolicited assessment was an article I had published about how fascist regimes seek to control women\u2019s roles in society. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "BBC and Netflix team up for new CBeebies hub on streamer",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr585dxkgzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The limited trial will see a CBeebies hub on Netflix for the first time and will feature 24 programmes.",
-      "alsoReportedBy": [
-        "The Guardian"
-      ]
-    },
-    {
-      "title": "What should it cost to insure a home in wildfire country?",
-      "url": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "You Can See Everything in Elizabeth Holmes\u2019s unblinking eyes. Or can you? | Jason Okundaye",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/24/you-can-see-everything-elizabeth-holmes-eyes",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The idea that seeing is believing is turned on its head in this documentary about the inscrutable Theranos founder, a world-class liar who may just be completely unreadable Elizabeth Holmes doesn\u2019t believe that she\u2019s ever told a lie. She \u201cknows\u201d that she hasn\u2019t committed any crime. And she has no reason to deceive you. While speaking, she is gazing at her interviewer, Nathan Fielder, with those enormous, blue, vacant, unsettling, unblinking eyes. She doesn\u2019t break eye contact. This is You Can See Everything, Fielder and Lance Oppenheim\u2019s documentary, which, at her invitation, follows Holmes and her husband, Billy Evans, at their home in San Diego in the weeks up to her surrender to custody at federal prison. Holmes is the disgraced tech ex-billionaire whose startup Theranos claimed the ability to run hundreds of comprehensive blood tests from a single pinprick of blood. This false claim posed \u201cimmediate jeopardy\u201d to the health of thousands of patients and defrauded investors of more than $700m. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The rise and fall and rise again of Jensen Huang",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-      "alsoReportedBy": [
-        "Guardian World"
-      ]
     },
     {
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
@@ -121,10 +106,26 @@
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Ukraine\u2019s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia\u2019s newest vessels. Ukraine\u2019s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as \u201cexemplary\u201d. Continue reading...",
-      "alsoReportedBy": [
-        "BBC World"
-      ]
+      "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. Ukraine’s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as “exemplary”. Continue reading...",
+      "alsoReportedBy": ["BBC World"]
+    },
+    {
+      "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of ethnonationalism, and particularly with the suggestion from Suella Braverman, Reform UK’s education spokesperson, that people of Asian heritage can’t be English . Do you agree with him about that, and are you going to do anything about it? Farage replied: I’m very worried about it and I think you can see with the online right, both in this country and America, some pretty extraordinary things being said that would have been unthinkable even a handful of years ago … So, yes, there is a rise in ethnonationalism. I’ve fought this all my career. No one did more to beat the BNP than me. I view it as an unwelcome debate and I don’t want to hear anything about it again. Is that clear? I do not trust the Conservative party on this issue. I trusted them back in 2019. I felt it was the right thing to do. I will never trust them again. And there’s no evidence to suggest that many of millions of others should do so. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "alsoReportedBy": []
     },
     {
       "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
@@ -136,71 +137,53 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Russian governor detained in rare criminal case against regional leader",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Democrats hit out at Nvidia and Trump over Huang\u2019s return \u2013 US politics live",
+      "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Possible presidential hopeful Ruben Gallego warns of a \u2018bad lesson for corporate America\u2019 while Ro Khanna says \u2018rules should apply to everyone\u2019 Congress to grill Huang over ties with China and Trump\u2019s intervention Sign up for the Breaking News US email Donald Trump will take part in a Medal of Freedom ceremony in the Oval Office at 11am ET this morning, it\u2019s closed to press but we\u2019ll let you know if it opens up. Then at 2pm he and the first lady will participate in the Thanksgiving turkey pardoning at the White House, this year featuring turkeys Freedom and Feather. The president will then do a print interview before departing for Palm Beach, where he\u2019ll spend Thanksgiving. Juliana Stratton, the incoming Democratic senator from Illinois , said she would support significantly reforming or abolishing the filibuster in order to allow Congress to deliver on the promises they made American voters. Continue reading...",
+      "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Farage suggests he wouldn\u2019t work with Tories on campaign against rejoining EU and \u2018will never trust them again\u2019 \u2013 UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+      "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – business live",
+      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn\u2019t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of ethnonationalism, and particularly with the suggestion from Suella Braverman, Reform UK\u2019s education spokesperson, that people of Asian heritage can\u2019t be English . Do you agree with him about that, and are you going to do anything about it? Farage replied: I\u2019m very worried about it and I think you can see with the online right, both in this country and America, some pretty extraordinary things being said that would have been unthinkable even a handful of years ago \u2026 So, yes, there is a rise in ethnonationalism. I\u2019ve fought this all my career. No one did more to beat the BNP than me. I view it as an unwelcome debate and I don\u2019t want to hear anything about it again. Is that clear? I do not trust the Conservative party on this issue. I trusted them back in 2019. I felt it was the right thing to do. I will never trust them again. And there\u2019s no evidence to suggest that many of millions of others should do so. Continue reading...",
+      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant Muse or do you plan to? The AI doomsday threat: Distinguishing facts from fear Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’. That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out. Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired? Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally. “We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congress must come together in swift bipartisan action and demand answers immediately.” Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "BBC\u2019s preschool shows to be made available in CBeebies hub on Netflix",
+      "title": "BBC’s preschool shows to be made available in CBeebies hub on Netflix",
       "url": "https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Teletubbies, Numberblocks and Hey Duggee among 24 shows to be trialled on world\u2019s biggest streaming service Teletubbies, Numberblocks and Hey Duggee are among a host of the BBC\u2019s preschool shows to be made available on Netflix, as the broadcaster battles to arrest a generational shift away from its programming. In an unprecedented six-month trial, a dedicated CBeebies hub will be set up on the world\u2019s biggest streaming service, with a substantial selection of 24 shows to choose from. It will include some of the BBC\u2019s best-known titles and characters. Continue reading...",
+      "summary": "Teletubbies, Numberblocks and Hey Duggee among 24 shows to be trialled on world’s biggest streaming service Teletubbies, Numberblocks and Hey Duggee are among a host of the BBC’s preschool shows to be made available on Netflix, as the broadcaster battles to arrest a generational shift away from its programming. In an unprecedented six-month trial, a dedicated CBeebies hub will be set up on the world’s biggest streaming service, with a substantial selection of 24 shows to choose from. It will include some of the BBC’s best-known titles and characters. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "California king tides threaten Thanksgiving travel as coastal flooding looms",
-      "url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
+      "title": "Chinese media hail Huang’s Nvidia return with warning over ‘witch-hunts’",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Seasonal high tides and rising ocean levels can disrupt flights and flood roads, with the San Francisco Bay Area facing some of the greatest risks Starting this morning, seasonal high tides up and down the coast of California are expected to drive \u201cmajor to extreme\u201d coastal flooding, with the San Francisco Bay Area currently seen as being at the highest risk of travel-related flooding delays. The first of the year\u2019s highest \u201cking tides\u201d will arrive in much of southern California, including parts of San Diego and Los Angeles, before 9am on Tuesday, and in the Bay Area between 10 and 11am, according to tidal estimates from the California Coastal Commission. Continue reading...",
+      "summary": "State-run Global Times says reports about CEO’s affair with alleged Chinese spy were ‘malicious’ Trump made up to $15m on Nvidia stock after Huang’s return Business live – latest updates Chinese media have reacted with glee to the dramatic reinstatement of Jensen Huang as the chief executive of Nvidia, with one commentary warning against future “witch-hunts”. An article published on Tuesday in the state-run outlet the Global Times said US media reports about Huang’s affair with an alleged Chinese intelligence asset were “malicious” and “negatively impacted American public perception of China”. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Have you downloaded Meta’s AI assistant Muse or do you plan to? Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on your apps – and the high street. Muse has been a hit in the US and is ranked first and second respectively on Google and Apple’s free app stores, having been downloaded millions of times. However, UK regulators have said they are keeping a close eye on the launch over privacy and consumer protection requirements. Continue reading...",
       "alsoReportedBy": []
     },
     {
       "title": "2035 came early",
       "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
-      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -217,18 +200,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ladybird is now in alpha",
-      "url": "https://ladybird.org/posts/alpha/",
-      "source": "Lobsters",
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
       "alsoReportedBy": []
     },
     {
-      "title": "Who in Washington owns and trades Nvidia stock",
-      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-      "source": "Hacker News",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -244,7 +227,16 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The Pulse: Is Amazon\u2019s writing culture collapsing because of AI?",
+      "title": "Lua for data representation",
+      "url": "https://citrons.xyz/journal/2025-07-23",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -271,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Worshipping at the Altar of Brendan Gregg",
-      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "title": "Quad9 pulled their DNS service from France",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -286,9 +278,7 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Download the video (MP4) I prompt Datasette Agent to \"Use #stats to show sqlite-utils downloads over time as a chart\" - where typing \"#stats\" opens a table search box. It shows me a chart inline in the chat, and when I click \"Open in the chart builder\" it opens the chart in a panel along with the table page. I use the table page to switch to a chart of \"datasette\", then when I ask the agent \"what does the chart show?\" it notices that I changed the content in the panel and describes the new Datasette chart to me. Here's a Markdown export of the chat from the video. Tags: datasette-agent , datasette , visualization",
-      "alsoReportedBy": [
-        "Simon Willison"
-      ]
+      "alsoReportedBy": ["Simon Willison"]
     },
     {
       "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
@@ -296,7 +286,7 @@
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "November 23, 2026 \u2014 Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
       "alsoReportedBy": []
     },
     {
@@ -305,10 +295,8 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fix some bugs with the much more exciting datasette-charts 0.2a0 release . Tags: datasette-agent , datasette",
-      "alsoReportedBy": [
-        "Simon Willison"
-      ]
+      "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fix some bugs with the much more exciting datasette-charts 0.2a0 release . Tags: datasette-agent , datasette",
+      "alsoReportedBy": ["Simon Willison"]
     },
     {
       "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
@@ -373,7 +361,5 @@
       "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After some experimentation I've decided my favorite CSS for select boxes is this: select { appearance : none ; color : # 1f2933 ; padding : 0.5 em 2.25 em 0.5 em 0.75 em ; border : 1 px solid # c4cbd3 ; border-radius : 6 px ; background : # fff url ( \"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23667085' stroke-width='1.5'/%3E%3C/svg%3E\" ) no-repeat right 0.75 em center / 0.75 em ; } Here's what that looks like in the three browsers: Tags: tools , css , html",
       "alsoReportedBy": []
     }
-  ],
-  "durationSeconds": 181.1,
-  "voice": "af_heart"
+  ]
 }
