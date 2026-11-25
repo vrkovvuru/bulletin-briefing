@@ -2,6 +2,51 @@
   "date": "2026-11-25",
   "stories": [
     {
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+      "alsoReportedBy": ["BBC News", "The Guardian"]
+    },
+    {
+      "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+      "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Explosion reported in Sanaa after Saudi air defenses intercept ballistic missiles targeting Riyadh.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "King tides and big waves batter coastal California",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/king-tides-and-big-waves-batter-coastal-california?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Massive waves batter California as El Nino-driven storms bring king tides to the US West Coast.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Deadly truck fire is latest of Egypt’s transport disasters",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Poundland collapses putting 11,000 jobs at risk",
       "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,57 +56,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-      "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Little Free Bakeries are popping up across the country. While they each operate a bit differently, the goal is the same: offering their neighbors a sweet treat to encourage conversation with a side of community. We focus on Sarah Mason, who started Little Free Bakery North Loop in her Austin neighborhood and Lanne Rosebrook Stauffer, who founded the first Little Free Bakery in Seattle and just celebrated five years of weekly bakes.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-      "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "US Education Department probes Virginia schools after sexual abuse scandal",
-      "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Sporting Lisbon vs Manchester United LIVE: UEFA Champions League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Follow all the build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "summary": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
       "alsoReportedBy": []
     },
     {
@@ -92,12 +92,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
       "alsoReportedBy": []
     },
     {
@@ -110,12 +110,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "US stocks fall further as fears over AI intensify",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
+      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one man police described as a hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean port city of Cartagena to follow the final hours of negotiations and the tactical assault, in which special forces officers broke through blocked entrances and detonated stun grenades. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
       "alsoReportedBy": []
     },
     {
@@ -128,6 +137,15 @@
       "alsoReportedBy": ["BBC World"]
     },
     {
+      "title": "Australian politics live: Watt says ‘terrible day’ for Taylor and Liberals; spoof parliamentary tool spreads cheer",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Flinders Island bushfire grows to 13,000 hectares with Tasmanian homes and properties at risk",
       "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
       "source": "Guardian World",
@@ -137,48 +155,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+      "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+      "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
+      "summary": "Mariam Dagga shares award with two of her colleagues from AP for ‘powerful coverage’ of human cost of war Mariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory Peck prize for freelance video journalists, the organisers announced on Wednesday. She shares the award with two of her colleagues from the Associated Press (AP), Abdel Kareem Hana and Jehad Alshrafi, “for their powerful coverage of the human cost of the war” in the Palestinian territory, the Rory Peck Trust said. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Liberal senator Leah Blyth announces defection to One Nation",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+      "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Leah Blyth, federal Liberal senator for South Australia, has announced she is defecting to One Nation, becoming the party’s first upper-house member for the state. Blyth, a member of Angus Taylor’s frontbench, said she did not believe the Coalition was capable of opposing the Albanese government, which was “running the country into the ground”. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer Sign up for the Breaking News US email US trade representative Jamieson Greer claimed this morning that he did not expect the new proposed tariffs to rattle the global economy. “We’ve talked to our trading partners about this — they know what we’re proposing,” Greer told CNBC. “ I think a lot of this is baked in , and I don’t think any of these would actually take effect earlier than a couple months from now.” FINAL REMINDER. Controlled detonation at Iowa Army Ammunition Plant today at 9am (in 1 hour). EVACUATION IS NO LONGER SAFE OR ADVISED! All Residents within 20 miles including Middletown, Augusta, and Burlington must SHELTER IN PLACE immediately. STAY INDOORS with windows closed to block lead dust. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Oregon man and dog narrowly escape being swept away by high tides as officials urge caution at beaches",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
+      "title": "New York City’s Macy’s Thanksgiving Day parade postponed due to weather",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Record-breaking king tides have prompted west coast authorities to warn residents to stay away from beaches The US west coast has seen record-breaking tides this week and authorities have urged residents to avoid beaches, but not everyone is heeding those warnings. In Cannon Beach, Oregon , viral footage showed a man and his dog nearly getting swept away by a so-called king tide on Tuesday morning. The man had been standing on a staircase holding his leashed dog, who was walking in the sand, when the water suddenly surged, knocking him to his feet. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Ábrego García chooses to depart from US after previously being deported to El Salvador due to ‘administrative error’ US politics – live updates Kilmar Ábrego García, the Salvadorian national whose mistaken deportation turned him into a symbol of Donald Trump’s mass deportation efforts, has landed in Spain. Ábrego García arrived in Madrid on Wednesday after leaving the United States of his own volition . Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Vance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Vice-president says he supports reinstatement of Nvidia CEO after ‘assurances’ from top US officials was ‘under no investigation’ JD Vance said on Wednesday that Jensen Huang , the recently reinstalled Nvidia CEO , was never under criminal investigation and therefore did not need a pardon after Donald Trump said he would be open to offering one to the tech executive. The vice-president told reporters he supported Huang being reinstated as Nvidia CEO after receiving “assurances” from the attorney general and other top US officials that Huang was “under no investigation”. Continue reading...",
+      "summary": "Forecasters say high winds on Thursday may spoil the annual march of huge balloons and have moved the parade to Saturday New York City’s Macy’s Thanksgiving Day parade has been postponed due to excessively windy weather and will now be held on Saturday. Forecasters say an impending storm on Thursday may spoil the street party, which is marked by a march of huge balloons. AccuWeather is forecasting winds of 12 to 25 mph (19 to 40 km/h) and rain later on Thursday. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -188,7 +188,16 @@
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
-      "alsoReportedBy": ["Lobsters"]
+      "alsoReportedBy": ["Lobsters", "Hacker News"]
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
     },
     {
       "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
@@ -200,8 +209,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,24 +245,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Slow Ubuntu security response times",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
       "source": "Pragmatic Engineer",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "title": "Jev is (probably) Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -272,12 +272,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
-      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
+      "summary": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size of a rock in t...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+      "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "November 25, 2026 — From Erdős problems to new bounds for matrix multiplication and Fourier transforms.",
       "alsoReportedBy": []
     },
     {
@@ -290,13 +299,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-      "source": "Simon Willison",
+      "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It did so extremely quickly (in just 22 minutes), using publicly available primary and secondary sources. To do so, it discovered a little known source in a paper archive, predicted that it would prove its hypothesis if examined and, in the end, it did. Not only that, but this new source turns out to be a major find on its own that will be of significant interest to both Canadian and fur trade historians. Here's the digitized sketchbook . Astra found a diary reference reference to a visit by the vicomte de Chabot dated five days before a date mentioned in the sketchbook at a nearby river, and suggested that Chabot's journal of his travels (only available by order from Cleveland State University) might confirm that the sketchbook was his work. Are historians due for a round of Deep Blue ? Mark thinks it will be mild: But if the experience of mathematics is any guide, we can also anticipate that sometime next spring or summer we’ll face a sort of crisis of confidence as we struggle to understand how to respond to agentic systems that can do things human historians cannot. To be fair, that crisis will almost certainly be less profound for us than it is for math. The problem in mathematics, of course, is that solving hard math problems was the whole game. Historians, on the other hand, constantly reinterpret the past in light of an evolving present; we don’t chase a single universal truth. We also (in the ideal at least) write books and articles that are closer to works of philosophy and literature than they are to scientific tracts. Humanity is thus something of a requirement for the production of historical literature. Tags: history , ai , generative-ai , llms , ai-assisted-search , deep-blue , gpt-6-astra",
-      "alsoReportedBy": ["Simon Willison"]
+      "summary": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
+      "alsoReportedBy": []
     },
     {
       "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
@@ -308,31 +317,13 @@
       "alsoReportedBy": []
     },
     {
-      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
-      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "datasette-charts 0.2a0",
-      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Download the video (MP4) I prompt Datasette Agent to \"Use #stats to show sqlite-utils downloads over time as a chart\" - where typing \"#stats\" opens a table search box. It shows me a chart inline in the chat, and when I click \"Open in the chart builder\" it opens the chart in a panel along with the table page. I use the table page to switch to a chart of \"datasette\", then when I ask the agent \"what does the chart show?\" it notices that I changed the content in the panel and describes the new Datasette chart to me. Here's a Markdown export of the chat from the video. Tags: datasette-agent , datasette , visualization",
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It did so extremely quickly (in just 22 minutes), using publicly available primary and secondary sources. To do so, it discovered a little known source in a paper archive, predicted that it would prove its hypothesis if examined and, in the end, it did. Not only that, but this new source turns out to be a major find on its own that will be of significant interest to both Canadian and fur trade historians. Here's the digitized sketchbook . Astra found a diary reference reference to a visit by the vicomte de Chabot dated five days before a date mentioned in the sketchbook at a nearby river, and suggested that Chabot's journal of his travels (only available by order from Cleveland State University) might confirm that the sketchbook was his work. Are historians due for a round of Deep Blue ? Mark thinks it will be mild: But if the experience of mathematics is any guide, we can also anticipate that sometime next spring or summer we’ll face a sort of crisis of confidence as we struggle to understand how to respond to agentic systems that can do things human historians cannot. To be fair, that crisis will almost certainly be less profound for us than it is for math. The problem in mathematics, of course, is that solving hard math problems was the whole game. Historians, on the other hand, constantly reinterpret the past in light of an evolving present; we don’t chase a single universal truth. We also (in the ideal at least) write books and articles that are closer to works of philosophy and literature than they are to scientific tracts. Humanity is thus something of a requirement for the production of historical literature. Tags: history , ai , generative-ai , llms , ai-assisted-search , deep-blue , gpt-6-astra",
       "alsoReportedBy": ["Simon Willison"]
-    },
-    {
-      "title": "[AINews] Riemann Hypothesis proved...twice independently",
-      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-      "source": "Latent Space",
-      "category": "ai",
-      "categoryLabel": "AI & Agents",
-      "summary": "",
-      "alsoReportedBy": []
     },
     {
       "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
@@ -353,13 +344,22 @@
       "alsoReportedBy": []
     },
     {
-      "title": "datasette-agent 0.7a1",
-      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "title": "datasette-charts 0.2a0",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fix some bugs with the much more exciting datasette-charts 0.2a0 release . Tags: datasette-agent , datasette",
+      "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Download the video (MP4) I prompt Datasette Agent to \"Use #stats to show sqlite-utils downloads over time as a chart\" - where typing \"#stats\" opens a table search box. It shows me a chart inline in the chat, and when I click \"Open in the chart builder\" it opens the chart in a panel along with the table page. I use the table page to switch to a chart of \"datasette\", then when I ask the agent \"what does the chart show?\" it notices that I changed the content in the panel and describes the new Datasette chart to me. Here's a Markdown export of the chat from the video. Tags: datasette-agent , datasette , visualization",
       "alsoReportedBy": ["Simon Willison"]
+    },
+    {
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "source": "Latent Space",
+      "category": "ai",
+      "categoryLabel": "AI & Agents",
+      "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "alsoReportedBy": []
     }
   ]
 }

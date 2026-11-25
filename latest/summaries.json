@@ -1,6 +1,43 @@
 {
-  "generated": "2026-11-25T21:41:33.257186Z",
+  "generated": "2026-11-25T23:41:01.121121Z",
   "summaries": [
+    {
+      "summary": "Colombian police rescued all hostages from a supermarket siege in Cartagena, killing one hostage-taker.",
+      "significance": "The rescue of all hostages and the end of the daylong siege in Cartagena signifies a successful operation by Colombian security forces, impacting local safety and tourism.",
+      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+      "points": [
+        "President Abelardo de la Espriella visited Cartagena to oversee the operation.",
+        "The siege lasted a day in the popular tourist city of Cartagena.",
+        "Police used special forces and stun grenades to end the standoff."
+      ]
+    },
+    {
+      "summary": "Palestinian journalist Mariam Dagga, killed in Gaza, posthumously wins Rory Peck prize for war coverage.",
+      "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+      "points": [
+        "Mariam Dagga, 33, killed in Israeli strike in Gaza.",
+        "Award shared with AP colleagues Abdel Kareem Hana and Jehad Alshrafi.",
+        "Prize recognizes their coverage of human cost of war in Palestinian territory."
+      ]
+    },
+    {
+      "summary": "New York City\u2019s Macy\u2019s Thanksgiving Day parade postponed to Saturday due to forecasted high winds.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
+      "points": [
+        "Parade originally scheduled for Thursday but moved to Saturday.",
+        "Forecast predicts winds of 12 to 25 mph and rain on Thursday.",
+        "Event features a march of large balloons through the city streets."
+      ]
+    },
+    {
+      "summary": "A shorter Lean 4 proof of the Riemann Hypothesis and Generalized Riemann Hypothesis for Dirichlet L-functions is available.",
+      "url": "https://github.com/lsernau/grh-lean",
+      "points": [
+        "Proof built on Mathlib, requires Lean v4.35.0 and Mathlib commit 56a00585.",
+        "Build time is one to two hours on 12 cores with 24 GB of memory.",
+        "Proof has only passed machine checks, not reviewed by mathematicians."
+      ]
+    },
     {
       "summary": "Little Free Bakeries, like the one in Austin run by Sarah Mason, offer pastries to foster community connections.",
       "significance": "Little Free Bakeries foster community connections through shared pastries, as seen in Austin and Seattle initiatives.",
@@ -3707,44 +3744,6 @@
         "Issue源于其MessageBank服务，已在周三晚上承认并修复。",
         "受影响的用户在手机上收到了延迟的未接来电通知或语音邮件，有时甚至晚了几天。",
         "事件影响了数千名Telstra用户。"
-      ]
-    },
-    {
-      "summary": "Residential proxy activity was detected on the White House network between October 5 and November 3, 2026.",
-      "significance": "Detection of residential proxy activity on the White House network highlights potential security vulnerabilities, following past research on botnet spread through poorly secured proxies.",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "points": [
-        "Residential proxy activity on White House network observed from October 5 to November 3, 2026.",
-        "Activity mostly occurs between 5 p.m. and midnight Eastern time, suggesting human use.",
-        "Past research indicates that such proxy SDKs can allow internal network access and lateral movement."
-      ]
-    },
-    {
-      "summary": "Insects are less attracted to LED lights compared to traditional lights due to the absence of UV emissions.",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "points": [
-        "In 2016, University of Bristol scientists found LEDs attracted significantly fewer insects than incandescent or fluorescent lights.",
-        "LEDs do not emit UV light, which insects associate with moonlight, reducing their attraction.",
-        "The decline in insect attraction to LEDs can help mitigate disturbances to wildlife and reduce insect-borne diseases."
-      ]
-    },
-    {
-      "summary": "Ricursive Intelligence introduces Ripple-65B Preview, a language model achieving U.S. open-weight SOTA on agentic coding with significant efficiency gains.",
-      "url": "https://www.ricursive.com/ripple",
-      "points": [
-        "Ripple-65B Preview achieved a TerminalBench 2.1 score of 80.52, surpassing larger models like Reflection Beam 501B (80.1) and Meta Muse Spark Open 816B (76.4).",
-        "The model was pretrained on 12 trillion tokens and can handle up to 1M context length, with a narrow d_model of 5120 and 80 total layers.",
-        "Ricursive optimized the model to run efficiently on local devices like NVIDIA DGX Spark, achieving a TerminalBench 2.1 score of 80.5 with only 1.4M rollouts, 70x fewer than Reflection Beam."
-      ]
-    },
-    {
-      "summary": "A technique uses background plane noise in videos to determine their exact filming location.",
-      "significance": "The story demonstrates a method to pinpoint video locations using background plane noise, impacting privacy and surveillance concerns.",
-      "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-      "points": [
-        "Technique involves analyzing Doppler curves of plane sounds.",
-        "Cross-referencing with ADS-B data identifies video location.",
-        "Method works on almost imperceptible background noise in videos."
       ]
     }
   ]
