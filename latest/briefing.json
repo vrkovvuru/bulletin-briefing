@@ -1,94 +1,191 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "stories": [
     {
-      "title": "China’s Huawei convicted of stealing US trade secrets",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "US attorney general Todd Blanche says ‘No person or company is above the law’ after tech giant found guilty on 10 of 12 criminal counts Chinese telecommunications equipment maker Huawei was convicted on Tuesday in a sprawling US criminal case on charges that it stole ⁠trade secrets from US companies and deceived banks about ⁠its business in Iran. Huawei, the world’s leading telecom equipment manufacturer, was found guilty by a ​federal jury in Brooklyn of 10 of the 12 criminal counts it faced, including bank fraud, conspiracy to steal trade secrets and conspiracy to defraud the US. It was found not guilty of racketeering conspiracy, a charge alleging it had acted as a criminal enterprise. Continue reading...",
-      "alsoReportedBy": ["BBC News", "Al Jazeera"]
-    },
-    {
-      "title": "The Gambia election: Can the next president deliver on a decade of promise",
-      "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘I was physically beating myself up before a take’: Rory Culkin on anxiety, fatherhood and his famous brothers",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/25/rory-culkin-interview-anxiety-fatherhood-famous-brothers",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The star of Lords of Chaos, Scream 4 and Gabriel was always drawn to the dark side. Is that why he seems happier in Hollywood than his better-known brothers – and why he loved making Nocturne with Stephen Graham? Rory Culkin is enjoying the autumn afternoon in a Manhattan park. The trees are a dazzling blur of yellows, greens, oranges and reds; the background silence is so pure you can hear it. “I’m here with my baby daughter, Havoc,” he says. Havoc Moon.” I tell him that is the spookiest name ever. “Thank you,” he says. Culkin chuckles like a revving moped, his huge blue eyes lighting up. “Yes, it’s a weird one. I think she’ll probably be the opposite. A sweet, quiet girl. She’ll play a harp or something.” He explains its origin. “I just threw out names to my partner one night when we went to dinner. She wasn’t taking to anything. I then suggested Havoc, and she really liked it. She came up with the Moon part. When we got home there was fresh graffiti on the wall across the street saying ‘Havoc’, and I was like: ‘That is a sign from the gods – we’ve got to do it.’” Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "‘Working with Kanye West? Talk about intractable egos!’ Caroline Shaw: the Pulitzer-winning composer everyone wants to work with",
-      "url": "https://www.theguardian.com/music/2026/nov/25/working-with-kanye-west-talk-about-intractable-egos-caroline-shaw-the-pulitzer-winning-composer-everyone-wants-to-work-with",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "She has collaborated with classical giants such as Anne Sofie von Otter – and pop stars including Phoebe Bridges. But what happened when Caroline Shaw hit ‘peak hamster wheel’? ‘Look at those!” gasps Caroline Shaw, standing next to me at an old steelworks in Germany’s industrial heartlands. Behind us are defunct concrete cooling towers and, in front, main buildings that sprawl off in a mix of brick and corrugated iron. But Shaw is looking upwards, awed by massive exhaust pipes looming overhead. This place, in the city of Bochum in western Germany, oozes post-industrial chic. These days it’s the Jahrhunderthalle , an arts venue where Shaw is performing later with the Attacca Quartet. For now the complex is shut, so we chat on a concrete bench. Intercepting Shaw, the youngest ever winner of the Pulitzer prize for music, is no mean feat: “in demand” is an understatement for this Portland-based US composer, singer, producer, violinist and viola player. Thirteen years since winning the coveted Pulitzer for Partita for 8 Voices – an exhilarating unaccompanied vocal work that mixes speech and singing, baroque dances and analogue versions of studio-mixed effects – Shaw has a CV like no other. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
-      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-      "alsoReportedBy": ["The Guardian"]
+      "summary": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
+      "alsoReportedBy": [
+        "BBC News",
+        "The Guardian",
+        "Al Jazeera"
+      ]
     },
     {
-      "title": "UK warns companies of potential Russian sabotage threat",
-      "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
+      "title": "Solomon Islands signs security deal with Australia",
+      "url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Britain&#039;s Defence Ministry and security service warn of the threat in unusual public announcement.",
-      "alsoReportedBy": []
+      "summary": "Solomon Islands will have to consult Canberra before making new security or infrastructure deals under new pact.",
+      "alsoReportedBy": [
+        "The Guardian"
+      ]
     },
     {
-      "title": "Protesters clash with police over Venezuela’s poor minimum wage",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Labour organisers shared videos of police violently clashing with protesters near Venezuela’s presidential palace.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Anthony Zurcher: With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
-      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
-      "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
       "source": "NPR",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+      "summary": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
+      "alsoReportedBy": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
+      "alsoReportedBy": [
+        "Al Jazeera"
+      ]
+    },
+    {
+      "title": "\u2018Second home\u2019: Why Israel is celebrating Jensen Huang\u2019s return to Nvidia",
+      "url": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Israel&#039;s tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Two men charged with trying to steal cufflinks and clock from Royal home",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The court hears the items from the Sandringham estate are of an unknown value.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Energy bills to rise by 26% from January after gas prices surge",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A household using a typical amount of energy would see its annual bill rise from \u00a31,723 to \u00a32,166 if this level was sustained for a year.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?",
+      "url": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Weeks after a bitter Senate race in Michigan, US president calls Democratic victor \u2018a smart guy\u2019.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Steal a chopper listening to Liszt! I love how Grand Theft Auto VI went crazy for classical",
+      "url": "https://www.theguardian.com/music/2026/nov/25/grand-theft-auto-vi-yuja-wang-piano-mahler-sibelius-liszt",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Rob a bank to the sound of Sibelius, mow down an alligator to the music of Mahler \u2026 piano sensation Yuja Wang is one of the surprises of GTA VI \u2013 and her thrilling musical choices made me crash into a G-Wagen I blame Yuja Wang for crashing my car. You know how it is, you\u2019re cruising as fast you can on the freeway, listening to Symphony FM. And then DJ Yuja says: \u201cIt\u2019s afternoon here in Vice City: for the worst of you, the day is just starting. Maybe the next piece will inspire you to turn your life around.\u201d And then she played Tchaikovsky \u2013 the finale of the Fifth Symphony \u2013 and I just lost it to the music. The energy and tempest of the finale turned me into a driving maniac, and I ended up crashing into a G-Wagen down a one-way street as the minor-key maelstrom took over. Thanks Yuja. I\u2019ll send you the repair bill. Such are the hazards of discovering that among the 24 stations you can listen to in Grand Theft Auto VI \u2013 and not only in your car \u2013 is Symphony FM, hosted by the in-game Yuja, who really is the real-life piano superstar Yuja Wang . And in choosing her \u201cfavourite pieces and curating a playlist for players to discover\u201d, she\u2019s put together a set of 16 pieces that only she could have come up with. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Kilmar \u00c1brego Garc\u00eda, man at center of Trump deportation battle, leaves US",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar \u00c1brego Garc\u00eda has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of Homeland Security confirming that he was travelling to Spain. A source close to \u00c1brego said Madrid was his first stop but that it would not be his final destination. Continue reading...",
+      "alsoReportedBy": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
+      "alsoReportedBy": [
+        "Guardian World"
+      ]
+    },
+    {
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+      "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Ukraine\u2019s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia\u2019s newest vessels. Ukraine\u2019s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as \u201cexemplary\u201d. Continue reading...",
+      "alsoReportedBy": [
+        "BBC World"
+      ]
+    },
+    {
+      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU \u2013 UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration. Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong, according to new research published today by King\u2019s College University and YouGov. Among Reform UK supporters, 57% think net migration rose significantly in the year to June 2025, compared with 11% of Labour supporters and 8% of Greens. Eight in 10 Reform supporters think that asylum seekers are prioritised for social housing, compared with 21% of Green supporters. It is wrong to believe that if we could only correct misperceptions, we would automatically reduce concerns about immigration or policy preferences \u2013 because that misdiagnoses a large part of the cause, that these divides are partly driven by deep differences in values and identity. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "BBC lodges urgent appeal against Trump\u2019s $10bn defamation lawsuit",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/bbc-trump-defamation-case-10bn-urgent-appeal",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Corporation asks US court of appeals for the 11th circuit to throw out case brought over Panorama documentary The BBC has lodged an urgent appeal to have Donald Trump\u2019s $10bn defamation lawsuit against it thrown out, after internal surprise at a judge\u2019s decision to allow the case to go to trial. The corporation is currently heading to court next year over a Panorama documentary that spliced together two parts of Trump\u2019s speech made before the 6 January insurrection at the US Capitol. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,90 +198,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-      "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. Ukraine’s security service, the SBU, said seven domestically made naval drones were launched from a mothership in the operation, which Volodymyr Zelenskyy described as “exemplary”. Continue reading...",
-      "alsoReportedBy": ["BBC World"]
-    },
-    {
-      "title": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Clubs fail to sign up for 2027 season as disquiet over governing body’s executive grips football community Get our breaking news email , free app or daily news podcast About 100 football clubs, representing hundreds of thousands of players, have deliberately missed the deadline to sign up for next season amid a dispute with Football Queensland. The disagreement has forced Football Australia to intervene, after a breakaway group threatened earlier this week to form its own competition. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
-      "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% as Australia’s cost-of-living crisis intensifies Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Jim Chalmers has declared “a very serious moment for our economy”, after inflation surged to 4.9% in the year to October, from 4.3%, amid fears Australia could tip into recession next year. As cost-of-living pressures peak in the lead-up to Christmas and unemployment reaches five-year highs , the Australian Bureau of Statistics on Wednesday said the “temporary shocks” of surging fuel costs and the end of electricity rebates drove the larger-than-expected lift in consumer prices. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Russian army’s secret death toll – podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions to tif.questions@theguardian.com Russia has kept the death toll of its soldiers in the Ukraine war a carefully guarded secret. Now documents leaked to the Guardian have revealed its true scale . The Guardian’s Russia affairs correspondent, Pjotr Sauer , tells Helen Pidd what reporters have discovered. Two groups of hackers accessed Russia’s main statistics database last month and discovered a cache of 11m death certificates that revealed nearly 500,000 Russian losses in Ukraine since 2022. Among these were 1,000 – the equivalent of a whole regiment – who took their own lives. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Rescue crews search for six people after plane crash off Mississippi coast",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "US Coast Guard said crews had so far found the cabin of the plane, a life raft and three life jackets Rescue crews were searching for six people on board a small plane that crashed Tuesday afternoon off the coast of Mississippi. Crews have so far found three life jackets, a life raft and the cabin of the plane. The plane’s cabin was floating on the water, Juan Ros, a US Coast Guard spokesperson, said. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Meet Colombia's fuzzy 'water guardians'",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
-      "source": "NPR World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
       "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -209,7 +234,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
       "url": "https://buttons.joshwcomeau.com/",
       "source": "Hacker News",
       "category": "engineering",
@@ -218,8 +243,17 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+      "title": "Abolish Lock Poisoning",
+      "url": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -227,25 +261,7 @@
       "alsoReportedBy": []
     },
     {
-      "title": "2035 came early",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
-      "url": "https://s.conao3.com/blog/2026/e4f733",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+      "title": "The Pulse: Is Amazon\u2019s writing culture collapsing because of AI?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
       "source": "Pragmatic Engineer",
       "category": "engineering",
@@ -263,8 +279,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "title": "Getting old Java phones online again",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -277,7 +293,7 @@
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
+      "summary": "November 24, 2026 \u2014 Neon beats Astra and Fable on LiveBench and cuts Theo\u2019s TS Rust benchmark runtime by 48.6%.",
       "alsoReportedBy": []
     },
     {
@@ -295,8 +311,10 @@
       "source": "Simon Willison",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It did so extremely quickly (in just 22 minutes), using publicly available primary and secondary sources. To do so, it discovered a little known source in a paper archive, predicted that it would prove its hypothesis if examined and, in the end, it did. Not only that, but this new source turns out to be a major find on its own that will be of significant interest to both Canadian and fur trade historians. Here's the digitized sketchbook . Astra found a diary reference reference to a visit by the vicomte de Chabot dated five days before a date mentioned in the sketchbook at a nearby river, and suggested that Chabot's journal of his travels (only available by order from Cleveland State University) might confirm that the sketchbook was his work. Are historians due for a round of Deep Blue ? Mark thinks it will be mild: But if the experience of mathematics is any guide, we can also anticipate that sometime next spring or summer we’ll face a sort of crisis of confidence as we struggle to understand how to respond to agentic systems that can do things human historians cannot. To be fair, that crisis will almost certainly be less profound for us than it is for math. The problem in mathematics, of course, is that solving hard math problems was the whole game. Historians, on the other hand, constantly reinterpret the past in light of an evolving present; we don’t chase a single universal truth. We also (in the ideal at least) write books and articles that are closer to works of philosophy and literature than they are to scientific tracts. Humanity is thus something of a requirement for the production of historical literature. Tags: history , ai , generative-ai , llms , ai-assisted-search , deep-blue , gpt-6-astra",
-      "alsoReportedBy": ["Simon Willison"]
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale\u2019s Beinecke Library . It did so extremely quickly (in just 22 minutes), using publicly available primary and secondary sources. To do so, it discovered a little known source in a paper archive, predicted that it would prove its hypothesis if examined and, in the end, it did. Not only that, but this new source turns out to be a major find on its own that will be of significant interest to both Canadian and fur trade historians. Here's the digitized sketchbook . Astra found a diary reference reference to a visit by the vicomte de Chabot dated five days before a date mentioned in the sketchbook at a nearby river, and suggested that Chabot's journal of his travels (only available by order from Cleveland State University) might confirm that the sketchbook was his work. Are historians due for a round of Deep Blue ? Mark thinks it will be mild: But if the experience of mathematics is any guide, we can also anticipate that sometime next spring or summer we\u2019ll face a sort of crisis of confidence as we struggle to understand how to respond to agentic systems that can do things human historians cannot. To be fair, that crisis will almost certainly be less profound for us than it is for math. The problem in mathematics, of course, is that solving hard math problems was the whole game. Historians, on the other hand, constantly reinterpret the past in light of an evolving present; we don\u2019t chase a single universal truth. We also (in the ideal at least) write books and articles that are closer to works of philosophy and literature than they are to scientific tracts. Humanity is thus something of a requirement for the production of historical literature. Tags: history , ai , generative-ai , llms , ai-assisted-search , deep-blue , gpt-6-astra",
+      "alsoReportedBy": [
+        "Simon Willison"
+      ]
     },
     {
       "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
@@ -313,7 +331,7 @@
       "source": "Latent Space",
       "category": "ai",
       "categoryLabel": "AI & Agents",
-      "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "summary": "November 23, 2026 \u2014 Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
       "alsoReportedBy": []
     },
     {
@@ -323,7 +341,9 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Download the video (MP4) I prompt Datasette Agent to \"Use #stats to show sqlite-utils downloads over time as a chart\" - where typing \"#stats\" opens a table search box. It shows me a chart inline in the chat, and when I click \"Open in the chart builder\" it opens the chart in a panel along with the table page. I use the table page to switch to a chart of \"datasette\", then when I ask the agent \"what does the chart show?\" it notices that I changed the content in the panel and describes the new Datasette chart to me. Here's a Markdown export of the chat from the video. Tags: datasette-agent , datasette , visualization",
-      "alsoReportedBy": ["Simon Willison"]
+      "alsoReportedBy": [
+        "Simon Willison"
+      ]
     },
     {
       "title": "[AINews] Riemann Hypothesis proved...twice independently",
@@ -359,7 +379,11 @@
       "category": "ai",
       "categoryLabel": "AI & Agents",
       "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fix some bugs with the much more exciting datasette-charts 0.2a0 release . Tags: datasette-agent , datasette",
-      "alsoReportedBy": ["Simon Willison"]
+      "alsoReportedBy": [
+        "Simon Willison"
+      ]
     }
-  ]
+  ],
+  "durationSeconds": 194.5,
+  "voice": "af_heart"
 }

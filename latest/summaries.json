@@ -1,6 +1,71 @@
 {
-  "generated": "2026-11-25T05:41:41.629493Z",
+  "generated": "2026-11-25T13:42:43.260530Z",
   "summaries": [
+    {
+      "summary": "Two men were charged with attempting to steal cufflinks and a clock from the Prince and Princess of Wales' holiday home.",
+      "significance": "Two men charged with attempting to steal from a royal property highlight security vulnerabilities at estates used by the royal family.",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Mirgen Doku, 34, and Arilen Ndoci, 32, charged with trespassing and intent to steal.",
+        "Incident occurred at Anmer Hall, on the Sandringham estate in Norfolk, on Monday.",
+        "Police used dogs, drones, and a helicopter to search the area and make arrests."
+      ]
+    },
+    {
+      "summary": "GTA VI features classical music curated by pianist Yuja Wang, leading to intense gameplay experiences.",
+      "url": "https://www.theguardian.com/music/2026/nov/25/grand-theft-auto-vi-yuja-wang-piano-mahler-sibelius-liszt",
+      "points": [
+        "Yuja Wang curates Symphony FM with 16 classical pieces in GTA VI.",
+        "Music includes works by Tchaikovsky, Sibelius, and Mahler.",
+        "Classical soundtrack influences gameplay, causing wild driving experiences."
+      ]
+    },
+    {
+      "summary": "Prime Minister discusses legislation for recent deals, study shows Reform UK supporters have the most misconceptions about migration.",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+      "points": [
+        "Study by King\u2019s College University and YouGov reveals 57% of Reform UK supporters incorrectly believe net migration rose significantly.",
+        "Eight in ten Reform UK supporters wrongly think asylum seekers are prioritized for social housing.",
+        "Prime Minister mentions bringing forward legislation for three deals announced last week."
+      ]
+    },
+    {
+      "summary": "Windows' Loudness Equalization feature has been reverse-engineered and implemented in PipeWire, a Linux audio server.",
+      "significance": "This story matters because it brings Windows' Loudness Equalization feature to PipeWire, improving audio consistency across applications for Linux users.",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "points": [
+        "The implementation includes a PipeWire module and a DSP plugin for volume normalization.",
+        "Users can control the feature globally or per application through an optional GTK3 window.",
+        "The system uses a look-ahead limiter to prevent clipping, with a delay of 64 frames at 44.1/48 kHz."
+      ]
+    },
+    {
+      "summary": "Project update for a search engine with recent focus on bug fixes and technical improvements, considering a migration to C++.",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "points": [
+        "SerpApi sponsored the project with $10k.",
+        "Project is experimenting with migrating index code from Java to C++ to potentially improve performance.",
+        "Search engine has seen increasing donations and API-key sales since summer."
+      ]
+    },
+    {
+      "summary": "Developer Armin Ronacher argues against Rust's mutex poisoning feature, citing issues with its implementation and handling.",
+      "url": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+      "points": [
+        "Armin Ronacher claims poisoned locks are mishandled in the wild, leading to worse behavior.",
+        "Poisoning can cause a process to fail indefinitely, as seen in Rust's history.",
+        "Standard I/O and libraries like Tokio ignore poisoning, suggesting it's not widely handled correctly."
+      ]
+    },
+    {
+      "summary": "A guide on using Bluetooth to connect old Java phones like the Sony Ericsson S500i to the internet.",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "points": [
+        "Uses a Raspberry Pi to create a Bluetooth NAP to share internet.",
+        "Requires setting up Bluetooth PAN on Linux with BlueZ and NetworkManager.",
+        "Opera Mini 4.5 can access modern HTTPS websites through Opera\u2019s proxy servers."
+      ]
+    },
     {
       "summary": "Actor Rory Culkin discusses his anxiety, fatherhood, and the unusual naming of his daughter Havoc Moon.",
       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/25/rory-culkin-interview-anxiety-fatherhood-famous-brothers",
@@ -3676,70 +3741,6 @@
         "Two flights from the UK, including London and Manchester, received bomb threats.",
         "Polish officials reported threats against two Warsaw-bound flights.",
         "All four planes landed safely with no explosives discovered."
-      ]
-    },
-    {
-      "summary": "US Supreme Court to hear arguments on Tuesday about Catholic preschools' right to exclude children with LGBTQ+ parents from state's free education system.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/lgbtq-catholic-public-preschool-supreme-court",
-      "points": [
-        "Case involves two Catholic preschools in Colorado challenging state nondiscrimination laws.",
-        "Decision in St Mary Catholic Parish v Roy could redefine balance between religious freedom and nondiscrimination laws.",
-        "Preschools seek admission to state\u2019s free education system despite their policies excluding LGBTQ+ families."
-      ]
-    },
-    {
-      "summary": "Public servants union in Victoria refuses to support Labor due to job cuts and high spending on consultants.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
-      "points": [
-        "CPSU condemns government for cutting jobs and spending $1.2bn on consultants.",
-        "Union decision announced on Wednesday, ahead of November 28 election.",
-        "CPSU joins other unions opposing Labor over 'privatisation by stealth'."
-      ]
-    },
-    {
-      "summary": "Snowy Hydro 2.0 executives received $751,925 in bonuses despite the project's significant cost overrun.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout",
-      "points": [
-        "Dennis Barnes, CEO, declined his bonus despite having a base salary of $1,845,126.",
-        "CSIRO's chief received an additional $200,000 bonus.",
-        "The renewable energy project's cost increased to 12 times its original estimate."
-      ]
-    },
-    {
-      "summary": "Barclays becomes first major lender to offer compensation to customers mis-sold car loans.",
-      "url": "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans",
-      "points": [
-        "Barclays to make 'early settlement' offers this month.",
-        "Some customers may receive compensation before Christmas.",
-        "Move comes amid an ongoing legal battle over a wider compensation scheme."
-      ]
-    },
-    {
-      "summary": "A blogger details their experience with AI-generated customer service responses from Ocado and the eventual human follow-up.",
-      "significance": "The story illustrates the impact of detailed customer feedback in overcoming AI-generated customer service responses, highlighting the importance of human engagement in addressing technical issues.",
-      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-      "points": [
-        "Ocado initially responded with an AI-generated message that lacked technical engagement.",
-        "The blogger received a genuine apology and acknowledgment from a human after leaving a 1-star review.",
-        "The article highlights the frustration of dealing with AI in customer service and the importance of human interaction."
-      ]
-    },
-    {
-      "summary": "Octomind is an open-source AI coding agent that operates in terminal, CI, or as a daemon, offering efficient code handling and task completion.",
-      "url": "https://github.com/Muvon/octomind",
-      "points": [
-        "Octomind solved 24 out of 25 tasks at half the cost of its closest competitor.",
-        "It supports multiple programming languages including Python, PHP, Rust, C++, and JavaScript.",
-        "Users can choose their own key from providers like OpenRouter, Anthropic, or use Octomind Cloud."
-      ]
-    },
-    {
-      "summary": "Fujifilm plans to increase tape production fivefold due to rising demand for archiving driven by AI.",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "points": [
-        "Fujifilm will invest about $63 million to boost production capacity by 2028.",
-        "The investment targets the latest-generation \"FUJIFILM LTO Ultrium10\" tape.",
-        "Magnetic tape is favored for its low-cost storage and protection against cyber threats like ransomware."
       ]
     }
   ]
