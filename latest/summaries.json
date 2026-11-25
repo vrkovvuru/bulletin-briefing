@@ -1,6 +1,81 @@
 {
-  "generated": "2026-11-25T01:41:11.766548Z",
+  "generated": "2026-11-25T03:42:12.780717Z",
   "summaries": [
+    {
+      "summary": "Huawei was convicted on 10 of 12 charges including theft of trade secrets and bank fraud in a US court.",
+      "significance": "The conviction impacts Huawei's global operations and US-China tech relations, following allegations of trade secret theft and fraud.",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets",
+      "points": [
+        "Huawei found guilty on 10 counts, including conspiracy to steal trade secrets and bank fraud.",
+        "US Attorney General Todd Blanche emphasized no entity is above the law.",
+        "Huawei acquitted of racketeering conspiracy, a charge of acting as a criminal enterprise."
+      ]
+    },
+    {
+      "summary": "Asian stock markets fell sharply amid growing doubts about the AI boom, with tech stocks suffering significant losses.",
+      "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+      "points": [
+        "Taiwan\u2019s Taiex plunged as much as 7.9 percent in morning trading.",
+        "Japan\u2019s Tokyo Electron and Advantest dropped 13.5 percent and 14.5 percent, respectively.",
+        "South Korea\u2019s Samsung Electronics and SK Hynix fell 9.1 percent and 9.9 percent, respectively."
+      ]
+    },
+    {
+      "summary": "Pakistani astronaut Muhammad Zeeshan Ali launches into space on a Chinese rocket to the Tiangong space station.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+      "points": [
+        "Muhammad Zeeshan Ali will conduct scientific projects in biotechnology and materials science.",
+        "Ali's mission is under an agreement between China and Pakistan.",
+        "The astronaut is heading to the Tiangong space station aboard a Chinese rocket."
+      ]
+    },
+    {
+      "summary": "Salvadorian immigrant Kilmar Ábrego García, central to a deportation dispute, voluntarily left the US for Spain.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+      "points": [
+        "García was deported to El Salvador in March 2025 by the Trump administration.",
+        "He returned to the US after a supreme court ruling overturned his deportation.",
+        "García was previously held in Cecot, a well-known anti-terrorism mega-prison."
+      ]
+    },
+    {
+      "summary": "Documents leaked to The Guardian reveal Russia's true scale of losses in Ukraine war.",
+      "significance": "The leak of documents revealing nearly 500,000 Russian losses in Ukraine since 2022 exposes the true scale of military casualties previously hidden by Russia.",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
+      "points": [
+        "Hackers accessed 11m death certificates from Russia\u2019s main statistics database.",
+        "Nearly 500,000 Russian losses in Ukraine since 2022 were uncovered.",
+        "1,000 Russian soldiers took their own lives, equivalent to a whole regiment."
+      ]
+    },
+    {
+      "summary": "Al Gore, former VP and former journalist, is buying the Carthage Courier, a local newspaper in Tennessee.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
+      "points": [
+        "Al Gore will acquire the Carthage Courier, operated by the Lake family for 50 years.",
+        "The Carthage Courier serves Smith county, home to about 20,000 residents.",
+        "The newspaper is located approximately 55 miles east of Nashville."
+      ]
+    },
+    {
+      "summary": "Rescue crews search for six people after a small plane crashed off the Mississippi coast.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
+      "points": [
+        "US Coast Guard found the cabin, three life jackets, and a life raft.",
+        "The incident occurred on Tuesday afternoon.",
+        "The plane's cabin was seen floating on the water."
+      ]
+    },
+    {
+      "summary": "PenGPT is a generative transformer model that can write and sketch based on text inputs, demonstrating the ability to mimic handwriting and create drawings.",
+      "significance": "PenGPT demonstrates a transformer model's capability to generate handwriting and sketches from text, showcasing advancements in generative AI for fine motor tasks.",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "points": [
+        "The model consists of two versions: a 6M-parameter model for handwriting and a 54M-parameter model for drawing.",
+        "It was trained on 495,590 words by 1,255 writers and 477,670 sketches from ten public datasets.",
+        "The handwriting model can mimic new handwriting styles after seeing only a few words from an unseen writer."
+      ]
+    },
     {
       "summary": "Armed men are holding about 20 people hostage in a supermarket in Cartagena, Colombia, after a failed robbery.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
@@ -3664,81 +3739,6 @@
         "Tool predicts plant response to future climate in specific locations",
         "Prof Sam Brockington notes 20th-century gardening traditions are unreliable now",
         "Cambridge University Botanic Garden curator highlights need for new gardening approaches"
-      ]
-    },
-    {
-      "summary": "Despite recent aid, millions of Americans still struggle with unaffordable medical debt.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/medical-debt-healthcare",
-      "points": [
-        "Experts highlight that relief efforts only cover a small fraction of the outstanding medical debt.",
-        "The fundamental issue remains unsolved: healthcare costs exceed what many Americans can afford.",
-        "Recent years have seen a dramatic increase in medical debt relief, but it's insufficient."
-      ]
-    },
-    {
-      "summary": "The article debunks claims that Astra can improve Qwen and create game-playing networks just by analyzing raw weights.",
-      "significance": "The story matters because it clarifies that Astra's improvements to Qwen and game-playing networks involve more than just \"reading raw weights,\" challenging the initial misleading claims.",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "points": [
-        "Astra fixes Qwen's math performance by editing 0.016% of its weights, raising MATH-500 from 7.9% to 48.1%.",
-        "Astra's game-playing network beats PPO-500M only on Breakout (517 vs. 25) but loses on Seaquest (53 vs. 89) and Asterix (53 vs. 55).",
-        "Experiments that improve Qwen and create game-playing networks use Python and model runs, not just raw weight analysis."
-      ]
-    },
-    {
-      "summary": "NVIDIA releases Auto Ontology, an open-source Python framework for creating semantic reasoning layers over data, enhancing AI explainability and reliability.",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "points": [
-        "Enables deterministic query generation and better context retrieval for AI workflows.",
-        "Complements existing semantic models by building a context layer from enterprise metadata.",
-        "Exposes context to any agent harness through MCP, CLI, and API interfaces."
-      ]
-    },
-    {
-      "summary": "Gabe Kavookjian, who has Down syndrome, shares his daily routine and work experiences at a cinema that employs people with disabilities.",
-      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
-      "points": [
-        "Gabe works two days a week at the Prospector, a movie theater in Ridgefield, Connecticut.",
-        "The Prospector hires adults with disabilities as its main mission, providing meaningful jobs.",
-        "Gabe and coworker Ian produce short movies for the theater, using cinema-grade equipment."
-      ]
-    },
-    {
-      "summary": "Reddit challenges Australia's under-16s social media ban, arguing it restricts political communication.",
-      "significance": "Reddit argues Australian under-16s social media ban is overly broad, challenging it in high court for impinging on teens' political communication freedom.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court",
-      "points": [
-        "Reddit claims the ban impinges on teens' implied freedom of political communication.",
-        "The ban was passed hastily in 2024, deemed \"ill-thought-out\" by Reddit.",
-        "Reddit's lawsuit has already led to the legislation being narrowed."
-      ]
-    },
-    {
-      "summary": "Western officials state that potential UK and French peacekeepers in Ukraine post-ceasefire could engage in self-defense against Russian forces.",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/uk-european-peacekeepers-ukraine-fire-back-russians",
-      "points": [
-        "Peacekeepers would be permitted to retaliate if attacked by Russian forces.",
-        "The force would be primarily European, avoiding reliance on US technology like Starlink.",
-        "British and French troops are expected to lead the potential stabilisation mission."
-      ]
-    },
-    {
-      "summary": "Australian MPs are providing permanent access to Parliament House for major resource companies and online gambling lobbyists.",
-      "significance": "MPs' sponsorship of powerful lobbyists for permanent access to Parliament House raises concerns over transparency and influence.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/powerful-political-lobbyists-access-to-parliament-australia",
-      "points": [
-        "Labor and Coalition MPs are sponsoring these groups.",
-        "New rules mandate disclosure of such sponsorships on a public register.",
-        "Initial data release provided limited detail, with over 1,000 applications pending."
-      ]
-    },
-    {
-      "summary": "Monthly sponsors-only newsletter sent out with topics on game development, cybersecurity, and software updates.",
-      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
-      "points": [
-        "October marks a critical phase for vibe game development.",
-        "Discussion on the increasing severity of cybersecurity vulnerabilities.",
-        "LLM offers API credits for subscriptions over $100/month."
       ]
     }
   ]
