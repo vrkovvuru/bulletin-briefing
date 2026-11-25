@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-25T15:41:50.416757Z",
+  "generated": "2026-11-25T17:41:39.031630Z",
   "summaries": [
+    {
+      "summary": "An Instagram account called Life100 has gone viral, featuring the wisdom of two elderly women and addressing rude dinner table questions.",
+      "url": "https://www.theguardian.com/wellness/2026/nov/25/life100-viral-instagram-series-susan-thau-sondra-goldstein",
+      "points": [
+        "Life100 explores important life lessons and has gained significant online popularity.",
+        "The account highlights uncomfortable scenarios where grandmothers ask invasive questions.",
+        "Examples of rude questions include inquiries about the granddaughter's relationship status and plans for children."
+      ]
+    },
+    {
+      "summary": "Trump indicated he might pardon Nvidia CEO Jensen Huang if needed, after pressuring to reinstall him despite security concerns.",
+      "significance": "Trump's willingness to pardon Huang underscores the political influence on corporate leadership, particularly in tech with national security implications.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
+      "points": [
+        "Trump stated pardoning Huang is an option but他认为不需要。",
+        "特朗普在周二接受《纽约邮报》采访时发表了上述言论。",
+        "特朗普向Nvidia董事会施压，重新任命黄仁勋为CEO，尽管有议员对国家安全表示担忧。"
+      ]
+    },
+    {
+      "summary": "California faces major flooding due to record-breaking tides, though most areas may avoid severe coastal flooding.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+      "points": [
+        "Record-breaking high tides hit California's west coast for a second day.",
+        "Local officials prepared for potential flooding disrupting Thanksgiving travel.",
+        "Intense winter rainstorms could amplify coastal flooding in worst-case scenarios."
+      ]
+    },
+    {
+      "summary": "Raheem Sterling, former England and Manchester City player, receives a suspended jail term for reckless driving and nitrous oxide possession.",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/25/does-the-rise-and-fall-of-raheem-sterling-show-football-is-broken-the-latest",
+      "points": [
+        "Sterling given 12-month jail term, suspended for 18 months.",
+        "He was awarded an MBE in 2021 for his football achievements.",
+        "Case raises questions on protections for young professional players."
+      ]
+    },
+    {
+      "summary": "GitHub experienced degraded performance across multiple products, including Git Operations, Webhooks, API Requests, Issues, Pull Requests, Actions, Packages, and Pages.",
+      "significance": "This incident highlights ongoing reliability issues across multiple GitHub services, affecting developers and teams dependent on these tools.",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "points": [
+        "Degradation has been mitigated for most services, with ongoing monitoring.",
+        "Issues, Pull Requests, and Pages continue to experience degraded performance.",
+        "High database load is the suspected cause, with mitigation efforts underway."
+      ]
+    },
+    {
+      "summary": "Rust's next trait solver, aimed at improving performance and correctness, will be included in Rust 1.102.0.",
+      "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+      "points": [
+        "The new trait solver aims to reduce soundness bugs in Rust's type system.",
+        "Work on the new solver began on July 24, 2015, shortly after Rust 1.0 was released.",
+        "The solver's performance was a major issue before its stabilization."
+      ]
+    },
     {
       "summary": "World experiences six consecutive days above 2C preindustrial temperature levels for the first time.",
       "significance": "The streak indicates accelerating global heating, feeding scientific concerns over fossil fuel emissions' impacts.",
@@ -3686,61 +3742,6 @@
         "New panel feature enables chatting next to Datasette pages like tables or queries.",
         "Feature works with datasette-apps to create and modify database-backed apps via chat.",
         "Users can try the new feature by signing in with their GitHub account at agent.datasette.io."
-      ]
-    },
-    {
-      "summary": "Trump announces on election day that the US will end $4bn annual military aid to Israel by year-end.",
-      "significance": "Trump's announcement aims to influence voters skeptical of US support for Israel, altering the narrative on election day.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-      "points": [
-        "Trump claims Israel doesn't need the $4bn military aid from the US.",
-        "Announcement made during a phone interview with Fox News as voting began.",
-        "Move appears aimed at voters skeptical of US support for Israel and Gaza conflict."
-      ]
-    },
-    {
-      "summary": "Israel detained Al Jazeera journalist Montaser Nassar during raids near Hebron.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-      "points": [
-        "Evidence showed Israeli forces shot and assaulted a prisoner.",
-        "Israeli Minister Itamar Ben-Gvir was involved in threatening a prisoner."
-      ]
-    },
-    {
-      "summary": "Russian strikes in Dnipro killed two and injured 20, damaging medical facilities.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
-      "points": [
-        "Two people were killed and 20 others injured in the strikes.",
-        "Strikes damaged several medical facilities, including a hospital.",
-        "A hospice caring for nearly 50 terminally ill patients was also hit."
-      ]
-    },
-    {
-      "summary": "Jury retires to deliberate verdicts in Russell Brand's rape and sexual assault trial.",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/jury-russel-brand-rape-sexual-assault-trial-retires-consider-verdicts",
-      "points": [
-        "Judge requires unanimous decision on seven charges.",
-        "Brand, 51, accused of offenses against six women from 1999 to 2009.",
-        "Trial at Southwark crown court described Brand as a sexual predator."
-      ]
-    },
-    {
-      "summary": "MPs urge government protection for Poundland and its 12,000 jobs from asset-stripping after US owner rejects buyout offers.",
-      "significance": "MPs urge government protection for Poundland and jobs against asset-stripping risks.",
-      "url": "https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
-      "points": [
-        "Poundland filed for potential administration at the high court last Thursday.",
-        "US owner Gordon Brothers rejected multiple buyout offers for the budget retailer.",
-        "MPs warn against \"predatory capitalism\" threatening high street stores like Poundland."
-      ]
-    },
-    {
-      "summary": "UK slashes aid to Commonwealth countries despite positive rhetoric at Chogm summit.",
-      "url": "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
-      "points": [
-        "UK aid cuts hit Commonwealth nations harder, especially nature projects.",
-        "Analysis shows Commonwealth countries fare worse amid overall UK aid budget reductions.",
-        "Contrast between aid cuts and supportive statements from King and Prime Minister Andy Burnham."
       ]
     }
   ]

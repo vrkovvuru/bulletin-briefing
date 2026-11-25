@@ -2,48 +2,75 @@
   "date": "2026-11-25",
   "stories": [
     {
+      "title": "Colombian forces rescue all hostages after supermarket siege",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Group of Senate Democrats push to add freshman to leadership",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Nicolas Maduro’s son led birthday celebrations in Caracas as the abducted former Venezuelan president turned 64",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
       "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
-      "alsoReportedBy": ["BBC News", "The Guardian", "Al Jazeera"]
+      "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
-      "title": "Why has China sent the first Pakistani astronaut to space?",
-      "url": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station.",
-      "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
+      "title": "Sporting Lisbon vs Manchester United LIVE: UEFA Champions League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "A Jewish activist has confronted former Mossad chief David Barnea in Germany&#039;s parliament, calling him a &#039;war criminal&#039;.",
+      "summary": "Follow all the build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.",
       "alsoReportedBy": []
     },
     {
-      "title": "US Army detonates toxic lead stockpile in Iowa amid backlash",
-      "url": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Controlled detonations carried out after legal battles over environmental and health concerns.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Two men charged with trying to steal cufflinks and clock from Royal home",
-      "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+      "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The court hears the items from the Sandringham estate are of an unknown value.",
+      "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
       "alsoReportedBy": []
     },
     {
@@ -56,49 +83,13 @@
       "alsoReportedBy": ["Al Jazeera"]
     },
     {
-      "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Trump announces new trade tariffs: Which countries will they target?",
-      "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-      "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "World has six consecutive days 2C above preindustrial levels for first time",
-      "url": "https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time",
+      "title": "Is grandma asking rude questions at the dinner table again? This Instagram account can help",
+      "url": "https://www.theguardian.com/wellness/2026/nov/25/life100-viral-instagram-series-susan-thau-sondra-goldstein",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Daily global surface temperature hit record 2.24C above baseline levels on Monday and streak is forecast to continue For the first time, the world has experienced six consecutive days of temperatures 2C warmer than preindustrial levels, the Guardian has learned. This record hot streak , which is continuing, is too brief to signify that the upper range of the Paris climate agreement target has been breached, but scientists said it was an early indication of what is to come unless fossil fuel emissions are rapidly eliminated. It is also likely to feed into growing scientific concerns that global heating may be accelerating . Continue reading...",
+      "summary": "Life100 features the wisdom of two women in their 80s and has gone viral by exploring important life lessons It is, unfortunately, a familiar scene. At the dinner table, a woman berates her granddaughter with invasive, personal questions – why are you still single? When are you going to have kids? – punctuated by unnerving thrusts of her steak knife. The granddaughter is clearly uncomfortable, but her grandmother pays no attention. Anyone who has been in this situation likely knows what comes next. The granddaughter may try to deflect, only to invite further questioning, or call out her grandmother’s rudeness, which risks escalation. Continue reading...",
       "alsoReportedBy": []
-    },
-    {
-      "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of Homeland Security confirming that he was travelling to Spain. A source close to Ábrego said Madrid was his first stop but that it would not be his final destination. Continue reading...",
-      "alsoReportedBy": ["BBC World"]
     },
     {
       "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
@@ -119,6 +110,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
       "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
       "source": "Guardian World",
@@ -128,12 +137,39 @@
       "alsoReportedBy": ["BBC World"]
     },
     {
-      "title": "New York bans AI toys, including those using internet to talk to children",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "title": "Canadian astronaut welcomes baby girl from space station",
+      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by governor Kathy Hochul The New York governor, Kathy Hochul , signed legislation on Wednesday that places a five year ban on the manufacture and sale of toys powered by AI chatbots, including talking stuffed animals, dolls and robots that use the internet to hold conversations with children. The recently re-elected governor, who has also placed a one-year moratorium AI datacenter construction in the state , said that parents shopping for children’s toys “should not have to worry that dangerous chatbots disguised as toys could expose their children to inappropriate conversations, manipulate their feelings or put their privacy at risk”. Continue reading...",
+      "summary": "The president’s comments came after pressuring Nvidia’s board to reinstall Huang as CEO despite lawmakers’ concerns over national security Donald Trump said on Tuesday he would be open to pardoning Jensen Huang , the recently reinstalled Nvidia CEO , for potential crimes but didn’t think it would be necessary. “It’s always an option, I guess,” the US president told the New York Post in an interview. “But I don’t think it’ll be necessary.” Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "California beaches close as record-breaking tides and major flooding loom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Most of state likely to avoid worst-case scenario of coastal flooding amplified by intense winter rainstorms Major flooding is expected in California today as a second day of record-breaking high tides hits up and down the west coast. While forecasts suggest most of the state is on track to avoid the worst-case scenario – coastal flooding amplified by intense winter rainstorms – local officials have been preparing for weeks for the risk that flooding will disrupt travel during Thanksgiving week, one of the busiest times of the year. Dani Anguiano contributed reporting Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Does the rise and fall of Raheem Sterling show football is broken? – The Latest",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/25/does-the-rise-and-fall-of-raheem-sterling-show-football-is-broken-the-latest",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Raheem Sterling has been handed a 12-month jail term, suspended for 18 months, for reckless driving and possession of nitrous oxide. It marks a remarkable fall from grace for the former England and Manchester City player, who was awarded an MBE in 2021. Sterling started playing professional football at 16, and his sentencing has raised questions about whether there are sufficient protections for younger players. Lucy Hough speaks to the Guardian columnist and sportswriter Jonathan Liew – watch on YouTube Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -146,39 +182,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
-      "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station China has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the US-led International Space Station (ISS) enters its final years of operation. Floating through a hatch to enter Tiangong, Pakistan’s Muhammad Zeeshan Ali grinned broadly as he was embraced by the onboard crew in what China’s space agency called the country’s first foreign “space handshake”. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Nationwide unveils 1% deposit mortgage deal for first-time buyers",
-      "url": "https://www.theguardian.com/money/2026/nov/25/nationwide-unveils-1-deposit-mortgage-deal-first-time-buyers-in-uk",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "People can borrow up to six times their income, but brokers sound alarm over risks of negative equity if house prices fall A mortgage deal that lets first-time buyers borrow 99% of a property’s value has prompted warnings that even a small dip in house prices could result in borrowers falling into negative equity. On Wednesday, Nationwide unveiled a mortgage enabling people to buy a home with just a 1% deposit and potentially borrow up to six times their income. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "High prices force many across the US to scale back for Thanksgiving: ‘We can’t afford the food’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Americans are opting for smaller gatherings, reconsidering travel or swapping expensive ingredients for cheaper alternatives Thanksgiving is just one day away, but for some Americans, the holiday may look a little different this year as higher costs for food, drinks , household goods, air travel and gasoline have prompted some families to rethink their plans and spending. The Guardian recently asked readers across the United States how they were marking the holiday this year and whether higher prices had affected their plans or made them rethink their usual traditions. Continue reading...",
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+      "source": "Pragmatic Engineer",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "Katelyn Lesse explains how Anthropic rewrote Claude&#8217;s API in Rust and how AI agents are changing engineering at the company.",
       "alsoReportedBy": []
     },
     {
@@ -194,6 +203,24 @@
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
       "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Investigating degraded experiences across GitHub products",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Optimizing Rustc's next trait solver",
+      "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -218,26 +245,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
       "url": "https://wheybags.com/blog/pokemon_childhood_version.html",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Abolish Lock Poisoning",
-      "url": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -254,17 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Software factories and code reviews with Harjot Gill",
-      "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
-      "source": "Pragmatic Engineer",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com/",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
