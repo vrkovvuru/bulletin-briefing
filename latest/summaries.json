@@ -1,6 +1,90 @@
 {
-  "generated": "2026-11-25T17:41:39.031630Z",
+  "generated": "2026-11-25T19:42:26.968159Z",
   "summaries": [
+    {
+      "summary": "Vanity Fair publishes a controversial 4,500-word piece about Taylor Swift, labelled as commentary but framed as deeply sourced reporting.",
+      "significance": "The article questions the substantive impact and new revelations of Vanity Fair\u2019s detailed exposé on Taylor Swift, suggesting it may not offer significant insights beyond known narratives.",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/25/vanity-fair-takedown-taylor-swift-expose-hot-air",
+      "points": [
+        "May Jeong, a Princeton journalism professor, wrote the piece titled \"The Mastermind.\"",
+        "The article, based on interviews with 100 sources, took a year to report.",
+        "Despite its length and sources, the piece's revelations were anticipated by those \"extremely online."
+      ]
+    },
+    {
+      "summary": "A TikTok video highlights Gen Z's struggle with antisocial behavior during Friendsgiving, showing a nearly deserted gathering.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z",
+      "points": [
+        "Jackson Strike posted a video of a nearly empty Friendsgiving with a 6lb ham in the oven.",
+        "Over 1.5 million people liked the video, expressing disappointment in antisocial behavior.",
+        "Comments suggest frustration, with one user stating, \"Time to get new friends."
+      ]
+    },
+    {
+      "summary": "England's Greg Fisilau to make debut start in All Blacks rematch with five other changes.",
+      "url": "https://www.theguardian.com/sport/2026/nov/25/greg-fisilau-to-make-england-debut-start-in-blockbuster-all-blacks-rematch-rugby-union",
+      "points": [
+        "Greg Fisilau, 23, earns first start in England's jersey against New Zealand.",
+        "Steve Borthwick makes five changes to the team for the All Blacks game.",
+        "Freddie Steward, Tommy Freeman, Ellis Genge, and Luke Cowan-Dickie also start."
+      ]
+    },
+    {
+      "summary": "UK food inflation could reach 5% next year, according to the Bank of England.",
+      "significance": "The story matters as it indicates a significant expected rise in UK food inflation, affecting consumer budgets and economic planning.",
+      "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+      "points": [
+        "Deputy governor Clare Lombardelli stated food inflation is lower than expected.",
+        "Experts consider energy price cap increases and El Niño's potential impact.",
+        "Current food price inflation is below initial expectations and industry forecasts."
+      ]
+    },
+    {
+      "summary": "Minister Louise Haigh discussed energy costs, highlighting the potential for annual energy bills to exceed £2,000 in 2027.",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
+      "points": [
+        "Ofgem may set the price cap at over £2,000 per quarter in 2027.",
+        "The recent £443 hike in the price cap was primarily due to gas prices.",
+        "Energy bills are predicted to be £2,166 on average for the first quarter of next year."
+      ]
+    },
+    {
+      "summary": "Treasury expresses concerns over spending levels in Alan Milburn\u2019s review on youth unemployment.",
+      "url": "https://www.theguardian.com/society/2026/nov/25/treasury-spending-concerns-proposed-support-youth-unemployment-milburn-review",
+      "points": [
+        "Chancellor John Healey wants the system to break even sooner.",
+        "Pressure exists to reduce the welfare bill more quickly.",
+        "Treasury unhappy with required spending under the proposals."
+      ]
+    },
+    {
+      "summary": "Kilmar Ábrego García arrives in Spain after leaving the US, while separate news covers tariffs and a controlled detonation in Iowa.",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+      "points": [
+        "US trade representative Jamieson Greer says new tariffs won't affect the global economy immediately.",
+        "Controlled detonation scheduled at Iowa Army Ammunition Plant at 9am, residents within 20 miles advised to shelter in place.",
+        "ICE removed Kilmar Ábrego García's ankle monitor before his departure from the US to Spain."
+      ]
+    },
+    {
+      "summary": "1Password disclosed a security incident where an attacker accessed an employee's GitHub account and pushed malicious code to backend services.",
+      "significance": "This story matters as it highlights a significant security breach affecting 1Password users, leading to the exposure of non-secret customer data and source code, prompting enhanced security measures.",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "points": [
+        "Attack occurred on November 19, 2026, affecting customer account identifiers, creation times, and last sign-in times.",
+        "Tokens in emailed links for invitations and account recovery were compromised, but 1Password lengthened codes from six digits to ten alphanumeric digits.",
+        "1Password rotated or revoked all internal credentials exposed and tightened GitHub, CI/CD, and endpoint controls."
+      ]
+    },
+    {
+      "summary": "Quantum computers won't instantly solve hard problems, and recent AI breakthroughs have proven significant algorithmic complexity lower bounds.",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "points": [
+        "OpenAI and Anthropic claim to prove a lower bound matching the upper bound from October 6.",
+        "The AI was able to prove ω>2, a long-standing mystery in algorithms since the late 1960s.",
+        "AI has improved resolution into mathematical truth, akin to van Leeuwenhoek's microscope or Galileo's telescope."
+      ]
+    },
     {
       "summary": "An Instagram account called Life100 has gone viral, featuring the wisdom of two elderly women and addressing rude dinner table questions.",
       "url": "https://www.theguardian.com/wellness/2026/nov/25/life100-viral-instagram-series-susan-thau-sondra-goldstein",
@@ -3661,87 +3745,6 @@
         "The user found the ISP's IP address when using standard DNS but a different IP with Cloudflare's DoH.",
         "Only 7.03% of graded domains have a valid, fully validating DNSSEC chain.",
         "The user uses Pi-hole/AdGuard for DNS and recommends DoT or DoH to prevent ISP snooping."
-      ]
-    },
-    {
-      "summary": "The PHP2Shell vulnerability highlights the growing threat of AI in exploiting legacy software bugs.",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "points": [
-        "A bug in PHP, reported in 2024, was exploited within two weeks using AI tools.",
-        "The vulnerability allowed running arbitrary code and reading critical data on host servers.",
-        "Experts suggest AI is making it easier for attackers to exploit legacy software, emphasizing the need for better cybersecurity funding and tools."
-      ]
-    },
-    {
-      "summary": "Go introduces a new API for JSON handling, addressing issues with the existing API while maintaining compatibility.",
-      "url": "https://go.dev/blog/jsonv2",
-      "points": [
-        "New API includes options for handling JSON, such as rejecting duplicate names and managing nil slices.",
-        "Existing JSON package will continue to be supported, ensuring compatibility with older versions.",
-        "New API aims to improve performance and safety, though some limitations remain due to backward compatibility."
-      ]
-    },
-    {
-      "summary": "A libc rewrite in Zig caused SQLite to become extremely slow in a chess analysis project.",
-      "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
-      "points": [
-        "SQLite insertions became 12,000x slower due to a Shlemiel the Painter problem.",
-        "The issue appeared only on Linux builds using Zig\u2019s cc compiler for sqlite.",
-        "Fixing the problem involved moving Linux builds to Linux containers."
-      ]
-    },
-    {
-      "summary": "Researchers have made progress on cryptographic proofs to verify that AI model responses come from the claimed model.",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "points": [
-        "Researchers from Anthropic and other institutions developed a system called FlashProve to generate proofs for AI model responses.",
-        "FlashProve can generate proofs at around 110 tokens/second for a 400B-parameter model using a single H100 GPU."
-      ]
-    },
-    {
-      "summary": "The article debunks common conspiracy theories about the NSA and NIST's role in cryptography standards.",
-      "url": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
-      "points": [
-        "DES was standardized in 1977 with 56-bit security, reduced from 128 bits by NSA.",
-        "NSA modified DES's S-boxes, which were initially suspected of having a backdoor but were later found to resist differential cryptanalysis.",
-        "Clipper Chip, promoted by NSA in 1993, had a backdoor for government access, unlike DES."
-      ]
-    },
-    {
-      "summary": "Conductor is being integrated into Meta, with services winding down over the coming months.",
-      "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
-      "points": [
-        "Conductor Cloud transitions to read-only mode on November 13, fully shutting down on November 20.",
-        "Local Conductor will continue to receive updates and critical bug fixes until early 2027.",
-        "Users can transfer cloud workspaces to their Mac and download all data via specific settings options."
-      ]
-    },
-    {
-      "summary": "AI advancements in weight-space programming and model optimizations were discussed at AIEi Shanghai, highlighting various models' capabilities and performance improvements.",
-      "significance": "The story highlights advancements in AI's ability to generate and edit neural network weights directly, impacting future AI development and efficiency.",
-      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
-      "points": [
-        "GPT-6 Astra edited 131,072 weights in Qwen3.5-0.8B, raising MATH-500 accuracy from 7.9% to 48.1%.",
-        "Tencent's model ranks #14 overall with a 75.2 score on APEX-Agents, outperforming DeepSeek V4.1 Flash-1017.",
-        "Pruna's open model, distilled from MiniMax-H3, produces a 4 MP image in 2.6 seconds, priced at $0.30/$1.20."
-      ]
-    },
-    {
-      "summary": "Datasette Apps 0.3a0 release enhances hosting and editing of custom HTML applications within Datasette.",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-      "points": [
-        "Apps can be tagged in Datasette Agent chat messages using # for autocompletion.",
-        "New tools allow managing stored queries an app can call, requiring user approval for write queries.",
-        "\"View app\" buttons and # app links now open apps full screen in the Datasette Agent panel."
-      ]
-    },
-    {
-      "summary": "Datasette Agent 0.5a0 introduces a new panel feature that allows chatting alongside Datasette pages.",
-      "url": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-      "points": [
-        "New panel feature enables chatting next to Datasette pages like tables or queries.",
-        "Feature works with datasette-apps to create and modify database-backed apps via chat.",
-        "Users can try the new feature by signing in with their GitHub account at agent.datasette.io."
       ]
     }
   ]

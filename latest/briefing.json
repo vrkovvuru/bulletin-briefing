@@ -2,12 +2,48 @@
   "date": "2026-11-25",
   "stories": [
     {
-      "title": "Colombian forces rescue all hostages after supermarket siege",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
+      "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
+      "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "Bellingham’s wondergoal sparks Zidane comparisons",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.",
+      "summary": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Ukrainian laser downs Russian jet-powered drone in world first",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Sporting Lisbon vs Manchester United LIVE: UEFA Champions League",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Follow all the build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.",
       "alsoReportedBy": ["The Guardian"]
     },
     {
@@ -20,111 +56,48 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Nicolas Maduro’s son led birthday celebrations in Caracas as the abducted former Venezuelan president turned 64",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
-      "alsoReportedBy": ["BBC News", "The Guardian"]
-    },
-    {
-      "title": "Sporting Lisbon vs Manchester United LIVE: UEFA Champions League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Follow all the build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-      "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
-      "source": "NPR",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
-      "alsoReportedBy": ["Al Jazeera"]
-    },
-    {
-      "title": "Is grandma asking rude questions at the dinner table again? This Instagram account can help",
-      "url": "https://www.theguardian.com/wellness/2026/nov/25/life100-viral-instagram-series-susan-thau-sondra-goldstein",
+      "title": "Is Vanity Fair’s takedown of Taylor Swift illuminating – or just a lot of hot air? | Arwa Mahdawi",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/25/vanity-fair-takedown-taylor-swift-expose-hot-air",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Life100 features the wisdom of two women in their 80s and has gone viral by exploring important life lessons It is, unfortunately, a familiar scene. At the dinner table, a woman berates her granddaughter with invasive, personal questions – why are you still single? When are you going to have kids? – punctuated by unnerving thrusts of her steak knife. The granddaughter is clearly uncomfortable, but her grandmother pays no attention. Anyone who has been in this situation likely knows what comes next. The granddaughter may try to deflect, only to invite further questioning, or call out her grandmother’s rudeness, which risks escalation. Continue reading...",
+      "summary": "A war correspondent interviewed 100 sources about the pop star, but what does the 4,500-word story reveal? If you are extremely online you will have known for a while that a big takedown was coming. An exposé of a well-known blond billionaire, a powerful figure that people are terrified to criticise, was in the works at a large publication. A former war correspondent had been assigned the story! A hundred sources had been interviewed! The reporting had taken a year! The truth would finally out! For everyone else, let me explain in plain English. On Monday Vanity Fair published an eagerly anticipated, 4,500-word piece, about Taylor Swift called The Mastermind. While it was labelled as “commentary”, it was framed as a deeply sourced piece written by May Jeong, a journalism professor at Princeton who has won awards for her reporting from Afghanistan. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "title": "Why has Poundland collapsed and what happens next?",
+      "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
       "alsoReportedBy": []
     },
     {
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+      "title": "‘Nobody showed up but me’: will Friendsgiving survive gen Z?",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "A generation known for loneliness is putting their own spin on a millennial-made tradition that requires socializing It’s a TikTok scene straight out of a stress dream: two men stand in their freshly cleaned apartment, explaining how all but one of the people they invited to Friendsgiving flaked out at the last minute. There is a can of whipped cream on the table and a 6lb ham in the oven. According to the video, posted by pop-culture podcaster Jackson Strike, those who ditched were either tired, or sick, or had a difficult day at work. More than 1.5 million people liked the video and many flooded to the comments section to express their disappointment at what they saw as an epidemic of antisocial behavior. “Everyone wants a village until they have to be a villager,” one user wrote. “Time to get new friends,” quipped another. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
-      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
-      "alsoReportedBy": []
+      "title": "Greg Fisilau to make England debut start in blockbuster All Blacks rematch",
+      "url": "https://www.theguardian.com/sport/2026/nov/25/greg-fisilau-to-make-england-debut-start-in-blockbuster-all-blacks-rematch-rugby-union",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Borthwick makes five changes for New Zealand game South Africa coaches are no-show for press conference Greg Fisilau will make his first England start against the All Blacks on Saturday with Steve Borthwick making five changes to his side for this weekend’s rematch with New Zealand, recalling Freddie Steward at full-back. Fisilau, 23, has impressed in England’s three victories to date as a replacement and earns his first start in the No 7 jersey with Ben Curry dropping to the bench. Elsewhere, there are starts for Tommy Freeman on the wing as well Ellis Genge and Luke Cowan-Dickie in the front row. Continue reading...",
+      "alsoReportedBy": ["BBC News"]
     },
     {
-      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
       "alsoReportedBy": []
     },
     {
@@ -137,49 +110,85 @@
       "alsoReportedBy": ["BBC World"]
     },
     {
-      "title": "Canadian astronaut welcomes baby girl from space station",
-      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
       "alsoReportedBy": []
     },
     {
-      "title": "Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
-      "source": "Guardian World",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "The president’s comments came after pressuring Nvidia’s board to reinstall Huang as CEO despite lawmakers’ concerns over national security Donald Trump said on Tuesday he would be open to pardoning Jensen Huang , the recently reinstalled Nvidia CEO , for potential crimes but didn’t think it would be necessary. “It’s always an option, I guess,” the US president told the New York Post in an interview. “But I don’t think it’ll be necessary.” Continue reading...",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
       "alsoReportedBy": []
     },
     {
-      "title": "California beaches close as record-breaking tides and major flooding loom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides",
-      "source": "Guardian World",
+      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Most of state likely to avoid worst-case scenario of coastal flooding amplified by intense winter rainstorms Major flooding is expected in California today as a second day of record-breaking high tides hits up and down the west coast. While forecasts suggest most of the state is on track to avoid the worst-case scenario – coastal flooding amplified by intense winter rainstorms – local officials have been preparing for weeks for the risk that flooding will disrupt travel during Thanksgiving week, one of the busiest times of the year. Dani Anguiano contributed reporting Continue reading...",
+      "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
       "alsoReportedBy": []
     },
     {
-      "title": "Does the rise and fall of Raheem Sterling show football is broken? – The Latest",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/25/does-the-rise-and-fall-of-raheem-sterling-show-football-is-broken-the-latest",
-      "source": "Guardian World",
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Raheem Sterling has been handed a 12-month jail term, suspended for 18 months, for reckless driving and possession of nitrous oxide. It marks a remarkable fall from grace for the former England and Manchester City player, who was awarded an MBE in 2021. Sterling started playing professional football at 16, and his sentencing has raised questions about whether there are sufficient protections for younger players. Lucy Hough speaks to the Guardian columnist and sportswriter Jonathan Liew – watch on YouTube Continue reading...",
+      "summary": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
       "alsoReportedBy": []
     },
     {
-      "title": "Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+      "title": "UK food inflation could hit 5% next year, Bank of England says",
+      "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max Balegde Diane Taylor is a Guardian reporter who covers migration. Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong, according to new research published today by King’s College University and YouGov. Among Reform UK supporters, 57% think net migration rose significantly in the year to June 2025, compared with 11% of Labour supporters and 8% of Greens. Eight in 10 Reform supporters think that asylum seekers are prioritised for social housing, compared with 21% of Green supporters. It is wrong to believe that if we could only correct misperceptions, we would automatically reduce concerns about immigration or policy preferences – because that misdiagnoses a large part of the cause, that these divides are partly driven by deep differences in values and identity. Continue reading...",
+      "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since the onset of the Iran war. The deputy governor Clare Lombardelli told MPs on the cross-party Treasury select committee: “Food price inflation is coming in under what we expected [it] to be, and in fact under what the industry expected it to be.” Continue reading...",
       "alsoReportedBy": []
+    },
+    {
+      "title": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Louise Haigh talked the right talk at the CBI this week, but greater ambition and tighter timelines are needed Shocked by average annual energy bills at £2,166 for the first three months of next year? Here’s worse news. It is currently possible, and perhaps even likely, that the regulator, Ofgem, will set the price cap at £2,000-plus in every quarter of 2027. Predictions for bills are less certain the further out one looks, it should be said. Gas prices, the overwhelming culprit in the £443 hike in the cap announced on Wednesday, can always fall – and might do so if calm returns to the strait of Hormuz. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Treasury raises spending concerns in proposed support for youth unemployment",
+      "url": "https://www.theguardian.com/society/2026/nov/25/treasury-spending-concerns-proposed-support-youth-unemployment-milburn-review",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Chancellor wants system laid out in Alan Milburn’s review to break even at an earlier date, sources say The Treasury has raised concerns about the level of spending on support proposed in Alan Milburn’s review into youth unemployment, amid pressure for the welfare bill to start reducing more quickly. Whitehall sources have told the Guardian that the chancellor, John Healey, is not happy with the level of spending required under the proposals and wants the system to break even at an earlier date. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "‘I feel free of everything evil’: Kilmar Ábrego García lands in Spain after choosing to leave US - live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Before his departure, Immigration and Customs Enforcement agents met him at the airport and removed his ankle monitor, an advocacy group reported Sign up for the Breaking News US email to get newsletter alerts in your inbox US trade representative Jamieson Greer claimed this morning that he did not expect the new proposed tariffs to rattle the global economy. “We’ve talked to our trading partners about this — they know what we’re proposing,” Greer told CNBC. “ I think a lot of this is baked in , and I don’t think any of these would actually take effect earlier than a couple months from now.” FINAL REMINDER. Controlled detonation at Iowa Army Ammunition Plant today at 9am (in 1 hour). EVACUATION IS NO LONGER SAFE OR ADVISED! All Residents within 20 miles including Middletown, Augusta, and Burlington must SHELTER IN PLACE immediately. STAY INDOORS with windows closed to block lead dust. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": ["Lobsters"]
     },
     {
       "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
@@ -209,15 +218,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Investigating degraded experiences across GitHub products",
-      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Optimizing Rustc's next trait solver",
       "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
       "source": "Lobsters",
@@ -227,8 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+      "url": "https://scottaaronson.blog/?p=10379",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
