@@ -2,6 +2,33 @@
   "date": "2026-11-25",
   "stories": [
     {
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+      "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection",
+      "source": "NPR",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Little Free Bakeries are popping up across the country. While they each operate a bit differently, the goal is the same: offering their neighbors a sweet treat to encourage conversation with a side of community. We focus on Sarah Mason, who started Little Free Bakery North Loop in her Austin neighborhood and Lanne Rosebrook Stauffer, who founded the first Little Free Bakery in Seattle and just celebrated five years of weekly bakes.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
       "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,30 +38,12 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Bellingham’s wondergoal sparks Zidane comparisons",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
+      "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+      "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Ukrainian laser downs Russian jet-powered drone in world first",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "summary": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
       "alsoReportedBy": []
     },
     {
@@ -45,6 +54,15 @@
       "categoryLabel": "Top Stories",
       "summary": "Follow all the build-up and team news coverage from our live text commentary stream as Bruno Fernandes headlines.",
       "alsoReportedBy": ["The Guardian"]
+    },
+    {
+      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "alsoReportedBy": []
     },
     {
       "title": "Group of Senate Democrats push to add freshman to leadership",
@@ -65,15 +83,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Why has Poundland collapsed and what happens next?",
-      "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "‘Nobody showed up but me’: will Friendsgiving survive gen Z?",
       "url": "https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z",
       "source": "The Guardian",
@@ -83,21 +92,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Greg Fisilau to make England debut start in blockbuster All Blacks rematch",
-      "url": "https://www.theguardian.com/sport/2026/nov/25/greg-fisilau-to-make-england-debut-start-in-blockbuster-all-blacks-rematch-rugby-union",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Borthwick makes five changes for New Zealand game South Africa coaches are no-show for press conference Greg Fisilau will make his first England start against the All Blacks on Saturday with Steve Borthwick making five changes to his side for this weekend’s rematch with New Zealand, recalling Freddie Steward at full-back. Fisilau, 23, has impressed in England’s three victories to date as a replacement and earns his first start in the No 7 jersey with Ben Curry dropping to the bench. Elsewhere, there are starts for Tommy Freeman on the wing as well Ellis Genge and Luke Cowan-Dickie in the front row. Continue reading...",
-      "alsoReportedBy": ["BBC News"]
-    },
-    {
       "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
       "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
       "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
       "alsoReportedBy": []
     },
     {
@@ -110,75 +128,57 @@
       "alsoReportedBy": ["BBC World"]
     },
     {
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "UK food inflation could hit 5% next year, Bank of England says",
-      "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+      "title": "Flinders Island bushfire grows to 13,000 hectares with Tasmanian homes and properties at risk",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since the onset of the Iran war. The deputy governor Clare Lombardelli told MPs on the cross-party Treasury select committee: “Food price inflation is coming in under what we expected [it] to be, and in fact under what the industry expected it to be.” Continue reading...",
+      "summary": "Fire making a ‘significant run’ towards the southwest of the island on Thursday, Tasmania Fire Service says Get our breaking news email , free app or daily news podcast Homes and properties on a picturesque remote island remain under threat from an out-of-control bushfire that has sent smoke hundreds of kilometres south. The blaze on Flinders Island in Bass Strait spread significantly on Wednesday after being started by lightning strikes. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
+      "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Louise Haigh talked the right talk at the CBI this week, but greater ambition and tighter timelines are needed Shocked by average annual energy bills at £2,166 for the first three months of next year? Here’s worse news. It is currently possible, and perhaps even likely, that the regulator, Ofgem, will set the price cap at £2,000-plus in every quarter of 2027. Predictions for bills are less certain the further out one looks, it should be said. Gas prices, the overwhelming culprit in the £443 hike in the cap announced on Wednesday, can always fall – and might do so if calm returns to the strait of Hormuz. Continue reading...",
+      "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "Treasury raises spending concerns in proposed support for youth unemployment",
-      "url": "https://www.theguardian.com/society/2026/nov/25/treasury-spending-concerns-proposed-support-youth-unemployment-milburn-review",
+      "title": "Liberal senator Leah Blyth announces defection to One Nation",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Chancellor wants system laid out in Alan Milburn’s review to break even at an earlier date, sources say The Treasury has raised concerns about the level of spending on support proposed in Alan Milburn’s review into youth unemployment, amid pressure for the welfare bill to start reducing more quickly. Whitehall sources have told the Guardian that the chancellor, John Healey, is not happy with the level of spending required under the proposals and wants the system to break even at an earlier date. Continue reading...",
+      "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Leah Blyth, federal Liberal senator for South Australia, has announced she is defecting to One Nation, becoming the party’s first upper-house member for the state. Blyth, a member of Angus Taylor’s frontbench, said she did not believe the Coalition was capable of opposing the Albanese government, which was “running the country into the ground”. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "‘I feel free of everything evil’: Kilmar Ábrego García lands in Spain after choosing to leave US - live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+      "title": "Oregon man and dog narrowly escape being swept away by high tides as officials urge caution at beaches",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Before his departure, Immigration and Customs Enforcement agents met him at the airport and removed his ankle monitor, an advocacy group reported Sign up for the Breaking News US email to get newsletter alerts in your inbox US trade representative Jamieson Greer claimed this morning that he did not expect the new proposed tariffs to rattle the global economy. “We’ve talked to our trading partners about this — they know what we’re proposing,” Greer told CNBC. “ I think a lot of this is baked in , and I don’t think any of these would actually take effect earlier than a couple months from now.” FINAL REMINDER. Controlled detonation at Iowa Army Ammunition Plant today at 9am (in 1 hour). EVACUATION IS NO LONGER SAFE OR ADVISED! All Residents within 20 miles including Middletown, Augusta, and Burlington must SHELTER IN PLACE immediately. STAY INDOORS with windows closed to block lead dust. Continue reading...",
+      "summary": "Record-breaking king tides have prompted west coast authorities to warn residents to stay away from beaches The US west coast has seen record-breaking tides this week and authorities have urged residents to avoid beaches, but not everyone is heeding those warnings. In Cannon Beach, Oregon , viral footage showed a man and his dog nearly getting swept away by a so-called king tide on Tuesday morning. The man had been standing on a staircase holding his leashed dog, who was walking in the sand, when the water suddenly surged, knocking him to his feet. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Ábrego García chooses to depart from US after previously being deported to El Salvador due to ‘administrative error’ US politics – live updates Kilmar Ábrego García, the Salvadorian national whose mistaken deportation turned him into a symbol of Donald Trump’s mass deportation efforts, has landed in Spain. Ábrego García arrived in Madrid on Wednesday after leaving the United States of his own volition . Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Vance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Vice-president says he supports reinstatement of Nvidia CEO after ‘assurances’ from top US officials was ‘under no investigation’ JD Vance said on Wednesday that Jensen Huang , the recently reinstalled Nvidia CEO , was never under criminal investigation and therefore did not need a pardon after Donald Trump said he would be open to offering one to the tech executive. The vice-president told reporters he supported Huang being reinstated as Nvidia CEO after receiving “assurances” from the attorney general and other top US officials that Huang was “under no investigation”. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -200,8 +200,35 @@
       "alsoReportedBy": []
     },
     {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Optimizing Rustc's next trait solver",
+      "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -218,39 +245,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Optimizing Rustc's next trait solver",
-      "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
       "source": "Pragmatic Engineer",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
-      "url": "https://wheybags.com/blog/pokemon_childhood_version.html",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
       "alsoReportedBy": []
     },
     {
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",

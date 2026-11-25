@@ -1,6 +1,72 @@
 {
-  "generated": "2026-11-25T19:42:26.968159Z",
+  "generated": "2026-11-25T21:41:33.257186Z",
   "summaries": [
+    {
+      "summary": "Little Free Bakeries, like the one in Austin run by Sarah Mason, offer pastries to foster community connections.",
+      "significance": "Little Free Bakeries foster community connections through shared pastries, as seen in Austin and Seattle initiatives.",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection",
+      "points": [
+        "Sarah Mason runs Little Free Bakery North Loop in Austin.",
+        "Lanne Rosebrook Stauffer founded the first Little Free Bakery in Seattle.",
+        "The Seattle bakery celebrated five years of weekly bakes."
+      ]
+    },
+    {
+      "summary": "A bushfire on Flinders Island, sparked by lightning, has grown to 13,000 hectares, threatening homes.",
+      "significance": "The growing bushfire on Flinders Island threatens homes and properties, following from initial lightning strikes.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+      "points": [
+        "The fire, started by lightning, expanded to 13,000 hectares.",
+        "Smoke from the fire has been seen hundreds of kilometres south.",
+        "Tasmanian homes and properties in the southwest are at risk."
+      ]
+    },
+    {
+      "summary": "One Nation welcomes Senator Leah Blyth, marking the second defection from the Coalition to One Nation.",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+      "points": [
+        "Pauline Hanson stated they are \"delighted\" to have Senator Blyth join One Nation.",
+        "Senator Blyth is the first One Nation Senator from South Australia.",
+        "The defection highlights disunity within the Liberal party under Angus Taylor's leadership."
+      ]
+    },
+    {
+      "summary": "Liberal senator Leah Blyth defects to One Nation, becoming the party\u2019s first upper-house member for South Australia.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+      "points": [
+        "Blyth criticizes the Coalition for inability to oppose the Albanese government.",
+        "She labels One Nation as having 'bold ideas' to improve the country.",
+        "Blyth was previously a member of Angus Taylor\u2019s frontbench."
+      ]
+    },
+    {
+      "summary": "A man and his dog narrowly escaped being swept away by high tides in Oregon as authorities warn against beach visits.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
+      "points": [
+        "Record-breaking king tides hit the US west coast this week.",
+        "Officials urged residents to avoid beaches due to dangerous conditions.",
+        "Viral footage from Cannon Beach, Oregon, shows the close call on Tuesday morning."
+      ]
+    },
+    {
+      "summary": "Ábrego García, symbol of Trump's deportation efforts, lands in Spain after voluntarily leaving the US.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+      "points": [
+        "Ábrego García previously deported to El Salvador due to an 'administrative error'.",
+        "He arrived in Madrid on Wednesday.",
+        "His case became a symbol of Trump's immigration crackdown."
+      ]
+    },
+    {
+      "summary": "Ubuntu is criticized for slow responses to severe security flaws, notably failing to patch recent critical vulnerabilities promptly.",
+      "significance": "Ubuntu's slow security response times affect user safety, as shown by the delayed fixes for critical vulnerabilities like NoisyTCP.",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "points": [
+        "Ubuntu took nine days to respond to NoisyTCP (CVE-2026-99288), leaving it unpatched.",
+        "Another remote TCP corruption (CVE-2026-98432) took multiple weeks for Ubuntu to fix.",
+        "Ubuntu uses an old kernel version (7.0.0-44) with backported patches, unlike Debian's recent longterm kernel."
+      ]
+    },
     {
       "summary": "Vanity Fair publishes a controversial 4,500-word piece about Taylor Swift, labelled as commentary but framed as deeply sourced reporting.",
       "significance": "The article questions the substantive impact and new revelations of Vanity Fair\u2019s detailed exposé on Taylor Swift, suggesting it may not offer significant insights beyond known narratives.",
@@ -3679,72 +3745,6 @@
         "Technique involves analyzing Doppler curves of plane sounds.",
         "Cross-referencing with ADS-B data identifies video location.",
         "Method works on almost imperceptible background noise in videos."
-      ]
-    },
-    {
-      "summary": "Several key races in the 2026 US midterms remain too close to call despite a Democratic surge.",
-      "significance": "Several key races in the US midterms 2026 remain undecided, including Senate and gubernatorial positions, highlighting the tight political contest.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
-      "points": [
-        "Alaska Senate: Mary Peltola leads Dan Sullivan by 626 votes, potentially heading to ranked-choice voting.",
-        "Kansas governor: Democrat Cindy Holscher leads by 5,557 votes over Ty Masterson with 98% counted.",
-        "Los Angeles mayor: Nithya Raman leads incumbent Karen Bass 51.1% to 48.9%, with one-third uncounted."
-      ]
-    },
-    {
-      "summary": "Voters across the Atlantic are increasingly favoring a \"politics of love\" over divisive and corrupt leadership.",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-midterms-atlantic-hope-voters-democratic",
-      "points": [
-        "James Talarico, a Texas senator-elect, represents the new face of the US\u2019s Christian left.",
-        "The article suggests a democratic spring beginning in Hungary and spreading to the US.",
-        "Voters are moving away from billionaire-backed inequality and towards more inclusive policies."
-      ]
-    },
-    {
-      "summary": "Democrats won control of both chambers of Congress, but face challenges in implementing their agenda with President Trump still in office.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Democrats won control of both the House and Senate, with James Talarico flipping Texas' US Senate seat.",
-        "Democrats can investigate Trump and his administration but face a Republican president who can veto legislation.",
-        "Democrats aim to reverse Medicaid cuts and extend Obamacare tax credits, but significant legislative action may be hindered by Trump's veto power."
-      ]
-    },
-    {
-      "summary": "ANC expected to lose significant support in South Africa\u2019s local elections due to voter frustration over poor services.",
-      "significance": "The story highlights growing voter dissatisfaction with the ANC due to poor service delivery, potentially signaling a significant shift in South African local politics.",
-      "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-      "points": [
-        "ANC likely to receive less than 30% of the vote, down from 45.6% in 2021.",
-        "Voter discontent stems from water outages, power cuts, and deteriorating infrastructure.",
-        "Despite losses, ANC remains projected to be the largest party."
-      ]
-    },
-    {
-      "summary": "Democrat Jon Rosenthal won a seat on the Texas railroad commission, defeating controversial Republican Bo French.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner",
-      "points": [
-        "Rosenthal's victory follows backlash against French\u2019s bigoted social media remarks.",
-        "The Texas railroad commission regulates the state\u2019s multibillion-dollar oil and gas industry.",
-        "Democrats have been excluded from the three-member commission for decades."
-      ]
-    },
-    {
-      "summary": "Progressive Democrat Randy Villegas, a community college professor, wins California's 22nd congressional district seat from incumbent Republican David Valadao.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/04/california-22nd-district-house-midterms",
-      "points": [
-        "Villegas secured victory in a redrawn district under Proposition 50.",
-        "The race was the only true toss-up across California.",
-        "Both candidates have roots in the Central Valley, with ties to immigrant families and agriculture."
-      ]
-    },
-    {
-      "summary": "A user discovers their ISP was hijacking DNS queries, leading to tampered IP addresses.",
-      "significance": "This story highlights the prevalence of ISP DNS hijacking and the necessity of using encrypted DNS methods like DoT or DoH to ensure internet traffic integrity.",
-      "url": "https://karthihegde.dev/posts/dns_tampering",
-      "points": [
-        "The user found the ISP's IP address when using standard DNS but a different IP with Cloudflare's DoH.",
-        "Only 7.03% of graded domains have a valid, fully validating DNSSEC chain.",
-        "The user uses Pi-hole/AdGuard for DNS and recommends DoT or DoH to prevent ISP snooping."
       ]
     }
   ]
