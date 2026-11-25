@@ -1,6 +1,52 @@
 {
-  "generated": "2026-11-24T23:42:50.083240Z",
+  "generated": "2026-11-25T01:41:11.766548Z",
   "summaries": [
+    {
+      "summary": "Armed men are holding about 20 people hostage in a supermarket in Cartagena, Colombia, after a failed robbery.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+      "points": [
+        "The gunmen are demanding nearly $2 million for the release of hostages.",
+        "The incident occurred in Cartagena, Colombia.",
+        "The hostage situation began after the gunmen failed in their robbery attempt."
+      ]
+    },
+    {
+      "summary": "Middle-aged women in England are least likely to quit smoking successfully, per a study.",
+      "significance": "The study highlights a specific demographic struggle in smoking cessation efforts, impacting public health strategies in England.",
+      "url": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
+      "points": [
+        "Only 18% of women aged 45 to 60 succeeded in quitting among nearly 8,000 participants.",
+        "About 6.75 million people smoke in England, with 14% being women aged 45-60.",
+        "Smoking remains the leading cause of preventable death and illness in the UK."
+      ]
+    },
+    {
+      "summary": "Trump held a pardon ceremony amid criticism of his second term actions.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
+      "points": [
+        "Trump pardoned individuals involved in the January 6 Capitol riot.",
+        "Masked ICE agents were deployed, raising concerns.",
+        "Trump's focus on the White House East Wing renovation faced criticism."
+      ]
+    },
+    {
+      "summary": "Australia's inflation rate rose to 4.9%, intensifying the cost-of-living crisis.",
+      "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
+      "points": [
+        "Inflation jumped from 4.3% in September to 4.9%, nearly double the Reserve Bank's 2.5% target.",
+        "Fuel costs surged by 6.3% last month, contributing to the inflation increase.",
+        "Electricity prices increased by 25% compared to the previous year, further pressuring households."
+      ]
+    },
+    {
+      "summary": "A romhack of the original Pokemon game implements urban legends, including finding Mew under a truck.",
+      "url": "https://wheybags.com/blog/pokemon_childhood_version.html",
+      "points": [
+        "Requires players to trade for a Pokemon knowing CUT or battle a trainer to access Mew.",
+        "Creator provides a patching tool for users to modify their own legally obtained ROM.",
+        "Creator attempted the Mew under the truck legend as a child but was disappointed when it failed."
+      ]
+    },
     {
       "summary": "Huawei was found guilty of stealing trade secrets and bank fraud but acquitted of racketeering in a US trial.",
       "significance": "The verdict affects Huawei's legal standing, confirming some misconduct but rejecting the most severe allegations of operating as a criminal enterprise.",
@@ -3693,51 +3739,6 @@
         "October marks a critical phase for vibe game development.",
         "Discussion on the increasing severity of cybersecurity vulnerabilities.",
         "LLM offers API credits for subscriptions over $100/month."
-      ]
-    },
-    {
-      "summary": "Russian bombing of an aid center in Ukraine's Zaporizhzhia region killed at least 26 people.",
-      "significance": "The bombing highlights Russia's continued aggressive tactics, undermining any prospects for de-escalation in the conflict.",
-      "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-      "points": [
-        "Ukrainian President Zelenskyy condemned the attack as 'vile'.",
-        "Two rescue crew members and four police officers were among the dead.",
-        "The bombing occurred in the village of Komyshuvakha, Zaporizhzhia region."
-      ]
-    },
-    {
-      "summary": "Tokyo's Kabukicho district sees rise in street sex work amid tourism boom, prompting calls for reform.",
-      "url": "https://www.theguardian.com/world/2026/nov/03/tokyo-sex-industry-street-workers-on-rise",
-      "points": [
-        "Street sex work phenomenon linked to increase in international tourists in Kabukicho.",
-        "Established fuzoku sex industry in Tokyo includes regulated venues like \"soapland\" bathhouses.",
-        "Kabukicho, known as \"sleepless town,\" is a nightlife hub with a darker side of street solicitation."
-      ]
-    },
-    {
-      "summary": "US reportedly conducted limited defensive strikes on Iran\u2019s Qeshm Island, amid Vance's optimism for a peace deal.",
-      "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
-      "points": [
-        "US vice-president JD Vance expressed optimism about diplomatic efforts to end the war.",
-        "Strikes occurred on the eve of crucial US midterm elections.",
-        "The US media reported the strikes as \"defensive\" in nature."
-      ]
-    },
-    {
-      "summary": "Voice notes from Beau Lamarre-Condon, sent days after alleged murders, were played in his double murder trial.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/beau-lamarre-condon-trial-voice-recording-alleged-murders-ntwnfb",
-      "points": [
-        "Lamarre-Condon stated he was \"not feeling the best\" in one of the recordings.",
-        "The recordings were sent to a man he met on a dating app.",
-        "The trial took place in Sydney."
-      ]
-    },
-    {
-      "summary": "A curated Hacker News digest covers AI advancements, tech industry insights, and miscellaneous tech news.",
-      "url": "https://hackertimes.ca/",
-      "points": [
-        "MIT CSAIL team experiments show GPT-6 Astra can modify neural-network weights, improving math and instruction-following scores.",
-        "Anthropic's internal AI use valued above employee pay, raising concerns about investment risks and retirement savings."
       ]
     }
   ]
