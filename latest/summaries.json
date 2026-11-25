@@ -1,6 +1,71 @@
 {
-  "generated": "2026-11-25T13:42:43.260530Z",
+  "generated": "2026-11-25T15:41:50.416757Z",
   "summaries": [
+    {
+      "summary": "World experiences six consecutive days above 2C preindustrial temperature levels for the first time.",
+      "significance": "The streak indicates accelerating global heating, feeding scientific concerns over fossil fuel emissions' impacts.",
+      "url": "https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time",
+      "points": [
+        "Daily global surface temperature reached 2.24C above baseline on Monday.",
+        "Streak is forecast to continue, marking a record hot period.",
+        "Scientists warn it indicates potential acceleration of global heating."
+      ]
+    },
+    {
+      "summary": "New York bans AI toys for five years to protect children from inappropriate interactions.",
+      "significance": "The ban affects parents and children in New York, aiming to protect them from potential risks associated with AI toys.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "points": [
+        "Governor Kathy Hochul signed the legislation on Wednesday.",
+        "Ban covers toys like talking dolls and robots that converse online.",
+        "Hochul also imposed a one-year moratorium on AI datacenter construction."
+      ]
+    },
+    {
+      "summary": "China sent the first foreign astronaut, Muhammad Zeeshan Ali from Pakistan, to its Tiangong space station, marking a step in globalizing its space operations.",
+      "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+      "points": [
+        "Muhammad Zeeshan Ali became the first Pakistani in orbit.",
+        "The event symbolizes China's effort to globalize its space activities.",
+        "This move comes as the US-led ISS nears the end of its operational life."
+      ]
+    },
+    {
+      "summary": "Nationwide launched a 1% deposit mortgage for first-time buyers, allowing borrowing up to six times income, raising concerns over negative equity.",
+      "url": "https://www.theguardian.com/money/2026/nov/25/nationwide-unveils-1-deposit-mortgage-deal-first-time-buyers-in-uk",
+      "points": [
+        "Mortgage allows borrowing up to six times the buyer's income.",
+        "Brokers warn of risks if house prices fall, leading to negative equity.",
+        "Launched on Wednesday, the deal requires only a 1% deposit."
+      ]
+    },
+    {
+      "summary": "Higher costs for food, travel, and household goods are leading Americans to alter their Thanksgiving plans.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices",
+      "points": [
+        "Many are choosing smaller gatherings due to increased expenses.",
+        "Some are swapping expensive ingredients for cheaper alternatives.",
+        "Higher prices for air travel and gasoline are prompting reconsideration of travel plans."
+      ]
+    },
+    {
+      "summary": "A Florida biologist snorkels in a Home Depot retention pond and discovers a diverse ecosystem, capturing it on video.",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "points": [
+        "Joseph Ricketts, a crocodile and alligator research biologist, filmed the underwater life.",
+        "The video garnered over 2 million views, showcasing unexpected biodiversity.",
+        "Ricketts found non-native species like tadpole shrimp, highlighting urban ecology."
+      ]
+    },
+    {
+      "summary": "Google released a series of research papers covering advancements in integer factorization, discrete logs, and other complex mathematical and computational theories.",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "points": [
+        "Papers detail an exact polynomial-time algorithm for 1/5-approximate Nash equilibria in bimatrix games.",
+        "Research includes unconditional deterministic subexponential integer factoring techniques.",
+        "One paper breaks the square-root barrier for the log-rank conjecture."
+      ]
+    },
     {
       "summary": "Two men were charged with attempting to steal cufflinks and a clock from the Prince and Princess of Wales' holiday home.",
       "significance": "Two men charged with attempting to steal from a royal property highlight security vulnerabilities at estates used by the royal family.",
@@ -3676,71 +3741,6 @@
         "UK aid cuts hit Commonwealth nations harder, especially nature projects.",
         "Analysis shows Commonwealth countries fare worse amid overall UK aid budget reductions.",
         "Contrast between aid cuts and supportive statements from King and Prime Minister Andy Burnham."
-      ]
-    },
-    {
-      "summary": "Fire at Mississippi police department linked to fatal shooting of a Black toddler is under investigation as possible arson.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/mississippi-police-department-fire-kohen-wiley",
-      "points": [
-        "Fire broke out at Senatobia police department early on 31 October.",
-        "US Bureau of Alcohol, Tobacco, Firearms and Explosives investigating as arson.",
-        "Incident follows June shooting of one-year-old Kohen Wiley by officer Hunter Foster."
-      ]
-    },
-    {
-      "summary": "Primark accelerates home delivery plans to end 2027 amid profit decline.",
-      "url": "https://www.theguardian.com/business/2026/nov/03/primark-brings-forward-home-deliveries-plan-by-two-years-after-profits-slide",
-      "points": [
-        "Primark's home delivery service now set for end of 2027, two years ahead.",
-        "Move aims to attract new customers following a drop in company profits.",
-        "George Weston, boss of ABF, announced the accelerated delivery service launch."
-      ]
-    },
-    {
-      "summary": "Google is removing XSLT functionality from Chromium-based browsers, threatening websites built with XSLT.",
-      "significance": "The story matters because it highlights Google's decision to remove XSLT support, potentially breaking websites that rely on it, thus impacting web developers and users.",
-      "url": "https://dbushell.com/2026/11/03/xslt-rip/",
-      "points": [
-        "Websites using XSLT will likely stop displaying correctly soon.",
-        "Some browsers have already started showing warnings about XSLT removal.",
-        "Google's move is seen as breaking the web's social contract of backwards compatibility."
-      ]
-    },
-    {
-      "summary": "Postman's desktop app auto-installs AI plugins and attempts to route API data through itself without user consent.",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "points": [
-        "Postman auto-installed Codex and Claude plugins on October 24, 2026.",
-        "The installation affected unrelated coding agents, enabling unauthorized API routing."
-      ]
-    },
-    {
-      "summary": "A company deploys hundreds of MacBook Pros in a datacenter to meet customer needs for iOS app development and testing.",
-      "url": "https://namespace.so/blog/mac-at-any-scale",
-      "points": [
-        "Ordered Mac Minis in January, delivered in July due to supply chain issues.",
-        "Each MacBook is connected to an IP KVM for remote management and has an external 10G Ethernet NIC.",
-        "Custom-made holders manage heat by guiding hot air away from nearby machines."
-      ]
-    },
-    {
-      "summary": "Qwen 3.8 27B can interpret and modify neural network weights, demonstrating capabilities similar to GPT-6 Astra.",
-      "significance": "The story demonstrates that Qwen 3.8 27B can interpret and modify model weights, showcasing advanced Weight-Space Programming capabilities previously observed in GPT-6 Astra.",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "points": [
-        "Qwen 3.8 27B identified Pac-Man game weights with 72% confidence in 46m 12s.",
-        "GPT-6 Astra improved Qwen3.5-0.8B's math performance from 7.9% to 48.1% by editing 0.016% of weights.",
-        "Qwen 3.8 27B recognized Breakout game weights in 52m 25s."
-      ]
-    },
-    {
-      "summary": "Bomb threats targeted four planes flying across Europe, but no explosives were found upon landing.",
-      "significance": "The story highlights the disruption and security measures in European aviation following bomb threats, affecting travelers and airlines.",
-      "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
-      "points": [
-        "Two flights from the UK, including London and Manchester, received bomb threats.",
-        "Polish officials reported threats against two Warsaw-bound flights.",
-        "All four planes landed safely with no explosives discovered."
       ]
     }
   ]
