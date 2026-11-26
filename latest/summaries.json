@@ -1,6 +1,43 @@
 {
-  "generated": "2026-11-26T01:41:21.406916Z",
+  "generated": "2026-11-26T03:41:21.342686Z",
   "summaries": [
+    {
+      "summary": "FIFA uses social media influencers to promote the Under-17 World Cup in Qatar.",
+      "significance": "FIFA's use of influencers for the U17 World Cup aims to engage fans through digital platforms, marking a strategic shift in sports promotion.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
+      "points": [
+        "Campaign aims to engage fans via digital platforms and online personalities.",
+        "Event is taking place in Qatar."
+      ]
+    },
+    {
+      "summary": "Spain's upcoming election may end longtime PM Pedro Sánchez's rule, potentially replacing him with a conservative coalition.",
+      "significance": "The election could mark the end of Pedro Sánchez's influential leadership, impacting Spain's stance on immigration and its position on the European political spectrum.",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast",
+      "points": [
+        "Pedro Sánchez has led Spain for eight years as an icon of the European left.",
+        "Conservative coalition includes far-right parties aiming to replace Sánchez.",
+        "Sánchez championed immigration and supported Palestinians in Gaza."
+      ]
+    },
+    {
+      "summary": "Victorian Coalition plans to privatize sewage plants and sell state assets to fund election promises.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+      "points": [
+        "$14.47bn \"asset recycling\" plan announced by opposition leader Jess Wilson.",
+        "Includes privatization of two sewage treatment plants in Melbourne.",
+        "Sale of \"air rights\" between Richmond train station and Melbourne Cricket Ground."
+      ]
+    },
+    {
+      "summary": "An exploration of Gemini, a minimalist internet technology for text-only document sharing, emerging post-Covid.",
+      "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+      "points": [
+        "Gemini emerged barely a month after the Covid-19 lockdown.",
+        "Gemini is a text-only internet technology, contrasting with the web's evolution into an app platform.",
+        "The native format, Gemtext, is a simplified version of Markdown, supporting limited markup."
+      ]
+    },
     {
       "summary": "ISIL is blamed for suicide attacks in Syria that killed two security forces members and injured five others.",
       "significance": "ISIL's alleged involvement in multiple suicide attacks highlights ongoing violence in Syria.",
@@ -3704,44 +3741,6 @@
         "Review calls for an \"opportunity revolution\" to address labor market discrimination against disabled youth.",
         "Government should introduce \"flexi-jobs\" and employment subsidies for 16- to 24-year-old disabled individuals.",
         "Intensive skills support is recommended to aid disabled young people in securing employment."
-      ]
-    },
-    {
-      "summary": "Images 2.6 updates in ChatGPT, Codex, and API enable faster image generation and precise GIF creation for various applications.",
-      "significance": "Images 2.6 enables faster and more precise image generation and introduces GIF creation, significantly enhancing creators' and marketers' ability to produce dynamic visuals.",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "points": [
-        "People create over 4 billion images weekly across platforms.",
-        "Images 2.6 generates images 50% faster than previous versions.",
-        "GIF creation allows for animated characters and seamless looping animations, enhancing social media and marketing content."
-      ]
-    },
-    {
-      "summary": "A cyber model discovered and patched 948 local privilege escalation vulnerabilities in Linux, demonstrating the scalability of automated vulnerability discovery and patching.",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "points": [
-        "The model identified 948 local privilege escalation (LPE) vulnerabilities in Linux, costing $1.2 million in API credits.",
-        "It dynamically reproduced 1,724 vulnerabilities and generated proof-of-concept exploits for LPEs.",
-        "The pipeline includes static scanning, dynamic validation, exploitability assessment, and patch generation, reviewed by human researchers."
-      ]
-    },
-    {
-      "summary": "Iran warns of potential US attacks post-midterm elections as Trump admits partial blame for US-Israel tensions with Iran.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-      "points": [
-        "Trump suggested potential attacks on Iran after US midterm elections.",
-        "Trump's party lost majority in both House and Senate in midterm elections.",
-        "Mediators are working to facilitate a peace deal between Tehran and Washington."
-      ]
-    },
-    {
-      "summary": "David Jones enters administration, risking thousands of jobs and the future of the 188-year-old retailer.",
-      "significance": "Threatens thousands of jobs and marks a potential end for Australia's oldest department store due to years of financial struggles.",
-      "url": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
-      "points": [
-        "Thousands of jobs are at risk due to the administration.",
-        "The retailer has been struggling with years of steep losses.",
-        "Negotiations with landlord Scentre Group broke down, leading to the administration."
       ]
     }
   ]

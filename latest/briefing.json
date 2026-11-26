@@ -2,12 +2,12 @@
   "date": "2026-11-25",
   "stories": [
     {
-      "title": "Judges recommend prosecutors end corruption case against Netanyahu",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+      "title": "FIFA turns to influencers to promote U17 World Cup",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
+      "summary": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
       "alsoReportedBy": []
     },
     {
@@ -20,6 +20,15 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
+      "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+      "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "North Korean leader warns attempts to deny country&#039;s nuclear status will be seen as \"an open declaration of war\".",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Duran Duran guitarist Andy Taylor dies aged 65",
       "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -29,30 +38,21 @@
       "alsoReportedBy": ["BBC News", "The Guardian"]
     },
     {
-      "title": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
-      "url": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The parade, which marks its 100th edition, got a last-minute rain check ahead of heavy gusts on Thursday.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Stalking law simplified to become one offence",
-      "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+      "title": "UK government set to publish new treaties agreed with EU",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
+      "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
       "alsoReportedBy": []
     },
     {
-      "title": "ISIL blamed for multiple suicide attacks in Syria",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+      "title": "Ukraine attacks Russian military base, says five planes struck",
+      "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
+      "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
       "alsoReportedBy": []
     },
     {
@@ -110,7 +110,7 @@
       "alsoReportedBy": ["Guardian World"]
     },
     {
-      "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; Canavan vows ‘more united’ comeback",
+      "title": "Australian politics live: Liberals ‘tossing up whether to leave or remain’, Albanese says; Coalition warns energy prices to cause Christmas ‘pain’",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "Guardian World",
       "category": "world",
@@ -119,21 +119,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
-      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+      "title": "Spain’s election: the end of a leftwing icon? - podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one man police described as a hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean port city of Cartagena to follow the final hours of negotiations and the tactical assault, in which special forces officers broke through blocked entrances and detonated stun grenades. Continue reading...",
+      "summary": "Madrid correspondent Sam Jones and European community affairs correspondent Ashifa Kassam report on a pivotal election in Spain this weekend, which could see longtime PM Pedro Sánchez replaced by a conservative coalition including the far right He has become an icon of the European left. A great political survivor, Spain’s Pedro Sánchez has been in power for eight years while – across the continent – the right has been on the march. The Socialist party leader has championed immigration, stood up to Donald Trump and been a notable voice for Palestinians in Gaza. Continue reading...",
       "alsoReportedBy": []
     },
     {
-      "title": "California warned of potential Thanksgiving flooding as storms threaten US coasts",
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
       "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
       "alsoReportedBy": []
     },
     {
@@ -146,15 +146,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "US stocks fall further as fears over AI intensify",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
       "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -164,21 +155,30 @@
       "alsoReportedBy": []
     },
     {
-      "title": "‘Turncoat’: Liberal senator Leah Blyth announces defection to One Nation, blindsiding Coalition",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Leah Blyth, federal Liberal senator for South Australia, has defected to One Nation, blindsiding former Coalition colleagues who branded her a “turncoat” and raising further scrutiny of chaos inside the opposition. Blyth, a shadow assistant minister on Angus Taylor’s frontbench, said in a statement announcing her move that she did not believe the Coalition was capable of opposing the Albanese government. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Spanish elections: What you need to know and what's at stake",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies Get our daily political email , free app or daily news podcast A Victorian Coalition government would privatise two sewage plants and sell off state-owned land, renewable energy assets and the “air rights” between Richmond train station and the Melbourne Cricket Ground if elected. The opposition leader, Jess Wilson, announced a $14.47bn “asset recycling” plan as part of the Liberal and National parties’ pre-election policy costings on Thursday. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
       "alsoReportedBy": []
     },
     {
@@ -218,27 +218,27 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "source": "Hacker News",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Optimizing Rustc's next trait solver",
       "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
       "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Entering the Geminispace",
+      "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+      "source": "Lobsters",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
