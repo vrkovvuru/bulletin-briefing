@@ -1,6 +1,104 @@
 {
-  "generated": "2026-11-26T13:43:16.432352Z",
+  "generated": "2026-11-26T15:42:42.855503Z",
   "summaries": [
+    {
+      "summary": "Israeli settlers torched a Palestinian vehicle in the West Bank, as Israeli judges recommended dropping corruption charges against Netanyahu.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
+      "points": [
+        "Israeli settlers set fire to a Palestinian vehicle in the occupied West Bank.",
+        "Israeli judges recommend ending corruption case against Netanyahu."
+      ]
+    },
+    {
+      "summary": "Trump calls for Russia to withdraw military forces from Europe and hopes for a quick deal between Russia and Ukraine.",
+      "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+      "points": [
+        "Trump urges Putin to withdraw all military aggression in Europe.",
+        "Danish PM Mette Frederiksen states leaders are \"very far apart\" on current proposal.",
+        "Frederiksen criticizes the budget as too large and insufficiently future-oriented."
+      ]
+    },
+    {
+      "summary": "A pregnant inmate named Rebecca Taylor escaped from custody in New Mexico after taking control of a police vehicle.",
+      "significance": "A pregnant inmate's escape highlights security vulnerabilities in prison transportation, leading to statewide lockdowns and ongoing multi-agency searches.",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Rebecca Taylor, 26, took control of a Dodge Journey during a stop for food in Albuquerque.",
+        "Taylor was imprisoned for multiple theft and burglary charges and was in her second trimester.",
+        "A multi-agency search is underway, and all New Mexico prisons were locked down, though lifted by Thursday morning."
+      ]
+    },
+    {
+      "summary": "Severe storms across the US have led to travel disruptions and the cancellation of at least two Thanksgiving parades.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
+      "points": [
+        "New York governor declares state of emergency in several parts of the state.",
+        "Philadelphia's Thanksgiving Day parade cancelled and will be an \"alternative TV event\".",
+        "Heavy rain, winds, flooding, and high tides affect both eastern and western US."
+      ]
+    },
+    {
+      "summary": "Man admits drugging his wife and inviting others to assault her, expressing guilt in court.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/26/man-drugged-wife-rape-strangers-stockport-guilt-shame",
+      "points": [
+        "Man sobbed in court, admitting to drugging his wife for others to rape her.",
+        "Nine other men are accused of raping the woman or encouraging the abuse online.",
+        "The man cannot be named to protect his victim's anonymity."
+      ]
+    },
+    {
+      "summary": "John Crace invites readers to consider whether to read Nigel Farage's Reformer or recycle it.",
+      "url": "https://www.theguardian.com/politics/2026/nov/26/reformer-nigel-farage-burnham-eu",
+      "points": [
+        "Event on 1 December features John Crace and others reviewing 2026's major stories.",
+        "The Reformer is the official monthly newspaper of Reform, entirely penned by Nigel Farage.",
+        "Readers are asked if they will spend 15 minutes reading or recycling the Reformer."
+      ]
+    },
+    {
+      "summary": "Documents reveal Mandelson attempted to influence Starmer\u2019s cabinet reshuffle by suggesting to address an issue with Darren Jones.",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+      "points": [
+        "Mandelson told Starmer\u2019s chief of staff to 'solve your Darren issue' via WhatsApp.",
+        "Paul Kohler of The Liberal Democrats calls for a proper immigration plan post-Brexit.",
+        "Net migration in the UK is set to fall below zero, a change initiated by the previous Conservative government."
+      ]
+    },
+    {
+      "summary": "Nearly 100 Labour MPs, including some frontbenchers, wrote to Andy Burnham opposing the Rosebank oilfield project.",
+      "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+      "points": [
+        "92 backbenchers and at least 4 frontbenchers signed the letter.",
+        "The Rosebank oilfield is the biggest undeveloped field in UK waters.",
+        "MPs are urging Burnham not to allow ministers to approve the project."
+      ]
+    },
+    {
+      "summary": "Nextcloud releases the Nextcloud Office Desktop app, powered by Euro-Office, offering offline editing and real-time collaboration.",
+      "significance": "The Nextcloud Office Desktop app provides a free, open-source office suite that allows offline work and seamless cloud integration, enhancing user autonomy and flexibility.",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "points": [
+        "Features include local file editing, digital signatures, and real-time collaboration through Nextcloud Hub.",
+        "Users can connect multiple Nextcloud instances and use locally installed fonts."
+      ]
+    },
+    {
+      "summary": "A Thanksgiving message expressing gratitude for technology, community, and family.",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "points": [
+        "AI has helped increase publication output among those who already publish.",
+        "Thanksgiving celebrated in multiple countries including the US, Canada, Liberia, Saint Lucia, and Norfolk Island."
+      ]
+    },
+    {
+      "summary": "Jack Despain Zhou discusses the widespread use of AI, particularly Claude, across various mediums, highlighting its de-individualizing effect.",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "points": [
+        "Zhou mentions hearing Claude in YouTube videos, conference presentations, and emails.",
+        "The article tags include ai-misuse, claude, generative-ai, ai, and llms.",
+        "Zhou observes pitches and articles from serious institutions using AI like Claude."
+      ]
+    },
     {
       "summary": "UAE's Lana Nusseibeh, a candidate for UN secretary general, is in the UK to improve her image and distance herself from her past role.",
       "significance": "Lana Nusseibeh's charm offensive in Britain aims to shift focus from her controversial past to her potential as a UN secretary-general candidate.",
@@ -3638,108 +3736,6 @@
         "BT's workforce decreased to 90,000, cutting 7,731 jobs since March.",
         "Excluding international business, BT reported £1.1bn pre-tax profit in six months.",
         "BT's share price reached a five-year high amid these changes."
-      ]
-    },
-    {
-      "summary": "Amtrak's new policy allowing guns in lockboxes on trains遭到了工会的强烈反对。",
-      "url": "https://www.theguardian.com/business/2026/nov/05/amtrak-workers-union-passengers-guns",
-      "points": [
-        "工会代表了Amtrak的360名在岗服务工人。",
-        "新政策将允许乘客在1500列火车上携带上锁的枪支。",
-        "工会称此政策为\u201c纯粹的疯狂\u201d。"
-      ]
-    },
-    {
-      "summary": "Albanese faces challenges in justifying AI and datacentre benefits to Australians amid concerns over job displacement and inflation.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/06/ai-datacentre-boom-could-be-political-kryptonite-australia",
-      "points": [
-        "Reserve Bank links datacentres to inflationary pressures, raising interest rates to an 18-year high.",
-        "Potential 10% chance of human extinction cited as trade-off for AI and datacentre development.",
-        "Concerns arise over copyright changes that could harm Australian creatives."
-      ]
-    },
-    {
-      "summary": "One Nation plans to use NDAs at a $3,000-per-person Sydney fundraiser before the NSW election.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb",
-      "points": [
-        "Event features Pauline Hanson and senior One Nation leadership.",
-        "Donors will be charged $3,000 for the invite-only fundraiser.",
-        "Transparency experts criticize the use of NDAs as a \"worrying precedent."
-      ]
-    },
-    {
-      "summary": "Alpine Linux releases security advisory for a critical OpenSSH-server vulnerability allowing password authentication bypass.",
-      "significance": "This story matters because it reveals a critical security vulnerability in Alpine Linux's OpenSSH-server, allowing attackers to bypass password authentication and potentially gain unauthorized access to systems.",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "points": [
-        "Vulnerability affects all Alpine releases from 3.16 to 3.24, including edge.",
-        "Attackers can log in without passwords by sending a long password (257-1024 bytes).",
-        "Users should disable password logins and ensure SSH key login functionality."
-      ]
-    },
-    {
-      "summary": "Photographer Brendan Larsen captured an image of the night sky over Mt Taranaki showing thousands of satellite trails.",
-      "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
-      "points": [
-        "Larsen took 578 photos over two hours to capture approximately 14,450 satellite trails.",
-        "The editing process to create the image took around 45 hours of manual work.",
-        "Each photo contained about 25 satellites, with the final image representing roughly 1,400 individual satellites."
-      ]
-    },
-    {
-      "summary": "MCP is an open standard for connecting AI apps to tools and data, using JSON-RPC.",
-      "url": "https://mcp-explained.com/",
-      "points": [
-        "Uses JSON-RPC over stdin/stdout or one HTTP endpoint.",
-        "Servers communicate capabilities to apps, which then interact with the model.",
-        "MCP defines methods, capability negotiation, transports, and authentication."
-      ]
-    },
-    {
-      "summary": "Cristiano Ronaldo retires from international football after a 23-year career with Portugal.",
-      "significance": "Cristiano Ronaldo's retirement from international football ends a 23-year career marked by records, including 146 goals for Portugal.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss",
-      "points": [
-        "Ronaldo scored a record 146 goals in 234 appearances for Portugal.",
-        "His international career spanned 23 years.",
-        "This marks the end of an era for Portuguese football."
-      ]
-    },
-    {
-      "summary": "Bomb threats reported to 15 commercial flights across Europe lead to diversions.",
-      "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-      "points": [
-        "EU transport commissioner states it's too early to determine if threats are linked.",
-        "WizzAir flight from Milan to Warsaw diverted to Vienna due to bomb threat.",
-        "LOT Polish Airline flight from Warsaw diverted to Zaventem after receiving threat."
-      ]
-    },
-    {
-      "summary": "Six people died and seven were injured, including three firefighters, in a fire at a Brooklyn home.",
-      "significance": "The story highlights the deadly risks associated with lithium-ion batteries and the swift response of first responders in fire emergencies.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/six-people-dead-brooklyn-fire",
-      "points": [
-        "Fire occurred early Thursday in Sunset Park neighborhood.",
-        "Over 200 first responders attended to the blaze.",
-        "A lithium-ion battery was found at the fire scene."
-      ]
-    },
-    {
-      "summary": "Bank of England raises interest rates to 4%, contrary to predictions of lower inflation.",
-      "url": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-      "points": [
-        "Bank of England increased interest rates by 0.25 percentage points to 4%.",
-        "Decision contradicts Office for Budget Responsibility's forecast of lower inflation.",
-        "Rate hike occurs during a second cost of living crisis in four years."
-      ]
-    },
-    {
-      "summary": "Trump accepts midterm election results as Democrats sweep into power.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results",
-      "points": [
-        "Democrats won in a \"blue wave\" across the nation.",
-        "Trump's administration had aggressively sowed doubt about the election results.",
-        "Trump made a post-election appearance to discuss White House ballroom plans."
       ]
     }
   ]
