@@ -1,6 +1,16 @@
 {
-  "generated": "2026-11-26T21:42:59.785121Z",
+  "generated": "2026-11-26T23:40:47.797282Z",
   "summaries": [
+    {
+      "summary": "AI has reignited enthusiasm for self-hosting by making it easier to manage and experiment with infrastructure.",
+      "significance": "AI simplifies and accelerates self-hosting infrastructure modifications and experiments, making it more accessible and enjoyable for enthusiasts.",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "points": [
+        "AI coding agents have reduced the effort needed to adjust configurations and automate processes.",
+        "The author has started using NixOS more extensively with AI assistance, overcoming previous setup hurdles.",
+        "AI has facilitated automating build, update, and deployment processes, reducing tedious work."
+      ]
+    },
     {
       "summary": "Elon Musk pledges to give two SpaceX shares to every child in the US, worth about $18bn in total.",
       "significance": "The story matters as it broadens public participation in SpaceX, giving children a direct economic stake in the company and creating a narrative around broader participation in the AI and space economy.",
@@ -3728,16 +3738,6 @@
         "Tests run automatically upon merging contributor changes, checking the entire program.",
         "UI tests simulate user interactions like clicks and drags, ensuring features like the Welcome dialog and tool selection work.",
         "Currently, tests are only operational on Linux (X11 and Wayland)."
-      ]
-    },
-    {
-      "summary": "Asian stock markets experience steep losses amid fears of an unsustainable AI boom, despite Anthropic's successful IPO.",
-      "significance": "Asian stock markets suffer steep losses as AI bubble fears persist despite Anthropic's successful debut, highlighting sector-wide investment concerns.",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
-      "points": [
-        "Tokyo\u2019s Nikkei 225 and Seoul\u2019s Kospi each fell about 4.5 percent, while Taipei\u2019s Taiex plunged nearly 6 percent.",
-        "Anthropic\u2019s IPO was the largest in history, raising $81.3bn, but failed to ease market concerns.",
-        "Global AI-related investment is projected to reach $2.7 trillion in 2026 and $3.6 trillion in 2027, according to Gartner."
       ]
     }
   ]
