@@ -1,6 +1,118 @@
 {
-  "generated": "2026-11-26T19:43:15.849491Z",
+  "generated": "2026-11-26T21:42:59.785121Z",
   "summaries": [
+    {
+      "summary": "Elon Musk pledges to give two SpaceX shares to every child in the US, worth about $18bn in total.",
+      "significance": "The story matters as it broadens public participation in SpaceX, giving children a direct economic stake in the company and creating a narrative around broader participation in the AI and space economy.",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
+      "points": [
+        "The giveaway is valued at approximately $18bn, with SpaceX shares closing at $127.44.",
+        "Musk will transfer SpaceX shares next month and his personal share in June 2024.",
+        "The Federal Communications Commission approved SpaceX\u2019s proposal for a satellite constellation."
+      ]
+    },
+    {
+      "summary": "Russia is reportedly preparing to launch a nuclear-armed satellite within 60 days, posing a threat to global communications.",
+      "url": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
+      "points": [
+        "Satellite named Sputnik-S could be launched in 60 days.",
+        "Western intelligence agencies assess the satellite's potential threat.",
+        "Launch could disrupt global communications significantly."
+      ]
+    },
+    {
+      "summary": "Southern and central Australia face elevated bushfire risk this summer due to dry conditions and high fuel loads.",
+      "significance": "The story highlights increased bushfire and heatwave risks in southern and central Australia, affecting millions and requiring heightened preparedness.",
+      "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+      "points": [
+        "Most of Victoria, eastern Tasmania, and large parts of South Australia, Western Australia, New South Wales, and the Northern Territory are at risk.",
+        "High fuel loads, low soil moisture, and forecast hot and dry conditions are driving the risk.",
+        "The seasonal outlook was released by the Australian and New Zealand Council for Fire and Emergency Services (AFAC) on Friday."
+      ]
+    },
+    {
+      "summary": "Coalition supports Labor to pass a 20% gas reservation scheme for major Australian exporters.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+      "points": [
+        "Scheme requires largest exporters to reserve up to 20% of gas for domestic use.",
+        "Coalition voted with Labor in Senate, overcoming Greens' push for 25% export tax.",
+        "Legislation passed in a late sitting on Thursday night."
+      ]
+    },
+    {
+      "summary": "Sydney's fire ant outbreak, partly due to ignored biosecurity advice, highlights flaws in Australia's quarantine system.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
+      "points": [
+        "Farmers\u2019 Federation president criticizes biosecurity, noting failure to control illicit cigarettes.",
+        "Years-old biosecurity recommendations by watchdog were ignored by federal governments.",
+        "Experts warn quarantine system is slow, underfunded, and overly focused on agriculture."
+      ]
+    },
+    {
+      "summary": "Nottingham man jailed for 12 years for sexually assaulting his drugged partner.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/26/nottingham-man-jailed-for-12-years-for-drugging-and-sexually-assaulting-partner",
+      "points": [
+        "Jailed for 12 years for multiple sexual assaults.",
+        "Victim was drugged with sleeping tablets provided by the attacker.",
+        "Attacker, in his 30s, admitted guilt at a June hearing."
+      ]
+    },
+    {
+      "summary": "UK net migration falls to its lowest level since 1997, excluding pandemic years, sparking debate on Labour's policies.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
+      "points": [
+        "Net migration to UK reaches lowest since 1997, excluding pandemic years.",
+        "Labour claims credit for reducing numbers, but external factors also played a role.",
+        "David Cameron's 2010 comment on 200,000 annual net immigration being \"too much\" is referenced."
+      ]
+    },
+    {
+      "summary": "A fuel tanker crash on Cairo's ring road sparked a massive fire, killing at least 31 and injuring 21.",
+      "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "points": [
+        "At least 31 people were killed in the incident.",
+        "The fire injured at least 21 people.",
+        "Over two dozen cars and motorcycles were charred in the blaze."
+      ]
+    },
+    {
+      "summary": "FIFA confirms a cyber-attack exposed a limited set of personal and business data.",
+      "url": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
+      "points": [
+        "FIFA condemns the unlawful acquisition and publication of personal data.",
+        "The attack is seen as a serious violation of privacy with significant consequences.",
+        "Heightened concern over digital vulnerabilities of leading organizations is noted."
+      ]
+    },
+    {
+      "summary": "A Chrome extension called YouTube Ad Punisher automatically reloads YouTube pages to skip ads.",
+      "significance": "The story matters as it introduces a tool that automates ad avoidance on YouTube, potentially impacting the platform's ad revenue model by encouraging page reloads over ad watching.",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "points": [
+        "The extension reloads the page up to 3 times to avoid ads, preserving the playback position.",
+        "After 3 reloads, it switches to a helper tab for 4 seconds before returning to the video.",
+        "The extension logs ad details including advertiser, duration, and timestamp for user review."
+      ]
+    },
+    {
+      "summary": "Kamil Khan Mumtaz, a renowned Pakistani architect, revives traditional architecture in Lahore, though largely unknown globally.",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "points": [
+        "Born in 1939 in Calcutta, Mumtaz studied at the Architectural Association in London.",
+        "Mumtaz prepared a seminal report on Lahore\u2019s Walled City, aiding its preservation.",
+        "His work integrates modernism with local materials and traditional techniques, gaining local acclaim."
+      ]
+    },
+    {
+      "summary": "The New York Times advises photographers against updating Photoshop due to AI features.",
+      "significance": "The New York Times warns photographers not to update Photoshop to avoid AI features that could compromise photojournalistic integrity.",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "points": [
+        "NYT photographers adhere strictly to presenting unaltered images.",
+        "Photographer spent considerable time finding optimal natural lighting.",
+        "Photograph was taken in the subject's garden to avoid screen glare."
+      ]
+    },
     {
       "summary": "Israeli airstrikes have killed at least 16 schoolchildren in Gaza since November, according to the Gaza ministry of education.",
       "significance": "Israeli strikes have killed at least 16 schoolchildren in Gaza since November, highlighting escalating violence and humanitarian crisis.",
@@ -3626,119 +3738,6 @@
         "Tokyo\u2019s Nikkei 225 and Seoul\u2019s Kospi each fell about 4.5 percent, while Taipei\u2019s Taiex plunged nearly 6 percent.",
         "Anthropic\u2019s IPO was the largest in history, raising $81.3bn, but failed to ease market concerns.",
         "Global AI-related investment is projected to reach $2.7 trillion in 2026 and $3.6 trillion in 2027, according to Gartner."
-      ]
-    },
-    {
-      "summary": "US reacts cautiously to ICJ's genocide ruling against Myanmar, while EU praises the court's decision.",
-      "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
-      "points": [
-        "US State Department emphasizes avoiding politicization of the ICJ.",
-        "EU describes the ICJ's decision as a \"landmark\" judgment.",
-        "ICJ's ruling marks the first time a state has been found responsible for genocide."
-      ]
-    },
-    {
-      "summary": "Campaigners advocate for a staggered age of consent in the UK following recent convictions and accusations against public figures.",
-      "significance": "Campaigners argue for a staggered age of consent in the UK following recent convictions and accusations against public figures, aiming to prevent future abuses.",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/20/is-it-time-to-change-the-uk-age-of-consent-podcast",
-      "points": [
-        "Public mood shifted from questioning society to seeking preventive measures.",
-        "Discussion spurred by convictions and accusations against notable older men.",
-        "Campaign aims to close the consent gap between different age groups."
-      ]
-    },
-    {
-      "summary": "Texas executed Reinaldo Dennes, convicted of killing a Houston jeweler, in a botched procedure taking over an hour.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
-      "points": [
-        "Dennes, 70, groaned for an hour as staff struggled to find a suitable vein.",
-        "The lethal injection involved pentobarbital, administered on Thursday.",
-        "Dennes was convicted of killing Janos Szucs, a diamond dealer, in 1996."
-      ]
-    },
-    {
-      "summary": "US army delays detonation of bomb-making chemicals in Iowa due to health concerns.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-      "points": [
-        "Army planned to detonate about 5 tons of lead azide in Middletown, Iowa.",
-        "Detonation could release lead particles, alarming residents and officials.",
-        "Initial detonation was scheduled for noon on Friday."
-      ]
-    },
-    {
-      "summary": "A UN report reveals that one in four women globally cannot refuse sex within marriage.",
-      "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
-      "points": [
-        "45% of women in west and central Africa cannot withhold consent.",
-        "33% of women in east and southern Africa and Arab states face inability to refuse sex.",
-        "In Latin America and the Caribbean, 10% of women cannot refuse sex within marriage."
-      ]
-    },
-    {
-      "summary": "A buffer overflow vulnerability in OpenSSL's EVP_EncodeBlock() function has been identified and is pending a public advisory.",
-      "significance": "This story matters because it highlights a critical buffer overflow vulnerability in OpenSSL's EVP_EncodeBlock() function, affecting security and requiring immediate patching.",
-      "url": "https://github.com/openssl/openssl/pull/33652",
-      "points": [
-        "CVE-2026-121481 has a CVSS score of 9.8, indicating a severe risk.",
-        "The vulnerability can be exploited via command line by passing large inputs.",
-        "Proposing to return `-1` for invalid inputs to fix the buffer overflow issue."
-      ]
-    },
-    {
-      "summary": "Claire Vo discusses the prevalence of token fraud in her AI platform, ChatPRD, leading to the end of free trials.",
-      "significance": "Token fraud forces AI platform ChatPRD to end free trials due to abuse, impacting users and highlighting the issue of AI misuse.",
-      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-      "points": [
-        "Claire Vo runs ChatPRD, an AI platform for product managers.",
-        "Scammers use free trials to build Roblox and Fortnite maps, among other commercial activities.",
-        "Claire ends free trials due to widespread abuse, including prompts involving pelicans riding bicycles."
-      ]
-    },
-    {
-      "summary": "Malawi's ongoing fuel crisis has led to chaos, long queues, and violence at filling stations.",
-      "significance": "Malawi\u2019s fuel crisis disrupts daily life, causing chaos and violence as motorists struggle to access fuel.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
-      "points": [
-        "Motorists wait hours or overnight for fuel, facing queue jumping and violence.",
-        "Fuel is rationed to 20 litres per day, with black market prices reaching $17.31 for 2 litres.",
-        "At least six deaths have occurred this year due to fuel-related explosions and fires."
-      ]
-    },
-    {
-      "summary": "Culture hosts discuss the hype around Grand Theft Auto 6, Robert Pattinson as James Bond, and Nathan Fielder\u2019s documentary on Elizabeth Holmes.",
-      "url": "https://www.theguardian.com/culture/video/2026/nov/19/grand-theft-auto-6-robert-pattinson-and-nathan-fielder-the-close-up",
-      "points": [
-        "Grand Theft Auto 6 generates excitement, prompting discussions on taking sick days to play.",
-        "Robert Pattinson's role as James Bond sparks varied audience reactions.",
-        "Nathan Fielder\u2019s documentary \u2018You Can See Everything\u2019 focuses on Elizabeth Holmes."
-      ]
-    },
-    {
-      "summary": "Florida pastor Christian Emmanuel Sanon convicted over 2021 assassination of Haitian president Jovenel Moïse.",
-      "significance": "The conviction of a Florida pastor in the assassination of Haitian president Jovenel Moïse marks a significant legal outcome in an international political murder case.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
-      "points": [
-        "Sanon faces life in prison following an eight-week trial in Miami.",
-        "Convicted on charges including conspiring to kill Moïse.",
-        "Sanon, with dual citizenship, faced eight charges total."
-      ]
-    },
-    {
-      "summary": "California\u2019s attorney general subpoenas Nvidia over allegations of its CEO's affair with a suspected Chinese spy.",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-      "points": [
-        "Rob Bonta claims Nvidia and its former CEO's conduct raises \"bright red flags.\"",
-        "NSA faces third day of disruptions to its internal network, NSA Net.",
-        "Democratic Senate leadership race requires securing 29 votes out of 56 seats."
-      ]
-    },
-    {
-      "summary": "Environmentalists in South Africa are rushing to replant five ancient baobabs after an attempt to export them to Georgia was thwarted.",
-      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-      "points": [
-        "Five centuries-old baobabs, each weighing 20 tonnes, were dug up without permits.",
-        "Trees were intercepted in July and have been in a Durban warehouse since then.",
-        "Baobabs are now at a Timbavati reserve for replanting and support with cables."
       ]
     }
   ]
