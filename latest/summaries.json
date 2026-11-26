@@ -1,6 +1,100 @@
 {
-  "generated": "2026-11-26T05:41:22.141090Z",
+  "generated": "2026-11-26T13:43:16.432352Z",
   "summaries": [
+    {
+      "summary": "UAE's Lana Nusseibeh, a candidate for UN secretary general, is in the UK to improve her image and distance herself from her past role.",
+      "significance": "Lana Nusseibeh's charm offensive in Britain aims to shift focus from her controversial past to her potential as a UN secretary-general candidate.",
+      "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
+      "points": [
+        "Nusseibeh is trying to overcome London's resistance to her candidacy.",
+        "She previously denied the UAE's role in arming a militia accused of war crimes in Sudan.",
+        "Her UK visit includes meetings with ministers, MPs, and a public event with the UN Association."
+      ]
+    },
+    {
+      "summary": "Eyewitnesses detail chaos following a deadly fire in Egypt that killed at least 31 and injured 21.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
+      "points": [
+        "At least 31 people were killed in the fire.",
+        "21 others were injured in the incident.",
+        "Crowds gathered around charred vehicles, firefighters, and ambulances."
+      ]
+    },
+    {
+      "summary": "Julie Delpy, known for her roles in Three Colours: White and the Before trilogy, discusses her prolific work as a screenwriter and director.",
+      "url": "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
+      "points": [
+        "Delpy is currently writing six screenplays, ranging from dark comedies to thrillers.",
+        "Her producer had to limit her to six screenplays; she wanted to work on five horror scripts as well.",
+        "Delpy works up to 18 hours at her desk, saying she doesn't sleep well and writes until she \"runs out of steam."
+      ]
+    },
+    {
+      "summary": "A diesel tanker sank near Ibiza, killing one crew member and leaving environmental concerns.",
+      "significance": "The sinking of the diesel tanker near Ibiza, killing one and risking environmental damage, highlights ongoing maritime safety and ecological concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "The Med Emre, carrying up to 7,000 tonnes of diesel, sank 25 nautical miles from Ibiza.",
+        "Seven crew members were hospitalized; one later died, and six suffered minor injuries.",
+        "Spain's pollution control vessel is assessing possible environmental damage near Ibiza."
+      ]
+    },
+    {
+      "summary": "Mandelson, UK ambassador to US, sought to arrange a covert meeting between Trump's adviser and his former lobbying firm while holding shares.",
+      "url": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+      "points": [
+        "Mandelson planned the \"under the radar\" meeting in April 2025.",
+        "The meeting aimed to discuss alternatives to the World Trade Organisation.",
+        "Mandelson still held shares in Global Counsel, his former lobbying firm."
+      ]
+    },
+    {
+      "summary": "Train blockades delayed firefighters, leading to the death of an elderly woman in a house fire.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/freight-trains-blocking-streets-disrupting-life",
+      "points": [
+        "Firefighters faced a 7-minute delay due to a Norfolk Southern train blocking streets.",
+        "89-year-old Marian Haefner died in the house fire before rescuers could arrive.",
+        "The normal response time from the Lockland fire station should have been 45 seconds."
+      ]
+    },
+    {
+      "summary": "UK's Ministry of Defence signed a £8.7bn deal with Babcock for submarine maintenance.",
+      "url": "https://www.theguardian.com/politics/2026/nov/26/ministry-of-defence-deal-babcock-maintain-submarines",
+      "points": [
+        "£8.7bn contract for five years to maintain UK's submarine fleet.",
+        "Aims to speed up submarine deployment from docks to sea.",
+        "Comes amid scrutiny of the effectiveness of the UK's nuclear deterrent."
+      ]
+    },
+    {
+      "summary": "Intel introduces Intel One Mono, a free, open-source monospaced font designed for developers, focusing on legibility and reducing eyestrain.",
+      "significance": "Intel One Mono font improves legibility and reduces eyestrain for developers, especially those with low vision, by offering a free, open-source, and highly customizable monospaced font.",
+      "url": "https://github.com/intel/intel-one-mono",
+      "points": [
+        "Designed in partnership with Intel Brand Team and VMLY&R, with feedback from low-vision developers.",
+        "Available in four weights with matching italics, supporting over 200 languages using Latin script.",
+        "Features include programming ligatures, stylistic sets for symbols and numerals, and manual optimization for screen display."
+      ]
+    },
+    {
+      "summary": "A detailed explanation of WinHelp file structure and its decompression methods, including LZ77 and Hall compression.",
+      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "points": [
+        "WinHelp files are archives with a B+ tree directory listing internal files.",
+        "Text inside blocks is compressed using LZ77, with back-references encoded in flag bytes.",
+        "WinHelp 3.0 has distinct features, such as 2 KB topic blocks and links pointing to topic numbers."
+      ]
+    },
+    {
+      "summary": "sqlite3_rsync, an SQLite tool, enables remote copying of databases without needing local duplicate storage.",
+      "significance": "sqlite3_rsync enables efficient remote copying and synchronization of SQLite databases without requiring local duplicate storage, benefiting users with limited disk space.",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "points": [
+        "Added as experimental in SQLite 3.47.0 in October 2024, enhanced in 3.50.0 in May 2025",
+        "Copies database snapshots over SSH without requiring local duplicate disk space",
+        "Uses cryptographic hashes to synchronize differences, minimizing network bandwidth use"
+      ]
+    },
     {
       "summary": "An individual's experience with making a will led to unexpected conversations about finances and support with family and friends.",
       "significance": "The story highlights the complex decisions and emotional considerations involved in inheritance and financial planning, influenced by personal relationships and past experiences.",
@@ -3646,100 +3740,6 @@
         "Democrats won in a \"blue wave\" across the nation.",
         "Trump's administration had aggressively sowed doubt about the election results.",
         "Trump made a post-election appearance to discuss White House ballroom plans."
-      ]
-    },
-    {
-      "summary": "Democrats performed unexpectedly well in the 2026 US midterm elections, winning key seats in Texas and the House.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Democrats won the Senate seat and governorship in Texas, with some counties swinging over 50 percentage points.",
-        "CBS News projected Democrats would win the House just after 03:00 GMT on Wednesday.",
-        "Hispanic voters in Texas backed Democratic Senate candidate James Talarico by 68% to 30% for Republican Ken Paxton."
-      ]
-    },
-    {
-      "summary": "A British healthcare worker with Ebola is being evacuated from DR Congo to the UK for treatment.",
-      "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-      "points": [
-        "British citizen tested positive for Ebola in the DR Congo.",
-        "Patient is in stable condition and will be transferred to a specialist unit in the UK.",
-        "UK government confirms low risk to the public from Ebola."
-      ]
-    },
-    {
-      "summary": "A security flaw in SSH allowed unauthorized access due to improper handling of NULL values and password hashing.",
-      "url": "https://sshhole.com/",
-      "points": [
-        "CVE-2016-6210: Attackers could determine valid user accounts by timing responses.",
-        "Alpine's Docker images were affected by CVE-2019-5021 due to a lack of root password.",
-        "The flaw was discovered through extensive testing with 17,600 unusual login attempts."
-      ]
-    },
-    {
-      "summary": "A security flaw in certain Linux distributions allowed unauthorized access due to improperly handled password hashing.",
-      "url": "https://sshhole.com",
-      "points": [
-        "Alpine's Docker images had no root password set, leading to CVE-2019-5021.",
-        "The flaw affects systems using musl libc without PAM, causing them to accept any password for accounts with no password set.",
-        "The issue was discovered through extensive testing with various SSH configurations and login attempts."
-      ]
-    },
-    {
-      "summary": "Baidu has released ERNIE 5.5 Flash Base, a pre-trained model designed for efficiency and adaptability in various applications.",
-      "significance": "Baidu's release of ERNIE 5.5 Flash Base offers developers an efficient, pre-trained model to build upon for various applications, reducing the need for costly large-scale pre-training.",
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "points": [
-        "ERNIE 5.5 Flash has 43 Transformer layers, a hidden size of 4096, and 64 attention heads.",
-        "The model uses Heavily Compressed Attention (HCA) in most layers and Multi-head Latent Attention (MLA) in one layer out of seven.",
-        "It employs Low-Rank Gated Attention in every layer to improve quality and training stability."
-      ]
-    },
-    {
-      "summary": "OpenSSH 10.6p2, released on 2026-11-05, includes a critical security workaround for Alpine Linux without PAM support.",
-      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "points": [
-        "OpenSSH 10.6p2 released on 2026-11-05 with critical security fixes.",
-        "The release includes a workaround for Alpine Linux without PAM support.",
-        "OpenSSH team will make more frequent releases to address security bugs quickly."
-      ]
-    },
-    {
-      "summary": "Democrats lead in Mississippi Senate race, with Colom ahead of Hyde-Smith; Republicans blame Trump and Iran war.",
-      "significance": "The story highlights potential Republican downfall and internal blame over the 2026 US midterm elections, notably in Mississippi's Senate race.",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-      "points": [
-        "Democrat Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes in Mississippi.",
-        "JD Vance cites Trump\u2019s war in Iran as the \"obvious\" reason for Republican losses.",
-        "Trump claims his absence from the ballot contributed to Republican poor performance."
-      ]
-    },
-    {
-      "summary": "Pauline Hanson granted special leave to appeal a racial discrimination ruling against Mehreen Faruqi in the High Court.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
-      "points": [
-        "Hanson told Faruqi to \"pack your bags and piss off back to Pakistan\".",
-        "Full federal court earlier this year upheld a 2024 decision of racial discrimination.",
-        "High Court has agreed to hear Hanson's appeal."
-      ]
-    },
-    {
-      "summary": "US appeals court allows ER creator's widow to proceed with lawsuit against The Pitt, finding similarities between the two medical dramas.",
-      "significance": "The ruling allows Michael Crichton\u2019s widow to pursue her lawsuit against Warner Bros, claiming similarities between 'The Pitt' and 'ER'.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/05/tv-the-pitt-er-michael-crichton-widow-lawsuit-to-proceed",
-      "points": [
-        "Court found 'clear and numerous similarities' between ER and The Pitt.",
-        "Lawsuit by Sherri Crichton, widow of ER creator Michael Crichton, will go to jury trial in 2027.",
-        "Warner Bros Television's appeal was denied by a unanimous three-judge panel."
-      ]
-    },
-    {
-      "summary": "A new library called Dragology enables easier creation of high-quality drag-and-drop interactions by specifying future states rather than detailed behaviors.",
-      "significance": "Dragology introduces declarative dragging, enabling higher-quality drag-and-drop interactions with less work for interface developers, affecting educators, game designers, and tool builders.",
-      "url": "https://declarative-dragging.github.io/",
-      "points": [
-        "Dragology allows interface developers to implement model-driven dragging with less coding effort.",
-        "The concept originated from a 2022 math game prototype aiming for more tangible interactions.",
-        "Declarative dragging is being applied to academic programming environments to make code refactorings more tangible."
       ]
     }
   ]
