@@ -2,6 +2,24 @@
   "date": "2026-11-26",
   "stories": [
     {
+      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+      "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+      "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
       "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -11,21 +29,30 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
+      "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
+      "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
+      "url": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Persistent failures in psychiatric care have been exposed, including staff shortages, poor training and weak oversight.",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Nathan Fielder v Elizabeth Holmes: You Can See Everything (Spoilers) | The Close Up",
       "url": "https://www.theguardian.com/culture/video/2026/nov/26/nathan-fielder-v-elizabeth-holmes-you-can-see-everything-spoilers-the-close-up",
       "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
       "summary": "In Nathan Fielder and Lance Oppenheim’s new documentary, Theranos founder Elizabeth Holmes and the film-makers fight over who is the hero and who is the villain. Carys and Lanre dig into the film’s wildest moments, including Holmes’s partner Billy Evans trying to take control of the narrative. Why has a disagreement over cooking between AJ Odudu and Mariella Frostrup in the I’m a Celeb jungle gone viral? Is power slapping the new viral sport? And is the world ready for another Home Alone? Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How a teen’s death raises questions about Colombia’s security crackdown",
-      "url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "President Abelardo de la Espriella&#039;s campaign against armed groups has resulted in accusations of extrajudicial killing.",
       "alsoReportedBy": []
     },
     {
@@ -38,40 +65,13 @@
       "alsoReportedBy": ["The Guardian"]
     },
     {
-      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
-      "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Italians were technicians working at an air-defence surveillance station.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "How the train attack unfolded - carriage by carriage",
-      "url": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss",
+      "title": "Russell says Verstappen's criticism 'quite amusing'",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Could the Huntingdon attack have been prevented?",
-      "url": "https://www.bbc.co.uk/news/videos/cmdx10e25r2qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "The Huntingdon train attacker has been found guilty of all 14 counts of attempted murder.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Spanish economist to become new European Central Bank chief",
-      "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
-      "source": "Al Jazeera",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "French President Emmanuel Macron announces on X that EU leaders have agreed on the appointment of Pablo Hernandez de Cos",
-      "alsoReportedBy": []
+      "summary": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
+      "alsoReportedBy": ["The Guardian"]
     },
     {
       "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
@@ -83,12 +83,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-      "source": "NPR",
+      "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+      "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+      "source": "The Guardian",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+      "summary": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City Israeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face intensifying bombardment and struggle to find food, clean water and shelter. On Wednesday, Gaza’s ministry of education said: “Palestinian students had been targeted for the third time in less than 24 hours, in an escalation reflecting the continued Israeli violations against children in the Gaza Strip.” Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -101,30 +101,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+      "title": "US Senate ‘permitting bill’ threatens clean water protections to speed up energy projects",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler . Britain needs to regain control of its immigration system after the chaos of Brexit. Yet sixteen years after David Cameron’s ‘tens of thousands’ pledge, six prime ministers and ten home secretaries have overseen wild swings in immigration numbers with net migration now set to fall below zero. Britain faces serious demographic and economic challenges, and urgently needs a proper immigration plan to support our economy and public services. The fall in net migration is mainly a result of changes made by the previous Conservative government. We now need to go even further with a legally binding annual cap, set by parliament, at a far lower level. British and European people are leaving in their droves because of Labour’s high taxes whilst non-EU immigration remains far too high. British families are left to pay for it with lower wages, longer waits for a GP appointment and homes they cannot afford. Mass low-skilled immigration must end completely as it is bad for our economy and corrosive to our society. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Public service broadcaster services should be top of TV app menus – Ofcom",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "UK regulator’s code of practice on streaming platforms is intended to give prominence to iPlayer and similar offerings Public service broadcasters’ streaming services such as BBC iPlayer should appear first on app menus on smart TVs to give them an “appropriate degree of prominence”, according to Ofcom . In addition, the regulator has said public service shows should rank higher on voice and text searches on televisions connected to the internet. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Italy says two citizens killed in Iranian strike in Kuwait",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "summary": "The Bipartisan American Affordability and Jobs Act passed the Senate and is now being debated in the House An industry-backed “permitting bill” approved by the US Senate would gut key clean water protections with changes that would do little to speed up the development of major energy projects, advocates warn. The Bipartisan American Affordability and Jobs Act of 2026 (Baaja) passed the Senate 62-33 and is now being debated in the House. The Baaja is a “permitting reform” bill that aims to reduce the time it takes federal agencies to approve major energy and infrastructure projects, like power lines, fossil fuel pipelines, natural gas plants and datacenters . Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -134,6 +116,42 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+      "url": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Latest figure of young people not in education, employment or training remains close to highest level in a decade Business live – latest updates UK politics live – latest updates The number of young people across the UK not in education, employment or training (Neet) has decreased but remains close to a million as Andy Burnham’s government pushes to tackle Britain’s youth jobs crisis. As ministers prepare to make sweeping changes in response to Alan Milburn’s landmark report on young people and work, the Office for National Statistics said the number of Neets fell by 22,000 in the three months to September, to 959,000. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Hospitals in England brace for flu spike with admissions highest for time of year since pre-Covid",
+      "url": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "NHS chief says hospital bosses should consider asking staff and visitors to wear masks as winter pressures build Hospitals are bracing for a “horrible spike” in flu in the coming days as winter starts to bite, the head of the NHS in England has said. Flu and other winter viruses including Covid pose such a threat that hospital bosses should consider telling staff and visitors to wear masks, Jim Mackey said, as figures showed rates of admissions to hospital with flu were at the highest for the time of year since before Covid. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+      "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Shares in UK tobacco company jump by more than 14% on news US rival is looking into making offer Business live – latest updates Imperial Brands could become the next UK company to fall to a foreign takeover after its US rival Altria announced a possible bid for the tobacco firm. Altria, whose Philip Morris division makes Marlboro and Benson & Hedges cigarettes, told the City on Thursday that it was considering an offer. If made it was likely to be solely in cash, it said. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -155,24 +173,6 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-      "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Labour’s internal divisions over the giant Rosebank oilfield have spilled into the open, with nearly 100 Labour MPs – including a handful of frontbenchers – writing to the prime minister to express their opposition to the project. Ninety-two backbenchers and at least four frontbenchers have signed a letter to Andy Burnham urging him not to let his ministers approve the scheme for the biggest undeveloped field in UK waters. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Georgia judge blocks own order to turn over US election ballot copies to state board",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Superior court judge Kelly Lee Ellerbe paused the order after county election officials filed a notice of appeal A judge in Fulton county, Georgia , has blocked her own order to turn over electronic copies of 2020 election ballots seized by the FBI in a raid to the Georgia state election board. Superior court judge Kelly Lee Ellerbe paused the order after county election officials filed a notice of appeal. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
       "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -182,8 +182,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "NP_R ≠ PAR_R",
-      "url": "https://github.com/samueleverett01/bss-permanent-separations",
+      "title": "AMD Specific Patches for Llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -200,9 +200,18 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AMD Specific Patches for Llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "How WinHelp files work",
+      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -218,17 +227,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Entering the Geminispace",
-      "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Intel One Mono font",
-      "url": "https://github.com/intel/intel-one-mono",
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -236,8 +236,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "How WinHelp files work",
-      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "title": "Garage v2.6.0 released with web admin, v1.x EoL & other news",
+      "url": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -263,9 +263,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Tell HN: Happy Thanksgiving",
-      "url": "https://news.ycombinator.com/item?id=50655664",
-      "source": "Hacker News",
+      "title": "Entering the Geminispace",
+      "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",

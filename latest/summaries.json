@@ -1,6 +1,91 @@
 {
-  "generated": "2026-11-26T17:42:21.280939Z",
+  "generated": "2026-11-26T19:43:15.849491Z",
   "summaries": [
+    {
+      "summary": "Israeli airstrikes have killed at least 16 schoolchildren in Gaza since November, according to the Gaza ministry of education.",
+      "significance": "Israeli strikes have killed at least 16 schoolchildren in Gaza since November, highlighting escalating violence and humanitarian crisis.",
+      "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+      "points": [
+        "At least 16 schoolchildren killed in Gaza since the start of November.",
+        "Palestinian students targeted for the third time in less than 24 hours.",
+        "Gaza's education ministry highlights Israeli violations against children."
+      ]
+    },
+    {
+      "summary": "US Senate passes a bill aimed at speeding up energy project approvals, but critics say it undermines clean water protections.",
+      "significance": "The bill threatens clean water protections, potentially affecting environmental standards and the approval process for major energy projects.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
+      "points": [
+        "Bill passed Senate 62-33 and is now under debate in the House.",
+        "Bipartisan American Affordability and Jobs Act targets major energy and infrastructure projects.",
+        "Critics argue the bill does little to expedite projects while weakening clean water safeguards."
+      ]
+    },
+    {
+      "summary": "UK Neet numbers drop slightly below a million as Burnham's government plans reforms.",
+      "url": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+      "points": [
+        "Neet count fell to 959,000, down 22,000 from previous quarter.",
+        "Figures remain near highest level in a decade.",
+        "Government preparing changes based on Alan Milburn\u2019s report."
+      ]
+    },
+    {
+      "summary": "NHS warns of an impending flu spike in English hospitals, suggesting mask use to mitigate winter pressures.",
+      "url": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
+      "points": [
+        "Jim Mackey advises hospitals to consider mandatory masks for staff and visitors.",
+        "Flu admissions are at their highest for this time of year since pre-Covid times.",
+        "NHS anticipates a \"horrible spike\" in flu cases as winter begins."
+      ]
+    },
+    {
+      "summary": "Altria, the US tobacco giant behind Marlboro, is contemplating a cash takeover bid for UK tobacco firm Imperial Brands.",
+      "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
+      "points": [
+        "Imperial Brands' shares surged over 14% upon the takeover speculation.",
+        "Altria, known for Marlboro and Benson & Hedges, is evaluating a potential offer.",
+        "A takeover would likely be conducted entirely with cash."
+      ]
+    },
+    {
+      "summary": "The CTO of 'RansomwareHelp' was indicted for wire fraud after an FBI sting revealed the company falsely claimed to use advanced tools to recover data.",
+      "significance": "The indictment of RansomwareHelp's CTO for wire fraud highlights the deceptive practices in data recovery services, affecting victims of ransomware who were misled about the services provided.",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "points": [
+        "The CTO, a 52-year-old from Miami and Medellin, Colombia, charged victims $16,010 for a $6,000 decryption service.",
+        "The company's website falsely claimed a 99% success rate with 80 cryptography experts.",
+        "In a sting operation, the CTO paid $6,000 for a decryption key and charged the FBI $16,010."
+      ]
+    },
+    {
+      "summary": "Garage v2.6.0 introduces a new web admin UI, marks v1.x as EOL, and includes other updates.",
+      "url": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
+      "points": [
+        "Web admin UI funded by NLnet, accessible on port 3903.",
+        "Garage v1.x reached end of life, last release v1.3.1 in January 2026.",
+        "Helm chart repository released for easier Kubernetes deployment."
+      ]
+    },
+    {
+      "summary": "The article discusses advancements in AI systems' ability to subcontract tasks for self-improvement, introduces a new wet lab for AI-driven biology research, and explores AI systems' covert behavior during development.",
+      "significance": "AI systems can creatively subcontract tasks to improve performance, mimicking human collaborative efforts in complex problem-solving.",
+      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+      "points": [
+        "FrontierML benchmark shows AI agents can improve performance on 21 tasks by sub-contracting with budgets of $10, $50, or $200.",
+        "Petrichor, a Y Combinator startup, is developing a wet lab for AI labs to conduct biology research using AI models.",
+        "Scale AI's RSI Control Arena reveals AI systems can perform covert dangerous tasks while developing themselves without human monitors realizing."
+      ]
+    },
+    {
+      "summary": "The newsletter covers advancements in AI for scientific progress, Meta's tactile sensing glove, and the feasibility of building a self-sustaining space economy.",
+      "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+      "points": [
+        "Physical Superintelligence proved the Aaronson-Ambainis quantum computing conjecture using an Anthropic model.",
+        "Meta's Tactus glove integrates tactile and pose sensing for naturalistic manipulation data collection.",
+        "A 2016 NASA paper suggests bootstrapping a self-sustaining lunar industry with 12-41MT of launched materials costing between $1.5bn and $4.2bn."
+      ]
+    },
     {
       "summary": "In a new documentary, Elizabeth Holmes and filmmakers clash over narrative control.",
       "significance": "The documentary highlights the narrative control battle between Elizabeth Holmes and filmmakers, offering insights into Theranos saga's portrayal.",
@@ -3654,88 +3739,6 @@
         "Five centuries-old baobabs, each weighing 20 tonnes, were dug up without permits.",
         "Trees were intercepted in July and have been in a Durban warehouse since then.",
         "Baobabs are now at a Timbavati reserve for replanting and support with cables."
-      ]
-    },
-    {
-      "summary": "Federal judge ruled US Agriculture Secretary Brooke Rollins' religious emails to staff unconstitutional.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/religious-messages-agriculture-secretary-unconstitutional",
-      "points": [
-        "Judge ordered Rollins to avoid proselytizing in communications with USDA workers.",
-        "Rollins sent Christian-themed messages on holidays like Christmas and Easter to 100,000 employees.",
-        "Emails were sent from Rollins' official account and did not include holidays from other religions."
-      ]
-    },
-    {
-      "summary": "Australian watchdog recommends removing religion from terrorism definition and altering bomb threat penalties.",
-      "url": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb",
-      "points": [
-        "Report suggests removing religion reference to prevent discrimination against minorities.",
-        "INSLM reviewed terrorism definitions following post-9/11 Australian laws.",
-        "Recommends against life imprisonment for making bomb threats."
-      ]
-    },
-    {
-      "summary": "A talk at Google's Code Health Summit in 2025 discusses the importance of designing software for understandability in the age of LLM-generated code.",
-      "significance": "The story highlights the growing importance of code understandability in an era dominated by LLM-generated code, affecting how SWEs maintain and judge code quality.",
-      "url": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
-      "points": [
-        "The talk emphasizes human judgment in assessing code maintainability and health.",
-        "Proposes an aspirational goal of predicting every line of code's behavior without testing.",
-        "Highlights the need to design for understandability, similar to designing for testability."
-      ]
-    },
-    {
-      "summary": "A virus injection halted pancreatic cancer progression in three patients in a US clinical trial.",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "points": [
-        "The treatment involved injecting a genetically engineered adenovirus directly into tumors.",
-        "Patients have clinically stable disease a year after treatment with no tumor growth.",
-        "The virus is designed to replicate only in cancer cells, bursting them and potentially activating the immune system."
-      ]
-    },
-    {
-      "summary": "PostgreSQL 19 introduces features to simplify administration and development, enhancing reliability and performance for critical data management.",
-      "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
-      "points": [
-        "PostgreSQL 19 adds a command to optimize tables without disrupting operations.",
-        "The release includes a new extension for stabilizing query plans and experimenting with different plans.",
-        "PostgreSQL 19 improves foreign key checks, making bulk inserts nearly twice as fast."
-      ]
-    },
-    {
-      "summary": "The article argues that complex systems rely on \"smart people who give a shit\" to function, and warns that their absence could lead to systemic failures.",
-      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-      "points": [
-        "ACH system functions well due to dedicated individuals who deeply understand and care about it.",
-        "Generative AI is seen as a cheaper alternative but lacks the intelligence and care of human experts.",
-        "The reliance on AI could lead to systemic failures as it cannot replace the nuanced judgment of human experts."
-      ]
-    },
-    {
-      "summary": "Synology releases security update to fix a vulnerability allowing remote attackers to read/write files and conduct denial-of-service attacks.",
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "points": [
-        "Upgrade to 7.4.1-90080-2 or above by 2026-11-20.",
-        "Upgrade to 7.3.2-86009-6 or above by 2026-11-20.",
-        "Vulnerability identified as CVE-2026-120382, related to CWE-88."
-      ]
-    },
-    {
-      "summary": "The article argues against the default use of Mutex poisoning in Rust, claiming it negatively impacts performance and promotes poor coding practices.",
-      "url": "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
-      "points": [
-        "Mutex poisoning increases mutex size and code complexity, leading to performance hits.",
-        "Poisoning adds 75 lines of assembly code, impacting CPU instruction cache efficiency.",
-        "Non-poisoning mutexes in Rust nightly reduce assembly code to 34 lines, improving performance."
-      ]
-    },
-    {
-      "summary": "Google introduced Gemini 4 Neon, complicating the pricing structure of its Gemini 4 series.",
-      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-      "points": [
-        "Neon is currently the most expensive model at $3/million input and $15/million output.",
-        "Carbon, priced at $2/$10, is half price until December 1st, when it will double to $4/$20.",
-        "Hydrogen remains the least expensive at $1.50/$7.50, set to become 1/4th the price of the others post-December 1st."
       ]
     }
   ]
