@@ -1,6 +1,53 @@
 {
-  "generated": "2026-11-26T03:41:21.342686Z",
+  "generated": "2026-11-26T05:41:22.141090Z",
   "summaries": [
+    {
+      "summary": "An individual's experience with making a will led to unexpected conversations about finances and support with family and friends.",
+      "significance": "The story highlights the complex decisions and emotional considerations involved in inheritance and financial planning, influenced by personal relationships and past experiences.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/26/money-will-sister-friends-finances",
+      "points": [
+        "The author's father had a heart attack when the author was six, leading to a household constantly aware of the threat of death.",
+        "The mother named one of the friend's parents as next of kin to ensure care for the children, highlighting the lack of family support in Britain.",
+        "The experience of making a will unexpectedly led to discussions about financial security and support needs with friends and family."
+      ]
+    },
+    {
+      "summary": "A British cosmetic surgeon, Luyen Vu, performs discount eye surgeries, gaining a following despite the risks of unregulated procedures.",
+      "url": "https://www.theguardian.com/news/2026/nov/26/the-bleph-lady-britains-backstreet-plastic-surgeon",
+      "points": [
+        "Robert Laycock, a surgeon at Aintree University Hospital, treated a patient with improperly performed blepharoplasty in early 2024.",
+        "The patient\u2019s surgery involved an unusual incision beneath the eyebrow, not the eyelid crease, typical in UK procedures.",
+        "Laycock estimates treating three to four patients annually with complications from botched private cosmetic surgeries."
+      ]
+    },
+    {
+      "summary": "Performance artist Ron Athey, known for extreme acts involving self-harm and body modification, discusses his controversial work.",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/26/ron-athey-extreme-performance-artist-scrotum-stapler",
+      "points": [
+        "Ron Athey's performance Self-Obliteration involves tearing off a wig attached with blunt needles, causing bleeding.",
+        "In Solar Anus, Athey uses hooks to stretch his facial skin, creating an Egyptian death mask appearance.",
+        "Athey's St Sebastian performance includes being suspended and pierced with arrows and needles by assistants."
+      ]
+    },
+    {
+      "summary": "Trump's proposed tariffs on 14 trading partners, including Brazil and China, face strong opposition.",
+      "significance": "The story highlights global backlash against US tariffs, affecting trade relations with Brazil, China, and other major partners.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "points": [
+        "Brazil declares it will not yield to US tariff threats.",
+        "China denounces US levies as \"political manipulation\".",
+        "Proposed tariffs target countries like China and the EU."
+      ]
+    },
+    {
+      "summary": "Datasette-charts 0.3a0 release adds chart annotations feature.",
+      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "points": [
+        "New feature allows annotations like lines, shaded areas, and labels on charts.",
+        "Datasette Lite enables users to adjust annotations via a chart builder UI.",
+        "Datasette Agent can automatically create annotated charts."
+      ]
+    },
     {
       "summary": "FIFA uses social media influencers to promote the Under-17 World Cup in Qatar.",
       "significance": "FIFA's use of influencers for the U17 World Cup aims to engage fans through digital platforms, marking a strategic shift in sports promotion.",
@@ -3693,54 +3740,6 @@
         "Dragology allows interface developers to implement model-driven dragging with less coding effort.",
         "The concept originated from a 2022 math game prototype aiming for more tangible interactions.",
         "Declarative dragging is being applied to academic programming environments to make code refactorings more tangible."
-      ]
-    },
-    {
-      "summary": "Former NSW police officer Beau Lamarre-Condon claims he was bullied while on duty and denies charges of murdering Jesse Baird and Luke Davies.",
-      "significance": "Lamarre-Condon's allegations of bullying and homophobic abuse in the NSW police could highlight issues within the police force's workplace environment.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
-      "points": [
-        "Lamarre-Condon alleges he faced daily homophobic bullying during his time with NSW police.",
-        "He is accused of fatally shooting Baird and Davies with his police service weapon.",
-        "The murders took place on February 19, 2024, in Baird\u2019s Paddington home."
-      ]
-    },
-    {
-      "summary": "Political journalist discusses the implications of Republicans' midterm losses and Trump's diminished influence.",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/05/trump-has-been-humbled-now-what-podcast",
-      "points": [
-        "Republicans suffered significant defeats in traditionally red states like Kansas, Texas, and South Carolina.",
-        "The article questions if Republicans will distance themselves from Donald Trump post-election.",
-        "Democrats' future strategy beyond opposing Trump remains unclear."
-      ]
-    },
-    {
-      "summary": "Elon Musk's $446m investment in backing Republican candidates in the US midterms was unsuccessful.",
-      "url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
-      "points": [
-        "Musk spent $446m, surpassing his 2024 spending of nearly $290m.",
-        "His funding targeted key Senate races to retain Republican control.",
-        "Despite his investment, Democrats gained power across the country."
-      ]
-    },
-    {
-      "summary": "Ohio voters sent a message to Republicans after Democrats won a Senate seat and the governor\u2019s mansion.",
-      "significance": "Democrats' victories in Ohio signal to Republicans that the state's voters cannot be overlooked or taken for granted.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
-      "points": [
-        "Democrats flipped a Senate seat in Ohio.",
-        "Democrats recaptured the governor\u2019s mansion in Ohio.",
-        "The election results indicate voters do not want Republicans to take the state for granted."
-      ]
-    },
-    {
-      "summary": "Milburn review recommends creating subsidized 'flexi-jobs' and offering skills support to help disabled young people enter the workforce.",
-      "significance": "The Milburn review recommends a significant shift in employment policies to include 'flexi-jobs' and subsidies, aiming to improve job opportunities for young people with disabilities.",
-      "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
-      "points": [
-        "Review calls for an \"opportunity revolution\" to address labor market discrimination against disabled youth.",
-        "Government should introduce \"flexi-jobs\" and employment subsidies for 16- to 24-year-old disabled individuals.",
-        "Intensive skills support is recommended to aid disabled young people in securing employment."
       ]
     }
   ]
