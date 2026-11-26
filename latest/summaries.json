@@ -1,6 +1,42 @@
 {
-  "generated": "2026-11-25T23:41:01.121121Z",
+  "generated": "2026-11-26T01:41:21.406916Z",
   "summaries": [
+    {
+      "summary": "ISIL is blamed for suicide attacks in Syria that killed two security forces members and injured five others.",
+      "significance": "ISIL's alleged involvement in multiple suicide attacks highlights ongoing violence in Syria.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+      "points": [
+        "Two security forces members killed in Hasakah.",
+        "Five others injured in the attack.",
+        "Authorities accuse ISIL of sending four attackers."
+      ]
+    },
+    {
+      "summary": "UN tribunal questions evidence for sacking Palestinian staff based on Israeli allegations, impacting Gaza aid.",
+      "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+      "points": [
+        "UN Relief and Works Agency sacked staff over alleged involvement in October 2023 Hamas attacks.",
+        "Decision damaged humanitarian operations in Gaza, according to the judgment."
+      ]
+    },
+    {
+      "summary": "Hacker News users discuss various issues with the site's pagination, text post visibility, and AI-generated content.",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "points": [
+        "Pagination issue causes duplicate posts when hiding entries on pages beyond the first.",
+        "Text posts (\"Ask HN\") visibility decreased due to a decline in submissions without URLs.",
+        "Show HNs are often flagged and marked as dead due to AI-generated text detection."
+      ]
+    },
+    {
+      "summary": "Scott Aaronson compares recent advancements in complexity theory to early microscope and telescope discoveries.",
+      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "points": [
+        "Aaronson likens complexity theory insights to van Leeuwenhoek's microscope and Galileo's telescope discoveries.",
+        "The improvements in understanding mathematical truth are described as revealing a new continent of knowledge.",
+        "The advancements are not just one-off solutions but a broader, previously unseen area of mathematical truth."
+      ]
+    },
     {
       "summary": "Colombian police rescued all hostages from a supermarket siege in Cartagena, killing one hostage-taker.",
       "significance": "The rescue of all hostages and the end of the daylong siege in Cartagena signifies a successful operation by Colombian security forces, impacting local safety and tourism.",
@@ -3706,44 +3742,6 @@
         "Thousands of jobs are at risk due to the administration.",
         "The retailer has been struggling with years of steep losses.",
         "Negotiations with landlord Scentre Group broke down, leading to the administration."
-      ]
-    },
-    {
-      "summary": "Social media is abuzz with reactions to Democrats taking over US Congress after midterm gains.",
-      "significance": "Social media reflects on Democrats' control of Congress, highlighting reactions to midterm gains and political shifts.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
-      "points": [
-        "Trump blamed the Iran war for Republican losses.",
-        "Abdul El-Sayed achieved a historic Senate victory.",
-        "Democrats secured a majority in Congress post-midterms."
-      ]
-    },
-    {
-      "summary": "Democrats secured control of US Congress in the 2026 US midterm elections, with Republicans suffering historic losses.",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-      "points": [
-        "Dow Jones rose 2%, Nasdaq and S&P 500 gained over 1%.",
-        "Senate races in Mississippi and Alaska remain undecided.",
-        "Trump downplayed his role in the election outcomes."
-      ]
-    },
-    {
-      "summary": "UK PM's offer of debt relief and aid to Caribbean nations is criticized as inadequate replacement for slavery reparations.",
-      "significance": "The story highlights the Caribbean movement's stance that UK's aid offers are insufficient for addressing historical slavery reparations.",
-      "url": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
-      "points": [
-        "Caribbean leaders reject UK's proposal, demanding actual reparations for slavery.",
-        "UK PM Andy Burnham proposes dialogue on slavery and reparations, considers apology.",
-        "Offer includes infrastructure package but explicitly excludes formal reparations."
-      ]
-    },
-    {
-      "summary": "Telstra apologizes for confusing phantom missed call notifications affecting thousands of users.",
-      "url": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
-      "points": [
-        "Issue源于其MessageBank服务，已在周三晚上承认并修复。",
-        "受影响的用户在手机上收到了延迟的未接来电通知或语音邮件，有时甚至晚了几天。",
-        "事件影响了数千名Telstra用户。"
       ]
     }
   ]
