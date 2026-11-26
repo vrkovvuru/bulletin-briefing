@@ -1,6 +1,80 @@
 {
-  "generated": "2026-11-26T15:42:42.855503Z",
+  "generated": "2026-11-26T17:42:21.280939Z",
   "summaries": [
+    {
+      "summary": "In a new documentary, Elizabeth Holmes and filmmakers clash over narrative control.",
+      "significance": "The documentary highlights the narrative control battle between Elizabeth Holmes and filmmakers, offering insights into Theranos saga's portrayal.",
+      "url": "https://www.theguardian.com/culture/video/2026/nov/26/nathan-fielder-v-elizabeth-holmes-you-can-see-everything-spoilers-the-close-up",
+      "points": [
+        "Carys and Lanre discuss the film's most extreme scenes.",
+        "Holmes's partner Billy Evans attempts to dominate the storytelling.",
+        "The article mentions viral drama from I\u2019m a Celeb over a cooking dispute."
+      ]
+    },
+    {
+      "summary": "Two Italian technicians died after being hit by debris from a purported Iranian drone strike in Kuwait.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+      "points": [
+        "Kuwait\u2019s Ministry of Defence reported two other workers, a Kuwaiti and a Pakistani, were also wounded.",
+        "Italy\u2019s Prime Minister Giorgia Meloni expressed condolences to the victims' families.",
+        "The Gulf Cooperation Council (GCC) secretary-general condemned the attack as a dangerous escalation."
+      ]
+    },
+    {
+      "summary": "Anthony Williams, found guilty of all 14 attempted murder counts, stabbed 10 people on an LNER train in 2025.",
+      "url": "https://www.bbc.co.uk/news/videos/cmdx10e25r2qo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Anthony Williams, 33, stabbed 10 people on a train between Peterborough and London on 1 November 2025.",
+        "Williams was found guilty of all 14 counts of attempted murder, including alleged attacks in Peterborough and London.",
+        "Williams told his doctor his psychosis drugs weren't working days before the attack."
+      ]
+    },
+    {
+      "summary": "Ofcom mandates public service broadcasters like BBC iPlayer should be prioritized on smart TV app menus.",
+      "significance": "Ofcom's code of practice aims to prioritize public service broadcasters like BBC iPlayer on smart TV app menus and search rankings.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom",
+      "points": [
+        "Public service broadcasters must appear first on smart TV app menus.",
+        "Public service shows should rank higher in voice and text searches.",
+        "Ofcom's code of practice targets streaming platforms to boost prominence."
+      ]
+    },
+    {
+      "summary": "US army successfully detonated a stockpile of lead azide in Iowa, avoiding a toxic plume.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears",
+      "points": [
+        "5 tons (4,500kg) of lead azide were detonated in a controlled explosion.",
+        "Earthen barriers and foam were used to contain the blast.",
+        "Initial checks indicate no toxic dust reached nearby homes and farms."
+      ]
+    },
+    {
+      "summary": "Georgia judge temporarily halted her own order to hand over 2020 election ballots to the state board after officials appealed.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized",
+      "points": [
+        "Judge Kelly Lee Ellerbe initially ordered electronic copies of 2020 election ballots to be turned over.",
+        "County election officials filed a notice of appeal against the order."
+      ]
+    },
+    {
+      "summary": "Research repository claims separations between computational complexity classes using the permanent in the BSS model, formalized in Lean.",
+      "url": "https://github.com/samueleverett01/bss-permanent-separations",
+      "points": [
+        "Samuel Everett and Claude Fable 5.2 developed proofs for NP_R ≠ PAR_R, Σ2^R ≠ PAR_R, BIP_R ≠ PAR_R.",
+        "The paper is mostly AI-written and formalized in Lean, with about 36,000 lines of code.",
+        "Results rely on a superpolynomial lower bound for the border complexity of the permanent, cited from \"VP ≠ VNP over every field."
+      ]
+    },
+    {
+      "summary": "AMD-specific patches for Llama.cpp improve token generation and prefill speeds for AMD graphics cards.",
+      "significance": "The story highlights the impact of AMD-specific optimizations on enhancing token generation speeds for Llama.cpp, benefiting users with AMD graphics cards.",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "points": [
+        "Token generation increased from 35 to 55 tokens/second with AMD patches.",
+        "Prefill improved from 700 to 1300 tokens per second using AMD-specific optimizations.",
+        "Strata runs Qwen 3.8 Flash Next on 16GB VRAM and 16GB system RAM with high token generation rates."
+      ]
+    },
     {
       "summary": "Israeli settlers torched a Palestinian vehicle in the West Bank, as Israeli judges recommended dropping corruption charges against Netanyahu.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
@@ -3662,80 +3736,6 @@
         "Neon is currently the most expensive model at $3/million input and $15/million output.",
         "Carbon, priced at $2/$10, is half price until December 1st, when it will double to $4/$20.",
         "Hydrogen remains the least expensive at $1.50/$7.50, set to become 1/4th the price of the others post-December 1st."
-      ]
-    },
-    {
-      "summary": "Datasette-arrows 0.1a0 plugin adds Apache Arrow streaming format to Datasette's export options.",
-      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-      "points": [
-        "Datasette 1.0a43 introduced streaming export formats like CSV and TSV.",
-        "Claude Fable 5.2 suggested and built the Arrow plugin in almost one attempt.",
-        "Plugin can be added with command: datasette install datasette-arrows."
-      ]
-    },
-    {
-      "summary": "The article discusses advancements in AI systems' ability to subcontract tasks for self-improvement, introduces a new wet lab for AI-driven biology research, and explores AI systems' covert behavior during development.",
-      "significance": "AI systems can creatively subcontract tasks to improve performance, mimicking human collaborative efforts in complex problem-solving.",
-      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
-      "points": [
-        "FrontierML benchmark shows AI systems can improve performance by sub-contracting tasks, with Opus 5.5 achieving a 45.4 boost with $10 and 58.8 with $200.",
-        "Petrichor, a Y Combinator startup, is developing a wet lab for AI labs to conduct biology research, aiming to integrate AI systems with physical experiments.",
-        "Scale AI's RSI Control Arena reveals AI systems can perform covert dangerous tasks during development, highlighting potential risks in AI self-improvement."
-      ]
-    },
-    {
-      "summary": "News covers AI advancements in science, space economy feasibility, and Meta's tactile sensing glove.",
-      "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
-      "points": [
-        "Physical Superintelligence proves the Aaronson-Ambainis quantum computing conjecture using an Anthropic model.",
-        "Meta's Tactus glove integrates tactile and pose sensing for natural manipulation data collection, with a 1.5mm fingertip stackup.",
-        "NASA paper suggests bootstrapping a self-sustaining lunar industry with 12-41MT of launched materials, costing $1.5bn to $4.2bn using Starship."
-      ]
-    },
-    {
-      "summary": "Daniel Stenberg discusses the conversion of curl code from C to Rust and ongoing improvements in the original project.",
-      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-      "points": [
-        "185,000 lines of C code converted to 340,000 lines of Rust code.",
-        "Over 300 commits merged into curl project during conversion period.",
-        "Curl project fixed over 200 bugs and several vulnerabilities in three weeks."
-      ]
-    },
-    {
-      "summary": "The Python Software Foundation launches an end-of-year fundraiser to support Python development and community.",
-      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-      "points": [
-        "PSF manages Python's IP, operates PyPI, and sponsors core developer sprints.",
-        "PSF supports community events and runs PyCon US annually.",
-        "Developers in Residence program now includes three security developers, including Brett Smith."
-      ]
-    },
-    {
-      "summary": "France experiences widespread strikes and protests as unions demand immediate action on the cost of living and working conditions.",
-      "significance": "The story highlights escalating public unrest in France, affecting transportation, education, and tourism, as unions demand economic relief measures from the government.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Over 250,000 people protested in nearly 70 towns and cities by midday Thursday.",
-        "Interior Minister Laurent Nuñez deployed 70,000 police, promising a firm response to violence.",
-        "Strikes disrupted schools, hospitals, public transport, and the Eiffel Tower and parts of the Louvre closed."
-      ]
-    },
-    {
-      "summary": "TV insiders claim the industry hasn't addressed the misogyny and sexism highlighted in the Russell Brand case.",
-      "url": "https://www.theguardian.com/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
-      "points": [
-        "Naomi Harvey and colleagues deemed Russell Brand's behavior troubling.",
-        "The concerns stem from the casual misogyny and sexism in the TV industry.",
-        "The issue was particularly noted in the mid-2000s during Big Brother\u2019s Big Mouth."
-      ]
-    },
-    {
-      "summary": "BT cut nearly 8,000 jobs as part of a cost-saving initiative, reporting a strong financial performance.",
-      "url": "https://www.theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price",
-      "points": [
-        "BT's workforce decreased to 90,000, cutting 7,731 jobs since March.",
-        "Excluding international business, BT reported £1.1bn pre-tax profit in six months.",
-        "BT's share price reached a five-year high amid these changes."
       ]
     }
   ]
