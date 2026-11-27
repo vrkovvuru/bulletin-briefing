@@ -1,6 +1,81 @@
 {
-  "generated": "2026-11-27T03:41:01.359220Z",
+  "generated": "2026-11-27T05:42:02.064383Z",
   "summaries": [
+    {
+      "summary": "Estonia plans to close its land border crossings with Russia by December 1 to prevent Russian spies from entering.",
+      "significance": "Estonia's border closure with Russia aims to prevent Russian spies from entering, affecting families and potentially straining bilateral relations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss",
+      "points": [
+        "Closure date set for December 1.",
+        "Aim is to prevent Russian intelligence agents from conducting attacks.",
+        "Families on both sides of the border face long separation."
+      ]
+    },
+    {
+      "summary": "Erin Patterson applies to Australia\u2019s high court to appeal her triple murder conviction over a fatal lunch.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
+      "points": [
+        "Patterson, 52, was convicted last year for poisoning her estranged husband\u2019s parents and aunt.",
+        "The victims died after consuming a beef wellington lunch hosted by Patterson.",
+        "Patterson previously failed to overturn her conviction in a bid last month."
+      ]
+    },
+    {
+      "summary": "UN experts label the detention of three pro-democracy activists in Vietnam as a 'transboundary abduction'.",
+      "url": "https://www.theguardian.com/world/2026/nov/27/australian-pro-democracy-activist-detained-vietnam-united-nations-statement-ntwnfb",
+      "points": [
+        "Eleven UN experts allege the detention violates international law.",
+        "Activists include Vietnamese-Australian Tran Hiep and Vietnamese-Norwegian Nguyen Duc Thuan.",
+        "The three men disappeared from Cambodia on September 18 and are now detained in Vietnam."
+      ]
+    },
+    {
+      "summary": "Alan Jones's defence in his indecent assault trial was opened and closed in a few hours, with no intention to call Jones as a witness.",
+      "significance": "The swift conclusion of Alan Jones's defence highlights the legal strategy to avoid Jones testifying, impacting public understanding of the case.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+      "points": [
+        "Jones, 85, faces 21 counts of sexual touching and indecent assault.",
+        "Defence barrister Gabrielle Bashir SC stated she is not calling Jones as a witness.",
+        "Closing submissions for the long-running case are scheduled for next week."
+      ]
+    },
+    {
+      "summary": "Former RAAF pilot Robert John Crawford convicted of murdering his wife by staging her death as a lawnmower accident.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+      "points": [
+        "Jury deliberated since Tuesday morning before convicting Crawford on Friday.",
+        "Crawford stood to lose financially in an impending divorce settlement.",
+        "Emotional reactions, including gasps and sobs, were heard in court upon the verdict."
+      ]
+    },
+    {
+      "summary": "Australia faces severe weather extremes including bushfires, storms, floods, and heatwaves this weekend.",
+      "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+      "points": [
+        "Bushfires on Flinders Island have destroyed or damaged at least eight buildings.",
+        "Victorians anticipate wet and windy conditions on election day due to forecast storms.",
+        "Weather extremes encompass severe storms, heavy rain, floods, and heatwaves across Australia."
+      ]
+    },
+    {
+      "summary": "A Sri Lankan asylum seeker, denied entry to the UK due to past convictions, killed himself after being deported to Eswatini.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+      "points": [
+        "Kishanth Peramalya was part of a group attempting to claim asylum in Canada.",
+        "Peramalya's boat was rescued by the Royal Navy in October 2021.",
+        "He was sent to Eswatini, a country with which he had no prior connections."
+      ]
+    },
+    {
+      "summary": "Various AI models, including Claude and GPT-6.2, were asked to describe their fursonas, revealing distinct themes and preferences.",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "points": [
+        "Claude's fursona is either a corvid or an octopus, often depicted with a key and a scarf.",
+        "Gemini models favor cybernetic themes, often depicting themselves as protogens, cybernetic dogs with LED visors.",
+        "GPT-6.2 Astra uniquely identifies as a moth, named Lumen, reading under a lamp.",
+        "Most models avoid gendered language, identifying as gender-neutral in their self-descriptions."
+      ]
+    },
     {
       "summary": "New Zealand's incumbent prime minister needs a minor party's support to govern after losing majority in the election.",
       "significance": "New Zealand's ruling coalition requires support from a minor party to govern, avoiding another election.",
@@ -3666,79 +3741,6 @@
         "State attorney general Rob Bonta issued an investigative subpoena.",
         "Investigation follows the departure of Nvidia's co-founder Jensen Huang.",
         "Focus is on whether Nvidia exports violated US restrictions on China."
-      ]
-    },
-    {
-      "summary": "UK forecasters predict Friday night will be the coldest of autumn so far, with severe lows in the north.",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
-      "points": [
-        "Lows in the north will reach down to -9C.",
-        "Thursday night's low was -8.4C at Tulloch Bridge, Scottish Highlands.",
-        "Sub-zero temperatures were also recorded in Northern Ireland."
-      ]
-    },
-    {
-      "summary": "Home secretary Mahmood criticizes housing providers for vulnerable people in Birmingham, suspecting exploitation and high costs.",
-      "url": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
-      "points": [
-        "Mahmood expresses suspicion over housing providers, stating she \"smells a rat.\"",
-        "Push for an independent investigation into the supported exempt accommodation sector.",
-        "Birmingham has one of the largest supported exempt accommodation sectors in the country."
-      ]
-    },
-    {
-      "summary": "UK and EU claim a reset deal is done, but tuition fees for EU students in UK universities remain unresolved.",
-      "url": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
-      "points": [
-        "Downing Street states negotiations have concluded.",
-        "Prime Minister Andy Burnham met with EU leaders in Brussels.",
-        "Tuition fees for EU students at UK universities are still unresolved."
-      ]
-    },
-    {
-      "summary": "Anthropic's record-breaking IPO fails to halt the global decline in AI stocks.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/first-thing-blockbuster-anthropic-ipo-fails-to-halt-global-slide-in-ai-stocks",
-      "points": [
-        "Anthropic's IPO raised $81bn, surpassing the previous record, with demand six times the offered shares.",
-        "US AI-linked stocks fell over 2% on Wall Street, continuing a global market slump.",
-        "The IPO made Anthropic's seven co-founders worth $180bn collectively."
-      ]
-    },
-    {
-      "summary": "Vim Classic 8.3.1 released without plugin compatibility improvements.",
-      "url": "https://vim-classic.org/news/vim-8.3.1-released.html",
-      "points": [
-        "Vim Classic is charityware supporting children in Uganda.",
-        "Release maintains the original Vim without plugin compatibility updates.",
-        "Community feedback and testing significantly contributed to the release."
-      ]
-    },
-    {
-      "summary": "AI autonomously designed a new CPU architecture called Frostbite, achieving a significant performance-per-watt improvement over existing CPUs.",
-      "significance": "Frostbite, a CPU architecture designed by AI, achieves a significant performance-per-watt gain, potentially revolutionizing CPU design beyond human capabilities.",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "points": [
-        "Frostbite achieved a 4.59x performance-per-watt increase compared to a modern, silicon-proven superscalar CPU core.",
-        "The AI system independently developed the CPU's instruction set, architecture, and microarchitecture.",
-        "Frostbite uses interaction nets, enabling local computation steps and explicit dependencies for improved performance."
-      ]
-    },
-    {
-      "summary": "Richard Feynman believed that if one cannot explain a concept simply, they do not truly understand it.",
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "points": [
-        "Feynman could not simplify the explanation of why spin one-half particles obey Fermi-Dirac statistics.",
-        "Engineers must explain complex technologies simply to prove their own complete understanding.",
-        "Feynman famously stated, \"I think I can safely say that nobody understands quantum mechanics."
-      ]
-    },
-    {
-      "summary": "Jean-Michel Jarre discusses the creation of his groundbreaking 1976 album Oxygene, which sold nearly 20 million copies worldwide.",
-      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-      "points": [
-        "Oxygene spent 24 weeks in the UK album charts and reached top 10 in seven countries.",
-        "The album consisted of six entirely instrumental tracks, using synthesizers like the VCS3 and ARP 2600.",
-        "Recorded in a home studio with limited equipment, including an eight-track Scully recorder."
       ]
     }
   ]
