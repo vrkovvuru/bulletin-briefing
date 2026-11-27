@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-26T23:40:47.797282Z",
+  "generated": "2026-11-27T01:41:42.637541Z",
   "summaries": [
+    {
+      "summary": "Ukraine's capital faces daily electricity and water shortages due to the war with Russia.",
+      "significance": "The story highlights the daily struggles of Ukrainian residents, showcasing the widespread impact of the war on basic services like electricity and water.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+      "points": [
+        "Residents and businesses rely on generators during power outages.",
+        "The shortages are an ongoing part of daily life in the capital."
+      ]
+    },
+    {
+      "summary": "Taiwan faces potential Chinese interference in its local elections, which could impact the ruling party's future.",
+      "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+      "points": [
+        "Taiwanese officials warn of China's interference in Saturday's elections.",
+        "Elections will choose leaders in 22 districts, focusing on local issues.",
+        "The ruling Democratic Progressive Party's fortunes are at stake."
+      ]
+    },
+    {
+      "summary": "ATSB investigates flight crews' \"mental models\" after a Qantas flight aborted landing at Sydney airport due to another aircraft crossing the runway.",
+      "significance": "Investigation into flight crews\u2019 \u201cmental models\u201d follows series of landing incidents at Sydney airport, affecting air safety protocols.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
+      "points": [
+        "ATSB investigating \"mental models\" of flight crews following the incident.",
+        "Qantas flight 426 from Melbourne aborted landing just before 10:15am on Wednesday.",
+        "Boeing 737 was told to expect a late landing due to aircraft crossing the runway."
+      ]
+    },
+    {
+      "summary": "Sam Wood, accused of assaulting his wife, will spend Christmas in jail after being denied bail for a third time.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/sam-wood-denied-bail-alleged-assault-queensland-ntwnfb",
+      "points": [
+        "Wood, 46, has been in custody for eight weeks.",
+        "Alleged assault occurred during a family holiday in Noosa, Queensland, in October.",
+        "This is the third time bail has been denied for the former Bachelor star."
+      ]
+    },
+    {
+      "summary": "A Swiss tourist was killed and British and American tourists injured by elephants in Cameroon.",
+      "url": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+      "points": [
+        "Alain Throo, a London-based insurance executive, died after being gored during the encounter.",
+        "The incident occurred on November 19 near the village of Bakingili in Mount Cameroon national park.",
+        "A group of six tourists, including four British, one Swiss, and one American, were hiking when they encountered about 15 elephants."
+      ]
+    },
+    {
+      "summary": "A French nonprofit, Deuxfleurs, is leading efforts to decentralize email hosting through open-source projects, countering the trend of consolidation by major providers like Google and Microsoft.",
+      "significance": "The story highlights a shift back to self-hosted email solutions, offering greater autonomy and security against corporate control and state pressure.",
+      "url": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
+      "points": [
+        "Deuxfleurs plans to switch to Aerogramme email software by January 2027.",
+        "Email hosting for the million busiest domains on the web has halved from 44.6% to 22.4% using small or self-hosted servers between 2016 and July 2026.",
+        "The Dutch government is moving to run mail and calendar on its own servers from 2027, using European open-source tools."
+      ]
+    },
     {
       "summary": "AI has reignited enthusiasm for self-hosting by making it easier to manage and experiment with infrastructure.",
       "significance": "AI simplifies and accelerates self-hosting infrastructure modifications and experiments, making it more accessible and enjoyable for enthusiasts.",
@@ -3682,62 +3738,6 @@
         "Gabriel played a musical duet with a bonobo named Kanzi using a speech-synthesis keyboard.",
         "The new album, o\\i, features 13 tracks lasting nearly 90 minutes in two versions: \"dark\" and \"bright\".",
         "Gabriel expresses enthusiasm about AI's potential to create great music, envisioning a future with cyborgs."
-      ]
-    },
-    {
-      "summary": "A daughter, after enduring a childhood of abuse, turned in her father who was a fugitive.",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/20/experience-discovered-dad-killer-on-the-run-turned-him-in",
-      "points": [
-        "Father's rage was triggered by minor issues, like too much ice in his drink.",
-        "Father once broke a plate over the mother\u2019s head during a fit of anger.",
-        "Family frequently moved due to parents managing apartments in the US."
-      ]
-    },
-    {
-      "summary": "UK campaigners call for changes to consent laws following allegations against David Walliams, aiming to protect teens from predatory adults.",
-      "url": "https://www.theguardian.com/society/2026/nov/20/i-was-drinking-at-15-going-to-parties-being-groomed-and-abused-the-grim-reality-of-age-gap-relationships",
-      "points": [
-        "Claire Waxman, victims\u2019 commissioner for England and Wales, calls for legislative change discussions.",
-        "Close the Consent Gap proposes illegalizing age gaps over three years if anyone is under 18.",
-        "Campaigners highlight relationships starting through positions of power, affecting individuals from the 60s to the 00s."
-      ]
-    },
-    {
-      "summary": "Kellie Sloane suggests NSW Liberal exodus nearing end post Mark Speakman's resignation.",
-      "significance": "The story indicates potential stability in NSW Liberal Party ahead of the March election, following the resignations of eight MPs, including Mark Speakman.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-      "points": [
-        "Mark Speakman, NSW Liberal MP, won't recontest his seat of Cronulla.",
-        "Speakman is the eighth out of 24 Liberal MPs to not seek re-election by March.",
-        "Kellie Sloane, opposition leader, believes the party's resignations are likely over."
-      ]
-    },
-    {
-      "summary": "Former police officer Beau Lamarre-Condon pleads not guilty to murdering Jesse Baird and Luke Davies in Sydney.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/20/beau-lamarre-condons-attempts-to-explain-disposal-alleged-victims-bodies-ring-hollow-court-hears-ntwnfb",
-      "points": [
-        "Lamarre-Condon used his police service weapon to fatally shoot the victims.",
-        "The murders took place in Baird\u2019s Paddington home on February 19, 2024.",
-        "Court hears Lamarre-Condon\u2019s explanations for disposing of the bodies are not credible."
-      ]
-    },
-    {
-      "summary": "NextDC promises to avoid building new datacenters near residential areas following protests in Melbourne.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
-      "points": [
-        "NextDC's share price dropped 40% due to community backlash.",
-        "Company will no longer pursue developments close to homes.",
-        "Protest led Jemena to pause construction of 22-metre power poles."
-      ]
-    },
-    {
-      "summary": "GIMP introduces UI tests to ensure interface functionality remains intact with updates.",
-      "significance": "GIMP's new UI tests automatically check interface functionality, enhancing reliability and accessibility without needing a visible screen.",
-      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
-      "points": [
-        "Tests run automatically upon merging contributor changes, checking the entire program.",
-        "UI tests simulate user interactions like clicks and drags, ensuring features like the Welcome dialog and tool selection work.",
-        "Currently, tests are only operational on Linux (X11 and Wayland)."
       ]
     }
   ]
