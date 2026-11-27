@@ -1,6 +1,54 @@
 {
-  "generated": "2026-11-27T19:41:33.170469Z",
+  "generated": "2026-11-27T21:42:19.622650Z",
   "summaries": [
+    {
+      "summary": "Venezuela will repeal a law that bans opposition figures from holding office.",
+      "significance": "Venezuela's repeal of the law banning opposition figures from office opens political participation and could pave the way for more inclusive elections.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+      "points": [
+        "National Assembly Chief Jorge Rodriguez announced the repeal of the 2024 law.",
+        "The law targeted those who promoted or supported sanctions against Venezuela.",
+        "Opposition leader Maria Corina Machado launched neighborhood assemblies to gather proposals for future governance."
+      ]
+    },
+    {
+      "summary": "A petition signed by nearly 290,000 Canadians calls for US ambassador Pete Hoekstra to be declared 'persona non grata'.",
+      "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+      "points": [
+        "Petition presented to the House of Commons on Thursday.",
+        "Elizabeth May, a Canadian Green party member, opened the petition in July 2026.",
+        "Petition cites Hoekstra\u2019s \"US diplomatic interference\" in Canadian domestic affairs."
+      ]
+    },
+    {
+      "summary": "Amanda Thorpe, widow of former England cricketer Graham Thorpe, initiates legal action against an NHS trust following her husband's suicide.",
+      "significance": "The legal action follows an inquest that identified failings in Thorpe's mental health care, potentially setting a precedent for accountability in NHS mental health services.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/graham-thorpe-widow-legal-action-against-nhs-trust-after-inquest",
+      "points": [
+        "Graham Thorpe, 55, died in August 2024 in Surrey.",
+        "Legal proceedings target Surrey and Borders Partnership NHS foundation trust.",
+        "Inquest found \"failings\" in Thorpe's mental health care."
+      ]
+    },
+    {
+      "summary": "ICANN has started publishing objections to Automattic's application for the.php TLD on their site, citing issues like domain squatting and security risks.",
+      "significance": "Objections to.php TLD application highlight risks of domain squatting and potential harm to open-source ecosystems.",
+      "url": "https://pub.roddie.digital/3n3aavxi6hc2g",
+      "points": [
+        "Larry Garfield, a PHP developer, accuses Automattic of \"Inappropriate Squatting\" over the.php TLD.",
+        "Jamie VanRaalte, a WordPress contributor, argues that Automattic's application is part of a pattern of claiming open-source projects.",
+        "Ryan Maietta, a web developer, highlights the risk of confusion and security issues due to.php already being a common file extension."
+      ]
+    },
+    {
+      "summary": "GPT-6.2 Astra, an AI model, autonomously solved a historical mystery by identifying the creator of an anonymous 1808 sketchbook.",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "points": [
+        "GPT-6.2 Astra identified the creator of an anonymous 1808 sketchbook held at Yale University\u2019s Beinecke Library in just 22 minutes.",
+        "The AI model used publicly available sources and discovered a previously unknown paper archive to support its hypothesis.",
+        "GPT-6.2 Astra\u2019s capabilities extend to tasks like verifying and correcting an 8,002-row CSV transcription of a historical ledger."
+      ]
+    },
     {
       "summary": "Ukraine proposes a Black Sea ceasefire to protect grain exports amid attacks on shipping and port infrastructure.",
       "significance": "Ukraine's proposal for a Black Sea ceasefire aims to protect grain exports, addressing international concerns over shipping security and global food supplies disrupted by the conflict.",
@@ -3697,52 +3745,6 @@
         "Site offers streaming of NIN live recordings from 1988-2026.",
         "Users can log in with Discord to save and organize favorite recordings.",
         "Recent additions include uncirculated DAT recordings from various shows."
-      ]
-    },
-    {
-      "summary": "Review criticizes Melania Trump's TV documentary as a poor attempt at entertainment, despite its hefty budget.",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/20/melania-review-tv-documentary-prime",
-      "points": [
-        "Amazon spent $75m (£57m) to produce and market the documentary.",
-        "The film barely masqueraded as entertainment, failing to engage viewers.",
-        "Only journalists and paid participants reportedly watched the theatrical release."
-      ]
-    },
-    {
-      "summary": "JP Morgan's CEO Jamie Dimon vows to offset UK's increased bank tax, calling it unfair.",
-      "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-      "points": [
-        "Dimon aims to counteract Labour\u2019s rise of bank surcharge from 3% to 6%.",
-        "He claims to be setting an example to highlight the trade-offs of such penalties.",
-        "The statement was made during an event in London on Thursday."
-      ]
-    },
-    {
-      "summary": "Inkling 2 Mini, a new AI model, is released with improved reasoning capabilities and efficiency, making it suitable for running on local devices like laptops.",
-      "significance": "Inkling 2 Mini offers enhanced reasoning capabilities and faster performance, setting new benchmarks for models under 100B parameters, and is deployable on consumer laptops.",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "points": [
-        "Inkling 2 Mini leads in benchmarks like DeepSWE v1.1 (48.2%) and Vals Index v2.2 (46.5%) among models with less than 100B parameters.",
-        "The model has a total of 26.4B parameters, with 3.4B active, and can run with a memory footprint of ~20GB.",
-        "Inkling 2 Mini scored 0.703 on intelligence per joule on NVIDIA DGX Spark, outperforming Qwen3.6-35B-A3B (0.430) and Gemma-4-26B-A4B (0.159)."
-      ]
-    },
-    {
-      "summary": "Developers were promoted to architects without being informed, leading to performance issues in their software.",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "points": [
-        "Developers promoted to architects without notification.",
-        "Logging user emails caused 15-second welcome screen delay due to API calls.",
-        "AI coding tools prioritize security over performance, requiring human oversight."
-      ]
-    },
-    {
-      "summary": "jj-musubi is a new tool for Jujutsu that enables live synchronization across multiple machines.",
-      "url": "https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
-      "points": [
-        "jj-musubi syncs changes instantly across all machines, eliminating the need to remember which device was used for editing.",
-        "The tool is designed for individual users working across several machines and lacks security features.",
-        "jj-musubi supports temporary VMs by allowing repos to be forgotten if a lease isn't renewed, preventing clutter."
       ]
     }
   ]
