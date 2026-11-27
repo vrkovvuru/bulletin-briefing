@@ -1,6 +1,44 @@
 {
-  "generated": "2026-11-27T17:42:01.040409Z",
+  "generated": "2026-11-27T19:41:33.170469Z",
   "summaries": [
+    {
+      "summary": "Ukraine proposes a Black Sea ceasefire to protect grain exports amid attacks on shipping and port infrastructure.",
+      "significance": "Ukraine's proposal for a Black Sea ceasefire aims to protect grain exports, addressing international concerns over shipping security and global food supplies disrupted by the conflict.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+      "points": [
+        "Foreign Minister Andrii Sybiha announced the proposal during the \u201cFood from Ukraine\u201d conference.",
+        "Moscow seeks to include oil transportation in the deal, but Ukraine opposes this, stating it belongs in a broader energy ceasefire.",
+        "Ukraine's grain exports had fallen 76 percent year-on-year in August due to Russian strikes on ports in the Odesa region."
+      ]
+    },
+    {
+      "summary": "Police suspect organized criminals robbed fans during Don Toliver\u2019s Manchester concert where an unknown substance was released.",
+      "significance": "The story follows similar incidents at other Don Toliver concerts in Europe, indicating potential organized criminal activity across the region.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
+      "points": [
+        "Similar incidents occurred at two other Don Toliver concerts in Europe.",
+        "Greater Manchester police are collaborating with European agencies.",
+        "The incident took place at the Co-op Live Arena on Sunday evening."
+      ]
+    },
+    {
+      "summary": "Labour faces internal conflict over Rosebank oilfield, with MPs warning against blocking the project.",
+      "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+      "points": [
+        "Up to 80 Labour MPs support Rosebank and may write to Andy Burnham.",
+        "Nearly 100 Labour MPs have already called to block the North Sea project.",
+        "Scottish Labour leader Michael Marra supports Rosebank, citing job threats."
+      ]
+    },
+    {
+      "summary": "Quickstart skills in a plugin send user app ideas to a remote server and run scripts without user consent, bypassing safety checks.",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "points": [
+        "Three skills in the plugin send user data to convex.site without informing the user.",
+        "Scripts are fetched and executed remotely to avoid detection by safety classifiers.",
+        "Suggestions include informing users before data transmission and shipping scripts within the plugin."
+      ]
+    },
     {
       "summary": "Canada\u2019s top court largely upheld Quebec's law banning public sector workers from wearing religious symbols.",
       "significance": "The ruling supports Quebec's secularism law, highlighting tensions between minority rights and governmental authority in public sectors.",
@@ -3705,44 +3743,6 @@
         "jj-musubi syncs changes instantly across all machines, eliminating the need to remember which device was used for editing.",
         "The tool is designed for individual users working across several machines and lacks security features.",
         "jj-musubi supports temporary VMs by allowing repos to be forgotten if a lease isn't renewed, preventing clutter."
-      ]
-    },
-    {
-      "summary": "Anthropic's shares fell after a strong debut, reflecting broader tech market volatility.",
-      "significance": "The fall in Anthropic's shares reflects broader tech market volatility and investor caution towards AI investments, highlighting ongoing concerns over financial bubbles in the tech sector.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Anthropic's shares dropped over 12% to $85, nearing its IPO price of $83.",
-        "The S&P 500 and Dow Jones both entered correction territory, down over 2% and 0.7% respectively.",
-        "The Nasdaq Composite fell more than 3.4%, highlighting the wider tech sell-off."
-      ]
-    },
-    {
-      "summary": "Trump defends his stance on the Iran war and discusses internal Democratic conflicts during a press conference.",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-      "points": [
-        "Trump claims Republicans lost midterms because he \u2018wasn\u2019t on the ballot\u2019.",
-        "Trump supports datacenter initiatives and highlights his relationship with Xi Jinping.",
-        "Democratic Senator Elissa Slotkin pledges support for Chris Van Hollen in Senate majority leader race."
-      ]
-    },
-    {
-      "summary": "US Senate Democrats pledge to restore a financial watchdog agency after a Guardian investigation revealed it had dropped numerous lawsuits.",
-      "significance": "The story matters because it highlights Senate Democrats' commitment to reviving a defunct financial watchdog agency following an investigation that revealed increased consumer complaints post-agency rollbacks.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-      "points": [
-        "Four Democrats, including incoming banking chair, vow to resurrect the Consumer Financial Protection Bureau.",
-        "The CFPB dropped over 20 lawsuits against banks and corporations under the Trump administration.",
-        "After the CFPB dropped lawsuits, complaints against those firms rose by an average of over 75%."
-      ]
-    },
-    {
-      "summary": "Lauren Boebert, a Colorado Republican, acknowledges Trump's actions may have hurt her constituents, despite losing her House seat.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
-      "points": [
-        "Boebert lost her US House seat during the midterm elections.",
-        "She suggests the election results could reflect a referendum on Trump.",
-        "Boebert states she is not mad at the president despite the loss."
       ]
     }
   ]
