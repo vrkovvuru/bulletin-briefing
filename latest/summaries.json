@@ -1,6 +1,26 @@
 {
-  "generated": "2026-11-27T01:41:42.637541Z",
+  "generated": "2026-11-27T03:41:01.359220Z",
   "summaries": [
+    {
+      "summary": "New Zealand's incumbent prime minister needs a minor party's support to govern after losing majority in the election.",
+      "significance": "New Zealand's ruling coalition requires support from a minor party to govern, avoiding another election.",
+      "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+      "points": [
+        "Christopher Luxon's rightwing coalition lacks majority, needing Opportunity party's support.",
+        "Preliminary results on 7 November showed a slim two-seat majority initially.",
+        "Without support, New Zealand faces the possibility of another election."
+      ]
+    },
+    {
+      "summary": "Hard drive prices have significantly increased, making annual replacements less feasible.",
+      "significance": "Hard drive pricing increases affect self-hosters and data storage strategies, making alternative solutions like shucking or reducing drive numbers necessary.",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "points": [
+        "Prices for the same hard drive model increased by $300 in two years.",
+        "In 2024, four recertified 14TB Ultrastars cost $12.50/TB; now, prices are $27.50/TB.",
+        "The HDD market is dominated by three companies: Seagate, Western Digital, and Toshiba."
+      ]
+    },
     {
       "summary": "Ukraine's capital faces daily electricity and water shortages due to the war with Russia.",
       "significance": "The story highlights the daily struggles of Ukrainian residents, showcasing the widespread impact of the war on basic services like electricity and water.",
@@ -3719,25 +3739,6 @@
         "Oxygene spent 24 weeks in the UK album charts and reached top 10 in seven countries.",
         "The album consisted of six entirely instrumental tracks, using synthesizers like the VCS3 and ARP 2600.",
         "Recorded in a home studio with limited equipment, including an eight-track Scully recorder."
-      ]
-    },
-    {
-      "summary": "The final talk at Kangrejos 2026 discussed the removal of the C implementation of Binder, a critical Android component, in favor of a Rust version.",
-      "url": "https://lwn.net/Articles/1102982/",
-      "points": [
-        "Binder, added to the kernel in 2008, handles interprocess communication on Android devices and has been a significant security vulnerability.",
-        "The Rust version of Binder was developed over five years and is now faster than the C version, with fewer vulnerabilities.",
-        "The C implementation was removed, with Android 7.3 designated as the version past which the Rust implementation is required."
-      ]
-    },
-    {
-      "summary": "Peter Gabriel discusses his new album, musical collaboration with a bonobo, and views on AI in music.",
-      "significance": "Peter Gabriel explores the intersection of technology and music, suggesting AI's potential in music creation, influenced by his innovative and experimental career.",
-      "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
-      "points": [
-        "Gabriel played a musical duet with a bonobo named Kanzi using a speech-synthesis keyboard.",
-        "The new album, o\\i, features 13 tracks lasting nearly 90 minutes in two versions: \"dark\" and \"bright\".",
-        "Gabriel expresses enthusiasm about AI's potential to create great music, envisioning a future with cyborgs."
       ]
     }
   ]

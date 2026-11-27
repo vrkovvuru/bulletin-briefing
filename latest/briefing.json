@@ -2,39 +2,30 @@
   "date": "2026-11-26",
   "stories": [
     {
-      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-      "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+      "title": "Spain and Morocco under-17 stars target World Cup 2030",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "France&#039;s cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+      "summary": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
       "alsoReportedBy": []
     },
     {
-      "title": "Inside Ukraine’s power crisis amid its war with Russia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
+      "summary": "Trump says he urged Putin to &#039;pull back&#039; military aggression in Europe amid escalating Russian and Ukrainian attacks.",
       "alsoReportedBy": []
     },
     {
-      "title": "America’s Thanksgiving holiday seen through different eyes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
+      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
       "source": "Al Jazeera",
       "category": "top",
       "categoryLabel": "Top Stories",
-      "summary": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "summary": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil&#039;.",
       "alsoReportedBy": []
     },
     {
@@ -56,6 +47,24 @@
       "alsoReportedBy": []
     },
     {
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+      "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+      "source": "The Guardian",
+      "category": "top",
+      "categoryLabel": "Top Stories",
+      "summary": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election The final results of New Zealand’s general election show the incumbent rightwing coalition will need the support of a centrist newcomer party to form a government, and to avoid sending the country back to the polls. Preliminary results on 7 November handed the National party and its two coalition partners, the populist New Zealand First and libertarian Act parties, a slim two-seat majority, making the election too close to call until final votes were tallied. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
       "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
       "url": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
       "source": "NPR",
@@ -63,15 +72,6 @@
       "categoryLabel": "Top Stories",
       "summary": "Extreme weather that has unleashed strong winds, high tides, heavy rain and floods is expected to impact travel plans of an estimated 81.5 million people as they travel across the United States.",
       "alsoReportedBy": ["The Guardian"]
-    },
-    {
-      "title": "Threat from China looms large over Taiwan’s local elections",
-      "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
-      "source": "The Guardian",
-      "category": "top",
-      "categoryLabel": "Top Stories",
-      "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage. Saturday’s vote will choose mayors, council members and other local leaders across 22 districts. Unlike the presidential elections, in which foreign policy is often a key issue, the local elections, held every four years , are largely focused on bread-and-butter issues such as housing affordability and wealth distribution. Continue reading...",
-      "alsoReportedBy": []
     },
     {
       "title": "Nathan Fielder v Elizabeth Holmes: You Can See Everything (Spoilers) | The Close Up",
@@ -92,12 +92,21 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of crews to be investigated",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
-      "source": "Guardian World",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Aborted descent on Wednesday morning is latest in a series of landing incidents at Sydney airport Get our breaking news email , free app or daily news podcast The Australian Transport Safety Bureau is investigating flight crews’ “mental models” after a Qantas plane aborted its landing at Sydney airport on Wednesday after noticing another aircraft crossing the runway while on its descent. The ATSB said Qantas flight 426 from Melbourne was due to land just before 10.15am on Wednesday, with the Boeing 737 jet told to expect a late landing clearance due to aircraft crossing the runway. Continue reading...",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
       "alsoReportedBy": []
     },
     {
@@ -107,6 +116,24 @@
       "category": "world",
       "categoryLabel": "World",
       "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+      "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said. The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 21 people and left more than two dozen cars and motorcycles charred, according to the latest figures released by the health ministry. Continue reading...",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of crews to be investigated",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
+      "source": "Guardian World",
+      "category": "world",
+      "categoryLabel": "World",
+      "summary": "Aborted descent on Wednesday morning is latest in a series of landing incidents at Sydney airport Get our breaking news email , free app or daily news podcast The Australian Transport Safety Bureau is investigating flight crews’ “mental models” after a Qantas plane aborted its landing at Sydney airport on Wednesday after noticing another aircraft crossing the runway while on its descent. The ATSB said Qantas flight 426 from Melbourne was due to land just before 10.15am on Wednesday, with the Boeing 737 jet told to expect a late landing clearance due to aircraft crossing the runway. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -128,21 +155,12 @@
       "alsoReportedBy": []
     },
     {
-      "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
-      "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+      "url": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
       "source": "Guardian World",
       "category": "world",
       "categoryLabel": "World",
-      "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said. The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 21 people and left more than two dozen cars and motorcycles charred, according to the latest figures released by the health ministry. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-      "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "summary": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park A Swiss tourist has been killed and British and American tourists have been injured when a group of hikers encountered a herd of elephants in Cameroon. The group of six tourists, four British, one Swiss and one American, accompanied by local guides, were hiking near the village of Bakingili in the south of the Mount Cameroon national park on 19 November, on a path used by elephants to access a nearby lake, when they encountered the herd of about 15 animals, according to media reports. Continue reading...",
       "alsoReportedBy": []
     },
     {
@@ -164,27 +182,27 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
-      "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather Get our breaking news email , free app or daily news podcast Large parts of southern and central Australia face elevated fire risk this summer, authorities say, while heatwaves and extreme temperatures are likely nationwide. Most of Victoria, eastern Tasmania and large parts of South Australia, Western Australia, New South Wales and the Northern Territory face heightened bushfire risk – driven by high fuel loads, low soil moisture and forecast hot and dry conditions – according to the seasonal outlook from the Australian and New Zealand Council for Fire and Emergency Services (AFAC), released on Friday. Continue reading...",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
-      "url": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
-      "source": "Guardian World",
-      "category": "world",
-      "categoryLabel": "World",
-      "summary": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park A Swiss tourist has been killed and British and American tourists have been injured when a group of hikers encountered a herd of elephants in Cameroon. The group of six tourists, four British, one Swiss and one American, accompanied by local guides, were hiking near the village of Bakingili in the south of the Mount Cameroon national park on 19 November, on a path used by elephants to access a nearby lake, when they encountered the herd of about 15 animals, according to media reports. Continue reading...",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
       "alsoReportedBy": []
     },
     {
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
       "source": "Hacker News",
+      "category": "engineering",
+      "categoryLabel": "Engineering",
+      "summary": "",
+      "alsoReportedBy": []
+    },
+    {
+      "title": "Taking Email Back",
+      "url": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -200,26 +218,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "Garage v2.6.0 released with web admin, v1.x EoL & other news",
-      "url": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
       "title": "Slow Ubuntu security response times",
       "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "source": "Lobsters",
-      "category": "engineering",
-      "categoryLabel": "Engineering",
-      "summary": "",
-      "alsoReportedBy": []
-    },
-    {
-      "title": "Taking Email Back",
-      "url": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
       "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
@@ -236,9 +236,9 @@
       "alsoReportedBy": []
     },
     {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "source": "Hacker News",
+      "title": "Garage v2.6.0 released with web admin, v1.x EoL & other news",
+      "url": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
+      "source": "Lobsters",
       "category": "engineering",
       "categoryLabel": "Engineering",
       "summary": "",
@@ -263,8 +263,8 @@
       "alsoReportedBy": []
     },
     {
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
       "source": "Hacker News",
       "category": "engineering",
       "categoryLabel": "Engineering",
