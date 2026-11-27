@@ -1,6 +1,53 @@
 {
-  "generated": "2026-11-27T21:42:19.622650Z",
+  "generated": "2026-11-27T23:41:29.628187Z",
   "summaries": [
+    {
+      "summary": "Bernie Sanders argues that extreme wealth concentration is the major problem of our time, threatening democracies globally.",
+      "significance": "The article highlights that extreme wealth concentration threatens democracies, according to a global summit.",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time",
+      "points": [
+        "Summit Against International Oligarchy held in Paris with four Nobel prize winners.",
+        "Proclamation states billionaires are a threat to democracies worldwide.",
+        "Sanders, longest-serving independent in Congress, represents Vermont."
+      ]
+    },
+    {
+      "summary": "Amelia Dimoldenberg's final Chicken Shop Date episode, featuring Esther Perel, screens in cinemas before its YouTube release.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/27/chicken-shop-dates-final-episode",
+      "points": [
+        "Episode marks the end of a 12-year run for the YouTube show.",
+        "Final episode features relationship guru Esther Perel as the guest.",
+        "Unusual for a YouTube show, the finale screens in cinemas first."
+      ]
+    },
+    {
+      "summary": "England's Labour proposes mandatory daily reading time for pleasure in primary schools.",
+      "significance": "The proposed reforms aim to enhance literacy and foster a love for reading among students by mandating daily reading time in primary schools.",
+      "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+      "points": [
+        "Lucy Powell expected to announce reforms to parliament on Monday.",
+        "Proposed measures part of broader national curriculum reforms.",
+        "Primary schools must allocate daily time for children to read for pleasure."
+      ]
+    },
+    {
+      "summary": "Princess of Wales documentary captures Catherine's Three Peaks challenge post-chemotherapy.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
+      "points": [
+        "Documentary titled \"Heal\" follows Catherine's journey post-cancer treatment.",
+        "Catherine treks Ben Nevis, Scafell Pike, and Yr Wyddfa within 24 hours.",
+        "Weather during the challenge included rain, hill fog, and June sunshine."
+      ]
+    },
+    {
+      "summary": "9/UX introduces a Macintosh-inspired desktop for the 9front operating system, featuring a global menu bar and spatial desktop.",
+      "url": "https://progrium.github.io/9ux/",
+      "points": [
+        "9/UX runs on a 386 emulator inside the browser, requiring recent Chrome or Edge.",
+        "It includes a global menu bar, spatial folder windows, and integrates with existing rio programs.",
+        "The system uses 9P to expose UI state and commands as files, ensuring compatibility with legacy applications."
+      ]
+    },
     {
       "summary": "Venezuela will repeal a law that bans opposition figures from holding office.",
       "significance": "Venezuela's repeal of the law banning opposition figures from office opens political participation and could pave the way for more inclusive elections.",
@@ -3695,56 +3742,6 @@
         "Jonathan Rinderknecht, 30, accused of starting the Palisades fire.",
         "First trial ended in a hung jury; new trial resulted in guilty verdict.",
         "Prosecutors presented their case to a new jury for two weeks."
-      ]
-    },
-    {
-      "summary": "Two independent proofs of the Riemann Hypothesis were claimed, one by a human and one with AI assistance.",
-      "significance": "The independent proofs of the Riemann Hypothesis highlight the contrasting approaches between human and AI in solving complex mathematical problems.",
-      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-      "points": [
-        "Mathematician Levent Alpöge, with AI Claude, released a Lean code proof (~250,000 page equivalent).",
-        "Alessandro Masullo announced a separate, human-only proof, a 940-page draft.",
-        "Elliot Glazer confirms the Lean code formalizes GRH, with a Lean bug chance <<1%."
-      ]
-    },
-    {
-      "summary": "Philippe Parreno's art exhibit in Sydney's Museum of Contemporary Art uses real-time data from a Spanish farm.",
-      "significance": "The story highlights how contemporary art integrates real-time data, transforming static exhibitions into dynamic, unpredictable experiences influenced by external environments.",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/21/in-a-sydney-gallery-philippe-parrenos-art-is-powered-by-a-desert-17000km-away",
-      "points": [
-        "Art installation features flickering lights, industrial fan, and sounds of nature.",
-        "Exhibit influenced by data from a farm 17,000km away in Spain.",
-        "First major Australian show by French artist Philippe Parreno."
-      ]
-    },
-    {
-      "summary": "Victorian Greens seek injunction to stop independent candidate's how-to-vote cards that mimic their branding and preference them last.",
-      "significance": "The story matters because it highlights electoral misconduct allegations that could impact voting patterns and election integrity in Victoria.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-      "points": [
-        "Victorian Greens want supreme court to issue urgent injunction.",
-        "Independent candidate Tosh-Jake Finnigan's cards use Greens' branding.",
-        "Cards instruct voters to preference Greens last, benefiting the Liberal party."
-      ]
-    },
-    {
-      "summary": "NSW government passes law to increase Mount Pleasant coalmine production by 32% before state election.",
-      "significance": "The law affects coal workers' jobs and political dynamics in New South Wales, facing criticism as politically motivated.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
-      "points": [
-        "Law allows Mount Pleasant mine to extract 16.5MT annually until 2032.",
-        "Legislation passed at 1.36am after marathon session in parliament.",
-        "Move seen as addressing worker concerns but criticized as politically motivated."
-      ]
-    },
-    {
-      "summary": "Nine Inch Nails live archive site now offers streaming of recordings from 1988-2026.",
-      "significance": "The story matters as it provides fans unprecedented access to Nine Inch Nails live recordings through streaming, enhancing the archive's value and user experience.",
-      "url": "https://ninlive.com/",
-      "points": [
-        "Site offers streaming of NIN live recordings from 1988-2026.",
-        "Users can log in with Discord to save and organize favorite recordings.",
-        "Recent additions include uncirculated DAT recordings from various shows."
       ]
     }
   ]
