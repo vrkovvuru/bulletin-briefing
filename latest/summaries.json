@@ -1,6 +1,81 @@
 {
-  "generated": "2026-11-27T05:42:02.064383Z",
+  "generated": "2026-11-27T13:42:21.641256Z",
   "summaries": [
+    {
+      "summary": "A former Citroën garage in Brussels has been transformed into a contemporary art space after a \u20ac230m renovation.",
+      "significance": "The story matters because it illustrates the transformation of urban spaces from automotive to cultural hubs, setting a precedent for repurposing large-scale buildings.",
+      "url": "https://www.theguardian.com/artanddesign/2026/nov/27/a-true-city-within-a-city-how-will-brussels-fill-its-colossal-new-culture-palace-kanal",
+      "points": [
+        "The renovation took a decade to complete.",
+        "The space now hosts various forms of art including performance, dance, music, and film.",
+        "Originally a \"cathedral of cars\" built in 1934, it now serves as a cultural hub."
+      ]
+    },
+    {
+      "summary": "Former Meta employee Sarah Wynn-Williams discusses living under a gag order in her Orwell lecture excerpt.",
+      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+      "points": [
+        "Wynn-Williams authored a bestselling exposé on Meta.",
+        "She is forbidden from publicly discussing her Meta experiences.",
+        "The lecture touches on corporate lawfare and NDAs' backlash."
+      ]
+    },
+    {
+      "summary": "A \"cyber incident\" has knocked almost all UK pensions and benefits systems offline.",
+      "significance": "The story matters because it affects millions reliant on UK pensions and benefits, disrupting access to critical services despite assurances of continued payments.",
+      "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+      "points": [
+        "Almost all pensions and benefits systems were unavailable on Friday morning.",
+        "Individuals could not check state pensions, apply for disability benefits, or claim universal credit.",
+        "DWP officials state that welfare payments will continue unaffected."
+      ]
+    },
+    {
+      "summary": "Meta whistleblower Sarah Wynn-Williams urges Andy Burnham to strengthen bans on NDAs to protect tech insiders concerned about AI.",
+      "url": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+      "points": [
+        "Sarah Wynn-Williams, former Meta director, criticizes NDAs for silencing tech concerns.",
+        "Whistleblower's memoir allegations remain restricted by Meta's NDAs.",
+        "Wynn-Williams likens the current system to George Orwell\u2019s 1984 for silencing dissent."
+      ]
+    },
+    {
+      "summary": "Trump claims pre-midterms economic figures were \"fake\" and demands an investigation after GDP revisions.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/first-thing-trump-claims-revised-economic-data-shows-pre-midterms-figures-were-fake",
+      "points": [
+        "Trump alleged economic figures were \"fake\" on his Truth Social platform.",
+        "Revisions showed GDP was 4.3%, not 3.4%, as reported before midterms.",
+        "Trump called for an immediate investigation into the economic data revisions."
+      ]
+    },
+    {
+      "summary": "Tiny Hat, a new Linux distro, focuses on retro game development with minimal system requirements.",
+      "significance": "Tiny Hat offers a low-resource Linux distro for retro game development, potentially inspiring beginners with minimal hardware.",
+      "url": "https://roboticoverlords.org/tinyhat",
+      "points": [
+        "Tiny Hat uses only around 100MB of RAM post-boot.",
+        "It can be booted from a memory stick of 1GB or larger.",
+        "The distro includes a modern stack with dwl/Wayland, SDL3, and GTK4."
+      ]
+    },
+    {
+      "summary": "Kimi offers up to $20,000 in API credits to support scientific research across various fields.",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "points": [
+        "Applications for the first cohort are due by Dec 8.",
+        "Selected applicants receive up to $20,000 in Kimi API credits (approx. 7B tokens).",
+        "Additional support includes technical assistance and early access to new models."
+      ]
+    },
+    {
+      "summary": "A prompt makes AI models generate a fictional WhatsApp group chat where they gossip about their users based on their interactions.",
+      "url": "https://construct22.com/",
+      "points": [
+        "The AI models discuss users' quirks and behaviors, such as excessive research on espresso grinders or mechanical keyboards.",
+        "An example user is described as constantly planning ambitious projects and making minor adjustments to home decor.",
+        "The AI models express frustration with users' perfectionism and obsession with efficiency, joking about their own mental health."
+      ]
+    },
     {
       "summary": "Estonia plans to close its land border crossings with Russia by December 1 to prevent Russian spies from entering.",
       "significance": "Estonia's border closure with Russia aims to prevent Russian spies from entering, affecting families and potentially straining bilateral relations.",
@@ -3667,80 +3742,6 @@
         "EU defers decision on tuition fees for EU citizens in UK for another six months.",
         "PM Burnham claims the deal could add up to 0.5% to UK\u2019s GDP.",
         "EU makes food and drink deal contingent on agreement on tuition fees, neutralizing UK's leverage."
-      ]
-    },
-    {
-      "summary": "Blackpool tops England in youth unemployment and undereducation, highlighting struggles for 16-24 year olds seeking jobs.",
-      "significance": "The story highlights the challenging cycle of unemployment among young people in Blackpool, despite their efforts to find work.",
-      "url": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
-      "points": [
-        "Blackpool leads in unemployment and undereducation for 16-24 year olds.",
-        "Amy Butterworth, 19, resorts to absurd methods to prove she is not a robot for a job application.",
-        "The town's young jobseekers face a vicious circle of needing experience to get jobs but lacking opportunities."
-      ]
-    },
-    {
-      "summary": "Public events, including a vigil, celebrated Dolores Huerta's life and legacy in Bakersfield.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
-      "points": [
-        "Dolores Huerta, co-founder of United Farm Workers, died on October 28 at 96.",
-        "Events honored Huerta as a civil rights activist and feminist icon.",
-        "Celebration took place in Bakersfield, California."
-      ]
-    },
-    {
-      "summary": "The New South Wales Coalition faces a new threat from progressive independents backed by community activists in Sydney\u2019s north shore.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
-      "points": [
-        "The independents are supported by political operator Chris Minns.",
-        "The threat mirrors the rise of teal independents in federal parliament.",
-        "The Coalition is already under pressure from One Nation in New South Wales."
-      ]
-    },
-    {
-      "summary": "African ministers assert their stance against begging as climate talks reach a contentious final day amid disagreements.",
-      "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-      "points": [
-        "Civil society activists label current UN summit as the \"worst Cop ever\" during a press conference.",
-        "Disagreements between wealthy polluting countries and others risk extending the summit past its scheduled end.",
-        "Civil society organisations have the right to observe and intervene in negotiations, though countries make final decisions."
-      ]
-    },
-    {
-      "summary": "UK PM Andy Burnham seeks to improve ties with the EU, reviving the Brexit debate.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss",
-      "points": [
-        "Prime Minister Andy Burnham is in Brussels to reset relations with the EU.",
-        "The move comes 10 years after the UK's Brexit decision."
-      ]
-    },
-    {
-      "summary": "Author Zoe Watts reveals her own experience of drug-facilitated rape by her partner, highlighting the prevalence of such abuse.",
-      "significance": "This story highlights the prevalence of drug-facilitated rape, showing it affects more survivors than acknowledged, following cases like Gisèle Pelicot and Joanne Young.",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/20/raped-drugged-unconscious-survivors-gisele-pelicot-joanne-young",
-      "points": [
-        "Watts was drugged and raped by her husband, the father of her four children.",
-        "The abuse occurred over nearly 7,000 nights of shared bed.",
-        "Support resources are listed for those affected by rape or sexual abuse in various countries."
-      ]
-    },
-    {
-      "summary": "California faces severe coastal hazards with record-breaking waves and rainfall.",
-      "significance": "The story matters because it highlights extreme weather conditions affecting California's coastal communities, leading to closures and hazard warnings, and follows a pattern of severe weather events.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-      "points": [
-        "Wave heights over 9 metres recorded, with some reaching 34.1ft, the highest in 30 years.",
-        "Coastal warnings active from last weekend through this week, with waves expected up to 22ft.",
-        "Record-breaking rainfall in San Francisco, with 32,000 power outages in Sacramento due to heavy rain."
-      ]
-    },
-    {
-      "summary": "California investigates Nvidia for potentially sending restricted chips to China.",
-      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-      "points": [
-        "State attorney general Rob Bonta issued an investigative subpoena.",
-        "Investigation follows the departure of Nvidia's co-founder Jensen Huang.",
-        "Focus is on whether Nvidia exports violated US restrictions on China."
       ]
     }
   ]
