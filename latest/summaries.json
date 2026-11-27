@@ -1,6 +1,63 @@
 {
-  "generated": "2026-11-27T15:42:44.675244Z",
+  "generated": "2026-11-27T17:42:01.040409Z",
   "summaries": [
+    {
+      "summary": "Canada\u2019s top court largely upheld Quebec's law banning public sector workers from wearing religious symbols.",
+      "significance": "The ruling supports Quebec's secularism law, highlighting tensions between minority rights and governmental authority in public sectors.",
+      "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+      "points": [
+        "6-1 ruling released on Friday morning.",
+        "Law, Bill 21, shields from most charter rights challenges.",
+        "Decision highlights tension between minority rights and government power."
+      ]
+    },
+    {
+      "summary": "A 20-year-old man from Newcastle was jailed for blackmailing young girls globally into self-harm and creating indecent images.",
+      "significance": "The story highlights the need for parental vigilance in monitoring children\u2019s online activities to prevent exploitation.",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/man-jailed-in-newcastle-for-blackmailing-vulnerable-girls-online",
+      "points": [
+        "Beau-jack Mensforth admitted to 17 offences including blackmail and distributing indecent photos.",
+        "Victims were coerced into harming themselves and their pets.",
+        "A senior police officer called for parents to monitor children\u2019s devices regularly."
+      ]
+    },
+    {
+      "summary": "Eastern US storms disrupted Thanksgiving travel with flooding, downed power lines, and trees, but recovery is underway.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+      "points": [
+        "Nearly a million customers lost power at the storm's peak.",
+        "Storms caused disruptions from New York to Virginia.",
+        "Coastal flooding was widespread, reported by Poweroutage.us."
+      ]
+    },
+    {
+      "summary": "Parents urged to vaccinate children against flu as hospital cases surge, with pharmacies administering jabs for the first time.",
+      "url": "https://www.theguardian.com/society/2026/nov/27/parents-urged-to-vaccinate-children-for-flu-as-hospital-cases-surge-in-england",
+      "points": [
+        "Over 6,000 pharmacies now offering flu vaccination appointments for children.",
+        "NHS aims to vaccinate thousands of children who missed school-administered jabs.",
+        "Bookings for vaccinations opened on Monday through the NHS app or website."
+      ]
+    },
+    {
+      "summary": "Credit card skimming scripts using WebRTC were discovered on several popular shopping sites before Black Friday, leading to swift removal actions.",
+      "significance": "This story highlights a new credit card skimming threat using WebRTC on popular shopping sites, affecting consumer data security during peak shopping periods.",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "points": [
+        "Scripts affected Lascana, Samsonite, American Tourister, Revolve, and FWRD, removed by November 25th.",
+        "The skimmer targeted mobile devices and could capture card details, user names, addresses, and contact information.",
+        "WebRTC technology was exploited to load the skimmer and exfiltrate stolen data, bypassing security monitoring."
+      ]
+    },
+    {
+      "summary": "Computer programs designed to check mathematical proofs have reported soundness bugs that could allow false statements to pass.",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "points": [
+        "Soundness bugs have been identified in proof-checking programs, potentially allowing false proofs to slip through.",
+        "HOL Light's proof-checking kernel is noted for its simplicity, consisting of only 400 lines of code.",
+        "User-interface vulnerabilities can also mislead users about what has been proven, though they are not included in the list of soundness bugs."
+      ]
+    },
     {
       "summary": "A music festival attendee recounts her experience of being struck by lightning while setting up a gazebo in heavy weather.",
       "significance": "The story highlights the personal experiences and physical effects of lightning strikes, affecting tens of thousands yearly, and emphasizes safety awareness.",
@@ -3686,63 +3743,6 @@
         "Boebert lost her US House seat during the midterm elections.",
         "She suggests the election results could reflect a referendum on Trump.",
         "Boebert states she is not mad at the president despite the loss."
-      ]
-    },
-    {
-      "summary": "Alessandro Masullo proposes a proof of the GRH, reviewed by Brian Conrad, to be released urgently.",
-      "significance": "The proposed proof of the GRH by Alessandro Masullo, vetted by Brian Conrad, could significantly advance algebraic geometry if validated.",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "points": [
-        "Brian Conrad has been reviewing Masullo's proof for months.",
-        "The proof is human-generated, with no AI involvement.",
-        "The draft is being released early, bypassing initial plans for further refinement at Stanford."
-      ]
-    },
-    {
-      "summary": "Researchers have generated proofs for the finite time blowup in unforced Euler and Navier-Stokes equations, and a potential proof for the Generalized Riemann Hypothesis, all with significant AI assistance.",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "points": [
-        "Levent Alpöge, Tristan Buckmaster, and Matei Coiculescu provided a human-readable proof for the finite time blowup in unforced incompressible Euler equations in three dimensions.",
-        "Alpöge and Buckmaster produced a proof for the finite time blowup in unforced incompressible Navier-Stokes equations in three dimensions, with a Lean formalization.",
-        "Levent Alpöge generated a Lean-only proof of the Generalized Riemann Hypothesis using an internal AI model, currently under verification."
-      ]
-    },
-    {
-      "summary": "Mathematician Alessandro Masullo's proposed proof of the Generalized Riemann Hypothesis is nearing public release after months of review.",
-      "significance": "A proposed proof of the Generalized Riemann Hypothesis by Alessandro Masullo, vetted by Brian Conrad, is set to be released, potentially impacting mathematics significantly.",
-      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-      "points": [
-        "Brian Conrad has provided extensive feedback on the proof over months.",
-        "Initial plan was to refine the proof at Stanford before a wider announcement.",
-        "Current draft will be released sooner than originally planned."
-      ]
-    },
-    {
-      "summary": "Joanne Young, who was drugged and raped by her husband and his associates, spoke out after her abusers were convicted.",
-      "significance": "The conviction of Young\u2019s abusers signals progress in justice system reforms, offering hope to future victims.",
-      "url": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
-      "points": [
-        "Young waived her anonymity to speak outside Winchester crown court.",
-        "Her abusers invited other men to assault her over years.",
-        "Years of reforms by prosecutors and police contributed to the convictions."
-      ]
-    },
-    {
-      "summary": "UK cybersecurity operation prevented a cyber-attack on supermarket fridges and freezers, similar to attacks that hit at least seven European countries.",
-      "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
-      "points": [
-        "Attack targeted supermarkets, warehouses, restaurants, petrol stations, and stadiums in the UK.",
-        "Similar attacks in Europe caused damage worth many millions of euros.",
-        "While many UK retailers are now protected, researchers warn that many more could still be vulnerable."
-      ]
-    },
-    {
-      "summary": "Police search for a missing teacher convicted of sexual relationships with pupils in the 1980s who skipped her sentencing.",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
-      "points": [
-        "Sally-Anne Bowen, 65, convicted of indecent assaults at a boys\u2019 school in the late 1980s.",
-        "Warrant issued for her arrest after she failed to appear at Harrow crown court.",
-        "Metropolitan police could not locate her at her Hemel Hempstead home."
       ]
     }
   ]
