@@ -1,6 +1,90 @@
 {
-  "generated": "2026-11-27T13:42:21.641256Z",
+  "generated": "2026-11-27T15:42:44.675244Z",
   "summaries": [
+    {
+      "summary": "A music festival attendee recounts her experience of being struck by lightning while setting up a gazebo in heavy weather.",
+      "significance": "The story highlights the personal experiences and physical effects of lightning strikes, affecting tens of thousands yearly, and emphasizes safety awareness.",
+      "url": "https://www.theguardian.com/science/2026/nov/28/what-happens-when-someone-is-hit-by-lightning",
+      "points": [
+        "Caitlin Thomas and her partner were setting up tents and a gazebo 270km north of Melbourne.",
+        "Lightning struck as heavy rain and strong winds hit the area suddenly.",
+        "Thomas describes a 'zap' sensation when the strike occurred."
+      ]
+    },
+    {
+      "summary": "A new Pride and Prejudice adaptation starring Emma Corrin and Jack Lowden is coming to Netflix.",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/27/tighten-your-corsets-pass-the-smelling-salts-its-the-greatest-period-dramas-ever-made",
+      "points": [
+        "Dolly Alderton is the writer behind the new Netflix version of Pride and Prejudice.",
+        "Emma Corrin plays Elizabeth Bennet in the new adaptation.",
+        "Jack Lowden stars as Mr Darcy, described as the \u201cfirst ginger Mr Darcy.\u201d"
+      ]
+    },
+    {
+      "summary": "Centrica's CEO seeks urgent talks with the UK government to secure the future of a major gas storage facility and save jobs.",
+      "significance": "Centrica's urgent talks with the government aim to secure the future of the Rough gas storage facility and protect jobs amid government's refusal of short-term support.",
+      "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+      "points": [
+        "Chris O\u2019Shea, Centrica CEO, communicated to 400 workers at the Rough facility.",
+        "Government previously rejected Centrica's request for short-term support.",
+        "Talks aimed at securing the Rough gas storage facility's future and preserving jobs."
+      ]
+    },
+    {
+      "summary": "Play about a 12-year-old ecojustice influencer and alien wins Shakespeare\u2019s Globe climate playwriting prize.",
+      "url": "https://www.theguardian.com/stage/2026/nov/27/play-12-year-old-ecojustice-influencer-wins-shakespeares-globe-prize",
+      "points": [
+        "Timothy X Atack wrote \"Tiny Alarms\" after workshops with children.",
+        "The play's protagonist, Tiny, is both a schoolgirl influencer and an alien.",
+        "It is the first winner of Shakespeare\u2019s Globe\u2019s new climate playwriting prize."
+      ]
+    },
+    {
+      "summary": "NIH releases three studies linking glyphosate to cancer, contradicting EPA's recent non-carcinogenic conclusion.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+      "points": [
+        "NIH findings challenge EPA's stance, pressuring a court-ordered re-evaluation.",
+        "Studies could lead to modest regulatory increase for glyphosate.",
+        "Research highlights potential influence of chemical companies on US agency decisions."
+      ]
+    },
+    {
+      "summary": "Rare Vallarta mud turtles were seized from a traveler's baggage at Amsterdam's Schiphol airport.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "26 endangered Vallarta mud turtles found wrapped in duct tape inside a suitcase.",
+        "Turtles, believed to be stolen from Mexico, were en route to Hong Kong.",
+        "In 2025, Turtle Island estimated no more than 300 Vallarta mud turtles exist in the wild."
+      ]
+    },
+    {
+      "summary": "Spanish election leaders debate housing crisis ahead of Sunday's vote, with Feijóo likely to replace Sánchez.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+      "points": [
+        "Alberto Núñez Feijóo promises to build a million new homes.",
+        "Vox, projected to win third place, advocates prioritizing Spaniards for social housing.",
+        "Valencia has seen a 78% increase in rent prices between 2020 and 2025."
+      ]
+    },
+    {
+      "summary": "Experts criticize Jess Wilson's plan to lease Melbourne's sewage treatment plants, arguing it risks water resources and wetlands.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands",
+      "points": [
+        "Plan involves a 90-year lease of Eastern and Western treatment plants.",
+        "Experts label the proposal as a \"smoke and mirrors\" approach to debt reduction.",
+        "Treatment plants process the majority of Melbourne\u2019s sewage, managed by Melbourne Water."
+      ]
+    },
+    {
+      "summary": "Hera spacecraft captured images of the impact site on asteroid Dimorphos, revealing a large crater and unexpected debris.",
+      "significance": "The story provides the first visual confirmation of the impact and effects of the DART asteroid deflection experiment, offering critical insights into asteroid deflection techniques.",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "points": [
+        "DART mission shortened Dimorphos' orbit around Didymos by 33 minutes in September 2022.",
+        "Hera discovered a crater nearly as large as Dimorphos itself, about 500 feet across.",
+        "Hundreds of boulders of varying sizes were found surrounding the asteroids, surprising scientists."
+      ]
+    },
     {
       "summary": "A former Citroën garage in Brussels has been transformed into a contemporary art space after a \u20ac230m renovation.",
       "significance": "The story matters because it illustrates the transformation of urban spaces from automotive to cultural hubs, setting a precedent for repurposing large-scale buildings.",
@@ -3659,89 +3743,6 @@
         "Sally-Anne Bowen, 65, convicted of indecent assaults at a boys\u2019 school in the late 1980s.",
         "Warrant issued for her arrest after she failed to appear at Harrow crown court.",
         "Metropolitan police could not locate her at her Hemel Hempstead home."
-      ]
-    },
-    {
-      "summary": "Researchers demonstrate a language model that can improve its performance by rewriting its own weights without additional training.",
-      "significance": "This story matters because it introduces a method for language models to self-improve by rewriting their own weights, potentially leading to continuous self-upgrading without additional training.",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "points": [
-        "A 27B model improved its accuracy by 6.6 points on unseen problems through self-rewriting.",
-        "The model repaired a damaged copy of itself, restoring over 80% of the original accuracy on image tasks.",
-        "Self-rewriting is scale-dependent, with only the largest models in a family showing the ability to improve and repair."
-      ]
-    },
-    {
-      "summary": "A customer expresses frustration with Framework's hardware and support after a laptop malfunction and poor customer service experience.",
-      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
-      "points": [
-        "Cost of the Framework Laptop 16 was 3000 EUR.",
-        "Support process spanned three months, involving thirty emails and two replacement parts.",
-        "Framework concluded \"No Fault Found,\" blaming the keyboard layout, despite the OS not being installed."
-      ]
-    },
-    {
-      "summary": "T. Buckmaster's work on the Navier\u2013Stokes equations includes a Lean 4 formalization with extensive files and computations.",
-      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "points": [
-        "The Lean package contains about 2,270 files and 600,000 lines.",
-        "A rigorous computation using 128 bits of precision verifies the certificate conditions.",
-        "The package includes a patch from 20 November 2026, adjusting cell-layer statements and library proofs."
-      ]
-    },
-    {
-      "summary": "Mathematician Levent Alpöge claims to have proven the Riemann Hypothesis with AI assistance.",
-      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-      "points": [
-        "Alpöge worked with AI named Claude to prove the Riemann Hypothesis.",
-        "The method also resolves the Generalized Riemann Hypothesis.",
-        "Alpöge believes further work could extend the proof to the Extended Riemann Hypothesis."
-      ]
-    },
-    {
-      "summary": "Russia launched a major missile attack on Ukraine, targeting bridges and railway stations, described as one of the war's most massive strikes.",
-      "significance": "The latest Russian missile strikes on Ukraine, targeting bridges and railway stations, represent one of the most massive attacks of the war, escalating tensions and coinciding with international diplomatic activity.",
-      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "At least nine people were killed in the nationwide assault.",
-        "Strikes targeted key bridges in Kyiv and railway stations.",
-        "Attack came days after Ukraine damaged the strategically important Crimean Bridge."
-      ]
-    },
-    {
-      "summary": "Japan faces pressure from Trump to lift a 76-year-old ban on US potato imports, sparking opposition from local farmers.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
-      "points": [
-        "Demonstrators protested against US potato imports in Tokyo on October 13, 2026.",
-        "Japanese farmers fear imported potatoes could introduce pests like cyst nematodes, threatening 80% of Japan\u2019s potato production.",
-        "The US first requested Japan lift the ban in 2020, and the issue was discussed again in September during a visit to Washington, DC."
-      ]
-    },
-    {
-      "summary": "Measles resurgence leads to loss of measles-free status for the US, Mexico, and Bolivia, causing severe health issues in children.",
-      "url": "https://www.theguardian.com/global-development/2026/nov/20/children-measles-surges-us-mexico-bolivia",
-      "points": [
-        "US, Mexico, and Bolivia lose measles-free status.",
-        "Dr. Eric Wobudeya treats infants in Uganda suffering severe lung and airway complications.",
-        "Measles causes children to struggle for oxygen, indicating severe health impacts."
-      ]
-    },
-    {
-      "summary": "Two police officers were sacked for lying about conducting searches related to a fatal crash in Cardiff.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "PC Richard Hardwick and PC Lauren Livingstone were found guilty of gross misconduct.",
-        "The officers lied about searching the homes of missing persons involved in a crash that killed three.",
-        "The police watchdog deemed their actions \"inexcusable,\" undermining public trust in policing."
-      ]
-    },
-    {
-      "summary": "EU agrees to a 'reset' deal with UK, aiming for a close relationship but ties it to tuition fees for EU students.",
-      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-      "points": [
-        "EU defers decision on tuition fees for EU citizens in UK for another six months.",
-        "PM Burnham claims the deal could add up to 0.5% to UK\u2019s GDP.",
-        "EU makes food and drink deal contingent on agreement on tuition fees, neutralizing UK's leverage."
       ]
     }
   ]
