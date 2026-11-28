@@ -1,6 +1,46 @@
 {
-  "generated": "2026-11-27T23:41:29.628187Z",
+  "generated": "2026-11-28T01:41:45.542334Z",
   "summaries": [
+    {
+      "summary": "Tomoka Nishiyama will become the first woman to compete against men in professional shogi, breaking a 100-year-old barrier.",
+      "significance": "The story highlights a significant gender milestone in shogi, challenging the game's long-standing male dominance and potentially paving the way for more female participation.",
+      "url": "https://www.theguardian.com/world/2026/nov/28/men-dominate-japanese-game-shogi-one-woman-broke-a-100-year-old-barrier-to-rise-to-the-top",
+      "points": [
+        "Tomoka Nishiyama will compete against men starting April.",
+        "Akiko Takojima faced sexism in the 1960s when pursuing elite shogi.",
+        "Women became first professional shogi players decades ago, but remain marginalised."
+      ]
+    },
+    {
+      "summary": "Purse of a woman, swept into the ocean at a California beach three weeks ago, was found on a nearby beach.",
+      "significance": "The discovery of the purse may provide clues in the ongoing search for Se Nah Park, who was swept into the ocean at Panther Beach three weeks ago.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
+      "points": [
+        "Se Nah Park, 24, was swept into the ocean at Panther Beach on November 8.",
+        "Her purse was discovered on 4 Mile Beach by a beachgoer.",
+        "The find coincided with record high king tides on the west coast."
+      ]
+    },
+    {
+      "summary": "Google's DeepCrossAttention (DCA) architecture improves transformer networks, achieving similar model quality up to three times faster.",
+      "significance": "DeepCrossAttention allows models to achieve the same quality up to three times faster with minimal increase in parameters, enhancing transformer network efficiency.",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "points": [
+        "DCA reduces the number of parameters needed by up to 30-40%.",
+        "On LM1B and C4 datasets, DCA achieved lower perplexity than standard transformers.",
+        "DCA can achieve the same performance in up to five times fewer training steps."
+      ]
+    },
+    {
+      "summary": "Datasette-charts 0.4a0 release improves plugin ergonomics and introduces a new website with tutorials and demos.",
+      "significance": "The release of datasette-charts 0.4a0 improves plugin development ergonomics for chart types, aiding developers in creating visualizations more efficiently.",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "points": [
+        "Release addresses friction points in plugin hook design for better chart plugin creation.",
+        "New website at charts.datasette.io includes tutorials and a gallery with interactive demos.",
+        "Plugin hook allows other plugins to define new chart types, enhancing visualization capabilities."
+      ]
+    },
     {
       "summary": "Bernie Sanders argues that extreme wealth concentration is the major problem of our time, threatening democracies globally.",
       "significance": "The article highlights that extreme wealth concentration threatens democracies, according to a global summit.",
@@ -3705,43 +3745,6 @@
         "Javits Frimpong, 15, moved to the US from Ghana a year before his death in October.",
         "Police identified three teenage suspects, with one already charged with murder.",
         "Frimpong had aspirations to become a doctor."
-      ]
-    },
-    {
-      "summary": "Zelensky labels Putin a \"killer\" in response to Trump calling him a friend.",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "points": [
-        "Zelensky stated Putin is a \"killer\" and an enemy to Ukraine.",
-        "Trump mentioned he has a \"great relationship\" with Putin for \"many years.\"",
-        "At least nine people were killed in Russian attacks on Kyiv and railway stations."
-      ]
-    },
-    {
-      "summary": "Kyiv residents remain confident in city infrastructure despite Russian missile attacks on bridges.",
-      "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-      "points": [
-        "Mykola drives his minibus 20 to 24 times daily past holes on Kyiv\u2019s Northern Bridge.",
-        "Only buses are allowed on the damaged Northern Bridge, using one functioning lane.",
-        "Russian ballistic missile attack on Tuesday caused the damage to Kyiv\u2019s bridges."
-      ]
-    },
-    {
-      "summary": "A 17-year-old boy allegedly organized arsons, home invasions, and a kidnapping using Signal during Melbourne's hospitality wars.",
-      "significance": "The story highlights the use of encrypted apps in coordinating criminal activities during Melbourne's hospitality industry conflicts, implicating a teenager as a key organizer.",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-      "points": [
-        "Boy used username \u201cOnepercent\u201d on Signal to communicate with offenders",
-        "Actions included arsons, home invasions, and a kidnapping with a victim's finger partially amputated",
-        "The 17-year-old was arrested on Friday afternoon by Victorian police"
-      ]
-    },
-    {
-      "summary": "Man found guilty of two federal arson charges for sparking deadly wildfire in Los Angeles.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
-      "points": [
-        "Jonathan Rinderknecht, 30, accused of starting the Palisades fire.",
-        "First trial ended in a hung jury; new trial resulted in guilty verdict.",
-        "Prosecutors presented their case to a new jury for two weeks."
       ]
     }
   ]
