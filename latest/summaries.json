@@ -1,6 +1,44 @@
 {
-  "generated": "2026-11-28T03:41:44.083884Z",
+  "generated": "2026-11-28T05:41:59.519100Z",
   "summaries": [
+    {
+      "summary": "Bernard Arnault's children, France's richest family, are reportedly competing to succeed him as head of LVMH.",
+      "significance": "Rivalry among Bernard Arnault's children over leadership of LVMH highlights potential leadership changes in the world's biggest luxury goods empire.",
+      "url": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+      "points": [
+        "Bernard Arnault, 77, leads LVMH, the world\u2019s biggest luxury goods empire.",
+        "Arnault's children, known as 'modern-day French royals', face internal rivalry rumors.",
+        "LVMH owns brands including Louis Vuitton and Tiffany."
+      ]
+    },
+    {
+      "summary": "Experts warn AI labs may have solved complex math problems crucial to encryption, potentially disrupting global security.",
+      "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+      "points": [
+        "Scott Aaronson mentions \"well-attested rumours\" of AI breakthroughs in encryption math.",
+        "Revelations could impact security for banks and government agencies within months.",
+        "The math problems are decades-old and fundamental to how the world encodes secret information."
+      ]
+    },
+    {
+      "summary": "The creator of Balatro reflects on the game's development over nearly three years, documenting key milestones and decisions.",
+      "significance": "The story documents the development journey of Balatro, providing a chronological account to preserve accurate memories of the game's creation.",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "points": [
+        "The project began with 3 weeks of vacation time in December, pivoting from an earlier game idea.",
+        "The game incorporated a unique CHIP X MULT scoring system inspired by videos of a game from Northernlion.",
+        "Development was paused in early March, but resumed later with thoughts of a potential Steam release."
+      ]
+    },
+    {
+      "summary": "The coding data market is booming, with startups making around $100 million annually in data contracts for AI labs.",
+      "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+      "points": [
+        "Multiple startups in the coding data market are generating approximately $100 million per year.",
+        "Engineers design tasks, select initial data, and build verifiers to grade results in data contracts.",
+        "Labs sometimes pay extra for exclusive data that competitors cannot access."
+      ]
+    },
     {
       "summary": "Tanzanian opposition activist Twaha Salim Mwaipaya was allegedly abducted in Kenya, raising concerns over cross-border repression.",
       "significance": "The abduction of Tanzanian opposition activist in Kenya highlights cross-border political repression and threatens the safety of government critics seeking refuge.",
@@ -3707,43 +3745,6 @@
         "Doug Ford, Ontario premier, expressed elation over Trump's rebuke, even joking about doing cartwheels.",
         "Canadian prime minister enjoys significant trust from Canadians, despite underlying concerns.",
         "Criticism of American tariffs has been prominent among Canadian politicians like Doug Ford."
-      ]
-    },
-    {
-      "summary": "Denmark expels Russian diplomat over alleged Russian plot to kill US-Ukrainian rapper Kyivstoner.",
-      "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-      "points": [
-        "Danish foreign minister Lars Løkke Rasmussen announced the expulsion.",
-        "Russian defence attache to be expelled within seven days.",
-        "Plot aimed to kill rapper Kyivstoner before a concert in Denmark."
-      ]
-    },
-    {
-      "summary": "The race to lead Senate Democrats is highlighting a divide over Israel policy between Chuck Schumer and Chris Van Hollen.",
-      "significance": "The race to lead Senate Democrats highlights the party's internal conflict over Israel, affecting its future policy direction and voter alignment.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
-      "points": [
-        "Chuck Schumer, current Democratic minority leader, is a staunch supporter of Israel.",
-        "Chris Van Hollen represents a different vision on US-Israel relations within the party.",
-        "Israel's standing among US voters has become a critical factor in Democratic politics."
-      ]
-    },
-    {
-      "summary": "China aims for rapid low-carbon electrification and supports other nations in achieving similar goals at Cop31.",
-      "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
-      "points": [
-        "China targets 35% of energy from electricity by 2035.",
-        "Wang Yi, a Chinese Academy of Sciences professor, supports electrification.",
-        "China will assist other countries in electrification efforts."
-      ]
-    },
-    {
-      "summary": "New Orleans Catholic clergy abuse survivors start receiving payments from a $305m bankruptcy settlement.",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/new-orleans-catholic-clergy-abuse-settlement",
-      "points": [
-        "$180m distributed to 450 of about 740 survivors so far.",
-        "Settlement fund trustee Don Massey aims to complete payments by year-end.",
-        "Distribution process still awaits forms from hundreds of survivors and lawyers."
       ]
     }
   ]
