@@ -1,6 +1,43 @@
 {
-  "generated": "2026-11-28T01:41:45.542334Z",
+  "generated": "2026-11-28T03:41:44.083884Z",
   "summaries": [
+    {
+      "summary": "Tanzanian opposition activist Twaha Salim Mwaipaya was allegedly abducted in Kenya, raising concerns over cross-border repression.",
+      "significance": "The abduction of Tanzanian opposition activist in Kenya highlights cross-border political repression and threatens the safety of government critics seeking refuge.",
+      "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+      "points": [
+        "Twaha Salim Mwaipaya was forcibly removed from a taxi in Kamulu, Kenya on October 25, 2026.",
+        "Amnesty International and other human rights groups called for an investigation into the enforced disappearance.",
+        "Kenya\u2019s police denied involvement and said investigations were ongoing as of November 23, 2026."
+      ]
+    },
+    {
+      "summary": "New Zealand's election results in a hung parliament, with the new centrist party, Opportunity, holding significant sway.",
+      "url": "https://www.theguardian.com/world/2026/nov/28/could-new-zealand-head-back-to-the-polls-the-new-centrist-party-on-the-block-holds-the-power",
+      "points": [
+        "Opportunity party could decide to support the right-leaning bloc or force another election.",
+        "Results took 20 days to finalize, showing no clear winner."
+      ]
+    },
+    {
+      "summary": "Zelenskyy criticizes Trump for calling Putin a friend and Ukraine deploys a new laser weapon.",
+      "url": "https://www.theguardian.com/world/2026/nov/28/ukraine-war-briefing-zelenskyy-criticises-trump-for-calling-putin-his-friend-kyiv-deploys-new-laser-weapon",
+      "points": [
+        "Zelenskyy compares Putin to Hitler, criticizing Trump's friendship claim.",
+        "Ukraine's laser system successfully intercepts a Russian drone for the first time.",
+        "A Russian convoy bound for Libya turns back after a Ukrainian drone attack."
+      ]
+    },
+    {
+      "summary": "Australia's eastern states face severe storms and flooding as a weather band moves through Queensland, NSW, Victoria, and Tasmania.",
+      "significance": "The story matters as it highlights severe weather impacts affecting eastern Australia, following an unusually wet spring during an El Niño year.",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
+      "points": [
+        "Final weekend of Australia\u2019s wettest spring on record for an El Niño year.",
+        "Severe weather warnings cover Queensland, New South Wales, Victoria, and Tasmania.",
+        "Storms follow a weather band moving from central Queensland through eastern states."
+      ]
+    },
     {
       "summary": "Tomoka Nishiyama will become the first woman to compete against men in professional shogi, breaking a 100-year-old barrier.",
       "significance": "The story highlights a significant gender milestone in shogi, challenging the game's long-standing male dominance and potentially paving the way for more female participation.",
@@ -3707,44 +3744,6 @@
         "$180m distributed to 450 of about 740 survivors so far.",
         "Settlement fund trustee Don Massey aims to complete payments by year-end.",
         "Distribution process still awaits forms from hundreds of survivors and lawyers."
-      ]
-    },
-    {
-      "summary": "A monitor was found to significantly reduce download speeds from 2.5 Gbps to 600 Mbps.",
-      "significance": "The story highlights how a monitor can significantly reduce internet download speeds, affecting users who rely on multi-functional devices for networking.",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "points": [
-        "The issue was caused by the monitor's USB-C hub and the Realtek RTL8156B adapter.",
-        "Enabling flow control increased download speed to around 2 Gbps.",
-        "The monitor's hub increased packet transmission time, leading to buffer overflows and dropped packets."
-      ]
-    },
-    {
-      "summary": "GnuPG announces a critical security bug fix in GPGME version 2.3.1, addressing a vulnerability that could lead to data exfiltration and RCE.",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "points": [
-        "The vulnerability, CVE-2026-129975, was discovered by Johan Carlsson and disclosed on 2026-11-12.",
-        "The bug involves a double free error due to improper buffer management in GPGME functions.",
-        "All software using GPGME versions prior to 2.3.0 is affected, including Gpg4win, GnuPG Desktop, and GnuPG VS-Desktop."
-      ]
-    },
-    {
-      "summary": "Internet Archive workers are launching a union campaign with the Communications Workers of America (CWA).",
-      "url": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
-      "points": [
-        "Workers seek to join CWA Local 9415 in Oakland, California.",
-        "A supermajority of eligible workers signed cards for union representation.",
-        "The union aims to ensure job security, livable wages, and sufficient benefits for long-term sustainability."
-      ]
-    },
-    {
-      "summary": "Funeral held for Javits Frimpong, a 15-year-old New York teen from Ghana who was shot dead while walking to school.",
-      "significance": "The funeral highlights the impact of gun violence on immigrant communities and the loss of potential in young lives.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
-      "points": [
-        "Javits Frimpong, 15, moved to the US from Ghana a year before his death in October.",
-        "Police identified three teenage suspects, with one already charged with murder.",
-        "Frimpong had aspirations to become a doctor."
       ]
     }
   ]
